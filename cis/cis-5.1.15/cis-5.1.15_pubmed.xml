@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2017.05010015</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Enabling Transformative Research: Lessons from the Eastern and Southern Africa Partnership Programme (1999-2015)</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ott</surname>
+                  <given-names>Cordula</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Centre for Development and Environment, University of Bern, Bern, Switzerland</aff>
+         <pub-date pub-type="ppub">
+            <day>27</day>
+            <month>02</month>
+            <year>2017</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue>1</issue>
+         <fpage>15</fpage>
+         <lpage>23</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>World leaders at the 2015 United Nations Sustainable Development Summit in New York have re- confirmed the relevance of sustainability as the guiding paradigm in countering the development and climate crisis of the Anthropocene. Recent decades however, have been characterized by confusion, contestations, and arbitrariness in defining the nature and pathways of sustainable development. Humanity must urgently find ways to unlock the potential of the sustainability paradigm and organize a sustainability transforma- tion. An emerging sustainability science community has already established considerable consensus on essential features of transformative science and research. Sustainability scholars are providing growing evidence that an emancipatory and democratic construction of sustainable development and more equitable, deliberative, and democratized knowledge generation are pivotal in tackling sustainability challenges. These findings are further underpinned by experiences gained in the Eastern and Southern Africa Partnership Programme (1999–2015)—a rare case of a long-term, transnational, and transdisciplinary research en- deavour already completed. The programme fulfilled the dual role which is compulsory in transformative research: It generated contextualized knowledge and innovation at the science–society interface while simultaneously securing meaningful participation and Southern agency in a co-evolutionary process. This paper offers insight into the programme’s adaptive structure and implementation processes, which fostered deliberation, capacity development, and joint programme navigation benchmarked against local needs and broader sustainability demands. The ESAPP experience confirms that, if taken as the overarching frame of reference for all actors involved, the sustainability paradigm unfolds its integrative and transformative power. It enables sustainability-oriented actors from all scientific and practical fields to seek consilience between differing development and innovation paradigms and synchronize their development agendas and research frameworks on behalf of societal co-production of knowledge and innovation. Accordingly, the sustainability paradigm has the power to guide development and innovation policy, and practice out of the current confusion and ineffectiveness.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>capacity development</kwd>
+            <kwd>deliberation</kwd>
+            <kwd>equity</kwd>
+            <kwd>innovation</kwd>
+            <kwd>knowledge</kwd>
+            <kwd>partnerships</kwd>
+            <kwd>research</kwd>
+            <kwd>sustainability science</kwd>
+            <kwd>sustainable development</kwd>
+            <kwd>transformation</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <sec id="s1.1">
+            <title>1.1.- Confusion and Arbitrariness in the Understanding of Sustainable Development</title>
+            <p>At the 2015 United Nations Sustainable Development Summit in New York, world leaders responded to alarming scientific evidence showing that we humans are interfering with the Earth system at a scale and magnitude that threatens our own survival. With the adoption of the <italic>2030 Agenda for Sustainable Development and its 17 Sustainable Development Goals</italic> (SDGs), they reconfirmed the primacy of sustainability as the guiding development paradigm (UN, 2015). Framed in the so-called “Brundtland Report” [<xref ref-type="bibr" rid="R01">1</xref>] and endorsed at the 1992 Earth Summit in Rio, the sustainability paradigm is not novel; and looking back, it has fallen short of expectations in various ways. Nevertheless it continues to be the official global response to the development and climate crisis of the Anthropocene. But—and this is confirmed by the renewed global commitment—science and society must urgently find ways to unlock its potential and organize a sustainability transformation [<xref ref-type="bibr" rid="R02">2</xref>].</p>
+            <p>The Post-Brundtland world is characterized by confusion, contestations, and arbitrariness in identifying the nature and pathways of sustainable development [<xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R05">5</xref>]. The implications of the sustainability paradigm as an antithesis to the paradigm of growth and transfer are not easy to capture. Although our understanding of development intervention and global governance has fundamentally changed [<xref ref-type="bibr" rid="R06">6</xref>, <xref ref-type="bibr" rid="R07">7</xref>, <xref ref-type="bibr" rid="R08">8</xref>], the normativity and the transformative power of sustainability have reached buzzword status [<xref ref-type="bibr" rid="R09">9</xref>]. At the same time, unorthodox scholars across diverse fields in science, technology, and development, have observed narrow, exploitative, and often destructive use of promising post-Rio development concepts such as innovation [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>], gender mainstreaming [<xref ref-type="bibr" rid="R12">12</xref>], livelihoods [<xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>], justice [<xref ref-type="bibr" rid="R15">15</xref>], or transformation [<xref ref-type="bibr" rid="R16">16</xref>], to mention just a few. Scholars argue that systemic thinking, equity-based science-society interaction, and reflexive learning – which are all indispensable in generating knowledge and innovation for sustainable development—continue to be marginalized, confined to single sectors, and used to serve vested interests [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>]. Despite progress on the integration of civil society in global environmental assessments and negotiations, power disparities and self-interest are hampering action and creating new tensions, disparities, and bargaining between the global North and South [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>]. While economic bias gets much of the attention in the debate, sustainability scholars also criticize frequent environmental bias at the expense of human and social issues [<xref ref-type="bibr" rid="R04">4</xref>], and social bias. The latter prevailed in the Millennium Development Goals, for example [<xref ref-type="bibr" rid="R24">24</xref>]. Spangenberg ([<xref ref-type="bibr" rid="R18">18</xref>] p. 277) points out a damaging “trend towards a further fragmentation of research concerning the substance of sustainability”. Skoglund and Jensen ([<xref ref-type="bibr" rid="R22">22</xref>] p. 124) provide a striking example of how climate policy is misguided; they refer to Chandler (2012), who showed “how different policies and non-governmental organizations rely on the `adaptation agenda' to suggest survival strategies for the poor: thus attempting to align the marginalized with `vulnerability to climate change', instead of addressing the broader economic and social factors that gave rise to their marginalized position”. Such examples illustrate how concrete efforts and successes fade in an amalgam of overlapping and often contradictory approaches and discourses ranging from mainstream sustainability to green radicalism [<xref ref-type="bibr" rid="R25">25</xref>], or from weak sustainability to more radical constructions of strong sustainability [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>]. As a consequence, the pre-Brundtland paradigm of growth, with its “loading-dock approach” [<xref ref-type="bibr" rid="R28">28</xref>] of transferring scientific and technological solutions to decision-makers, is persisting [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. To break its dominance and unlock transformative potentials, sustainability advocates have begun to reclaim the emancipatory power inherent in the original conceptualizations of development in their respective disciplines and practical domains. Taking systems approaches, they strive for epistemological and practical grounding as well as for further clarification of the interfaces between diverse development concepts (see, for example, [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>]).</p>
+            <p>This leads to the approach I take in this paper. My overarching question is: How can science contribute to a sustainability transformation? More specifically, I reflect on various aspects that are essential in organizing transformative research. I argue that an emancipatory and democratic construction of sustainable development is pivotal in tackling sustainability challenges. An emerging sustainability science is providing growing evidence of this fact. I further underpin my argument with experiences gained in the <italic>Eastern and Southern Africa Partnership Programme</italic>—a rare case of a long-term transdisciplinary research endeavour already completed. With my contribution, I intend to confirm that, if taken as the principal frame of reference, sustainable development is suited to integrate the efforts of sustainability-oriented scholars and practitioners across different profiles. It provides orientation in synchronizing development agendas and frameworks towards societal co-production of knowledge and innovation. Accordingly, the sustainability paradigm has the power to guide development and innovation policy and practice out of the current confusion and ineffectiveness.
+</p>
+         </sec>
+         <sec id="s1.2">
+            <title>1.2.- An Emancipatory Construction of Sustainable Development</title>
+            <p>Fortunately, we can build on promising achievements in transformative research. A multitude of reviews and syntheses show how an emerging sustainability science community is establishing considerable consensus on the sustainability paradigm's epistemological and practical implications for science and research (see, for example, [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R35">35</xref>]). With a view to promoting equity-based, just development within the planetary boundaries, scholars are working to identify enabling institutional contexts and developing transdisciplinary research frameworks and procedures across scientific disciplines and at the interfaces between science and society, as well as between science and policy [<xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. They conceive of sustainability as a societal future forming process [<xref ref-type="bibr" rid="R05">5</xref>], as it “emerges as a horizon to be approached but never reached” ([<xref ref-type="bibr" rid="R42">42</xref>] p. 992). Accordingly, transdisciplinary theory and practice must accommodate pluralism and experimentation. But, as Waas and colleagues ([<xref ref-type="bibr" rid="R04">4</xref>] p. 1645) point out, this future forming process has to be benchmarked against the “precise and unambiguous meaning” of the original conceptualization of sustainable development. They identify four fundamental principles—normativity, equity, integration, and dynamism—that “represent the interpretational limits of the concept and are essential to sustainability no matter which view and interpretation is employed” ([<xref ref-type="bibr" rid="R04">4</xref>] p. 1657). Such (and analogous) principles respond to the complexity and adaptiveness of human–environment systems—which are the subject under consideration [<xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R43">43</xref>]—and provide orientation for societal future forming processes and “research in a world of flux” ([<xref ref-type="bibr" rid="R05">5</xref>] p. 11). Ethical and equity concerns further underpin sustainable development as an emancipatory and transformative concept and open the floor for contesting existing power structures and decision-making processes [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R44">44</xref>]. Not only natural resources but also social capital and knowledge must be distributed equally [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>]. This requires us to rethink our understanding of knowledge and expertise, and to revise our traditional role and (self-)conception as researchers [<xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>]. Normative, democratic and procedural principles are at the core of transdisciplinary practice, in which scholars attempt to link science and civil society in joint reflexive or learning processes [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. Building on such critical reflection, sustainability scholars are bringing together long-standing participatory, democratic, and social movements' traditions and structuring research along new, deliberate forms of science–society interaction [<xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R53">53</xref>, <xref ref-type="bibr" rid="R54">54</xref>]. In a deliberative democracy, or indeed in any deliberative system, actors participate in a communicative process and influence collective decisions [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R55">55</xref>]. If we understand a research framework or programme as a deliberative system, its deliberative capacity—“the extent to which a political system possesses structures to host deliberation that is authentic, inclusive, and consequential” [<xref ref-type="bibr" rid="R51">51</xref>]—gains utmost importance. But the deliberative capacity of individuals and institutions involved must likewise be secured for their equal and meaningful inclusion in future forming processes.  As well as putting equity and power issues to the fore, this undergirds the strategic goal framed by the United Nations Educational, Scientific and Cultural Organization to develop knowledge societies by democratizing knowledge and knowledge generation [<xref ref-type="bibr" rid="R56">56</xref>]. Indeed, progress in the democratization of knowledge has been observed [<xref ref-type="bibr" rid="R57">57</xref>], and sustainability science is making headway. But transdisciplinarity is a relatively young field, and experiences of long-term transdisciplinary practice at a transnational, regional scale are particularly rare.</p>
+            <p>In the following, I will present the <italic>Eastern and Southern Africa Partnership Programme</italic> (ESAPP) as a research endeavour that is well-suited to help fill this gap. Running from 1999 to 2015, the programme brought together partners from Switzerland, Kenya, Ethiopia, Tanzania, Madagascar, Mozambique, and Eritrea in conducting long-term transdisciplinary research for sustainable land management and sustainable regional development. Two final publications provide substantial insights into this experience. Ehrensperger and colleagues present ESAPP's research and outcomes [<xref ref-type="bibr" rid="R58">58</xref>], while Ott and Kiteme [<xref ref-type="bibr" rid="R59">59</xref>] provide more in-depth reflections on the implementation, adaptation, and learning processes that took place within ESAPP. Taking up the arguments outlined above, I present programme features that proved to be supportive in strengthening deliberative capacity, equity-based knowledge generation, and institutional development for coherent local to global governance. I further discuss specific challenges that arose during the implementation of this transdisciplinary and transnational research programme as well as in securing its legacy.</p>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- Cornerstones of Transformative Research in the Eastern and Southern Africa Partnership Programme</title>
+         <sec id="s2.1">
+            <title>2.1.- An Enabling Institutional Context</title>
+            <p>When ESAPP was framed in the late 1990s, both public involvement and sustainability science were in their infancy. Ott and Kiteme [<xref ref-type="bibr" rid="R58">58</xref>] show how three contextual developments at the interface between science and policymaking had prepared the ground for ESAPP's unique and innovative programme design: First, decades of research collaborations and networking between Switzerland and countries in Eastern Africa had established trust and fruitful interaction between scientists, funding organizations, as well as governmental and non-governmental actors and institutions of the countries involved. This led to the launching of an integrative research programme that matched the scientific and political landscape of Eastern Africa. Second, since 1988, ESAPP's mother institution, the University of Bern's <italic>Centre for Development and Environment </italic>(CDE), had been mandated by the <italic>Swiss Agency for Development and Cooperation</italic> (SDC) to help prepare Switzerland's position on the 1992 Rio conventions and translate them into poverty alleviation policy and practice. Already in the 1990s, CDE had come up with integrative, participatory concepts and tools designed to support human agency, science–society interaction, and social learning [<xref ref-type="bibr" rid="R59">59</xref>]. Third, the programme designers could build on long-standing activities of a loose network of sustainability-oriented scholars and practitioners in Switzerland. In 1997, representatives from CDE and the Swiss Academy of Sciences and its <italic>Commission for Research Partnerships with Developing Countries</italic> (KFPE) drafted the KFPE's 11 Principles and 7 Questions as a guide for transdisciplinary and transnational research partnerships for sustainable development [<xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R60">60</xref>]. The KFPE guide is heavily equity-oriented and reflects state-of-the-art sustainability science even today. It underpins the choice of sustainable development, partnership, and transdisciplinarity as ESAPP's core foundations. The well-established collaboration between scientists, practitioners, and policymakers enabled SDC as the funding institution to give ESAPP's architects considerable leeway; at the same time, SDC was represented on ESAPP's advisory board—the programme's steering committee—from the outset. Such long-standing and trustful collaboration between researchers, funding organisations, and research users in the North and South, must be considered a precondition for transformative research [<xref ref-type="bibr" rid="R58">58</xref>].</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Emancipatory Foundations: Sustainable Development, Transdisciplinarity, and Partnership</title>
+            <p>ESAPP was launched in 1999 with the mission of generating new knowledge and innovation for sustainable development on local to regional levels. The programme was aimed at mitigating sustainability challenges by making knowledge generation more democratic and accessible, increasing Southern ownership and agency, producing innovative research results, and promoting evidence-based, South-driven sustainable rural development. Transdisciplinarity as the second epistemological pillar of ESAPP was understood as an integrative approach that brings together scientific (disciplinary and interdisciplinary) and non-scientific (endogenous, indigenous, cultural, local, etc.) knowledge systems; academic, social, and political actors and institutions; and different places and scales [<xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R61">61</xref>]. This approach would guide science and society through research and learning processes in which they needed to jointly produce three types of knowledge: systems knowledge, which delineates the sustainability problem to be addressed and the associated subsystem or context (“What is?”); target knowledge, which encompasses negotiated values and goals for a shared vision of a sustainable future (“What ought to be?”); and transformation knowledge, which describes the path to follow in order to achieve a sustainable future (“How do we get there?”) [<xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R60">60</xref>]. In such an understanding, knowledge and innovation for sustainable development are necessarily an outcome of joint learning processes that involve all societal actors. Accordingly, ESAPP framed research for sustainable development as what Gergen [<xref ref-type="bibr" rid="R05">5</xref>] has called a future forming practice. The programme constituted itself as a communicative space [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R62">62</xref>] embedded in an open framework of research partnerships. ESAPP's developers further acknowledged that partnership as a third epistemological pillar required special attention. In North–South research partnerships, disparities with regard to power, knowledge, and resources often constrain balanced exchange and cooperation, as the research is generally financed, initiated, managed, and evaluated by Northern institutions [<xref ref-type="bibr" rid="R63">63</xref>]. In a network as complex as ESAPP's, this calls for efforts to expand deliberative capacity, for a devolution of power, and for ensuring accountability and legitimacy towards both funding organizations and partners within and beyond the research network [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R39">39</xref>]. It requires management strategies and organizational structures that promote Southern partners' determination, competence, and ownership with respect to the formulation of pathways to sustainable development [<xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R56">56</xref>]. And this, in turn, calls for pragmatism [<xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R64">64</xref>]. Pursuing equity as a structural goal within ESAPP was both fundamental and innovative.</p>
+            <p>Another central conceptual element in ESAPP was its thematic and spatial concentration. In line with CDE’s core competence, ESAPP focused on contextualized knowledge about sustainable land management and sustainable regional development and promoted local and regional initiatives through transdisciplinary research. Knowledge has to be generated and processed together with local actors to be robustly coupled to human-environment-system dynamics in a specific context [<xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R64">64</xref>, <xref ref-type="bibr" rid="R65">65</xref>]. In the African context, a vast majority of people depend on direct access to renewable natural resources, while competing claims and short-term needs at various scales tend to override environmental concerns, aggravate poverty, and inhibit economic development [<xref ref-type="bibr" rid="R66">66</xref>]. The result is a dwindling resource base, which often goes unnoticed for a long time. The programme’s stewardship of the environment does not constitute a case of the environmental bias observed by Waas and colleagues [<xref ref-type="bibr" rid="R04">4</xref>]; it is a necessity. After many decades of neglect, rural areas and the livelihoods of small-scale resource users are now being reappraised based on the recognition that global governance approaches, adaptation and mitigation strategies must build on knowledge of local conditions to be effective [<xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R67">67</xref>].</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Adaptive Research Structures</title>
+            <p>ESAPP’s designers were well aware that the programme's transdisciplinary and transnational research framework opened up a door to many new challenges. One of these challenges is the dual role of scientists doing transformative research: they must work to provide evidence while simultaneously expanding human and institutional capacity for sustainable development by means of education and training, collaborative research and learning processes, as well as knowledge brokering activities and products [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R53">53</xref>, <xref ref-type="bibr" rid="R63">63</xref>]. How then should inter- and transdisciplinary research be (re-)organized and structured? A sophisticated research framework is provided by the Earth System Governance Project, which organizes research around five analytical problems: architecture, agency, adaptiveness, accountability, and allocation &amp; access. At the same time power, knowledge, norms, and scale are regarded as crosscutting research themes that are crucial to the study of each analytical problem and also to an integrated understanding of earth system governance. Related thematic issues are embedded in flagship activities [<xref ref-type="bibr" rid="R37">37</xref>]. This research framework outlines, in a very useful way, the basic challenge of coherently integrating facts and values in a transdisciplinary research programme [<xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R47">47</xref>]. In ESAPP, conceptual and operational challenges or necessary trade-offs at the science–policy interface were addressed by combining the open partnership and research framework with recursive and (self-)reflexive processes that the project partners steered jointly [<xref ref-type="bibr" rid="R39">39</xref>]. Three structural approaches provided the necessary guidance (see also [<xref ref-type="bibr" rid="R58">58</xref>]):</p>
+            <list list-type="order">
+               <list-item>
+                  <p>
+                     <italic>An adaptive management approach that integrates actors' agency</italic>: Adaptive management corresponds well with a recursive and reflexive research design. Widely accepted today, adaptive management of a research programme was innovative at the turn of the millennium. ESAPP’s adaptive management approach was intended to provide the necessary basic stability in the institutional fabric while allowing for goals, institutional structures, and research procedures to be reshaped in the course of the programme’s implementation. It offered space for integrating feedback and research results into management decisions and securing meaningful participation and institutional development.</p>
+               </list-item>
+               <list-item>
+                  <p>
+                     <italic>A dual-structure approach that harmonizes concepts and action</italic>: In development contexts, short-term priorities often override long-term sustainability imperatives. This may result in a one-sided focus on either basic research or action research, or in the latter being viewed as a mere add-on to business-as-usual science. To accommodate both need-driven and concept-driven concerns, ESAPP linked action research with basic research and capacity development. The two components were intended to interact, reinforce each other, and eventually reshape the programme. ESAPP’s action research component comprised over 300 small-grant priority action projects formulated by local partners alone or in collaboration with ESAPP researchers. The basic research and capacity development component mainly served to provide support and secure programme coherence, consistency, and effectiveness through reflection, learning, and adaptation.</p>
+               </list-item>
+               <list-item>
+                  <p>
+                     <italic>A contextuality approach that links places and scales</italic>: At its outset, ESAPP was mandated to build on contextualized knowledge, databases, capacities and partner networks created by CDE's predecessor programmes in Africa; to further develop their transdisciplinary character; and to make them available for decision-making support and further research. Knowledge and data for sustainable land management and sustainable regional development that are contextualized—embedded in a specific time, place, and scale—are currently high on the global development agenda. Building and consolidating bottom-up databases and linking them with regional or global observatories is critical to enhancing coherence and consistency in governance approaches from local to global levels. In addition, it is a key asset for developing countries in formulating self-determined and just national development strategies and in interacting with global development institutions [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R64">64</xref>].</p>
+               </list-item>
+            </list>
+            <p>Being at once consistent, integrative, and flexible, ESAPP's three structural approaches secured an institutional arrangement that was ideally suited for enhancing deliberative capacity, learning, and institutional development. In what follows, I will provide some insight into how indeed, they fostered equity and inclusion, the co-production of contextualized knowledge, and the development of people's and institutions' capacities, in the South and North (see also [<xref ref-type="bibr" rid="R58">58</xref>]).</p>
+         </sec>
+         <sec id="s2.4">
+            <title>2.4.- Joint Programme Navigation for Sustainable Development</title>
+            <p>As argued above, in order to support a sustainability transformation, scientists need to strengthen the deliberative capacity of research— understood as a political system—by means of adequate structures and procedures. Adequacy in this context means that they are in line with the fundamental normative, democratic and procedural principles of sustainable development. It is in collaborative and reflexive processes that partners in research share and integrate values, norms, and perceptions, tackle dissent, and create a “common culture”. This shifts the focus from research outcomes to the processes of social knowledge generation; to experimentation, learning, and constant change under an adaptive governance approach [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R53">53</xref>, <xref ref-type="bibr" rid="R62">62</xref>]. The “communicative space”—actual or virtual meeting places—and the deliberate and consequential quality of exchange become a subject of analysis: Where do researchers, partners, and actors interact, and what exactly are they doing there? But first of all, people need to be brought together. For the ESAPP as a transnational research programme, this was not only a logistical problem. Organizing joint processes among partners with different cultural backgrounds and varying institutional strength requires time, resources, and mutual trust. Over the years, ESAPP partners successfully organized an iterative process of reflection and adaptation within routine modes and places of exchange. The following elements and milestones of partners' interaction were crucial to this success:</p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>
+                     <italic>Institutionalizing joint programme steering</italic>: Like many endeavours in the field of research for development, ESAPP was North-funded and hence North-driven at its inception. The advisory board—the programme's steering body—was composed by representatives of SDC as the funding institution, of CDE, and of related Swiss institutions. Southern partners were not represented until 2011. But early assessments emphasized the need for strengthening Southern partners' capacity and ownership to increase equity and ensure research coherence, relevance, and quality for the benefit of the South. Eventually, in 2006, partners initiated annual one-week capitalization workshops in the South to overcome geographic distance, foster communication, and exchange on a regular base. The workshops immediately became the cornerstone of joint programme management. Here, ESAPP partners met for data and method sharing, deliberation and self-evaluation, strategic reorientation, and a field excursion. Here, they applied and further developed ESAPP's management tools, settled conflictive issues, and made necessary changes in the programme's organizational structure and research design.</p>
+               </list-item>
+               <list-item>
+                  <p>
+                     <italic>Developing adequate management tools and procedures</italic>: Of necessity and custom, at the outset of the programme, criteria for selecting research projects, as well as monitoring and evaluation mechanisms mainly reflected goals and indicators valued in the North. In the course of time, partners jointly identified new forms of process benchmarking: They developed an appropriate monitoring and evaluation system that combined reflexive elements (self-evaluation, feedback loops) with simple and easy-to-understand standard formats (project documents, catalogues of criteria, target matrices/log frames, statistical evaluations, etc.) and standard procedures (advisory board meetings, project-cycle steps, external evaluations, etc.). Being fairly consistent, lean, and procedural, ESAPP's monitoring and evaluation system served as a navigation tool [<xref ref-type="bibr" rid="R45">45</xref>].</p>
+               </list-item>
+               <list-item>
+                  <p><italic>Scaling research results up and out</italic>: Given the high pressure for quick and effective interventions in rural development contexts, ESAPP was confronted with high numbers of priority action project proposals. To secure ESAPP's mission and scope, the partners established a process of clustering and sequencing thematically related projects. A preselection of projects was done by the coordinators in the respective partner countries. In the annual capitalization workshops, projects were further discussed, evaluated, and related to one another. Eventually, this led to the creation of thematic partnerships between countries which promoted the scaling up and out of results within the whole region. Finally, ESAPP consolidated its research in ten reference sites characterized by context-specific priorities within the region. This procedural thematic concentration made it possible to use research results of more than 300 priority action projects as evidence in an “ongoing process of evaluation, learning, adaptation and adoption” ([<xref ref-type="bibr" rid="R62">62</xref>] p. 492).</p>
+               </list-item>
+               <list-item>
+                  <p>
+                     <italic>Consolidating and leveraging ESAPP's knowledge and database</italic>: Partners jointly upgraded and made available a comprehensive long-term database that includes geo-referenced long-term measurements and observations of natural resources that  links ecological and socio-economic quantitative and qualitative knowledge at local, national, and regional levels. It is a key asset for research and policymaking in Eastern Africa and the backbone of ESAPP's Southern network. At the same time, the database is a major tool for education and capacity development beyond the programme's lifetime that led to the generation of local knowledge platforms and institutions. The knowledge database also includes a set of transdisciplinary tools. Tools that combine analytical and communicative elements—that is, tools that merge empirical research with participatory assessments and social learning—proved especially successful.</p>
+               </list-item>
+               <list-item>
+                  <p>
+                     <italic>Consolidating and leveraging ESAPP's network of partners</italic>: In the implementation and learning processes of ESAPP, partners jointly consolidated initially broad and loose networks. Southern institutions gradually became more equal partners within the programme. Partner institutions were not equally strong in all countries—indicating a need for better integration—but in some countries they were able to initiate new strategic collaborations and networks. The ESAPP network also includes hundreds of government officials, experts, and researchers that participated in ESAPP training courses, especially in those organized by the Centre for Training and Integrated Research in Arid and Semi-Arid Lands Development (CETRAD, Kenya). CETRAD itself is a major outcome of research collaboration between Switzerland and Kenya. The Water and Land Resource Centre (WLRC) in Ethiopia is another example. But many other institutions, down to the village level, grew out of ESAPP research activities.</p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Challenges and Outlook</title>
+         <p>A sustainability transformation requires novel research frameworks and programme structures that accommodate processual and democratic features such as normativity, equity, integration, dynamism, inclusiveness, accountability, legitimacy, deliberation, and others [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R37">37</xref>]. The Eastern and Southern Africa Partnership Programme, ESAPP, was as an early transdisciplinary research endeavour that successfully endorsed inclusive, authentic, and consequential deliberation and joint programme navigation balancing local needs and sustainability demands. The programme thus fulfilled the dual role which is compulsory in transformative research: It generated contextualized knowledge and innovation at the science–society interface while at the same time securing meaningful participation and Southern agency in a co-evolutionary process [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R68">68</xref>]. But despite ESAPP’s widely acknowledged success, the programme’s final assessments list major shortcomings [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>]. For example, research in the complex transnational and transcultural context of ESAPP was constrained considerably by standard planning and budget frameworks, which generally do not favour experimental procedures and equity approaches. Insufficient human and institutional capacities, a lack of ownership among the funding and collaborating institutions, and weak South–South engagement were other limiting factors. The jointly developed monitoring and evaluation system for guiding both action research projects and institutional development remained insufficiently coherent. Managing a comprehensive database and relating it to existing regional environmental databases and global observatories proved too ambitious and challenging for a research programme as small as ESAPP. In some countries, the number of action research projects was too small to enable meaningful clustering and scaling up of results. The programme's success in strengthening the Southern network and equitable South–South exchange was limited by differences in political and institutional backgrounds and by national interests overriding collaborative efforts. Although promising ways of tackling stumbling blocks and trade-offs at the interfaces between science, society, and policy are well-described [<xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R47">47</xref>] and were included in ESAPP's design, the programme's implementation was continuously contested by partners within and beyond the programme. Here, the sustainability paradigm unfolded its integrative and transformative power and helped to focus collaborative processes within the programme. Taken as a superordinate system of reference that is valid for all actors involved, it implied, and guided equity-based and democratic processes of research, learning, and innovation. A basic characteristic was that actors jointly identified research needs and approaches, and that they jointly assessed, evaluated, and reused evidence and innovations.</p>
+         <p>Such reflexive and recursive processes are well-suited for integrating different development and innovation paradigms in a fruitful way, particularly the dominant <italic>innovation paradigm that takes science as its frame of reference</italic>—that is, where scientists and researchers provide and transfer the “right” knowledge and solutions to decision-makers—and the fairly widespread <italic>innovation paradigm that builds on interaction between science and society</italic>. Both paradigms have proved to be insufficient in themselves, but they can nonetheless be an important part of solutions for sustainable development. In ESAPP's final report [<xref ref-type="bibr" rid="R57">57</xref>], partners provide many examples. But an important lesson learned during ESAPP is that the sustainability paradigm goes beyond the innovation paradigm building on science–society interaction. Born in the spirit of the 1980s, this innovation paradigm holds that scientists and civil society should communicate to improve the efficiency and effectiveness of development measures, enable evidence-based decision-making, and ensure an ethically sound application of knowledge. But this paradigm causes misunderstandings, resistance, and conflicts because actors in science, governmental and non-governmental institutions, business, and communities relate to different systems of reference. The concept of science–society interaction remains vague; criteria and measures of evidence and success depend on the different actors' negotiation power; and power disparities increase the commodification and economic evaluation of research [<xref ref-type="bibr" rid="R49">49</xref>]. By contrast, an innovation paradigm that takes sustainable development as its overarching emancipatory frame of reference—as applied in ESAPP—opens ways out of the confusion that characterizes the post-Brundtland world. It replaces unspecific interaction between science and society by integrating actors, knowledge, and value systems in joint learning processes, and supports the fundamentally novel understanding of knowledge and innovation applied in sustainability science. It enables sustainability-oriented actors from all scientific and practical fields to seek consilience [<xref ref-type="bibr" rid="R34">34</xref>], and synchronize their development agendas and research frameworks on behalf of societal co-production of knowledge and innovation.</p>
+         <p>But transdisciplinary practice is inherently complex, resource-consuming, and often fails. We must bear in mind that in the complexity of future forming processes, or “research in a world of flux” ([<xref ref-type="bibr" rid="R05">5</xref>] p. 11), achievements – but also shortcomings—are always preliminary, procedural, and gradual. Nevertheless, transformative science is a necessary counterculture to today's technocratic focus on evidence and outputs. It requires long-term commitments, collaborations and partnerships, as well as strong leadership by visionary actors in science and practice. In light of ESAPP's experience, researchers, policymakers, and funding institutions would do well to conceive of North–South research partnerships as a long-term, co-evolutional process between countries and world regions. As Garud and Geman ([<xref ref-type="bibr" rid="R41">41</xref>] p. 992) put it, “(…) the challenge for policy, strategy and research is not just a matter of becoming sustainable, but of sustaining the ability to embark on such journeys on an ongoing basis”. If this journey ends when a programme is completed, the translation of transdisciplinarity into governance processes and institutions in partner countries in the global South will not endure.</p>
+      </sec>
+      <sec id="s4">
+         <title>Acknowledgements</title>
+         <p>This paper presents the author’s personal view. It was partially presented at a number of international sustainability fora, including the 2014 <italic>Norwich Conference on Earth System Governance: Access and Allocation in the Anthropocene</italic>, held on July 1–3, 2014 in Norwich, UK; the <italic>Ethics of Poverty Alleviation Conference</italic>, held on August 28–29, 2014 at the Centre for Ethics and Poverty Research, University of Salzburg, Austria; the 2015 Annual Conference of the European Forum on Studies of Policies for Research and Innovation (Eu-SPRI), on <italic>Innovation Policies for Economic and Social Transitions: Developing Strategies for Knowledge, Practices and Organizations</italic>, held on June 10–12, 2015 in Helsinki, Finland; and the 2015 <italic>Canberra Conference on Earth System Governance: Democracy and Resilience in the Anthropocene</italic>, held on December 14–16, 2015 in Canberra, Australia. I gratefully acknowledge the support of the Centre for Development and Environment (CDE) and all partners in the Eastern and Southern Africa Partnership Programme (ESAPP) and the valuable comments made by anonymous peer reviewers.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Our Common Future: The Report of the World Commission on Environment and Development</source>
+               <publisher-name>Oxford University Press</publisher-name>
+               <year>1987</year>
+               <publisher-loc>Oxford, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Back to Our Common Future: Sustainable Development in the 21st century (SD21) project, Summary for policymakers</source>
+               <publisher-name>United Nations Department for Economic and Social Affairs (UN-DESA)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2006</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>57</volume>
+               <issue>2</issue>
+               <fpage>253</fpage>
+               <lpage>268</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chris Sneddon</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richard B. Howarth</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richard B. Norgaard</surname>
+                  </name>
+               </person-group>
+               <article-title>Sustainable development in a post-Brundtland world</article-title>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>MDPI AG</publisher-name>
+               <volume>3</volume>
+               <issue>12</issue>
+               <fpage>1637</fpage>
+               <lpage>1661</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tom Waas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jean Hug\'e</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aviel Verbruggen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tarah Wright</surname>
+                  </name>
+               </person-group>
+               <article-title>Sustainable Development: A Bird's Eye View</article-title>
+               <source>Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>45</volume>
+               <issue>3</issue>
+               <fpage>287</fpage>
+               <lpage>310</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kenneth J. Gergen</surname>
+                  </name>
+               </person-group>
+               <article-title>From Mirroring to World-Making: Research as Future Forming</article-title>
+               <source>Journal for the Theory of Social Behaviour</source>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kates</surname>
+                     <given-names>Robert W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clark</surname>
+                     <given-names>William C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Corell</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>J. Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jaeger</surname>
+                     <given-names>Carlo C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lowe</surname>
+                     <given-names>Ian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McCarthy</surname>
+                     <given-names>James J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schellnhuber</surname>
+                     <given-names>Hans Joachim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bolin</surname>
+                     <given-names>Bert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dickson</surname>
+                     <given-names>Nancy M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faucheux</surname>
+                     <given-names>Sylvie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gallopin</surname>
+                     <given-names>Gilberto C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Grübler</surname>
+                     <given-names>Arnulf</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huntley</surname>
+                     <given-names>Brian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jäger</surname>
+                     <given-names>Jill</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jodha</surname>
+                     <given-names>Narpat S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kasperson</surname>
+                     <given-names>Roger E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mabogunje</surname>
+                     <given-names>Akin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Matson</surname>
+                     <given-names>Pamela</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mooney</surname>
+                     <given-names>Harold</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Berrien</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O\textquoterightRiordan, Timothy</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Svedin</surname>
+                     <given-names>Uno</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainability Science</article-title>
+               <volume>292</volume>
+               <issue>5517</issue>
+               <fpage>641</fpage>
+               <lpage>642</lpage>
+               <year>2001</year>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+               <issn>0036-8075</issn>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>World in Transition—A Social Contract for Sustainability</source>
+               <publisher-name>German Advisory Council on Global Change (WBGU)</publisher-name>
+               <year>2011</year>
+               <comment>Flagship Report</comment>
+               <publisher-loc>Berlin, Germany</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.wbgu.de/en/flagship-reports/fr-2011-a-social-contract/"
+                         xlink:type="simple">http://www.wbgu.de/en/flagship-reports/fr-2011-a-social-contract/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>335</volume>
+               <issue>6074</issue>
+               <fpage>1306</fpage>
+               <lpage>1307</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>F. Biermann</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>K. Abbott</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Andresen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>K. Backstrand</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Bernstein</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>M. M. Betsill</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H. Bulkeley</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>B. Cashore</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Clapp</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Folke</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Gupta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Gupta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. M. Haas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Jordan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>N. Kanie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>T. Kluvankova-Oravska</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>L. Lebel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>D. Liverman</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Meadowcroft</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. B. Mitchell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. Newell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Oberthur</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>L. Olsson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. Pattberg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. Sanchez-Rodriguez</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H. Schroeder</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Underdal</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. C. Vieira</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Vogel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>O. R. Young</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Brock</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. Zondervan</surname>
+                  </name>
+               </person-group>
+               <article-title>Navigating the Anthropocene: Improving Earth System Governance</article-title>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>60</fpage>
+               <lpage>66</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David Santillo</surname>
+                  </name>
+               </person-group>
+               <article-title>Reclaiming the Definition of Sustainability</article-title>
+               <source>Environmental Science and Pollution Research - International</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lundvall</surname>
+                     <given-names>BA</given-names>
+                  </name>
+               </person-group>
+               <article-title>The origins of the national innovation system concept and its usefulness in the era of the globalizing economy</article-title>
+               <source>13th Globelics Conference</source>
+               <year>23-26 September 2015</year>
+               <conf-loc>Havana, Cuba</conf-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.globelicsacademy.net/Lundvall_NSI-origins%20and%20globalisation.pdf"
+                         xlink:type="simple">http://www.globelicsacademy.net/Lundvall_NSI-origins%20and%20globalisation.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Benneworth</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Amanatidou</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Edwards Schachter</surname>
+                  </name>
+               </person-group>
+               <source>Social innovation futures: Beyond policy panacea and conceptual ambiguity</source>
+               <publisher-name>University of Oslo</publisher-name>
+               <publisher-loc>Oslo, Norway</publisher-loc>
+               <year>2015</year>
+               <comment>TIK Working Paper No. 20150127</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ideas.repec.org/p/tik/inowpp/20150127.html"
+                         xlink:type="simple">https://ideas.repec.org/p/tik/inowpp/20150127.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brody</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <source>Gender and Governance</source>
+               <publisher-name>Institute of Development Studies, University of Sussex</publisher-name>
+               <year>2009</year>
+                                
+               <comment>Overview report</comment>
+               <publisher-loc>Brighton, UK</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bridge.ids.ac.uk/reports/Governance_OR_final.pdf"
+                         xlink:type="simple">http://www.bridge.ids.ac.uk/reports/Governance_OR_final.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>36</volume>
+               <issue>1</issue>
+               <fpage>171</fpage>
+               <lpage>196</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ian Scoones</surname>
+                  </name>
+               </person-group>
+               <article-title>Livelihoods perspectives and rural development</article-title>
+               <source>The Journal of Peasant Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ott</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ifejika Speranza</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U and Hurni, H</given-names>
+                  </name>
+               </person-group>
+               <source>Research for Sustainable Development: Foundations, Experiences, and Perspectives. Perspectives of the Swiss National Centre of Competence in Research (NCCR) North-South</source>
+               <chapter-title>A human actor model as a conceptual orientation in interdisciplinary research for sustainable development</chapter-title>
+               <publisher-name>Geographica Bernensia</publisher-name>
+               <year>2011</year>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+               <fpage>231</fpage>
+               <lpage>256</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>5</volume>
+               <issue>3</issue>
+               <fpage>359</fpage>
+               <lpage>374</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David Schlosberg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lisette B. Collins</surname>
+                  </name>
+               </person-group>
+               <article-title>From environmental to climate justice: climate change and the discourse of environmental justice</article-title>
+               <source>Wiley Interdisciplinary Reviews: Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Patterson</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schulz</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vervoort</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Adler</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hurlbert</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Hel, S</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schmidt</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barau</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Obani</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sethi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hissen</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tebboth</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anderton</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Börner</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Widerberg</surname>
+                     <given-names>O</given-names>
+                  </name>
+               </person-group>
+               <source>`Transformations towards sustainability': Emerging approaches, critical reflections, and a research agenda</source>
+               <publisher-name>Lund University</publisher-name>
+               <year>2015</year>
+               <comment>Earth System Governance Working Paper No. 33</comment>
+               <publisher-loc>Lund, Sweden</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2000</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>1</volume>
+               <issue>2</issue>
+               <fpage>247</fpage>
+               <lpage>268</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Werner Ulrich</surname>
+                  </name>
+               </person-group>
+               <article-title>Reflective Practice in the Civil Society: The contribution of critically systemic thinking</article-title>
+               <source>Reflective Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>38</volume>
+               <issue>03</issue>
+               <fpage>275</fpage>
+               <lpage>287</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Spangenberg</surname>
+                     <given-names>JH</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainability science: A review, an analysis and some empirical lessons</article-title>
+               <source>Environmental Conservation</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Harding</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Moving South and East: Epistemic Modernization for global Northern philosophies of science</article-title>
+               <source>Global Knowledge, Traveling Technologies and Postcolonialism, Perspectives on Science and Technology Studies in the Global South</source>
+               <fpage>1</fpage>
+               <lpage>41</lpage>
+               <year>19-20 July 2012</year>
+               <conf-loc>Halle, Germany</conf-loc>
+               <conf-name>Max Planck Institute for Social Anthropology</conf-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>35</volume>
+               <issue>2</issue>
+               <fpage>279</fpage>
+               <lpage>296</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Diana M. Liverman</surname>
+                  </name>
+               </person-group>
+               <article-title>Conventions of climate change: Constructions of danger and the dispossession of the atmosphere</article-title>
+               <source>Journal of Historical Geography</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>18</volume>
+               <issue>3</issue>
+               <fpage>243</fpage>
+               <lpage>252</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jon Naustdalslid</surname>
+                  </name>
+               </person-group>
+               <article-title>Climate change \textendash the challenge of translating scientific knowledge into action</article-title>
+               <source>International Journal of Sustainable Development &amp; World Ecology</source>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>21</volume>
+               <issue>2</issue>
+               <fpage>122</fpage>
+               <lpage>130</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Annika Skoglund</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tommy Jensen</surname>
+                  </name>
+               </person-group>
+               <article-title>The Professionalization of Ethics in the Intergovernmental Panel on Climate Change (IPCC)—from Servant of Science to Ethical Master?</article-title>
+               <source>Sustainable Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>26</volume>
+               <fpage>1</fpage>
+               <fpage>3</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Heike Schroeder</surname>
+                  </name>
+               </person-group>
+               <article-title>Governing access and allocation in the Anthropocene</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hurni</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U and Hurni, H</given-names>
+                  </name>
+               </person-group>
+               <source>Research for Sustainable Development: Foundations, Experiences, and Perspectives. Perspectives of the Swiss National Centre of Competence in Research (NCCR) North-South</source>
+               <chapter-title>Global change research for sustainable development</chapter-title>
+               <publisher-name>Geographica Bernensia</publisher-name>
+               <year>2011</year>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+               <fpage>15</fpage>
+               <lpage>42</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>70</volume>
+               <issue>11</issue>
+               <fpage>1865</fpage>
+               <lpage>1874</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>John S. Dryzek</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hayley Stevenson</surname>
+                  </name>
+               </person-group>
+               <article-title>Global democracy and earth system governance</article-title>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2005</year>
+               <publisher-name>Inderscience Publishers</publisher-name>
+               <volume>1</volume>
+               <issue>1/2</issue>
+               <fpage>127</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Delyse Springett</surname>
+                  </name>
+               </person-group>
+               <article-title>Structural limits to sustainable development: managers and progressive agency</article-title>
+               <source>International Journal Innovation and Sustainable Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <publisher-loc>Cheltenham, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tom Dedeurwaerdere</surname>
+                  </name>
+               </person-group>
+               <source>Sustainability Science for Strong Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2006</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>31</volume>
+               <issue>4</issue>
+               <fpage>465</fpage>
+               <lpage>494</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>D. W. Cash</surname>
+                  </name>
+               </person-group>
+               <article-title>Countering the Loading-Dock Approach to Linking Science and Decision Making: Comparative Analysis of El Nino/Southern Oscillation (ENSO) Forecasting Systems</article-title>
+               <source>Science, Technology &amp; Human Values</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>40</volume>
+               <fpage>16</fpage>
+               <lpage>25</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pita Spruijt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anne B. Knol</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eleftheria Vasileiadou</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jeroen Devilee</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Erik Lebret</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Arthur C. Petersen</surname>
+                  </name>
+               </person-group>
+               <article-title>Roles of scientists as policy advisers on complex issues: A literature review</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Springer Science $\mathplus$ Business Media</publisher-name>
+               <volume>11</volume>
+               <issue>2</issue>
+               <fpage>363</fpage>
+               <lpage>369</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Janet G. Hering</surname>
+                  </name>
+               </person-group>
+               <article-title>Do we need \textquotedblleftmore research\textquotedblright or better implementation through knowledge brokering?</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>19</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <lpage>13</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Eva Lövbrand</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johannes Stripple</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bo Wiman</surname>
+                  </name>
+               </person-group>
+               <article-title>Earth System Governmentality</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>43</volume>
+               <issue>8</issue>
+               <fpage>853</fpage>
+               <lpage>867</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>N.D. van Egmond</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H.J.M. de Vries</surname>
+                  </name>
+               </person-group>
+               <article-title>Sustainability: The search for the integral worldview</article-title>
+               <source>Futures</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>28</volume>
+               <fpage>71</fpage>
+               <lpage>81</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>J. David T\`abara</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ilan Chabay</surname>
+                  </name>
+               </person-group>
+               <article-title>Coupling Human Information and Knowledge Systems with social\textendashecological systems change: Reframing research, education, and policy for sustainability</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>2</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Joshua Farley</surname>
+                  </name>
+               </person-group>
+               <article-title>Seeking Consilience for Sustainability Science: Physical Sciences, Life Sciences, and the New Economics</article-title>
+               <source>Challenges in Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2008</year>
+               <publisher-name>Springer</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Gertrude Hirsch Hadorn and Holger Hoffmann-Riem and Susette Biber-Klemm and Walter Grossenbacher-Mansuy and Dominique Joye and Christian Pohl and Urs Wiesmann and Elisabeth Zemp</surname>
+                  </name>
+               </person-group>
+               <source>Handbook of Transdisciplinary Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>39</volume>
+               <issue>7</issue>
+               <fpage>807</fpage>
+               <lpage>826</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sybille van den Hove</surname>
+                  </name>
+               </person-group>
+               <article-title>A rationale for science\textendashpolicy interfaces</article-title>
+               <source>Futures</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Biermann</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Betsill</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gupta</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kanie</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lebel</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liverman</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schroeder</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Siebenhüner</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <source>Earth System Governance: People, Places and the Planet. Science and Implementation Plan of the Earth System Governance Project</source>
+               <publisher-name>Lund University</publisher-name>
+               <year>2009</year>
+               <comment>Earth System Governance Report 1</comment>
+               <publisher-loc>Lund, Sweden</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>W. Neil Adger and Andrew Jordan</surname>
+                  </name>
+               </person-group>
+               <source>Governing Sustainability</source>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jäger</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>The governance of science for sustainability</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hurni</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ott</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zingerli</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U and Hurni, H</given-names>
+                  </name>
+               </person-group>
+               <source>Research for Sustainable Development: Foundations, Experiences, and Perspectives. Perspectives of the Swiss National Centre of Competence in Research (NCCR) North-South</source>
+               <chapter-title>Combining the concepts of transdisciplinarity and partnership in research for sustainable development</chapter-title>
+               <publisher-name>Geographica Bernensia</publisher-name>
+               <year>2011</year>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+               <fpage>43</fpage>
+               <lpage>70</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>65</volume>
+               <fpage>72</fpage>
+               <lpage>85</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andreas Kläy</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anne B. Zimmermann</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Flurina Schneider</surname>
+                  </name>
+               </person-group>
+               <article-title>Rethinking science for sustainable development: Reflexive interaction for a paradigm transformation</article-title>
+               <source>Futures</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>41</volume>
+               <issue>6</issue>
+               <fpage>980</fpage>
+               <lpage>995</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raghu Garud</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Joel Gehman</surname>
+                  </name>
+               </person-group>
+               <article-title>Metatheoretical perspectives on sustainability journeys: Evolutionary, relational and durational</article-title>
+               <source>Research Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Resilience Alliance, Inc.</publisher-name>
+               <volume>19</volume>
+               <issue>4</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Per Olsson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Victor Galaz</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiebren J. Boonstra</surname>
+                  </name>
+               </person-group>
+               <article-title>Sustainability transformations: a resilience perspective</article-title>
+               <source>Ecology and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Sustainability and equity: A better future for all</source>
+               <publisher-name>United Nations Development Programme—Human Development Reports</publisher-name>
+               <year>2011</year>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>A Guide for Transboundary Research Partnerships, 11 Principles and 7 Questions</source>
+               <publisher-name>Swiss Commission for Research Partnerships with Developing Countries (KFPE)</publisher-name>
+               <year>2014</year>
+               <comment>2 ed</comment>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.naturalsciences.ch/uuid/564b67b9-c39d-5184-9a94-e0b129244761"
+                         xlink:type="simple">http://www.naturalsciences.ch/uuid/564b67b9-c39d-5184-9a94-e0b129244761</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Research and Education: Drivers of Transformation</source>
+               <publisher-name>German Advisory Council on Global Change (WBGU)</publisher-name>
+               <year>2012</year>
+               <comment>Factsheet 4</comment>
+               <publisher-loc>Berlin, Germany</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>41</volume>
+               <fpage>10</fpage>
+               <lpage>20</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rodrigo Arocena</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bo Göransson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Judith Sutz</surname>
+                  </name>
+               </person-group>
+               <article-title>Knowledge policies and universities in developing countries: Inclusive development and the \textquotedblleftdevelopmental university\textquotedblright</article-title>
+               <source>Technology in Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>54</volume>
+               <fpage>505</fpage>
+               <lpage>512</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Simo Sarkki</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rob Tinch</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jari Niemelä</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ulrich Heink</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kerry Waylen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johannes Timaeus</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Juliette Young</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Allan Watt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carsten Ne\sshöver</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sybille van den Hove</surname>
+                  </name>
+               </person-group>
+               <article-title>Adding `iterativity' to the credibility, relevance, legitimacy: A novel scheme to highlight dynamic aspects of science\textendashpolicy interfaces</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hirsch</surname>
+                     <given-names>Hadorn G</given-names>
+                  </name>
+               </person-group>
+               <source>Principles for Designing Transdisciplinary Research—Proposed by the Swiss Academies of Arts and Sciences</source>
+               <publisher-name>Oekom Verlag</publisher-name>
+               <year>2007</year>
+               <publisher-loc>Munich, Germany</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>The Policy Press</publisher-name>
+               <volume>11</volume>
+               <issue>2</issue>
+               <fpage>225</fpage>
+               <lpage>237</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jon Warren</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kayleigh Garthwaite</surname>
+                  </name>
+               </person-group>
+               <article-title>Whose side are we on and for whom do we write? Notes on issues and challenges facing those researching and evaluating public policy</article-title>
+               <source>Evidence &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>42</volume>
+               <issue>11</issue>
+               <fpage>1379</fpage>
+               <lpage>1402</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>J. S. Dryzek</surname>
+                  </name>
+               </person-group>
+               <article-title>Democratization as Deliberative Capacity Building</article-title>
+               <source>Comparative Political Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>MDPI AG</publisher-name>
+               <volume>3</volume>
+               <issue>12</issue>
+               <fpage>1090</fpage>
+               <lpage>1113</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Paul Stock</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rob J.F. Burton</surname>
+                  </name>
+               </person-group>
+               <article-title>Defining Terms for Integrated (Multi-Inter-Trans-Disciplinary) Sustainability Research</article-title>
+               <source>Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <month>oct</month>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>81</fpage>
+               <lpage>93</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gabriela Wuelser</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christian Pohl</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gertrude Hirsch Hadorn</surname>
+                  </name>
+               </person-group>
+               <article-title>Structuring complexity for tailoring research contributions to sustainable development: A framework</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>28</volume>
+               <fpage>60</fpage>
+               <lpage>70</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sarah Cornell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frans Berkhout</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Willemijn Tuinstra</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. David T\`abara</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jill Jäger</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ilan Chabay</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bert de Wit</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richard Langlais</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>David Mills</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peter Moll</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ilona M. Otto</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Arthur Petersen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christian Pohl</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lorrae van Kerkhoff</surname>
+                  </name>
+               </person-group>
+               <article-title>Opening up knowledge systems for better responses to global environmental change</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>28</volume>
+               <issue>3</issue>
+               <fpage>173</fpage>
+               <lpage>184</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Carolyn M. Hendriks</surname>
+                  </name>
+               </person-group>
+               <article-title>Deliberative governance in the context of power</article-title>
+               <source>Policy and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Toward Knowledge Societies</source>
+               <publisher-name>United Nations Educational, Scientific and Cultural Organization (UNESCO)</publisher-name>
+               <year>2005</year>
+               <comment>World Report</comment>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Knowledge Divides</source>
+               <publisher-name>United Nations Educational, Scientific and Cultural Organization (UNESCO)</publisher-name>
+               <year>2010</year>
+               <comment>World Social Science Report</comment>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Ehrensperger</surname>
+                     <given-names>A and Ott, C and Wiesmann, U</given-names>
+                  </name>
+               </person-group>
+               <source>Eastern and Southern Africa Partnership Programme: Highlights from 15 Years of Joint Action for Sustainable Development</source>
+               <publisher-name>Centre for Development and Environment (CDE) and Bern Open Publishing (BOP)</publisher-name>
+               <year>2015</year>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2016</year>
+               <publisher-name>The Policy Press</publisher-name>
+               <volume>12</volume>
+               <issue>3</issue>
+               <fpage>405</fpage>
+               <lpage>430</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cordula Ott</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boniface Kiteme</surname>
+                  </name>
+               </person-group>
+               <article-title>Concepts and practices for the democratisation of knowledge generation in research partnerships for sustainable development</article-title>
+               <source>Evidence &amp; Policy: A Journal of Research, Debate and Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiesmann</surname>
+                     <given-names>U</given-names>
+                  </name>
+               </person-group>
+               <source>Sustainable Regional Development in Rural Africa: Conceptual Framework and Case Studies from Kenya</source>
+               <publisher-name>Geographica Bernensia</publisher-name>
+               <year>1998</year>
+               <issue>African Studies 14</issue>
+               <publisher-loc>Bern, Switzerland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Research on Sustainability and Global Change: Visions in Science Policy by Swiss Researchers</article-title>
+               <year>1997</year>
+               <conf-loc>Bern, Switzerland</conf-loc>
+               <conf-name>Forum for Climate and Global Change (ProClim)</conf-name>
+               <publisher-name>Swiss Academy of Sciences (SAS)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2008</year>
+               <publisher-name>Springer</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Kerkhoff, L</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bammer</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hirsch</surname>
+                     <given-names>Hadorn G</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Gertrude Hirsch Hadorn and Holger Hoffmann-Riem and Susette Biber-Klemm and Walter Grossenbacher-Mansuy and Dominique Joye and Christian Pohl and Urs Wiesmann and Elisabeth Zemp</surname>
+                  </name>
+               </person-group>
+               <source>Handbook of Transdisciplinary Research</source>
+               <fpage>411</fpage>
+               <lpage>424</lpage>
+               <chapter-title>Integration</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>The Policy Press</publisher-name>
+               <volume>10</volume>
+               <issue>4</issue>
+               <fpage>489</fpage>
+               <lpage>495</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kathryn Higgins</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>John Canavan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liam Coen</surname>
+                  </name>
+               </person-group>
+               <article-title>Mapping the field in evidence-informed policy and practice: international perspectives</article-title>
+               <source>Evidence &amp; Policy: A Journal of Research, Debate and Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>The Policy Press</publisher-name>
+               <article-title>A theory of change for capacity building for the use of research evidence by decision makers in southern Africa</article-title>
+               <source>Evidence &amp; Policy: A Journal of Research, Debate and Practice</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stewart</surname>
+                     <given-names>R </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>21</volume>
+               <issue>8</issue>
+               <fpage>939</fpage>
+               <lpage>955</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>J.M. Wittmayer</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>F. van Steenbergen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Rok</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Roorda</surname>
+                  </name>
+               </person-group>
+               <article-title>Governing sustainability: A dialogue between Local Agenda 21 and transition management</article-title>
+               <source>Local Environment</source>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>29</volume>
+               <issue>1</issue>
+               <fpage>68</fpage>
+               <lpage>87</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tobias Haller</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Greg Acciaioli</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stephan Rist</surname>
+                  </name>
+               </person-group>
+               <article-title>Constitutionality: Conditions for Crafting Local Ownership of Institution-Building Processes</article-title>
+               <source>Society &amp; Natural Resources</source>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>6</volume>
+               <issue>5</issue>
+               <fpage>455</fpage>
+               <lpage>466</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bengt-\AAke Lundvall</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rasmus Lema</surname>
+                  </name>
+               </person-group>
+               <article-title>Growth and structural change in Africa: development strategies for the learning economy</article-title>
+               <source>African Journal of Science, Technology, Innovation and Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>The Rio Conventions. Action on Adaptation</source>
+               <publisher-name>UNCBD, UNCCD and UNFCCC</publisher-name>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.unccd.int/Lists/SiteDocumentLibrary/Publications/rio_20_adaptation_brochure.pdf"
+                         xlink:type="simple">http://www.unccd.int/Lists/SiteDocumentLibrary/Publications/rio_20_adaptation_brochure.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>78</fpage>
+               <lpage>91</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ren\'e Kemp</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Derk Loorbach</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jan Rotmans</surname>
+                  </name>
+               </person-group>
+               <article-title>Transition management as a model for managing processes of co-evolution towards sustainable development</article-title>
+               <source>International Journal of Sustainable Development &amp; World Ecology</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

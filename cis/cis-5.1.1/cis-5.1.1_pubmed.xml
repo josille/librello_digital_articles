@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2017.05010001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Editorial</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Taskforce on Conceptual Foundations of Earth System Governance: Sustainability Science</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ness</surname>
+                  <given-names>Barry</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Zondervan</surname>
+                  <given-names>Ruben</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Centre for Sustainability Studies, Lund University</aff>
+         <aff id="A3">
+            <label>2</label>Earth System Governance Project, Lund University</aff>
+         <pub-date pub-type="ppub">
+            <day>07</day>
+            <month>02</month>
+            <year>2017</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue>1</issue>
+         <fpage>cis-5.1.1</fpage>
+         <lpage>cis-5.1.1</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>We are pleased to introduce the second special issue from Challenges in Sustainability, this time as a part of the Taskforce on Conceptual Foundations of Earth System Governance, an initiative by the Earth System Governance Project (ESG) (http://www.earthsystemgovernance.net/conceptual-foundations/). The ESG Project is a global research alliance. It is the largest social science research network in the field of governance and global environmental change. ESG is primarily a scientific effort but is also designed to assist policy responses to pressing problems of earth system transformation.</p>
+         </abstract>
+      </article-meta>
+   </front>
+   <body/>
+   <back/>
+</article>
