@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2015.01010038</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>100% Organic Poultry Feed: Can Algae Replace Soybean Expeller in Organic Broiler Diets?</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Gerrard</surname>
+                  <given-names>Catherine</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Smith</surname>
+                  <given-names>Jo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nelder</surname>
+                  <given-names>Rebecca</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bright</surname>
+                  <given-names>Ashleigh</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Colley</surname>
+                  <given-names>Mike</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Clements</surname>
+                  <given-names>Ruth</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Pearce</surname>
+                  <given-names>Bruce</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>The Organic Research Centre&#xD;
+Elm Farm&#xD;
+Hamstead Marshall, UK</aff>
+         <aff id="A3">
+            <label>2</label>FAI Farms&#xD;
+The John Krebbs Field Station&#xD;
+Wytham, Oxford, UK</aff>
+         <pub-date pub-type="ppub">
+            <day>07</day>
+            <month>05</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>1</issue>
+         <fpage>38</fpage>
+         <lpage>45</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Current EU regulations allow 5% of feed for organic poultry to come from non-organic production. This is due to concerns about a 100% organic diet meeting the requirements for specific amino acids such as methionine. This exception is due to end on 31st December 2017. While this may match consumer expectations, protein sourced from global organic production may have a negative impact on perceptions of organic poultry in other ways. Soybean is a commonly used ingredient in poultry feed but soybean production has negative environmental and social impacts. Consumers may also prefer organic poultry to have been fed on locally produced feed and, indeed, this would be in line with organic principles. Preliminary feasibility feed trials were carried out during a summer and a winter season using organic broilers in the UK to test three 100% organic feeds: a control diet with globally sourced ingredients including soybean expeller, a diet based on locally sourced (i.e. within Europe) organic ingredients, and a diet based on locally sourced organic ingredients and algae (a good source of methionine). The results of the summer feed trial showed that there were no significant differences in broiler weight gains. In the winter feed trial differences were found. There was a significant difference (P = 0.034) in weight gain between the local feed (lower weight gain) and the local feed with algae but no significant difference between the control diet with soybean and the two local diets. These preliminary feed trials indicate that there is no significant impact on broiler performance or animal welfare parameters when replacing soybean with European protein sources, possibly including algae, suggesting that, although the research is still at a very early stage, such feeds may be a viable option for 100% organic poultry feed in the future.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>algae</kwd>
+            <kwd>broiler</kwd>
+            <kwd>feed</kwd>
+            <kwd>organic</kwd>
+            <kwd>poultry</kwd>
+            <kwd>soya</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Current regulations for organic pig and poultry production systems (Council Regulation (EC) No. 834/2007, [<xref ref-type="bibr" rid="R01">1</xref>]) have a derogation that permits up to 5% of the feed to be from non-organic sources. This exception is due to end on 31<inline-formula>
+               <mml:math id="S3.p1.m1" display="inline" overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>s</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>t</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> December 2017.</p>
+         <p>The 5% non-organic feed ingredients have been allowed primarily due to concerns that a 100% organic diet would be unable to meet the monogastric nutritional requirements for essential amino acids. The essential amino acids for poultry are methionine, cysteine, lysine, threonine, and tryptophan and these must be fed directly as the birds cannot synthesise them from other food constituents [<xref ref-type="bibr" rid="R02">2</xref>]. Fast feathering with good feather cover is important for organic poultry as it helps to protect them from the elements when outdoors, and the main amino acids associated with synthesis of feather keratin are cysteine and methionine [<xref ref-type="bibr" rid="R03">3</xref>]. Synthetic amino acids are not permitted in organic poultry feeds and therefore the amino acid requirements must be satisfied by the ingredients within the feed provided.</p>
+         <p>In a recent review of EU organic regulations [<xref ref-type="bibr" rid="R04">4</xref>], interviewed experts expressed concerns as to whether a 100% organic diet would be able to meet these high-protein requirements, especially for high performance breeds. They felt that the non-organic feed was required to meet the methionine and lysine requirements and stated that the majority of pig and poultry producers relied on the derogation.</p>
+         <p>However, studies of organic consumers [<xref ref-type="bibr" rid="R05">5</xref>] have shown that they have indicated a preference for organic husbandry due to its use of natural/healthy feed and they may feel that poultry which are fed up to 5% non-organic ingredients do not match this perception. On the other hand, consumers prefer locally grown organic produce to foreign goods [<xref ref-type="bibr" rid="R06">6</xref>] and have been known to choose local, conventional produce over organic produce [<xref ref-type="bibr" rid="R07">7</xref>, <xref ref-type="bibr" rid="R08">8</xref>]. Thus, if globally produced feed sources are needed to meet the 100% organic poultry feed requirement then this may have a negative effect on consumer perceptions. It would also appear to be contrary to organic principles which suggest that local or regional production should be preferred [<xref ref-type="bibr" rid="R04">4</xref>].</p>
+         <p>The most obvious and commonly used vegetable protein feed source (soybean) is not widely grown in Europe due to climatic conditions. Additionally, there are many environmental, genetic modification and social concerns about using soybean imported from South America [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>], China and India, and more acceptable alternatives are required. It has been shown that some European protein sources like lupin (<italic>Lupinus albus</italic>, <italic>L. luteus</italic>, <italic>L. angustifolius</italic>) [<xref ref-type="bibr" rid="R12">12</xref>] and naked oats (<italic>Avena nuda</italic>) [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>] (mainly produced in northern Europe) can partly cover the nutrient requirements for laying hens [<xref ref-type="bibr" rid="R12">12</xref>], although anti-nutritional factors could have an impact.</p>
+         <p>Other implications of 100% organic poultry feed are likely to be higher feed costs due to the higher cost of organic protein [<xref ref-type="bibr" rid="R04">4</xref>] and the possibility that higher amounts of overall protein will need to be fed to meet the methionine requirements [<xref ref-type="bibr" rid="R04">4</xref>] which, as well as impacting on cost, will have an impact on nitrogen excretion, leading to higher greenhouse gas emissions.</p>
+         <p>There is therefore a need for investigation into European feeds for poultry, perhaps using novel protein sources. There is a need, through performance trials, to evaluate the impact of the feed on growth and productivity.</p>
+         <p>In this study, the impact of locally (i.e. European) sourced 100% organic feed on broiler performance and welfare was investigated. The definition of “local” used in this study was within the UK wherever possible and otherwise from within Europe. Three 100% organic feeds were compared in preliminary feasibility trials: a control diet with globally sourced ingredients including soybean expeller, a diet based on locally sourced (i.e. within Europe) organic ingredients, and a diet based on locally sourced organic ingredients and algae. The amino acid profile of algae compares favourably with that of most food proteins including soybean [<xref ref-type="bibr" rid="R15">15</xref>]. This suggests that algae may make a good substitute for soybean in poultry rations with regards to maintaining a desirable amino acid profile within the feed.</p>
+         <p>This paper reports on preliminary feed trials carried out in summer 2012 and winter 2013 comparing the performance of broilers fed the three diets described above, in terms of weight gain, feed conversion ratio, breast feather coverage and hock lesion scores. It also discusses in more detail the environmental and social issues concerning soybean production.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Material and Methods</title>
+         <sec id="s2.1">
+            <title>2.1.- Animals and Housing</title>
+            <p>Preliminary feed trials to test the feasibility of the diets were carried out at FAI Farms Ltd., Oxford, UK. The first was carried out over the summer period (July–August 2012) and the second over winter (January–February 2013). The houses each contained twelve 3.2 m<inline-formula>
+                  <mml:math id="S4.SS1.p1.m1" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> pens with access to grassland paddocks. Four pens were fed each of the three diets. The bedding used was chopped straw mixed with woodchip. The pens contained Plasson Bell drinkers and standard tube and pan feeders. Prior to the start of the trial, the chicks were fed an organic chick starter feed and were reared in one batch indoors for four weeks. The birds (Hubbard JA 757 broilers) were assigned to pens at random.</p>
+            <p>For the summer feed trial the birds were housed in two houses positioned side by side. Each pen contained 10 or 11 birds, thus the indoor stocking rates were approximately 0.32 m<inline-formula>
+                  <mml:math id="S4.SS1.p2.m1" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> per bird. In each house, pens 1, 4, 7 and 10 were fed the local feed diet; pens 2, 5, 8 and 11 were fed the control diet; and pens 3, 6, 9 and 12 were fed the local feed with algae diet. Thus, the feed pens were distributed evenly throughout the houses.</p>
+            <p>For the winter feed trial, due to the colder weather conditions, it was necessary to double the amount of birds in the house to ensure that the birds were able to keep warm. Thus only one house was used in the winter trial. Twenty birds were placed in each pen, giving an indoor stocking density of 0.16 m<inline-formula>
+                  <mml:math id="S4.SS1.p3.m1" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> per bird. Similarly to the summer trial, pens 1, 4, 7, and 10 were fed the local diet with algae; pens 2, 5, 8, and 11 were fed the local diet; and pens 3, 6, 9 and 12 were fed the control diet.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Diets</title>
+            <p>The three diets tested were: a standard 100% organic poultry feed currently available in the UK (control) and including soybean expeller in its ingredients, a locally (European)-sourced 100% organic poultry feed and a locally (European) sourced 100% organic poultry feed incorporating algae (<italic>Spirulina spp.</italic>; Table <xref ref-type="table" rid="Tab1">1</xref>).</p>
+            <p>Only the control feed contained soybean expeller but all three feeds contained soybean oil. In additional the local feeds (but not the control) also contained rape seed expeller and flax expeller. Table <xref ref-type="table" rid="Tab1">1</xref> shows the ingredients and nutritional information for all three feeds in greater detail. There were slight differences in the ingredients for the three feeds between the summer and winter feed trials due to differing availability of ingredients but the feed manufacturer endeavoured to keep the nutrient contents as similar as possible between the two seasons. The local feeds make use of sweet lupins and beans as a protein source and the local feed with algae also includes algae for protein. The algae used in the feed trials were produced by Merlin Biodevelopments Ltd. (North Wales) using a hydroponic system based on the waste-derived fertiliser from anaerobic digestion. A slurry was produced, freeze-dried and sent to the feed mill for inclusion in a standard pellet form. The diets were provided by Hi Peak Feeds [<xref ref-type="bibr" rid="R16">16</xref>] and were fed as 3 mm pellets.</p>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>
+                    Table 1</label>
+               <caption>
+                  <title>Diet ingredients and calculated nutrient contents including amino acid profiles (data provided by Hi Peak feeds [<xref ref-type="bibr" rid="R16">16</xref>]).</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="center" colspan="6" style="" rowspan="1">Fresh weight percentage (%)</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" colspan="2" style="" rowspan="1">Control</td>
+                        <td align="center" colspan="2" style="" rowspan="1">Local feed</td>
+                        <td align="center" colspan="2" style="" rowspan="1">Local feed with algae</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Winter</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Winter</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Winter</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Wheat</td>
+                        <td align="right" style="" rowspan="1" colspan="1">56.91</td>
+                        <td align="right" style="" rowspan="1" colspan="1">53.43</td>
+                        <td align="right" style="" rowspan="1" colspan="1">30.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">19.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">30.01</td>
+                        <td align="right" style="" rowspan="1" colspan="1">23.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Soybean Expeller</td>
+                        <td align="right" style="" rowspan="1" colspan="1">22.24</td>
+                        <td align="right" style="" rowspan="1" colspan="1">18.85</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Sunflower Expeller</td>
+                        <td align="right" style="" rowspan="1" colspan="1">9.78</td>
+                        <td align="right" style="" rowspan="1" colspan="1">8.49</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">19.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">6.61</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.84</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Maize</td>
+                        <td align="right" style="" rowspan="1" colspan="1">5.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">8.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">21.32</td>
+                        <td align="right" style="" rowspan="1" colspan="1">26.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">21.86</td>
+                        <td align="right" style="" rowspan="1" colspan="1">28.99</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Rape Seed Expeller</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">14.82</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">15.00</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Flax Expeller</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">2.25</td>
+                        <td align="right" style="" rowspan="1" colspan="1">5.91</td>
+                        <td align="right" style="" rowspan="1" colspan="1">3.53</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Sweet Lupins</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">5.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">14.35</td>
+                        <td align="right" style="" rowspan="1" colspan="1">7.68</td>
+                        <td align="right" style="" rowspan="1" colspan="1">10.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">15.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Beans</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">15.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">5.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">10.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Algae</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">3.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">5.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Rice Protein</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.15</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.15</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Soybean Oil</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.01</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.16</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.35</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.86</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.49</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.41</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Di Cal Phosphate</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.45</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.45</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.46</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.62</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.55</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.88</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Vitamins and Minerals</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.75</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Calcium Carbonate</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.71</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.72</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.20</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.18</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.20</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.13</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Px Lucerne Concentrate</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="right" style="" rowspan="1" colspan="1">0.5</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1.25</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="7" style="border:t;" rowspan="1">Nutritional Information</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">Crude Protein</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">20.15</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">20.09</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">19.50</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">19.27</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">19.54</td>
+                        <td align="right" style="border:t;" rowspan="1" colspan="1">19.34</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Lysine</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.95</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.95</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.85</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.85</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.88</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.88</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Methionine Eq</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.38</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.38</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.37</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.37</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.40</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.39</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Methionine</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.33</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.33</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.32</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.32</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.35</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.34</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Meth. + Cys.</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.68</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.70</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.70</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.66</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.71</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.69</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Tryptophan</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.23</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.23</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.21</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.23</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.20</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.18</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Threonine</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.70</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.72</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.74</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.72</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.77</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.74</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Av Lysine</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.85</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.82</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.66</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.73</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.64</td>
+                        <td align="right" style="" rowspan="1" colspan="1">0.58</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Metabolisable Energy (MJ kg<inline-formula>
+                              <mml:math id="S4.T1.m1" display="inline" overflow="scroll">
+                                 <mml:msup>
+                                    <mml:mi/>
+                                    <mml:mrow>
+                                       <mml:mo>-</mml:mo>
+                                       <mml:mn>1</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:math>
+                           </inline-formula>)</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.65</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.65</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.20</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.00</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.30</td>
+                        <td align="right" style="" rowspan="1" colspan="1">12.00</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Growth Performance and Feed Conversion Ratio</title>
+            <p>The weights were recorded on a weekly basis, sampling 50% of the birds from each pen. The weight recording for the summer started when the chicks were 43 days old (week 1) and continued until the birds were at marketable weight (64 days old) (week 4). The trial feeds were used from 36 days old onwards (i.e. once the birds had transitioned from chick starter feed to broiler feed). The weight recording for the winter started at age 47 days (week 1) and continued until the birds were at marketable weight (68 days) (week 4). The trial feeds were used from 43 days old onwards. The birds in both the winter and summer trials were weighed after 11 am to allow for stabilisation of weight after the morning feed. The pens were weighed in the same order each week and at the same time. The mean of the five (summer) or 10 (winter) weights sampled in each pen was taken to give the average bird weight per pen; the pen was then used as the experimental unit. The statistical analysis, discussed below, compared the weight gains on the three diets.</p>
+            <p>The diets were fed on an <italic>ad libitum</italic> basis. The weight of feed being added to each pen and the weight of feed discarded was recorded to calculate the feed intake. For the winter trial, this information, along with the average bird weights for each diet and number of birds fed that diet were used to calculate the feed conversion ratio (FCR) for each pen; mortality corrections were unnecessary as no birds died. FCR could not be accurately estimated in the summer trial, because of the unknown amount of nutrients consumed in the outdoor area.</p>
+         </sec>
+         <sec id="s2.4">
+            <title>2.4.- Animal Welfare Parameters: Breast Feather Coverage and Hock Lesion Scores</title>
+            <p>At each weighing, the birds were also scored on the parameters of breast feather coverage and hock lesion. The breast feather coverage scale, based on the LayWel scale [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>], gave a score of 1 for fully feathered, 2 for some feather loss, 3 for some feather coverage and 4 for no feathers. The hock lesion scale, based on the Gleadthorpe scale [<xref ref-type="bibr" rid="R19">19</xref>], ranged from 1 for no lesion to 2 for small and superficial lesions to 3 for mild lesions, 4 for moderately severe lesions and the highest score of 5 for very severe lesions.</p>
+         </sec>
+         <sec id="s2.5">
+            <title>2.5.- Statistical Analysis</title>
+            <p>The statistical analysis was carried out using R version 2.15.2 [<xref ref-type="bibr" rid="R20">20</xref>]. The pen is the statistical unit. After using a Shapiro-Wilk test to confirm that the data has a Gaussian distribution, weight gains across the diets were compared using ANOVA (analysis of variance). The weight gains were calculated for each weekly period (week 1 to week 2, week 2 to week 3, week 3 to week 4) and for the entire period of the experiment (week 1 to week 4). For the summer trial, the data was examined using diet as a factor and including the house in the random term of the model. For the winter trial, the birds were housed in a single house and a one-factor ANOVA test was used to investigate differences due to diet. The buildings were blocked with four blocks per house, each containing three pens, one for each diet.</p>
+            <p>The statistical model for the summer and winter trials is <inline-formula>
+                  <mml:math id="S4.SS5.p2.m1" display="inline" overflow="scroll">
+                     <mml:mrow>
+                        <mml:msub>
+                           <mml:mi>y</mml:mi>
+                           <mml:mrow>
+                              <mml:mi>i</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>j</mml:mi>
+                           </mml:mrow>
+                        </mml:msub>
+                        <mml:mo>=</mml:mo>
+                        <mml:mrow>
+                           <mml:mi>μ</mml:mi>
+                           <mml:mo>+</mml:mo>
+                           <mml:msub>
+                              <mml:mi>α</mml:mi>
+                              <mml:mi>i</mml:mi>
+                           </mml:msub>
+                           <mml:mo>+</mml:mo>
+                           <mml:mi>ε</mml:mi>
+                        </mml:mrow>
+                     </mml:mrow>
+                  </mml:math>
+               </inline-formula> , where <inline-formula>
+                  <mml:math id="S4.SS5.p2.m2" display="inline" overflow="scroll">
+                     <mml:mi>μ</mml:mi>
+                  </mml:math>
+               </inline-formula> is the mean, <inline-formula>
+                  <mml:math id="S4.SS5.p2.m3" display="inline" overflow="scroll">
+                     <mml:msub>
+                        <mml:mi>α</mml:mi>
+                        <mml:mi>i</mml:mi>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> is the effect of the <inline-formula>
+                  <mml:math id="S4.SS5.p2.m4" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi>i</mml:mi>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> diet, and <inline-formula>
+                  <mml:math id="S4.SS5.p2.m5" display="inline" overflow="scroll">
+                     <mml:mi>ε</mml:mi>
+                  </mml:math>
+               </inline-formula> the error term. In the summer trial the error term included the house. <inline-formula>
+                  <mml:math id="S4.SS5.p2.m6" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> values less than 0.05 were considered to be significant.</p>
+            <p>
+               <italic>Post-hoc</italic> testing was carried out where necessary using Tukey's HSD. Effect sizes were calculated using <inline-formula>
+                  <mml:math id="S4.SS5.p3.m1" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi>η</mml:mi>
+                        <mml:mn>2</mml:mn>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>.</p>
+            <p>The breast feather coverage and hock lesion score data was analysed using the Kruskal-Wallis test. This is the non-parametric equivalent of ANOVA and therefore is the appropriate test for use with score data.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <sec id="s3.1">
+            <title>3.1.- Growth Performance</title>
+            <p>The weight data is summarised in Table <xref ref-type="table" rid="Tab2">2</xref>.</p>
+            <p>As shown in Table <xref ref-type="table" rid="Tab3">3</xref>, there was no significant difference in total weight gain from 43 (week 1) to 64 days of age (week 4) for the summer period (<inline-formula>
+                  <mml:math id="S5.SS1.p2.m1" display="inline" overflow="scroll">
+                     <mml:msub>
+                        <mml:mi>P</mml:mi>
+                        <mml:mrow>
+                           <mml:mn>2</mml:mn>
+                           <mml:mo>,</mml:mo>
+                           <mml:mn>14</mml:mn>
+                        </mml:mrow>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> = 0.7279). In fact, running the ANOVA for each week (Table <xref ref-type="table" rid="Tab3">3</xref>) gave no statistically significant differences in weekly weight gains across the three diets (<inline-formula>
+                  <mml:math id="S5.SS1.p2.m2" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> was greater than 0.05).</p>
+            <p>For the winter trial, there was a statistically significant difference in weight gain between the diets with a large effect size for the period from ages 47 days to 68 days (i.e. week 1 to week 4; <inline-formula>
+                  <mml:math id="S5.SS1.p3.m1" display="inline" overflow="scroll">
+                     <mml:msub>
+                        <mml:mi>P</mml:mi>
+                        <mml:mrow>
+                           <mml:mn>2</mml:mn>
+                           <mml:mo>,</mml:mo>
+                           <mml:mn>6</mml:mn>
+                        </mml:mrow>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> = 0.03431, <inline-formula>
+                  <mml:math id="S5.SS1.p3.m2" display="inline" overflow="scroll">
+                     <mml:msubsup>
+                        <mml:mi>η</mml:mi>
+                        <mml:mrow>
+                           <mml:mi>d</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>i</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>e</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mn>2</mml:mn>
+                     </mml:msubsup>
+                  </mml:math>
+               </inline-formula> = 0.4283). There was no statistically significant difference in weekly weight gain period (<inline-formula>
+                  <mml:math id="S5.SS1.p3.m3" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> was greater than 0.05). <italic>Post-hoc</italic> testing indicated that the significant difference in weight gain over the whole period of the feed trial (47 to 68 days) was between the local feed (with a lower weight gain) and the local feed with algae, with no significant differences between the two local diets and the control.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Feed Conversion Ratio</title>
+            <p>The feed conversion ratio calculation for the winter trial is summarised in Table <xref ref-type="table" rid="Tab4">4</xref> below. The FCRs were calculated for each pen for the experimental period (the averages for each diet are shown in Table <xref ref-type="table" rid="Tab4">4</xref>) and the statistics were drawn up on a per pen basis similarly to the weight data discussed above.</p>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>
+                    Table 2</label>
+               <caption>
+                  <title>Broiler body weights (mean weight in kg and standard error for each diet) for the summer and winter feed trials.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Feed Trial</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Diet</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 1</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 2</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Control</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.54 <inline-formula>
+                              <mml:math id="S5.T2.m1" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.027</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.02 <inline-formula>
+                              <mml:math id="S5.T2.m2" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.028</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.49 <inline-formula>
+                              <mml:math id="S5.T2.m3" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.039</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.85 <inline-formula>
+                              <mml:math id="S5.T2.m4" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.048</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.60 <inline-formula>
+                              <mml:math id="S5.T2.m5" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.036</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.05 <inline-formula>
+                              <mml:math id="S5.T2.m6" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.052</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.50 <inline-formula>
+                              <mml:math id="S5.T2.m7" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.066</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.83 <inline-formula>
+                              <mml:math id="S5.T2.m8" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.068</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local with algae</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.58 <inline-formula>
+                              <mml:math id="S5.T2.m9" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.032</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.04 <inline-formula>
+                              <mml:math id="S5.T2.m10" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.042</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.58 <inline-formula>
+                              <mml:math id="S5.T2.m11" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.053</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.86 <inline-formula>
+                              <mml:math id="S5.T2.m12" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.066</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Winter</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Control</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.83 <inline-formula>
+                              <mml:math id="S5.T2.m13" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.041</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.31 <inline-formula>
+                              <mml:math id="S5.T2.m14" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.059</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.78 <inline-formula>
+                              <mml:math id="S5.T2.m15" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.063</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3.16 <inline-formula>
+                              <mml:math id="S5.T2.m16" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.074</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.78 <inline-formula>
+                              <mml:math id="S5.T2.m17" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.036</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.24 <inline-formula>
+                              <mml:math id="S5.T2.m18" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.052</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.67 <inline-formula>
+                              <mml:math id="S5.T2.m19" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.056</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.99 <inline-formula>
+                              <mml:math id="S5.T2.m20" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.070</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local with algae</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.73 <inline-formula>
+                              <mml:math id="S5.T2.m21" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.039</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.22 <inline-formula>
+                              <mml:math id="S5.T2.m22" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.045</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.67 <inline-formula>
+                              <mml:math id="S5.T2.m23" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.064</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3.13 <inline-formula>
+                              <mml:math id="S5.T2.m24" display="inline" overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula> 0.059</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>
+                    Table 3</label>
+               <caption>
+                  <title>Weight gain statistics. * indicates P value below 0.05, ** indicates P value below 0.01, *** indicates P value below 0.001, N.S. indicates no statistically significant difference between the diets.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Field Trial</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 1 - Week 2</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 2 - Week 3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 3 - Week 4</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Week 1 - Week 4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S5.T3.m4" display="inline" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mi>P</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mn>14</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </inline-formula> value</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.7371</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.3072</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.7304</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.7279</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Significance</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Winter</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S5.T3.m5" display="inline" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mi>P</mml:mi>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mo>,</mml:mo>
+                                       <mml:mn>6</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </inline-formula> value</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.8733</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.9187</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.3069</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0.03431</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Significance</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">N.S.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">*</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab4" position="float" orientation="portrait">
+               <label>
+                    Table 4</label>
+               <caption>
+                  <title>The feed conversion calculation (FCR) for the winter feed trial for the experimental period showing the cumulative feed intake, weight gain and FCR.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Diet</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Cumulative feed</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Total number</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Total bird</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Mortality</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>FCR</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">intake (kg)</td>
+                        <td align="left" style="" rowspan="1" colspan="1">of birds</td>
+                        <td align="left" style="" rowspan="1" colspan="1">weight gain (kg)</td>
+                        <td align="left" style="" rowspan="1" colspan="1">weight (kg)</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Local</td>
+                        <td align="left" style="" rowspan="1" colspan="1">444.70</td>
+                        <td align="left" style="" rowspan="1" colspan="1">84</td>
+                        <td align="left" style="" rowspan="1" colspan="1">101.15</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>4.40</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Control</td>
+                        <td align="left" style="" rowspan="1" colspan="1">440.90</td>
+                        <td align="left" style="" rowspan="1" colspan="1">85</td>
+                        <td align="left" style="" rowspan="1" colspan="1">113.64</td>
+                        <td align="left" style="" rowspan="1" colspan="1">0</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>3.88</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">Local with algae</td>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">448.40</td>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">85</td>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">118.80</td>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">0</td>
+                        <td align="left" style="border:b;" rowspan="1" colspan="1">
+                           <bold>3.77</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>For the winter feed trial, there was a significant difference between the FCRs of the three diets with a large effect size (<inline-formula>
+                  <mml:math id="S5.SS2.p3.m1" display="inline" overflow="scroll">
+                     <mml:msub>
+                        <mml:mi>P</mml:mi>
+                        <mml:mrow>
+                           <mml:mn>2</mml:mn>
+                           <mml:mo>,</mml:mo>
+                           <mml:mn>6</mml:mn>
+                        </mml:mrow>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> = 0.02001, <inline-formula>
+                  <mml:math id="S5.SS2.p3.m2" display="inline" overflow="scroll">
+                     <mml:msubsup>
+                        <mml:mi>η</mml:mi>
+                        <mml:mrow>
+                           <mml:mi>d</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>i</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>e</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                        <mml:mn>2</mml:mn>
+                     </mml:msubsup>
+                  </mml:math>
+               </inline-formula> = 0.44396). <italic>Post-hoc</italic> testing indicated that the difference was between the FCR of the local diet and the local diet with algae. It can be seen from Table <xref ref-type="table" rid="Tab4">4</xref> that the local diet had a higher feed conversion ratio.</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Breast Feather Coverage and Hock Lesion Scores</title>
+            <p>Table <xref ref-type="table" rid="Tab5">5</xref> summarises the breast feather coverage data. Given the small number of hock lesions recorded (see below) this data is not summarised in a table. As the data is score data (rather than continuous variables) the average given is the median rather than the mean, and the range is shown by quoting the first and third quartiles (sometimes known as the 25<inline-formula>
+                  <mml:math id="S5.SS3.p1.m1" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> and 75<inline-formula>
+                  <mml:math id="S5.SS3.p1.m2" display="inline" overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> percentiles).</p>
+            <p>For the summer feed trial, the results of the Kruskal-Wallis test showed that there was no statistically significant difference in the breast cover scores between diets at any of the weighing dates (at 50 days, <inline-formula>
+                  <mml:math id="S5.SS3.p2.m1" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.2681; at 57 days, <inline-formula>
+                  <mml:math id="S5.SS3.p2.m2" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.1271; at 64 days, <inline-formula>
+                  <mml:math id="S5.SS3.p2.m3" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.7263). The hock lesion data was not analysed statistically as only 10 instances of “red” hocks were recorded over all of the weighing periods and these were noted to not be serious enough to score a 2.</p>
+            <p>Similarly, for the winter feed trial there was no statistically significant difference in the breast cover scores between diets at any of the weighing dates (at 54 days, <inline-formula>
+                  <mml:math id="S5.SS3.p3.m1" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.1274; at 61 days, <inline-formula>
+                  <mml:math id="S5.SS3.p3.m2" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.8019; at 68 days, <inline-formula>
+                  <mml:math id="S5.SS3.p3.m3" display="inline" overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> = 0.7628). The hock lesion data was not analysed statistically as only 4 instances of scores greater than 1 were recorded over all of the weighing periods.</p>
+            <table-wrap id="Tab5" position="float" orientation="portrait">
+               <label>
+                    Table 5</label>
+               <caption>
+                  <title>Breast feather coverage data for the summer and winter feed trials. The scale is as follows: 1 for fully feathered, 2 for some feather loss, 3 for some feather coverage and 4 for no feathers.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Feed trial</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Diet</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Statistic</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Week 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Week 2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Week 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">Week 4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Summer</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Control</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2.25</td>
+                        <td align="right" style="" rowspan="1" colspan="1">3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">3</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local with algae</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">3</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Winter</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Control</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Local with algae</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Median</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">Quartile 3</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">1</td>
+                        <td align="right" style="" rowspan="1" colspan="1">2</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <p>As discussed in the introduction, from 31<inline-formula>
+               <mml:math id="S6.p1.m1" display="inline" overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>s</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>t</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> December 2017, 100% organic diets for poultry and pigs will become compulsory in the EU, thus there is an urgent need to develop feeding strategies based on organic feed which will supply poultry with the required level of nutrients in different phases of production.</p>
+         <p>The move to 100% organic feed for poultry would appear to be in accordance with consumer perceptions of organic food [<xref ref-type="bibr" rid="R05">5</xref>] and with organic principles. However, it may not be possible to supply protein with the required amino acid profile using sources from the farm/region alone and so there is a conflict between the requirement for 100% organic feed on the one hand and the desire to have localized production on the other.</p>
+         <p>Soybean meal, the most obvious and commonly used vegetable protein feed source with a good methionine content, is not widely grown in Europe due to climatic conditions. Global demand for soybean for animal feed and oil has increased in recent decades [<xref ref-type="bibr" rid="R11">11</xref>]. Increased demand has led to expansion of soybean production in Latin America, especially in Brazil [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>] where production has increased by 357% between 1990 and 2011 [<xref ref-type="bibr" rid="R11">11</xref>]. Soybean production is a threat to biodiversity as land is needed not just for growing the crop but for the transportation infrastructure to take it to its markets [<xref ref-type="bibr" rid="R09">9</xref>]. This puts habitats, especially in the Amazon region, at risk. The IUCN Red List indicates that in Brazil, crop farming is currently threatening 34 critically endangered species and a further 65 endangered species ([<xref ref-type="bibr" rid="R11">11</xref>] and references therein). The requirement for land for soybean production also has a social impact as smaller farmers are displaced to make way for larger farms [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>]. A World Bank report highlights that during the major expansion of farming in the Cerrado region, many small farmers lost their land due to poor land records and limited protection of land rights [<xref ref-type="bibr" rid="R11">11</xref>].</p>
+         <p>This paper reports on preliminary feed trials carried out in summer 2012 and winter 2013 comparing the performance in terms of weight gain, feed conversion ratio, and animal welfare parameters (breast feather coverage and hock lesion scores) of broilers fed three different organic diets. The diets were: a standard 100% organic poultry feed currently available in the UK and including soybean expeller (control), a locally (European)-sourced 100% organic poultry feed and a locally (European) sourced 100% organic poultry feed incorporating algae (<italic>Spirulina spp.</italic>). The results of the summer trial showed that there was no statistically significant difference in bird weight gains between the three diets. In the winter trial, there was a statistically significant difference in weight gain over the entire trial period between the local diet (lower weight gain) and the local diet with algae. There was a statistically significant difference in FCR between the local diet and the local diet with algae, with the local diet having a higher FCR. The significant results in the winter compared with the summer may be partly because of the possible contribution of the outdoor area in the summer trial to the nutrient supply of the broilers. In addition, there were differences in diet composition (e.g. energy, protein, lysine) between the three diets, there were also slight differences in feed ingredients between the summer and winter feed trials due to differing availability of ingredients, but the feed manufacturer endeavoured to keep the nutrient contents as similar as possible for each of the three diets between the two seasons. However, it should be noted that across both periods (summer and winter) there was no significant difference between the performance of the control feed containing soybean expeller and the local feed with algae or the local feed. Algae have a favourable amino acid profile compared with other sources of protein including soybean [<xref ref-type="bibr" rid="R15">15</xref>] and may be a good alternative to replace soybean meal in broiler diets [<xref ref-type="bibr" rid="R21">21</xref>]. Becker [<xref ref-type="bibr" rid="R15">15</xref>] provides a table comparing the amino acid profiles of various algae with that of products such as soybean and egg. The table shows that <italic>Chlorella vulgaris</italic> (2.2 g per 100 g protein), <italic>Dunaliella bardawil</italic> (2.3 g per 100 g protein), <italic>Scenedesmus obliquus</italic> (1.5 g per 100 g protein), <italic>Arthrospira maxima</italic> (1.4 g per 100 g protein) and <italic>Spirulina platensis</italic> (2.5 g per 100 g protein) contain more methionine per 100 g protein than soybean (1.3 g per 100 g protein). This suggests that algae may make a good substitute for soybean in poultry rations with regards to maintaining a desirable amino acid profile within the feed. The algae used in the preliminary feed trials reported in this paper were produced using a zero-waste hydroponic system based on the waste-derived fertiliser from anaerobic digestion. While not currently certified as organic, the ability to produce a protein source tailored to specific amino acid profiles as a by-product of anaerobic digestion presents an opportunity for further exploration as a sustainable alternative to imported soybean.</p>
+         <p>There were no statistically significant differences in the animal welfare parameters (i.e. breast feather coverage and hock lesion score) in either feed trial period (summer or winter). This suggests that replacing soybean with locally produced protein sources has no impact on bird welfare in terms of feather coverage and hock lesions.</p>
+         <p>Further investigation of the environmental impacts of the three diets would be interesting. A lifecycle assessment of broiler production in the USA found that feed provision was the major contributor to the cradle to farm gate impacts of production [<xref ref-type="bibr" rid="R22">22</xref>]. They found that, if offsets due to litter management (avoiding fertilizer production) are excluded, then provision of feed accounts for 80% of energy use, 82% of greenhouse gas emissions, 98% of ozone depletion emissions, 96% of acidifying emissions and 97% of eutrophying emissions. Corn (which was assumed to constitute 70% of the feed by weight) was responsible for 41% of the impact, while soybean (20% by weight) was responsible for 12% of the impact. A lifecycle assessment of soybean production [<xref ref-type="bibr" rid="R23">23</xref>] found that significant greenhouse gas emissions can result from land-use change due to the expansion and cultivation of soybean. Pelletier [<xref ref-type="bibr" rid="R22">22</xref>] found that fishmeal production for poultry feed had a higher impact than crop production due to the fuel inputs for fishing and the energy and emissions involved in processing to obtain fishmeal and oil. Pelletier [<xref ref-type="bibr" rid="R22">22</xref>] suggests that the use of organic ingredients “which are typically less energy and emissions intensive due to the disallowance of synthetic fertilisers in their production” may reduce the life-cycle impacts of broiler production. An investigation of the environmental impacts of the feeds used in the trials reported here would need to consider the impact of the algae production and also freeze-drying of the algae as well as the production impacts of the other ingredients.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>In both the summer and winter feed trials, neither local feed (with or without algae) performed significantly differently from the control. However, the local feed with algae outperformed the local feed without algae. This suggests that a diet based on local protein sources, in this case wheat, sunflower expeller, maize, rape seed expeller, sweet lupins, beans, flax expeller and soybean oil and algae could replace a diet reliant on soybean expeller in a 100% organic broiler feed. The algae used in this feed trial were produced using a small scale set-up and so were relatively expensive. However, it is conceivable that the drive towards 100% organic feed for monogastric livestock could result in greater demand for such products leading to economies of scale and subsequent reductions in cost. The fact that they were produced using a system that utilised waste-derived fertiliser from anaerobic digestion may have positive implications for the environmental impact of future algae-based diets, although this would require further investigation due to the energy costs of freeze-drying the algae.</p>
+         <p>The results of these preliminary feed trials suggest that using locally sourced feed does not have an impact on broiler productivity and adding algae to the feed can improve its performance compared with a locally sourced feed without algae. It is necessary to perform digestibility studies with novel protein sources to provide good nutritional data for these novel proteins before progressing to larger scale performance studies. As well as larger scale, more commercial feed trials, further trials to test possible seasonal effects could be carried out. It might be useful to consider carrying out taste tests to ascertain that none of the diets change the consistency or taste of the broiler meat (although no research was found to suggest that this might be the case using any of the ingredients used in these trials). Further feed trials using laying hens could also be considered to ascertain whether the ingredients trialled in this study may also be appropriate for use in laying hen rations.</p>
+         <p>Further research could also include further more detailed investigation into the costs of such feeds and the possibilities for economies of scale (as was briefly mentioned above). The environmental impact of each of the three diets discussed in this article should be investigated in greater detail to identify which of the diets are the most sustainable in the long term.
+</p>
+      </sec>
+      <sec id="s6">
+         <title>Acknowledgements</title>
+         <p>This research was carried out as part of the ICOPP (Improved contribution of local feed to support 100% organic feed supply to pigs and poultry) project. ICOPP is a three year project, funded in the UK by Defra as part of the European CORE2 Eranet programme to support organic research, led by Aarhus University in Denmark with 15 partners across 10 EU countries. Defra was not involved in study design; collection, analysis and interpretation of data; the writing of the report or the decision to publish the results.</p>
+         <p>The authors would like to thank both anonymous reviewers for their useful comments which helped to improve the manuscript.</p>
+         <p>The diets were designed and manufactured by Hi-Peak Feeds.</p>
+         <p>The authors would like to thank Sanna Steenfeldt for proof-reading the paper and making useful suggestions for additional information to be added to the materials and methods section.</p>
+         <p>The authors would like to thank Alastair Droop and Peter Cripps for their help and advice with regards to the poultry weight statistics.</p>
+         
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>Council Regulation (EC) on organic production and labelling of organic products (repealing regulation (EEC) no. 2092/91)</source>
+               <year>28 June 2007</year>
+               <comment>No. 834/2007</comment>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Ipswich, UK</publisher-loc>
+               <source>Free-range poultry</source>
+               <isbn>0852363680 9780852363683</isbn>
+               <publisher-name>Farming Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Thear</surname>
+                     <given-names>Katie</given-names>
+                  </name>
+               </person-group>
+               <edition>2$^nd$</edition>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gordon</surname>
+                     <given-names>S H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Charles</surname>
+                     <given-names>DR</given-names>
+                  </name>
+               </person-group>
+               <source>Niche and organic chicken products, their technology and scientific principles</source>
+               <publisher-name>Nottingham University Press</publisher-name>
+               <year>2002</year>
+               <publisher-loc>Nottingham, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sanders J (editor)</surname>
+                  </name>
+               </person-group>
+               <source>Evaluation of the EU legislation on organic farming</source>
+               <publisher-name>Thünen Institute of Farm Economics</publisher-name>
+               <year>2013</year>
+               <source>Study Report</source>
+               <publisher-loc>Braunschweig, Germany</publisher-loc>
+               <month>November</month>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>R Zanoli</surname>
+                  </name>
+               </person-group>
+               <source>The European consumer and organic food</source>
+               <publisher-name>OMIaRD Project</publisher-name>
+               <year>2004</year>
+               <volume>4</volume>
+               <comment>Organic Marketing initiatives and Rural Developmemt series</comment>
+               <publisher-loc>Aberystwyth, Wales, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yiridoe</surname>
+                     <given-names>Emmanuel K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bonti-Ankomah,Samuel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>Ralph C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Comparison of consumer perceptions and preference toward organic versus conventionally produced foods: A review and update of the literature</article-title>
+               <source>Renewable Agriculture and Food Systems</source>
+               <volume>20</volume>
+               <issue>04</issue>
+               <year>2005</year>
+               <issn>1742-1713</issn>
+               <fpage>193</fpage>
+               <lpage>205</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Batte</surname>
+                     <given-names>Marvin T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hooker</surname>
+                     <given-names>Neal H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haab</surname>
+                     <given-names>Timothy C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beaverson</surname>
+                     <given-names>Jeremy</given-names>
+                  </name>
+               </person-group>
+               <article-title>Putting their money where their mouths are: Consumer willingness to pay for multi-ingredient, processed organic food products</article-title>
+               <source>Food Policy</source>
+               <year>2007</year>
+               <volume>32</volume>
+               <issue>2</issue>
+               <fpage>145</fpage>
+               <lpage>159</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chris Timmins</surname>
+                  </name>
+               </person-group>
+               <source>Consumer Attitudes towards Organic Food—Survey of the General Public. Executive Summary</source>
+               <publisher-name>Better Organic Business Links project, Organic Centre Wales</publisher-name>
+               <publisher-loc>Ceredigion, UK</publisher-loc>
+               <year>2010</year>
+               <month>October</month>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fearnside</surname>
+                     <given-names>Philip M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Soybean cultivation as a threat to the environment in Brazil</article-title>
+               <source>Environmental Conservation</source>
+               <issue>1</issue>
+               <year>2001</year>
+               <issn>1469-4387</issn>
+               <fpage>23</fpage>
+               <lpage>38</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <issn>0889-048X</issn>
+               <source>Agriculture and Human Values</source>
+               <volume>24</volume>
+               <issue>1</issue>
+               <article-title>From colonization to ``environmental soy'': A case study of environmental and socio-economic valuation in the Amazon soy frontier</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steward</surname>
+                     <given-names>Corrina</given-names>
+                  </name>
+               </person-group>
+               <fpage>107</fpage>
+               <lpage>122</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>C West</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dawkins</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Croft</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brugere</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sheate</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Raffaelli</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <source>Measuring the impacts on global biodiversity of goods and services imported into the UK</source>
+               <publisher-name>UK Department for Environment, Food and Rural Affairs (Defra)</publisher-name>
+               <year>2012</year>
+               <source>Final Report, project number WC1018</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hammershøj</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steenfeldt</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Effects of blue lupin (Lupinus angustifolius) in organic layer diets and supplementation with foraging material on egg production and some egg quality parameters</article-title>
+               <volume>84</volume>
+               <issue>5</issue>
+               <fpage>723</fpage>
+               <lpage>733</lpage>
+               <year>2005</year>
+               <source>Poultry Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Valentine</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cowan</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Middleton</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <source>Breeding oats for milling, feed and possible new food and industrial markets</source>
+               <publisher-name>HGCA: Independence, Innovation and Investment</publisher-name>
+               <publisher-loc>Warwickshire, UK</publisher-loc>
+               <year>2004</year>
+               <source>Final Report, project number 2383</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <issn>1876-4517</issn>
+               <source>Food Security</source>
+               <volume>5</volume>
+               <issue>1</issue>
+               <article-title>Crops that feed the world 9. Oats—A cereal crop for human and livestock feed with industrial applications</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marshall</surname>
+                     <given-names>Athole</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cowan</surname>
+                     <given-names>Sandy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Edwards</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Griffiths</surname>
+                     <given-names>Irene</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Howarth</surname>
+                     <given-names>Catherine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Langdon</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>White</surname>
+                     <given-names>Ethel</given-names>
+                  </name>
+               </person-group>
+               <fpage>13</fpage>
+               <lpage>33</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Micro-algae as a source of protein</article-title>
+               <source>Biotechnology Advances</source>
+               <volume>25</volume>
+               <issue>2</issue>
+               <fpage>207</fpage>
+               <lpage>210</lpage>
+               <year>2007</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>E.W. Becker </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Hi Peak Organic Feeds. Available from: \urlhttp://www.hipeak.co.uk/.</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Blokhuis</surname>
+                     <given-names>H.J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fisk van Niekert,T.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bessei</surname>
+                     <given-names>W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elson</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guémené</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kjaer</surname>
+                     <given-names>J.B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maria Levrino,G.A.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nicol</surname>
+                     <given-names>C.J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Taulson</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weeks</surname>
+                     <given-names>C.A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van de Weerd,H.A.</surname>
+                  </name>
+               </person-group>
+               <article-title>The LayWel project: welfare implications of changes in production systems for laying hens</article-title>
+               <source>World's Poultry Science Journal</source>
+               <volume>63</volume>
+               <issue>01</issue>
+               <month>3</month>
+               <year>2007</year>
+               <issn>1743-4777</issn>
+               <fpage>101</fpage>
+               <lpage>114</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Applied scoring of integument and health in laying hens</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tauson</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kjaer</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maria</surname>
+                     <given-names>GA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cepero</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Holm</surname>
+                     <given-names>KE</given-names>
+                  </name>
+               </person-group>
+               <source>Animal Science Papers and Reports</source>
+               <volume>23</volume>
+               <issue>Suppl 1</issue>
+               <fpage>153</fpage>
+               <lpage>159</lpage>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tucker</surname>
+                     <given-names>S.A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Walker</surname>
+                     <given-names>A.W.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Garnworthy</surname>
+                     <given-names>P.C. and Haresign, W. and Cole, D.J.A.</given-names>
+                  </name>
+               </person-group>
+               <source>Hock burn in broilers</source>
+               <chapter-title>Recent advances in animal nutrition</chapter-title>
+               <publisher-name>Butterworth and Heinemann</publisher-name>
+               <year>1992</year>
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <fpage>35</fpage>
+               <lpage>50</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <source>R: A Language and Environment for Statistical Computing</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>R Core Team</surname>
+                  </name>
+               </person-group>
+               <publisher-name>R Foundation for Statistical Computing</publisher-name>
+               <publisher-loc>Vienna, Austria</publisher-loc>
+               <year>2014</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.R-project.org/"
+                         xlink:type="simple">http://www.R-project.org/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Energy values and chemical composition of spirulina (Spirulina platensis) evaluated with broilers</article-title>
+               <source>Revista Brasileira de Zootecnia</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alvarenga</surname>
+                     <given-names>Renata Ribeiro AND Rodrigues, Paulo Borges AND Cantarelli, Vinícius de Souza AND Zangeronimo, Márcio Gilberto AND Silva, José Walter da, Jr AND Silva, Leonardo Rafael da AND Santos, Luziane Moreira dos AND Pereira, Luciano José</given-names>
+                  </name>
+               </person-group>
+               <volume>40</volume>
+               <year>2011</year>
+               <issue>5</issue>
+               <fpage>992</fpage>
+               <lpage>996</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Environmental performance in the US broiler poultry sector: Life cycle energy use and greenhouse gas, ozone depleting, acidifying and eutrophying emissions</article-title>
+               <source>Agricultural Systems</source>
+               <volume>98</volume>
+               <issue>2</issue>
+               <fpage>67</fpage>
+               <lpage>73</lpage>
+               <year>2008</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>N. Pelletier </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Greenhouse gas assessment of soybean production: implications of land use change and different cultivation systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Castanheira</surname>
+                     <given-names>Erica Geraldes</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Freire</surname>
+                     <given-names>Fausto</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Cleaner Production</source>
+               <volume>54</volume>
+               <fpage>49</fpage>
+               <lpage>60</lpage>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
