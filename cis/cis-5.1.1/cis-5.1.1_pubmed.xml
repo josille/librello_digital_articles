@@ -64,11 +64,12 @@
          <permissions>
             <copyright-year>2005</copyright-year>
          </permissions>
-         <abstract>
-            <p>We are pleased to introduce the second special issue from Challenges in Sustainability, this time as a part of the Taskforce on Conceptual Foundations of Earth System Governance, an initiative by the Earth System Governance Project (ESG) (http://www.earthsystemgovernance.net/conceptual-foundations/). The ESG Project is a global research alliance. It is the largest social science research network in the field of governance and global environmental change. ESG is primarily a scientific effort but is also designed to assist policy responses to pressing problems of earth system transformation.</p>
-         </abstract>
       </article-meta>
    </front>
-   <body/>
-   <back/>
+   <body>
+      <sec id="sec1">
+         <title></title>
+         <p>We are pleased to introduce the second special issue from Challenges in Sustainability, this time as a part of the Taskforce on Conceptual Foundations of Earth System Governance, an initiative by the Earth System Governance Project (ESG) (http://www.earthsystemgovernance.net/conceptual-foundations/). The ESG Project is a global research alliance. It is the largest social science research network in the field of governance and global environmental change. ESG is primarily a scientific effort but is also designed to assist policy responses to pressing problems of earth system transformation.</p>
+      </sec>
+   </body>
 </article>
