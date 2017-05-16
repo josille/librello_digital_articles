@@ -1,0 +1,2605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2017.03010020</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Changes in Knowledge Management Strategies Can Support Emerging Innovative Actors in Organic Agriculture:  The Case of Participatory Plant Breeding in Europe</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ortolani</surname>
+                  <given-names>Livia</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bocci</surname>
+                  <given-names>Riccardo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bàrberi</surname>
+                  <given-names>Paolo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Howlett</surname>
+                  <given-names>Sally</given-names>
+               </name>
+               <xref ref-type="aff" rid="A5">4</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Chable</surname>
+                  <given-names>Véronique</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Interdepartmental Centre for Agro-environmental Research "Enrico Avanzi", San Piero a Grado, Italy</aff>
+         <aff id="A3">
+            <label>2</label>Associazione Italiana per l'Agricoltura Biologica, Rome, Italy</aff>
+         <aff id="A4">
+            <label>3</label>Institute of Life Sciences, Scuola Superiore Sant'Anna, Pisa, Italy</aff>
+         <aff id="A5">
+            <label>4</label>Organic Research Centre, Hamstead Marshall, UK</aff>
+         <aff id="A6">
+            <label>5</label>INRA Centre Rennes-Le Rheu, Le Rheu, France</aff>
+         <pub-date pub-type="ppub">
+            <day>05</day>
+            <month>05</month>
+            <year>2017</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>20</fpage>
+         <lpage>33</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>The “transfer of technology”, typical of a top-down linear process of innovation cannot be used in the new contexts of sustainability, characterised by uncertainty and complexity. There is a need to redefine categories and concepts around which innovation and agricultural policies are built, as those currently in use provide only a partial representation of reality. Innovation paradigms underpinning technological development and public policies design will have a direct impact on decisions regarding which agricultural models will ultimately be supported. Looking at local learning capacity and systems of relations can help to understand the potential to develop innovation within a specific context. This work contributes to the definition of new actors who are developing innovation for sustainability in rural areas. The study focuses on the knowledge systems of farmers who are applying alternative breeding strategies: it uses a network approach to explore the knowledge system in which individual farmers are embedded in order to understand their specific relational features. Three main conclusions emerge from the study: for enhancing the agro-ecological innovation paradigm there is a need to define the ‘innovation broker’, to revise the evaluation system of public research and to integrate innovation and agricultural policies.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>innovation paradigms</kwd>
+            <kwd>network analysis</kwd>
+            <kwd>advisory services</kwd>
+            <kwd>research evaluation</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction: Emerging Innovative Actors in Agriculture</title>
+         <p>Various agricultural models exist in the global context, with family or peasant agriculture and industrial/corporate farming at opposing ends of the spectrum. Van der Ploeg [<xref ref-type="bibr" rid="R01">1</xref>] underlines how a peasant-farming model based on direct management of resources, struggle for autonomy and cooperation among rural actors is achieving success as a response to the economic, social, food and ecological crisis [<xref ref-type="bibr" rid="R02">2</xref>]. Based on intense knowledge exchange activities, such models would seek to establish fresh niches of autonomy within a broader economic context characterized by farmers’ independence from external actors and marginalisation by the demand of the global market. Several actors are experimenting with such organizational models at a local level and supporting them would enable the realization of this transition. Rural sociological studies of the last two decades have reviewed such scenarios; however, current agricultural policies often do not meet needs of these actors [<xref ref-type="bibr" rid="R03">3</xref>]. Likewise, characterising the peasants as not yet possessing entrepreneurial skills or as a disappearing group is clearly deficient [<xref ref-type="bibr" rid="R01">1</xref>]. There is a need to redefine the categories and concepts around which agricultural policies are built, as those currently in use provide only a partial representation of reality.</p>
+         <p>The aim of this work is to contribute to the definition of new actors who are developing innovation for sustainability in rural areas, with a focus on the knowledge systems in which they are embedded. Innovation paradigms underpinning technological development and public policies have a direct impact on decisions regarding which agricultural models will ultimately be supported. This process is particularly evident in plant breeding. Conventional plant breeding strategies aimed at high crop yields and high technological quality through uniformity and wide adaptation, are partially responsible for the increased erosion of agricultural diversity [<xref ref-type="bibr" rid="R04">4</xref>] and for the abandonment of marginal agricultural areas such as mountainous and hilly land [<xref ref-type="bibr" rid="R05">5</xref>, <xref ref-type="bibr" rid="R06">6</xref>]. However, today such areas are frequently those where new innovative actors are developing their activities and where alternative breeding strategies are elaborated and tested.</p>
+         <p>This paper will focus on the study of knowledge systems of individual farmers applying crop breeding strategies based on local adaptation through decentralisation and participation. It uses a network approach to explore the knowledge systems in which farmers are embedded in order to understand their specific relational characteristics. Networks of four organic farmers are used as case studies. The first two sections will describe emerging divergent agricultural innovation paradigms in Europe, with a focus on knowledge management and plant breeding. The second section will present the analysis of the four innovative organic farmers knowledge networks developed within the framework of the European Framework Programme 7 research project, SOLIBAM. The structure and actors included in the knowledge networks of the four case studies will be illustrated and discussed. Finally, some policy recommendations on how agricultural research systems can support emerging innovative actors will conclude the paper.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- How Innovation Paradigms Influence the Transition Towards Sustainability</title>
+         <p>System innovations are multi-factor, multi-actor and multi-level processes [<xref ref-type="bibr" rid="R07">7</xref>]. Different innovation paradigms result in different roadmaps and models towards the future of agriculture.The idea of sustainability as a normative notion that should assure justice among humans of present and future generations and among humans and nature [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>] has several interpretations depending on the scientific approach used. Furthermore, the main paradigm chosen to underpin research policies has a direct influence on the direction of society’s transition to sustainability. The Knowledge Based Bio Economy (KBBE) innovation paradigm, which predominates in the EU, strongly relies on technical innovation developed through the life sciences, following a reductionist approach and strong scientific specialisation. The analysis of behavioural and institutional changes is not directly included in the associated innovation process as it is delegated to other scientific disciplines [<xref ref-type="bibr" rid="R07">7</xref>]. The KBBE approach in agricultural research focuses mainly on the maximisation of productivity and economic efficiency on a global level. It could lead to incremental system changes that may support the transition to sustainability, but it could also potentially turn agriculture into a factory-like production system [<xref ref-type="bibr" rid="R07">7</xref>], reducing the importance of local and traditional knowledge systems [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]. There is a need, therefore, to take into account the long-term effects that any single specific innovation could generate. Following a vision of integral sustainability, innovation in agriculture should work to build new relationships between local actors, communities and their natural contexts [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>]. Sustainability becomes a question of governance and the role of communities and the promotion of social and institutional learning for sustainable development become key elements of sustainability science [<xref ref-type="bibr" rid="R14">14</xref>]. Social innovation is needed as much as technological innovation based on life science to reach the sustainability goals. “Agroecology” [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>] represents an innovation paradigm that is gaining importance in Europe as complementary to that of the KBBE in agricultural sciences. According to this paradigm agricultural systems are designed in such a way as to minimize the need for external inputs and improve reliance on ecological interactions [<xref ref-type="bibr" rid="R08">8</xref>]. The original notion of organic agriculture is one basis upon which to conceptualise this paradigm. Following this approach, one of the main requirements for sustainability is to base food production within agroecological settings [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Plant Breeding as an Example of Knowledge Management in Two Agricultural Innovation Paradigms</title>
+         <p>In the KBBE paradigm, innovation is a research-driven process based on scientific knowledge and promoted by intellectual property rights, where specific policies are defined in retrospect for dissemination of science and innovation transfer [<xref ref-type="bibr" rid="R18">18</xref>] following a linear model of innovation [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]. According to the agroecological vision, research and innovation policies should promote the combination of different types of knowledge (scientific, lay, tacit, local) and worlds (science, production, consumption, etc.) in a process of mutual learning, with the aim of finding practical solutions for complex problems [<xref ref-type="bibr" rid="R21">21</xref>]. Here, the associated knowledge management model is that of Agricultural Knowledge and Innovation Systems (AKIS), which considers innovation as a process of networking and iterative learning among a heterogeneous set of actors [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>]. The KBBE model leads to expert-dominated discourses that need specific policies in order to be applied by end users. However, fixed rules and thresholds based on scientific evidence, (e.g. tools for sustainability assessment based on linear optimization models; command and control policies based on pesticide residues etc.) are more likely to hinder rather than to promote rural development, excluding rural actors and their (local, tacit) knowledge from the transition to sustainability [<xref ref-type="bibr" rid="R24">24</xref>]. In contrast, in the AKIS model the involvement of a variety of stakeholders in the development of innovation and research is the key to finding a suitable solution for each specific context.</p>
+         <p>Plant breeding strategies permit the identification of the knowledge management approach to which a specific farmer or researcher refers, and, as a consequence, the agricultural innovation paradigm associated with it. In the KBBE paradigm, breeding is mainly a tool to increase productivity or achieve other objectives through genetic uniformity. It is based on the idea of wide adaptation of varieties i.e. the same variety should be cultivated across as large an area as possible in order to recover the cost of research and development [<xref ref-type="bibr" rid="R25">25</xref>]. In the agroecological innovation paradigm and, in particular, in the research developed for organic farming, local adaptation through genetic diversity is one of the main drivers of innovation [<xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R08">8</xref>]. Crop breeding for organic agriculture is a good example to illustrate how a better understanding of technological changes should be integrated with changes in rules, behaviours of individual stakeholders, culture, institutions and science. Organic agriculture requires crop varieties adapted to different agricultural, environmental, cultural and social contexts, avoiding the need for external inputs and increasing the ecological interactions among biological components to stimulate the internal potential for soil fertility building, productivity and crop protection [<xref ref-type="bibr" rid="R27">27</xref>]. However, commercially available crop varieties, even if certified organic, are characterised by genetic uniformity and are mostly selected under conventional farming conditions, which traditionally use high-energy inputs such as chemicals for fertilization and plant protection. The use of such varieties in organic agriculture promotes an input substitution approach increasing the risk for conventionalisation [<xref ref-type="bibr" rid="R28">28</xref>]. The diffusion of selection processes across different environmental conditions incorporating the direct involvement of farmers has great potential to develop crop varieties better adapted to different organic and low input farming systems [<xref ref-type="bibr" rid="R29">29</xref>]. Decentralized and Participatory Plant Breeding (PPB) is a promising approach for developing innovation in plant breeding following the agroecological paradigm. PPB has been carried out traditionally with small farmers in developing countries [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>]. More recently it has been proposed as an alternative breeding approach for organic and low input farming in Europe [<xref ref-type="bibr" rid="R32">32</xref>] with a focus on adaptation to climate change [<xref ref-type="bibr" rid="R29">29</xref>]. PPB is often criticized for the high investment in time and resources required to build farmer networks, but in a context where farmers are already embedded in social networks such investments can be significantly lower and may not entail additional efforts for dissemination or marketing of the varieties released [<xref ref-type="bibr" rid="R33">33</xref>]. We used the plant breeding approach to identify farmers that are following the agroecological innovation paradigm. To understand how to support the development of this emerging approach to innovation as complementary to the dominant one, we studied the knowledge management networks of farmers involved in Participatory Plant Breeding in Europe.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Analysis of Farmers’ Knowledge Networks</title>
+         <p>Network analysis [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>] has great potential to describe complex farm systems that aim to integrate the goal of productivity with those of autonomy, stability, diversity and quality. Farmers are moving in complex environments with several economic, environmental, social and cultural factors influencing their behaviour and they often tend to see their practices and the reasons they use them in terms of social relationships [<xref ref-type="bibr" rid="R39">39</xref>]. Van der Ploeg [<xref ref-type="bibr" rid="R01">1</xref>] used the term “autonomy” to refer to the need of individual farmers to reduce their dependency on external inputs and market prices. In this view, the new peasant needs to work hard on developing synergies with ecological processes and social connections. The analysis of social connections that influence knowledge management was conducted on four case studies of farmers involved in PPB experiments in the framework of the SOLIBAM project. The strategies of SOLIBAM focus on the integration of breeding approaches (such as Evolutionary or Participatory Plant Breeding, increasing stability through genetic diversity and the development of organic wheat varieties) with agronomic methods of farm management (such as intercropping and associated crops). They represent an example of technologies that promote farmers’ interactions with nature [<xref ref-type="bibr" rid="R40">40</xref>].</p>
+         <sec id="s4.1">
+            <title>4.1.- Research Methodology</title>
+            <p>As the aim of this study was to contribute to the description of emerging innovative actors in organic agriculture with a focus on knowledge management strategies, we selected organic farmers involved in PPB experiments in Europe. In particular we identified four case studies of farmers that local researchers and stakeholders recognise as examples of best practice of innovative organic farmers in their region. Four organic farmers in France and Italy were studied in terms of the actors involved in their knowledge system and their respective roles. A description of the farms is given in Table <xref ref-type="table" rid="Tab01">1</xref>. The focus was on person-based processes that influence the decision making of individual agricultural stakeholders [<xref ref-type="bibr" rid="R41">41</xref>]. The four farmers were interviewed regarding their innovation strategies, being asked to describe the actors involved in their knowledge network. A participatory approach for data collection, known as Participatory Mapping [<xref ref-type="bibr" rid="R42">42</xref>], was used with the aim of improving the data collection procedure for personal networks in rural contexts. Using this approach, farmers were directly involved in defining their ‘relationship maps’ through a facilitated workshop with researchers. The result was a directed graph (i.e. a network of nodes and directed arrows) showing the relationships that directly and indirectly influence the functioning of the farm.</p>
+            <p>The visualisation of the relationship map helps farmers to give more information about the connections between actors than the use of a questionnaire. The researcher firstly asked the farmer to identify actors influencing his innovation strategy and then to show the connections between actors by asking: who are the actors you exchange knowledge with? [<xref ref-type="bibr" rid="R38">38</xref>]. This process allowed a large amount of data to be collected in a short time and resulted in being a particularly suitable approach to describe innovative agricultural models through their knowledge systems. The mapping approach allowed the respondents to visualize their relational systems while describing it verbally to the researcher, increasing the potential of network analysis as an awareness-building tool [<xref ref-type="bibr" rid="R43">43</xref>].</p>
+            <table-wrap position="float" orientation="portrait" id="Tab01">
+               <label>
+                Table 1:
+            </label>
+               <caption>
+                  <title>Main features of the four case study farms.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>IT1</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>IT2</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>FR1</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>FR2</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-2" style="border:t;" colspan="1">
+                           <bold>Location</bold>
+                        </td>
+                        <td align="left" rowspan="-2" style="border:t;" colspan="1">Tuscany</td>
+                        <td align="left" rowspan="-2" style="border:t;" colspan="1">Friuli</td>
+                        <td align="left" rowspan="-2" style="border:t;" colspan="1">Brittany</td>
+                        <td align="left" rowspan="-2" style="border:t;" colspan="1">Brittany</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Ha</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">300</td>
+                        <td align="left" style="" rowspan="1" colspan="1">21</td>
+                        <td align="left" style="" rowspan="1" colspan="1">70</td>
+                        <td align="left" style="" rowspan="1" colspan="1">8</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-2" style="" colspan="1">
+                           <bold>Workers</bold>
+                        </td>
+                        <td align="left" rowspan="-2" style="" colspan="1">9</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">1</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">2</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">1 (3h/week)</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Household</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">3 people</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2 people</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4 people</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4 people</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-2" style="" colspan="1">
+                           <bold>Total revenue (2010)</bold>
+                        </td>
+                        <td align="left" rowspan="-2" style="" colspan="1">Between 150.000 and 200.000</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">Between 100.000 and 150.000</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">Between 150.000 and 200.000</td>
+                        <td align="left" rowspan="-2" style="" colspan="1">Between 25.000 and 30.000</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Organic/mix</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Organic since 1987</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Mix, 6 ha organic</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Organic since 1985</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Organic since the start up phase</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-4" style="" colspan="1">
+                           <bold>Main crops</bold>
+                        </td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Arable crops: cereals, legume crops.</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Vegetables (6 ha organic), Arable crops: cereals (conventional)</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Livestock (cows, chicken, pigs) and arable crops: cereals.</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Cereals, vegetables, fruits, livestock (rabbit, chickens)</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Products</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Bread and pasta</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Vegetables and cereals</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Cheese, butter, yogurt, cereals and flour</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Bread, gallettes, meat, apple juice, cider</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-4" style="" colspan="1">
+                           <bold>Supply Chain</bold>
+                        </td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Food processing and on farm sale of bread and pasta</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Fresh vegetables for direct selling and raw cereals for processing</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Food processing on farm for dairy products and flour production</td>
+                        <td align="left" rowspan="-4" style="" colspan="1">Food processing on farm for bread and gallettes (paysan-boulanger)</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Seeds/breeding</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Old varieties since 2006. Home saved and reproduced in a network of farms</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Home saved, reproduced on farm.</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Home saved, agrobiodiversity, seed exchange, on farm selection</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Home saved, reproduced on farm</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-8" style="" colspan="1">
+                           <bold>Innovations</bold>
+                        </td>
+                        <td align="left" rowspan="-8" style="" colspan="1">Conversion to organic farming- Introduction of old cereal varieties in the fields -Processing plants for old cereal varieties.</td>
+                        <td align="left" rowspan="-8" style="" colspan="1">Modification of the farm organizational model - Crop diversification - Reduction of cultivated land.</td>
+                        <td align="left" rowspan="-8" style="" colspan="1">Swiss cow landrace, cereal selection for hay to feed animals - Cereal selection for high quality bread and flour production - On farm conservation of old varieties</td>
+                        <td align="left" rowspan="-8" style="" colspan="1">Use of animal labour in the field (60%) - Bread making strategies - Bread home delivery.</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Funds</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">EU RDP</td>
+                        <td align="left" style="" rowspan="1" colspan="1">EU CAP</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Research projects (EU, private foundations etc.)</td>
+                        <td align="left" style="" rowspan="1" colspan="1">EU CAP</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="-5" style="border:bb;" colspan="1">
+                           <bold>Market channels</bold>
+                        </td>
+                        <td align="left" rowspan="-5" style="border:bb;" colspan="1">On farm shop, e-commerce, consumers groups , local shops and restaurants.</td>
+                        <td align="left" rowspan="-5" style="border:bb;" colspan="1">Farmer’s markets and consumers’ groups for vegetables. Large distribution for cereals</td>
+                        <td align="left" rowspan="-5" style="border:bb;" colspan="1">Farmers’markets, on farm shop, consumers’groups, local bakeries and shops.</td>
+                        <td align="left" rowspan="-5" style="border:bb;" colspan="1">Consumers’groups, on farm shop shared with other farmers, bread home delivery, local shops.</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Results</title>
+            <p>The selected farmers have a vision of agriculture as an activity that goes beyond simply food production, embedding the development of social relationships in the production process [<xref ref-type="bibr" rid="R41">41</xref>]. This vision is communicated through direct contact: the possibility to buy the products directly on farm guarantees a continuous exchange of knowledge between the farmer and the consumers. This exchange is deeper when other activities with consumers, such as voluntary work and on-farm visits, bring people with different backgrounds to the farm. The public research institutions contribute to the farmer’s innovation development with scientific knowledge that responds to the consumers demand for sustainable production. These farmers represent practices at a local level that can become a point of reference for other local actors interested in organic and low input farming. If this approach to agriculture meets a local and regional context in which substantial changes among various stakeholder groups have taken place simultaneously, there is a high possibility for the local system to improve sustainability as a governance process. Moreover, they have a large potential in improving local sustainability thanks to their capacity to connect with other producers, rural stakeholders and wider society actors.</p>
+            <p>The choice to be organic and to follow values and principles of the original organic vision coincides with their choice to be farmers. It represents a baseline in their process of developing innovative organisational models. The farmers interviewed have quite different backgrounds. The French farmers are part of the stream of people who, in the 1970s and again in recent years, started moving back to the land as an alternative to urban industrial life. FR1 is a second generation organic farmer who wants to improve their parents’ decision, while FR2 started farming ten years ago. Also ten years ago, FR1 started to experiment with cereal selection on an organic dairy farm, while FR2 bakes bread on farm and sells it to local consumers. The Italian farmers come from traditional agricultural families; both of them made the choice to change their farm structure and organisation with the aim of keeping agriculture as the main income for the family. IT1 invested in the cultivation of local and old varieties of cereals and processing the grain to produce bread and pasta. IT2 focused on reducing costs, reducing farm size and introducing vegetable production with high agrobiodiversity.</p>
+            <p>Figure <xref ref-type="fig" rid="Fig01">1</xref> shows the knowledge network of the four farmers, using different colours for the economic sector of the actors involved and different node dimensions for the relevance of each actor in terms of the number of connections. FR2 and IT2 tend to have a strong role of the farmer in the knowledge networks, as they are the only nodes of a large size and all knowledge exchange flows pass by the farmer. FR1 and IT1 have a more polycentric network, where other actors, e.g. members of the farmer family or technicians working in collaboration with the farmers, have a significant role in managing the knowledge exchange process.</p>
+            <p>Networking is an important aspect in the development of a new farm or an innovative approach to farming. FR2 and IT2 had to create relationships with local actors over time that they directly manage. Both FR2 and IT2 are the main individuals responsible for the farm activity and the ones who make choices every day. The role of the workers is secondary in this type of farm due to the specific organisational model based on family work, and also to the small size of the farms (3 to 6 ha). Most of the actors in these farmers’ networks are individuals; a direct connection with collective actors that would have a potential to enlarge their network is missing. FR2 listed 28 actors while IT2 described a total of 20 actors: they are looking at other actors in terms of what they can get from them to improve their system. Most of the actors in the network are directly related to the farmer without any connection to each other. The analysis of the FR2 network allows us to identify the two associated realities in which the farmer is embedded: seed networks and organic agriculture associations (see Appendix for complete list of actors). However, FR2 also described his relationships with individual farmers that are based on personal continuous knowledge exchange with a high level of reciprocity. FR2 nominated five individual farmers and the person who sold him the oven for baking his own bread as people that contribute to his knowledge exchange network on specific problems. The other farmers represent an important source of information on what is going on outside the local area and they can give important insights for the management of the farm. The knowledge network of IT2 focuses on the farmer’s direct contacts. The low receptivity of the local context hampers his possibility to share his innovative vision with local actors. However, his breeding experience in horticulture attracted several researchers at national and international level, thanks to the contact with other farmers. This allows IT2 to be involved in research projects and to exchange his seeds with other farmers with similar experiences. The knowledge exchange network of both IT2 and FR2 involves the actors related to market channels such as consumers groups, consumers on farm and farmers markets.</p>
+            <p>Even if, as part of the farmers’ visions, direct contact with consumers should be key to the farm model they want to develop, they have a low capacity to influence this in practice due to the short time the farmers have to spend in the shop talking to consumers. FR1 and IT1 are examples of family farms of a significant size (between 70 and 300 ha) that decided to invest in innovation to maintain farming activity as the main source of income. They have larger knowledge exchange networks than the other farmers observed in this work. Their active participation in research projects and the continuous development of PPB make FR1 and IT1 familiar with the mutual learning process between farmers and researchers.</p>
+            <fig id="Fig01" position="float" orientation="portrait">
+               <label>
+                Figure 1:</label>
+               <caption>
+                  <title>Farmers knowledge networks ( a) FR1 b) FR2 c) IT1 d) IT2 ) by number of connections and economic sectors (Agriculture (yellow), Processing industry (green), Services (red) Public Administration (blue), Research (pink) Households (white)). The size of the circle is related to the number of connections that each node has with others, while the lengths of the connections do not have any significance. The graphs are developed following an ego network analysis approach and using the program “Pajek”. See Appendix for a complete list of actors. </title>
+               </caption>
+               <graphic xlink:href="Fig01.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Innovation activity is managed by the farmers with the direct participation of other actors such as researchers, farmers’ associations, consumers etc. This structure of “collective management” of on-farm innovation that directly includes the spread of innovation in the process of innovation development itself is one of the most important characteristics of this transition pathway. These farmers work in close collaboration with individual researchers from public research institutions. The connection to a specific researcher is often followed by an exchange of material, in general seeds, with the researchers themselves or with other relevant actors. More than one person in the family is active in the farming system. Local administrators exchange knowledge with both IT1 and FR1 for the development of local projects with different aims: educational activities with schools, projects to close the cereal supply chain at a local level, projects to reproduce seeds of old traditional varieties etc. Concerning farmers’ associations, FR1 and IT1 perceive several actors as relevant. Their membership of different farmers associations is in both cases connected to a strong participation and inclusive attitude. The influence on innovation development of such organisations is often related to the opportunity to meet with other farmers who have similar interests in different contexts. The peer to peer exchange is recognised as a good strategy to develop and spread innovation. In particular FR1 participated in three study trips to other countries (Spain, Syria, Germany), the latter of which has been followed by a direct contact with farmers and researchers from Germany not just for knowledge but also for seed exchange. IT1 included the contact with the French RSP (Reseau Semences Paysannes – www.semencespaysannes.org) that he developed thanks to a study trip and an event that the Italian RSR (Rete Semi Rurali – www.semirurali.net) organized on his farm to meet with farmers and bakers from all over Europe.</p>
+            <p>At the same time, the farmers offer opportunities for exchanges among farmers on their own farms. The funding mechanisms through the EU to the regional administration and then to the farmers are well described by both subjects. IT1 is aware of the funding for Rural Development Plans because he used them to fund the building of his mill and on farm pasta processing plant. FR1 is more aware of the research funding mechanisms, because he was involved in research projects in collaboration with INRA. The vision of internal and external actors in terms of contribution to the functioning of the system is variable among the interviewed farmers. FR1 considered just himself, his family and the worker as internal to the system; FR2 defined six actors as internal and the rest as external. The internal actors could be divided into two groups, those who have more relationships with the external actors and those who have mainly internal relationships. IT2 includes consumers as actors internal to the system as “the system cannot function without them”. IT1 considers all the actors and the link described as internal to the farm system, as in his vision they all contribute to its functioning.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Discussion: Moving Through an Agroecological Innovation Paradigm</title>
+         <p>The aim of this study was to explore an innovative approach to describe actors emerging in rural areas, following an agroecological approach to innovation in agriculture. Four case studies are not exhaustive, but the exercise shows promising results and it would be interesting to replicate it in other cases. Networks indicators such as centrality measures can be used for a more detailed analysis on the role of individual actors in the network. Looking at local learning capacity and systems of relations seems to give an effective contribution to understanding the potential to develop innovation within a specific context.</p>
+         <p>From the analysis of case studies, it emerged that the main relevant actors in knowledge exchange of farmers that represent innovation “best practice” are other farmers and farmers’ associations together with consumers or citizens and individual publicly funded researchers. No role is given to extension services, which are otherwise often considered as key actors for innovation transfer by public policies. The advisors nominated by the farmers are independent with a high level of commitment to their work, and often have a key role in enlarging the individual farmers knowledge systems. The “transfer of technology” typical of a top-down linear process of innovation is not effective in the new context of sustainability [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R44">44</xref>], which is characterised by complexity and uncertainty [<xref ref-type="bibr" rid="R45">45</xref>]. The role of technicians identified by the four farmers is more similar to that of innovation brokers. Moreover, the farmers investigated in the case studies are collaborating with public research agencies, which can play a pivotal role in promoting decentralised and participatory research [<xref ref-type="bibr" rid="R46">46</xref>]. This result confirms the need to give a completely new role to extension services to enhance knowledge sharing. The facilitator and/or innovation broker should be considered as intermediate actors enhancing AKIS at a local level. Advisors should be part of the network together with researchers, farmers, local institutions and all other stakeholders. In this framework, agricultural and rural innovation policies should promote the dynamic exchange of knowledge among peers as a training tool in agriculture, e.g. through funding visits to others with similar experiences in different regions or countries.</p>
+         <p>Another important aspect is related to public research systems. In a perspective of integral sustainability of agriculture it is crucial to maintain and increase public funds for agricultural research on organic and low-input farming systems and do more to strengthen the participation and decentralization of public research systems. However what is also important is to revise the evaluation system of public research institutions encouraging a Result Based Management approach [<xref ref-type="bibr" rid="R47">47</xref>] to agricultural research.</p>
+         <p>In fact, a trend that needs to be reversed in order to promote sustainability pathways based on the agro-ecological paradigm is the disincentive for researchers and institutions to be involved in AKIS and to contribute to the collective development of new knowledge. As stated by Wolf et al. “the Impact Factor and other journal-based metrics are increasingly considered inappropriate for comparing the scientific output of individuals and institutions” [<xref ref-type="bibr" rid="R48">48</xref>]. Furthermore, “innovation” is becoming a synonym for “patent” and has no relationship at all with the actual uptake of a solution by end-users, especially farmers. According to the agroecological approach to innovation, an excellent piece of research which is published in a high-ranked international scientific journal, but whose knowledge is not applied by the end users is not an innovation at all.</p>
+         <p>It is also worth noting that in the world of research there is a clear idiosyncrasy. On the one hand, the trend towards evaluation of researchers and institutions based on bibliographic indicators and patents (with clear consequences on fund allocation) is being strengthened [<xref ref-type="bibr" rid="R49">49</xref>]. On the other hand, major funders (e.g. the European Commission through the new Horizon 2020 framework programme) are advocating a multi-disciplinary, multi-actor approach in agricultural research. This means that stakeholders (actors) should be actively involved in research projects from the very beginning much more so than in the past rather than being passive recipients of disseminated project results. In agricultural research, this applies to farmers and their organisations, companies (including breeders) and other potential contributors to and end users of new knowledge generated in research projects. Following this pathway should guarantee that collaboration between researchers and multiple actors (including farmers) will be fully exploited for the mutual benefit of all partners engaged in a project and of society at large. The current approach of agricultural research evaluation denies the recent trends in research funding fostered by the EC and hence the importance of multi-actor collaboration (e.g. EIP AGRI experience). For the time being, there is little structural incentive for researchers or institutions to become engaged in participatory research because this part of their work is not considered a valuable research output. The consequence is that inter- and trans-disciplinary research, the basis for innovation in the agroecological sense, is discouraged [<xref ref-type="bibr" rid="R46">46</xref>]. Here, we are not downgrading the importance of producing excellent research publications and patents: we are simply claiming that considering these as the only valuable outputs of research is narrow-minded, will increase the gap between researchers, farmers and other end-users, and will jeopardize the production of innovation.</p>
+         <p>In order to reverse this trend the approach of research evaluation agencies should promptly incorporate new indicators valorising inter- and trans-disciplinary research. There are new developments on this subject [<xref ref-type="bibr" rid="R48">48</xref>], but “these are still confronted by incentive systems that favour the old style of evaluation and old method of producing research: mono-disciplinary, with a focus on publication in international journals” [<xref ref-type="bibr" rid="R49">49</xref>].</p>
+         <p>National and EU Agricultural policies which support novelties and bottom-up innovations with subsidies and niche market development, if integrated with innovation policies that encourage knowledge exchange using a multi-actor approach, could facilitate a more coherent scaling up of such innovations, as is already happening in some contexts. The possibility of scaling up innovations developed in a knowledge system with a network structure, in which different actors work side by side, can improve the likelihood of contributing at a micro level to radical changes in the systems required by a territorial approach to sustainability. This approach sees the creation of a network of best practices at a local level as the basis to attain sustainability goals at society level [<xref ref-type="bibr" rid="R50">50</xref>].</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+         <title></title>
+         <supplementary-material>
+            
+            <label></label>
+            <table-wrap>
+               <label>
+                  Table A1 and A2:
+               </label>
+               <caption>
+                  <title>IT1</title>
+               </caption>
+               <table id="T2">
+      
+        <thead>
+          <tr>
+            <td />
+             <td align="center" ><bold>Code</bold></td>
+             <td align="left" ><bold>Label</bold></td>
+             <td align="left" ><bold>Actor</bold></td>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td align="left" >IT1</td>
+            <td align="center" >1</td>
+            <td align="left" >far_mul</td>
+            <td align="left" >farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">2</td>
+            <td align="left">far_soc</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">3</td>
+            <td align="left">Bak_alt</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">4</td>
+            <td align="left">Tech_GP</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">5</td>
+            <td align="left">Res_ProfSB</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">6</td>
+            <td align="left">Tec_MB</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">7</td>
+            <td align="left">Ass_Bdyn</td>
+            <td align="left">NGOs</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">8</td>
+            <td align="left">Res_RB</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">9</td>
+            <td align="left">Doc_Onc</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">10</td>
+            <td align="left">Res_ProfGB</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">11</td>
+            <td align="left">Tech_C</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">12</td>
+            <td align="left">Cit_health</td>
+            <td align="left">customers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">13</td>
+            <td align="left">Tech_CP</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">14</td>
+            <td align="left">Act_com</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">15</td>
+            <td align="left">PA_Mun_PT</td>
+            <td align="left">farmersfarmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">16</td>
+            <td align="left">Ass_RSR</td>
+            <td align="left">NGOs</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">17</td>
+            <td align="left">far_Bdyn</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">18</td>
+            <td align="left">Ass_CTPB</td>
+            <td align="left">cooperation at local and extralocal level</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">19</td>
+            <td align="left">Com_DR</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">20</td>
+            <td align="left">DES_PI</td>
+            <td align="left">customers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">21</td>
+            <td align="left">PA_EU</td>
+            <td align="left">political institution</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">22</td>
+            <td align="left">Con_fam</td>
+            <td align="left">customers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">23</td>
+            <td align="left">far_IT1</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">24</td>
+            <td align="left">far_IT1_bro</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">25</td>
+            <td align="left">far_IT1_wife</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">26</td>
+            <td align="left">Far_meet</td>
+            <td align="left">cooperation at local and extralocal level</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">27</td>
+            <td align="left">Bak_flo</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">28</td>
+            <td align="left">Res_RF</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">29</td>
+            <td align="left">Con_Groups</td>
+            <td align="left">customers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">30</td>
+            <td align="left">Agr_Nut</td>
+            <td align="left">consultants</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">31</td>
+            <td align="left">Ev_Fr_far</td>
+            <td align="left">cooperation at local and extralocal level</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">32</td>
+            <td align="left">Ev_br_08</td>
+            <td align="left">cooperation at local and extralocal level</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">33</td>
+            <td align="left">Bak_Mad</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">34</td>
+            <td align="left">Coop_ster</td>
+            <td align="left">cooperation at local and extralocal level</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">35</td>
+            <td align="left">Comp_mach</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">36</td>
+            <td align="left">Res_PM</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">37</td>
+            <td align="left">Mill_MS</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">38</td>
+            <td align="left">Onf_Sho_PT</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">39</td>
+            <td align="left">far_N_15</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">40</td>
+            <td align="left">far_N_20</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">41</td>
+            <td align="left">far_N_50</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">42</td>
+            <td align="left">On_sho_IT1</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">43</td>
+            <td align="left">Far_others</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">44</td>
+            <td align="left">Doc_PR</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">45</td>
+            <td align="left">Schools</td>
+            <td align="left">education</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">46</td>
+            <td align="left">Cons_pr</td>
+            <td align="left">customers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">47</td>
+            <td align="left">Pro_old_mill</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">48</td>
+            <td align="left">PA_Pro_PI</td>
+            <td align="left">political institution</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">49</td>
+            <td align="left">RDP_06</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">50</td>
+            <td align="left">RDP_10_Mill</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">51</td>
+            <td align="left">RDP_11_Pasta</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">52</td>
+            <td align="left">PA_Reg_Tus</td>
+            <td align="left">political institution</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">53</td>
+            <td align="left">Cus_Rest</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">54</td>
+            <td align="left">Far_net_sell</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">55</td>
+            <td align="left">Ass_RSP</td>
+            <td align="left">NGOs</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">56</td>
+            <td align="left">Cus_Org_Sho</td>
+            <td align="left">retail outlets</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">57</td>
+            <td align="left">Res_UNIFI</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">58</td>
+            <td align="left">Res_UNIPI</td>
+            <td align="left">knowledge institutes and researchers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">59</td>
+            <td align="left">Wor_1</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">60</td>
+            <td align="left">Far_IT1_Mot</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">61</td>
+            <td align="left">Loc_Bank</td>
+            <td align="left">financial service providers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">62</td>
+            <td align="left">Website</td>
+            <td align="left">communication</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">63</td>
+            <td align="left">Comp_Pack</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">64</td>
+            <td align="left">BC_proc</td>
+            <td align="left">processing industries</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">65</td>
+            <td align="left">BC_Agr</td>
+            <td align="left">farmers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">66</td>
+            <td align="left">Wor_5</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">67</td>
+            <td align="left">PA_Mun_Semp</td>
+            <td align="left">political institution</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">68</td>
+            <td align="left">Wor_2</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">69</td>
+            <td align="left">Wor_3</td>
+            <td align="left">suppliers</td>
+          </tr>
+          <tr>
+            <td align="left">IT1</td>
+            <td align="center">70</td>
+            <td align="left">Wor_4</td>
+            <td align="left">suppliers</td>
+          </tr>
+        </tbody>
+      
+    </table>
+            </table-wrap>
+         </supplementary-material>
+         <supplementary-material>
+            <label></label>
+            <table-wrap>
+               <label>
+                  Table A3:
+               </label>
+               <caption>
+                  <title>IT2</title>
+               </caption>
+               <table id="T3">
+                  <thead>
+                     <tr>
+                        <td />
+                        <td align="center" ><bold>Code</bold></td>
+                        <td align="left"><bold>Label</bold></td>
+                        <td align="left"><bold>Actor</bold></td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left"  >IT2</td>
+                        <td align="center"  >1</td>
+                        <td align="left" >far_IT2</td>
+                        <td align="left" >Farmer IT2</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >2</td>
+                        <td align="left">Tech_AIAB</td>
+                        <td align="left">AIAB Technician</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >3</td>
+                        <td align="left">Res_CP</td>
+                        <td align="left">Researcher from ER Region CP</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >4</td>
+                        <td align="left">Res_AIAB_CM</td>
+                        <td align="left">AIAB Researcher CM</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >5</td>
+                        <td align="left">Ass_Col</td>
+                        <td align="left">Association Coldiretti</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >6</td>
+                        <td align="left">Res_CRA ORA</td>
+                        <td align="left">Researcher Agricultural Research Council (CRA ORA)</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >7</td>
+                        <td align="left">Far_others</td>
+                        <td align="left">Other Farmers</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >8</td>
+                        <td align="left">Far_org_PD</td>
+                        <td align="left">Organic farmer in PD</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >9</td>
+                        <td align="left">Wor_1</td>
+                        <td align="left">Worker</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >10</td>
+                        <td align="left">Far_IT2_wife</td>
+                        <td align="left">Farmer IT2 wife</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >11</td>
+                        <td align="left">Con_Group_UD</td>
+                        <td align="left">Consumers’group in UD</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >12</td>
+                        <td align="left">Con_Group_AIAB</td>
+                        <td align="left">Consumers’group AIAB</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >13</td>
+                        <td align="left">Meet_con_group</td>
+                        <td align="left">Meetings with consumers’ group</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >14</td>
+                        <td align="left">Mill_loc</td>
+                        <td align="left">Local miller</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >15</td>
+                        <td align="left">Res_ICARDA_SC</td>
+                        <td align="left">Researcher ICARDA Ceccarelli</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >16</td>
+                        <td align="left">Far_org_Ven</td>
+                        <td align="left">Organic farmers in Veneto</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >17</td>
+                        <td align="left">Far_MI</td>
+                        <td align="left">Farmer in Milan Province</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >18</td>
+                        <td align="left">Mar_CA</td>
+                        <td align="left">Farmers Market “Campagna Amica”</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center" >19</td>
+                        <td align="left">Comp_input_loc</td>
+                        <td align="left">Local input provider company</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >IT2</td>
+                        <td align="center">20</td>
+                        <td align="left">Cons</td>
+                        <td align="left">Consumers</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </supplementary-material>
+         <supplementary-material>
+            <label></label>
+            <table-wrap>
+               <label>
+                  Table A4:
+               </label>
+               <caption>
+                  <title>FR1</title>
+               </caption>
+               <table id="T4">
+                  <thead>
+                     <tr>
+                        <td  />
+                        <td align="center"><bold>Code</bold></td>
+                        <td align="left"><bold>Label</bold></td>
+                        <td align="left"><bold>Actor</bold></td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >1</td>
+                        <td align="left">far_FR1</td>
+                        <td align="left">Farmer FR1</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >2</td>
+                        <td align="left">far_FR1_mo</td>
+                        <td align="left">Farmer FR1 Mother</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >3</td>
+                        <td align="left">far_FR1_fath</td>
+                        <td align="left">Farmer FR1 Father</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >4</td>
+                        <td align="left">far_FR1_bro</td>
+                        <td align="left">Farmer FR1 Brother</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >5</td>
+                        <td align="left">Stag_FR1</td>
+                        <td align="left">Stagiers</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >6</td>
+                        <td align="left">Wor_1</td>
+                        <td align="left">Worker</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >7</td>
+                        <td align="left">Tech_ITAB</td>
+                        <td align="left">Istitut technique de l’Agriculture Biologique - ITAB</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >8</td>
+                        <td align="left">Ass_FNAB</td>
+                        <td align="left">Federation Nationale d’Agriculture Biologique - FNAB</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >9</td>
+                        <td align="left">PA_Mun</td>
+                        <td align="left">Local Municipality</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >10</td>
+                        <td align="left">Con_Group</td>
+                        <td align="left">Consumers Group - AMAP</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >11</td>
+                        <td align="left">Ev_onf_vis</td>
+                        <td align="left">Visits on farm</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >12</td>
+                        <td align="left">Mar_loc</td>
+                        <td align="left">Farmers Market</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >13</td>
+                        <td align="left">Con_onf</td>
+                        <td align="left">Consumers on farm</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >14</td>
+                        <td align="left">Comp_seeds</td>
+                        <td align="left">Commercial seeds company</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >15</td>
+                        <td align="left">Far_Neig</td>
+                        <td align="left">Neighbour Farmers</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >16</td>
+                        <td align="left">Ass_FB</td>
+                        <td align="left">Association Formation blè</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >17</td>
+                        <td align="left">Ass_GAB</td>
+                        <td align="left">Groupement des Agriculterurs Biologique - GAB</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >18</td>
+                        <td align="left">Ass_Trip</td>
+                        <td align="left">Association Triptoleme</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >19</td>
+                        <td align="left">Ass_RSP</td>
+                        <td align="left">Reseau Semences Paysannes - RSP</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >20</td>
+                        <td align="left">Res_INRA</td>
+                        <td align="left">Institut National de la Recherche Agronomique - INRA</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >21</td>
+                        <td align="left">St_tr_ES</td>
+                        <td align="left">Study trip in Spain</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >22</td>
+                        <td align="left">Far_D</td>
+                        <td align="left">Farmers from germany</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >23</td>
+                        <td align="left">Vol_wor_con</td>
+                        <td align="left">Events of voluntary work for consumers</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >24</td>
+                        <td align="left">Vol_wor_seed</td>
+                        <td align="left">Events of voluntary work for seeds</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >25</td>
+                        <td align="left">Far_CUMA</td>
+                        <td align="left">Farmers from Coopératives d’Utilisation de Matériel Agricole - CUMA</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >26</td>
+                        <td align="left">Cus_Org_Sho</td>
+                        <td align="left">Organic Shop</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >27</td>
+                        <td align="left">PA_Reg</td>
+                        <td align="left">Regional Administration</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >28</td>
+                        <td align="left">Pr_Found</td>
+                        <td align="left">Private Foundations</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >29</td>
+                        <td align="left">PA_EU</td>
+                        <td align="left">European Union</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >30</td>
+                        <td align="left">St_tr_D</td>
+                        <td align="left">Study trip in Germany</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >31</td>
+                        <td align="left">Res_D</td>
+                        <td align="left">Researchers from Germany</td>
+                     </tr>
+                     <tr>
+                        <td align="left" >FR1</td>
+                        <td align="center" >32</td>
+                        <td align="left">St_tr_ES</td>
+                        <td align="left">Study trip in Syria</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </supplementary-material>
+         <supplementary-material>
+            <label></label>
+            <table-wrap>
+               <label>
+                  Table A5:
+               </label>
+               <caption>
+                  <title>FR2</title>
+               </caption>
+               <table id="T5">
+                  <thead>
+                     <tr>
+                        <td/>
+                        <td align="center"><bold>Code</bold></td>
+                        <td align="left"><bold>Label</bold></td>
+                        <td align="left"><bold>Actor</bold></td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">1</td>
+                        <td align="left">far_Chris</td>
+                        <td align="left">Farmer Christopher</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">2</td>
+                        <td align="left">Ass_N&amp;P_N</td>
+                        <td align="left">Association “Nature et progres” - National group</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">3</td>
+                        <td align="left">far_Phil</td>
+                        <td align="left">Farmer Philippe</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">4</td>
+                        <td align="left">Wor_1</td>
+                        <td align="left">Worker</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">5</td>
+                        <td align="left">Comp_input_1</td>
+                        <td align="left">Local input provider company - VEGAM</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">6</td>
+                        <td align="left">Ass_Trip</td>
+                        <td align="left">Association Triptoleme</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">7</td>
+                        <td align="left">EU_FP7_pro</td>
+                        <td align="left">EU FP7 Project SOLIBAM</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">8</td>
+                        <td align="left">Far_J&amp;F</td>
+                        <td align="left">Farmers Julie et Florent</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">9</td>
+                        <td align="left">Res_INRA</td>
+                        <td align="left">Institut National de la Recherche Agronomique - INRA</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">10</td>
+                        <td align="left">Ass_GEFA</td>
+                        <td align="left">Group for collective land purchase - GEFA</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">11</td>
+                        <td align="left">far_FR2_fam</td>
+                        <td align="left">Farmer FR2 Family</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">12</td>
+                        <td align="left">Sho_loc</td>
+                        <td align="left">Local grocery shop</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">13</td>
+                        <td align="left">far_FR2</td>
+                        <td align="left">Farmer FR2</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">14</td>
+                        <td align="left">Con_onf</td>
+                        <td align="left">Consumers on farm</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">15</td>
+                        <td align="left">far_Cla</td>
+                        <td align="left">Farmer Claude</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">16</td>
+                        <td align="left">ov_pro_BE</td>
+                        <td align="left">Oven provider from Belgium</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">17</td>
+                        <td align="left">Bak_loc</td>
+                        <td align="left">Baker</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">18</td>
+                        <td align="left">Con_group_AMAP_L</td>
+                        <td align="left">Consumers group AMAP - L</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">19</td>
+                        <td align="left">Con_Group_AMAP_G</td>
+                        <td align="left">Consumers group AMAP - G</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">20</td>
+                        <td align="left">Far_net_sell</td>
+                        <td align="left">Network of 4 farmers for selling</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">21</td>
+                        <td align="left">Ass_RSP</td>
+                        <td align="left">Reseau Semences Paysannes - RSP</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">22</td>
+                        <td align="left">Ass_N&amp;P_L</td>
+                        <td align="left">Association “Nature et progres” - local group</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">23</td>
+                        <td align="left">Comp_input_2</td>
+                        <td align="left">Local input provider company - PINAILT SA</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">24</td>
+                        <td align="left">Coop_Org_Sho</td>
+                        <td align="left">Organic shop - BIOCOOP</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">25</td>
+                        <td align="left">Comp_input_3</td>
+                        <td align="left">Local input provider company - APROBIO</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">26</td>
+                        <td align="left">Coop_CUMA</td>
+                        <td align="left">Coopératives d’Utilisation de Matériel Agricole - CUMA</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">27</td>
+                        <td align="left">Org_cert_body</td>
+                        <td align="left">Organic certification body</td>
+                     </tr>
+                     <tr>
+                        <td align="left">FR2</td>
+                        <td align="center">28</td>
+                        <td align="left">PA_DDTM</td>
+                        <td align="left">Agency for public funds - DDTM</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </supplementary-material>
+      </sec>
+   </body>
+   
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The new peasantries: struggles for autonomy and sustainability in an era of empire and globalization</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van der Ploeg, Jan Douwe</surname>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Beyond industrial agriculture? Some questions about farm size, productivity and sustainability</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Woodhouse</surname>
+                     <given-names>Philip</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Agrarian Change</source>
+               <volume>10</volume>
+               <issue>3</issue>
+               <fpage>437</fpage>
+               <lpage>453</lpage>
+               <year>2010</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+               <pub-id pub-id-type="doi">10.1111/j.1471-0366.2010.00278.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/1467-9523.00156</pub-id>
+               <year>2000</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>40</volume>
+               <issue>4</issue>
+               <fpage>391</fpage>
+               <lpage>408</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jan Douwe Van der Ploeg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Henk Renting</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gianluca Brunori</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Karlheinz Knickel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Joe Mannion</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Terry Marsden</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kees de Roest</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eduardo Sevilla-Guzman</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Flaminia Ventura</surname>
+                  </name>
+               </person-group>
+               <article-title>Rural Development: From Practices and Policies towards Theory</article-title>
+               <source>Sociologia Ruralis</source>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Explaining the decrease in the genetic diversity of wheat in France over the 20th century</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bonnin</surname>
+                     <given-names>Isabelle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bonneuil</surname>
+                     <given-names>Christophe</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goffaux</surname>
+                     <given-names>Robin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Montalent</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldringer</surname>
+                     <given-names>Isabelle</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture, Ecosystems &amp; Environment</source>
+               <volume>195</volume>
+               <fpage>183</fpage>
+               <lpage>192</lpage>
+               <year>2014</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.agee.2014.06.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Malandrin</surname>
+                     <given-names>V.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Procesos participativos de innovacion agro-ecologica en el sector de los cereales orgánicos: el caso de estudio de la finca Pratini en Toscana, Italia</article-title>
+               <year>2012</year>
+               <publisher-name>International University of Andalucia</publisher-name>
+               <publisher-loc>Sevilla, Spain</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Abandonment of agricultural land: an overview of drivers and consequences</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Benayas</surname>
+                     <given-names>JM Rey</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martins</surname>
+                     <given-names>Ana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nicolau</surname>
+                     <given-names>Jose M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schulz</surname>
+                     <given-names>Jennifer J</given-names>
+                  </name>
+               </person-group>
+               <source>CAB reviews: Perspectives in Agriculture, Veterinary Science, Nutrition and Natural Resources</source>
+               <volume>2</volume>
+               <issue>57</issue>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <year>2007</year>
+               <publisher-name>Citeseer</publisher-name>
+               <pub-id pub-id-type="doi">10.1079/PAVSNNR20072057</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>System innovations, knowledge regimes, and design practices towards transitions for sustainable agriculture</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barbier</surname>
+                     <given-names>Marc</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elzen</surname>
+                     <given-names>Boelie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>INRA-Département Sciences pour l'Action et le Développement (SAD)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Divergent paradigms of European agro-food innovation: The knowledge-based bio-economy (KBBE) as an R&amp;D agenda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Levidow</surname>
+                     <given-names>Les</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Birch</surname>
+                     <given-names>Kean</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Papaioannou</surname>
+                     <given-names>Theo</given-names>
+                  </name>
+               </person-group>
+               <source>Science, Technology, &amp; Human Values</source>
+               <volume>38</volume>
+               <issue>1</issue>
+               <fpage>94</fpage>
+               <lpage>125</lpage>
+               <year>2013</year>
+               <publisher-name>Sage Publications Sage CA: Los Angeles, CA</publisher-name>
+               <pub-id pub-id-type="doi">10.1177/0162243912438143</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ecological-economic viability as a criterion of strong sustainability under uncertainty</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baumgärtner</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Quaas</surname>
+                     <given-names>Martin F</given-names>
+                  </name>
+               </person-group>
+               <source>Ecological Economics</source>
+               <volume>68</volume>
+               <issue>7</issue>
+               <fpage>2008</fpage>
+               <lpage>2020</lpage>
+               <year>2009</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.ecolecon.2009.01.016</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ideology and agricultural technology in the late twentieth century: Biotechnology as symbol and substance</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buttel</surname>
+                     <given-names>Frederick H</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture and Human Values</source>
+               <volume>10</volume>
+               <issue>2</issue>
+               <fpage>5</fpage>
+               <lpage>15</lpage>
+               <year>1993</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/BF02217599</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Towards food sovereignty: reclaiming autonomous food systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pimbert</surname>
+                     <given-names>Michel P</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <publisher-name>International institute for environment and development (IIED)</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Governance of complex environmental situations through social learning: a synthesis of SLIM's lessons for research, policy and practice</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steyaert</surname>
+                     <given-names>Patrick</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jiggins</surname>
+                     <given-names>Janice</given-names>
+                  </name>
+               </person-group>
+               <source>Environmental Science &amp; Policy</source>
+               <volume>10</volume>
+               <issue>6</issue>
+               <fpage>575</fpage>
+               <lpage>586</lpage>
+               <year>2007</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.envsci.2007.01.011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Towards an integral approach to sustainable agriculture and healthy nutrition: vision of the Scientific Council for Integral Sustainable Agriculture and Nutrition</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>van der Weijden, WJ</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huber</surname>
+                     <given-names>MAS</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jetten</surname>
+                     <given-names>TH</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Blom</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Egmond, ND</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lauwers</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Ommen, B</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Vilsteren, A</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wijffels</surname>
+                     <given-names>HHF</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zijpp, AJ</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>Scientific Council for Integral Sustainable Agriculture and Nutrition</publisher-name>
+               <publisher-loc>The Netherlands</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The future of sustainability science: a solutions-oriented research agenda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Miller</surname>
+                     <given-names>Thaddeus R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sarewitz</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>John</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olsson</surname>
+                     <given-names>Lennart</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kriebel</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loorbach</surname>
+                     <given-names>Derk</given-names>
+                  </name>
+               </person-group>
+               <source>Sustainability Science</source>
+               <volume>9</volume>
+               <issue>2</issue>
+               <fpage>239</fpage>
+               <lpage>246</lpage>
+               <year>2014</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/s11625-013-0224-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Agroecology: the science of natural resource management for poor farmers in marginal environments</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Altieri</surname>
+                     <given-names>Miguel A</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture, Ecosystems &amp; Environment</source>
+               <volume>93</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>24</lpage>
+               <year>2002</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/S0167-8809(02)00085-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Agroecology: the ecology of food systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Francis</surname>
+                     <given-names>Charles</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lieblein</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gliessman</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Breland</surname>
+                     <given-names>TA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Creamer</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Harwood</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Salomonsson</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Helenius</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rickerl</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Salvador</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Journal of Sustainable Agriculture</source>
+               <volume>22</volume>
+               <issue>3</issue>
+               <fpage>99</fpage>
+               <lpage>118</lpage>
+               <year>2003</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1300/J064v22n03\_10</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>On governance, embedding and marketing: reflections on the construction of alternative sustainable food networks</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roep</surname>
+                     <given-names>Dirk</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiskerke</surname>
+                     <given-names>Johannes SC</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Agricultural and Environmental Ethics</source>
+               <volume>25</volume>
+               <issue>2</issue>
+               <fpage>205</fpage>
+               <lpage>221</lpage>
+               <year>2012</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/s10806-010-9286-y</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Visions of sustainability in bioeconomy research</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pfau</surname>
+                     <given-names>Swinda F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hagens</surname>
+                     <given-names>Janneke E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dankbaar</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smits</surname>
+                     <given-names>Antoine JM</given-names>
+                  </name>
+               </person-group>
+               <source>Sustainability</source>
+               <volume>6</volume>
+               <issue>3</issue>
+               <fpage>1222</fpage>
+               <lpage>1249</lpage>
+               <year>2014</year>
+               <publisher-name>Multidisciplinary Digital Publishing Institute</publisher-name>
+               <pub-id pub-id-type="doi">10.3390/su6031222</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>The Economic Implications of Learning by Doing</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Arrow</surname>
+                     <given-names>Kenneth J</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>F. H. Hahn</surname>
+                  </name>
+               </person-group>
+               <source>Readings in the Theory of Growth</source>
+               <fpage>131</fpage>
+               <lpage>149</lpage>
+               <year>1971</year>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Towards a better conceptual framework for innovation processes in agriculture and rural development: From linear models to systemic approaches</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Knickel</surname>
+                     <given-names>Karlheinz</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brunori</surname>
+                     <given-names>Gianluca</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rand</surname>
+                     <given-names>Sigrid</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Proost</surname>
+                     <given-names>Jet</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Agricultural Education and Extension</source>
+               <volume>15</volume>
+               <issue>2</issue>
+               <fpage>131</fpage>
+               <lpage>146</lpage>
+               <year>2009</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/13892240902909064</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brunori</surname>
+                     <given-names>G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rand</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Proost</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barjolle</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Granberg</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dockes</surname>
+                     <given-names>AC</given-names>
+                  </name>
+               </person-group>
+               <article-title>Towards a conceptual framework for agricultural and rural innovation policies</article-title>
+               <publisher-name>IN-SIGHT-Project</publisher-name>
+               <year>2008</year>
+               <publisher-loc>Frankfurtam a. Main, Germany</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>John Wiley &amp; Sons</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Leeuwis</surname>
+                     <given-names>Cees</given-names>
+                  </name>
+               </person-group>
+               <article-title>Communication for rural innovation: Rethinking agricultural extension</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Public-private sector partnerships in an agricultural system of innovation: concepts and challenges</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>Andy</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal of Technology Management &amp; Sustainable Development</source>
+               <volume>5</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>20</lpage>
+               <year>2006</year>
+               <publisher-name>Intellect</publisher-name>
+               <pub-id pub-id-type="doi">10.1386/ijtm.5.1.3/1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Knowledge, food and place. A way of producing, a way of knowing</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fonte</surname>
+                     <given-names>Maria</given-names>
+                  </name>
+               </person-group>
+               <source>Sociologia Ruralis</source>
+               <volume>48</volume>
+               <issue>3</issue>
+               <fpage>200</fpage>
+               <lpage>222</lpage>
+               <year>2008</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+               <pub-id pub-id-type="doi">10.1111/j.1467-9523.2008.00462.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Decentralized participatory plant breeding: A link between formal plant breeding and small farmers</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>Salvatore</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bailey</surname>
+                     <given-names>Elizabeth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tutwiler</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+               </person-group>
+               <source>International Seminar on Participatory Research and Gender Analysis for Technology Developmnt</source>
+               <year>1996</year>
+               <fpage>65</fpage>
+               <lpage>74</lpage>
+               <conf-loc>Cali, Colombia</conf-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="cgspace.cgiar.org/bitstream/handle/10568/56460/S540.8.C4_N4_C3_International_seminar_on_participatory_Research_and_Gender.pdf?sequence=1#page=66"
+                         xlink:type="simple">cgspace.cgiar.org/bitstream/handle/10568/56460/S540.8.C4_N4_C3_International_seminar_on_participatory_Research_and_Gender.pdf?sequence=1#page=66</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Seeds for organic agriculture: Development of participatory plant breeding and farmers’ networks in france</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chable</surname>
+                     <given-names>V\'eronique</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dawson</surname>
+                     <given-names>Julie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bocci</surname>
+                     <given-names>Riccardo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldringer</surname>
+                     <given-names>Isabelle</given-names>
+                  </name>
+               </person-group>
+               <source>Organic Farming, Prototype for Sustainable Agricultures</source>
+               <fpage>383</fpage>
+               <lpage>400</lpage>
+               <year>2014</year>
+               <publisher-name>Springer</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Bellon</surname>
+                     <given-names>S. and Penvern, S.</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>How agricultural research systems shape a technological regime that develops genetic engineering but locks out agroecological innovations</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vanloqueren</surname>
+                     <given-names>Ga\"etan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baret</surname>
+                     <given-names>Philippe V</given-names>
+                  </name>
+               </person-group>
+               <source>Research Policy</source>
+               <volume>38</volume>
+               <issue>6</issue>
+               <fpage>971</fpage>
+               <lpage>983</lpage>
+               <year>2009</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.respol.2009.02.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Conventionalisation of organic farming practices: from structural criteria towards an assessment based on organic principles. A review</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Darnhofer</surname>
+                     <given-names>Ika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lindenthal</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bartel-Kratochvil, Ruth</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zollitsch</surname>
+                     <given-names>Werner</given-names>
+                  </name>
+               </person-group>
+               <source>Agronomy for Sustainable Development</source>
+               <volume>30</volume>
+               <issue>1</issue>
+               <fpage>67</fpage>
+               <lpage>81</lpage>
+               <year>2010</year>
+               <publisher-name>EDP Sciences</publisher-name>
+               <pub-id pub-id-type="doi">10.1051/agro/2009011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Plant breeding and climate changes</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>Salvatore</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Grando</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maatougui</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Michael</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Slash</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haghparast</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rahmanian</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Taheri</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Al-Yassin, A</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Benbelkacem</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>The Journal of Agricultural Science</source>
+               <volume>148</volume>
+               <issue>06</issue>
+               <fpage>627</fpage>
+               <lpage>637</lpage>
+               <year>2010</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <pub-id pub-id-type="doi">10.1017/S0021859610000651</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Decentralized and participatory plant breeding for marginal environments</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Grando</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Amri</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Asaad</surname>
+                     <given-names>FA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Benbelkacem</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Harrabi</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maatougui</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mekni</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mimoun</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>El Einen, RA</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Cooper</surname>
+                     <given-names>H.D. and Spillane, C. and Hodgkin, T.</given-names>
+                  </name>
+               </person-group>
+               <source>Broadening the genetic base of crop production</source>
+               <publisher-name>CAB International, IPGRI and FAO</publisher-name>
+               <publisher-loc>Rome, Italy</publisher-loc>
+               <fpage>115</fpage>
+               <lpage>135</lpage>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Decentralized-participatory plant breeding: an example of demand driven research</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>Salvatore</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Grando</surname>
+                     <given-names>Stefania</given-names>
+                  </name>
+               </person-group>
+               <source>Euphytica</source>
+               <volume>155</volume>
+               <issue>3</issue>
+               <fpage>349</fpage>
+               <lpage>360</lpage>
+               <year>2007</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/s10681-006-9336-8</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Decentralized—Participatory Plant Breeding: Lessons from the South-Perspectives in the North</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>Salvatore</given-names>
+                  </name>
+               </person-group>
+               <source>Proceedings of the ECO-PB Workshop : ``Participatory Plant Breeding: Relevance for Organic Agriculture?''</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>D. Desclaux and M. Hédont</surname>
+                  </name>
+               </person-group>
+               <fpage>8</fpage>
+               <lpage>17</lpage>
+               <year>2006</year>
+               <conf-loc>La Besse, France</conf-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="selection-participative.cirad.fr/content/download/832/4129/file/ECOPB.pdf#page=8"
+                         xlink:type="simple">selection-participative.cirad.fr/content/download/832/4129/file/ECOPB.pdf#page=8</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceccarelli</surname>
+                     <given-names>Salvatore</given-names>
+                  </name>
+               </person-group>
+               <article-title>Efficiency of Plant Breeding</article-title>
+               <source>Crop Science</source>
+               <year>2015</year>
+               <fpage>87</fpage>
+               <lpage>97</lpage>
+               <volume>55</volume>
+               <issue>1</issue>
+               <pub-id pub-id-type="doi">10.2135/cropsci2014.02.0158</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Social network analysis: Methods and applications</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wasserman</surname>
+                     <given-names>Stanley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faust</surname>
+                     <given-names>Katherine</given-names>
+                  </name>
+               </person-group>
+               <volume>8</volume>
+               <year>1994</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Social contagion and innovation: Cohesion versus structural equivalence</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Burt</surname>
+                     <given-names>Ronald S</given-names>
+                  </name>
+               </person-group>
+               <source>American Journal of Sociology</source>
+               <volume>92</volume>
+               <issue>6</issue>
+               <fpage>1287</fpage>
+               <lpage>1335</lpage>
+               <year>1987</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <pub-id pub-id-type="doi">10.1086/228667</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The strength of weak ties</article-title>
+               <volume>78</volume>
+               <issue>6</issue>
+               <fpage>1360</fpage>
+               <lpage>1380</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Granovetter</surname>
+                     <given-names>MS</given-names>
+                  </name>
+               </person-group>
+               <source>American Journal of Sociology</source>
+               <year>1973</year>
+               <pub-id pub-id-type="doi">10.1086/225469</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Economic action and social structure: The problem of embeddedness</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Granovetter</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <source>American Journal of Sociology</source>
+               <volume>91</volume>
+               <issue>3</issue>
+               <fpage>481</fpage>
+               <lpage>510</lpage>
+               <year>1985</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <pub-id pub-id-type="doi">10.1086/228311</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Network analysis in the social sciences</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Borgatti</surname>
+                     <given-names>Stephen P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mehra</surname>
+                     <given-names>Ajay</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brass</surname>
+                     <given-names>Daniel J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Labianca</surname>
+                     <given-names>Giuseppe</given-names>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <volume>323</volume>
+               <issue>5916</issue>
+               <fpage>892</fpage>
+               <lpage>895</lpage>
+               <year>2009</year>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+               <pub-id pub-id-type="doi">10.1126/science.1165821</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Development of a broadened cognitive mapping approach for analysing systems of practices in social-ecological systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vanwindekens</surname>
+                     <given-names>Fr\'ed\'eric M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stilmant</surname>
+                     <given-names>Didier</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baret</surname>
+                     <given-names>Philippe V</given-names>
+                  </name>
+               </person-group>
+               <source>Ecological Modelling</source>
+               <volume>250</volume>
+               <fpage>352</fpage>
+               <lpage>362</lpage>
+               <year>2013</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.ecolmodel.2012.11.023</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Rey</surname>
+                     <given-names>Frédéric and Bocci, Riccardo and Cable, Véronique</given-names>
+                  </name>
+               </person-group>
+               <article-title>10 SOLIBAM key innovations - Cultivating diversity</article-title>
+               <year>2014</year>
+               <publisher-name>Strategies for Organic and Low-input Integrated Breeding and Management Collaborative Project</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.itab.asso.fr/downloads/solibam/solibam_innovations-eng.pdf"
+                         xlink:type="simple">http://www.itab.asso.fr/downloads/solibam/solibam_innovations-eng.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>From `weak' to `strong' multifunctionality: conceptualising farm-level multifunctional transitional pathways</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>Geoff A</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Rural Studies</source>
+               <volume>24</volume>
+               <issue>3</issue>
+               <fpage>367</fpage>
+               <lpage>383</lpage>
+               <year>2008</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.jrurstud.2007.12.010</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The role of formalisation, participation and context in the success of public involvement mechanisms in resource management</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Newig</surname>
+                     <given-names>Jens</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gaube</surname>
+                     <given-names>Veronika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berkhoff</surname>
+                     <given-names>Karin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kaldrack</surname>
+                     <given-names>Kai</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kastens</surname>
+                     <given-names>Britta</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lutz</surname>
+                     <given-names>Juliana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schlu\ssmeier, Bianca</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Adensam</surname>
+                     <given-names>Heidelinde</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haberl</surname>
+                     <given-names>Helmut</given-names>
+                  </name>
+               </person-group>
+               <source>Systemic Practice and Action Research</source>
+               <volume>21</volume>
+               <issue>6</issue>
+               <fpage>423</fpage>
+               <lpage>441</lpage>
+               <year>2008</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/s11213-008-9113-9</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Rural inter-firm networks as basis for multifunctional local system development: Evidence from an Italian alpine area</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bassi</surname>
+                     <given-names>Ivana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zaccarin</surname>
+                     <given-names>Susanna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>De Stefano, Domenico</surname>
+                  </name>
+               </person-group>
+               <source>Land Use Policy</source>
+               <volume>38</volume>
+               <fpage>70</fpage>
+               <lpage>79</lpage>
+               <year>2014</year>
+               <publisher-name>Elsevier</publisher-name>
+               <pub-id pub-id-type="doi">10.1016/j.landusepol.2013.10.021</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Pathways for impact: scientists' different perspectives on agricultural innovation</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Röling</surname>
+                     <given-names>Niels</given-names>
+                  </name>
+               </person-group>
+               <source>International journal of agricultural sustainability</source>
+               <volume>7</volume>
+               <issue>2</issue>
+               <fpage>83</fpage>
+               <lpage>94</lpage>
+               <year>2009</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.3763/ijas.2009.0043</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The ecosystem approach: complexity, uncertainty, and managing for sustainability</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waltner-Toews</surname>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <publisher-name>Columbia University Press</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Rey</surname>
+                     <given-names>Frédéric and Bocci, Riccardo and Cable, Véronique</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policy recommendations to sustain diversity strategies within food systems</article-title>
+               <year>2014</year>
+               <publisher-name>Strategies for Organic and Low-input Integrated Breeding and Management Collaborative Project</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.solibam.eu/modules/wfdownloads/visit.php?cid=3&amp;lid=56"
+                         xlink:type="simple">http://www.solibam.eu/modules/wfdownloads/visit.php?cid=3&amp;lid=56</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>United Nations Development Group</publisher-name>
+               <article-title>Results-based Management Handbook</article-title>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.undg.org/docs/12316/UNDG-RBM%20Handbook-2012.pdf"
+                         xlink:type="simple">http://www.undg.org/docs/12316/UNDG-RBM%20Handbook-2012.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Strategies towards evaluation beyond scientific impact. Pathways not only for agricultural research</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wolf</surname>
+                     <given-names>Birge M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Häring</surname>
+                     <given-names>Anna-Maria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>He\ss</surname>
+                  </name>
+               </person-group>
+               <source>Organic Farming</source>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>18</lpage>
+               <year>2015</year>
+               <pub-id pub-id-type="doi">10.12924/of2015.01010003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A new evaluation culture is inevitable</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Spaapen</surname>
+                     <given-names>Jack B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Organic Farming</source>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>36</fpage>
+               <lpage>37</lpage>
+               <year>2015</year>
+               <publisher-name>Librello</publisher-name>
+               <pub-id pub-id-type="doi">10.12924/of2015.01010036</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>The Mingling of Markets, Movements &amp; Menus</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilkinson</surname>
+                     <given-names>JOHN</given-names>
+                  </name>
+               </person-group>
+               <source>International Workshop: Globalization, Social and Cultural Dynamics</source>
+               <conf-loc>Rio de Janeiro, RJ, Brazil</conf-loc>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+   
+</article>
