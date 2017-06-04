@@ -1,5 +1,8 @@
 # Librello digital archive. #
 
+<h1 align="center">
+  <img src="librello_logo.png" alt="Librello" />
+</h1>
 
 
 ### What is this repository for? ###
