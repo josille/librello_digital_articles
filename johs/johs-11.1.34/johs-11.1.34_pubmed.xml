@@ -1,0 +1,2257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2015.11010034</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Educational Pathways to Remote Employment in Isolated Communities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Denkenberger</surname>
+                  <given-names>David</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Way</surname>
+                  <given-names>Julia</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Pearce</surname>
+                  <given-names>Joshua</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A5">4</xref>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Michigan Tech Open Sustainability Technology (MOST) Lab, Michigan Technological University, MI, USA</aff>
+         <aff id="A3">
+            <label>2</label>Civil and Architectural Engineering, Tennessee State University, TN, USA</aff>
+         <aff id="A4">
+            <label>3</label>Career Development Education, Michigan Tech Career Services, Michigan Technological University, MI, USA</aff>
+         <aff id="A5">
+            <label>4</label>Department of Materials Science &amp; Engineering, Michigan Technological University, MI, USA</aff>
+         <aff id="A6">
+            <label>5</label>Department of Electrical &amp; Computer Engineering, Michigan Technological University, MI, USA</aff>
+         <pub-date pub-type="ppub">
+            <day>29</day>
+            <month>09</month>
+            <year>2015</year>
+         </pub-date>
+         <volume>11</volume>
+         <issue>1</issue>
+         <fpage>34</fpage>
+         <lpage>44</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Those who live in isolated communities often lack reliable, skilled employment opportunities, which fundamentally undermines their human security. For individuals who wish to remain in their isolated communities for family, religious, philosophical or other reasons, their attachment to their communities creates a disincentive for higher education. This promotes low educational achievement, which in turn results in low socioeconomic status, lack of social mobility, and a generational cycle of poverty. The human misery that results from such a feedback loop is observed in isolated communities throughout North America, including aboriginal communities in Canada. Fortunately, maturation of information and communication technologies now offers individuals the potential to gain high-skilled employment while living in an isolated community, using both (i) virtual work/remote work and (ii) remote training and education. To examine that potential, this study: 1) categorizes high-skill careers that demand a higher education and are widely viable for remote work, 2) examines options for obtaining the required education remotely, and 3) performs an economic analysis of investing in remote education, quantifying the results in return on investment. The results show that the Internet has now opened up the possibility of both remote education and remote work. Though the investment in college education is significant, there are loans available and the return on investment is generally far higher than the interest rate on the loans. The results identified several particularly promising majors and dozens of high-income careers. The ability to both obtain an education and employment remotely offers the potential to lift many people living in isolated communities out of poverty, reduce inequality overall, and provide those living in isolated communities with viable means of employment security, which not only allows personal sustainability, but also the potential for personal growth.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>distance education</kwd>
+            <kwd>distributed work</kwd>
+            <kwd>employment</kwd>
+            <kwd>ICT</kwd>
+            <kwd>isolated communities</kwd>
+            <kwd>jobs</kwd>
+            <kwd>job security</kwd>
+            <kwd>remote work</kwd>
+            <kwd>telework</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>A reliable form of employment is currently one of the central tenets of human security [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R05">5</xref>]. Lack of employment opportunities leads to extreme poverty of indigenous people living in isolated communities throughout the world including the Pacific [<xref ref-type="bibr" rid="R06">6</xref>], former British colonies [<xref ref-type="bibr" rid="R07">7</xref>], and the Americas, Australasia, South East Asia, Europe, and Russia [<xref ref-type="bibr" rid="R08">8</xref>]. In addition, a poverty of opportunities exists in isolated communities even within well-developed nations for common citizens like those in the United States. For example, in the upper peninsula of Michigan, during the last recession, unemployment rates topped 25% [<xref ref-type="bibr" rid="R09">9</xref>], and the undercounting of unemployment in the U.S. is well established [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]. Education is important for ending a poverty of opportunity, as it is critical for self-empowerment and increasing the prospects of employment, higher wages, and social mobility [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>]. For individuals who wish to remain in their isolated communities for family, religious, philosophical, or other reasons, often there are simply not enough jobs with living wages available. For example, in Canada, all Aboriginal identity groups have substantially lower incomes than the general population [<xref ref-type="bibr" rid="R16">16</xref>], and their attachment to their communities creates poor incentive for higher education, thus promoting low educational achievement, which, in turn, results in low socioeconomic status [<xref ref-type="bibr" rid="R17">17</xref>]. For the young people committed to staying in their isolated communities for personal reasons, if there are few (or no) jobs that require higher education, there is no incentive for them to obtain this education and the cycle of poverty continues generationally.</p>
+         <p>Fortunately, maturation of information and communication technologies now offers the potential to gain high-skilled employment through remote work (also called telework, virtual work, or distributed work) [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>]. This allows individuals to have rewarding and high compensation employment while living in an isolated community. In addition, online and distance education enable the ability to acquire a vast array of types of training and education remotely [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>]. By coupling these two Internet-enabled opportunities, a complete solution of employment in an isolated region is possible. There have been many studies of online education (e.g. [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>]) and remote work (e.g. [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R52">52</xref>]), as well as studies about the general advantages of extending Internet into remote areas (e.g. [<xref ref-type="bibr" rid="R53">53</xref>]). However, this study is unique in that it explores the interaction of online education and remote work as a complete package for people in isolated communities who do not wish to relocate.</p>
+         <p>To examine the potential of distance learning and remote work to enable secure employment for individuals in isolated communities, this study: 1) categorizes high-skill careers that demand a higher education, which are widely viable for remote work and 2) examines options for obtaining the required education remotely. The results are discussed and conclusions are drawn to help guide policy makers and educators in providing isolated communities with viable means of employment security.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methods</title>
+         <p>A list of careers was generated and categorized that represented high-skill careers that require a higher education. Only permanent jobs were considered, as opposed to the typically temporary unskilled jobs that are frequently found on digital freelance websites (e.g. Freelancer, Fiverr, FlexJobs, Elance, Guru and oDesk). This list was then reduced by eliminating all career paths that could not be accomplished remotely because of physical/hands-on curriculum requirements. The list was further refined to jobs for which the education needed to complete them could be found remotely with existing universities requiring a four-year degree. Finally, the list was further refined by eliminating all jobs with a sinking market due to technology (e.g. journalists, translators, legal assistants, and travel agents) and jobs that were highly competitive (e.g. authors and artists), as a career could not be reasonably guaranteed having completed a degree. Then the list was matched with the top affordable online universities in the U.S. by degree type [<xref ref-type="bibr" rid="R54">54</xref>]. Next, the total degree cost was calculated assuming 120 credit hours and 4 years (accreditation policies) [<xref ref-type="bibr" rid="R55">55</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>], though not taking into account university associated fees. Each career was matched with tuition cost, wage, and accreditation, and is shown in Table <xref ref-type="table" rid="Tab2">2</xref>. All monetary values are given in USD. The data from Tables <xref ref-type="table" rid="Tab2">2</xref> and <xref ref-type="table" rid="Tab1">1</xref> are used to determine the economic benefits of obtaining a university degree remotely that would enable one to work remotely. The estimates are conservative, as they assume that the student is only attending to their education full- time and avoiding all high-school diploma level work while earning their degree. The opportunity cost (foregone wages during college) is assumed to be at the mean wage for high school wages for ages 18 to 24: about $23,000 in the U.S. [<xref ref-type="bibr" rid="R59">59</xref>], which again is a conservative assumption, as most entry level workers do not receive this wage. Over the 4 years of college, this results in $92,000 of opportunity cost. This is larger than any of the tuition costs considered as seen in Table <xref ref-type="table" rid="Tab2">2</xref>. In most cases, the very simple analysis of return on investment equaling the reciprocal of the payback time yields a reasonable approximation. However, a rigorous, full cash flow analysis is more accurate. This is performed assuming a 2% per year raise due to experience, and a 2% per year raise due to economic growth (adjusted for inflation). This is applied to the high school wage as well, which currently has a median of $33,000 per year for all working ages [<xref ref-type="bibr" rid="R60">60</xref>] and the mean is 1.2 times larger [<xref ref-type="bibr" rid="R59">59</xref>].</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>
+                    Table 1</label>
+            <caption>
+               <title>Careers from Table 2 with tuition, wage, and accreditation (USD).</title>
+            </caption>
+            <table>
+               <thead>
+               
+               <tr>
+                  <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Career</td>
+                  <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">Total tuition cost</td>
+                  <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">Wage ($ yr<sup>-1</sup>)</td>
+                  <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Accreditation</td>
+               </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Architect</td>
+                     <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">$69,840 [<xref ref-type="bibr" rid="R61">61</xref>]</td>
+                     <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">$78,640 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Psychologist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$47,760 [<xref ref-type="bibr" rid="R63">63</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$75,790 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Radiologic Technologists</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$51,600 [<xref ref-type="bibr" rid="R64">64</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$57,510 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Accountant</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$11,560 [<xref ref-type="bibr" rid="R65">65</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$69,790 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Northwest Commission on Colleges and Universities</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Financial Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$92,250 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Advertising Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$60,910 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">PR representative</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$64,050 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Market researcher</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$68,700 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Brokerage Clerk</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$50,780 [<xref ref-type="bibr" rid="R67">67</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Personal Financial Advisors</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$108,090 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Inventory controller</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$93,180 [<xref ref-type="bibr" rid="R68">68</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Operations Specialists, Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$73,000 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Sales Managers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$126,040 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Real Estate Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$55,530 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Securities, Commodities, and Financial Services Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$103,260 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Insurance Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$63,730 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Managers, All Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$110,210 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Event planner</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$50,910 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Tax preparer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,480 [<xref ref-type="bibr" rid="R66">66</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$43,870 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Meteorologist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$51,600 [<xref ref-type="bibr" rid="R64">64</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$88,090 [<xref ref-type="bibr" rid="R69">69</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Drafters</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$54,850 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Software Developers and Programmers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$95,280 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Civil Engineers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$87,130 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Designers, All Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$55,360 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Fashion Designers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$73,690 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Editor</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$64,140 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Technical writer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$71,950 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Graphic designer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$50,670 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Film and Video Editors</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$75,090 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Publicist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$40,560 [<xref ref-type="bibr" rid="R71">71</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$68,700 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Middle States Commission on Higher Education</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Statistician</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$84,010 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Budget Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$73,940 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Actuary</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$44,040 [<xref ref-type="bibr" rid="R70">70</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$110,090 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commission on Colleges of the Southern Association of Colleges and Schools</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Computer scientist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$22,380 [<xref ref-type="bibr" rid="R72">72</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$113,190 [<xref ref-type="bibr" rid="R73">73</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Information Security Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$22,380 [<xref ref-type="bibr" rid="R72">72</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$91,600 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Game developer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$22,380 [<xref ref-type="bibr" rid="R72">72</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$69,410 [<xref ref-type="bibr" rid="R74">74</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Software Developers, Applications</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$22,380 [<xref ref-type="bibr" rid="R72">72</xref>]</td>
+                     <td align="right" style="" rowspan="1" colspan="1">$99,530 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Software Developers, Systems Software</td>
+                     <td align="right" style="border-bottom:1px solid black;" rowspan="1" colspan="1">$22,380 [<xref ref-type="bibr" rid="R72">72</xref>]</td>
+                     <td align="right" style="border-bottom:1px solid black;" rowspan="1" colspan="1">$106,050 [<xref ref-type="bibr" rid="R62">62</xref>]</td>
+                     <td align="justify" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Higher Learning Commission</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab2" position="float" orientation="portrait">
+            <label>
+                    Table 2</label>
+            <caption>
+               <title>Major, career, and example online college.</title>
+            </caption>
+            <table>
+               <thead>
+               <tr>
+                  <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Type</td>
+                  <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">Career</td>
+                  <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">Example Source of Remote Education</td>
+               </tr>
+                  
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify" style="border-top:1px solid black;" rowspan="1" colspan="1">Architecture Major</td>
+                     <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">Architect</td>
+                     <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">University of Virginia</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Biological Sciences Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Psychologist</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Ohio Christian University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Biological Sciences Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Radiologic Technologists</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Phoenix</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Accountant</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Western Governors University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Financial Analysts</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Advertising Sales Agents</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">PR representative</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Market researcher</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Brokerage Clerk</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Personal Financial Advisors</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Inventory controller,</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Business Operations Specialists, All Other</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Sales Managers</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Real Estate Sales Agents</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Securities, Commodities, and Financial Services Sales Agents</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Insurance Sales Agents</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Managers, All Other</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Event planner</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Business Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Tax preparer</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Eastern New Mexico University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Earth Sciences Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Meteorologist</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Phoenix</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Engineering Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Drafters</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Engineering Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Software Developers and Programmers</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Engineering Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Civil Engineers</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Engineering Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Designers, All Other</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Fashion Designers</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Editor</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Technical writer</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Graphic designer</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Film and Video Editors</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Liberal Arts Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Publicist</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Wilmington University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Mathematics Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Statistician</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Mathematics Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Budget Analysts</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Mathematics Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Actuary</td>
+                     <td align="left" style="" rowspan="1" colspan="1">University of Southern Mississippi</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Technology Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Computer scientist</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Fort Hays State University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Technology Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Information Security Analysts</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Fort Hays State University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Technology Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Game developer</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Fort Hays State University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">Technology Major</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Software Developers, Applications</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Fort Hays State University</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Technology Major</td>
+                     <td align="left" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Software Developers, Systems Software</td>
+                     <td align="left" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Fort Hays State University</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>The payback time, in combination with how long the increased income stream lasts in time, T (years), can be converted to a return on investment with a return, R [<xref ref-type="bibr" rid="R75">75</xref>]:</p>
+         <disp-formula>
+            <mml:math id="S5.Ex1.m1" display="block" overflow="scroll">
+               <mml:mrow>
+                  <mml:mfrac>
+                     <mml:mi>P</mml:mi>
+                     <mml:mi>S</mml:mi>
+                  </mml:mfrac>
+                  <mml:mo>=</mml:mo>
+                  <mml:mfrac>
+                     <mml:mrow>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mrow>
+                           <mml:mn>1</mml:mn>
+                           <mml:mo>-</mml:mo>
+                           <mml:msup>
+                              <mml:mi>e</mml:mi>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mrow>
+                                    <mml:mi>R</mml:mi>
+                                    <mml:mo>⁢</mml:mo>
+                                    <mml:mi>T</mml:mi>
+                                 </mml:mrow>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:mrow>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:mrow>
+                     <mml:mi>R</mml:mi>
+                  </mml:mfrac>
+               </mml:mrow>
+            </mml:math>
+         </disp-formula>
+              <p>where <inline-formula>
+                 <mml:math id="S5.Ex1.m2" display="inline">
+                    <mml:mi>P</mml:mi>
+                 </mml:math>
+              </inline-formula> is the principal investment, <inline-formula>
+                 <mml:math id="S5.Ex1.m3" display="inline">
+                    <mml:mi>S</mml:mi>
+                 </mml:math>
+              </inline-formula> is the savings per year, and <inline-formula>
+                 <mml:math id="S5.Ex1.m4" display="inline">
+                    <mml:mfrac>
+                       <mml:mi>P</mml:mi>
+                       <mml:mi>S</mml:mi>
+                    </mml:mfrac>
+                 </mml:math>
+              </inline-formula> is the working time to payback the investment. For instance, with a career length of 40 years and a payback time of 15 years, the ROI would be about 6%. Assuming that the increased income is actually adjusted for inflation, meaning that the income without the higher education rises with inflation, and the income with the higher education rises with inflation, this ROI is actually adjusted for inflation. If this investment is compared in nominal terms (e.g. not adjusted for inflation) it would be closer to an 8% return on investment, which is normally considered excellent.
+</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <p>The payback analysis is summarized in Table <xref ref-type="table" rid="Tab3">3</xref>. For the short payback times, the rigorous method yields lower returns on investment because the fact that there is a delay between the invested money and getting a return becomes more important. However, for long payback times, the rigorous analysis gives a higher return. This is because economic growth becomes significant over these longer times.</p>
+         <table-wrap id="Tab3" position="float" orientation="portrait">
+            <label>
+                    Table 3</label>
+            <caption>
+               <title>Career, payback time, and simple and rigorous return on investment.</title>
+            </caption>
+            <table>
+               <thead>
+               <tr>
+                  <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">Career</td>
+                  <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">Payback time (yr)</td>
+                  <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">Simple Return on Investment</td>
+                  <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">Rigorous
+Return on Investment</td>
+               </tr>
+                  
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" style="border-top:1px solid black;" rowspan="1" colspan="1">Architect</td>
+                     <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">4.2</td>
+                     <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">24%</td>
+                     <td align="right" style="border-top:1px solid black;" rowspan="1" colspan="1">19%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Psychologist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">26%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Radiologic Technologists</td>
+                     <td align="right" style="" rowspan="1" colspan="1">8.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">12%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">13%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Accountant</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.5</td>
+                     <td align="right" style="" rowspan="1" colspan="1">29%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">22%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Financial Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.8</td>
+                     <td align="right" style="" rowspan="1" colspan="1">36%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">24%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Advertising Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">6.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">14%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">14%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">PR representative</td>
+                     <td align="right" style="" rowspan="1" colspan="1">6</td>
+                     <td align="right" style="" rowspan="1" colspan="1">17%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">15%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Market researcher</td>
+                     <td align="right" style="" rowspan="1" colspan="1">5.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">17%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Brokerage Clerk</td>
+                     <td align="right" style="" rowspan="1" colspan="1">13.4</td>
+                     <td align="right" style="" rowspan="1" colspan="1">7%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">10%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Personal Financial Advisors</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">47%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">29%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Inventory controller</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.7</td>
+                     <td align="right" style="" rowspan="1" colspan="1">36%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">25%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Business Operations Specialists, Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">4.4</td>
+                     <td align="right" style="" rowspan="1" colspan="1">23%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">18%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Sales Managers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">1.7</td>
+                     <td align="right" style="" rowspan="1" colspan="1">59%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">33%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Real Estate Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">9.3</td>
+                     <td align="right" style="" rowspan="1" colspan="1">11%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">12%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Securities, Commodities, and Financial Services Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.3</td>
+                     <td align="right" style="" rowspan="1" colspan="1">43%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">27%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Insurance Sales Agents</td>
+                     <td align="right" style="" rowspan="1" colspan="1">6.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">16%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">15%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Managers, All Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">48%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">29%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Event planner</td>
+                     <td align="right" style="" rowspan="1" colspan="1">13.2</td>
+                     <td align="right" style="" rowspan="1" colspan="1">8%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">10%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Tax preparer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">36.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">0%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">6%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Meteorologist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3</td>
+                     <td align="right" style="" rowspan="1" colspan="1">34%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">23%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Drafters</td>
+                     <td align="right" style="" rowspan="1" colspan="1">9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">11%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">12%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Software Developers and Programmers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.5</td>
+                     <td align="right" style="" rowspan="1" colspan="1">41%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">26%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Civil Engineers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">35%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">24%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Designers, All Other</td>
+                     <td align="right" style="" rowspan="1" colspan="1">8.7</td>
+                     <td align="right" style="" rowspan="1" colspan="1">11%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">12%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Fashion Designers</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">26%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Editor</td>
+                     <td align="right" style="" rowspan="1" colspan="1">5.4</td>
+                     <td align="right" style="" rowspan="1" colspan="1">18%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">16%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Technical writer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">4.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">24%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">19%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Graphic designer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">12.2</td>
+                     <td align="right" style="" rowspan="1" colspan="1">8%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">10%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Film and Video Editors</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.8</td>
+                     <td align="right" style="" rowspan="1" colspan="1">27%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Publicist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">4.6</td>
+                     <td align="right" style="" rowspan="1" colspan="1">22%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">18%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Statistician</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.1</td>
+                     <td align="right" style="" rowspan="1" colspan="1">32%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">23%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Budget Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">4</td>
+                     <td align="right" style="" rowspan="1" colspan="1">25%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Actuary</td>
+                     <td align="right" style="" rowspan="1" colspan="1">1.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">52%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">31%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Computer scientist</td>
+                     <td align="right" style="" rowspan="1" colspan="1">1.6</td>
+                     <td align="right" style="" rowspan="1" colspan="1">64%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">35%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Information Security Analysts</td>
+                     <td align="right" style="" rowspan="1" colspan="1">2.2</td>
+                     <td align="right" style="" rowspan="1" colspan="1">45%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">28%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Game developer</td>
+                     <td align="right" style="" rowspan="1" colspan="1">3.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">26%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">20%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">Software Developers, Applications</td>
+                     <td align="right" style="" rowspan="1" colspan="1">1.9</td>
+                     <td align="right" style="" rowspan="1" colspan="1">52%</td>
+                     <td align="right" style="" rowspan="1" colspan="1">31%</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border-bottom:1px solid black;" rowspan="1" colspan="1">Software Developers, Systems Software</td>
+                     <td align="right" style="border-bottom:1px solid black;" rowspan="1" colspan="1">1.7</td>
+                     <td align="right" style="border-bottom:1px solid black;" rowspan="1" colspan="1">58%</td>
+                     <td align="right" style="border-bottom:1px solid black;" rowspan="1" colspan="1">33%</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <sec id="s4.1">
+            <title>4.1.- Economics of Remote Education and Employment</title>
+            <p>The concept of the payback time is widely used to evaluate investments: this is the time required to pay back the initial investment. In this case, the initial investment is the tuition and the income foregone during the time of getting the degree (opportunity cost). Since it is assumed that the student stays at home, there would not be an additional room and board cost relative to having a job that does not require higher education. The payback framework generally assumes that there is initial investment at one point in time and then a money savings beginning immediately thereafter. In the case of a college education, it typically takes four years and that is the degree evaluated here. This makes the payback time longer than the time actually spent working to pay back the education costs. However, even adjusted for inflation, wages tend to increase (this is economic growth). This is especially true for jobs that require a college education. Since a payback framework assumes that education garners an increase in salary that is constant over time, the real case tends to shorten the equivalent payback time. These factors roughly cancel out. Therefore, the simple approximation of the payback time equaling the time required working to pay back the cost of education is used. P is the principal investment, S is the savings per year, and P/S is the working time to payback the investment. When put in these terms, many people require a very short payback of only a few years [<xref ref-type="bibr" rid="R75">75</xref>]. However, there are some circumstances when education can take longer to pay back. Therefore, a more helpful metric to evaluate the investment is the return on investment (ROI). Most people are familiar with this metric because it is equivalent to an interest rate on a savings account or a loan. As can be seen by the results shown in Table <xref ref-type="table" rid="Tab3">3</xref>, all but three jobs (tax preparer, event planner, and brokerage clerk), not only had positive ROIs, but were deep into the double digits of return. For example, software developers can expect to earn over a 30% ROI every year over their entire careers while working at home and having been trained remotely. This again is a conservative estimate and will be discussed in the risk section below as part of the unquestionable benefit for the graduate to have made the investment in education. To make this clearer, a case study will be presented that illustrates the pathway.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Case Study: Nunavut Couple</title>
+            <p>Consider a hypothetical case of a young Inuit couple living in Nunavut in a close knit, isolated community that they do not want to leave. Unfortunately, the community is depressed and has few local job prospects. The ongoing economic challenge of dependence on expensive diesel fuel for electricity and the slow uptake of renewable energy [<xref ref-type="bibr" rid="R76">76</xref>, <xref ref-type="bibr" rid="R77">77</xref>] has limited the ability of the people in Nunavut to address other issues, including housing shortages, inadequate health services, and perhaps most importantly, under-funded education [<xref ref-type="bibr" rid="R78">78</xref>, <xref ref-type="bibr" rid="R79">79</xref>, <xref ref-type="bibr" rid="R80">80</xref>, <xref ref-type="bibr" rid="R81">81</xref>, <xref ref-type="bibr" rid="R82">82</xref>]. Fortunately, QINIQ, a Canadian company, has begun to use a combination of satellite and wireless communications technology to provide broadband Internet service to 25 remote communities in the Canadian territory of Nunavut [<xref ref-type="bibr" rid="R83">83</xref>]. Using this access, the couple began to dabble in coding, using free online resources that teach computer programming. They started at the grade school level with Scratch, a tool developed by Lifelong Kindergarten group at MIT Media Lab [<xref ref-type="bibr" rid="R84">84</xref>] and then moved on to progressively more complicated coding at code.org, which is a non-profit dedicated to expanding participation in computer science by making it available in more schools and expanding participation by women and underrepresented students of color [<xref ref-type="bibr" rid="R85">85</xref>]. The husband became interested in pure computer science and decided to pursue his degree from Fort Hays State University, while the wife was more interested in software programming and targeted an online degree from University of Southern Mississippi. They would need to invest about $22,000 and $44,000 for their respective degrees, but upon completion, he could expect to make over $113,000 per year and she would make over $54,000 per year, bringing their family income to over $168,000, if they both chose to work full-time. This is roughly three times the median income for families living in Nunuvut and much greater than those living in isolated communities, in general [<xref ref-type="bibr" rid="R86">86</xref>]. It should be noted that the cost of living in northern communities, such as in this example, is significantly higher than those living in more temperate regions. Assuming full time work, their ROIs would be 26% for her and 35% for him on their investment in their education. He could gain employment at a company like IBM, because even employees who live nearby to an office rarely come to work physically, because they use the avatar interaction software, Second Life [<xref ref-type="bibr" rid="R87">87</xref>]. She might work for herself as a consultant providing freelance coding services. This arrangement gives them both the flexibility to continue living in their remote community, enough work-life balance to start and support a family, and a high enough income to live well and propagate higher education and higher wages for their children. In addition, as they can work from home, they can reduce their work-related expenses to computers and broadband access, completely eliminate commute time, as well as numerous and diverse other work related expenses, and garner time, monetary, and environmental benefits, as well. Furthermore, much of their money would be spent locally, providing additional local employment.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Community Preparation for Distributed Education and Employment</title>
+            <p>Based on the benefits to the individuals and the community as a whole (discussed in section 4.5), communities may want to proactively invest to assist individuals in obtaining a higher education and the remote employment that demands it; specifically, by providing high speed internet services. However, many jobs could possibly be done without high-speed Internet, because real-time conversations can be accomplished over the phone, while emails and videos can download over time. The exception would be if screen sharing or videoconferencing is required. In addition, many educational offerings still do not rely on video. In summation, although it may be possible that distance education be achieved without high-speed Internet, it would be a benefit, and for particular types of educational resources and jobs, a necessity. An example of a community already doing this is Manning, Iowa. It has a population of 1500, but it installed high-speed Internet and has attracted alumni to come back to telecommute [<xref ref-type="bibr" rid="R88">88</xref>].</p>
+            <p>Thus, several policies can be implemented in isolated communities to foster distributed education and employment. First, free public libraries providing both a physical location and an educational foundation to support a learning community should be supported. These libraries can act as hubs for individuals who do not have access to the computers or the Internet connections needed to gain an education (which will itself enable the individual to afford these in the future for employment). Second, offering personal, free high-speed Internet access for all citizens should be a goal for all communities, but is particularly important for isolated communities with a smaller fraction of their population with any personal Internet access. Many people do not have the financial means of computer access and this barrier can be addressed through one or more of the following: 1) community-supported information technology (IT) access, 2) donations and charity, 3) community and individual loans, and 4) reliance on free and open source hardware and software. This latter approach can radically reduce the IT infrastructure costs. For example, an open source, credit-card-sized computer such as the Raspberry Pi costs under $40 and can be made into a fully functional computer with discarded components (e.g. keyboard, mouse, and display). Similarly, outdated, Windows based computers can be salvaged from scrap yards and revitalized with Linux-based operating systems for free, significantly improving their performance and making them useful for Internet-based education.</p>
+         </sec>
+         <sec id="s4.4">
+            <title>4.4.- Risks and Benefits</title>
+            <p>There are several risks when discussing this approach, due to the fundamental limitation of this paper, which is an implicit reliance on the ceteris paribus fallacy (i.e. the assumption that external variables will remain constant, while factors that include the global environment and the global economy are in flux). First, will the person be able to get the intended job? A 2014 study found that only 27% of college graduates are in a job that matches their major and that only 62% of college grads are in a job that requires a college degree [<xref ref-type="bibr" rid="R89">89</xref>]. As reported by the Washington Post [<xref ref-type="bibr" rid="R90">90</xref>], this implies that obtaining a college level education is of questionable merit. However, this implication has two major flaws. First, university degrees offer graduates a wide selection of jobs that may not focus directly on their major. For example, a physics major may get a job as a computer programmer or even a game designer, and a rudimentary analysis would infer s/he was not employed in her/his field. A deeper analysis would uncover that many modern video/computer games, for example, have complex physics engines to ensure realistic game play [<xref ref-type="bibr" rid="R91">91</xref>]. More importantly, it is clear from U.S. Bureau of Labor Statistics data that college graduates are far more likely to have jobs, make more money, and overall have better self efficacy in the economy [<xref ref-type="bibr" rid="R60">60</xref>]. So, for example, a job like a tax preparer does not absolutely demand a college degree, but having one makes the potential employee far more likely to acquire the job and be able to hold on to the job in a poor economy. The reality is that individuals are far better off with college degrees than without, even if they are not employed in positions directly related to their specific major.</p>
+            <p>The second major risk, from an individual’s perspective, is the potential for competition, either domestically (what if everyone in America started to use this approach?) or internationally. Today, on websites like Freelancer, there are already incredibly talented artists, programmers, and writers, for example, that are willing to work for what would be considered exceptionally low wages in the U.S. Thomas Friedman notes in “The World is Flat” that native English speakers will still have an advantage in the near-term. However, in the medium term, there is likely to be a talented, polite, professional, English-speaking middle-class coming out of countries like India who will be incredibly competitive in the online job market [<xref ref-type="bibr" rid="R92">92</xref>]. Having a diploma will help U.S. citizens compete, and there will still be the opportunity to gain an even more valuable bachelor’s or graduate degree as prestigious institutions offer more online training. It should be pointed out here that the opportunities provided by an online education are particularly helpful to people outside of well-developed North American economies. The model provided here is applicable to anyone living in an isolated community anywhere on Earth who has the drive to complete the academic requirements, the capital to invest in an appropriate online education (or ability to acquire a loan), and the technical means to access it. In many ways, the results presented here are the worst-case scenario, as the analysis is based on the U.S. educational system, which has exorbitant fees because of a combination of weak government support, administrative bloat, and excessive administrative compensation packages [<xref ref-type="bibr" rid="R93">93</xref>].</p>
+            <p>This last point leads to a third risk of unintended consequences. Corporate-based administrative thinking favors online education because of the scalability, cost savings, and the continued erosion of faculty autonomy [<xref ref-type="bibr" rid="R93">93</xref>]. Encouraging this trend, then, has the moral hazard of de-evolving university education to simple job training (as is common with for-profit online only educational institutes). This would further weaken the educational foundation and critical thinking skills needed in the populace for effective citizenship in a democracy, and undermine the academic freedom of university professors to challenge authorities and the paradigms that propagate inequality and human insecurity.</p>
+            <p>Even with continued changes to both the global economy and the global environment, human security is enhanced with education. First, the global economy is shifting, as more low-skill jobs are automated. In the last few decades, automation and off-shoring in developed countries has focused mainly on middle skill jobs, i.e. the middle class. It is forecasted that future automation will continue to eliminate some middle skill jobs (and even some higher skill jobs), but the majority of the loss will be of low skilled jobs [<xref ref-type="bibr" rid="R94">94</xref>]. For example, Baxter, a $22,000 robot that can be trained by grabbing its arms and showing it what to do, can easily replace much unskilled human labor [<xref ref-type="bibr" rid="R95">95</xref>]. In their seminal paper on the potential for the future automation of jobs, Frey and Osborne found that, although 47% of U.S. employment is at risk from near-term automation, educational attainment exhibits a strong relationship with the unlikeliness of computerization. This means that getting a college education in remote areas will become even more important in the future than it is now. It is true that higher degrees of automation and distributed manufacturing with 3-D printing has the potential to create jobs, but as Pistono has pointed out, often jobs created by technology employ a small fraction of the people previously employed [<xref ref-type="bibr" rid="R96">96</xref>]. Furthermore, these new jobs require a high level of education, flexibility, intelligence, and entrepreneurship [<xref ref-type="bibr" rid="R96">96</xref>]. In addition, many of the new tasks created by automation can only be handled with additional automation [<xref ref-type="bibr" rid="R95">95</xref>]. Of course, there are some jobs that currently require a college degree that are likely to be automated, like legal assistants and even journalists. Readers are advised to consult the Appendix of Frey and Osborne on near-term decisions. For example, the probability of automation for real estate sales agents is 86%, which should be taken into account when considering the relatively high ROI calculated in Table 3. In addition, the probability of automation of medical and clinical laboratory technologists is 90%, insurance sales agents is 92%, tax examiners, collectors, and revenue agents is 93%, and accountants and auditors is 94%. Therefore, caution purely from a financial perspective, is recommended for people pursuing these careers. Lastly, as continued climate destabilization occurs because of fossil fuel-related pollution [<xref ref-type="bibr" rid="R97">97</xref>], the global economy will be significantly affected [<xref ref-type="bibr" rid="R98">98</xref>] and individuals will want to mitigate their personal career risk. For example, education for long-term careers associated with the coal industry are of highly questionable utility due to both the changes occurring in the industry now [<xref ref-type="bibr" rid="R99">99</xref>] and potential liabilities related to climate change [<xref ref-type="bibr" rid="R100">100</xref>, <xref ref-type="bibr" rid="R101">101</xref>, <xref ref-type="bibr" rid="R102">102</xref>].</p>
+            <p>Despite these risks, it is clear from this study that with careful selection and attainment of online training and education, specifically with a focus on a high ROI, it is possible to obtain remote employment in an isolated community. In addition to the economic benefits for the individual in any remote community in obtaining a higher education and the concomitant income, there are also benefits to the community. These benefits are less straight forward to quantify. For example, the presence of a highly educated individual (e.g. a civil engineer) in an isolated community is likely to contribute to the community’s human security in complex and synergistic ways, quite independent of the engineer’s own economic welfare or “payback time”. Such an engineer might provide quantitative reasoning that would be useful in community decisions made by municipalities, help avoid scams, or improve a community’s sustainability performance. Similarly, a critical mass of highly educated individuals in a remote community who value education for their children’s community can change the educational atmosphere in schools to improve the outcomes in future generations. It has also been found that people with higher levels of education are more likely to become entrepreneurs [89], thus providing additional benefits and jobs for people in the community who are not able to obtain higher education themselves. Educated people will also be able to help elevate others in their communities by forwarding/motivating a higher education philosophy, acting as mentors, roll models, and academic and career advisors, writing letters of recommendation to universities, etc. This is particularly important for those living in aboriginal communities where individuals do not generally have contacts external to the community. The availability, and certainly the free access to the Internet, can provide an almost unlimited amount of valuable information and education outside of specific degrees of study, such as health, economy, ecology, politics, etc. Future work is needed in this area to provide more quantitative values of these benefits.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>People wishing to remain in remote communities have traditionally been disadvantaged economically, socially, and politically. However, the Internet has now opened up the possibility of both remote education and remote work. Though the investment in college education is significant, education loans are generally available, and the return on investment is generally far higher than the interest rate on the loans, or any other type of traditional and typical economic investment vehicle. This study has identified several particularly promising majors and dozens of high-income careers. The ability to obtain both an education and employment remotely offers the potential to bring many people living in isolated communities out of poverty, reduce inequality overall, and provide those communities with viable means of employment security, now, and in the future.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>United Nations Development Programme Human Development Report</article-title>
+               <publisher-name>United Nations Organisation</publisher-name>
+               <year>1994</year>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>A Conceptual Framework for Human Security.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alkire</surname>
+                     <given-names>Sabina</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <publisher-name>CRISE (Department of International Development, University of Oxford)</publisher-name>
+               
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://economics.ouls.ox.ac.uk/13003/1/workingpaper2.pdf"
+                  xlink:type="simple">http://economics.ouls.ox.ac.uk/13003/1/workingpaper2.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Human security: concept and measurement</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bajpai</surname>
+                     <given-names>Kanti P</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Joan B. Kroc Institute for International Peace Studies, University of Notre Dame</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Human security: East versus west</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Acharya</surname>
+                     <given-names>Amitav</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal</source>
+               <fpage>442</fpage>
+               <lpage>460</lpage>
+               <year>2001</year>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Human security: Concepts and implications</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tadjbakhsh</surname>
+                     <given-names>Shahrbanou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chenoy</surname>
+                     <given-names>Anuradha</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Pacific indigenous development and post-intentional realities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maiava</surname>
+                     <given-names>Susan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>King</surname>
+                     <given-names>Trevor</given-names>
+                  </name>
+               </person-group>
+               <source>Exploring post-development: Theory and practice, problems and perspectives</source>
+               <fpage>83</fpage>
+               <lpage>98</lpage>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Indigenous peoples, poverty and self-determination in Australia, New Zealand, Canada and the United States</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cornell</surname>
+                     <given-names>Stephen Ellicott</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <publisher-name>Native Nations Institute for Leadership, Management, and Policy</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Indigenous peoples and poverty: an international perspective.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Eversole</surname>
+                     <given-names>Robyn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McNeish</surname>
+                     <given-names>John-Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cimadamore</surname>
+                     <given-names>Alberto D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Zed Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>County Tops State Unemployment Rate. Available from: \urlhttp://www.npr.org/2009/09/27/113251646/u-p-county-tops-state-unemployment-rate</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Gogoi P. The Jobless Effect: Is the Real Unemployment Rate 16.5\%, 22\%, or...? DailyFinance. Available from: \urlhttp://www.dailyfinance.com/2010/07/16/what-is-the-real-unemployment-rate/</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Many Left Uncounted in Nation's Official Jobless Rate. PBS NewsHour. Available from: \urlhttp://www.pbs.org/newshour/bb/business-july-dec09-undercounted_07-02/</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Postgraduate Premium: Revisiting trends in social mobility and educational inequalities in Britain and America</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lindley</surname>
+                     <given-names>Joanne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Machin</surname>
+                     <given-names>Stephen</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Sutton Trust</publisher-name>
+               
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://www.suttontrust.com/researcharchive/the-postgraduate-premium/"
+                  xlink:type="simple">http://www.suttontrust.com/researcharchive/the-postgraduate-premium/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Climate change, human security and violent conflict</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barnett</surname>
+                     <given-names>Jon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Adger</surname>
+                     <given-names>W Neil</given-names>
+                  </name>
+               </person-group>
+               <source>Political Geography</source>
+               <volume>26</volume>
+               <issue>6</issue>
+               <fpage>639</fpage>
+               <lpage>655</lpage>
+               <year>2007</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Phillip Brown</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Diane Reay</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carol Vincent</surname>
+                  </name>
+               </person-group>
+               <article-title>Education and social mobility</article-title>
+               <source>British Journal of Sociology of Education</source>
+               <volume>34</volume>
+               <issue>5-6</issue>
+               <fpage>637</fpage>
+               <lpage>643</lpage>
+               <year>2013</year>
+               <pub-id pub-id-type="doi">10.1080/01425692.2013.826414</pub-id>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.1080/01425692.2013.826414"
+                         xlink:type="simple">http://dx.doi.org/10.1080/01425692.2013.826414</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Social and economic returns to college education in the United States</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hout</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <source>Annual Review of Sociology</source>
+               <volume>38</volume>
+               <fpage>379</fpage>
+               <lpage>400</lpage>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The income gap between Aboriginal peoples and the rest of Canada</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Macdonald</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Canadian Centre for Policy Alternatives Ottawa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Aboriginal peoples and postsecondary education in Canada</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mendelson</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <publisher-name>Caledon Institute of Social Policy Ottawa</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Telework and the changing relationship of home and work</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haddon</surname>
+                     <given-names>Leslie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Silverstone</surname>
+                     <given-names>Roger</given-names>
+                  </name>
+               </person-group>
+               <source>Management of Information and Communication Technologies: Emerging Patterns of Control</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Mansell</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://www.lse.ac.uk/media"
+                  xlink:type="simple">http://www.lse.ac.uk/media</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stanworth</surname>
+                     <given-names>Celia</given-names>
+                  </name>
+               </person-group>
+               <article-title>Telework and the Information Age</article-title>
+               <source>New Technology, Work and Employment</source>
+               <volume>13</volume>
+               <issue>1</issue>
+               <publisher-name>Blackwell Publishers Ltd</publisher-name>
+               <issn>1468-005X</issn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://dx.doi.org/10.1111/1468-005X.00038"
+                         xlink:type="simple">http://dx.doi.org/10.1111/1468-005X.00038</ext-link>
+               <pub-id pub-id-type="doi">10.1111/1468-005X.00038</pub-id>
+               <fpage>51</fpage>
+               <lpage>62</lpage>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Distributed work arrangements: A research framework</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Collins</surname>
+                     <given-names>France Belanger Rosann Webb</given-names>
+                  </name>
+               </person-group>
+               <source>The Information Society</source>
+               <volume>14</volume>
+               <issue>2</issue>
+               <fpage>137</fpage>
+               <lpage>152</lpage>
+               <year>1998</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Women and work in the information age</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stanworth</surname>
+                     <given-names>Celia</given-names>
+                  </name>
+               </person-group>
+               <source>Gender, Work &amp; Organization</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>20</fpage>
+               <lpage>32</lpage>
+               <year>2000</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Is regular work at fixed places fading away? The development of ICT-based and travel-based modes of work in Sweden</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vilhelmson</surname>
+                     <given-names>Bertil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thulin</surname>
+                     <given-names>Eva</given-names>
+                  </name>
+               </person-group>
+               <source>Environment and Planning A</source>
+               <volume>33</volume>
+               <issue>6</issue>
+               <fpage>1015</fpage>
+               <lpage>1030</lpage>
+               <year>2001</year>
+               <publisher-name>Pion Ltd</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Information and communications technology, virtual offices and telework</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoffman</surname>
+                     <given-names>E C</given-names>
+                  </name>
+               </person-group>
+               <source>South African Journal of Information Management</source>
+               <volume>4</volume>
+               <issue>2</issue>
+               <year>2002</year>
+               <publisher-name>Sabinet Online</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>What's in a Name? Definitions and Conceptualisations of Teleworking and Homeworking</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>Cath</given-names>
+                  </name>
+               </person-group>
+               <source>New Technology, Work and Employment</source>
+               <volume>18</volume>
+               <issue>3</issue>
+               <fpage>158</fpage>
+               <lpage>165</lpage>
+               <year>2003</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The character of telework and the characteristics of teleworkers</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haddon</surname>
+                     <given-names>Leslie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brynin</surname>
+                     <given-names>Malcolm</given-names>
+                  </name>
+               </person-group>
+               <source>New Technology, Work and Employment</source>
+               <volume>20</volume>
+               <issue>1</issue>
+               <fpage>34</fpage>
+               <lpage>46</lpage>
+               <year>2005</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Teleworking the mobile caribbean: Emerging patterns of broadband-assisted remote work among the marginalized in jamaica and trinidad and tobago</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dunn</surname>
+                     <given-names>Hopeton</given-names>
+                  </name>
+               </person-group>
+               <source>Information Technologies &amp; International Development</source>
+               <volume>5</volume>
+               <issue>2</issue>
+               <fpage>52</fpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Mulki J, Bardhi F, Lassk F, Nanavaty-Dahl J. Set up remote workers to thrive, MIT Sloan Management Review. 2009. Available from: \urlhttp://sloanreview.mit.edu/article/set-up-remote-workers-to-thrive/</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Swart G. Distributed Workforce: More Than a Trend. Available from: \urlhttp://smallbusiness.foxbusiness.com/entrepreneurs/2011/07/05/evolution-employment-todays-free-agents-core-to-business-growth/</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Survey: From Free Agent Nation to On-Demand Workforce. 2011. Available from: \urlhttps://www.odesk.com/blog/2011/06/survey-from-free-agent-nation-to-on-demand-workforce/</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Remote work: An examination of current trends and emerging issues</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Busch</surname>
+                     <given-names>Emily</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nash</surname>
+                     <given-names>Jenna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bell</surname>
+                     <given-names>Bradford S</given-names>
+                  </name>
+               </person-group>
+               <source>Center for Advanced Human Resource Studies, Cornell University</source>
+               <volume>2</volume>
+               <issue>3</issue>
+               <fpage>6</fpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>7 Tele-mediated servants and self-servants of the global economy: labour in the era of ICT-enabled e-commerce</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zook</surname>
+                     <given-names>Matthew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Samers</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <source>Handbook of Employment and Society: Working Space</source>
+               <volume>124</volume>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A framework to analyze knowledge work in distributed teams</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bosch-Sijtsema, Petra M</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fruchter</surname>
+                     <given-names>Renate</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vartiainen</surname>
+                     <given-names>Matti</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ruohomäki</surname>
+                     <given-names>Virpi</given-names>
+                  </name>
+               </person-group>
+               <source>Group &amp; Organization Management</source>
+               <fpage>1059601111403625</fpage>
+               <year>2011</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Remote working and work-life balance</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>Cath</given-names>
+                  </name>
+               </person-group>
+               <source>Work and Quality of Life</source>
+               <fpage>275</fpage>
+               <lpage>290</lpage>
+               <year>2012</year>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Telecommuting and flexible work hours: Alternative work arrangements that can improve the quality of work life</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Breaugh</surname>
+                     <given-names>James A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Farabee</surname>
+                     <given-names>Angela M</given-names>
+                  </name>
+               </person-group>
+               <source>Work and Quality of Life</source>
+               <fpage>251</fpage>
+               <lpage>274</lpage>
+               <year>2012</year>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Work sharing during the great recession: New developments and beyond</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Messenger</surname>
+                     <given-names>Jon Carleton</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ghosheh</surname>
+                     <given-names>Naj</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Information and communication technology use and work-life integration1</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chesley</surname>
+                     <given-names>Noelle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Siibak</surname>
+                     <given-names>Andra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wajcman</surname>
+                     <given-names>Judy</given-names>
+                  </name>
+               </person-group>
+               <source>Handbook of Work-Life Integration Among Professionals: Challenges and Opportunities</source>
+               <fpage>245</fpage>
+               <year>2013</year>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Nomadic Work Life Support Using ICT: Toward Multi-generational Techno-socio Innovation</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yamakami</surname>
+                     <given-names>Toshihiko</given-names>
+                  </name>
+               </person-group>
+               <source>Multimedia and Ubiquitous Engineering</source>
+               <fpage>233</fpage>
+               <lpage>239</lpage>
+               <year>2014</year>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Foundations of distance education</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Keegan</surname>
+                     <given-names>Desmond</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <publisher-name>Psychology Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Distance education trends: Integrating new technologies to foster student interaction and collaboration</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beldarrain</surname>
+                     <given-names>Yoany</given-names>
+                  </name>
+               </person-group>
+               <source>Distance education</source>
+               <volume>27</volume>
+               <issue>2</issue>
+               <fpage>139</fpage>
+               <lpage>153</lpage>
+               <year>2006</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>As distance education comes of age, the challenge is keeping the students.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Carr</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+               </person-group>
+               <source>Chronicle of higher education</source>
+               <volume>46</volume>
+               <issue>23</issue>
+               <year>2000</year>
+               <publisher-name>ERIC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>How does distance education compare with classroom instruction? A meta-analysis of the empirical literature</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bernard</surname>
+                     <given-names>Robert M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Abrami</surname>
+                     <given-names>Philip C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lou</surname>
+                     <given-names>Yiping</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Borokhovski</surname>
+                     <given-names>Evgueni</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wade</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wozney</surname>
+                     <given-names>Lori</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wallet</surname>
+                     <given-names>Peter Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fiset</surname>
+                     <given-names>Manon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Binru</given-names>
+                  </name>
+               </person-group>
+               <source>Review of educational research</source>
+               <volume>74</volume>
+               <issue>3</issue>
+               <fpage>379</fpage>
+               <lpage>439</lpage>
+               <year>2004</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Appropedia as a tool for service learning in sustainable development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Joshua M</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Education for Sustainable Development</source>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>45</fpage>
+               <lpage>53</lpage>
+               <year>2009</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Hybrid virtual-and field work-based service learning with green information technology and systems projects</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Branker</surname>
+                     <given-names>Kadra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Corbett</surname>
+                     <given-names>Jacqueline</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Webster</surname>
+                     <given-names>Jane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Joshua M</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal for Service Learning in Engineering, Humanitarian Engineering and Social Entrepreneurship</source>
+               <volume>5</volume>
+               <issue>2</issue>
+               <fpage>44</fpage>
+               <lpage>59</lpage>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Foreign languages and sustainability: Addressing the connections, communities, and comparisons standards in higher education</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ter Horst, Eleanor E</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Joshua M</given-names>
+                  </name>
+               </person-group>
+               <source>Foreign Language Annals</source>
+               <volume>43</volume>
+               <issue>3</issue>
+               <fpage>365</fpage>
+               <lpage>383</lpage>
+               <year>2010</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Distance education: A systems view of online learning</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Michael G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kearsley</surname>
+                     <given-names>Greg</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Cengage Learning</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>International guide to student achievement</source>
+               <chapter-title>Distance Education</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lei</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhao</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Hattie</surname>
+                     <given-names>John and Anderman, Eric M</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>442</fpage>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Handbook of distance education</article-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Michael Grahame</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Handbook of distance education</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Michael Grahame</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Digital Dilemma: Issues of Access, Cost, and Quality in Media-Enhanced and Distance Education</article-title>
+               <source>ASHE-ERIC Higher Education Report</source>
+               <volume>25</volume>
+               <issue>7</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Dusen, Gerald C</surname>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>ERIC-Education Resources Information Center</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>12 Educational Technologies: reforming open and distance education</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Evans</surname>
+                     <given-names>Terry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nation</surname>
+                     <given-names>Daryl</given-names>
+                  </name>
+               </person-group>
+               <source>Reforming open and distance education: Critical reflections from practice</source>
+               <fpage>196</fpage>
+               <year>2013</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Benefits of an Online Education Consortium for Alberta, 3 (4)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Muirhead</surname>
+                     <given-names>Bill</given-names>
+                  </name>
+               </person-group>
+               <source>IEJLL: International Electronic Journal for Leadership in Learning</source>
+               <volume>3</volume>
+               <year>1999</year>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://iejll.synergiesprairies.ca/iejll/index.php/ijll/article/view/472"
+                  xlink:type="simple">http://iejll.synergiesprairies.ca/iejll/index.php/ijll/article/view/472</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Australian Telecentre Program: A New Approach to Technology Transfer and Rural Community Development.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Crellin</surname>
+                     <given-names>Ian R</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <publisher-name>ERIC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Bring on the broadband: a case for regional centres in Australasia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smart</surname>
+                     <given-names>William J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Coles</surname>
+                     <given-names>George</given-names>
+                  </name>
+               </person-group>
+               <source>IBS Journal of Business</source>
+               <volume>3</volume>
+               <issue>June</issue>
+               <fpage>13</fpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Top Affordable Universities by Degree Type. Available from: \urlhttp://www.onlineu.org/most-affordable-colleges.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>North Central Association of Colleges and Schools, the Higher Learning Commission. Available from: \urlhttp://policy.hlcommission.org/Policies/assumed-practices.html.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Commission on Colleges of the Southern Association of Colleges and Schools. Available from: \urlhttp://www.sacscoc.org/pdf/2012PrinciplesOfAcreditation.pdf.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>57. Northwest Commission on Colleges and Universities. Available from: \urlhttp://www.nwccu.org/Pubs%20Forms%20and%20Updates/Publications/Standards%20for%20Accreditation.pdf.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Middle States Commission on Higher Education. Available from: \urlwww.msche.org.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Spizman</surname>
+                     <given-names>L.M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Mean vs. Median Statistical Earnings</article-title>
+               <source>ACS vs. CPS. Allied Social Science Association Annual Meetings</source>
+               <year>2014</year>
+               <conf-loc>Philadelphia, PA, USA</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Bureau of Labor Statistics. Current Population Survey, 2014.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tuition, Fees &amp; Estimated Cost of Attendance. University of Virginia. Available from: \urlhttp://www.admission.virginia.edu/admission/tuition.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. May 2014 National Occupational Employment and Wage Estimates United States. Available from: \urlhttp://www.bls.gov/oes/current/oes_nat.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tuition &amp; Fees: Adult and Graduate Degree Programs. Ohio Christian University. Available from: \urlhttps://www.ohiochristian.edu/adult-degree-programs/tuition.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Finantial Plan. University of Phoenyx. Available from: \urlhttp://www.phoenix.edu/tuition_and_financial_options/financial-plan-services/review-tuition-and-expenses.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>\hlNOT FOUND Available from: \urlhttp://beta.wgu.edu/business/accounting_bachelor_degree#program.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tuition and Fees. University of New Mexico. Available from: \urlhttp://www.enmu.edu/future-students/tuition/.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. Occupational Employment and Wages, May 2014. 43-4011 Brokerage Clerks. Available from: \urlhttp://www.bls.gov/oes/current/oes434011.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. Occupational Employment and Wages, May 2014. 11-3071 Transportation, Storage, and Distribution Managers. Available from: \urlhttp://www.bls.gov/oes/current/oes113071.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. Occupational Employment and Wages, May 2014. 19-2021 Atmospheric and Space Scientists. Available from: \urlhttp://www.bls.gov/oes/current/oes192021.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>General Tuition &amp; Fees. The University of Southern Mississippi. Available from: \urlhttp://www.usm.edu/business-services/general-tuition-fees.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tuition &amp; Fees for 2015-2016. Wilmington University. Available from: \urlhttp://www.wilmu.edu/studentfinancialservices/tuition.aspx.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tuition and Fees. Fort Hays State University. Available from: \urlhttps://www.fhsu.edu/sfs/students_parents/tuition/.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. Occupational Employment and Wages, May 2014. 15-1111 Computer and Information Research Scientists. Available from: \urlhttp://www.bls.gov/oes/current/oes151111.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>United States Department of Labor. Occupational Employment Statistics. Occupational Employment and Wages, May 2014. 27-1014 Multimedia Artists and Animators. Available from: \urlhttp://www.bls.gov/oes/current/oes271014.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Accelerating applied sustainability by utilizing return on investment for energy conservation measures</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>JM</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Denkenberger</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zielonka</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal of Energy, Environment and Economics</source>
+               <volume>17</volume>
+               <issue>1</issue>
+               <fpage>61</fpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Renewable energy policies and programs in Nunavut: Perspectives from the federal and territorial governments</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McDonald</surname>
+                     <given-names>NICOLE C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Joshua M</given-names>
+                  </name>
+               </person-group>
+               <source>Arctic</source>
+               <fpage>465</fpage>
+               <lpage>475</lpage>
+               <year>2012</year>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Community Voices: Perspectives on Renewable Energy in Nunavut</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McDonald</surname>
+                     <given-names>NICOLE C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Joshua M</given-names>
+                  </name>
+               </person-group>
+               <source>Arctic</source>
+               <fpage>94</fpage>
+               <lpage>104</lpage>
+               <year>2013</year>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Nunavut Adult Learning Strategy. Iqaluit: Department of Health and Social Services. 2008.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Recruitment and retention of Inuit nurses in Nunavut. Report prepared by Aarluk Consulting Inc., March 2009, on behalf of NTI. Iqaluit: Department of Health and Social Services. 2010.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Nunavut maternal and newborn health care strategy 2009 – 2014. Iqaluit: Department of Health and Social Services. 2009.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Fiscal and economic outlook. Iqaluit: Department of Finance Nunavut.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Food insecurity among Inuit preschoolers: Nunavut Inuit child health survey, 2007-2008</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Egeland</surname>
+                     <given-names>Grace M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pacey</surname>
+                     <given-names>Angela</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cao</surname>
+                     <given-names>Zirong</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sobol</surname>
+                     <given-names>Isaac</given-names>
+                  </name>
+               </person-group>
+               <source>Canadian Medical Association Journal</source>
+               <volume>182</volume>
+               <issue>3</issue>
+               <fpage>243</fpage>
+               <lpage>248</lpage>
+               <year>2010</year>
+               <publisher-name>Can Med Assoc</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>QINIQ. Available from: \urlhttps://www.qiniq.com/technology.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Scratch—Imagine, Program, Share. Available from: \urlhttp://scratch.mit.edu/.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Code.org. Available from:\urlhttp://code.org/about.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Statistics Canada. Median total income, by family type, by province and territory (All census families). Available from: \urlhttp://www.statcan.gc.ca/tables-tableaux/sum-som/l01/cst01/famil108a-eng.htm.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Second Life Community. Available from: \urlhttps://community.secondlife.com/t5/Working-Inworld-General/As-Seen-on-CNBC-New-IBM-Case-Study-Showcases-Value-of-Meeting/ba-p/640377.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R88">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Riley R. Manning Touts High Speed Broadband, Seeks Telecommuters. WHOTV.com, January 18, 2015.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R89">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Abel JR, Deitz R. Agglomeration and Job Matching among College Graduates. Federal Reserve Bank of New York Staff Reports 587. 2014. Available from: \urlhttp://www.newyorkfed.org/research/staff_reports/sr587.pdf.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R90">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Plumer B. Only 27 percent of college grads have a job related to their major. Washington Post. May 20, 2013. Available from: \urlhttp://www.washingtonpost.com/blogs/wonkblog/wp/2013/05/20/only-27-percent-of-college-grads-have-a-job-related-to-their-major/.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R91">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Game engines</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lewis</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jacobson</surname>
+                     <given-names>Jeffrey</given-names>
+                  </name>
+               </person-group>
+               <source>Communications of the ACM</source>
+               <volume>45</volume>
+               <issue>1</issue>
+               <fpage>27</fpage>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R92">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The World is Flat: A Brief History of the Twenty-First Century</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vanderbok</surname>
+                     <given-names>William</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Macmillan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R93">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The fall of the faculty</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ginsberg</surname>
+                     <given-names>Benjamin</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R94">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Frey CB, Osborne MA. The future of employment: how susceptible are jobs to computerisation? 17 September 2013. Available from: \urlhttp://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R95">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Kelly K. Better Than Human: Why Robots Will—And Must—Take Our Job. Wired. 24 December 2012. Available from: \urlhttp://www.wired.com/2012/12/ff-robots-will-take-our-jobs/all/.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R96">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Pistono F. Robots will steal your job, but that's OK: How to survive the economic collapse and be happy. 10 February 2012. Institute of Ethics and Emerging Technologies. Available from: \url=http://ieet.org/index.php/IEET/more/pistono20120211.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R97">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The scientific consensus on climate change</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Oreskes</surname>
+                     <given-names>Naomi</given-names>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <volume>306</volume>
+               <issue>5702</issue>
+               <fpage>1686</fpage>
+               <lpage>1686</lpage>
+               <year>2004</year>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R98">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Stern Review: The economics of climate change</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stern</surname>
+                     <given-names>Nicholas Herbert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Treasury</surname>
+                     <given-names>Her Majesty's</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <volume>30</volume>
+               <year>2006</year>
+               <publisher-name>HM Treasury London</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R99">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>85. Randall, T. The latest sign that coal is getting killed. Bloomberg. 13 July 2015. Available from: \urlhttp://www.bloomberg.com/news/articles/2015-07-13/the-latest-sign-that-coal-is-getting-killed.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R100">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Liability for climate change</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>Myles</given-names>
+                  </name>
+               </person-group>
+               <source>Nature</source>
+               <volume>421</volume>
+               <issue>6926</issue>
+               <fpage>891</fpage>
+               <lpage>892</lpage>
+               <year>2003</year>
+               <publisher-name>Nature Publishing Group</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R101">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Warming up to a not-so-radical idea: Tort-based climate change litigation</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Grossman</surname>
+                     <given-names>David A</given-names>
+                  </name>
+               </person-group>
+               <source>Columbia Journal of Environmental Law</source>
+               <volume>28</volume>
+               <fpage>1</fpage>
+               <year>2003</year>
+               <publisher-name>HeinOnline</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R102">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Climate change liability</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Faure</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peeters</surname>
+                     <given-names>Marjan</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
