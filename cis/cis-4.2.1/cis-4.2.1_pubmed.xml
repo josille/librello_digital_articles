@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2016.04020001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Identifying the “Usual Suspects”—Assessing Patterns of Representation in Local Environmental Initiatives</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Fenton</surname>
+                  <given-names>Paul</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Busch</surname>
+                  <given-names>Henner</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Division of Environmental Technology &amp; Management, Linko ̈ping University, Sweden</aff>
+         <aff id="A3">
+            <label>2</label>Lund University Centre for Sustainability Studies, Sweden</aff>
+         <aff id="A4">
+            <label>3</label>Lund University Centre of Excellence for Integration of Social and Natural Dimension of Sustainability, Sweden</aff>
+         <pub-date pub-type="ppub">
+            <day>21</day>
+            <month>06</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>4</volume>
+         <issue>2</issue>
+         <fpage>1</fpage>
+         <lpage>14</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>An increasing body of literature explores the role of transnational municipal networks (TMNs) in governing sustainable development. As associations, one key task of TMNs is to represent their members through production and dissemination of information and knowledge concerning municipal action for sustainable development. Case studies, often emphasising best practice, are used by many TMNs to fulfil this task. Nevertheless, despite strong scrutiny concerning the use of case studies in “policy mobilities” research, there have been limited attempts to quantify the ways in which TMNs present and disseminate case studies and, by doing so, generate trends of presence and absence in literature on sustainable development. Assessing patterns of representation for continents, countries, municipalities and themes across nine international case study collections published by ICLEI - Local Governments for Sustainability since 1991, this study responds to this research gap and identifies the presence of “usual suspects” in the ICLEI case study collections, along with notable absentees. By doing so, the study contributes to policy mobilities research and literature on TMNs, by encouraging reflection and further research concerning the representation patterns influencing which municipalities and what topics are presented in discourses on sustainable development.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>ICLEI</kwd>
+            <kwd>case studies</kwd>
+            <kwd>comparative urbanism</kwd>
+            <kwd>municipalities</kwd>
+            <kwd>TMNs</kwd>
+            <kwd>urban sustainability</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>This paper explores the role of transnational municipal networks (TMNs) in governing for sustainable development, with specific focus on the production and dissemination of information and knowledge concerning municipal efforts to increase sustainability. Municipalities, it is claimed, play an important role in a transition to sustainable development that requires multi-level governance and diverse forms of action [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>]. As such, municipalities have initiated a diverse range of experiments aiming to contribute to sustainable development at the local and global level [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R05">5</xref>]. Various TMNs have been established to provide coordination and support functions that may add value to, and help spread knowledge about, the actions of single municipalities [<xref ref-type="bibr" rid="R06">6</xref>].</p>
+         <p>TMNs are typically associations, organised as networks of members who may pay subscription fees and usually receive services in a variety of forms [<xref ref-type="bibr" rid="R07">7</xref>]. TMNs may address multiple themes or single issues, be formed of particular types of municipality, or represent different geographic areas [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>]. As such, it is difficult to directly compare TMNs [<xref ref-type="bibr" rid="R10">10</xref>]. ICLEI - Local Governments for Sustainability (commonly known as ICLEI, and formerly known as the International Council for Local Environmental Initiatives) has, since its foundation in 1990, emerged as a prominent TMN addressing sustainable development [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>].
+</p>
+         <p>ICLEI provides a range of information services aimed at members, stakeholders and the general public. This paper focuses on ICLEI’s use of case studies as an information tool, assessing the continents, countries, municipalities and themes represented in nine collections of case studies. The paper identifies patterns of representation across these collections and assesses ways in which the composition of the case study collections (i.e. the representation of certain types of activities in particular locations) may influence the framing of the practice and study of sustainable development in municipalities, and the possible implications of such representation for research and practice [<xref ref-type="bibr" rid="R14">14</xref>]. By doing so, this paper contributes to literature considering the role of materials (e.g. publications) in “policy mobilities” [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>].</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- TMNs: Roles and Functions</title>
+         <p>TMNs are said to help municipalities address local, national and transnational concerns by providing services that fulfil local (intra-municipal), horizontal (inter-municipal) and vertical functions (national, international) [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>]. Kern and Bulkeley [<xref ref-type="bibr" rid="R12">12</xref>] identify three main characteristics of TMNs: 1) voluntary membership; 2) self-governing polycentric and non-hierarchical structures; and, 3) provision of implementation support to members (as opposed to the lobbying of conventional non-governmental organisations (NGOs)). As such, TMNs often act as mediators and convenors, promoting “governance by diffusion” [<xref ref-type="bibr" rid="R05">5</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]. TMNs may be seen as a dynamic alternative to traditional forms of government [<xref ref-type="bibr" rid="R08">8</xref>] or as “quasi-governmental” actors representing conventional interests embedded in the international system [<xref ref-type="bibr" rid="R17">17</xref>]. Giest and Howlett [<xref ref-type="bibr" rid="R21">21</xref>] argue that TMNs function more effectively when working with the support of national governments and when focused on specific geographical regions (cf. [<xref ref-type="bibr" rid="R07">7</xref>]).</p>
+         <p>This suggests that the <italic>location</italic> of TMN activities may be as relevant as the topics or themes that they address. Studies by Dolowitz et al. [<xref ref-type="bibr" rid="R22">22</xref>] support this perspective and downplay the diffusion effects of TMNs, noting that the policy searches of municipalities tend not to be systematic but are more often based on convenience and geographic proximity. That said, <italic>when</italic> there is evidence of careful and comprehensive searches, diffusion (or at least learning) may be said to occur [<xref ref-type="bibr" rid="R23">23</xref>]. In order to be representative of their members (and/or constituency group), TMNs thus face a challenge to accommodate the interests of both the typical and more ambitious municipalities, for whom different types of information and services may be relevant.</p>
+         <p>Representing members and their interests is a sizeable challenge for TMNs. Various authors observe the over-representation of certain cities or categories of cities in literature on sustainable development and within TMNs [<xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. In some cases, this may lead to the development of “core-periphery” dynamics influencing the operations, activities and thematic focus of TMNs [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R07">7</xref>, <xref ref-type="bibr" rid="R08">8</xref>]. On such occasions, prominent and active members may contribute to the consolidation or diffusion of particular norms, themes or solutions, or dominate the internal governance of TMNs. Given that TMN members only ever account for a fraction of their possible constituency, issues or perspectives relevant to the large group of non-members may be downplayed or silenced in TMN agendas (indeed, the non-representative nature of TMNs, and their overall significance, remains under scrutiny, see e.g. [<xref ref-type="bibr" rid="R27">27</xref>]). TMNs should thus be careful to avoid representing only “the usual suspects” [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R28">28</xref>].</p>
+         <p>An overview of several theoretical frameworks proposed to describe the roles and functions of TMNs can be found in Table <xref ref-type="table" rid="Tab01">1</xref>. One task that is common to these frameworks is the production and dissemination of information and knowledge, and specifically the communication of best practices aiming to facilitate learning for improved sustainability performance. Best or good practice has no clearly defined meaning, yet may be assumed to refer to Jänicke and Weidner’s definition of “success in comparative terms as best (or nearly best) achievement” and thus encompass pioneering, radical and incremental approaches in comparison to the status quo ([<xref ref-type="bibr" rid="R29">29</xref>], pp. 14–15). Nevertheless, McCann and Ward write that “neither success nor failure is absolute. One does not make sense without the other” ([<xref ref-type="bibr" rid="R30">30</xref>], p. 828). The absence of best practices, indeed the absence of a case, may reveal and legitimise “attempts to change and embed new policy models” ([<xref ref-type="bibr" rid="R30">30</xref>], p. 829). There is thus a need to critically assess patterns of presence and absence and their implications in collections of materials such as case studies.</p>
+         <p>Best practices may also play a role in vertical governance, demonstrating “what is possible” to national governments, and thereby becoming tools for the advocacy and lobbying efforts of TMNs. Similarly, some municipalities use TMNs as platforms when aiming to raise their profile for green place branding purposes [<xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>], although this may not be the primary aim of all municipalities in such networks [<xref ref-type="bibr" rid="R33">33</xref>]. Finally, best practice examples may enable benchmarking processes [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>]. In this case best practice would contribute to the internal governance of TMNs and their rule setting processes, as well as learning in municipalities.</p>
+         <table-wrap id="Tab01" position="float" orientation="portrait">
+            <label>
+                Table 1
+            </label>
+            <caption>
+               <title>Overview of network roles and functions.</title>
+            </caption>
+            <table>
+               <thead>
+                  
+               <tr>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Function/ framework</td>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Bulkeley et al. (2003) [<xref ref-type="bibr" rid="R17">17</xref>]</td>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Andonova et al. (2009) [<xref ref-type="bibr" rid="R36">36</xref>]</td>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Feldman (2012) [<xref ref-type="bibr" rid="R05">5</xref>]</td>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Bouteligier (2013) [<xref ref-type="bibr" rid="R37">37</xref>]</td>
+                  <td align="justify" style="border:tt;" rowspan="1" colspan="1">Busch (2015) [<xref ref-type="bibr" rid="R31">31</xref>]</td>
+               </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">1</td>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">Knowledge dissemination (case studies of best practice as tool for benchmarking)</td>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">Information sharing (communication of best practice)</td>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">Production &amp; spread of information (communication of best practice)</td>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">Exchange of information (communication of best practice)</td>
+                     <td align="justify" style="border:t;" rowspan="1" colspan="1">Platform for members (communication of best practice)</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">2</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Lobbying</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Capacity building &amp; implementation</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Evolution of policies</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Increase of member capacities</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Consultancy</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">3</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Implementation of EU policies</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Rule setting</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Initiate local action</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Advocacy and lobbying</td>
+                     <td align="justify" style="" rowspan="1" colspan="1">Commitment brokering</td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1">4</td>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1">Policy initiation</td>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1"/>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1"/>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1"/>
+                     <td align="justify" style="border:bb;" rowspan="1" colspan="1">Advocacy and lobbying</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s3">
+         <title>3.- Case Studies as Dissemination Tools</title>
+         <p>Although the precise aims of TMNs when disseminating information may vary, various TMNs use case studies as an information tool (e.g. C40 Cities, Energie Cités, Eurocities) [<xref ref-type="bibr" rid="R38">38</xref>]. The publication of case studies enables TMNs to fulfil multiple objectives, e.g. by sharing information between members and more broadly, to society. Such case studies may focus on general issues of relevance to sustainable development, or more specifically on activities linked to specific themes that in turn may be linked to associations’ thematic priorities or financing; case studies may also promote members or be offered as an incentive to get non-members to join. Case studies thus act as a functional tool for awareness-raising, exchange of ideas and capacity-building. However, recent literature has highlighted a number of possible problems with the ways that case studies present concepts or information.</p>
+         <p>For example, many case studies focus on a single action in a specific municipality addressing a single theme. This striation of “sustainable development” may risk making the concept appear geographically or thematically specific or limited, and thereby consolidate isolationist or elitist norms [<xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. For example, some writers (such as [<xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>]) note an imbalance in the presentation of “developed” and “developing” world narratives in academic literature, leading to over-representation of cases from Europe and North America. Similarly, McFarlane [<xref ref-type="bibr" rid="R24">24</xref>] and Pierre [<xref ref-type="bibr" rid="R46">46</xref>] suggest theories of urban governance developed in studies of North American and European cities dominate over alternatives. In other words, the frequency, framing and form of assessments used by academics may distort understanding of urban contexts and result in the presentation of frequently-occurring cases dubbed “usual suspects” [<xref ref-type="bibr" rid="R28">28</xref>].</p>
+         <p>There are other potential problems with the use of case studies. For example, solutions proposed in some case studies may accentuate the problems identified in others [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>] and context-specific analysis is often developed and presented with limited reference to the global challenges that stimulate local action; such lack of performativity means that analysis is frequently detached from, or devoid of, meaning [<xref ref-type="bibr" rid="R39">39</xref>]. Comparison between cases may be difficult because, as even advocates of comparative urban research note, comparative analysis depends on “some degree of reductionism as a step in preparing empirical observations” ([<xref ref-type="bibr" rid="R46">46</xref>], p. 447; cf. [<xref ref-type="bibr" rid="R14">14</xref>]).</p>
+         <p>Others contend that case studies have limited utility, even when they provide interesting information, as the scope and format of case studies tends to limit the amount of information that can be provided. Even in a non-comparative format, complex issues, such as institutional, political, socio-economic or environmental dimensions, may be presented in an overly simplified manner, or even discounted by readers on the basis of assumptions about perceived relevance [<xref ref-type="bibr" rid="R22">22</xref>]. Such perceptions have led to criticisms of municipalities as being “purposefully conservative” doing little more than that which they consider practical or convenient [<xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R49">49</xref>]. Whilst there are not necessarily clear alternatives to the use of case studies, McCann and Ward are among the authors stating the need to explore the implications of presence and absence in more detail [<xref ref-type="bibr" rid="R30">30</xref>].
+</p>
+         <p>In sum, recent works suggests that the over-representation of case studies in academic literature on urban sustainability may contribute to an over-representation of certain kinds of municipalities, e.g. cities of a certain size or in certain locations—at the expense of others. Cities that are not represented, under-represented or less visibly active may thus be considered to be either “free riders” or “silenced” in debates on sustainable development. Against this background, this article focuses on the extent to which different continental regions, countries, municipalities and themes are represented in nine collections of international case studies published by ICLEI. In particular, the paper investigates a claim made in a major ICLEI publication.</p>
+         <p>In 2012, ICLEI published the global review “Local Sustainability 2012: taking stock and moving forward” [<xref ref-type="bibr" rid="R50">50</xref>]. As a complement to the review, a compendium of case studies, “Showcasing progress”, was also published. “Showcasing progress” included short versions of 14 case studies in the main ICLEI Case Study series. ICLEI was keen to stress that the featured case studies were “not the usual suspects”, suggesting their awareness that some case studies perhaps risk becoming too familiar, repetitive or informative due to their frequent appearance in collections [<xref ref-type="bibr" rid="R28">28</xref>]. How well does ICLEI’s claim stand up? Did the compendium feature a new group of municipalities? Or did the “usual suspects” reappear? By illustrating patterns of representation, the article will explore if “usual suspects” exist in this report and across ICLEI’s collections of case studies, and consider the implications of such occurrences for both theory and practice.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- ICLEI and Case Studies</title>
+         <sec id="s4.1">
+            <title>4.1.- The History of ICLEI</title>
+            <p>In September 2015, ICLEI celebrated the 25th anniversary of its foundation. A short history of ICLEI follows (cf. [<xref ref-type="bibr" rid="R51">51</xref>]). In 1989, 35 local government leaders from North America met and pledged to establish local regulations to phase out the use of ozone-depleting chemicals. At this meeting, “Larry Agran, Mayor of Irvine, California, USA and Jeb Brugmann imagined an agency that could coordinate local government responses to global environmental problems” [<xref ref-type="bibr" rid="R52">52</xref>]. An international consultation with local government officials was held, and in September 1990, more than 200 local governments from 43 countries attended the World Congress of Local Governments for a Sustainable Future. The Congress concluded with foundation of the International Council for Local Environmental Initiatives (ICLEI) and adoption of ICLEI Charter [<xref ref-type="bibr" rid="R52">52</xref>].</p>
+            <p>Operations began in March 1991, with the basic organisational structure of ICLEI being established: ICLEI World Secretariat, hosted by the City of Toronto, Canada, and a European Secretariat in Freiburg, Germany, opened. This world-regional structure has developed over time and today, ICLEI maintains eight regional Secretariats and four national offices [<xref ref-type="bibr" rid="R53">53</xref>]. ICLEI regions broadly correlate with the UN Geoscheme of regions and sub-regions, which is used for statistical purposes in the international system. Since 2010, ICLEI World Secretariat has been hosted by the City of Bonn, Germany, with six thematic centres located at offices around the world [<xref ref-type="bibr" rid="R54">54</xref>]. The thematic centres partly reflect the widening and deepening of ICLEI’s mandate and activities over time, as did the formal change in the organisation’s name made in 2003, when ICLEI became ICLEI - Local Governments for Sustainability. Recent years have also seen an increase in ICLEI membership. In 2006, New Delhi became the 500th active ICLEI member, and by November 2008, membership doubled when Mumbai joined. There are presently around 1000 active members of ICLEI in over 80 countries.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Agendas and Activities</title>
+            <p>ICLEI defines itself as having a triple role: as an association of municipalities, a movement of municipalities, and an agency for municipalities. In other words, ICLEI provides a forum for members to meet and represents its members in other arena (e.g. UNCSD, UNFCCC), whilst initiating and participating in actions to raise awareness or increase capacity of municipalities and other stakeholders. The broad and multi-dimensional role of ICLEI is realised through a variety of initiatives, including campaigns, projects, alliances and awareness-raising activities including conferences.</p>
+            <p>For example, at the UN Conference on Environment and Development in 1992, ICLEI proposed the Local Agenda 21 initiative, which subsequently developed into a significant conceptual and practical tool for municipalities to frame and develop their work around environmental issues. Similarly, the Cities for Climate Protection Campaign (CCP), launched at the First Municipal Leaders Summit on Climate Change in 1993, subsequently developed into a significant reference point for municipal work on climate change [<xref ref-type="bibr" rid="R55">55</xref>]. ICLEI also plays a central role in a number of other initiatives, such as the European Sustainable Cities and Towns Campaign, and the EcoMobility Alliance.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Information as a Key Tool</title>
+            <p>Dissemination of information occurs on multiple levels and using a variety of means. ICLEI has a global website, plus dedicated websites for different continental regions, national offices, initiatives, alliances, projects and conferences. Dissemination actions include regular newsletters, e-newsletters, conference publications, books, reports, manuals, training guides, and case studies. Dissemination of information has multiple objectives, such as providing information on ICLEI as an organisation; fulfilling associative needs by representing members; or awareness-raising or promotion of past or ongoing actions by ICLEI or its members.</p>
+         </sec>
+         <sec id="s4.4">
+            <title>4.4.- ICLEI Case Study Collections</title>
+            <p>Since its inception, ICLEI has published case studies in various series that are both international and national/regional in scope. The publication of case studies and promotion of particular practices suggests a willingness to influence other municipalities and promote replication (in appropriate contexts) of the described approach. Interest is generated by describing an approach that is considered singular or unique, innovative or successful, implying a normative evaluation of case studies as “good” or “best” practices [<xref ref-type="bibr" rid="R56">56</xref>]. ICLEI case studies aim to present best practice in its local context, by describing a project and its results; identifying lessons learned; and assessing the “replication potential” and costs of a project [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>].</p>
+            <p>Case studies may represent the experiences of member municipalities or ICLEI initiatives to specific or general audiences; highlight specific themes or topics (advocacy); or support capacity-building by illustrating particular methods, ideas or processes. For example, the main ICLEI Case Study series, issued by ICLEI World Secretariat, addresses international municipal efforts for sustainable development across multiple themes. In contrast, ICLEI Oceania Water Campaign case study series presents thematic information with exclusive focus on the Oceania region. Other case study collections have been published in relation to specific international or regional projects or initiatives (e.g. [<xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R59">59</xref>]).</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Method</title>
+         <sec id="s5.1">
+            <title>5.1.- Data Collection</title>
+            <p>In early 2013, ICLEI launched a new global website (www.iclei.org). This replaced the previous website, which was archived at (http://archive.iclei.org). The archived website remains online, although many of the internal links no longer function. On the old website, ICLEI displayed its publications in the section “ICLEI Publications”. There were five categories, each of which contained sub-sets of publications with varying themes, purposes or target groups. These categories were: ICLEI Case Studies; ICLEI Briefing Sheets; ICLEI Papers; ICLEI Global Reports; and, ICLEI Annual Reports.</p>
+            <p>On 21 February 2013, unaware of ICLEI’s intention to archive the website, the researchers downloaded all ICLEI case studies. A subsequent check ensured no further publications were added prior to archiving, meaning the downloaded files may be said to provide a complete and accurate record for the period from ICLEI’s foundation up until the end of February 2013. Case studies published during 2013–2015 have subsequently been downloaded from the new website, providing an almost complete record of ICLEI case studies and enabling assessment of the collections’ development over time. It is possible that other documents relevant to the study but unavailable on the website exist in other forms or locations, e.g. as paper copies, or in collections not mentioned on the Publications page. However, notwithstanding this uncertainty, it may be reasonably inferred that the case study collections used as the empirical data for this study are representative and likely to provide interesting insights into the ways in which municipal work for issues concerning sustainable development are portrayed by this particular TMN.</p>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Scope</title>
+            <p>Four major decisions were made to limit the scope of the study. These were:</p>
+            <list list-type="alpha-lower">
+               <list-item>
+                  <p>Attempt to provide a complete record of the online collections published by ICLEI up to the end of 2015, by including material from the old website rchive.iclei.org and (for the period 2013–2015) the new iclei.org.</p>
+               </list-item>
+               <list-item>
+                  <p>Focus only on case study collections that are international in scope (see Table <xref ref-type="table" rid="Tab02">2</xref>). This choice was necessary because the organisational structure of ICLEI is simultaneously global and continental/regional. As such, some, but not all, ICLEI regional Secretariats issues case study collections that focus exclusively on their member countries. Including such collections would thus distort the balance of this study. The second choice thus limits the scope of the case study collections assessed in this study to those that are international in scope, as opposed to collections primarily defined by their geographic or thematic limitations. However, this second choice necessitates a third choice.</p>
+               </list-item>
+               <list-item>
+                  <p>Present results from the analysis of the collections, together with a brief separate analysis of the main series, in order to distinguish more clearly between the two types of collection.</p>
+               </list-item>
+               <list-item>
+                  <p>Make limited analysis of the thematic content of case studies. By including both the main ICLEI Case Study series (which may cover any theme under the umbrella of sustainable development) and other collections that are thematic or project-related yet international in scope, the ability to draw conclusions concerning thematic focus is likely to be skewed somewhat in favour of the themes addressed in such collections.</p>
+               </list-item>
+            </list>
+            <p>In other words, it is possible to be quite categorical about data concerning continents, countries and cities, whereas the study of themes or topics addressed in case studies necessarily implies some degree of interpretation and subjectivity, in the sense that themes or topics may overlap, or there may be discrepancies between words and content within or between case studies. It is not possible to be quite so categorical. Thus, to clarify, the thematic results presented in this study have been developed in the following way.</p>
+            <p>First, the key words from the titles of case studies have been added to the main data sheet (see below) in which empirical data are stored. Key words are verbs, adjectives or nouns that influence the composition of the title and its emphasis. To ensure data was collected from all studies, in the absence of a clear title this information was extracted from the case study’s summary or abstract. In the same way, approximations or synonyms were used to simplify data collection. As such, the thematic analysis provides a reasonably good overview of the thematic focus of case studies, but little information about the content of studies. The thematic data are indicative and should only be interpreted as such. Deeper review or content analysis would be required to make any larger claims concerning its significance or the evidence of trends, etc.</p>
+            <p>In addition, it should be noted that the collections do not only present municipal examples. A small number of other sub-national entities such as counties, regions or states are represented, as are several national initiatives (e.g. from Mexico, Norway and India), one company (from the USA), and ICLEI CCP campaign. There is also a risk that municipalities represented for specific actions in the main ICLEI Case Study series reappear in the other collections (i.e. that the main topic of a case study is repeated across collections). Ultimately, the main focus of this paper is not to provide methodological certainty about such issues, but rather to identify the frequency at which municipalities are represented in international collections and illustrate general trends concerning themes.</p>
+            <table-wrap id="Tab02" position="float" orientation="portrait">
+               <label>
+                Table 2
+            </label>
+               <caption>
+                  <title>Examples of case study collections available from iclei.org or archive.iclei.org that are included or excluded from this study. </title>
+               </caption>
+               <table><tbody>
+                     <tr>
+                        <td style="border-top:1px solid black;border-bottom:1px solid black;" rowspan="1" colspan="1">
+                           Scope
+                        </td>
+                        <td style="border-top:1px solid black;border-bottom:1px solid black;" rowspan="1" colspan="1">
+                           Collection
+                        </td>
+                        <td style="border-top:1px solid black;border-bottom:1px solid black;" rowspan="1" colspan="1">
+                           Comments
+                        </td>
+                     </tr>
+                     <tr>
+                        <td rowspan="1" colspan="1">
+                           298 case studies included
+                        </td>
+                        <td rowspan="1" colspan="1">
+                           ICLEI Case Study series
+                        </td>
+                        <td rowspan="1" colspan="1">
+                           - This collection addresses multiples themes.
+                        </td>
+                     </tr>
+                     <tr>
+                        <td rowspan="16" colspan="1">
+                           
+                        </td>
+                        <td rowspan="1" colspan="1">
+                           - (unspecified start) from 1991 - Dec. 2015.
+                        </td>
+                        <td rowspan="1" colspan="1">
+                           - The case studies are numbered 1-181.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                           - However: case studies 98-100 are not listed on the website and case studies 94-97
+                           are duplicated as 104-107.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                           - Case study 155 comprises not one but seven case studies that were published jointly
+                           with the International Energy Agency (IRENA) in 2012, i.e. +6.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                           - Thus, the main Case Study series contains 180 publications (i.e. (181-7) + 6).
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           Climate Roadmap series
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 32 case studies.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                           - Published 2009 in connection with UNFCCC COP15.
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                           - 13 case stories.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           EcoMobility (2011)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 13 case stories.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                           - Related to work of the EcoMobility Alliance.
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           GIZ-ICLEI NEXUS collection (2014)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - Examples of approaches to resource management and service delivery.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1"></td>
+                        <td style="" rowspan="1" colspan="1">- 8 case studies and 29 shorter case stories.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           Local Action for Biodiversity (2008)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 23 case studies.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                           - Related to project of the same name.
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           SWITCH Urban Water Management (2011)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 6 case studies.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                           - Related to project of the same name.
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           URBAN LEDS project (2015)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 1 case story.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           WBCSD-ICLEI Innovative City-business Collaboration (2015)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - 6 case stories.
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border-top:1px solid black;">
+                           Excluded
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           Federation of Canadian Municipalities
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - External collection linked from archive.iclei.org with no obvious ICLEI logo; national
+                           scope.
+                        </td>
+                     </tr>
+                     <tr>
+                        <td rowspan="7"></td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           ICLEI Africa case studies
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - Duplication of main ICLEI Case Study series.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           ICLEI Canada case studies
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - National scope; also access restricted to ICLEI members.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           ICLEI East Asia publications, including Korea and Japan case studies
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - National scope; published in Japanese and Korean.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           ICLEI Oceania case studies
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - Case studies are included, but exclusively concentrate on Australia.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           ICLEI South East Asia
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - Regional collection presenting cases from Indonesia, Thailand, and Philippines.
+                        </td>
+                     </tr>
+                     <tr>
+                        
+                        <td style="" rowspan="1" colspan="1">
+                           - Based on Canadian International Development Agency project.
+                        </td>
+                        <td style="" rowspan="1" colspan="1">
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           Innovation, Knowledge and Exchange Network (IKEN)
+                        </td>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1">
+                           - External collection linked from archive.iclei.org but with no ICLEI logo.
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border-bottom:1px solid black;"></td>
+                        <td style="border-top:1px solid black;border-bottom:1px solid black;" rowspan="1" colspan="1">
+                           Local Renewables case studies
+                        </td>
+                        <td style="border-top:1px solid black;border-bottom:1px solid black;" rowspan="1" colspan="1">
+                           - Duplication of main ICLEI Case Study series plus one external case study.
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s5.3">
+            <title>5.3.- Compiling the Data</title>
+            <p>Data was compiled in excel, with sub-sheets developed for specific categories. The main sheet records the issues such as the case study collection, case study number, the availability of the source document, the case study title, municipality/organisation in focus, country, continental region, year of publication, ICLEI membership status (July 2013), and themes addressed. The sub-sheets contain collations of different information sets, e.g. the results on cities presented below.
+</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Results</title>
+         <sec id="s6.1">
+            <title>6.1.- Results: All International Case Studies</title>
+            <p>A total of 298 case studies were gathered from nine collections. Figure <xref ref-type="fig" rid="Fig01">1</xref> shows the share each continental region has of the total number of case studies. Studies focusing on the Americas account for the largest share, with 115 studies, and Europe has the largest share for a single continental region.</p>
+            <p>Figure <xref ref-type="fig" rid="Fig02">2</xref> shows how the representation of examples from different continental regions in case studies has increased for all regions over time (in the case of North America, due to a significant number of new studies published during 2015). In particular, the portrayal of case studies from Asia and Europe has increased rapidly during the second period. A detailed breakdown per country is provided in Figure <xref ref-type="fig" rid="Fig03">3</xref>, which illustrates patterns of representation per continental region and identifies countries that occur frequently in the collections.</p>
+         </sec>
+         <sec id="s6.2">
+            <title>6.2.- National Results for Different Continental Regions</title>
+            <sec id="s6.2.1">
+               <title>6.2.1.- Africa</title>
+               <p>During the first period, case studies from six African countries were represented in the collections, including one study from Senegal in West Africa, a Francophone nation. This example stands out, being the only such case during the two periods. Indeed, despite an overall, if small, increase in the number of studies on African examples during the second period, fewer African countries are represented in this period. South Africa emerges as the dominant subject of case studies. During both periods, there are no examples from Northern Africa, the Sahara or the Horn, including populous countries such as Nigeria, Ethiopia, Egypt or DR Congo. South Africa is, of course, a fairly urbanised nation, yet so too are nations such as Algeria, Libya, or Tunisia. It is thus interesting to consider why the presentation of “Africa” in ICLEI case study collections has increasingly come to mean Anglophone, Southern (South) Africa.</p>
+            </sec>
+            <sec id="s6.2.2">
+               <title>6.2.2.- Asia</title>
+               <p>The Asian continent has the largest share of the world’s population and in recent decades has been subject to rapid urbanisation. It is thus no surprise that there was an increase in studies on Asian nations over time. In particular, examples from India and Japan were the subject of a large number of case studies, particularly compared to the first period. Perhaps surprisingly, China—with its large population and economy, significant environmental challenges, and rapid urbanisation—is not so well represented, although several other populous countries in the region, such as Iran, Pakistan and Vietnam are not subjects of any case studies. Interestingly, South Korea, as host to ICLEI offices, receives no more representation than Thailand. No countries from Central Asia are represented in case studies.</p>
+            </sec>
+            <sec id="s6.2.3">
+               <title>6.2.3.- Europe</title>
+               <p>The pattern of representation in case studies for European countries was fairly consistent, albeit with increased volume and diversity after 2002. However, few examples from former-Soviet countries are recorded as case studies, and together, Germany and Sweden account for 47% of all European case studies. In the case of Germany this is perhaps unsurprising as the country has Europe’s largest population and economy and a long history of environmental engagement. Moreover, ICLEI’s European Secretariat has been located in Freiburg since 1991, and since 2010, the World Secretariat has been based in Bonn.</p>
+               <p>However, the number of Swedish examples may appear, given the country’s size, surprising, despite the country’s history with Local Agenda 21 and its other efforts to increase sustainability. The Swedish share perhaps reflects the strong degree of municipal autonomy and resource base of Swedish municipalities [<xref ref-type="bibr" rid="R60">60</xref>, <xref ref-type="bibr" rid="R61">61</xref>]. It may also be influenced by resources of those seeking to access (and produce) information, in that some forms of policy search and information collection (e.g. search engines) may favour examples that are (a) already disseminated, (b) documented, and (c) in English. Many Swedish municipalities have, over a long period of time, successfully managed to document and disseminate their experiences in English to wide audiences via Internet.</p>
+               <fig id="Fig01" position="float" orientation="portrait">
+                  <label>
+                Figure 1</label>
+                  <caption>
+                     <title>Share of all case studies per continental region. To clarify, a 0.5 study signifies that the study concerned two municipalities in the same or different countries, thus “halving” the study. </title>
+                  </caption>
+                  <graphic xlink:href="fig01.jpg"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <fig id="Fig02" position="float" orientation="portrait">
+                  <label>
+                Figure 2</label>
+                  <caption>
+                     <title>Number of studies per continental region during two time periods. </title>
+                  </caption>
+                  <graphic xlink:href="fig02.jpg"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <fig id="Fig03" position="float" orientation="portrait">
+                  <label>
+                Figure 3</label>
+                  <caption>
+                     <title>Number of case studies per period and region in the nine collections. </title>
+                  </caption>
+                  <graphic xlink:href="fig03.jpg"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+            </sec>
+            <sec id="s6.2.4">
+               <title>6.2.4.- North and Central America</title>
+               <p>These two continental regions are presented together as only three countries are represented in the case study collections. Two things are immediately obvious about the results: first, that Mexico is the only country from Central America and the Caribbean with case studies in the collection; and second, the reduction in examples from the USA during the second period (offset by seven publications during 2015). Indeed, Canadian municipalities are the subject of almost as many case studies as US municipalities since 2002. This may reflect a number of issues, e.g. US domestic politics (although some would argue Canadian politics with regard to environmental issues has not been dissimilar); an increase in the availability of other platforms (e.g. the US Conference of Mayors); or the strong role of Canadian municipalities in ICLEI, with Toronto hosting the World Secretariat from 1991-2010, Edmonton hosting the 2009 World Congress, and with Canadian representatives on ICLEI’s Executive Committee.</p>
+            </sec>
+            <sec id="s6.2.5">
+               <title>6.2.5.- Oceania</title>
+               <p>ICLEI’s Oceania case study series presents only Australian examples, so it is perhaps no surprise that Australian examples also dominate the Oceanian share in other collections too. One example from New Zealand is present, yet no examples from other countries are included. Both Australia and New Zealand have significant urban hubs and strong local government systems; this may not be the case for all countries in the Oceania region.</p>
+            </sec>
+            <sec id="s6.2.6">
+               <title>6.2.6.- South America</title>
+               <p>The pattern of representation evident for South America is somewhat similar to that of Africa, in the sense that volume increases in the second period whilst diversity does not. Portuguese-speaking Brazil dominates the collection, and within Brazil, the examples of Belo Horizonte (host to ICLEI’s 2012 World Congress) and Betim from the State of Minas Gerais account for 32% of the national total (and 22% of the South American total).</p>
+            </sec>
+         </sec>
+         <sec id="s6.3">
+            <title>6.3.- How Frequently Are Countries and Municipalities Represented?</title>
+            <p>The significant share of two Brazilian cities from one State in their national and continental region totals highlights the need to delve deeper into the issue of specific case representation.</p>
+            <p>As previously stated, the majority of the case studies portray municipal examples. Of the 298 case studies assessed in this sample, 144 case studies (48%) present examples appearing only once in the collections, whereas the remaining 154 case studies (52%) present examples from 52 frequently occurring municipalities. This means that, in total, 196 municipalities and/or other actors are represented by the case study collections. Of these, the 52 frequently occurring municipalities represent around 25% of the examples, yet over half the total number of case studies.</p>
+            <p>In the following section, the composition of the 154 multiple cases will be assessed. Europe (47.5), South America (40) and North America (31) have the largest number of cases, followed by Asia (23.5), Africa (10), and Oceania (2). There are no multiple cases from Central America. The share of multiple case studies in each continental region’s total varies considerably (see Figure <xref ref-type="fig" rid="Fig04">4</xref>). This measure reveals the relative diversity of the case studies represented per continental region.</p>
+            <p>The same data can be used to show the share multiple case studies in each continental region have in the total 298 case studies. Figure <xref ref-type="fig" rid="Fig05">5</xref> shows that multiple case studies from Europe (16%) and South America (13%) account for 29% of all case studies. Together with North America (10%), multiple case studies from these three continental regions account for 39% of all studies. In other words, specific municipalities from these continental regions are represented so frequently that their combined total is greater than that of the combined total for all case studies from Africa, Asia, Central America, the Middle East and Oceania combined (35%). Likewise, the total is greater than that for the combined total of single examples (i.e. those appearing only once) from Europe, North America and South America.
+</p>
+            <p>The significant variation in the representation of countries is also noticeable when looking exclusively at multiple case studies. The countries named in Figure <xref ref-type="fig" rid="Fig06">6</xref> account for 79% of multiple case studies and approximately 41% of all studies.</p>
+            <p>Following on from this data, Figure <xref ref-type="fig" rid="Fig07">7</xref> reveals the municipalities which are most frequently represented in the case study collections, i.e. the multiples. These are all represented in the countries named in Figure <xref ref-type="fig" rid="Fig06">6</xref>, and it is perhaps no surprise that the three of the six most-represented municipalities are located in Brazil.</p>
+            <p>The 23 municipalities in Figure <xref ref-type="fig" rid="Fig07">7</xref> account for 62% of the 154 multiple case studies, or 32% of all 298 studies. 18 of the 23 municipalities are located in Europe, North America and South America; there are no Central American, Middle Eastern or Oceanic examples.</p>
+            <p>The prominence of these municipalities may have various causes and it is possible to speculate about possible implications of these choices. It could be that these cases were or are judged, according to some criteria or purely subjective terms, to be the most relevant, successful, innovative, etc. However, other criteria may have played a role, e.g. participation in ICLEI projects, status as an ICLEI host city (Freiburg, São Paulo, Toronto), host to ICLEI World Congresses (Belo Horizonte, Cape Town, Edmonton), or other roles in ICLEI (e.g. representative in Executive Committee). As ICLEI is a membership organisation, it would be surprising if there were no such effects. Indeed, such representation is an important function of the organisation.</p>
+            <p>Municipalities of different sizes and population are represented in Figure <xref ref-type="fig" rid="Fig07">7</xref>. The megacities of São Paulo and Seoul and Calvià, a small town of around 50,000 inhabitants on the island of Mallorca, are obvious outliers in terms of size, although there are no smaller (i.e. village/rural) municipalities. Sixteen of the municipalities in Figure <xref ref-type="fig" rid="Fig07">7</xref> have populations in the range of approximately 400,000 to 5,000,000, accounting for 72% of studies on these 23 municipalities, and 23% of all studies. (The municipalities featured in Figure <xref ref-type="fig" rid="Fig07">7</xref> that are exception to this are Calvià, Freiburg, Helsingborg, São Paulo, Shimla, Seoul and Växjö). In other words, 16 municipalities account for almost one quarter of all ICLEI case studies on sustainable development at the local level. The 12 most-represented municipalities feature in 63 studies, 41% of multiples and 21% of the total collection.</p>
+         </sec>
+         <sec id="s6.4">
+            <title>6.4.- Which Themes or Topics Are Represented in the Case Studies?</title>
+            <p>The data presented here should be interpreted as highly subjective, for the reasons already described. Thus, this section does not aim to present a full or “scientific” account of the data, but rather to illustrate some basic findings that may inform future research.</p>
+            <p>A number of verbs and adjectives are deployed when constructing titles. Those that appeared most frequently were synonymous with “Involving” (34), “Reducing” (19), “Promoting/encouraging” (17), “Implementing/action” (15), “Managing” (15), and “Integrated/integration” (15). 11 studies referred to “leadership/best” but only 3 mentioned “ambition”. Of other categories, 3 mentioned “fighting/combating” and 3 “benefiting”. The use of such words seems to imply an emphasis on participation and awareness-raising, strategic management, and actions to reduce negative impacts.</p>
+            <p>Concerning themes, energy (68) and climate change (55) featured prominently, ahead of transport (47), urban development (39), water (31), waste management (29) and environment (23). Concerning measures for each theme, studies on energy focused on renewable energy (37) or energy conservation/energy efficiency (31). Other prominent sub-themes/measures included economic development (42), biodiversity (33), welfare/well-being (28), emission reduction targets (21), and mobility (16). Other topics featured less prominently, despite their past inclusion as strategic priorities of ICLEI, e.g. pollution (3) or soil (1). Themes such as disaster prevention or health, together with cultural issues such as heritage (all 1), were also less prominent.</p>
+            <fig id="Fig04" position="float" orientation="portrait">
+               <label>
+                Figure 4</label>
+               <caption>
+                  <title>Multiple case studies as a proportion of continental regions. </title>
+               </caption>
+               <graphic xlink:href="fig04.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig05" position="float" orientation="portrait">
+               <label>
+                Figure 5</label>
+               <caption>
+                  <title>Multiple case studies per region as a proportion of all case studies. </title>
+               </caption>
+               <graphic xlink:href="fig05.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig06" position="float" orientation="portrait">
+               <label>
+                Figure 6</label>
+               <caption>
+                  <title>Most multiple case studies per country. Of the “Other” countries, the most represented countries are Colombia, Indonesia, Italy and Japan, with 4 multiple studies each. </title>
+               </caption>
+               <graphic xlink:href="fig06.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Concerning organisation and implementation, participation (45), planning (33), management (32, or 36 including demand management), local cooperation (32), education (16), financial/cost issues (15) and municipal employees/organisations (15). Regional cooperation (8), environmental management systems (5), legal or regulatory issues (5) and international cooperation (4) are examples of issues that featured less prominently.
+</p>
+         </sec>
+         <sec id="s6.5">
+            <title>6.5.- Focusing on the Main ICLEI Case Study Series</title>
+            <p>Removing the thematic case study collections from the data and only studying the main ICLEI Case Study series impacts upon representation, with relative increases in Asian, North American and South American shares (see Figure <xref ref-type="fig" rid="Fig08">8</xref>). This means the other continental regions have greater representation in the thematic collections than in the main series.</p>
+            <p>The USA (26), Brazil (23), and Germany (14) are the countries that appear most frequently in the main ICLEI Case Study series. In total, examples from 41 countries feature plus one study focusing on ICLEI (CCP campaign). The 181 case studies include 137 examples: 108 single cases and 72 multiples from 29 municipalities. The nine municipalities that appear most often are shown in Figure <xref ref-type="fig" rid="Fig09">9</xref> and account for 18% of all cases in the series.</p>
+            <fig id="Fig07" position="float" orientation="portrait">
+               <label>
+                Figure 7</label>
+               <caption>
+                  <title>Most multiple case studies per municipality. </title>
+               </caption>
+               <graphic xlink:href="fig07.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig08" position="float" orientation="portrait">
+               <label>
+                Figure 8</label>
+               <caption>
+                  <title>Number of case studies per continental region in the main series. </title>
+               </caption>
+               <graphic xlink:href="fig08.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig09" position="float" orientation="portrait">
+               <label>
+                Figure 9</label>
+               <caption>
+                  <title>Eight municipalities with most case studies in the main series. </title>
+               </caption>
+               <graphic xlink:href="fig09.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec id="s7">
+         <title>7.- Discussion</title>
+         <p>The exploration of ICLEI’s case study collections provides valuable insights into the patterns of representation that emerge when TMNs disseminate best practices. Moreover, by testing ICLEI’s claim that the case studies presented in a 2012 report were “not the usual suspects” [<xref ref-type="bibr" rid="R28">28</xref>], it is possible to both substantiate and refute their claim. Seven of the case studies featured in “Showcasing progress” involved municipalities (and a national programme) that had not previously been included in the nine case study collections assessed in this study.</p>
+         <p>However, seven case studies did present examples from municipalities already featured in the nine collections. Two of these municipalities (Iida and Reykjavik) had only previously featured in one collection (Climate Roadmap), but five municipalities had featured on multiple occasions: Betim (6.5 other studies), Cape Town (2 other studies), Ethekwini (Durban), Portland, and Toronto (each 3 other studies). The last three municipalities have subsequently appeared in a total of five more studies and must therefore be considered to be very much the usual suspects. In contrast, only one (Thane, India) of the “unusual” suspects included in the 2012 report has subsequently been the subject of a new case study. This indicates that although the overall number of municipalities represented in the collections has increased, some of the “usual suspects” have consolidated their position (indeed, Belo Horizonte is the study of another case study published in 2016).
+</p>
+         <p>This tends to underline the validity of claims that certain kinds of municipalities appear more frequently than others in discussions on sustainable development. The author do not take the view that such imbalances arise from any particular biases or wilful distortions, but are more likely to offer insights into limitations to ICLEI’s organisational resources and capacities, conditions of project financing, or lack of knowledge or information about alternative possible cases. Municipalities that have been engaged in ICLEI’s work in an active way, over a long period of time, may feature more prominently.</p>
+         <p>Nonetheless, the financial resources and administrative capacity of municipalities may also play an important role in determining who are the subject of case studies. Municipalities with limited resources or capacity are unlikely to have time to invest in working collaboratively on the content of a case study. These findings indicate that TMNs such as ICLEI may need to make a more determined effort to address absences in collections, or adopt clearer criteria for case selection in order to justify presence. There are not necessarily inherent reasons why repetition of examples is problematic (indeed, such repetition may highlight progress or stagnation over time); nevertheless, there is a need to be explicit about why selections are made and disseminated.</p>
+         <p>Some authors cite unequal access to resources as a key determinant of power relationships (see e.g. [<xref ref-type="bibr" rid="R62">62</xref>]), but such arguments will not be explored here, as the results of this paper provide only superficial evidence for such claims. Nevertheless, the results do highlight a number of interesting points, which may support or refute different theoretical claims about the use of case studies. For example, the results suggest some degree of ethnocentrism, or at least a lack of plurality, in line with the claims made by authors such as [<xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>]. This should not be interpreted as a criticism of ICLEI, as 51 countries are featured in the nine collections, and there is no inherent reason for any or all countries to be included, just as there is no clear way of evaluating which particular municipality should be considered the most appropriate for any given case study, or indeed if practices in one context may or may not be diffused to other contexts.</p>
+         <p>However, the issue is worthy of discussion. The majority of case studies in the nine collections present examples from Europe and the Americas, at the expense of other continental regions. Moreover, a lack of plurality is observed within Europe (i.e. few former-Soviet countries) and the Americas (i.e. few Central American or Caribbean countries, overwhelming emphasis on Brazil, Canada and USA). The reasons for this are unclear, perhaps reflecting resources, history, specific themes or roles within ICLEI. Similarly, Oceania appears to be a synonym for Australia (and New Zealand), and examples from vast tracts of Africa, the Middle East and Central Asia are absent from the collections. Within North America, another trend is the declining number of case studies addressing the USA in the second period of the study (a trend masked only by a flurry of case studies issued in 2015). Again, a number of inferences may be made about this, some of which may appear oppositional e.g. an increased scepticism on the part of the USA concerning environmental issues, or an increased concern, leading to national initiatives on sustainability issues, such as that spearheaded by the US Conference of Mayors.</p>
+         <p>The population size of countries appears to play a limited role in determining the subjects of case studies. Various populous countries are not represented at all (e.g. Nigeria, Pakistan, Russia), while others (e.g. Bangladesh, China) are seldom featured. Nonetheless, frequently-represented examples tend to come from medium-large municipalities (with an interest in green branding, see e.g. [<xref ref-type="bibr" rid="R32">32</xref>]), with megacities and small municipalities less frequently represented. Again, it is only possible to speculate at the reasons for this, which may include resources, languages and the linguistic capacity of ICLEI staff in different continental regions, or perhaps a lack of political organisation or perceptions concerning the limited relevance of the sustainable development agenda (and lack of potential studies) in some contexts. It is also entirely possible that municipalities in some regions are active in other municipal associations or disseminate information about their work in other ways (e.g. through initiatives such as “Villes Durables” of the International Organisation of La Francophonie or equivalent networks). This does not preclude the importance of scrutinising representation in ICLEI collections, but rather emphasises the need for further research of this kind.</p>
+      </sec>
+      <sec id="s8">
+         <title>8.- Conclusions</title>
+         <p>This paper aimed to assess the ways in which the composition of ICLEI case study collections may influence the framing of the practice and study of sustainable development in municipalities. More specifically, by identifying the patterns of representation in the collections, the paper aimed to identify whether any “usual suspects” are obvious in ICLEI’s case study collections. The results of this study suggest that there is evidence of both over- and under-representation of continental regions, countries and themes in the nine international case study collections published by ICLEI. Moreover, a number of municipalities from a small number of countries emerge as “usual suspects” in the collections. This underlines the importance of theoretical claims concerning the risks of imbalances when using case studies to portray municipal work for sustainable development and the need to reflect on the implications of presence and absence in framing sustainable development.</p>
+         <p>Future research could add to understanding by deepening the study. For example, content or discourse analysis could be used to assess the actual content of case studies. An alternative variation would be to consider the membership status of case study subjects and attempt to investigate whether membership/insider status influences the selection of case study subjects. Another approach would be to widen the study and contrast the composition of ICLEI collections with similar collections published by other municipal networks, or to complement the study by contrasting the overall composition of associations’ literature with that of academic literature or other interest organisations. Alternatively, a study of “invisible” or absent municipalities operating outside of TMNs could improve understanding of their actions, thereby making a significant contribution to literature on municipalities and TMNs.</p>
+         <p>In sum, this study provides insight into a core function of TMNs, the production and dissemination of information, knowledge and best practice. A significant body of literature has explored the role of TMNs in capacity-building and evaluation, as representatives of municipalities in the international system, and the case studies and practices of specific municipalities. However, to date, there has been limited discussion or quantification of the ways in which TMNs present and disseminate information and in doing so, generate representational trends that emphasise “usual suspects” and avoid discussion of others.</p>
+         <p>The case of ICLEI illustrates this point, yet a wider study including other TMNs and case study collections would perhaps result in a similar conclusion. Indeed, the presence of “usual suspects” may not necessarily be entirely negative. The point is, there is a clear need to improve our understanding of who the “usual suspects” are or are not. Such understanding would assist in understanding the appropriateness of using such cases as illustrations of different phenomena, and may well promote an increase in the diversity of examples in case studies on urban sustainability published by TMNs and scholars. Moreover, understanding the representation patterns influencing <italic>which</italic> municipalities and <italic>what</italic> topics are presented in discourses may also contribute to scientific understanding of other processes, such as the role of non-state actors in climate governance. These issues are worthy of exploration in future research.</p>
+      </sec>
+      <sec id="s11">
+         <title>Acknowledgements</title>
+         <p>An earlier version of the paper was published as a Working Paper by Linköping University. The paper was presented at Stadtkolloquium Annual Workshop at University College London on 31 March 2014. We would like to thank participants at this event, together with Steven Yearley of the University of Edinburgh and Mattias Hjerpe at Linköping University for their comments and input. This research was supported by the Linneus Centre LUCID funded by the Swedish Research Council Formas [grant number 259-2008-1718]. The authors declare that they have no competing interests.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Acuto</surname>
+                     <given-names>Michele</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1017/S0260210512000502</pub-id>
+               <issn>0260-2105</issn>
+               <source>Review of International Studies</source>
+               <issue>4</issue>
+               <fpage>835</fpage>
+               <lpage>857</lpage>
+               <article-title>The New Climate Leaders?</article-title>
+               <volume>39</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Betsill</surname>
+                     <given-names>Michele</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bulkeley</surname>
+                     <given-names>Harriet</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/13549830701659683</pub-id>
+               <isbn>1354-9839</isbn>
+               <issn>1354-9839</issn>
+               <source>Local Environment</source>
+               <issue>5</issue>
+               <fpage>447</fpage>
+               <lpage>456</lpage>
+               <article-title>Looking Back and Thinking Ahead: A Decade of Cities and Climate Change Research</article-title>
+               <volume>12</volume>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Paris, France</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kern</surname>
+                     <given-names>Kristine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alber</surname>
+                     <given-names>Gotelind</given-names>
+                  </name>
+               </person-group>
+               <source>Competitive Cities and Climate Change, OECD Conference Proceedings</source>
+               <fpage>171</fpage>
+               <lpage>196</lpage>
+               <publisher-name>OECD</publisher-name>
+               <chapter-title>Governing Climate Change in Cities: Modes of Urban Climate Governance in Multi-level Systems</chapter-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://search.oecd.org/governance/regional-policy/50594939.pdf#page=172"
+                         xlink:type="simple">http://search.oecd.org/governance/regional-policy/50594939.pdf#page=172</ext-link>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="other">0811.2183v2</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bulkeley</surname>
+                     <given-names>Harriet</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Castán Broto</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/j.1475-5661.2012.00535.x</pub-id>
+               <pub-id pub-id-type="other">0811.2183v2</pub-id>
+               <isbn>9783642121425</isbn>
+               <issn>00202754</issn>
+               <source>Transactions of the Institute of British Geographers</source>
+               <issue>3</issue>
+               <fpage>361</fpage>
+               <lpage>375</lpage>
+               <pub-id pub-id-type="pmid">23347591</pub-id>
+               <article-title>Government by experiment? Global cities and the governing of climate change</article-title>
+               <volume>38</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Feldman</surname>
+                     <given-names>David L.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.futures.2012.07.007</pub-id>
+               <isbn>0016-3287</isbn>
+               <issn>00163287</issn>
+               <source>Futures</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Climate change</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Environmental networks</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Innovation</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">green house gas emissions</uri>.
+        </comment>
+               <issue>9</issue>
+               <fpage>787</fpage>
+               <lpage>796</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>The future of environmental networks—Governance and civil society in a global context</article-title>
+               <volume>44</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Abingdon, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sauer</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elsen</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Garzillo</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <source>Cities in Transition: Social innovation for Europe's urban sustainability</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Sauer</surname>
+                     <given-names>T and Elsen, S and Garzillo, C</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+               <chapter-title>Cities as places of a new, shared prosperity</chapter-title>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fenton</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.marpol.2015.12.012</pub-id>
+               <issn>0308597X</issn>
+               <source>Marine Policy</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Cities</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Climate change</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Governance</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Ports</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Shipping</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Transnational municipal networks</uri>.
+        </comment>
+               <publisher-name>Elsevier</publisher-name>
+               <article-title>The role of port cities and transnational municipal networks in efforts to reduce greenhouse gas emissions on land and at sea from shipping—An assessment of the World Ports Climate Initiative</article-title>
+               <year>2015 (\textitin press)</year>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bouteligier</surname>
+                     <given-names>Sofie</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/13511610.2013.771890</pub-id>
+               <issn>1351-1610</issn>
+               <source>Innovation: The European Journal of Social Science Research</source>
+               <comment>Available from:
+            <uri xlink:type="simple">North-South divide</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">power in networks</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">transnational municipal networks</uri>.
+        </comment>
+               <issue>3</issue>
+               <fpage>251</fpage>
+               <lpage>267</lpage>
+               <article-title>Inequality in new global governance arrangements: the North–South divide in transnational municipal networks</article-title>
+               <volume>26</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pablo-Romero, Mar\'ia del P</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sánchez-Braza, Antonio</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Manuel González-Lim\'on</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/ropr.12135</pub-id>
+               <issn>1541132X</issn>
+               <source>Review of Policy Research</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Binary choice model</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Cities</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Climate change</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Covenant of Mayors</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">EU</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">European Union</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Intergovernmental</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Local government decision</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Spain</uri>.
+        </comment>
+               <issue>5</issue>
+               <fpage>576</fpage>
+               <lpage>599</lpage>
+               <article-title>Covenant of Mayors: Reasons for Being an Environmentally and Energy Friendly Municipality</article-title>
+               <volume>32</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fünfgeld</surname>
+                     <given-names>Hartmut</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2014.10.011</pub-id>
+               <isbn>18773435</isbn>
+               <issn>18773435</issn>
+               <source>Current Opinion in Environmental Sustainability</source>
+               <fpage>67</fpage>
+               <lpage>73</lpage>
+               <article-title>Facilitating local climate change adaptation through transnational municipal networks</article-title>
+               <volume>12</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Niederhafner</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1007/s10308-013-0365-3</pub-id>
+               <issn>16102932</issn>
+               <source>Asia Europe Journal</source>
+               <issue>4</issue>
+               <fpage>377</fpage>
+               <lpage>396</lpage>
+               <article-title>Comparing functions of transnational city networks in Europe and Asia</article-title>
+               <volume>11</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kern</surname>
+                     <given-names>Kristine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bulkeley</surname>
+                     <given-names>Harriet</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/j.1468-5965.2009.00806.x</pub-id>
+               <issn>00219886</issn>
+               <source>JCMS: Journal of Common Market Studies</source>
+               <issue>2</issue>
+               <fpage>309</fpage>
+               <lpage>332</lpage>
+               <article-title>Cities, Europeanization and Multi-level Governance: Governing Climate Change through Transnational Municipal Networks</article-title>
+               <volume>47</volume>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Keiner</surname>
+                     <given-names>Marco</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kim</surname>
+                     <given-names>Arley</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/09654310701550843</pub-id>
+               <isbn>0965431070155</isbn>
+               <issn>0965-4313</issn>
+               <source>European Planning Studies</source>
+               <issue>10</issue>
+               <fpage>1369</fpage>
+               <lpage>1395</lpage>
+               <article-title>Transnational City Networks for Sustainability</article-title>
+               <volume>15</volume>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Minneapolis, MN, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McCann</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ward</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>University of Minnesota Press</publisher-name>
+               <article-title>Mobile Urbanism: cities and policymaking in the global age</article-title>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McCann</surname>
+                     <given-names>Eugene</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/02723638.2013.778627</pub-id>
+               <issn>0272-3638</issn>
+               <source>Urban Geography</source>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>29</lpage>
+               <article-title>Policy Boosterism, Policy Mobilities, and the Extrospective City</article-title>
+               <volume>34</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Temenos</surname>
+                     <given-names>Cristina</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/1468-2427.12252</pub-id>
+               <issn>14682427</issn>
+               <source>International Journal of Urban and Regional Research</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Critical policy studies</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Policy mobilities</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Urban governance</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Urban policy</uri>.
+        </comment>
+               <issue>4</issue>
+               <fpage>824</fpage>
+               <lpage>827</lpage>
+               <article-title>Urban Policy Mobilities Research: Introduction to a Debate</article-title>
+               <volume>39</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bulkeley</surname>
+                     <given-names>HARRIET</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Davies</surname>
+                     <given-names>ANNA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Evans</surname>
+                     <given-names>BOB</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gibbs</surname>
+                     <given-names>DAVID</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kern</surname>
+                     <given-names>KRISTINE</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Theobald</surname>
+                     <given-names>KATE</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/1523908032000154179</pub-id>
+               <issn>1523-908X</issn>
+               <source>Journal of Environmental Policy &amp; Planning</source>
+               <issue>3</issue>
+               <fpage>235</fpage>
+               <lpage>254</lpage>
+               <article-title>Environmental Governance and Transnational Municipal Networks in Europe</article-title>
+               <volume>5</volume>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Abingdon, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Garzillo</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kuhn</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <source>Cities in Transition: social innovation for Europe's urban sustainability</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Sauer</surname>
+                     <given-names>T and Elsen, S and Garzillo, C</given-names>
+                  </name>
+               </person-group>
+               <fpage>204</fpage>
+               <lpage>220</lpage>
+               <publisher-name>Routledge</publisher-name>
+               <chapter-title>Governing the multilevel transition</chapter-title>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hakelberg</surname>
+                     <given-names>Lukas</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1162/GLEP</pub-id>
+               <source>Global Environmental Politics</source>
+               <issue>1</issue>
+               <fpage>107</fpage>
+               <lpage>129</lpage>
+               <article-title>Governance by Diffusion : Transnational Municipal Networks and the Spread of Local Climate Strategies in Europe</article-title>
+               <volume>14</volume>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Román</surname>
+                     <given-names>Mikael</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1108/14720701011021120</pub-id>
+               <isbn>1472070101106</isbn>
+               <issn>1472-0701</issn>
+               <source>Corporate Governance: The international journal of business in society</source>
+               <issue>1</issue>
+               <fpage>73</fpage>
+               <lpage>84</lpage>
+               <article-title>Governing from the middle: The C40 Cities Leadership Group</article-title>
+               <volume>10</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Giest</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Howlett</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1002/eet.1628</pub-id>
+               <issn>1756932X</issn>
+               <source>Environmental Policy and Governance</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Climate change</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Environmental governance</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Network management</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Transnational municipal networks</uri>.
+        </comment>
+               <issue>November</issue>
+               <fpage>341</fpage>
+               <lpage>353</lpage>
+               <article-title>Comparative climate change governance: Lessons from european transnational municipal network management efforts</article-title>
+               <volume>23</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dolowitz</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keeley</surname>
+                     <given-names>Melissa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Medearis</surname>
+                     <given-names>Dale</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/01442872.2012.722289</pub-id>
+               <isbn>0144-2872</isbn>
+               <issn>0144-2872</issn>
+               <source>Policy Studies</source>
+               <issue>6</issue>
+               <fpage>501</fpage>
+               <lpage>521</lpage>
+               <article-title>Stormwater management: can we learn from others?</article-title>
+               <volume>33</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Campbell</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.habitatint.2008.10.012</pub-id>
+               <issn>01973975</issn>
+               <source>Habitat International</source>
+               <issue>2</issue>
+               <fpage>195</fpage>
+               <lpage>201</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>Learning cities: Knowledge, capacity and competitiveness</article-title>
+               <volume>33</volume>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McFarlane</surname>
+                     <given-names>Colin</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/j.1468-2427.2010.00917.x</pub-id>
+               <issn>03091317</issn>
+               <source>International Journal of Urban and Regional Research</source>
+               <month>dec</month>
+               <issue>4</issue>
+               <fpage>725</fpage>
+               <lpage>742</lpage>
+               <article-title>The Comparative City: Knowledge, Learning, Urbanism</article-title>
+               <volume>34</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>Jennifer</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/j.1468-2427.2010.00982.x</pub-id>
+               <isbn>1468-2427</isbn>
+               <issn>03091317</issn>
+               <source>International Journal of Urban and Regional Research</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Comparative</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Methods</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Post-colonial</uri>.
+        </comment>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>23</lpage>
+               <article-title>Cities in a World of Cities: The Comparative Gesture</article-title>
+               <volume>35</volume>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ward</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0309132509350239</pub-id>
+               <isbn>0309132509</isbn>
+               <issn>0309-1325</issn>
+               <source>Progress in Human Geography</source>
+               <issue>4</issue>
+               <fpage>471</fpage>
+               <lpage>487</lpage>
+               <article-title>Towards a relational comparative approach to the study of cities</article-title>
+               <volume>34</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jordan</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huitema</surname>
+                     <given-names>Dave</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2014.09.005</pub-id>
+               <issn>09593780</issn>
+               <source>Global Environmental Change</source>
+               <fpage>387</fpage>
+               <lpage>394</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>Policy innovation in a changing climate: Sources, patterns and effects</article-title>
+               <volume>29</volume>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Local Sustainability 2012: Showcasing progress</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://local2012.iclei.org/fileadmin/files/LS2012_CASE_STUDIES_www.pdf"
+                         xlink:type="simple">http://local2012.iclei.org/fileadmin/files/LS2012_CASE_STUDIES_www.pdf</ext-link>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Berlin, Germany</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jänicke</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weidner</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <source>Successful Environmental Policy: A Critical Evaluation of 24 Cases</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Jänicke</surname>
+                     <given-names>Martin and Weidner, Helmut</given-names>
+                  </name>
+               </person-group>
+               <fpage>10</fpage>
+               <lpage>26</lpage>
+               <publisher-name>Sigma</publisher-name>
+               <chapter-title>Successful Environmental Policy: An Introduction</chapter-title>
+               <year>1995</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mccann</surname>
+                     <given-names>Eugene</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ward</surname>
+                     <given-names>Kevin</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/1468-2427.12254</pub-id>
+               <issn>14682427</issn>
+               <source>International Journal of Urban and Regional Research</source>
+               <issue>4</issue>
+               <fpage>828</fpage>
+               <lpage>830</lpage>
+               <article-title>Thinking Through Dualisms in Urban Policy Mobilities</article-title>
+               <volume>39</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Busch</surname>
+                     <given-names>Henner</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/19463138.2015.1057144</pub-id>
+               <issn>1946-3138</issn>
+               <source>International Journal of Urban Sustainable Development</source>
+               <issue>2</issue>
+               <fpage>213</fpage>
+               <lpage>231</lpage>
+               <article-title>Linked for action? An analysis of transnational municipal climate networks in Germany</article-title>
+               <volume>7</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andersson</surname>
+                     <given-names>Ida</given-names>
+                  </name>
+               </person-group>
+               <isbn>9789176491447</isbn>
+               <month>May</month>
+               <publisher-name>Stockholm University</publisher-name>
+               <source>Geographies of Place Branding—Researching through small and medium sized cities</source>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Busch</surname>
+                     <given-names>Henner</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anderberg</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.5539/jms.v5n4p1</pub-id>
+               <issn>1925-4733</issn>
+               <source>Journal of Management and Sustainability</source>
+               <issue>4</issue>
+               <fpage>1</fpage>
+               <article-title>Green Attraction—Transnational Municipal Climate Networks and Green City Branding</article-title>
+               <volume>5</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mori</surname>
+                     <given-names>Koichiro</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christodoulou</surname>
+                     <given-names>Aris</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.eiar.2011.06.001</pub-id>
+               <isbn>0195-9255</isbn>
+               <issn>01959255</issn>
+               <source>Environmental Impact Assessment Review</source>
+               <comment>Available from:
+            <uri xlink:type="simple">City/urban sustainability</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Index/indicator</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Leakage effect</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Relative/absolute evaluation</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Triple bottom line</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Weak/strong sustainability</uri>.
+        </comment>
+               <issue>1</issue>
+               <fpage>94</fpage>
+               <lpage>106</lpage>
+               <publisher-name>Elsevier Inc.</publisher-name>
+               <article-title>Review of sustainability indices and indicators: Towards a new City Sustainability Index (CSI)</article-title>
+               <volume>32</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fitzgerald</surname>
+                     <given-names>Brian G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Doherty, Travis</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moles</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Regan, Bernadette</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.ecolind.2011.12.002</pub-id>
+               <issn>1470160X</issn>
+               <source>Ecological Indicators</source>
+               <comment>Available from:
+            <uri xlink:type="simple">sustainability measurement</uri>.
+        </comment>
+               <fpage>371</fpage>
+               <lpage>378</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>A quantitative method for the evaluation of policies to enhance urban sustainability</article-title>
+               <volume>18</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andonova</surname>
+                     <given-names>Liliana B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Betsill</surname>
+                     <given-names>Michele M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bulkeley</surname>
+                     <given-names>Harriet</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1162/glep.2009.9.2.52</pub-id>
+               <issn>1526-3800</issn>
+               <source>Global Environmental Politics</source>
+               <issue>2</issue>
+               <fpage>52</fpage>
+               <lpage>73</lpage>
+               <article-title>Transnational Climate Governance</article-title>
+               <volume>9</volume>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Abingdon, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bouteligier</surname>
+                     <given-names>Sofie</given-names>
+                  </name>
+               </person-group>
+               <isbn>978-0-415-53751-3</isbn>
+               <fpage>240</fpage>
+               <publisher-name>Routledge</publisher-name>
+               <article-title>Cities, Networks, and Global Environmental Governance: Spaces of Innovation, Places of Leadership</article-title>
+               <volume>1</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Maidenhead, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hodson</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marvin</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Open University Press</publisher-name>
+               <article-title>World cities and climate change: Producing urban ecological security</article-title>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ceron Castano</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/02697459.2012.715818</pub-id>
+               <issn>0269-7459</issn>
+               <source>Planning Practice and Research</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Monitoring</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Policy Evaluation</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Urban Form</uri>.
+        </comment>
+               <issue>5</issue>
+               <fpage>495</fpage>
+               <lpage>511</lpage>
+               <article-title>Conceptualization and System Design in the Monitoring of Urban Form</article-title>
+               <volume>27</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Riley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1068/c10158</pub-id>
+               <isbn>0263-774X$\backslash$r1472-3425</isbn>
+               <issn>0263774X</issn>
+               <source>Environment and Planning C: Government and Policy</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Evaluation</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Governance implementation</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Guidelines</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Principles</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Sustainable governance</uri>.
+        </comment>
+               <issue>3</issue>
+               <fpage>429</fpage>
+               <lpage>447</lpage>
+               <article-title>Achievements and opportunities in initiating governance for urban sustainability</article-title>
+               <volume>30</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schlee</surname>
+                     <given-names>M\^onica Bahia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tamminga</surname>
+                     <given-names>Kenneth R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tangari</surname>
+                     <given-names>Vera Regina</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.3390/su4092054</pub-id>
+               <isbn>10.3390/su4092054</isbn>
+               <issn>2071-1050</issn>
+               <source>Sustainability</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Edge effect</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Landscape dynamics</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Landscape morphology</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Regenerative riparian urbanism</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Resilience</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Social-ecological systems</uri>.
+        </comment>
+               <issue>12</issue>
+               <fpage>2054</fpage>
+               <lpage>2098</lpage>
+               <article-title>A Method for Gauging Landscape Change as a Prelude to Urban Watershed Regeneration: The Case of the Carioca River, Rio de Janeiro</article-title>
+               <volume>4</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Isendahl</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Michael E.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.cities.2012.07.012</pub-id>
+               <issn>02642751</issn>
+               <source>Cities</source>
+               <fpage>132</fpage>
+               <lpage>143</lpage>
+               <article-title>Sustainable agrarian urbanism: The low-density cities of the Mayas and Aztecs</article-title>
+               <volume>31</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raco</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lin</surname>
+                     <given-names>Wen I.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1068/c1199</pub-id>
+               <issn>0263774X</issn>
+               <source>Environment and Planning C: Government and Policy</source>
+               <comment>Available from:
+            <uri xlink:type="simple">Conflict</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Consensus</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Postpolitics</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Sustainability</uri>.
+        </comment>
+               <comment>Available from:
+            <uri xlink:type="simple">Taiwan</uri>.
+        </comment>
+               <issue>2</issue>
+               <fpage>191</fpage>
+               <lpage>208</lpage>
+               <article-title>Urban sustainability, conflict management, and the geographies of postpoliticism: A case study of Taipei</article-title>
+               <volume>30</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>London, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+               <article-title>Ordinary cities: between modernity and development</article-title>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smit</surname>
+                     <given-names>Warren</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Parnell</surname>
+                     <given-names>Susan</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2012.07.004</pub-id>
+               <isbn>1877-3435</isbn>
+               <issn>18773435</issn>
+               <source>Current Opinion in Environmental Sustainability</source>
+               <issue>4</issue>
+               <fpage>443</fpage>
+               <lpage>450</lpage>
+               <publisher-name>Elsevier B.V.</publisher-name>
+               <article-title>Urban sustainability and human health: An African perspective</article-title>
+               <volume>4</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pierre</surname>
+                     <given-names>Jon</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/1078087404273442</pub-id>
+               <isbn>1078-0874</isbn>
+               <issn>1078-0874</issn>
+               <source>Urban Affairs Review</source>
+               <issue>4</issue>
+               <fpage>446</fpage>
+               <lpage>462</lpage>
+               <pub-id pub-id-type="pmid">11872814</pub-id>
+               <article-title>Comparative Urban Governance: Uncovering Complex Causalities</article-title>
+               <volume>40</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seto</surname>
+                     <given-names>K. C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reenberg</surname>
+                     <given-names>a.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boone</surname>
+                     <given-names>C. G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fragkias</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haase</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Langanke</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marcotullio</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Munroe</surname>
+                     <given-names>D. K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olah</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Simon</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1073/pnas.1117622109</pub-id>
+               <issn>0027-8424</issn>
+               <source>Proceedings of the National Academy of Sciences</source>
+               <issue>20</issue>
+               <fpage>7687</fpage>
+               <lpage>7692</lpage>
+               <article-title>Urban land teleconnections and sustainability</article-title>
+               <volume>109</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cook</surname>
+                     <given-names>I. R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Swyngedouw</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0042098012444887</pub-id>
+               <isbn>0042-0980</isbn>
+               <issn>0042-0980</issn>
+               <source>Urban Studies</source>
+               <issue>9</issue>
+               <fpage>1959</fpage>
+               <lpage>1979</lpage>
+               <article-title>Cities, Social Cohesion and the Environment: Towards a Future Research Agenda</article-title>
+               <volume>49</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aguilar</surname>
+                     <given-names>Adrian Guillermo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Santos</surname>
+                     <given-names>Clemencia</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.landusepol.2010.11.002</pub-id>
+               <isbn>0264-8377</isbn>
+               <issn>02648377</issn>
+               <source>Land Use Policy</source>
+               <issue>4</issue>
+               <fpage>649</fpage>
+               <lpage>662</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>Informal settlements' needs and environmental conservation in Mexico City: An unsolved challenge for land-use policy</article-title>
+               <volume>28</volume>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Local sustainability 2012: Taking stock and moving forward</article-title>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Otto-Zimmermann, Konrad</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/13549839.2012.686564</pub-id>
+               <issn>1354-9839</issn>
+               <source>Local Environment</source>
+               <issue>5</issue>
+               <fpage>511</fpage>
+               <lpage>516</lpage>
+               <article-title>From Rio to Rio+20: The changing role of local governments in the context of current global governance</article-title>
+               <volume>17</volume>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>The ICLEI Story</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://archive.iclei.org/index.php?id=748"
+                         xlink:type="simple">http://archive.iclei.org/index.php?id=748</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>ICLEI around the World</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.iclei.org/iclei-global/iclei-around-the-world.html"
+                         xlink:type="simple">http://www.iclei.org/iclei-global/iclei-around-the-world.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Our Global and Thematic Centers</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.iclei.org/iclei-global/our-global-thematic-centers.html"
+                         xlink:type="simple">http://www.iclei.org/iclei-global/our-global-thematic-centers.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>ICLEI Timeline 1990-2012</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.iclei.org/fileadmin/user_upload/ICLEI_WS/Documents/ICLEI_Timeline.pdf"
+                         xlink:type="simple">http://www.iclei.org/fileadmin/user_upload/ICLEI_WS/Documents/ICLEI_Timeline.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Local Action for Biodiversity</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://archive.iclei.org/index.php?id=city-cases"
+                         xlink:type="simple">http://archive.iclei.org/index.php?id=city-cases</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>ICLEI Publications</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://archive.iclei.org/index.php?id=publications"
+                         xlink:type="simple">http://archive.iclei.org/index.php?id=publications</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Case Studies</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.iclei.org/activities/resources/publications/iclei-case-studies.html"
+                         xlink:type="simple">http://www.iclei.org/activities/resources/publications/iclei-case-studies.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Bonn, Germany</publisher-loc>
+               <publisher-name>ICLEI</publisher-name>
+               <article-title>Switch Training Desk</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.switchtraining.eu/case-studies/"
+                         xlink:type="simple">www.switchtraining.eu/case-studies/</ext-link>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Susan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eckerberg</surname>
+                     <given-names>Katarina</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/13549830701412455</pub-id>
+               <isbn>13549839</isbn>
+               <issn>1354-9839</issn>
+               <source>Local Environment</source>
+               <issue>781058477</issue>
+               <fpage>325</fpage>
+               <lpage>342</lpage>
+               <article-title>Governance for Sustainable Development in Sweden: The Experience of the Local Investment Programme</article-title>
+               <volume>12</volume>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wollmann</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <article-title>Comparing local government reforms in England, Sweden, France and Germany</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">www.wuestenrot-stiftung.de/download/local-government</uri>.
+        </comment>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mol</surname>
+                     <given-names>Arthur P.J.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2011.03.015</pub-id>
+               <issn>09593780</issn>
+               <source>Global Environmental Change</source>
+               <issue>3</issue>
+               <fpage>785</fpage>
+               <lpage>794</lpage>
+               <publisher-name>Elsevier Ltd</publisher-name>
+               <article-title>China's ascent and Africa's environment</article-title>
+               <volume>21</volume>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
