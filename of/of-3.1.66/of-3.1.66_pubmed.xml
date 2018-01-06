@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2017.03010066</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>The Use of Copper Pesticides in Germany and the Search for Minimization and Replacement Strategies</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kuehne</surname>
+                  <given-names>Stefan</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Roßberg</surname>
+                  <given-names>Dietmar</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Röhrig</surname>
+                  <given-names>Peter</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>von Mehring</surname>
+                  <given-names>Friedhelm</given-names>
+               </name>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Weihrauch</surname>
+                  <given-names>Florian</given-names>
+               </name>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kanthak</surname>
+                  <given-names>Sonja</given-names>
+               </name>
+               <xref ref-type="aff" rid="A5">4</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kienzle</surname>
+                  <given-names>Jutta</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Patzwahl</surname>
+                  <given-names>Wolfgang</given-names>
+               </name>
+               <xref ref-type="aff" rid="A7">6</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Reiners</surname>
+                  <given-names>Eckhardt</given-names>
+               </name>
+               <xref ref-type="aff" rid="A8">7</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Gitzel</surname>
+                  <given-names>Julia</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Julius Kühn-Institut (JKI), Federal Research Centre for Cultivated Plants, Kleinmachnow, Germany</aff>
+         <aff id="A3">
+            <label>2</label>Bund̈ Ökologische Lebensmittelwirtschaft e.V. (BÖLW), Berlin, Germany</aff>
+         <aff id="A4">
+            <label>3</label>Bayerische Landesanstalt für Landwirtschaft (LfL), Institut für Pflanzenbau und Pflanzenzüchtung (IPZ), Hopfenforschungszentrum , Wolnzach, Germany</aff>
+         <aff id="A5">
+            <label>4</label>Bundesverband Ökologischer Weinbau, ECOVIN, Oppenheim, Germany</aff>
+         <aff id="A6">
+            <label>5</label>Fördergemeinschaft Ökologischer Obstbau e.V. (FÖKO), Weinsberg, Germany</aff>
+         <aff id="A7">
+            <label>6</label>Naturland Fachberatung Wein- und Obstbau, Sulzfeld am Main, Germany</aff>
+         <aff id="A8">
+            <label>7</label>Bioland Bundesverband, Mainz, Germany</aff>
+         <pub-date pub-type="ppub">
+            <day>21</day>
+            <month>12</month>
+            <year>2017</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>66</fpage>
+         <lpage>75</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Copper pesticides used to control fungal and bacterial diseases such as grapes downy mildew (Plasmopara viticola), downy mildew of hops (Pseudoperonospora humili), apple scab (Venturia spp.), fireblight (Erwinia amylovora) and potato late blight (Phytophthora infestans), play an important role in plant protection. In a 2013 survey of copper application in Germany we found, that while the amounts of copper used per hectare in conventional grape (0.8 kg ha−1), hop (1.7 kg ha−1) and potato-farming (0.8 kg ha−1) were well below those used in organic farming (2.3, 2.6 and 1.4 kg ha−1, respectively), they were nearly identical to those used in apple growing (1.4 kg ha−1). Due to the smaller farming area, only 24% (26.5 tonnes) of the total amount of copper was applied in organic farming compared to 76% (84.8 tonnes) in conventional farming. Since 2001, the Federal Agency for Agriculture and Food (BLE) promoted a copper research and minimization strategy which was funded with a total of C10.2 million. Our status quo analysis of research in this field shows that some progress is being made concerning alternative compounds, resistant varieties and decision support systems. However, it also shows that new approaches are not yet able to replace copper pesticides completely, especially in organic farming. In integrated pest management, copper preparations are important for the necessary active substance rotation and successful resistance management. The availability of such products is often essential for organic grapes, hops and fruit production and for extending the organic farming of these crops. We conclude that the complete elimination of copper pesticides is not yet practicable in organic farming as the production of several organic crops would become unprofitable and may lead to organic farmers reverting to conventional production. Several existing copper reduction strategies were, however, identified, and some, like modified forecast models adapted to organic farming, varieties more resistant to fungal diseases and new alternative products, already contribute to copper minimization in German agriculture.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>application rate</kwd>
+            <kwd>copper</kwd>
+            <kwd>research program</kwd>
+            <kwd>sales volumes</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Copper pesticides have been used in Germany for almost 150 years, controlling plant diseases such as downy mildew of grapes (<italic>Plasmopara viticola</italic>) and hops (<italic>Pseudoperonospora humuli</italic>), apple scab (<italic>Venturia spp.</italic>), fire blight (<italic>Erwinia amylovora</italic>) and potato blight (<italic>Phytophthora infestans</italic>). This makes them some of the oldest plant protection products (PPPs) relevant today. Until well into the last century, application rates of 20 to 30 kilograms per hectare per year (kg ha<inline-formula>
+               <mml:math id="S3.p1.m1"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S3.p1.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>), and occasionally even 80 or more kg ha<inline-formula>
+               <mml:math id="S3.p1.m3"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S3.p1.m4"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>, of copper pesticides were used in conventional farming in Germany [<xref ref-type="bibr" rid="R01">1</xref>].</p>
+         <p>Soil persistence and the effects on soil organisms are discussed, nationally and internationally, as possible impacts from years of copper pesticide use. Strumpf et al. [<xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>] conducted extensive surveys on copper pollution of soils in organic and conventional grapes, hops and tree fruit-growing in Germany. They later performed a risk assessment of soil copper levels based on bioavailable copper instead of total copper, the previous standard [<xref ref-type="bibr" rid="R04">4</xref>]. Research has shown that less than 10% of the total copper in soil is easily mobilized [<xref ref-type="bibr" rid="R05">5</xref>], and that not only the total copper content, but also the texture [% sand content] and pH of the soil, are significant factors influencing copper mobilization.</p>
+         <p>The European Commission extended its approval for the use of copper compounds as fungicides/bactericides until January 31, 2018. However, this was done on the condition that appropriate measures are taken to reduce usage. In as early as 2009, Germany and some other EU Member States already passed resolutions to substantially reduce the maximum limits permitted for pure copper pesticides. Instead of the 6 kg ha<inline-formula>
+               <mml:math id="S3.p3.m1"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> year limit permitted by EU regulations, Germany has a limit of 3 kg ha<inline-formula>
+               <mml:math id="S3.p3.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S3.p3.m3"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> and 4 kg ha<inline-formula>
+               <mml:math id="S3.p3.m4"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> year in hops. Under the aegis of the German Federation of the Organic Food Industry (BÖLW), German organic farming and integrated pest management associations, in coordination with the competent authorities, developed a targeted copper minimization strategy that aims to reduce the annual net amount of copper used in crop protection per hectare and year, even further [<xref ref-type="bibr" rid="R06">6</xref>].</p>
+         <p>This article provides a review of the use of copper pesticides in crop protection in Germany since 2010 by crop and farming method (conventional or organic). Previous studies on the reduction of the use of copper as a pesticide in Germany are also examined. The tested strategies are analyzed in terms of their efficacy and success, and limitations of the previous copper reduction strategies are elucidated.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Materials and Methods</title>
+         <sec id="s2.1">
+            <title>2.1.- Status Quo Analysis of the Use of Copper Pesticides in German Agriculture and Horticulture</title>
+            <p>Article 64 of the German Plant Protection Act requires that manufacturers, distributors and importers of plant protection products report to the BVL (Federal Office of Consumer Protection and Food Safety) with their annual domestic sales of such products and the active substances contained in them by amount. The BVL kindly provided the statistics on the sales of copper pesticides in Germany from 2010 to 2014.</p>
+            <p>Julius Kühn Institute (JKI) has regularly conducted surveys on the use of chemical plant protection products in the main agricultural and horticultural crops in Germany since 2000. They have been continued as “PAPA surveys”, categorized under a different legislative framework since 2011 [<xref ref-type="bibr" rid="R07">7</xref>]. PAPA is an acronym for Panel Pesticide Applications. Networks of crop-specific survey farms that gather and report detailed annual data on pesticide use were established under the PAPA program. The selected crops (winter wheat, winter barley, winter rye, corn, potatoes, sugar beet, dessert apples, hops and grapes) are those considered most relevant for the National Action Plan on Sustainable Use of pesticides [<xref ref-type="bibr" rid="R08">8</xref>]. Data on the use of copper pesticides can also be gathered from these surveys. It should be noted that the PAPA surveys only collect data from conventional farms; German organic farming associations collect the corresponding data on organic farming. This is a component of the JKI’s copper pesticide reduction strategy paper with specific consideration of organic farming [<xref ref-type="bibr" rid="R06">6</xref>].</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Assessment of the Status Quo of Research on the Minimization and Replacement of Copper Pesticides in Germany</title>
+            <p>Since 2001, the Federal Program for Organic Farming and Other Forms of Sustainable Agriculture (BÖLN) has funded research projects aiming to contribute to the reduction of copper used in plant protection. The results and resource needs of these projects are summarized below. These measures were supported by the European CO-FREE Project (Innovative strategies for copper-free, low-input and organic farming systems, 2012-2016; funding budget: 3 million euros), in which eleven European partners collaborated to find alternatives to copper. The results of the CO-FREE project were not included in this analysis because the final reports were not yet available. The individual projects funded by BÖLN were examined prior to our literature search. Relevant projects were filter-searched on the Federal Program website (https://www.bundesprogramm.de/index.php?id=916, Accessed on 14 September 2016). A total of 67 projects involving research on copper reduction were identified using the keyword “copper” to search the list of “Research and Development Projects” under the heading “Crop”. A comparative analysis of these projects was then performed (e.g. aim of the projects, effective ingredients, efficacy, costs).</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <sec id="s3.1">
+            <title>3.1.- Status Quo of the Use of Copper Pesticides in German Agriculture and Horticulture</title>
+            <p>The estimated amounts [kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p1.m1"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>] of copper used in conventional farming in Germany in 2003 are shown in Table <xref ref-type="table" rid="Tab01">1</xref>. The amounts used for conventional farming of potatoes, hops and grapes were significantly lower than those used in organic farming. The copper application rates were less than 1 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p1.m2"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p1.m3"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in potato and grape-growing, and approximately 1.7 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p1.m4"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p1.m5"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in hop-growing. Conversely, the amounts of copper used for apple-growing were almost equal in organic farming (average of 1.41 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p1.m6"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p1.m7"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in 2010 to 2013) and conventional farming (1.4 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p1.m8"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p1.m9"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in 2013). However, comparison of the total amounts of copper used in both farming systems (Tables <xref ref-type="table" rid="Tab01">1</xref> and <xref ref-type="table" rid="Tab02">2</xref>) showed that, when adjusted for differences in the sizes of application areas, only 24% (26.5 metric ton, t) of the total amount of copper was used in organic farming compared to 76% (84.8 t) in conventional farming.</p>
+            <table-wrap id="Tab01" position="float" orientation="portrait">
+               <label>
+                Table 1
+            </label>
+               <caption>
+                  <title>Estimated amounts of copper used [pure copper in kg ha<inline-formula>
+                        <mml:math id="S5.SS1.p2.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in conventional farming in Germany in 2013 relative to the application area.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Apple</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Grapes</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Hops</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Total</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  
+                 
+                  <tbody>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Application area</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">2,500</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">25,500</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">36,800</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">10,400</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">75,200</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>[ha]</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Copper spray rate</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="" colspan="1">0.8</td>
+                        <td align="center" rowspan="2" style="" colspan="1">1.4</td>
+                        <td align="center" rowspan="2" style="" colspan="1">0.8</td>
+                        <td align="center" rowspan="2" style="" colspan="1">1.7</td>
+                        <td align="center" rowspan="2" style="" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>[kg ha<inline-formula>
+                                 <mml:math id="S5.SS1.p2.m2"
+                                           alttext="{}^{-1}"
+                                           display="inline"
+                                           overflow="scroll">
+                                    <mml:msup>
+                                       <mml:mi/>
+                                       <mml:mrow>
+                                          <mml:mo mathvariant="normal">-</mml:mo>
+                                          <mml:mn mathvariant="normal">1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:math>
+                              </inline-formula>]</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Pure copper total</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">2</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">35.7</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">29.4</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">17.7</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">
+                           <bold>84.8</bold>
+                        </td>
+                     </tr>
+                     
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>[t]</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+                  
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab02" position="float" orientation="portrait">
+               <label>
+                Table 2.
+            </label>
+               <caption>
+                  <title>Estimated amounts of copper used [pure copper in kg ha<inline-formula>
+                        <mml:math id="S5.SS1.p3.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic farming in Germany in 2013 relative to the application area.</title>
+               </caption>
+               <table>
+                  <thead>
+                  <tr>
+                     <td align="right" colspan="2" style="border:tt;" rowspan="1">
+                        <bold>Potatoes</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Apple</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Grapes</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Hops</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Vegetables</bold>
+                     </td>
+                     <td align="right" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Total</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Application</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">3,500</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">2,100</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">7,700</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">84</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">400</td>
+                        <td align="left" rowspan="2" style="border:t;" colspan="1">13,784</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>area [ha]</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Copper spray</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="" colspan="1">1.38</td>
+                        <td align="center" rowspan="2" style="" colspan="1">1.5</td>
+                        <td align="center" rowspan="2" style="" colspan="1">2.29</td>
+                        <td align="center" rowspan="2" style="" colspan="1">2.6</td>
+                        <td align="center" rowspan="2" style="" colspan="1">2</td>
+                        <td align="left" rowspan="2" style="" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>rate [kg ha<inline-formula>
+                                 <mml:math id="S5.SS1.p3.m2"
+                                           alttext="{}^{-1}"
+                                           display="inline"
+                                           overflow="scroll">
+                                    <mml:msup>
+                                       <mml:mi/>
+                                       <mml:mrow>
+                                          <mml:mo mathvariant="normal">-</mml:mo>
+                                          <mml:mn mathvariant="normal">1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:math>
+                              </inline-formula>]</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Pure copper</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">4.8</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">3.1</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">17.6</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">0.2</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">0.8</td>
+                        <td align="left" rowspan="2" style="border:bb;" colspan="1">
+                           <bold>26.5</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>total [t]</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Table <xref ref-type="table" rid="Tab03">3</xref> lists only those crops in which copper pesticides were used in integrated pest management. They were not used in any arable crops except potato. Table <xref ref-type="table" rid="Tab03">3</xref> clearly demonstrates how copper oxychloride (trade name: Funguran), which was initially the most prevalent active ingredient, was replaced by copper hydroxide (trade names: Cuprozin Liquid, Cuprozin Progress, Funguran Progress, and Kocide OPTI) over the analyzed time period. The applied quantities of copper oxychloride decreased from 163.7 t in 2011 to 1.8 t in 2014 (Table <xref ref-type="table" rid="Tab04">4</xref>). The reverse was observed for copper hydroxide. The application rate of this active substance increased approximately three-fold, from 45.6 t (2011) to 132.6 t (2014). Use of the other two copper- containing active ingredients (copper sulfate and copper octanoate) was marginal. Because basic copper sulfate (trade name: Cuproxat) is only allowed in grape- growing and does not play a significant role, at least in conventional agriculture, it was not included in the table. Copper octanoate (trade name: Cueva) is allowed in potatoes, apples, grapes and ornamental plants, but is only used in viticulture in conventional farming.</p>
+            <p>In organic farming, the application of copper-containing pesticides is based on forecast model predictions and not always on the total cultivated area (except in hop- growing). This comprises over 90% of the total organic farming area. Table <xref ref-type="table" rid="Tab05">5</xref> shows the amounts of copper used in organic viticulture in recent years. The differences in copper application rates between the different growing regions are sometimes substantial. This can be attributed to regional differences in climatic conditions and weather profiles between the different growing regions. A regional analysis was performed on part of the collected data (Figure <xref ref-type="fig" rid="Fig1">1</xref>). Comparison showed that the lowest amounts of copper are used in the Ahr grape-growing region [<xref ref-type="bibr" rid="R09">9</xref>].</p>
+            <table-wrap id="Tab03" position="float" orientation="portrait">
+               <label>
+                Table 3
+            </label>
+               <caption>
+                  <title>Average copper application rates [pure copper kg ha<inline-formula>
+                        <mml:math id="S5.SS1.p6.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic grape-growing in 2010 to 2013 based on the size of the treated vine area. Copper pesticides were only applied to approximately 90% of the total cultivated area.</title>
+               </caption>
+               <table>
+                  <thead>
+                     
+                  
+                  <tr>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Grapes</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2010</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2011</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2012</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2013</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tfoot>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>[kg ha<inline-formula>
+                              <mml:math id="S5.SS1.p6.m2"
+                                 alttext="{}^{-1}"
+                                 display="inline"
+                                 overflow="scroll">
+                                 <mml:msup>
+                                    <mml:mi/>
+                                    <mml:mrow>
+                                       <mml:mo mathvariant="normal">-</mml:mo>
+                                       <mml:mn mathvariant="normal">1</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                              </mml:math>
+                           </inline-formula>]</bold>
+                        </td>
+                     </tr>
+                  </tfoot>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Total area [ha]</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">5,200</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">6,900</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">7,400</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">7,800</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Analyzed area [ha]</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">1,894</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2,260</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2,408</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2,868</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Copper application rate</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="" colspan="1">2.23</td>
+                        <td align="center" rowspan="2" style="" colspan="1">1.98</td>
+                        <td align="center" rowspan="2" style="" colspan="1">2.34</td>
+                        <td align="center" rowspan="2" style="" colspan="1">2.29</td>
+                     </tr>
+                  </tbody>
+                  
+               </table>
+            </table-wrap>
+            <p>The highest amounts of copper were used in organic hop-growing due to the high amount of foliage per unit area. Application rates in hops exceeded 3 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p7.m1"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p7.m2"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in four out of six years (Table <xref ref-type="table" rid="Tab06">6</xref>). The small scale of organic cultivation of this crop (max.85 ha in 2015) should be noted.</p>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                  <title>Average copper application rates [pure copper kg ha<inline-formula>
+                        <mml:math id="S5.SS1.p8.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic viticulture by growing region in Germany from 2010 to 2013. </title>
+               </caption>
+               <graphic xlink:href="figure1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <table-wrap id="Tab04" position="float" orientation="portrait">
+               <label>
+                Table 4
+            </label>
+               <caption>
+                  <title>Size of the area treated with copper-containing active substances in conventional farming [% cultivated land] </title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Active</bold>
+                        </td>
+                        <td align="center" colspan="4" rowspan="2" style="border:tt;">
+                           <bold>Copper oxychloride</bold>
+                        </td>
+                        <td align="center" colspan="5" rowspan="2" style="border:tt;">
+                           <bold>Copper hydroxide</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Copper</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>substance</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>octanoate</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Year</bold>
+                        </td>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Apple</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Hops</td>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Potato</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Apple</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Hops</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2011</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">61.6</td>
+                        <td align="center" style="" rowspan="1" colspan="1">16.7</td>
+                        <td align="center" style="" rowspan="1" colspan="1">77.0</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">1.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">37.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">21.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.0</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2012</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">51.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">21.3</td>
+                        <td align="center" style="" rowspan="1" colspan="1">42.3</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">0.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">44.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">28.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">28.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2013</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">32.3</td>
+                        <td align="center" style="" rowspan="1" colspan="1">9.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">18.6</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">7.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">67.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">39.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">35.5</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>2014</bold>
+                        </td>
+                        <td style="border:bb;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">2.9</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.0</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.0</td>
+                        <td style="border:bb;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">2.6</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">90.8</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">48.1</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">68.2</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.2</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab05" position="float" orientation="portrait">
+               <label>
+                Table 5
+            </label>
+               <caption>
+                  <title>Estimated crop-specific amounts [t] of copper-containing active substances used in conventional farming from 2011 to 2014.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:tt;" colspan="1">
+                           <bold>Year</bold>
+                        </td>
+                        <td align="center" colspan="4" rowspan="2" style="border:tt;">
+                           <bold>Copper oxychloride</bold>
+                        </td>
+                        <td align="center" colspan="5" rowspan="2" style="border:tt;">
+                           <bold>Copper hydroxide</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Copper</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:tt;" colspan="1">
+                           <bold>Total</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>octanoate</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1"> <bold>Year</bold>
+                        </td>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Apple</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Hops</td>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Potato</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Apple</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Hops</td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">Wine</td>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2011</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">57.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">35.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">71.7</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">0.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">35.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">9.3</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">1.6</td>
+                        <td align="center" style="" rowspan="1" colspan="1">210.9</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2012</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">45.7</td>
+                        <td align="center" style="" rowspan="1" colspan="1">50.3</td>
+                        <td align="center" style="" rowspan="1" colspan="1">33.5</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">36.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">20.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">8.5</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">196.4</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2013</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">25.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">15.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">13.6</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">1.2</td>
+                        <td align="center" style="" rowspan="1" colspan="1">42.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">36.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">10.6</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">145.5</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>2014</bold>
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">1.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">n.s.</td>
+                        <td align="center" style="" rowspan="1" colspan="1">n.s.</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">2.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">52.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">48.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">28.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">134.5</td>
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="12" style="border:tt;" rowspan="1">n.s.: not specified</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab06" position="float" orientation="portrait">
+               <label>
+                Table 6
+            </label>
+               <caption>
+                  <title>Average copper application rates [pure copper kg ha<inline-formula>
+                        <mml:math id="S5.SS1.p11.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic hop-growing in 2010 to 2015. Copper pesticides were applied to 100% of the hops area.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Hops</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2010</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2011</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2012</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2013</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2014</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2015</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Total area</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">76</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">81</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">84</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">84</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">80</td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">85</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>[ha]</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>Copper application rate [kg ha<inline-formula>
+                                 <mml:math id="S5.SS1.p11.m2"
+                                           alttext="{}^{-1}"
+                                           display="inline"
+                                           overflow="scroll">
+                                    <mml:msup>
+                                       <mml:mi/>
+                                       <mml:mrow>
+                                          <mml:mo mathvariant="normal">-</mml:mo>
+                                          <mml:mn mathvariant="normal">1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:math>
+                              </inline-formula>]</bold>
+                        </td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">3.9</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">3.7</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">3.6</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">2.6</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">3.3</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">1.5</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>The copper application rates in organic fruit-growing on the other hand, were less than 2 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p12.m1"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p12.m2"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>. A general decrease in the amount of copper used in apples, peaches, pears and stone fruit occurred over the observation period (Table <xref ref-type="table" rid="Tab07">7</xref>).</p>
+            <p>Regarding potatoes, farms associated with Demeter Association do not use copper in potato and vegetable-growing and sometimes accept the risk of considerable yield losses, alternatively they switch to low-infestation regions to protect critical crops [<xref ref-type="bibr" rid="R10">10</xref>]. The copper application rates in organic potato-growing were below 2 kg ha<inline-formula>
+                  <mml:math id="S5.SS1.p13.m1"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> yr<inline-formula>
+                  <mml:math id="S5.SS1.p13.m2"
+                            alttext="{}^{-1}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mn>1</mml:mn>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> (Table <xref ref-type="table" rid="Tab08">8</xref>).</p>
+            <p>In organic vegetable-growing, a substantial percentage of farming area is managed in accordance with the minimum limits of the EU organic farming regulations alone, and the German farming associations have not yet recorded the copper application rates there. The average copper application rates reported in Table <xref ref-type="table" rid="Tab09">9</xref> are, therefore, based on reports from only two organic farming associations, Bioland and Naturland. Pumpkin was the sole crop in which copper products were used in all four years studied. In cucumber, fennel, leek and ornamentals, copper was used in only one out of 4 years.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Projects Funded with Public Funds (Federal Organic Farming Scheme and Other Forms of Sustainable Agriculture – BÖLN)</title>
+            <p>Since its establishment in 2001 to 2015, BÖLN has funded a total of 67 projects for research on copper replacement and minimization. The BÖLN Federal Organic Farming Scheme has awarded a total of 10.2 million euros in grants (Table <xref ref-type="table" rid="Tab10">10</xref>).</p>
+            <table-wrap id="Tab07" position="float" orientation="portrait">
+               <label>
+                Table 7.
+            </label>
+               <caption>
+                  <title>Average copper application rates [pure copper kg ha<inline-formula>
+                        <mml:math id="S5.SS2.p2.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic fruit-growing in 2010 to 2013.</title>
+               </caption>
+               <table>
+                  <thead>
+                     
+                  
+                  <tr>
+                     <td style="border:tt;" rowspan="1" colspan="1"/>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2010</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2011</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2012</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2013</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Total area [ha]</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">3400</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">3700</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">3900</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">3900</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Apple</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.59</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.3</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.31</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.47</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Pear</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.49</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.26</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.07</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Peach</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">2.21</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.7</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>Stone fruit</bold>
+                        </td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">1.28</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.94</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.99</td>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">0.83</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab08" position="float" orientation="portrait">
+               <label>
+                Table 8.
+            </label>
+               <caption>
+                  <title>Average copper application rates [kg ha<inline-formula>
+                        <mml:math id="S5.SS2.p3.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic potato-growing in 2010 to 2013 based on the size of the application area. Copper pesticides were applied to only about 40 to 50% of the cultivated area in organic farming. Demeter Association member farms are not permitted to use copper products.</title>
+               </caption>
+               <table>
+                  <thead>
+                     
+                  
+                  <tr>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Potatoes</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2010</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2011</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2012</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>2013</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Total area [ha]</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8200</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8300</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8000</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8100</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Copper application rate [kg ha<inline-formula>
+                                 <mml:math id="S5.SS2.p3.m2"
+                                           alttext="{}^{-1}"
+                                           display="inline"
+                                           overflow="scroll">
+                                    <mml:msup>
+                                       <mml:mi/>
+                                       <mml:mrow>
+                                          <mml:mo mathvariant="normal">-</mml:mo>
+                                          <mml:mn mathvariant="normal">1</mml:mn>
+                                       </mml:mrow>
+                                    </mml:msup>
+                                 </mml:math>
+                              </inline-formula>]</bold>
+                        </td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">1.36</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">1.60</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">1.87</td>
+                        <td align="center" rowspan="2" style="border:bb;" colspan="1">1.38</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                           <bold>on treated areas</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab09" position="float" orientation="portrait">
+               <label>
+                Table 9.
+            </label>
+               <caption>
+                  <title>Average copper application rates [pure copper kg ha<inline-formula>
+                        <mml:math id="S5.SS2.p4.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                                 <mml:mn mathsize="80%">1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>] in organic vegetable-growing in 2010 to 2013 based on the size of the application area. Copper products are used in only about 2 to 4% of the total cultivated area of the Bioland and Naturland farms.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Crop</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2010</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2011</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2012</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>2013</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tfoot>
+                     <tr>
+                        <td align="left" colspan="5" style="border:tt;" rowspan="1">* Outdoor vegetable crops produced on small scale</td>
+                     </tr>
+                  </tfoot>
+                  <tbody>
+                     
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Total area [ha]</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">10,590</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">10,890</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">10,470</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">10,470</td>
+                     </tr>
+                     
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Celery</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">2.32</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.85</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Pumpkin</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.80</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.36</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Cucumber</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.43</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Fennel</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.9</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Leek</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">3.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Asparagus</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">2.0</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.2</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.09</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Greenhouse crops</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.4</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.3</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Ornamental crops</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           <bold>Other vegetables*</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.8</td>
+                        <td align="center" style="" rowspan="1" colspan="1">1.1</td>
+                        <td align="center" style="" rowspan="1" colspan="1">-</td>
+                     </tr>
+                  </tbody>
+                  
+               </table>
+            </table-wrap>
+            <p>The number of projects supported varies by crop type, in some cases greatly. Most of the projects carried out involved crops that are highly dependent on the use of copper, e.g., fruit and grapes. Although relatively large amounts of copper pesticide are regularly used in hop-growing, only two projects funded so far involved this crop. Projects that were not unique to a given crop type or which contributed to the minimization of copper indirectly were included in the subcategory “Others”.</p>
+            <sec id="s3.2.1">
+               <title>3.2.1.- Number of Alternative Products Tested and Their Effects in the Field</title>
+               <p>At least 278 alternative products were field-tested alone or combined (Figure <xref ref-type="fig" rid="Fig2">2</xref>). At least 56 and 182 of these were tested in the crops “grapes” and “fruit”, respectively. In other crops, a smaller number of projects and a larger number of variety and field tests were conducted.</p>
+               <p>At least 90 of the tested products showed a significant effect on the comparison variant in these trials. In some cases, however, data was from only one-year trials, thus requiring further investigation.</p>
+               <table-wrap id="Tab10" position="float" orientation="portrait">
+                  <label>
+                Table 10.
+            </label>
+                  <caption>
+                     <title>Amount of funding from the “Federal Organic Farming Scheme and other forms of sustainable agriculture” (BÖLN) for research on the minimization and replacement of copper pesticides in Germany (from 2001 to 2015) by crop type.</title>
+                  </caption>
+                  <table>
+                     <thead>
+                        
+                     
+                     <tr>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Project Status</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Grapes</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Fruit</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Vegetables</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Hops</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Others</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Total</bold>
+                        </td>
+                     </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td align="left" style="border:t;" rowspan="1" colspan="1">
+                              <bold>Finished</bold>
+                           </td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">11</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">12</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">10</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">8</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">6</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">48</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Ongoing</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">3</td>
+                           <td align="center" style="" rowspan="1" colspan="1">14</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">1</td>
+                           <td align="center" style="" rowspan="1" colspan="1">18</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Total</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">14</td>
+                           <td align="center" style="" rowspan="1" colspan="1">26</td>
+                           <td align="center" style="" rowspan="1" colspan="1">10</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">8</td>
+                           <td align="center" style="" rowspan="1" colspan="1">7</td>
+                           <td align="center" style="" rowspan="1" colspan="1">67</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                              <bold>Public funds in €1000</bold>
+                           </td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">2,394</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">2,937</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">1,923</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">255</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">1,593</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">1,122</td>
+                           <td align="center" style="border:bb;" rowspan="1" colspan="1">10,225</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <fig id="Fig2" position="float" orientation="portrait">
+                  <label>
+                Figure 2</label>
+                  <caption>
+                     <title>Number of copper alternative/replacement products field-tested under the BÖLN program and their effects in different crops. Symbols: ++ (significant effect), + (effective in the laboratory/greenhouse but not in the field), 0 (no effect). </title>
+                  </caption>
+                  <graphic xlink:href="figure2.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <p>In most cases, the copper alternatives were first tested in the laboratory and/or greenhouse (especially in fruit-growing) prior to field testing. They were only tested in the field if they showed good efficacy in the indoor setting. However, some substances were employed based on practical experience or data from literature. Consequently, some of the products demonstrated efficacy only under certain conditions, e.g., very good effects in the laboratory or good effects in the greenhouse but not in the field. A lack of rain resistance or UV resistance was frequently the presumed reason for these discrepancies. This was the case for 21 products.</p>
+               <p>At least 106 of the tested products showed no effect in the field. At least 61 of these alternative products had been tested in fruit-growing. No data could be collected on 85 products for various reasons; for example, in one case, a product was to be tested on fungal diseases, which did not develop during the observation period. In other cases, the trials have not yet been completed, so no conclusions regarding the efficacy of the products can be made.</p>
+            </sec>
+            <sec id="s3.2.2">
+               <title>3.2.2.- Copper products tested at reduced application rates</title>
+               <p>In addition to alternative substances, 139 copper compounds were tested under field conditions in reduced application rates, new formulations or combinations (Figure <xref ref-type="fig" rid="Fig3">3</xref>).</p>
+               <p>Potato was the crop on which most (n = 60) of these copper compounds were tested. Improved spray technology and forecasting models were developed in these projects. In total, 21 and 38 products, respectively, were tested in the crops “grapes” and “fruit”.</p>
+               <p>105 field trials showed significant effects of products tested at reduced copper application rates (Figure <xref ref-type="fig" rid="Fig3">3</xref>), including all products tested in hops, grapes and vegetable-growing. Only two products tested in fruit-growing showed no effect. Problems such as difficulty producing a homogeneous spray mixture or clogging of the spray nozzles also led to the failure of sprayed products.</p>
+            </sec>
+            <sec id="s3.2.3">
+               <title>3.2.3.- Other Project Funding</title>
+               <p>As well as finding alternative products to replace copper, other elements of plant protection were investigated, e.g., the development of more resistant crop varieties, better spraying techniques, and improved forecasting models (Table <xref ref-type="table" rid="Tab11">11</xref>).</p>
+               <p>Brief descriptions of the projects by crop are presented below.</p>
+               <p>
+                  <bold>Potato:</bold> Several projects were funded in potato-growing: Two dealt with development and implementation of the ECO SIMPHYT forecast model, which contributes directly to copper minimization because it can, among other things, give farmers precise spraying date recommendations. Another two projects dealt with the use of preventative measures to control late blight (<italic>P. infestans</italic>) so that less copper can be applied. Two more projects investigated new resistant varieties and one, an improved spraying technique (lower leaf spraying) which may contribute to reducing the copper application rate.</p>
+               <p>
+                  <bold>Grapes:</bold> In contrast to potato-growing, the breeding of resistant varieties was a main focus of research in viticulture (Table <xref ref-type="table" rid="Tab11">11</xref>). A total of five projects were funded. Two projects investigated the resistance of old grape varieties or the combination of different fungus-resistant grape varieties (PIWI), among other things. Three projects were performed for additional research into the biology of grapevine downy mildew (<italic>Plasmopara viticola</italic>). A reduced copper application rate of 2 kg ha<inline-formula>
+                     <mml:math id="S5.SS2.SSS3.p4.m1"
+                               alttext="{}^{-1}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mo>-</mml:mo>
+                              <mml:mn>1</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> yr<inline-formula>
+                     <mml:math id="S5.SS2.SSS3.p4.m2"
+                               alttext="{}^{-1}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mo>-</mml:mo>
+                              <mml:mn>1</mml:mn>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> is sufficient when Peronospora infestation levels are low. The efficacy of algae extracts and clays can be quite satisfactory under these conditions.</p>
+               <p>
+                  <bold>Fruit:</bold> Projects in fruit-growing involved research on fall foliage reduction [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>]. This is important because over winter, leaves with apple scab fall and re-infect trees in spring. As in viticulture, research into the biology of various pathogens (mainly apple scab) in fruit-growing was also funded [<xref ref-type="bibr" rid="R15">15</xref>]. All the results from these trials aim to feed into forecasting models and software for application intensity and risk assessment of copper pesticides used by farmers [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. Variety trials and two improved spraying technique trials were also conducted [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+               <p>
+                  <bold>Vegetables:</bold> Variety selection trials were performed and cultivation methods were tested in all six projects performed in vegetable-growing. Hot water treatment of seeds successfully reduced carrot leaf blight (<italic>Alternaria dauci</italic>) in one study [<xref ref-type="bibr" rid="R19">19</xref>]. Moreover, a promising licorice-based product (<italic>Glycyrrhiza glabra</italic>) was developed to control fungal diseases in cucumber, tomato and potatoes [<xref ref-type="bibr" rid="R20">20</xref>].</p>
+               <p>
+                  <bold>Hops:</bold> The research projects performed in hops tested the ability of alternatives to copper and sulfur-containing pesticides as well as copper combinations to reduce the copper application rate. Unfortunately, none of the investigated products satisfied the requirements.</p>
+               <p>Inability to satisfactorily control primary infection of hop downy mildew (<italic>Pseudoperonospora humuli</italic>) was the fundamental problem. Preventive application was only able to prevent secondary infection. The use of quassia to control the hop aphid achieved reasonable results [<xref ref-type="bibr" rid="R21">21</xref>].</p>
+               <table-wrap id="Tab11" position="float" orientation="portrait">
+                  <label>
+                Table 11.
+            </label>
+                  <caption>
+                     <title>Strategies for reducing copper application assessed within German research projects since 2001.</title>
+                  </caption>
+                  <table>
+                     <tbody>
+                        <tr>
+                           <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                              <bold>Strategies</bold>
+                           </td>
+                           <td align="center" colspan="7" style="border:tt;" rowspan="1">
+                              <bold>Number of Projects</bold>
+                           </td>
+                        </tr>
+                        <tr>
+                           <td style="border:t;" rowspan="1" colspan="1"/>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Grapes</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Hops</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Fruit</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Vegetables</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Potatoes</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Others</td>
+                           <td align="center" style="border:t;" rowspan="1" colspan="1">Total</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Alternative compounds</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">5</td>
+                           <td align="center" style="" rowspan="1" colspan="1">1</td>
+                           <td align="center" style="" rowspan="1" colspan="1">7 (+4*)</td>
+                           <td align="center" style="" rowspan="1" colspan="1">4</td>
+                           <td align="center" style="" rowspan="1" colspan="1">1</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">20 (+4)</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Varieties</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">5</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">1</td>
+                           <td align="center" style="" rowspan="1" colspan="1">6</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">14</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Decision support systems</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">4</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">6</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Pest biology</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">3</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">5</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Application technique</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">1</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">3</td>
+                        </tr>
+                        <tr>
+                           <td align="left" style="" rowspan="1" colspan="1">
+                              <bold>Others: Communication, prevention (e.g., fall foliage)</bold>
+                           </td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">5</td>
+                           <td align="center" style="" rowspan="1" colspan="1">-</td>
+                           <td align="center" style="" rowspan="1" colspan="1">2</td>
+                           <td align="center" style="" rowspan="1" colspan="1">3</td>
+                           <td align="center" style="" rowspan="1" colspan="1">10</td>
+                        </tr>
+                        <tr>
+                           <td align="left" colspan="8" style="border:tt;" rowspan="1">* Ended in 12/2016</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <fig id="Fig3" position="float" orientation="portrait">
+                  <label>
+                Figure 3</label>
+                  <caption>
+                     <title>Number of copper products field-tested under the BÖLN program and their effects in different crops. Symbols: ++ (significant effect), + (effective in the laboratory/greenhouse but not in the field), 0 (no effect). </title>
+                  </caption>
+                  <graphic xlink:href="figure3.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <sec id="s4.1">
+            <title>4.1.- Use of Copper Pesticides in Integrated Pest Management</title>
+            <p>The use of copper-containing pesticides in German grapes and hop growing is focused on the last application of the year (in August) in order to control downy mildew of grapes and hops. This application, therefore, has an important key function in terms of the necessary active ingredient rotation and successful resistance management. It should be noted that the copper application rates used for the final treatment in integrated viticulture are substantially higher than those normally used in organic viticulture. To date, no cases of resistance to copper-containing pesticides have been reported- since the first use of copper-containing substances in plant protection about 150 years ago. This underscores the importance of copper pesticides for crop protection as, until now, no other plant protection product has shown such a long duration of effect. In fruit-growing, copper pesticides are mainly used in the winter months (December to March) to control apple canker (<italic>Nectria galligena</italic>), and in March to control bark scab. The current use of copper-containing pesticides in conventional potato-growing is negligible.
+</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Use of Copper Pesticides in Organic Farming</title>
+         <p>The collaboration between organic farms, researchers and medium-sized pesticide companies to promote copper reduction in recent years has led to further reduction of the amounts of copper used in various crops. Key factors that have contributed to successful copper reduction include the development of forecasting models that accurately determine the need for and timing of pesticide application [<xref ref-type="bibr" rid="R22">22</xref>], the implementation of agronomic and technical measures [<xref ref-type="bibr" rid="R11">11</xref>] and the selection of less susceptible varieties [<xref ref-type="bibr" rid="R23">23</xref>]. The use of alternative natural pesticides and plant strengtheners [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R24">24</xref>] must be incorporated in an overall strategy. Then, less effective products may also be useful components of copper minimization under certain conditions (e.g., weather, timing of application). Despite these advances, it is still neither possible nor advisable to completely refrain from using copper pesticides in organic farming.</p>
+         <p>Organic viticulture and hop-growing are particularly dependent on the availability of copper pesticides. After failure to get potassium phosphonate included in Annex II of Regulation 889/2008, no effective alternative products for these crops appear to be on the horizon any time soon. Furthermore,the willingness of conventional grape growers to change to organic farming depends largely on the availability of options for effective control of downy mildew of grapes (<italic>Plasmopara viticola</italic>) and grape black rot (<italic>Guignardia bidwellii</italic>).</p>
+         <p>In organic hops production, the application rates of copper pesticides used to reduce hop downy mildew (<italic>Pseudoperonospora humuli</italic>) can even be reduced to less than 3 kg ha<inline-formula>
+               <mml:math id="S7.p3.m1"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S7.p3.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> (pure copper) during years of low disease pressure. However, rates of up to 4 kg ha<inline-formula>
+               <mml:math id="S7.p3.m3"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S7.p3.m4"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> may still be needed in years with high disease pressure, meaning that a high flexibility of copper application is necessary in this crop [<xref ref-type="bibr" rid="R25">25</xref>]. If copper-containing pesticides were banned, it is feared that organic hop farms would go out of business because equivalent alternatives are still lacking [<xref ref-type="bibr" rid="R25">25</xref>].</p>
+         <p>Regarding the control of apple scab (<italic>Venturia inaequalis</italic>) in organic orchards, improvements have already been developed and tested in the context of copper minimization strategy in the following areas: cultivation methods [<xref ref-type="bibr" rid="R12">12</xref>], fall foliage management [<xref ref-type="bibr" rid="R13">13</xref>], the use of resistant varieties [<xref ref-type="bibr" rid="R15">15</xref>], and the possible use of alternative products [<xref ref-type="bibr" rid="R14">14</xref>]. The search for new products for organic fruit production is focused on modular strategies designed to ensure that copper use is reduced while achieving the same or even better plant health [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>Potato late blight (<italic>Phytophthora infestans</italic>) can cause severe economic losses in organic potato production [<xref ref-type="bibr" rid="R25">25</xref>]. In times of high infestation pressure and adverse weather conditions, the reliability of effect of the alternative products tested so far is still too low for them to be equivalent substitutes for copper-containing pesticides [<xref ref-type="bibr" rid="R26">26</xref>]. Forecasting models for late blight were adjusted to the conditions of organic farming and to the comparatively lower nutrient levels in the soil. This led to a reduction of copper applications [<xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. Wilbois et al. [<xref ref-type="bibr" rid="R28">28</xref>] predict that the trend towards copper reduction will continue in the future, and that the level of copper application reached in about 10 to 15 years will correspond to the natural uptake of copper as a plant nutrient.</p>
+         <p>In vegetable-growing, copper pesticides are only relevant in a few crops and are usually applied at rates of less than 2 kg ha<inline-formula>
+               <mml:math id="S7.p6.m1"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> yr<inline-formula>
+               <mml:math id="S7.p6.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>. The control of downy mildew in lettuce and cucumber is a major focus. Resistant varieties [<xref ref-type="bibr" rid="R29">29</xref>] and new licorice preparations were successfully tested [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>]. Effective alternative pesticides for these applications can be expected in the future.</p>
+         <sec id="s5.1">
+            <title>5.1.- Research Funding to Promote Copper Reduction in Crop Protection</title>
+            <p>Research funding to promote copper reduction in German agriculture has focused on the following fields of study:</p>
+            <list>
+               <list-item>
+                  <p>Further development of forecast models</p>
+               </list-item>
+               <list-item>
+                  <p>Development of resistant varieties</p>
+               </list-item>
+               <list-item>
+                  <p>Improved spraying techniques</p>
+               </list-item>
+               <list-item>
+                  <p>Improved cultivation techniques</p>
+               </list-item>
+               <list-item>
+                  <p>Introduction of new copper products with low copper concentrations</p>
+               </list-item>
+               <list-item>
+                  <p>Development and introduction of copper-free alternatives</p>
+               </list-item>
+               <list-item>
+                  <p>Implementation and optimization of overall plant protection strategies</p>
+               </list-item>
+               <list-item>
+                  <p>Improvement of copper pesticide impact assessment</p>
+               </list-item>
+            </list>
+            <p>Our status quo analysis clearly showed that German research on copper reduction and replacement is based on close collaboration between research, practice, advisory services and industry, and needs to be continued and further developed.</p>
+            <p>At present, it is still not possible to completely refrain from using copper pesticides in organic farming. Emerging diseases, such as grape black rot (<italic>Guignardia bidwellii</italic>), can result in partial to complete yield loss [<xref ref-type="bibr" rid="R32">32</xref>]. The combination of copper- containing pesticides with sulfur-based products is currently the only effective way to combat grape black rot in organic viticulture [<xref ref-type="bibr" rid="R32">32</xref>]. It should be noted that research funding in Germany is accompanied by other measures that contribute to successful copper minimization. This includes the advancement of Strategy Paper on Copper Reduction in Plant Protection [<xref ref-type="bibr" rid="R06">6</xref>] and the annual conferences on the theme of “Copper as a Pesticide”, which are jointly organized by the German Federation of the Organic Food Industry (BÖLW) and the Julius Kühn Institute. These are important contributions to continuously documenting the progress made, and measures needed, to achieve copper reduction.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Acknowledgements</title>
+         <p>Many thanks to Hubert Ostbomke of the Federal Agency for Agriculture and Food (BLE) for providing the data and information about research projects. Thanks also to Hella Kehlenbeck from the JKI Institute for Strategies and Technology Assessment for research information.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Anwendung kupferhaltiger Pflanzenschutzmittel in Deutschland</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kühne</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strassemeyer</surname>
+                     <given-names>Jörn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rossberg</surname>
+                     <given-names>Dietmar</given-names>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>61</volume>
+               <issue>4</issue>
+               <fpage>126</fpage>
+               <lpage>130</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Erhebung von Kupfergesamtgehalten in ökologisch und konventionell bewirtschafteten Böden. Teil 1: Gesamtgehalte in Weinbergsböden deutscher Qualitätsanbaugebiete</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Strumpf</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steindl</surname>
+                     <given-names>Anna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strassemeyer</surname>
+                     <given-names>Jörn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Riepert</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>63</volume>
+               <issue>5</issue>
+               <fpage>131</fpage>
+               <lpage>143</lpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Erhebung von Kupfergesamtgehalten in ökologisch und konventionell bewirtschafteten Böden. Teil 2: Gesamtgehalte in Böden deutscher Hopfenanbaugebiete</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Strumpf</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Engelhard</surname>
+                     <given-names>Bernhard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weihrauch</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Riepert</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steindl</surname>
+                     <given-names>Anna</given-names>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>63</volume>
+               <issue>5</issue>
+               <fpage>144</fpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Kupferverfügbarkeiten in Sonderkulturen – Bewertung verschiedener Extraktionsverfahren zur Prognose des Kupferanreicherungsverhaltens in Regenwurmzönosen bei Weinbaustandortböden</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Strumpf</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Herwig</surname>
+                     <given-names>Nadine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stendel</surname>
+                     <given-names>Ursula</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strassemeyer</surname>
+                     <given-names>Jörn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Horney</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Felgentreu</surname>
+                     <given-names>Dieter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hommel</surname>
+                     <given-names>Bernd.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.5073/JfK.2015.11.01</pub-id>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>67</volume>
+               <issue>11</issue>
+               <fpage>360</fpage>
+               <lpage>367</lpage>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Entwicklung eines Entscheidungshilfemodells für die Auswahl von Flächen für das Monitoring</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Herwig</surname>
+                     <given-names>Nadine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strassemeyer</surname>
+                     <given-names>Jörn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vetter</surname>
+                     <given-names>Catrin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Horney</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hommel</surname>
+                     <given-names>Bernd</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Felgentreu</surname>
+                     <given-names>Dieter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strumpf</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <volume>67</volume>
+               <issue>11</issue>
+               <fpage>368</fpage>
+               <lpage>376</lpage>
+               <pub-id pub-id-type="doi">10.5073/JFK.2015.11.02</pub-id>
+               <source>Journal für Kulturpflanzen</source>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mering</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kienzle</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kanthak</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reiners</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Patzwahl</surname>
+                     <given-names>W</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weihrauch</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rückrich</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <article-title>Strategiepapier zu Kupfer als Pflanzenschutzmittel unter besonderer Berücksichtigung des \"Okologischen Landbaus – Aktueller Stand der Aktivitäten und weiterer Handlungsbedarf.</article-title>
+               <year>2016</year>
+               <fpage>1</fpage>
+               <lpage>60</lpage>
+                        
+               <comment>Available from:
+            <uri xlink:type="simple">http://kupfer.jki.bund.de/index.php?menuid=29</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Erhebungen zur Anwendung von Pflanzenschutzmitteln in der Praxis im Jahr 2011</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ro\ssberg, DIETMAR</surname>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>65</volume>
+               <issue>4</issue>
+               <fpage>141</fpage>
+               <lpage>151</lpage>
+               <pub-id pub-id-type="doi">10.5073/JFK.2013.04.02</pub-id>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>National Action Plan on Sustainable Use of Plant Protection Products</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.nap-pflanzenschutz.de/en</uri>.
+        </comment>
+               <year>2013</year>
+               <fpage>1</fpage>
+               <lpage>98</lpage>
+                        
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>2014/2015 Deutsche Wein Statistik</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abele</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>1</fpage>
+               <lpage>39</lpage>
+                        
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.deutscheweine.de/fileadmin/user_upload/Website/Service/Downloads/statistik_2014-2015.pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Richtlinien für die Zertifizierung „Demeter'' und „Biodynamisch''</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Demeter Erzeugung</surname>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>1</fpage>
+               <lpage>79</lpage>
+                        
+               <comment>Available from:
+            <uri xlink:type="simple">www.demeter.de/fachwelt/landwirte/richtlinien/gesamtausgabe</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Schorfbekämpfung in der Zeit nach dem Blattfall</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kollar</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pfeiffer</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <source>Obstbau</source>
+               <volume>30</volume>
+               <issue>10</issue>
+               <fpage>518</fpage>
+               <lpage>521</lpage>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Establishing a strategy to reduce the investment of copper for scap control in organic apple growing</article-title>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 06OE324</comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zimmer</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Benduhn</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mayr</surname>
+                     <given-names>U</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kunz</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rank</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/17980"
+                         xlink:type="simple">www.orgprints.org/17980</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kollar</surname>
+                     <given-names>Andreas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pfeiffer</surname>
+                     <given-names>Brabara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rüdiger</surname>
+                     <given-names>Franziska</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nietsch</surname>
+                     <given-names>Naomi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Erforschung und Entwicklung alternativer Mittelzubereitungen für die Apfelschorfbekämpfung im Falllaub</article-title>
+               <source>Fachgespräch ``Kupfer als Pflanzenschutzmittel'', Berlin-Dahlem, Germany: Berichte aus dem Julius Kühn-Institut 164</source>
+               <year>2012</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kühne</surname>
+                     <given-names>Stefan and Friedrich, Britta and Röhrig, Peter</given-names>
+                  </name>
+               </person-group>
+               <fpage>73</fpage>
+               <lpage>78</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Investigations on alternative substances for control of apple scab. Geschäftsstelle Bundesprogramm \"Okologischer Landbau in der Bundesanstalt für Landwirtschaft und Ernäherung (BLE) 53168, Bonn</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kollar</surname>
+                     <given-names>Andreas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pfeiffer</surname>
+                     <given-names>Brabara</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <comment>Available from:
+            <uri xlink:type="simple">www.orgprints.org/4743</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Investigations of the abundance of pests and the build-up of apple scab inoculum in a mixed plantation of four genetically distant apple varieties</article-title>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 10OE024</comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fieger-Metag, Nicole</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beer</surname>
+                     <given-names>Margarita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maxin</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martens</surname>
+                     <given-names>Anke</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lindstaedt</surname>
+                     <given-names>Julian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Heyne</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/16698"
+                         xlink:type="simple">www.orgprints.org/16698</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Entwicklung und Validierung eines Software-Instruments für eine gezielte Gruppenberatung zur nachhaltigen Minimierung der Risiken des Einsatzes von Kupferpräparaten im \"Okologischen Obstbau</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Strassemeyer</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 10OE19231</comment>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/119231"
+                         xlink:type="simple">www.orgprints.org/119231</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Konzept zur Reduktion der Regenfleckenkrankheit - Ermittlung von Parametern zur Biologie der Erreger unter westeuropäischen Klimabedingungen als Grundlage für die Weiterentwicklung eines Prognosemodells</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mayr</surname>
+                     <given-names>Ulrich</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weber</surname>
+                     <given-names>Roland W. S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Renner</surname>
+                     <given-names>Ute</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buchleither</surname>
+                     <given-names>Sascha</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beer</surname>
+                     <given-names>Margarita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maxin</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 10OE024</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/17410"
+                         xlink:type="simple">www.orgprints.org/17410</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development and assessment of direct control of Alternaria leaf blight (\textitAlternaria dauci)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rau</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weier</surname>
+                     <given-names>Ulrike</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wonneberger</surname>
+                     <given-names>Christoph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brand</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jahn</surname>
+                     <given-names>Marga</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 03OE488</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/10769"
+                         xlink:type="simple">www.orgprints.org/10769</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development of a biological plant protection product from Liquorice with proven efficacy in the field using suitable application technology. Work focus 1: Industrial and basic research</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bahlo</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cergel</surname>
+                     <given-names>Sylvia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faust</surname>
+                     <given-names>Stefanie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jacobs</surname>
+                     <given-names>Sophie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kleeberg</surname>
+                     <given-names>Hubertus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Orlik</surname>
+                     <given-names>Marc</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schmitt</surname>
+                     <given-names>Annegret</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Treutwein</surname>
+                     <given-names>Jonas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wehr</surname>
+                     <given-names>Christine</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 09OE101</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/27743"
+                         xlink:type="simple">www.orgprints.org/27743</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development of plant protection strategies for organic hop as alternatives to application of copper and sulfur containing plant protection agents</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Engelhard</surname>
+                     <given-names>Bernhard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bogenrieder</surname>
+                     <given-names>Anton</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eckert</surname>
+                     <given-names>Markus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weihrauch</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 03OE483</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/11145"
+                         xlink:type="simple">www.orgprints.org/11145</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Copper reducing strategies for late blight (Phytophthora infestons) control in organic potato (Solanum tuberosum) production</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bangemann</surname>
+                     <given-names>Lars-Wilhelm</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Westphal</surname>
+                     <given-names>Andreas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zwerger</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sieling</surname>
+                     <given-names>Klaus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kage</surname>
+                     <given-names>Henning</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Plant Diseases and Protection</source>
+               <fpage>105</fpage>
+               <lpage>116</lpage>
+               <year>2016</year>
+               <volume>121</volume>
+               <issue>3</issue>
+               <pub-id pub-id-type="doi">10.1007/BF03356498</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development of late blight (Phytophthora infestans) resistant breeding material for organic farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schwarzfischer</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 10OE071</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/21125"
+                         xlink:type="simple">www.orgprints.org/21125</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Einsatz eines Sapindus mukorossi-Extraktes zur Regulierung von pilzlichen Pathogenen an Weinreben—eine Alternative für den ökologischen Rebschutz?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Molitor</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Heibertshausen</surname>
+                     <given-names>Dagmar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baus</surname>
+                     <given-names>Ottmar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loskill</surname>
+                     <given-names>Bernd</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maixner</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berkelmann-Löhnertz, Beate</surname>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>62</volume>
+               <issue>12</issue>
+               <fpage>444</fpage>
+               <lpage>450</lpage>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Reduction or substitution of copper-bearing pesticides in organic hop growing</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weihrauch</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schwarz</surname>
+                     <given-names>Johannes</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 2809OE058</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/26720"
+                         xlink:type="simple">www.orgprints.org/26720</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Möglichkeiten zur Reduktion kupferhaltiger Pflanzenschutzmittel für den \"Oko-Kartoffelanbau</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kühne</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bieberich</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Piorr</surname>
+                     <given-names>HP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Landzettel</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <source>Kartoffelbau</source>
+               <volume>6</volume>
+               <issue>2013</issue>
+               <fpage>31</fpage>
+               <lpage>33</lpage>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Minimisation strategies for copper pesticides in organic potato cultivation</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kühne</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <volume>2</volume>
+               <fpage>335</fpage>
+               <lpage>338</lpage>
+               <year>2014</year>
+               <publisher-name>Johann Heinrich von Thünen-Institut</publisher-name>
+               <source>Proceedings of the 4th ISOFAR Scientific Conference ``Building Organic Bridges'', at the Organic World Congress 2014, 13-15 Oct., Istanbul, Turkey</source>
+                               
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development, evaluation and realisation of the prognosis-system ``\"OKOSIMPHYT'' to control potato late blight (\textitP. infestans) in organic farming with the aim to reduce the use of copper fungicides</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zellner</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keil</surname>
+                     <given-names>Sven</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bangemann</surname>
+                     <given-names>Lars-Wilhelm</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zwerger</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kleinhenz</surname>
+                     <given-names>Benno</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tschöpe</surname>
+                     <given-names>Beate</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 06OE326</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/16649"
+                         xlink:type="simple">www.orgprints.org/16649</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Kupfer als Pflanzenschutzmittel unter besonderer Berücksichtigung des \"Okologischen Landbaus</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilbois</surname>
+                     <given-names>Klaus-Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kauer</surname>
+                     <given-names>Randolf</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fader</surname>
+                     <given-names>Beate</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kienzle</surname>
+                     <given-names>Jutta</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haug</surname>
+                     <given-names>Philipp</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fritzsche-Martin, Andreas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Drescher</surname>
+                     <given-names>Norbert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reiners</surname>
+                     <given-names>Eckhard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Röhrig</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <source>Journal für Kulturpflanzen</source>
+               <volume>61</volume>
+               <issue>4</issue>
+               <fpage>140</fpage>
+               <lpage>152</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Regulating downy mildew in lettuce - new approaches by testing field resistant varieties from biodynamic plant breeding in combination with various growing methods and plant strengthening measures</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gärber</surname>
+                     <given-names>Ute</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Idczak</surname>
+                     <given-names>Elke</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Behrendt</surname>
+                     <given-names>Ulrike</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 06OE049</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/21138"
+                         xlink:type="simple">www.orgprints.org/21138</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Development of a biological plant protection product from Liquorice with proven efficacy in the field using suitable application technology. Work focus 1: Industrial and basic research</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bahlo</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cergel</surname>
+                     <given-names>Sylvia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faust</surname>
+                     <given-names>Stefanie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jacobs</surname>
+                     <given-names>Sophie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kleeberg</surname>
+                     <given-names>Hubertus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Orlik</surname>
+                     <given-names>Marc</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schmitt</surname>
+                     <given-names>Annegret</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Treutwein</surname>
+                     <given-names>Jonas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wehr</surname>
+                     <given-names>Christine</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 09OE036</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/27743"
+                         xlink:type="simple">www.orgprints.org/27743</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Developing a biological plant protection product from the liquorice plant with proven efficacy in the field combined with an effective application technology. Part 2: Application in the field</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Leinhos</surname>
+                     <given-names>Gabriele</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marx</surname>
+                     <given-names>Peggy</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 09OE038</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/27742"
+                         xlink:type="simple">www.orgprints.org/27742</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Management of Black rot (\textitGuignardia bidwellii) in organic viticulture</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Leinhos</surname>
+                     <given-names>Gabriele</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marx</surname>
+                     <given-names>Peggy</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Bundesprogramm Ökologischer Landbau und andere Formen nachhaltiger Landwirtschaft (BÖLN)</publisher-name>
+               <comment>Project number 04OE032</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.orgprints.org/17072"
+                         xlink:type="simple">www.orgprints.org/17072</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
