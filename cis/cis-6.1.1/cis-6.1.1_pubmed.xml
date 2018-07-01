@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2018.06010001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Multi-Criteria Approach for Assessing the Sustainability of Small-Scale Cooking and Sanitation Technologies</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Krause</surname>
+                  <given-names>Ariane</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Köppel</surname>
+                  <given-names>Johann</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Center for Technology and Society, Technische Universität Berlin, Berlin, Germany</aff>
+         <aff id="A3">
+            <label>2</label>Environmental Assessment &amp; Planning Research Group, Technische Universität Berlin, Berlin, Germany</aff>
+         <pub-date pub-type="ppub">
+            <day>11</day>
+            <month>06</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>1</issue>
+         <fpage>1</fpage>
+         <lpage>19</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>To reduce the consumption of firewood for cooking and to realise recycling-driven soil fertility management, three projects in Northwest Tanzania aim to provide the local smallholder community with cooking and sanitation alternatives. The present study proposes an integrated approach to assess the sustainability of the small-scale cooking and sanitation technologies. Based on the multi-criteria decision support approach (MC(D)A), we developed a decision-specific, locally adapted, and participatory assessment tool: the Multi-Criteria Technology Assessment (MCTA). Pre-testing of the tailored tool was set up with representatives of Tanzanian and German partners of case study projects. From a methodological perspective, we conclude that the MCTA uses a set of relevant criteria to realise a transparent and replicable computational Excel-tool. The combination of MC(D)A for structuring the assessment with analytical methods, such as Material Flow Analysis, for describing the performance of alternatives is a promising path for designing integrated approaches to sustainability assessments of technologies. Pre-testing of the tool served as a proof-of-concept for the general design of the method. Future applications and adjustments of the MCTA require the inclusion of end-users, a reasonable and participatory reduction of criteria, and an increase of feedback loops and group discussions between participants and the facilitator to support a common learning about the technologies and thorough understanding of the perspectives of participants.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Biomass stoves</kwd>
+            <kwd>decision support</kwd>
+            <kwd>development of appropriate technologies</kwd>
+            <kwd>ecological sanitation</kwd>
+            <kwd>energy-sanitation-agriculture nexus</kwd>
+            <kwd>multi-objective evaluation</kwd>
+            <kwd>sustainability assessment</kwd>
+            <kwd>technology assessment</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="prem">
+         <title>Preliminary Note</title>
+         <p>Additional information is presented in the Appendix and the Supplements; Figures and Tables are indicated with Figure A.x and Table S.x. Additional notes are indicated in the text (e.g. [x]) and provided at the end of the manuscript, alongside a list of non-standard abbreviations and the references.
+We use italic letters to emphasize and indicate discipline-specific definitions, established terms upon initial use, terms applied from languages other than English, and quotations covering more than two lines.</p>
+      </sec>
+      <sec id="s1">
+         <title>1.- Introduction to the Context</title>
+         <sec id="s1.1">
+            <title>1.1.- Towards a Sustainable Anthroposphere</title>
+            <p>There is broad consensus that—from a global perspective—the excessive use of natural resources by human beings (in particular the resource consumption of the richer countries) has manifold consequences [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R02">2</xref>]. The anthropogenic overexploitation of natural resources results, for example, in (i) shortages of resources, such as oil, coal, sand, or rock phosphate [<xref ref-type="bibr" rid="R03">3</xref>], (ii) climate change [<xref ref-type="bibr" rid="R04">4</xref>], or (iii) decrease of soil fertility [<xref ref-type="bibr" rid="R05">5</xref>]. By various means, we are crossing the <italic>planetary boundaries</italic> [<xref ref-type="bibr" rid="R06">6</xref>]. With respect to biogeochemical flows and genetic diversity, the planetary boundaries are stressed to such an extent that we risk non-reversible changes of the environment and even the habitability of the earth. Agriculture, in particular—respectively the production and use of synthetic fertilizers, pesticides, or seeds—contributes to this risk [<xref ref-type="bibr" rid="R07">7</xref>]. How, therefore, can we change the situation? Or, more specifically: How can we meet the (human) demand for food and energy without overexploiting our planet?</p>
+            <p>Recognized recommendations for a <italic>sustainable</italic> use of resources include, for example [<xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>]: (i) establishing circular economies; (ii) using effective, efficient, adapted, and affordable technologies; and (iii) utilizing locally available resources for soil fertility management. Measures to establish circular economies comprise <italic>inter alia</italic> (i) the concept of <italic>bioenergy</italic>, hence the provision and use of energy from biomass [<xref ref-type="bibr" rid="R11">11</xref>], respectively renewable resources or organic waste materials, and (ii) the implementation of <italic>ecological sanitation</italic> (EcoSan). With the latter, various material flows are collected separately, treated specifically, and, if possible, ultimately recycled to agricultural land [<xref ref-type="bibr" rid="R12">12</xref>]. Both topics, bioenergy and EcoSan, are well-studied and have already been brought into practical applications.</p>
+         </sec>
+         <sec id="s1.2">
+            <title>1.2.- A Sustainable Approach to the Energy-Sanitation-Agriculture Nexus in Tanzania</title>
+            <p>Against this backdrop, and given that over 50% of global food products are produced by small-scale farmers [<xref ref-type="bibr" rid="R13">13</xref>], the sustainability potentials of smallholder communities in the Global South is of major relevance. In the Northwest of Tanzania (TZ), a representative region for Sub-Saharan Africa (SSA), the main energy carrier is firewood, mostly used for cooking on a three-stone fire, whilst pit latrines are the most common sanitation approach [<xref ref-type="bibr" rid="R14">14</xref>]. This pattern, alongside a steady population growth, increasingly stresses natural resources such as arable land, aquifers or other water sources, and forests [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>].</p>
+            <p>To counteract local deforestation and soil nutrient depletion, two Tanzanian farmers initiatives have started three projects located in Karagwe, Kagera region, together with German partners and donors [<xref ref-type="bibr" rid="R17">17</xref>]. The main objective of the technological development cooperation was to contribute to <italic>sustainable community development</italic> by adapting and introducing small-scale and locally <italic>adequate</italic> cooking and sanitation technologies [<xref ref-type="bibr" rid="R18">18</xref>]. At the same time, a circular resource economy shall be implemented to improve local soils and food production. Therefore, residues from cooking and sanitation are used to increase the recycling of nutrients and the recovery of carbon for restoring soil humus.</p>
+            <p>Previous work covers how these locally adapted technologies in smallholder households contribute to environmental health by reducing deforestation, climate gas emissions, and nutrient leaching to aquifers [<xref ref-type="bibr" rid="R19">19</xref>]. We further showed that using residues from cooking and sanitation could stimulate the productivity of smallholder farming by improving the acidic and nutrient-depleted local soil [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. Subsequently, we widened our perspective to evaluate the technologies studied according to multiple <italic>sustainability</italic> dimensions.</p>
+         </sec>
+         <sec id="s1.3">
+            <title>1.3.- Assessing Sustainability with a Participatory Multi-Criteria Approach</title>
+            <p>The challenge of any <italic>sustainability assessment</italic> [<xref ref-type="bibr" rid="R22">22</xref>] is to translate defined and basically agreed upon principles into an operational model [<xref ref-type="bibr" rid="R23">23</xref>]. However, even though measurable criteria can be applied to operationalize sustainability, it is individuals or societies who evaluate the plausibility and credibility of relevant assessments. If the process involves multiple actors, differing opinions may also cause trade-offs between stakeholders. Multi-Criteria Decision Analysis (MCDA) attempts to address this challenge [<xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. In the first instance, any assessment of alternatives against multiple criteria, irrespective of who participates in the analysis, can generally be called a Multi-Criteria Analysis (MCA) [<xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. Moreover, MCDA indicates a specific MCA, addressing <italic>participatory</italic> decision-making processes [<xref ref-type="bibr" rid="R29">29</xref>]. Both approaches, MCA and MCDA, are applied in planning, decision, and evaluation processes and to assess likely consequences of decisions [<xref ref-type="bibr" rid="R30">30</xref>]. In the following, we use the abbreviation MC(D)A when referring to characteristics of both approaches.</p>
+            <p>According to [<xref ref-type="bibr" rid="R31">31</xref>], the MC(D)A is generally suitable for decisions related to sustainable development because the method is largely transparent, participatory, and inter-disciplinary. Furthermore, the MC(D)A is often applied in environmental decision making [<xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>] and strategic planning for natural resources management [<xref ref-type="bibr" rid="R34">34</xref>]. While the number of MC(D)A applications has clearly grown over the last two decades, the method was mainly applied in scientific communities in the Global North [<xref ref-type="bibr" rid="R35">35</xref>]. Among the view examples of MC(D)A-studies from SSA are (i) comparisons of different sanitation approaches in Uganda [<xref ref-type="bibr" rid="R36">36</xref>] and in Burkina Faso [35], (ii) an assessment of cook stoves in TZ [<xref ref-type="bibr" rid="R37">37</xref>], and (iii) an evaluation of appropriate farming techniques in TZ [<xref ref-type="bibr" rid="R38">38</xref>].</p>
+            <p>With this study, we want to contribute to advancing the applicability of MC(D)A in the regional context of SSA as well as in the topical context of technology-driven sustainable community development in the Global South and Global North alike.</p>
+         </sec>
+         <sec id="s1.4">
+            <title>1.4.- Research Objectives &amp; Questions</title>
+            <p>Based on the MC(D)A methodology, our aim is (i) to develop and propose an integrated method for a participatory sustainability assessment, (ii) to translate into an applicable tool, and (iii) to test the tool with selected stakeholders (<italic>pre-testing</italic>). Our specific focus addresses small-scale cooking and sanitation technologies alongside the use of residues in smallholder farming, and on the example of Tanzanian case studies.</p>
+            <p>The specific research objectives are: (i) to identify a set of criteria and applicable methods within the framework of MC(D)A; (ii) to develop and propose a handy tool for an <italic>ex-ante</italic>, participatory, and multi-perspective technology assessment; (iii) to conduct a pre-testing of the tool and assess the sustainability of selected technologies.</p>
+            <p>The research questions are as follows: (RQ1) What are the most relevant criteria and applicable methods for assessing sustainability of small-scale cooking and sanitation technologies? (RQ2) How did the stakeholders involved in pre-testing rated the technologies at hand with regard to relevant criteria and to overall sustainability? (RQ3) How proved specific stakeholder groups perceptions? The RQ1 thereby refers specifically to the methodological development of the tool whilst RQ2 and RQ3 refer to pre-testing of the tool.</p>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- Used Methodology</title>
+         <p>Firstly, in Section 2.1, we introduce the study area, the case study projects, and the technologies to be analysed. In Section 2.2, we elaborate on our specific approach to develop an integrated MC(D)A-method and tool for a participatory sustainability assessment of small-scale cooking and sanitation technologies. We introduce the main concept of MC(D)A and explain the process how we have adapted the methodology for our specific context and converted into a tool. In Section 2.3, we shortly present the process applied for pre-testing the tool. Further details on methods, computational works (including equations), and the tool are provided in the Appendix.</p>
+         <sec id="s2.1">
+            <title>2.1.- Introduction of the Study Area &amp; Case Studies</title>
+            <p>The study area is the Karagwe district, in the Kagera region (lat. 01<inline-formula>
+                  <mml:math id="S4.SS1.p1.m1"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>33’ S; long. 31<inline-formula>
+                  <mml:math id="S4.SS1.p1.m2"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>07’ E; alt. 1500-1600 m.a.s.l.). Kagera forms a part of the Lake Victoria basin and is located about 1,500 km away from the Tanzanian capital Dar Es Salaam. The regional economy is dominated by smallholder agriculture with about 90% of households trading agricultural products grown on their farms [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+            <p>Three Karagwe projects serve as our case studies: (i) <italic>Biogas Support for Tanzania</italic> (BiogaST), which aims to implement small-scale biogas digesters to use bioenergy from harvest and kitchen residues for cooking; (ii) <italic>Efficient Cooking in Tanzania</italic> (EfCoiTa), which disseminates advanced designs of improved cook stoves (ICS), such as microgasifier cook stoves; and (iii) <italic>Carbonization and Sanitation</italic> (CaSa), which works with EcoSan, including a urine-diverting dry toilet (UDDT), thermal sanitation of faeces, and composting of human excreta mixed with other organic wastes including <italic>biochar</italic>. The latter material is a residue from cooking with microgasifiers. Cooking and sanitation are connected through the use of residues for soil fertility management, which makes the energy-sanitation-agriculture nexus even more interesting to study. In prior publications, we introduced the case studies [<xref ref-type="bibr" rid="R17">17</xref>] and described the technologies [<xref ref-type="bibr" rid="R19">19</xref>]. All technologies shall be implemented and used in both, households and institutions (e.g. in schools or hospitals). The local non-governmental organisation (NGO) <italic>Mavuno Project - Improvement for Community Relief and Services</italic> (MAVUNO) facilitates the BiogaST- and CaSa-projects. The <italic>Programme for Community Habitat Environmental Management</italic> (CHEMA) runs the EfCoiTa-project. German project partners are Engineers Without Borders (EWB) Berlin/Germany and <italic>Technische Universität</italic> (TU) Berlin. Financing of the projects is provided by German foundations <italic>BayWa</italic> (BiogaST) and <italic>Heidehof</italic> (CaSa and EfCoiTa). After completing pilot studies, a strategy and a plan for implementing technologies in the smallholder community needs to be developed. Hence, the respective technologies are the subject of decisions at hand. Decision makers are either the NGOs, implementing the technologies on a project-basis, or single households, purchasing them, for example, from local manufacturers or at local markets.
+</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Designing an Integrated Tool for a Multi-Perspective Technology Assessment</title>
+            <p>The method shall: (i) enable a systematic analysis; (ii) consider multiple perspectives related to sustainability; (iii) involve local communities and authorities in the assessment; (iv) integrate available data; and (iv) be conducted ahead of the technologies implementation in the community. Against this backdrop, we chose to follow the systematic concept of MC(D)A.</p>
+            <p>According to [<xref ref-type="bibr" rid="R34">34</xref>], MC(D)A consists of three pillars, which are: (i) the presence of multiple criteria; (ii) the formal approach with a set of analytical methods; and (iii) the involvement of individuals or groups of individuals in the assessment (for MCA) or in the decision process (for MCDA). The MC(D)A further combines a range of methodologies to use quantitative and qualitative data for (i) measuring sets of criteria, (ii) considering consequences of decisions, and for (iii) sequencing alternatives [<xref ref-type="bibr" rid="R29">29</xref>]. Applied MC(D)As often combine (i) qualitative methods for problem structuring, (ii) quantitative methods for problem analysis, and (iii) soft methods for stakeholder participation [<xref ref-type="bibr" rid="R34">34</xref>]. Aggregation of an assessment is possible from the level of different criteria into an overall performance of alternatives and, likewise, from the level of individual preferences into a common, average preference [<xref ref-type="bibr" rid="R29">29</xref>] (For the interested reader, a summary of the fundamental terms used in MC(D)A can be found in Table A.1). Based on a comprehensive literature review, especially [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>] inspired the design of our MC(D)A approach. The dynamic process of developing the specific design of our method and tool will be described in the following paragraphs (with more details provided in Appendix Section A.2).</p>
+            <p>
+               <underline>(A) Framing the context:</underline> Formulating the <italic>decision problem</italic> involved learning about the context of the decision, such as livelihood of the community, specific approaches of the case studies, and ways of using technologies in daily life. The main activities, therefore, included: participating in projects; short- and long-term stays in Karagwe; teamwork with project workers; reading project reports, governmental reports, and non-governmental reports; and communicating with scientists and practitioners in the region. Based on this, we described the environment of the decision including <italic>driving forces</italic> (Table <xref ref-type="table" rid="Tab01">1</xref>) and <italic>motivations</italic> (Table <xref ref-type="table" rid="Tab02">2</xref>) that represent the objectives of the projects initiators to develop and implement ‘new’ technologies in the Karagwe smallholder community.</p>
+            <p>In addition, two <italic>Process Flow Diagrams</italic> (PFD) foster a better understanding of the technologies and possible nutrient recycling approaches when interacting with people. Both PFDs indicate how the technologies analysed are integrated in on-farm resource management and how they interact with the natural environment in terms of resource consumption and emissions. One PFD is a more systematic illustration (Figure <xref ref-type="fig" rid="Fig1">1</xref>); the other PFD is a more pictorial illustration (Figure A.1).</p>
+            <p>
+               <underline>(B) Creating alternatives:</underline> 
+               <italic>Alternatives</italic> to be analysed are either (i) discrete technologies or (ii) a mix of technologies [<xref ref-type="bibr" rid="R39">39</xref>]. In the present study, we decided to analyse discrete technologies that are defined by the case studies (Table <xref ref-type="table" rid="Tab03">3</xref>; cf. Tables A.3–A.5 for pictures and descriptions). Currently, the most common combination of technologies for cooking and sanitation found in Karagwe smallholdings is a three-stone fire and pit latrine [<xref ref-type="bibr" rid="R14">14</xref>]. The alternatives assessed are further technologies that are locally available (i.e. technically and commercially) for implementation. We compared (i) technologies represented in the case study projects, and (ii) other widespread alternatives. Regarding the first point, cooking alternatives include: a system composed of a biogas digester and a biogas burner, developed and adapted to Karagwe conditions by the BiogaST-project; and two types of ICSs promoted by the EfCoiTa-project, such as the rocket stove and the microgasifier. MAVUNO endorses implementation of biogas systems at households through development cooperation projects whilst CHEMA produces and disseminates rocket stoves and microgasifiers at their workshop. Sanitation alternatives include to ecological approaches, namely, “EcoSan” that refers to using an UDDT and “CaSa” that refers to using the UDDT in combination with a sanitation oven for thermal treatment of excreta pursuant to the practices of the CaSa-project. MAVUNO is engaged in testing and promoting both approaches. Regarding the second point, charcoal stoves (also called “charcoal burners”) are commonly available in Karagwe on markets and from local stove sellers and a combination of a flush toilet and septic tank can be accessed through local plumbers. The charcoal and biogas alternative also include the charcoal production and biogas digester. These processes provide the energy carrier used in households. Rocket or microgasifier stoves, in comparison, make direct use of firewood or sawdust. The latter is an available waste resource in many anthropogenic settings.</p>
+            <table-wrap id="Tab01" position="float" orientation="portrait">
+               <label>
+                  Table 1: 
+            </label>
+               <caption>
+                  <title>Definition of <italic>driving forces</italic> behind the technology development of case study projects. These definitions had been pre-formulated by the planner and were then proofed and agreed on by participants during the design process.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Social driver</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Environmental driver</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Economical driver</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                                    <inline-formula>
+                                       <mml:math id="S4.SS2.p6.m1"
+                                                 alttext="\bullet"
+                                                 display="inline"
+                                                 overflow="scroll">
+                                          <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                                       </mml:math>
+                                    </inline-formula> Provide new technologies to the community, which have progressive reputation.
+                        </td>
+                        <td align="left" rowspan="1" style="" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.SS2.p6.m11"
+                                 alttext="\bullet"
+                                 display="inline"
+                                 overflow="scroll">
+                                 <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                              </mml:math>
+                           </inline-formula>Reduce pressure on natura forests by providing cooking technologies that use less firewood or alternative fuels.
+                        </td>
+                        <td align="left" rowspan="1" style="" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.SS2.p6.m111"
+                                 alttext="\bullet"
+                                 display="inline"
+                                 overflow="scroll">
+                                 <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                              </mml:math>
+                           </inline-formula>React on social drivers through increased agricultural productivity.
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                                    <inline-formula>
+                                       <mml:math id="S4.SS2.p6.m4"
+                                                 alttext="\bullet"
+                                                 display="inline"
+                                                 overflow="scroll">
+                                          <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                                       </mml:math>
+                                    </inline-formula> Increase food security through increased soil fertility and crop productivity.
+                        </td>
+                        <td></td>
+                        <td></td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                                    <inline-formula>
+                                       <mml:math id="S4.SS2.p6.m5"
+                                                 alttext="\bullet"
+                                                 display="inline"
+                                                 overflow="scroll">
+                                          <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                                       </mml:math>
+                                    </inline-formula> Reduce poverty through increased farm income generation.
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                                    <inline-formula>
+                                       <mml:math id="S4.SS2.p6.m6"
+                                                 alttext="\bullet"
+                                                 display="inline"
+                                                 overflow="scroll">
+                                          <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                                       </mml:math>
+                                    </inline-formula> Recycle nutrients recovered from residues available after cooking or from sanitation facilities.
+                           
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                                    <inline-formula>
+                                       <mml:math id="S4.SS2.p6.m7"
+                                                 alttext="\bullet"
+                                                 display="inline"
+                                                 overflow="scroll">
+                                          <mml:mo mathsize="80%" stretchy="false">∙</mml:mo>
+                                       </mml:math>
+                                    </inline-formula> Provide organic fertilizers to replenish nutrients in exhausted local soils.
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab02" position="float" orientation="portrait">
+               <label>
+                  Table 2:
+            </label>
+               <caption>
+                  <title>Consented definition of the <italic>motivations</italic> behind the technology development of case study projects</title>
+               </caption>
+               <table>
+                  <thead>
+                  <tr>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Energy</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Sanitation</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Agriculture</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:bb t;" rowspan="1" colspan="1">
+                           Use available resources appropriately to meet the energy demand of smallholder farming households.
+                        </td>
+                        <td align="left" style="border:bb t;" rowspan="1" colspan="1">
+                           Improve the hygiene conditions in farming households while promoting the recycling of nutrients.
+                        </td>
+                        <td align="left" style="border:bb t;" rowspan="1" colspan="1">
+                           Sustain the quality and productivity of the local soil in order to ensure food sovereignty and farm income.
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                  Figure 1: </label>
+               <caption>
+                  <title>Systematic illustration of the analysed context featured as the “Resource Management Trifecta” [<xref ref-type="bibr" rid="R44">44</xref>]. </title>
+               </caption>
+               <graphic xlink:href="Fig1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <table-wrap id="Tab03" position="float" orientation="portrait">
+               <label>
+                  Table 3: 
+            </label>
+               <caption>
+                  <title>Alternatives defined for the sustainability assessment of small-scale cooking and sanitation technologies that are, technically and commercially, available to smallholders in Karagwe, Tanzania</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Cooking alternatives</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Sanitation alternatives</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">Current state (not analysed)</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">Three-stone fire</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">Pit latrine</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Alternatives analysed</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1. Charcoal stove (incl. charcoal production)</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1. EcoSan: with UDDT only</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">2. Rocket stove</td>
+                        <td align="left" rowspan="1" style="" colspan="1">2. CaSa: UDDT and sanitation oven for heat treatment of solids</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">3. Microgasifier</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3. Water toilet and septic tank</td>
+                     </tr>
+                     <tr>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="left" style="" rowspan="1" colspan="1">4. Biogas digester and biogas burner</td>
+                        <td align="left" style="" rowspan="1" colspan="1"></td>
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="3" style="border:tt;" rowspan="1">Non-common abbreviations: CaSa: project “Carbonization and Sanitation”; EcoSan: ecological sanitation; UDDT: urine-diverting dry toilet.</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>
+               <underline>(C) Selecting criteria:</underline> In order to operationalize sustainability, relevant and feasible, thus appropriate, criteria need to be identified to describe the multiple dimensions. According to MC(D)A methodology, <italic>main-criteria</italic> describe the <italic>objectives</italic>, or highest-level criteria, and <italic>sub-criteria</italic> describe the <italic>attributes</italic>, or lowest-level criteria [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R32">32</xref>]. To identify such criteria, we performed a comprehensive literature review. Our focus was specifically on comparable work conducted (i) for topics such as bioenergy, EcoSan, and soil fertility or natural resource management, and (ii) in a regional context of TZ, East-Africa, or SSA. We further collaborated with practitioners, academic professionals, and other experts in bioenergy and/or sanitation in an East-African-context. Activities and methods applied include: (i) semi-structured interviews conducted in TZ and Uganda; (ii) group discussions based on the <italic>world café method</italic> [<xref ref-type="bibr" rid="R45">45</xref>] in TZ and Germany; and (iii) discussion with the coordinator of BiogaST and CaSa projects (A. Bitakwate) to conclude a final set of criteria.</p>
+            <p><underline>(D) Collecting data:</underline> To <italic>describe</italic> how the alternatives performed against the criteria we needed to collect relevant data. Most data used derive from prior studies related to the case studies [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. Additional data originate from project documents of the pilot studies, judgements of local expert, and literature as well as internet reviews. Descriptions provided to participants also include information about data sources and the estimated quality of data (cf. Table A.9).</p>
+            <p>
+               <underline>(E) Analysing stakeholders and selecting participants:</underline> 
+               <italic>Participants</italic> of a MC(D)A can be split into two groups: (i) the planner; and (ii) stakeholder representatives [<xref ref-type="bibr" rid="R40">40</xref>]. The planner facilitates the whole MC(D)A and, therefore, pre-selects criteria, prepares the tool and descriptions of the alternatives beforehand, and moderates the assessment process. Stakeholder representatives participate, in particular, in conducting the <italic>weighting</italic> of criteria and the <italic>scoring</italic> of alternatives. According to [<xref ref-type="bibr" rid="R23">23</xref>], relevant <italic>stakeholders</italic> that should be considered when conducting a participatory MC(D)A include: (i) funding agencies; (ii) governmental authorities; (iii) specialists (e.g. stove technicians, EcoSan-experts, or strategic advisors); (iv) (future) staff for operation and maintenance; (v) end-users of the technologies and/or of the by-products; (vi) legislator and enforcement agencies; (vii) research institutions; (viii) local, national and international NGOs; and (ix) site residents (if any). In our case, local smallholders are probably the stakeholders being most affected by the technologies assessed.</p>
+            <p>
+               <underline>(F) Preparing the assessment tool:</underline> The following requirements had been defined for the assessment tool: (i) free of charge; (ii) intuitive to use; (iii) transparent (e.g. that it is possible to see and understand also the computational model); and (iv) possible to use off-line for participants because internet access is not always reliable in Karagwe. Unfortunately, most available commercial or free software was not appropriate for several reasons. Most of them were either (i) too cost-intensive, such as V<inline-formula>
+                  <mml:math id="S4.SS2.p13.m1"
+                            alttext="\cdot"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>⋅</mml:mo>
+                  </mml:math>
+               </inline-formula>I<inline-formula>
+                  <mml:math id="S4.SS2.p13.m2"
+                            alttext="\cdot"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>⋅</mml:mo>
+                  </mml:math>
+               </inline-formula>S<inline-formula>
+                  <mml:math id="S4.SS2.p13.m3"
+                            alttext="\cdot"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>⋅</mml:mo>
+                  </mml:math>
+               </inline-formula>A, (ii) too complex, such as PROMETHEE I because visualization is too scientific, or (iii) working only online, such as Decisionarium or Web-HIPRE.
+</p>
+            <p>As a consequence, we developed a hand-made and Excel-based assessment tool. The tool is tailored to our specific application and based on a template of [<xref ref-type="bibr" rid="R23">23</xref>]. In total, the designed tool comprises sheets for (i) providing information to participants, (ii) collecting judgments of participants during weighting and scoring, and (iii) calculating, summarizing, and visualizing results. The latter include so-called <italic>Performance Matrices</italic> (PM) that summarize weights, scores, and results for each participant and all alternatives. To elicit individual preferences from participants, we selected applicable methods for participatory weighting and scoring from [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R39">39</xref>]. The weighting further comprises <italic>ranking</italic> and <italic>rating</italic> of main- and sub-criteria. Ranking is the ordering of criteria according to individually perceived importance. Rating means assigning individual numeric weights as points ranging from 0 to 100 to each criterion in order to differentiate between the criteria.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Pre-Testing of the Tool</title>
+            <p>In order to test the developed method, we performed a pre-testing of the tool with a selected group of participants. Subjects of the pre-testing are the alternatives as described above. However, the technologies currently most used are not assessed in order to keep the total amount of alternatives manageable.</p>
+            <p>Against the backdrop in which there is a significant language gap between Tanzanian farmers and German participants, who mostly do not speak Swahili, we considered direct participation of farmers as not feasible. Furthermore, and pursuant to [<xref ref-type="bibr" rid="R46">46</xref>], farmers may hesitate to freely express their thoughts if <italic>white</italic> researchers and/or donors are present during the assessment. Overall, stakeholders participating in pre-testing the MC(D)A tool include: (i) the facilitating NGOs, represented by the management, project coordinators, and other staff members; (ii) the cooperation partners, represented by researchers, volunteers, and donor agents. In total, 10 people committed their participation and the number of participants in each group is, respectively, six (four of MAVUNO and two of CHEMA) and four (four scientists from TU; three members of EWB; and one member of the advisory board from <italic>Heidehof</italic> foundation; including double affiliations). Planner and moderator was A. Krause. In the pre-testing, participating staff members of local NGOs also act as representatives of the local smallholders. (The tool itself should, however, support farmers in decision-making within the smallholder community.)</p>
+            <p>Pre-testing followed a “9-steps-approach”, where the actual assessment of alternatives is conducted in a stepwise and participatory procedure, including the following nine steps:</p>
+            <list>
+               <list-item>
+                  <p>
+                  <italic>1. Presenting:</italic> Introduction of the context of the assessment, of the MC(D)A method, and of different activities for participants and the facilitator in the assessment’s course.</p>
+                  
+               </list-item>
+               <list-item>
+
+                  <p>
+                     <italic>2. Agreeing:</italic> Presentation of pre-formulated driving forces and motivations for project initiations and request to comment, agree, or disagree.</p>
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>3. Self-assessment:</italic> Participants disclose their role as stakeholder defined as their personal role, power, interest, and means of intervention in each of the case study projects.</p>
+                  
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>4. Weighting:</italic> Participants express their individually perceived importance of criteria by (i) ranking and rating main-criteria and (ii) simple rating of sub-criteria.</p>
+                  
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>5. Knowledge-exchange:</italic> Presentation and discussion of prior research work and, in particular, those data used to formulate the descriptions of alternatives.</p>
+                  
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>6. Scoring:</italic> Participants indicate the individually perceived value of an alternative based on descriptions provided by the planner and completed by individual expertise.</p>
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>7. Calculating:</italic> The planner (i) calculates weighted scores of all sub- and main-criteria, (ii) deduces aggregated overall results, and (iii) visualizes results.</p>
+                  
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>8. Conclusion:</italic> Final presentation for sharing results with all participants; if possible, including group discussions and the possibility to adjust individual scorings.</p>
+                  
+               </list-item>
+               <list-item>
+                  
+                  <p>
+                     <italic>9. Evaluation:</italic> To evaluate the process, a questionnaire is given to participants for providing feedback and criticism, and to formulate lessons learned.</p>
+               </list-item>
+            </list>
+            
+            <p>Unfortunately, due to time constraints and because participants had not been in one place, rather located in both countries, Tanzania and Germany, discussion and adjustments of scoring as part of step 8, was not possible. Planner/facilitator and participants communicated in English and mainly via e-mail or by using Skype or phone calls on demand, for example to clarify questions. Presentations were shared as PDF-documents and via file hosting service. (More details provided in Appendix Section A.3).</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results &amp; Discussion</title>
+         <p>This section starts with a discussion of results as far as the methodology development is concerned whilst addressing RQ1 (Section 3.1.). Thereafter, we present and discuss results of the designed tool’s pre-test, and refer to RQ2 and RQ3 (Section 3.2.). Finally, we reflect on the adapted assessment process and tool (Section 3.3.).</p>
+         <sec id="s3.1">
+            <title>3.1.- Results from Adapting the MC(D)A Method for the Specific Context</title>
+            <p>In order to systematically assess the sustainability of small-scale cooking and sanitation technologies, we propose a tool called the Multi-Criteria Technology Assessment (MCTA). We designed the MCTA by adapting MC(D)A and developing a tool, which is adequate for the sustainability assessment of small-scale cooking and sanitation technologies. The process included activities as described in Section 2.2. Results with respect to the identification of most relevant criteria and applicable methods for assessing the sustainability of small-scale cooking and sanitation technologies (RQ1) are presented and discussed in the following paragraph.</p>
+            <p>
+               <underline>Selection of criteria:</underline> [-10]To define the main-criteria considered in the MCTA, we merged sustainability categories of [<xref ref-type="bibr" rid="R47">47</xref>] with aspects from the Integrated Sustainable Waste Management approach of [<xref ref-type="bibr" rid="R48">48</xref>] that describes “the enabling environment of sustainability”. Finally, we chose the following main-criteria as being most relevant: technological-operational, environmental, health/hygiene, socio-cultural, socio-economic/financial, and political/legal criteria. Pursuant to [<xref ref-type="bibr" rid="R23">23</xref>], we use a six-pointed so-called “sustainability star” (Figure <xref ref-type="fig" rid="Fig2">2</xref>) to visualise how we define sustainability in the MCTA. Each of the six dimensions represents one of the six main-criteria and thus reflects an objective of sustainability that is addressed in the analysis of cooking and sanitation technologies. Furthermore, the categories “acceptability”, “affordability”, and “reliability” are assigned to the main-criteria. Derived from Sustainable Development Goal no. 7 of the United Nations, these indicate characteristics, which feature a sustainable use of energy technologies [<xref ref-type="bibr" rid="R49">49</xref>].</p>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                  Figure 2: </label>
+               <caption>
+                  <title>The sustainability star that was used to visualize and summarize the six main-criteria considered in the MCTA. </title>
+               </caption>
+               <graphic xlink:href="Fig2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>The final selection of sub-criteria (Table A.8) constitutes a synthesis of criteria from [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R50">50</xref>] (cf. Table A.6). From a total of 84 sub-criteria considered in the MCTA, 80 and 75 are applied for assessing cooking and sanitation technologies, respectively (Table A.7).</p>
+            <p>Overall, we consider the chosen criteria as significant to systematically identify strengths and weaknesses of technologies and to assess their sustainability. However, criteria are not thoroughly independent from each other. Some criteria describe different objectives even though they are related to each other. For example, two of the technological-operational criteria are “preferably high use of locally available resources” and “preferably low use of industrial resources”. Both sub-criteria are related to the socio-economic/financial criterion “preferably low cost for implementation” because the material use influences production costs. Another reason for preferring a substantial use of locally available resources is, however, a higher degree of independence from international markets (and main providers of industrial materials). To sum up, most of the sub-criteria applied are intermediate or so-called “means-to-an-end” objectives rather than fundamental objectives [<xref ref-type="bibr" rid="R39">39</xref>]. Nevertheless, according to [<xref ref-type="bibr" rid="R32">32</xref>] this approach is not contradicting the MC(D)A concept.</p>
+            <p>
+               <underline>Collection of data:</underline> Overall, our study integrates quantitative data of recent scientific findings and explorative practitioners’ experiences with qualitative data collected from literature, oral explanations by farmers, learning from participating in the projects, and expert judgements. Quantitative data of prior studies, where we employed Material Flow Analysis (MFA) [<xref ref-type="bibr" rid="R19">19</xref>] also in combination with Soil Nutrient Balancing (SNB) [<xref ref-type="bibr" rid="R21">21</xref>], was particularly important to describe environmental attributes. The MFA identifies and quantifies sources, sinks, directions, magnitudes, connections, dependencies, and shifts of material flows between the anthroposphere and the environment [<xref ref-type="bibr" rid="R51">51</xref>]. The SNB specifically measures, calculates, and balances various input and output flows of nutrients to and from agricultural land [<xref ref-type="bibr" rid="R52">52</xref>].</p>
+            <p>Against the backdrop that reaching environmental sustainability requires a systematic reduction of the physical degradation of nature [<xref ref-type="bibr" rid="R53">53</xref>], we consider MFA and SNB as highly suitable methods to be integrated in a multi-criteria sustainability assessment. By combining qualitative and quantitative methods for data collection, the MCTA realises an <italic>integrated approach</italic> as recommended by [<xref ref-type="bibr" rid="R24">24</xref>].</p>
+            <p>Data collection, however, was challenging. Available and accessible data in the given context was not sufficient to estimate and to describe performances of most technologies. In order to generate a profound basis for the MCTA, we needed significant additional efforts and approximately two years for conducting performance tests of the technologies, elaborating a field trial and MFA and SNB modelling. Hence, describing the performance of the alternatives was challenging and time-consuming, which resulted in certain shortcomings of the pre-test.</p>
+            <p>
+               <underline>Calculations:</underline> The computational model applied in the MCTA is set up through combining the Multi-Attribute Value Theory (MAVT) and Simple Additive Weighting (SAW) out of a wide range of existing MC(D)A methods [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R34">34</xref>]. The MAVT basically uses multiple attributes, for comparing alternatives according to their value. SAW describes the mathematical approach to determine such values through systematic aggregation.</p>
+            <p>Computations pursue the following process: Firstly, ranking and rating of main-criteria is done by applying the SWING-method [<xref ref-type="bibr" rid="R29">29</xref>]; sub-criteria are then simply rated. From the <italic>numeric weights</italic> (i.e. points ranging from 0 to 100) given by participants during rating, the tool supports the planner in determining the <italic>relative weights</italic> of sub- and main-criteria (Equations A.1–A.5). Subsequently, scoring is conducted for each sub-criterion and each alternative separately. Participants therefore assign <italic>numeric scores</italic> in points ranging from <inline-formula>
+                  <mml:math id="S5.SS1.p10.m1"
+                            alttext="-"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>-</mml:mo>
+                  </mml:math>
+               </inline-formula>10 to +10 (Table <xref ref-type="table" rid="Tab04">4</xref>) that should reflect their individually perceived performance of an alternative and the associated value. In the MCTA, participants also have the option to waive scoring, by indicating a * instead of assigning points, if they consider available information as insufficient and/or feel unsure about scoring. In offering this *-option, we attempt to not force participants into an arbitrary judgement.</p>
+            <p>Pursuant to the SAW, the assigned scores are firstly weighted on the lowest level of single attributes. The tool, therefore, determines the <italic>weighted score</italic> for each sub-criterion as the product of (calculated) relative weight and (assigned) score (Equation A.6). Computations are adapted for the *-case as described in the Appendix (Equations A.4 and A.6). Subsequently, plain addition determines the weighted scores for each main-criterion (Equation A.7). To deduce the <italic>overall value</italic> of an alternative, weighted scores are then further aggregated to result in a final <italic>Sustainability Index</italic> (SI). The SI is determined for each person (Equation A.8) along with an <italic>average SI</italic> of all participants for each alternative (Equation A.9). To evaluate <italic>significant</italic> differences between alternatives, value ranges characterised by the mean value <inline-formula>
+                  <mml:math id="S5.SS1.p11.m1"
+                            alttext="\pm"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>±</mml:mo>
+                  </mml:math>
+               </inline-formula> standard error of the mean (SEM) are compared pursuant to [<xref ref-type="bibr" rid="R54">54</xref>].</p>
+            <table-wrap id="Tab04" position="float" orientation="portrait">
+               <label>
+                  Table 4: 
+            </label>
+               <caption>
+                  <title>The scoring system applied in the MCTA</title>
+               </caption>
+               <table>
+                  <thead>
+                     
+                  
+                  <tr>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Scoring points</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Performance of the alternative</bold>
+                              
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Value of the alternative</bold>
+                              
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S5.SS1.p12.m1"
+                                        alttext="-"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                              </mml:math>
+                           </inline-formula>10</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Extremely weak/poor</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Strongly unfavourable</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S5.SS1.p12.m2"
+                                        alttext="-"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathsize="80%" stretchy="false">-</mml:mo>
+                              </mml:math>
+                           </inline-formula>5</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           Poor/fair; major improvements needed
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Unfavourable</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">0</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Good, ordinary</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Acceptable</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">5</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                          Very good; still needs some improvement
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Favourable</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">10</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Excellent</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Very favourable</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:bb;" rowspan="1" colspan="1">*</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Not clear to me</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Not assessable</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>
+               <underline>Presentation of results:</underline> To understand the variety of assessments of individual participants, the visualization of results is an essential element of the MCTA. In total, the tool provides the following visualizations, which are inspired by [<xref ref-type="bibr" rid="R23">23</xref>]: (i) a colour-coded scatter plot showing the relative weights assigned to main-criteria; (ii) bar diagrams ranking the alternatives with respect to the average SI; (iii) colour-coded scatter plots showing the average SI for all alternatives in one graph; (iv) colour-coded scatter plots showing assessment results on the level of main-criteria; (v) colour-coded bar diagrams showing the distribution of the SI as the balance of positive and negative weighted scores on the level of main-criteria; and (vi) a summary of scoring and weighting results on the level of main-criteria. The latter three types of visualizations summarize the voting of all participants in one graph for each alternative. The colour-coded scatter plots indicate assessment results of different stakeholder groups alongside the mean of all participants in different colours. The first and fourth graphs are designed by using a net diagram and by arranging the axes that represent main-criteria according to the sustainability star. The sixth graph visualises connections between the perceived importance of a certain dimension of sustainability and the assigned performance of an alternative. The former is indicated by numeric weights assigned to respective main-criteria plotted on the x-axis and the latter by numeric scores that an alternative receives for certain main-criteria plotted on the y-axis. The area, where certain main-criteria score negatively (numeric score <inline-formula>
+                  <mml:math id="S5.SS1.p13.m1"
+                            alttext="&lt;"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>&lt;</mml:mo>
+                  </mml:math>
+               </inline-formula> 0) while, at the same time, these main-criteria are considered important (numeric weight <inline-formula>
+                  <mml:math id="S5.SS1.p13.m2"
+                            alttext="&gt;"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>&gt;</mml:mo>
+                  </mml:math>
+               </inline-formula> 50), is marked as “red area”. Results are presented for all main-criteria (colour-coded symbols) and for all participants (number of signs) in one graph for each alternative.</p>
+            <p>We acknowledge that the computational approach of the MCTA is rather simple, however, in accordance with basic principles of MC(D)A modelling [<xref ref-type="bibr" rid="R29">29</xref>]. For example, on the one hand, the final single index makes alternatives directly commensurable [<italic>ibid</italic>.]. On the other hand, the applied methods, MAVT and SAW, belong to compensatory MC(D)A techniques [<italic>ibid</italic>.]. This means that a very bad scoring for one attribute can be compensated by a very good scoring for another and <italic>vice versa</italic>. Furthermore, instead of determining specific value functions for each participant, we assumed linearity. The main reason was to avoid overstraining participants. Furthermore, the statistical approach is rather simple but viable. As featured by [<xref ref-type="bibr" rid="R34">34</xref>], who demand a “more transparent, simple, and easily accessible participatory modelling paradigm and process”, we thus consider the MCTA as a valid methodological extension of the MC(D)A. Finally, visualisations support communication of results to and between participants. Graphs are designed so that they can effectively help (i) to reveal issues that need to be addressed before considering a technology suitable for sustainable community development, (ii) to identify the specific fields where further improvements of the technology are needed, and, finally, (iii) to avoid potential project ruptures in the future.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Selected Results from Pre-Testing the Tool</title>
+            <p>In order to perceive the feasibility of the developed method and tool, we performed a pre-testing of the MCTA. [-10]In this section we firstly show how participants weighted the different main-criteria describing the overall sustainability. Subsequently, we present selected results of the sustainability assessment of cooking and sanitation alternatives. We provide additional graphical visualizations alongside plot data in the Supplements.</p>
+            <p>
+               <underline>Weighting of main-criteria:</underline> In the course of MCTA’s pre-test, the choice group of participants assigned, on average, the highest weights to the environmental main-criterion; the political-legal objective is perceived as least important (Figure <xref ref-type="fig" rid="Fig3">3</xref>). Second in level of importance are the remaining four main-criteria with no significant differences (Figure S.2). We further find a high variance in the distribution of weights of all participants. Weightings among participants are most divergent for socio-cultural criteria (<inline-formula>
+                  <mml:math id="S5.SS2.p2.m1"
+                            alttext="\Delta^{max}_{min}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msubsup>
+                        <mml:mi mathvariant="normal">Δ</mml:mi>
+                        <mml:mrow>
+                           <mml:mi>m</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>i</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>m</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>a</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>x</mml:mi>
+                        </mml:mrow>
+                     </mml:msubsup>
+                  </mml:math>
+               </inline-formula> 
+               <inline-formula>
+                  <mml:math id="S5.SS2.p2.m2"
+                            alttext="\approx"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≈</mml:mo>
+                  </mml:math>
+               </inline-formula> 20%) and least divergent for political/legal criteria (<inline-formula>
+                  <mml:math id="S5.SS2.p2.m3"
+                            alttext="\Delta^{max}_{min}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msubsup>
+                        <mml:mi mathvariant="normal">Δ</mml:mi>
+                        <mml:mrow>
+                           <mml:mi>m</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>i</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mi>m</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>a</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>x</mml:mi>
+                        </mml:mrow>
+                     </mml:msubsup>
+                  </mml:math>
+               </inline-formula> 
+               <inline-formula>
+                  <mml:math id="S5.SS2.p2.m4"
+                            alttext="\approx"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≈</mml:mo>
+                  </mml:math>
+               </inline-formula> 11%).</p>
+            <p>Comparing weights assigned by participants, there is a tendency that Tanzanians consider health/hygiene and environmental criteria more important in comparison to Germans. German representatives, in contrast, perceive technological-operational and socio-cultural criteria as more important compared to Tanzanians.</p>
+            <p>We explain the finding that stakeholders consider the environment to be the most important dimension of sustainability because the environmental main-criterion include many sub-criteria related to agriculture, and is consequently perceived as highly important for smallholders. On the contrary, according to [<xref ref-type="bibr" rid="R55">55</xref>], residents in the vicinity of Arusha/TZ do not consider environment as an important objective when choosing renewable energy technologies for electrification. Only one interviewee out of about 40 respondents, who were mainly farmers, addressed an environmental criterion as an influencing factor to purchase a solar home system [<italic>ibid.</italic>]. Respondents instead mentioned health and hygiene as the most important objectives for their families [<italic>ibid.</italic>].
+</p>
+            <p>Additionally, [<xref ref-type="bibr" rid="R56">56</xref>] state that environmental criteria are less relevant for residents when assessing sanitation systems in a peri-urban area in Burkina Faso. In order to perceive a certain sanitation system as appropriate, factors such as costs and service quality are most relevant for participants [<italic>ibid.</italic>]. Nevertheless, we understand our finding that environmental criteria are most relevant, by the fact that (i) our study area is a rural area farther away from urban settlements compared to the study areas of [<xref ref-type="bibr" rid="R55">55</xref>] or [<xref ref-type="bibr" rid="R56">56</xref>] and (ii) that many participants in our study are closely related to environmental settings (e.g. farmers with off-farm income, agricultural technicians, environmental scientists, and environmental activists).</p>
+            <p>In other comparative studies of small-scale bioenergy technologies from SSA, however, highest weights are assigned to the technological-operational criterion. For example, in an assessment of ICSs available on the Tanzanian market, criteria related to the construction or operation of stoves ranked highest, such as manufacturability, durability, or portability [<xref ref-type="bibr" rid="R37">37</xref>]. Furthermore, stakeholders participating in an assessment of a biogas system in Bahir Dar, a city in northwest Ethiopia, consider technological-operational criteria as most important dimension of sustainability [<xref ref-type="bibr" rid="R23">23</xref>].</p>
+            <p>In our study, lowest priority is assigned to the political/legal main-criterion. We reason that there is little governmental support in TZ and especially in the study region, which is recognized by stakeholders, and thus influences their judgements. National programs for promoting renewable energies and supporting access to such technologies especially in rural areas of TZ include the Rural Energy Fund, the Rural Energy Agency, and the Tanzanian Domestic Biogas Program (TDBP) [<xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R57">57</xref>]. However, to our knowledge, these programs have not yet reached Karagwe. For example, TBDP has not yet chosen or appointed implementation partners in the region. According to [<xref ref-type="bibr" rid="R37">37</xref>], Tanzanian standards for cooking technologies are only available for charcoal stoves whilst existing standards are not enforced. Furthermore, governmental initiatives, intended to support bioenergy implementation, are not coordinated and, thus, largely inefficient [<italic>ibid.</italic>]. With respect to sanitation, [<xref ref-type="bibr" rid="R58">58</xref>] also criticizes a strong lack of legislation in the sector of non-sewer sanitation service in TZ.</p>
+            <p>The finding that only average importance is given to socio-cultural aspects is comparable to studies of [<xref ref-type="bibr" rid="R23">23</xref>] and [<xref ref-type="bibr" rid="R37">37</xref>] and in the study of [<xref ref-type="bibr" rid="R56">56</xref>] only minor importance is assigned to socio-cultural criteria.</p>
+            <fig id="Fig3" position="float" orientation="portrait">
+               <label>
+                  Figure 3: </label>
+               <caption>
+                  <title>Colour-coded scatter plot of the <italic>relative weights</italic> of the <italic>main-criteria</italic> (in%) of Tanzanian (red) and German (blue) participants alongside the mean of all participants (grey). [The sum of all six main-criteria is 100%.] </title>
+               </caption>
+               <graphic xlink:href="Fig3.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>
+               <underline>Sustainability assessment of cooking alternatives:</underline> When pre-testing the MCTA, all analysed alternatives reach average SI-values between 0 and <inline-formula>
+                  <mml:math id="S5.SS2.p10.m1"
+                            alttext="+"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>+</mml:mo>
+                  </mml:math>
+               </inline-formula>1 (Figure <xref ref-type="fig" rid="Fig4">4</xref>). Hence, the choice group of participants perceives cooking alternatives overall as “acceptable” and attributes a “good, ordinary” performance to respective technologies (cf. Table <xref ref-type="table" rid="Tab04">4</xref>). Mean values of the four alternatives, however, do not significantly differ from each other, as overlapping error bars in Figure <xref ref-type="fig" rid="Fig4">4</xref> indicate [<xref ref-type="bibr" rid="R54">54</xref>].</p>
+            <p>Regarding the six dimensions considered to assess sustainability, all stoves receive positive (weighted score <inline-formula>
+                  <mml:math id="S5.SS2.p11.m1"
+                            alttext="&gt;"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>&gt;</mml:mo>
+                  </mml:math>
+               </inline-formula>0) assessment results mainly for health/hygiene, socio-cultural or technological-operational (except biogas system) functions (Figure <xref ref-type="fig" rid="Fig5">5</xref>). Negative (weighted score <inline-formula>
+                  <mml:math id="S5.SS2.p11.m2"
+                            alttext="&lt;"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>&lt;</mml:mo>
+                  </mml:math>
+               </inline-formula>0) assessment results refer to socio-economic/financial (for charcoal and biogas alternatives) and environmental (for charcoal only) criteria.
+</p>
+            <p>When crosschecking the assessment results with literature, we consider our findings for cooking alternatives as highly comparable to [<xref ref-type="bibr" rid="R37">37</xref>]. In both studies, microgasifiers and rocket stoves receive positive scores because of their potential to reduce fuel consumption and greenhouse gas (GHG) emissions.</p>
+            <p>Interestingly, Tanzanian participants in particular assigned positive scores to the biogas system and for sub-criteria on GHG-emissions despite the fact that the description clearly stated that GHG-emissions would <italic>increase</italic> compared to cooking on a three-stone fire. We reason that Tanzanian stakeholders are aware of the minor influence of TZ on global GHG-emissions, compared to Germany, other European countries, or the United States. We further argue that there is a strong and positive pre-conception of the biogas system as an “environmental-friendly technology”. Regarding the usability of cooking technologies, all stakeholders participating in the MCTA agreed that the biogas system performs the worst of all alternatives analysed. Major problems identified are thereby (i) water requirements for a sound operation of the digester and (ii) lack of robustness of the system towards changes in climate conditions and user abuse. Also with respect to costs (including costs for implementation, operation, and maintenance), the biogas technology is assessed as the most disadvantageous cooking alternative. To underline scorings of costs, investment costs of locally available alternatives in Karagwe are as follows: costs for implementing a biogas system are approximately €1,200 , which makes possessing a biogas digester a substantial investment for smallholders. In comparison, acquisition costs of charcoal stoves or ICSs range from 2 to about €25 (cf. Table A.5). Furthermore, [<xref ref-type="bibr" rid="R57">57</xref>] identify high installation and maintenance costs as key barriers for biogas implementation in TZ, despite the fact that households are willing to adopt the technology. Hence, [<xref ref-type="bibr" rid="R57">57</xref>] conclude that implementing biogas in rural areas requires financial support by national programs through subsidies and/or loans.</p>
+            <fig id="Fig4" position="float" orientation="portrait">
+               <label>
+                  Figure 4: </label>
+               <caption>
+                  <title>The average sustainability index (SI) of cooking alternatives analysed, presented as mean value of all participants and in ranked order. The SI-values range from <inline-formula>
+                        <mml:math id="S5.SS2.p14.m1"
+                                  alttext="-"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:mo>-</mml:mo>
+                        </mml:math>
+                     </inline-formula>10 to <inline-formula>
+                        <mml:math id="S5.SS2.p14.m2"
+                                  alttext="+"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:mo>+</mml:mo>
+                        </mml:math>
+                     </inline-formula>10 (cf. Table <xref ref-type="table" rid="Tab04">4</xref>). Grey bars indicate the standard error of the mean (SEM).</title>
+               </caption>
+               <graphic xlink:href="Fig4.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Considering the perceptions of stakeholder groups, we find a very high variance in individual valuations of participants. On the example of the rocket stove, weighted scores of main criteria range from <inline-formula>
+                  <mml:math id="S5.SS2.p15.m1"
+                            alttext="-"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>-</mml:mo>
+                  </mml:math>
+               </inline-formula>5 (“unfavourable”) to <inline-formula>
+                  <mml:math id="S5.SS2.p15.m2"
+                            alttext="+"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>+</mml:mo>
+                  </mml:math>
+               </inline-formula>7 (“clearly favourable”) between participants (Figure <xref ref-type="fig" rid="Fig5">5</xref>). With respect to the SI, most Tanzanian representatives assess charcoal burners, rocket stoves, and microgasifiers negatively and below the average SI (Figure S.3). German participants, however, assess these technologies with positive and above-average valuations. A reverse tendency, however, is depicted for the biogas systems: judgements of German participants are rather negative and below the average SI, whilst Tanzanians assess the technology positively and above the average SI. Most prominently, staff members of CHEMA ascribe the highest positive points to rocket and microgasifier stoves, which are the cooking technologies that CHEMA disseminates. Likewise, staff members of MAVUNO rate ICSs with rather negative scores compared to the biogas system, which is the technology MAVUNO promotes in Karagwe.</p>
+            <p><underline>Sustainability assessment of sanitation alternatives:</underline> Pre-testing the MCTA, all alternatives reach average SI-values in the range of about <inline-formula>
+                  <mml:math id="S5.SS2.p16.m1"
+                            alttext="-"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>-</mml:mo>
+                  </mml:math>
+               </inline-formula>2 to <inline-formula>
+                  <mml:math id="S5.SS2.p16.m2"
+                            alttext="+"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>+</mml:mo>
+                  </mml:math>
+               </inline-formula>2 (Figure <xref ref-type="fig" rid="Fig6">6</xref>). Both ecological approaches to sanitation are rated significantly better compared to the septic alternative. There is, however, no significant difference in the assessment of EcoSan and CaSa because respective error bars in Figure <xref ref-type="fig" rid="Fig6">6</xref> overlap [<xref ref-type="bibr" rid="R54">54</xref>]. Overall, the performance of EcoSan and CaSa approaches is assessed as “good or ordinary”, which means that the choice group of participants values both approaches as “acceptable” to “slightly favourable” alternatives. On the contrary, participants assess the septic alternative as “slightly unfavourable” alternative.
+</p>
+            <p>Regarding the six sustainability dimensions, EcoSan and CaSa receive positive assessment results mainly for technological-operational, environmental, and socio-economic/financial functions (Figure <xref ref-type="fig" rid="Fig7">7</xref>). Negative assessment results refer, in particular, to the political/legal criterion. Shortcomings of the septic alternative mainly refer to the environmental, health/hygiene, and socio-economic/financial criteria.</p>
+            <p>Crosschecking our results with literature, the observation that a clearly better socio-economic/financial performance is assigned to the ecological approaches compared to the septic alternatives, is in line with [<xref ref-type="bibr" rid="R56">56</xref>]. For the case of Burkina Faso, [<xref ref-type="bibr" rid="R56">56</xref>] report that in particular low- and middle-income households perceive the UDDT as more financially appropriate compared to septic tanks. Strategic thinking, which includes considering operational costs as an important factor, influences households’ judgements [<xref ref-type="bibr" rid="R56">56</xref>]. In contrast, high-income households consider the septic system as more appropriate compared to the UDDT, because for this social group factors such as service quality are more important than costs [<italic>ibid.</italic>]. Farmers in Karagwe belong, however, mainly to low- and middle-income household groups [<xref ref-type="bibr" rid="R14">14</xref>]. (Table A.5 summarizes costs of sanitation alternatives.)</p>
+            <p>The pre-test further indicated certain doubts about the approaches, in particular on the sub-criteria “safe working conditions” and “safety in operation through avoiding risks of infection to users”. In contrast, literature commonly promotes EcoSan as a <italic>safe</italic> sanitation alternative because of the multi-barrier approach applied [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R59">59</xref>]. To our knowledge, there were, however, no instances of sickness during the course of the CaSa pilot project that ran more than four years. Further investigations might follow-up this significant observation (cf. Section 4.2.). In total, the performance of ecological alternatives against the health/hygiene main-criterion is neutral. [-10]Our finding ultimately supports integrating health/hygiene as criterion when assessing sanitation technologies. This helps to identify areas of conflict, as shown in our case. Health/hygiene criteria should, therefore, not be excluded from analyses as it was, for example, the case in studies by [<xref ref-type="bibr" rid="R56">56</xref>] or [<xref ref-type="bibr" rid="R60">60</xref>].</p>
+            <p>Furthermore, we find that socio-cultural performances assessed for EcoSan and CaSa alternatives are comparable to assessment results for the septic system. We attribute this finding to the practical demonstration of UDDT-technology in the region. On the contrary, [<xref ref-type="bibr" rid="R56">56</xref>] identify UDDT as less socio-culturally accepted compared to a septic system and, therefore, request more alternatives and their advantages and disadvantages before assessing the technologies. This was exactly the case in the CaSa pilot project’s course.</p>
+            <p>Perceptions of stakeholder groups with respect to the average SI assigned to sanitation alternatives (Figure S.4) reveals as well high variations in assessment results. The EcoSan alternative, for example, weighted scores of main criteria range from <inline-formula>
+                  <mml:math id="S5.SS2.p21.m1"
+                            alttext="-"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>-</mml:mo>
+                  </mml:math>
+               </inline-formula>7.5 (“clearly unfavourable”) to <inline-formula>
+                  <mml:math id="S5.SS2.p21.m2"
+                            alttext="+"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>+</mml:mo>
+                  </mml:math>
+               </inline-formula>6.5 (“clearly favourable”) between participants (Figure <xref ref-type="fig" rid="Fig5">5</xref>). Nonetheless, the characteristic patterns of stakeholders’ valuations differ here. For both ecological alternatives, Tanzanian stakeholders assess negatively and below the average SI, whilst German participants rate the alternatives clearly positive and above the average SI. In contrast, most German participants assess the septic alternative as clearly more negative and below the average SI compared to their Tanzanian fellows. Only for the septic system, the assessments of all participants are rather homogenous and less differentiated compared to other sanitation technologies. In addition, the septic alternative receives an average negative SI from all except one participant. Most prominent is, however, that one German participant, who has been strongly involved in designing, developing, and testing the CaSa-approach, assigns the highest positive scores to that sanitation alternative.</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Reflection and Critique of the Assessment Methodology and Process</title>
+            <p>In this section we firstly summarize experiences, insights, and lessons learned, that derived from the participatory pre-test of the MCTA regarding the assessment process and tool. Next, we discuss certain shortcomings of the methodology. Specific adjustments we recommend for future applications of the MCTA are summarized in Section 4.2.</p>
+            <p>In the first instance, the participatory design of the method we developed is a direct response to [<xref ref-type="bibr" rid="R34">34</xref>], who stress the need to develop more participatory elements at all levels of MC(D)A to make the method applicable in real-world practices. The relevant problem addressed is the ex-ante sustainability assessment of small-scale cooking and sanitation technologies in the exemplary context of smallholder communities in Karagwe, TZ.</p>
+            <fig id="Fig6" position="float" orientation="portrait">
+               <label>
+                  Figure 6: </label>
+               <caption>
+                  <title>The overall sustainability index (SI) of sanitation alternatives analysed, presented as mean value of all participants and in ranked order. The SI-values range from <inline-formula>
+                        <mml:math id="S5.SS3.p3.m1"
+                                  alttext="-"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:mo>-</mml:mo>
+                        </mml:math>
+                     </inline-formula>10 to <inline-formula>
+                        <mml:math id="S5.SS3.p3.m2"
+                                  alttext="+"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:mo>+</mml:mo>
+                        </mml:math>
+                     </inline-formula>10 (cf. Table <xref ref-type="table" rid="Tab04">4</xref>). Grey bars indicate the standard error of the mean (SEM).</title>
+               </caption>
+               <graphic xlink:href="Fig6.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig-group id="Fig5">
+               
+               <caption>
+                  <p>Figure 5: Colour-coded scatter plot for the four cooking alternatives analysed (charcoal stove, rocket stove, microgasifier,
+                     biogas system) indicating the assessment results of Tanzanian (red) and German participants (blue) alongside the mean of
+                     all participants (grey). Results are shown on the level of the six main-criteria. Values range from − 10 to + 10 (cf. Table <xref ref-type="table" rid="Tab04">4</xref>).</p>
+               </caption>
+            <fig id="Fig5a" position="float" orientation="portrait">
+               <graphic xlink:href="Fig5a.png"
+                  position="float"
+                  orientation="portrait"
+                  xlink:type="simple"/>
+            </fig>
+               <fig id="Fig5b" position="float" orientation="portrait">
+                  <graphic xlink:href="Fig5b.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+               </fig>
+               <fig id="Fig5c" position="float" orientation="portrait">
+                  <graphic xlink:href="Fig5c.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+               </fig>
+               <fig id="Fig5d" position="float" orientation="portrait">
+                  <graphic xlink:href="Fig5d.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+               </fig>
+            </fig-group>
+            <fig-group id="Fig7">
+               <caption>
+                  <p>Figure 7: Colour-coded scatter plot for the three sanitation alternatives analysed (EcoSan, CaSa, and septic system)
+                     indicating the assessment results of Tanzanian (red) and German participants (blue) alongside the mean of all participants
+                     (grey). Results are shown on the level of the six main-criteria. Values range from − 10 to + 10 (cf. Table <xref ref-type="table" rid="Tab04">4</xref>).</p>
+               </caption>
+            </fig-group>
+            <fig id="Fig7a" position="float" orientation="portrait">
+               <graphic xlink:href="Fig7a.png"
+                  position="float"
+                  orientation="portrait"
+                  xlink:type="simple"/>
+            </fig>
+            <fig id="Fig7b" position="float" orientation="portrait">
+               <graphic xlink:href="Fig7b.png"
+                  position="float"
+                  orientation="portrait"
+                  xlink:type="simple"/>
+            </fig>
+            <fig id="Fig7c" position="float" orientation="portrait">
+               <graphic xlink:href="Fig7c.png"
+                  position="float"
+                  orientation="portrait"
+                  xlink:type="simple"/>
+            </fig>
+            <p>We further learned that the visualisations of results, as integrated part of the MCTA-tool, are highly supportive to shed light on individual perspectives and valuations of stakeholders for the assessed alternatives. The visualisations help to make subjectivity in scoring results transparent. Here, we agree with [<xref ref-type="bibr" rid="R40">40</xref>] who emphasises that showing stakeholders each other’s preferences is rather one of the most relevant results of conducting an MC(D)A. The visualisations further allow for a target-oriented improvement to overcome shortcomings of the technologies. [15]Due to the low sample size and the high variance we observed in the tool’s pre-test, some visualization are not discussed thoroughly in this article. They are, however, presented in the Supplements (cf. Figures S.5–S.8).</p>
+            <p>As other benefits of the MCTA, we concluded that the assessment process promotes collaborative learning and a better understanding of the technologies assessed. Final feedback revealed that five out of six participants articulated that the MCTA supported them in forming their own opinion about the technologies (Figure S.9). Hence, our method reacts on [<xref ref-type="bibr" rid="R61">61</xref>] who promote “embedded learning”, that is integrating recent findings and sustainability assessment. This integration also constitutes an important part of the analytical tool we developed. Information that is provided to participants during the assessment process and describe various impacts of the technologies assessed, originate <italic>inter alia</italic> from recent action research conducted in Karagwe.</p>
+            <p>Despite these benefits, we further experienced the challenge of “balancing three tensions: (i) maintaining scientific credibility, (ii) assuring practical saliency, and (iii) legitimising the process to multiple participants” [<xref ref-type="bibr" rid="R62">62</xref>]. In particular, we identify certain limitations referring to (I) the choice of alternatives and participants, (II) the realised means of participation, (III) time consumption, communication effort and complexity, and (IV) gender balance.</p>
+            <p>(I) Firstly, we acknowledge that technologies mostly applied for the time being, which are three-stone fire and pit latrine, are not among the alternatives assessed. One could further criticise the fact that farmers were not involved in the assessment even though they represent the party most concerned and that the technologies assessed were developed to improve livelihoods of smallholders. [10]Reasons for conducting a pre-test of the MCTA-tool with local representatives limited to NGOs’ staff members are disclosed in Section 2.3. Our proceeding is supported by [<xref ref-type="bibr" rid="R63">63</xref>] who also recommend establishing intermediaries between research institutions and farmers when evaluating agricultural projects. Culture and social standing of research and/or NGOs can inhibit reciprocal communication between researchers and farmers.</p>
+            <p>(II) We acknowledge that the MCTA process is not participatory throughout as intended. This is a consequence of additional empirical data generated and that we faced a conflict between the scope of the work and the available time budget when actually starting the pre-test. Hence, we had to adapt the 9-steps-approach. Initially we wanted to include more feedback loops during the process, for example, in order to discuss experiences after scoring, and, thereafter, offering participants the opportunity to adapt their valuations. Moreover, the assessment was conducted separately, meaning that Tanzanian participants were in TZ and German participants in Germany. This fact results, in limited insights into the individual perceptions and, thus, inhibits <italic>joint</italic> understanding and learning of participants.</p>
+            <p>(III) We understand that high time consumption is often reported as a problem when conducting a participatory MC(D)A [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. Nonetheless, in the final feedback, most participants judged the scope of the MCTA, defined by time budget, details, number of criteria, clarity of the task, amount of information, etc., as good and to cope with (Figure S.9). Moreover, extensive communication (via e-mail and Skype) between the planner and individual participants was required to identify and solve possible misunderstandings. For example, participants scored alternatives significantly different although the performance of these alternatives was described as strongly comparable. Differing backgrounds of participants might explain this, as well as the problems they faced in understanding all (scientific and non-scientific) terms used in the descriptions. Participants might also simply not agree with the description provided, due to contrasting personal experiences and knowledge. However, because of the decentralized process we applied, it was not possible to directly address these observations, for example in individual or group discussions.
+</p>
+            <p>(IV) Lastly, we acknowledge that we pre-tested the MCTA-tool with in total two females and eight males; both women <italic>white</italic> and with academic background. Hence, we failed to reach a gender balance and, in particular, to include female representatives of Tanzanian partners. We attribute this shortcoming (i) to choosing English as working language, and (ii) to a general dominance of men at the level of project coordination and/or management in the participating NGO communities.</p>
+            <p>With regards to differences in stakeholders’ perceptions, our findings are further in line with [<xref ref-type="bibr" rid="R29">29</xref>], who state that applying a MC(D)A-approach does not create an objective, unbiased, and value-free analysis. In a nutshell: individual perspectives and subjective judgements are “normal”. [-20]It is hence a methodological challenge to make these differences visible instead of neglecting them. For example, we found that assessments of participants in the pre-test seem substantially biased towards the technology they promote. Visualizing these differences expediently is only the first step. The lack of group discussion (as part of the step 8; cf. Section 2.3.) is a clear shortcoming. For example, we have no specific insights into <italic>why</italic> differences exist and which arguments underlie the variations observed. Interpretation of results (by participants and the authors) is thus largely based on guesswork.</p>
+            <p>According to the final feedback, two thirds of participants believe that the MCTA is also applicable within their community if further adapted (cf. Section 4.3). In particular, the tool can help (i) to clarify existent doubts and expected benefits, (ii) to stimulate discussions, and (iii) to compare varying assessments of projects facilitating NGOs and local communities.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Conclusions &amp; Recommendations</title>
+         <p>In this section, we firstly summarize overall conclusions from the work presented with respect to developing the MCTA (Section 4.1.) and the pre-test (Section 4.2). We close the article with a summary of recommendations to adapt the tool for future real-world applications in Karagwe or elsewhere (Section 4.3).</p>
+         <sec id="s4.1">
+            <title>4.1.- Scientific Relevance of the Methodological Work</title>
+            <p>With respect to the objective to develop an integrated method for a participatory sustainability assessment, we conclude the following strengths and benefits of the MCTA method and tool:</p>
+          <list>
+             <list-item>
+                <p>Inclusion of a set of relevant criteria for assessing sustainability of small-scale cooking and sanitation technologies, which can also serve as a catalogue from which specific criteria for a given context can be chosen.</p>
+             </list-item>
+             <list-item>
+                <p>Adequate organization of available data that describe various effects of technology implementation in relation to sustainability and to a particular objective-driven decision, such as sustainable community development.</p>    
+             </list-item>
+             <list-item>
+                <p>Realization of a transparent computational approach with a combination of applicable methods and a replicable Excel-tool.</p>    
+             </list-item>
+             <list-item>
+                <p>In-depth exploration of different alternatives with respect to their sustainability and in an iterative effort and moderated process.</p>    
+             </list-item>
+             <list-item>
+                <p>Instructive presentation of the current understanding of the analysed technologies by aggregating judgements of individual participants into a ranking of alternatives.</p>    
+             </list-item>
+             <list-item>
+                <p>Target-oriented mapping of individual perceptions in order to effectively track conflicting stakeholder opinions and to react to conflicts at an early stage, for example, <italic>before</italic> a decision for implementation is made.</p>    
+             </list-item>
+             <list-item>
+                <p>Target-oriented identification of the most relevant aspects where improvements of the analysed technologies are still needed.</p>    
+             </list-item>
+          </list>
+            
+            
+            <p>From a methodological perspective, combining the MC(D)A with analytical methods is a viable <italic>integrated approach</italic> to sustainability assessment. On one hand, MC(D)A helps to structure the assessment. On the other, the integration of results from analytical studies, such as MFA, SNB, or laboratory analysis, allows for illustrating the performance of alternatives assessed through semi-quantitative objectives of sustainability, and particularly the environmental dimension.</p>
+            <p>Finally, the developed method provides hands-on support through a decent set of criteria and a basic assessment tool. Basic skills in Excel are the main requirement for using the MCTA-tool. Nevertheless, conducting an MCTA is an extensive process that demands considerable time budgets and a strong commitment from all participants.</p>
+            <p>To summarize, we conclude that the MCTA is an appropriate and applicable method to analyse potential effects and interrelations of different cooking and sanitation technologies on household levels. The method also indicates contradictions with respect to different sustainability goals. In addition, the MCTA enhances transparency about individual preferences, values, doubts, and objectives among all participants, respectively stakeholders.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Practical Relevance of Pre-Test Results</title>
+            <p>Even though the number of individuals participating in the pre-test of the MCTA was rather small, we conclude:</p>
+          <list>
+             <list-item>
+                <p>All cooking and sanitation alternatives need further improvements before considering the technologies as appropriate and viable options for sustainable community development.</p>
+             </list-item>
+             <list-item>
+                <p>Further improvements include enhancing the technological-operational and socio-economic/financial performance of the technologies and pushing political/legal actions that support the implementation of cooking and sanitation technologies on household levels.</p>    
+             </list-item>
+             <list-item>
+                <p>Valuations of alternatives clearly differ between participants and, in particular, with respect to different groups of stakeholder representatives.</p>
+             </list-item>
+          </list>
+            
+            <p>With respect to the latter, representatives of the German project partners generally tend to be more enthusiastic about the analysed technologies while representatives of the Tanzanian partners are more sceptical. This observation holds true especially for the ICSs technologies, such as microgasifier and rocket stoves, and the EcoSan and CaSa sanitation alternatives. Technologies that are more common and established in both countries, such as biogas or septic systems, are assessed more similarly among participants. Another example for varying assessments is that representatives of the implementing NGOs and of the technology-developers or scientific partners tend to favour the alternative that they have supported and accompanied, and, likewise, rate competing technologies below average.</p>
+            <p>From our hands-on experience in facilitating the MCTA pre-test, we finally hypothesise that the higher the assessors diversity with respect to education, language, class, and scientific or practical experiences and knowledge, (i) the more difficult the process because of uncertainties about the common understanding and (ii) the more important the process and the more interesting the results. Testing this hypothesis could be subject of future scientific MC(D)A work.</p>
+            <p>Pre-testing the MCTA with a choice group of participants can serve as a basic proof-of-concept, with the method as a simple but viable sustainability assessment tool for the multi-perspective evaluation of cooking and sanitation alternatives. Hence, we conclude that, by providing a framework and a tool, the MCTA can effectively support case studies and relevant strategic planning and decision-making. Moreover, the MCTA is also practicable for other real-world applications related to small-scale cooking and sanitation technologies, such as in other regions and/or for other technologies.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Recommendations for Future Real-World Applications</title>
+            <p>If the MCTA is applied in a different setting, necessary adjustments include re-phrasing the descriptions of alternatives and adapting the set of criteria. To make the MCTA further applicable for its use in communities, methodological challenges and problems, as described in the preceding sections, need to be addressed. We thus recommend the following with respect to the choice of participants:</p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Inclusion of farmers or other <italic>end-users</italic> of the technologies as participants while avoiding the dominance of participants representing implementers, researchers, or donors.</p>
+               </list-item>
+               <list-item>
+                  <p>Inclusion of agency representatives in order to push policy development and/or national support programs, such as subsidies.</p>
+               </list-item>
+               <list-item>
+                  <p>Realisation of a larger number of participants.</p>
+               </list-item>
+               <list-item>
+                  <p>Awareness of an adequate gender balance in the assessment team.</p>
+               </list-item>
+            </list>
+            <p>In addition, we recommend the following with respect to the assessment process and method:</p>
+          <list>
+             <list-item>
+                <p>Reduction of complexity and workload, for example through intelligent reduction of the number of sub-criteria.</p>
+             </list-item>
+             <list-item>
+                <p>If possible, conducting the MCTA with participants located at one spot, at least during scoring or evaluation of results.</p>    
+             </list-item>
+             <list-item>
+                <p>Inclusion of more feedback loops through group meetings and discussions at different steps of the MCTA.</p>    
+             </list-item>
+             <list-item>
+                <p>Potentially, the assessment could also be conducted in separate groups for men and women in order to allow women to speak more openly.</p>    
+             </list-item>
+          </list>
+            
+            <p>Reducing the number of sub-criteria could follow a participatory approach comprising, firstly, a moderated discussion about the existing catalogue of sub-criteria and, thereafter, a selection of those criteria considered as the most relevant. Methodologically, the “silent negotiation” could be applied in a moderated workshop, which helps to cope with power-imbalances in the consortium [<xref ref-type="bibr" rid="R24">24</xref>]. If practitioners do not aim at running through a whole assessment process, the existing catalogue of criteria could also serve to structure focus group discussions or community assemblies. Moderated discussions between participants can help to enhance the joint understanding of arguments that underlie and explain differences in the quantitative assessments. For example, a group discussion after reading the descriptions can help to ease a common understanding about the information provided <italic>before</italic> scoring the alternatives. At the same time, such a discussion could help to alleviate the time budget of the facilitator for clarifying open questions from participants. With more time available, another option could be to firstly conduct scoring of alternatives without description, secondly with description prepared by the planner, and finally to compare and to discuss results together. Finally, and with respect to the alternatives, we recommend the inclusion of technologies that are most commonly applied so far to support a comparison of alternatives to the actual real-world situation.</p>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Status of the World's Soil Resources (SWSR)-Main Report</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>FAO</surname>
+                  </name>
+               </person-group>
+               <source>Food and Agriculture Organization of the United Nations and Intergovernmental Technical Panel on Soils, Rome, Italy</source>
+               <volume>650</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Agriculture at a crossroads</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kiers</surname>
+                     <given-names>E Toby</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leakey</surname>
+                     <given-names>Roger RB</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Izac</surname>
+                     <given-names>Anne-Marie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Heinemann</surname>
+                     <given-names>Jack A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rosenthal</surname>
+                     <given-names>Erika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nathan</surname>
+                     <given-names>Dev</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jiggins</surname>
+                     <given-names>Janice</given-names>
+                  </name>
+               </person-group>
+               <source>SCIENCE-NEW YORK THEN WASHINGTON-</source>
+               <volume>320</volume>
+               <issue>5874</issue>
+               <fpage>320</fpage>
+               <year>2008</year>
+               <pub-id pub-id-type="doi">10.1126/science.1158390</pub-id>
+               <publisher-name>Citeseer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Peak phosphorus: clarifying the key issues of a vigorous debate about long-term phosphorus security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cordell</surname>
+                     <given-names>Dana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>White</surname>
+                     <given-names>Stuart</given-names>
+                  </name>
+               </person-group>
+               <source>Sustainability</source>
+               <volume>3</volume>
+               <issue>10</issue>
+               <fpage>2027</fpage>
+               <lpage>2049</lpage>
+               <pub-id pub-id-type="doi">10.3390/su3102027</pub-id>
+               <year>2011</year>
+               <publisher-name>Molecular Diversity Preservation International</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The physical science basis</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Climate Change, IPCC</surname>
+                  </name>
+               </person-group>
+               <source>Contribution of Working GroupI to the Fifth Assessment Report of the Intergovernmental Panel onClimate Change. United Nations: Geneva</source>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>World's soils are under threat</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Montanarella</surname>
+                     <given-names>Luca</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pennock</surname>
+                     <given-names>Daniel Jon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McKenzie</surname>
+                     <given-names>Neil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Badraoui</surname>
+                     <given-names>Mohamed</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chude</surname>
+                     <given-names>Victor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baptista</surname>
+                     <given-names>Isaurinda</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mamo</surname>
+                     <given-names>Tekalign</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yemefack</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Singh Aulakh, Mikha</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yagi</surname>
+                     <given-names>Kazuyuki</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Soil</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>79</fpage>
+               <lpage>82</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.5194/soil-2-79-2016</pub-id>
+               <publisher-name>Copernicus GmbH</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Planetary boundaries: Guiding human development on a changing planet</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steffen</surname>
+                     <given-names>Will</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richardson</surname>
+                     <given-names>Katherine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rockström</surname>
+                     <given-names>Johan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cornell</surname>
+                     <given-names>Sarah E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fetzer</surname>
+                     <given-names>Ingo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bennett</surname>
+                     <given-names>Elena M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Biggs</surname>
+                     <given-names>Reinette</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carpenter</surname>
+                     <given-names>Stephen R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>De Vries, Wim</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Wit, Cynthia A</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <volume>347</volume>
+               <issue>6223</issue>
+               <fpage>1259855</fpage>
+               <year>2015</year>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+               <pub-id pub-id-type="doi">10.1126/science.1259855</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Planetary boundaries of agriculture and nutrition-an Anthropocene approach</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meier</surname>
+                     <given-names>Toni</given-names>
+                  </name>
+               </person-group>
+               <fpage>67</fpage>
+               <comment>In: Proceedings of the Symposium on Communicating and Designing the Future of Food in the Anthropocene. Humboldt University Berlin. Bachmann Verlag, Berlin, Germany.</comment>
+                                        
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Revised World Soil Charter</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>FAO</surname>
+                  </name>
+               </person-group>
+               <source>Food and Agriculture Organization of the United Nations (FAO).</source>
+               <year>2015</year>
+               <date-in-citation>cited 2007 Apr 18</date-in-citation>
+               <comment>Available at:
+                  <uri>http://www.fao.org/3/a-i4965e.pdf</uri>.
+               </comment>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Declaration of the International Forum for Agroecology</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>La Via Campesina</surname>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <date-in-citation>cited 2016 Nov 15</date-in-citation>
+               <comment>Available at:
+                  <uri>https://viacampesina.org/en/index.php/main-issues-mainmenu-27/sustainable-peasants-agriculture- mainmenu-42/1749-declaration-of-the-international-forum-for-agroecology</uri>.
+               </comment>
+                                        
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>International assessment of agricultural knowledge, science, and technology for development (IAASTD) sub-Saharan Africa summary for decision makers</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Markwei</surname>
+                     <given-names>Carol</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ndlovu</surname>
+                     <given-names>Lindela</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>Elizabeth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shah</surname>
+                     <given-names>WP</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <publisher-name>Rep., Food Agric., Nat. Resour. Policy Anal. Netw., Pretoria, S. Afr. http://www. fanrpan. org/documents/d00522/IAASTD\_summary\_decision\_makers. pdf Article Location</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Energie aus Biomasse-Grundlagen, Techniken und Verfahren. 2009</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kaltschmitt</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hartmann</surname>
+                     <given-names>Hans</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hofbauer</surname>
+                     <given-names>Hermann</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Heidelberg Dordrecht London NewYork: Springer</publisher-name>
+               <isbn>978-3-540-85095-3</isbn>
+                     
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Closing the loop: ecological sanitation for food security.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Esrey</surname>
+                     <given-names>Steven A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andersson</surname>
+                     <given-names>Ingvar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hillers</surname>
+                     <given-names>Astrid</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sawyer</surname>
+                     <given-names>Ron</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <comment>Water Resources No. 18. Sweden/Mexico: Swedish International Development Cooperation Agency (SIDA)</comment>
+                        
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The state of family farms in the world</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Graeub</surname>
+                     <given-names>Benjamin E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chappell</surname>
+                     <given-names>M Jahi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wittman</surname>
+                     <given-names>Hannah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ledermann</surname>
+                     <given-names>Samuel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kerr</surname>
+                     <given-names>Rachel Bezner</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gemmill-Herren, Barbara</surname>
+                  </name>
+               </person-group>
+               <source>World Development</source>
+               <volume>87</volume>
+               <fpage>1</fpage>
+               <lpage>15</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1016/j.worlddev.2015.05.012</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>National Sample Census of Agriculture 2007/2008</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>URoT</surname>
+                  </name>
+               </person-group>
+               <source>Volume VI: Regional Report: Mbeya Region. Tanzania: National Bureau of Statistics</source>
+               <fpage>1</fpage>
+               <lpage>326</lpage>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Land and natural resources conflicts in trans-boundary agro-ecosystem management project, Kagera basin</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ogola</surname>
+                     <given-names>SA</given-names>
+                  </name>
+               </person-group>
+               <source>Food and Agriculture Organization (FAO) of the United Nations. Retrieved January</source>
+               <volume>8</volume>
+               <fpage>2014</fpage>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The homegarden agroforestry system of Bukoba district, North-Western Tanzania. 1. Farming system analysis</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rugalema</surname>
+                     <given-names>GH</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Okting'Ati, A</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnsen</surname>
+                     <given-names>FH</given-names>
+                  </name>
+               </person-group>
+               <source>Agroforestry Systems</source>
+               <volume>26</volume>
+               <issue>1</issue>
+               <fpage>53</fpage>
+               <lpage>64</lpage>
+               <year>1994</year>
+               <publisher-name>Springer</publisher-name>
+               <pub-id pub-id-type="doi">10.1007/BF00705152</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Nutrient recycling from sanitation and energy systems to the agroecosystem-Ecological research on case studies in Karagwe, Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Ariane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kaupenjohann</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>George</surname>
+                     <given-names>Eckhardt</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koeppel</surname>
+                     <given-names>Johann</given-names>
+                  </name>
+               </person-group>
+               <source>African Journal of Agricultural Research</source>
+               <volume>10</volume>
+               <issue>43</issue>
+               <fpage>4039</fpage>
+               <lpage>4052</lpage>
+               <year>2015</year>
+               <publisher-name>Academic Journals</publisher-name>
+               <pub-id pub-id-type="doi">10.5897/AJAR2015.10102</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Excerpts from the self-conception of facilitating initiatives under-line the importance of sustainability and sustainable community development for our partner organizations. According to MAVUNO [88] the objective of the organisation is "(…) to empower rural people of Karagwe by (…) creating sustainable alternatives". Moreover, "projects are always planned and implemented in collaboration with community members in order to achieve sustainability and long term socio-economic and ecological improvement". CHEMA [89] envisions "(…) to increase awareness (…) of the relationship between environmental protection, sustainable agriculture and sustainable development" and "(…) to identify surrounding opportunities and put them into use in a sustainable manner".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Linking energy-sanitation-agriculture: Intersectional resource management in smallholder households in Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Ariane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rotter</surname>
+                     <given-names>Vera Susanne</given-names>
+                  </name>
+               </person-group>
+               <source>Science of the Total Environment</source>
+               <volume>590</volume>
+               <fpage>514</fpage>
+               <lpage>530</lpage>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2017.02.205</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic wastes from bioenergy and ecological sanitation as a soil fertility improver: a field experiment in a tropical Andosol</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Ariane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nehls</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>George</surname>
+                     <given-names>Eckhard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kaupenjohann</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+               </person-group>
+               <source>Soil</source>
+               <volume>2</volume>
+               <issue>2</issue>
+               <fpage>147</fpage>
+               <lpage>162</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.5194/soil-2-147-2016</pub-id>
+               <publisher-name>Copernicus GmbH</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Recycling improves soil fertility management in smallholdings in Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Ariane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rotter</surname>
+                     <given-names>Vera Susanne</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture</source>
+               <volume>8</volume>
+               <issue>3</issue>
+               <fpage>31</fpage>
+               <year>2018</year>
+               <pub-id pub-id-type="doi">10.3390/agriculture8030031</pub-id>
+               <publisher-name>Multidisciplinary Digital Publishing Institute</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>According to [90], Sustainability Assessment is defined as a method "to provide decision-makers with an evaluation of global to local integrated nature-society systems in short and long term perspectives in order to assist them to determine which actions should or should not be taken in an attempt to make society sustainable".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Feasibility assessment tool for urban anaerobic digestion in developing countries, a participatory multi-criteria assessment from a sustainability perspective applied in Bahir Dar, Ethiopia</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Christian</surname>
+                     <given-names>RL</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>MSc Thesis Environmental Science (Major in Environmental Technology), Wageningen University Netherlands, Final 24 January 2012 Google Scholar</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Multiple criteria decision analysis: an integrated approach</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Belton</surname>
+                     <given-names>Valerie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stewart</surname>
+                     <given-names>Theodor</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <publisher-name>Springer Science &amp; Business Media</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>According to [24], MCDA is "an umbrella term to describe a collection of formal approaches which seek to take explicit account of multiple criteria in helping individuals or groups explore decisions that matter".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>We use the abbreviation MCDA for referring to \textitMulti-Criteria Decision Analysis. Other established names for the method include multi criteria decision aid, multi attribute decision making, multi objective decision making, or multi criteria decision making [91].</comment>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>According to [29], a Multi-Criteria Analysis (MCA) "establishes preferences between options by reference to an explicit set of objectives that the decision making body has identified".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>The abbreviation MCA refers also to Multi-Criteria Assessment [32].</comment>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Multi-criteria analysis: a manual</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dodgson</surname>
+                     <given-names>John S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spackman</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearman</surname>
+                     <given-names>Alan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Phillips</surname>
+                     <given-names>Lawrence D</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Department for Communities and Local Government: London</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>An early history of multiple criteria decision making</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Köksalan</surname>
+                     <given-names>Murat</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wallenius</surname>
+                     <given-names>Jyrki</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zionts</surname>
+                     <given-names>Stanley</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Multi-Criteria Decision Analysis</source>
+               <volume>20</volume>
+               <issue>1-2</issue>
+               <fpage>87</fpage>
+               <lpage>94</lpage>
+               <year>2013</year>
+               <pub-id pub-id-type="doi">10.1002/mcda.1481</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <article-title>Multiple criteria decision analysis and sustainable development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Munda</surname>
+                     <given-names>Giuseppe</given-names>
+                  </name>
+               </person-group>
+               <source>Multiple criteria decision analysis: State of the art surveys</source>
+               <fpage>953</fpage>
+               <lpage>986</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1007/0-387-23081-5\_23</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Guide on multicriteria evaluation for Environmental Justice Organisations</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gerber</surname>
+                     <given-names>Julien-Fran\ccois</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Application of multicriteria decision analysis in environmental decision making</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kiker</surname>
+                     <given-names>Gregory A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bridges</surname>
+                     <given-names>Todd S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Varghese</surname>
+                     <given-names>Arun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Seager</surname>
+                     <given-names>Thomas P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Linkov</surname>
+                     <given-names>Igor</given-names>
+                  </name>
+               </person-group>
+               <source>Integrated environmental assessment and management</source>
+               <volume>1</volume>
+               <issue>2</issue>
+               <fpage>95</fpage>
+               <lpage>108</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1897/IEAM\_2004a-015.1</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Multi-criteria decision analysis in natural resource management: a critical review of methods and new modelling paradigms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mendoza</surname>
+                     <given-names>Guillermo A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martins</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <source>Forest ecology and management</source>
+               <volume>230</volume>
+               <issue>1-3</issue>
+               <fpage>1</fpage>
+               <lpage>22</lpage>
+               <year>2006</year>
+               <pub-id pub-id-type="doi">10.1016/j.foreco.2006.03.023</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Multi-criteria decision analysis in environmental sciences: ten years of applications and trends</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Ivy B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keisler</surname>
+                     <given-names>Jeffrey</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Linkov</surname>
+                     <given-names>Igor</given-names>
+                  </name>
+               </person-group>
+               <source>Science of the total environment</source>
+               <volume>409</volume>
+               <issue>19</issue>
+               <fpage>3578</fpage>
+               <lpage>3594</lpage>
+               <year>2011</year>
+               <pub-id pub-id-type="doi">j.scitotenv.2011.06.022</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Sustainability assessment of ecological sanitation using multi criteria analysis: A Case Study of Kabale, Uganda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>MUCUNGUZI</surname>
+                     <given-names>DOMINIC BANAGA</given-names>
+                  </name>
+               </person-group>
+               <comment>Dar es Salaam, Tanzania: University of Dar es Salaam; Masters Dissertation; 2010.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Improved Cook Stoves Assessment and Testing. Report of the ICS Taskforce</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rajabu</surname>
+                     <given-names>HM</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ndilanha</surname>
+                     <given-names>AE</given-names>
+                  </name>
+               </person-group>
+               <comment>Dar Es Salaam, Tanzania: University of Dar Es Salaam, SNV; 2013.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Sustainability impact assessment to improve food security of smallholders in Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schindler</surname>
+                     <given-names>Jana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Graef</surname>
+                     <given-names>Frieder</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>König</surname>
+                     <given-names>Hannes Jochen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mchau</surname>
+                     <given-names>Devotha</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Saidia</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sieber</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <source>Environmental Impact Assessment Review</source>
+               <volume>60</volume>
+               <fpage>52</fpage>
+               <lpage>63</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.eiar.2016.04.006</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Multi-criteria decision analysis. In: Lecture notes from Interdisciplinary PhD training week 'Is small sustainable?' author=Scholten, L Dar Es Salam, Tanzania</comment>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Multikriterielle Analyse zur Nachhaltigkeitsbewertung von Energiesystemen-Von der Theorie zur praktischen Anwendung</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilkens</surname>
+                     <given-names>Ines</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Combining risk assessment, life cycle assessment, and multi-criteria decision analysis to estimate environmental aspects in environmental management system</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>Kevin Fong-Rey</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ko</surname>
+                     <given-names>Chih-Yuan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fan</surname>
+                     <given-names>Chihhao</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Cheng-Wu</given-names>
+                  </name>
+               </person-group>
+               <source>The International Journal of Life Cycle Assessment</source>
+               <volume>17</volume>
+               <issue>7</issue>
+               <fpage>845</fpage>
+               <lpage>862</lpage>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.1007/s11367-012-0407-x</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Integrating multiple criteria decision analysis into participatory forest planning</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nordström</surname>
+                     <given-names>Eva-Maria</given-names>
+                  </name>
+               </person-group>
+               <volume>2010</volume>
+               <issue>77</issue>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A new approach to environmental decision analysis: Multi-criteria integrated resource assessment (MIRA)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stahl</surname>
+                     <given-names>Cynthia H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cimorelli</surname>
+                     <given-names>Alan J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chow</surname>
+                     <given-names>Alice H</given-names>
+                  </name>
+               </person-group>
+               <source>Bulletin of Science, Technology &amp; Society</source>
+               <volume>22</volume>
+               <issue>6</issue>
+               <fpage>443</fpage>
+               <lpage>459</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1177/0270467602238888</pub-id>
+               <publisher-name>Sage Publications Sage CA: Thousand Oaks, CA</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Here, the term \textittrifecta is used to describe an integrated system that consists of three sub-systems. Hence, "trifecta" was used synonymously to "triple"; (http://www.merriam-webster.com/dictionary/trifecta; accessed 27/09/2016). The PDF has later been adapted to `Intersectional Resource Management' [19].</comment>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A resource guide for hosting conversations that matter at the World Caf\'e</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>Juanita</given-names>
+                  </name>
+               </person-group>
+               <source>online], http://www. inscena. ch/fileadmin/user\_upload/inscena/pdf/worldcaf\'e. pdf</source>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Focus groups and methodological rigour outside the minority world: Making the method work to its strengths in Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jakobsen</surname>
+                     <given-names>Hilde</given-names>
+                  </name>
+               </person-group>
+               <source>Qualitative Research</source>
+               <volume>12</volume>
+               <issue>2</issue>
+               <fpage>111</fpage>
+               <lpage>130</lpage>
+               <year>2012</year>
+               <publisher-name>Sage Publications Sage UK: London, England</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A framework for systems analysis of sustainable urban water management</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hellström</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jeppsson</surname>
+                     <given-names>Ulf</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kärrman</surname>
+                     <given-names>Erik</given-names>
+                  </name>
+               </person-group>
+               <source>Environmental impact assessment review</source>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>311</fpage>
+               <lpage>321</lpage>
+               <year>2000</year>
+               <pub-id pub-id-type="doi">10.1016/S0195-9255(00)00043-3</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Integrated sustainable waste management: the concept. Tools for decision-makers. experiences from the urban waste expertise programme (1995-2001)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van de Klundert, Arnold</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anschütz</surname>
+                     <given-names>Justine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Scheinberg</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <publisher-name>WASTE</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Progress towards the Sustainable Development Goals. The Secretary-General. Report E/2016/75</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>UN</surname>
+                  </name>
+               </person-group>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Urban environmental problems: social and environmental injustices in solid waste management in Kinshasa, the Democratic Republic of Congo</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kubanza</surname>
+                     <given-names>Nzalalemba Serge</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Metabolism of the anthroposphere: analysis, evaluation, design</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baccini</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brunner</surname>
+                     <given-names>Paul H</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>MIT Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Assessment of soil nutrient depletion in Sub-Saharan Africa: 1983-2000. Vol. 2: Nutrient balances per crop and per land use systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stoorvogel</surname>
+                     <given-names>Jetse Jacob</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smaling</surname>
+                     <given-names>Eric Marc Alexander</given-names>
+                  </name>
+               </person-group>
+               <year>1990</year>
+               <publisher-name>ISRIC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Reclaiming the Definition of Sustainability (7 pp)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Santillo</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <source>Environmental Science and Pollution Research-International</source>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>60</fpage>
+               <lpage>66</lpage>
+               <year>2007</year>
+               <pub-id pub-id-type="doi">10.1065/espr2007.01.375</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Error bars in experimental biology</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cumming</surname>
+                     <given-names>Geoff</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fidler</surname>
+                     <given-names>Fiona</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vaux</surname>
+                     <given-names>David L</given-names>
+                  </name>
+               </person-group>
+               <source>The Journal of cell biology</source>
+               <volume>177</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <lpage>11</lpage>
+               <year>2007</year>
+               <pub-id pub-id-type="doi">10.1083/jcb.200611141</pub-id>
+               <publisher-name>Rockefeller University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Everyday understanding of energy and energy services in the context of sustainable implementation of micro-energy systems in Tanzania</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Friederici</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               
+               <comment>Berlin, Germany: Micro-energy system Research Program, TU Berlin; PhD project in progress.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Multi-Criteria Decision Analysis and choice of sanitation technology: challenge in urban water quality of Pouytenga, Burkina Faso</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>YIOUGO</surname>
+                     <given-names>Lydie SA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>KOANDA</surname>
+                     <given-names>Halidou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>WETHE</surname>
+                     <given-names>Joseph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>YONKEU</surname>
+                     <given-names>Samuel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>DA</surname>
+                  </name>
+               </person-group>
+               <source>Urban waters: Resource or Risk?</source>
+               <fpage>42</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Barriers and opportunities of biogas dissemination in Sub-Saharan Africa and lessons learned from Rwanda, Tanzania, China, India, and Nepal</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rupf</surname>
+                     <given-names>Gloria V</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bahri</surname>
+                     <given-names>Parisa A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Boer, Karne</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>McHenry</surname>
+                     <given-names>Mark P</given-names>
+                  </name>
+               </person-group>
+               <source>Renewable and Sustainable Energy Reviews</source>
+               <volume>52</volume>
+               <fpage>468</fpage>
+               <lpage>476</lpage>
+               <year>2015</year>
+               <pub-id pub-id-type="doi">10.1016/j.rser.2015.07.107</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Sustainable environmental protection using modified pit-latrines</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chaggu</surname>
+                     <given-names>Esnati James</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Practical guidance on the use of urine in crop production</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Richert</surname>
+                     <given-names>Anna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gensch</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jönsson</surname>
+                     <given-names>H\aakan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stenström</surname>
+                     <given-names>Thor Axel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dagerskog</surname>
+                     <given-names>Linus</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>SEI</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A decision support system for selecting sanitation systems in developing countries</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Loetscher</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keller</surname>
+                     <given-names>Jürg</given-names>
+                  </name>
+               </person-group>
+               <source>Socio-Economic Planning Sciences</source>
+               <volume>36</volume>
+               <issue>4</issue>
+               <fpage>267</fpage>
+               <lpage>290</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1016/S0038-0121(02)00007-1</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Sustainability assessment: the state of the art</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bond</surname>
+                     <given-names>Alan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Morrison-Saunders, Angus</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pope</surname>
+                     <given-names>Jenny</given-names>
+                  </name>
+               </person-group>
+               <source>Impact Assessment and Project Appraisal</source>
+               <volume>30</volume>
+               <issue>1</issue>
+               <fpage>53</fpage>
+               <lpage>62</lpage>
+               <year>2012</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Improving the flow of scientific information across the interface of forest science and policy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Joyce</surname>
+                     <given-names>Linda A</given-names>
+                  </name>
+               </person-group>
+               <source>Forest Policy and Economics</source>
+               <volume>5</volume>
+               <issue>4</issue>
+               <fpage>339</fpage>
+               <lpage>347</lpage>
+               <year>2003</year>
+               <pub-id pub-id-type="doi">10.1016/S1389-9341(03)00033-9</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Monitoring and evaluating agricultural science and technology projects: theories, practices and problems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Millstone</surname>
+                     <given-names>Erik</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Zwanenberg, Patrick</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marshall</surname>
+                     <given-names>Fiona</given-names>
+                  </name>
+               </person-group>
+               <source>IDS Bulletin</source>
+               <volume>41</volume>
+               <issue>6</issue>
+               <fpage>75</fpage>
+               <lpage>87</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1759-5436.2010.00185.x</pub-id>
+               <year>2010</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Department of Mechanical and Industrial Engineering, College of Engineering and Technology, University of Dar es Salaam, Tanzania (TZ).</comment>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>School of Environmental Science and Technology, Ardhi University, Dar es Salaam, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Department of Soil Science, Sokoine University of Agriculture, Morogoro, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Agricultural Research Institute of the Ministry of Agriculture, Food, and Cooperatives, Uyole, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Swiss Federal Institute of Aquatic Science and Technology (Eawag), Department of Sanitation, Water and Solid Waste for Development (Sandec), Dübendorf, Switzerland.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Centre for Research in Energy and Energy Conservation (CREEC), College of Engineering, Design, Art and Technology, Makerere University, Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Department of Agricultural Production, Makerere University, Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>School of Agricultural Science, College of Agriculture and Environmental Sciences, Makerere University, Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Caritas Development Office, national implementing partner of the TDBP, Roman Catholic Church Mbeya Region, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Centre for Agricultural Mechanisation and Rural Technology (CAMARTEC), national implementation agency of the TDBP, Arusha, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Section Sanitary Engineering and section Integral Design and Management, Department of water management, faculty of Civil Engineering and Geosciences, University of Technology, Delft, the Netherlands.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Awamu Biomass Energy Limited, Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Jellitone Suppliers Ltd., Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Joint energy and Environment Projects, Kampala, Uganda.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Bremen Overseas Research and Development Association, Dar Es Salaam, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Norges Vel East adn Southern Africa, Dar Es Salaam, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>SNV Netherland Development Organiszation, Arusha, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Department of Mechanical Engineering, Mbeya University of Science and Technology, Mbeya, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>"Is small sustainable? Decentralizing Infrastructures and Utility Systems in East Africa", PhD summerschool of TU Berlin and TU Darmstadt, Kurasini Training &amp; Conference Centre, Dar es Salaam, TZ.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>The conceptual and analytical work was supported by Dr. L. Scholten.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>`Stakeholder' is defined as: "actors who have a stake, an interest in the issue under consideration; who are affected by it, or who -because of their position - have or could have an active or passive influence on the decision making and implementation processes".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>`Power' is defined as: "the extent to which they (i.e. the participants) are able to persuade or coerce others into making certain a decision or following certain courses of action".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>`Interest' is defined as: "the extent to which a certain issue is given priority".</comment>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="book" xlink:type="simple">
+               <comment>Microenergy systems Research Group, Postgraduate program at Center for Technology and Society, TU Berlin, Germany.</comment>
+            </element-citation>
+         </ref>
+         <ref id="R88">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>About the organisation and its objectives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>MAVUNO</surname>
+                  </name>
+               </person-group>
+               <date-in-citation>cited 2017 Apr 23</date-in-citation>
+               <comment>Available at:
+                  <uri>http://www.mavunoproject.org/and http://www.mavunoproject.org/objectives/</uri>.
+               </comment>
+                                        
+            </element-citation>
+         </ref>
+         <ref id="R89">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>About the organisation and its vision and goals</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>CHEMA</surname>
+                  </name>
+               </person-group>
+               <date-in-citation>cited 2017 Apr 23</date-in-citation>
+               <comment>Available at:
+                  <uri>http://chematanzania.org/?page\_id=19 and http://chematanzania.org/?page\_id=19</uri>.
+               </comment>
+                               
+            </element-citation>
+         </ref>
+         <ref id="R90">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Categorising tools for sustainability assessment</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ness</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Urbel-Piirsalu, Evelin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anderberg</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olsson</surname>
+                     <given-names>Lennart</given-names>
+                  </name>
+               </person-group>
+               <source>Ecological economics</source>
+               <volume>60</volume>
+               <issue>3</issue>
+               <fpage>498</fpage>
+               <lpage>508</lpage>
+               <year>2007</year>
+               <pub-id pub-id-type="doi">10.1016/j.ecolecon.2006.07.023</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R91">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Multi-criteria decision aid as an approach for sustainable development analysis and implementation</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Omann</surname>
+                     <given-names>Ines</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <publisher-name>na</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
