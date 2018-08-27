@@ -1,0 +1,1940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2018.04010007</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Labour Use on Organic Farms: A Review of Research since 2000</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Orsini</surname>
+                  <given-names>Stefano</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Padel</surname>
+                  <given-names>Susanne</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Lampkin</surname>
+                  <given-names>Nic</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>The Organic Research Centre, Elm Farm, Berkshire, UK</aff>
+         <pub-date pub-type="ppub">
+            <day>22</day>
+            <month>06</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>7</fpage>
+         <lpage>15</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Organic farming is frequently associated with claims of more labour requirements than conventional. However, there is a fragmented knowledge about labour use on organic farms in terms of workload, nature and quality of employment provided. In the context of a growing organic demand and a need for more farmers to convert to reach policy targets set by many EU governments, it seems crucial to understand labour trends on organic farms and to what extent labour requirements may hinder the adoption of the organic methods. This paper presents a review of mainly European literature published since 2000. Studies presenting results by farm type usually indicate higher labour use per hectare on organic than conventional arable farms, whereas similar or lower labour use is reported on organic livestock farms, and the results are mixed for other farm types. We have identified in the existing literature two broad dimensions directly related with labour use, which need to be considered in comparative studies, namely farm structure (including farm type, but also farm size and diversification activities), and technical efficiency. These two broad dimensions give us insights into some more specific factors affecting labour use, and how labour is related with productivity and technical efficiency. Overall it appears that claims that labour requirements represent a concrete obstacle to the adoption of the organic methods need to be treated with caution, and more research is needed to understand the role of labour in farmers’ decision to convert to organic farming. The review of the nature and quality of employment indicates positive health effects related to higher satisfaction and lower exposure to pesticides in organic agriculture as the most important advantages for farm workers. Overall, there is limited research on whether the organic sector provides better opportunities in terms of job prospects, wages and employment of women.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>farm structure</kwd>
+            <kwd>labour use</kwd>
+            <kwd>organic farming</kwd>
+            <kwd>quality of labour</kwd>
+            <kwd>rural development</kwd>
+            <kwd>technical efficiency</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Labour use on organic farms is expected to differ from that on conventional farms [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>]. In particular, organic farming is frequently associated with claims of high labour requirements, because it needs more resources than conventional for manual and mechanical weed control, is based on a greater diversity of crops at farm level, and organic farmers more often develop marketing and processing activities on farm [<xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R05">5</xref>]. However, it is not always the case that more labour is required for individual organic enterprises than conventional [<xref ref-type="bibr" rid="R05">5</xref>, <xref ref-type="bibr" rid="R06">6</xref>]. A variety of study fields—mainly agricultural economics, rural sociology, entrepreneurship research and geography—have dedicated research to socio-economic aspects of organic farming, but labour has seldom been the primary focus and different perspectives have been adopted, including technical efficiency, rural development and social justice. The knowledge about labour use on organic farming in terms of workload, labour nature and quality, is fragmented, and there are variable results. There is currently no overview of the outcomes in recent literature. This paper seeks to address this gap.</p>
+         <p>Gaining an overview of what is known so far seems to be timely, as there is a need for more farmers to convert to organic agriculture in the EU, in order to meet the demand of a growing organic market and to reach the targets for organic production set by many EU governments [<xref ref-type="bibr" rid="R07">7</xref>]. It is crucial to understand whether, to what extent and under what circumstances labour requirements on organic farms may be different from conventional farms and may hinder the adoption of the organic methods. Gaining insights into the factors affecting labour use on organic farming is relevant to farmers and policy makers alike. Examining the relation between labour use and technical efficiency and productivity is also critical to identify key research and policy areas for the future development of the organic sector.</p>
+         <p>The main objective of this paper is to provide an overview of the findings of existing literature, considering the different perspectives that have been used to address this topic. The review considers literature published since 2000 that focused on aspects of labour in organic agriculture in Europe. We have also included a few other studies which are particularly relevant from a methodological point of view.</p>
+         <p>In the first part of this paper we present the literature that addresses labour use on organic farming, summarising relevant results in one table. We propose a framework outlining the main factors affecting labour use. The second part of the paper focuses on type and quality of employment provided. Finally, some conclusions are presented.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Labour Use on Organic Farm</title>
+         <sec id="s2.1">
+            <title>2.1.- Labour Use and Farm Structure</title>
+            <p>Overall we found only six studies [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>] comparing labour use per hectare or head of livestock on organic and conventional farms that include a breakdown by farm type. These studies suggest that labour use depends on farm structure, in particular farm type and size.
+Studies that present results on labour use per hectare or per head of livestock for different farm types are mainly based on FADN data, with Offermann and Nieberg [<xref ref-type="bibr" rid="R12">12</xref>] presenting data published before 2000. Lobley et al [<xref ref-type="bibr" rid="R10">10</xref>], Tzouvelekas et al [<xref ref-type="bibr" rid="R08">8</xref>] and Guesmi et al [<xref ref-type="bibr" rid="R09">9</xref>] used primary data gathered through farm surveys.</p>
+            <p>In Table <xref ref-type="table" rid="Tab1">1</xref> below we summarise results by farm type. The literature indicates higher labour requirements than conventional for organic arable cropping, general cropping and vineyards [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>], but exceptions were found in some countries. A similar or lower use of labour per hectare on organic farms is reported for livestock farms, such as dairy farms in England and Wales [<xref ref-type="bibr" rid="R11">11</xref>], Austria and France [<xref ref-type="bibr" rid="R13">13</xref>], for lowland cattle, Less Favoured Areas(LFA) and sheep in England and Wales [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>] and also for olive groves in Greece [<xref ref-type="bibr" rid="R08">8</xref>]. Mixed results were found for horticulture, general cropping and mixed farming.</p>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>
+                    Table 1</label>
+               <caption>
+                  <title>Table 1Breakdown of labour use per hectare (ha) or per head of livestock by farm type OF = organic farms; CF = conventional farms; FTE = Full Time Equivalent.</title>
+               </caption>
+               <table>
+                  <thead>
+                  
+                  
+                  <tr>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Farm type</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Country</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Labour use</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Unit</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        
+                        <bold>% labour difference of</bold><break/>
+                              
+                                 <bold>OF compared to CF</bold>
+                              
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Author, year</bold>
+                     </td>
+                  </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">Austria</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 1.86<break/>CF: 1.61
+                        </td>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">16%</td>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">France</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           OF: 1.43<break/>
+                           CF: 2
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m1" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>29%</td>
+                        <td align="center" rowspan="3" style="" colspan="1">
+                           European<break/>
+                           Commission<break/>
+                           (2013) [<xref ref-type="bibr" rid="R13">13</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="" colspan="1">
+                           
+                                    <bold>General</bold>
+                                 <break/>
+                                    <bold>cropping</bold>
+                                 
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">Germany</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           OF: 2.7<break/>
+                           CF: 1.61
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="" rowspan="1" colspan="1">68%</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">Poland</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           
+                           OF: 2.81<break/>
+                           CF: 2.38
+                        </td>
+                        <td align="center" rowspan="2" style="" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">18%</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="2" style="" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">Spain</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           OF: 12<break/>CF: 7.3
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">64%</td>
+                        <td style="" rowspan="1" colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 1.3<break/>
+                           CF: 1
+                           
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">30%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">
+                           <bold>Arable</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           16 EU countries,<break/>
+                           Norway, Switzerland
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           Higher values<break/>
+                           on OF
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">n/a</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Offermann<break/>
+                           and Nieberg<break/>
+                           (2000) [<xref ref-type="bibr" rid="R12">12</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 2<break/>
+                           CF: 1.7
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">18%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>(2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           16 EU countries,<break/>
+                           Norway, Switzerland
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           Higher values<break/>
+                           on OF
+                           
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">n/a</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Offermann<break/>
+                           and Nieberg<break/>
+                           (2000) [<xref ref-type="bibr" rid="R12">12</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Horticulture</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           
+                           OF: 79.2<break/>
+                           CF: 73.3
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                           
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 24.4<break/>
+                           CF: 45.8
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m2" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>47%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Olive groves</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">Greece</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 4,087<break/>
+                           CF: 4,863
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">Drachmas/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m3" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>16%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Tzouvelekas<break/>
+                           et al<break/>
+                           (2001) [<xref ref-type="bibr" rid="R08">8</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Grape</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">Spain</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 458.93<break/>
+                           CF: 287.76
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">hours/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">58%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Guesmi et al<break/>
+                           (2012) [<xref ref-type="bibr" rid="R09">9</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 3.1<break/>
+                           CF: 4.8
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m4" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>35%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">Austria</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 0.1<break/>
+                           CF: 0.1
+                        </td>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">0%</td>
+                        <td align="center" rowspan="3" style="border:t;" colspan="1">
+                           European<break/>
+                           Commission<break/>
+                           (2013) [<xref ref-type="bibr" rid="R13">13</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="" rowspan="1" colspan="1">
+                           <bold>Dairy</bold>
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">France</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           OF:0.04<break/>
+                           CF: 0.04
+                        </td>
+                        <td align="center" style="" rowspan="1" colspan="1">FTE/cow</td>
+                        <td align="center" style="" rowspan="1" colspan="1">0%</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="2" style="" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">Germany</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                           OF: 0.05<break/>
+                           CF: 0.04
+                        </td>
+                        <td style="" rowspan="1" colspan="1"/>
+                        <td align="center" style="" rowspan="1" colspan="1">25%</td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 2.2<break/>
+                           CF: 2.5
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">12%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           16 EU countries,<break/>
+                           Norway, Switzerland
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           Higher values<break/>on OF
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">n/a</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Offermann<break/>
+                           and Nieberg<break/>
+                           (2000) [<xref ref-type="bibr" rid="R12">12</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <bold>Mixed</bold>
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 6<break/>CF: 4.4
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">36%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td style="border:t;" rowspan="1" colspan="1"/>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 1.5<break/>
+                           CF: 1.5
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">0%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">
+                           
+                                    <bold>Lowland cattle</bold>
+                                 <break/><bold>and sheep</bold>
+                                 
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 2.9<break/>
+                           CF: 5.6
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m5" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>48%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 1.2<break/>
+                           CF: 1.3
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m6"
+                                        alttext="\pounds"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mi mathvariant="normal">£</mml:mi>
+                              </mml:math>
+                           </inline-formula>/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">8%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:t;" colspan="1">
+                           
+                                    <bold>LFA cattle and</bold>
+                                 <break/><bold>sheep</bold>
+                                 
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 2.9<break/>
+                           CF: 5.2
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           <inline-formula>
+                              <mml:math id="S4.T1.m7" alttext="-" display="inline" overflow="scroll">
+                                 <mml:mo>-</mml:mo>
+                              </mml:math>
+                           </inline-formula>44%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">England and Wales</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           OF: 1.1<break/>
+                           CF: 1.1
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">0%</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Moakes et al<break/>
+                           (2015) [<xref ref-type="bibr" rid="R11">11</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="2" style="border:bb t;" colspan="1">
+                                    <bold>Pigs and</bold>
+                                 <break/>
+                                    <bold>poultry</bold>
+                                 
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           16 EU countries,<break/>
+                           Norway, Switzerland
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                           Similar values on<break/>
+                           OF and CF
+                        </td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">FTE/ha</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">n/a</td>
+                        <td align="center" style="border:t;" rowspan="1" colspan="1">
+                           Offermann<break/>and Nieberg<break/>
+                           (2000) [<xref ref-type="bibr" rid="R12">12</xref>]
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="center" style="border:bb t;" rowspan="1" colspan="1">England</td>
+                        <td align="left" style="border:bb t;" rowspan="1" colspan="1">
+                           OF: 38.5<break/>
+                           CF: 29.4
+                        </td>
+                        <td align="center" style="border:bb t;" rowspan="1" colspan="1">FTE/100 ha</td>
+                        <td align="center" style="border:bb t;" rowspan="1" colspan="1">31%</td>
+                        <td align="center" style="border:bb t;" rowspan="1" colspan="1">
+                           Lobley et al<break/>
+                           (2009) [<xref ref-type="bibr" rid="R10">10</xref>]
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>[15]Only some of the studies reviewed provide an explanation of the differences in labour use on organic and conventional farming. For example, lower labour use on organic olive grove farms in Greece compared with conventional was explained with less labour required to harvest the lower levels of olive production [<xref ref-type="bibr" rid="R08">8</xref>]. Labour use per animal in livestock systems is similar or higher on organic farms, but lower stocking rates and lower number of animals on organic farms can result in less total labour use per hectare [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+            <p>A distinct group of studies report data of labour use per farm, rather than per hectare or head of animals and the results within this group are mixed too. Three studies report lower labour use on organic dairy farms compared to conventional [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>], and three suggest the opposite [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>]. Likewise on organic arable cropping both cases of higher [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>] and lower [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>] labour use than conventional farms are reported.</p>
+            <p>However, higher labour input per farm does not necessarily imply higher labour input per hectare, especially if organic and conventional samples are unbalanced in terms of average farm size. For example, the research conducted in the UK and the Republic of Ireland by Morison et al [<xref ref-type="bibr" rid="R24">24</xref>] indicates that small organic farms use proportionally more labour per 100 ha than large organic farms. It was found that the organic sector employs 35% more labour per farm, but conventional farms employ 80% more labour per hectare, as organic farms within the sample were considerably larger than conventional [<xref ref-type="bibr" rid="R24">24</xref>].</p>
+            <p>[25]The presence of on-farm diversification activities can also impact on labour use. Organic farms are more likely to engage in diverse crop production and activities, such as processing and direct marketing, which impact on labour organisation and increase workloads on farms [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>].</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Labour Use and Technical Efficiency</title>
+            <p>Some studies comparing organic and conventional farms model different farm inputs including labour to estimate technical efficiency. From an agricultural economic perspective, technical efficiency is the ratio of the farm output over the ‘frontier’ (i.e. maximum output) that may be obtained with given inputs and technology [<xref ref-type="bibr" rid="R27">27</xref>].</p>
+            <p>Efficiency studies provide information about labour input, labour efficiency and labour elasticity, which measures the responsiveness of production to a change in levels of labour. Different models are used when comparing technical efficiency of organic and conventional farms in order to reduce self-selection bias, including matching models [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>], metafrontier models [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R30">30</xref>], and selectivity models [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>].</p>
+            <p>Figures of labour input on farms included in the efficiency literature are also varied, with cases of higher or lower labour requirements on organic farms. For example, organic olive farms in Greece [<xref ref-type="bibr" rid="R08">8</xref>] and organic dairy farms in Germany [<xref ref-type="bibr" rid="R14">14</xref>] seem to use respectively less or similar labour than their conventional counterparts. Similar to the studies reported above, labour requirements on arable farms are in most cases higher on organic farms [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>].</p>
+            <p>Two studies providing specific figures of labour efficiency show contrasting results. Lansink et al [<xref ref-type="bibr" rid="R33">33</xref>] indicate higher labour efficiency on organic crop and livestock farms in Finland, whereas Tzouvelakes et al [<xref ref-type="bibr" rid="R08">8</xref>] found lower labour efficiency on organic olive groves in Greece.</p>
+            <p>[20]As for type of labour used (i.e. family versus hired labour), Tzouvelekas et al [<xref ref-type="bibr" rid="R21">21</xref>] hypotesized suboptimal effort exerted by hired labour as opposed to family labour which mitigates any possible agency problems. A literature review on technical efficiency in organic and conventional farms by Lakner and Breustedt [<xref ref-type="bibr" rid="R34">34</xref>] does not confirm this hypothesis, and shows mixed results, with five studies revealing that family labour is in fact less efficient than hired labour, and three other studies suggesting the opposite.</p>
+            <p>The efficiency literature provides also interesting information about production elasticity of labour. Five studies indicate a higher production elasticity of labour on organic than conventional farms [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R32">32</xref>], whereas five other studies found a lower value of elasticity on organic farms [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. This might seem to be somewhat counter-intuitive, given that organic farming is traditionally thought to be more labour-intensive than conventional farming, and we would expect output to be more sensitive to changes in labour on organic than conventional farms. However, none of the studies reviewed provide a reasonable explanation for this result.</p>
+            <p>[10]Another relevant component of technical efficiency which is likely to have an impact on labour requirements is represented by time after conversion. Sipiläinen and Lansink [<xref ref-type="bibr" rid="R17">17</xref>] and Lakner et al [<xref ref-type="bibr" rid="R35">35</xref>] found that technical efficiency of converting farms was lower than efficiency of established organic farms and increased after six or seven years since conversion, a period during which a comparable conventional farm would have increased its technical efficiency. This is the time for learning the organic methods, following the decision to convert. More empirical studies are needed to understand how labour use normally evolves over time and how it relates to the learning of organic practices.</p>
+            <p>The differences in farm management between organic and conventional farming—i.e. weed and pest control, fertility building, tillage, livestock management—are expected to be a critical factor contributing to labour requirements [<xref ref-type="bibr" rid="R04">4</xref>]. It is reported in some studies [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R33">33</xref>] that organic farming is related to lower labour productivity even when labour is employed efficiently, because labour on organic farms might be used for low productive practices, such as manual weed control. Research into the development and adoption of labour saving management practices targeted at organic farming seems to be critical in order to reduce labour requirements [<xref ref-type="bibr" rid="R05">5</xref>, <xref ref-type="bibr" rid="R36">36</xref>] and improve its productivity and efficiency but is very rare.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Labour Use in Farmers’ Decision-Making</title>
+            <p>Despite the presumed lower productivity of labour on organic farms, the variety of empirical results on labour use that we have found across different farm types suggests that claims that labour requirement represents a concrete obstacle to the adoption of organic farming need to be treated with caution.</p>
+            <p>Darnhofer et al [<xref ref-type="bibr" rid="R37">37</xref>] found that labour was not a barrier to adopting the organic methods, despite being perceived as a bottleneck by farmers. They concluded that high labour requirements on organic farms reflect more a belief than a decision rule [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+            <p>Likewise, some authors contend that labour seems not to be crucial in farmers’ decision to expand or reduce farm size [<xref ref-type="bibr" rid="R38">38</xref>], whether organic or not, and that the higher labour requirement on organic farming is of intermediate importance as a reason for opting out of organic farming [<xref ref-type="bibr" rid="R03">3</xref>]. Type of labour (hired versus family labour) was found to be related with the adoption of organic farming by Larsen [<xref ref-type="bibr" rid="R39">39</xref>], who suggested that the probability to adopt organic methods increases with the share of hired labour.</p>
+            <p>Because of the limited literature, it is not possible to draw firm conclusions about the importance of labour in organic farmer’s decision-making process, where external factors not considered in the literature are also likely to be important, such as labour availability.</p>
+         </sec>
+         <sec id="s2.4">
+            <title>2.4.- Limitations of the Existing Studies</title>
+            <p>The different methodologies in the studies reviewed and variations in data quality and sample size might explain in part the differences in the results presented above. Most studies reviewed are based on secondary data, mainly FADN, which has the advantage to give comparable results across Europe. However, such studies might have some sampling biases, because organic farming is not a sampling criterion in FADN and therefore the organic samples in each country are not necessarily representative of the sector.</p>
+            <p>Labour use is usually expressed as working time, either in hours or Full Time Equivalents (FTE), or as a cost item. The use of working hours or Full Time Equivalents gives a meaningful representation of the labour force that takes the different contribution of full-time, part-time, casual and seasonal workers [<xref ref-type="bibr" rid="R10">10</xref>] into account, but it is based on estimates of hours worked and there may be uncertainty in estimating the Full Time Equivalents value of seasonal or causal workers. The measurement of labour as a cost item is particularly relevant from a farm financial perspective, but imputed values based on estimates are likely to be used for family and unpaid labour.</p>
+            <p>It is difficult to compare the results of studies that use different units of measuring labour, such as per farm, per hectare or per animal. While data per farm provide a useful indication of employment created at aggregate level, they might be misleading as a representation of the labour needed by the two different farming methods. This is especially true as the average farm size of the two groups is usually different across the studies reviewed (e.g. [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R32">32</xref>]), and higher labour input per farm does not necessarily imply higher labour input per hectare. As far as livestock systems are concerned, it is useful to consider also labour use per animal together with labour use per hectare. These two measurements can give contradicting results: more or similar labour per animal seems to be required on organic compared to conventional farms [<xref ref-type="bibr" rid="R11">11</xref>], but labour use per farm or per hectare might be lower on organic systems because of the lower stocking rate and number of animals [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>].</p>
+            <p>Finally, and related to the arguments above, organic and conventional farms need to be ‘comparable’ when studying labour use on organic versus conventional farms. Nieberg et al [<xref ref-type="bibr" rid="R40">40</xref>] proposed a framework for comparative studies, based on the concept of similar endowment of production factors, which ensures that differences in labour use on organic and conventional farms are indeed attributed to their management system and not to differences in endowment of production factors including farm type, farm size and farm location. Based on this framework, Moakes et al [<xref ref-type="bibr" rid="R11">11</xref>] used a method of clustering where each organic farm was matched with a cluster of conventional farms based on the resource endowment indicators including farm type, region, LFA status, utilisable agricultural area, farm business size and milk quota held. Other studies were found that analyse comparable farm pairs, with Flubacher [<xref ref-type="bibr" rid="R28">28</xref>] and Mayen et al [<xref ref-type="bibr" rid="R29">29</xref>] using Propensity Score Matching, and Tiedemann and Latacz-Lohmann [<xref ref-type="bibr" rid="R23">23</xref>] using Euclidean-Distance Matching. The other studies reviewed just compare a sample group of organic farms with all conventional farms of another sample, without taking into account the potential structural differences between organic and conventional farms, which are likely to affect the overall farm organisation including labour use.</p>
+         </sec>
+         <sec id="s2.5">
+            <title>2.5.- A Framework for Comparative Studies of Labour Use on Organic and Conventional Farms</title>
+            <p>Despite the limitations presented in Section 2.4, we can identify in the existing literature two broad dimensions which need to be considered in future comparative studies of labour use on organic and conventional farms, as explained below:</p>
+
+          
+            
+            <p>• Farm structure affects the organisation of labour and tends to be more complex on organic farms, which are usually based on more diversified crops, rotations and activities [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R41">41</xref>]. While organic arable farms are usually more labour intensive than conventional [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>], labour requirements on organic livestock farms are often found to be lower than their conventional counterparts [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>]. Organic farms are more likely to engage in value adding activities such as processing and direct marketing, which increases labour requirements [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. Finally, small organic farms seem to use proportionally more labour per 100 ha than large organic farms [<xref ref-type="bibr" rid="R24">24</xref>], and some benefits of specialisation and economies of scale might be lost in part on organic farms because of the greater diversity of farm structure compared to conventional farms [<xref ref-type="bibr" rid="R10">10</xref>].
+</p>
+          
+            <p>• The efficiency literature revealed many cases where organic production is less sensitive to changes in labour than conventional [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. This is surprising since labour as an input is thought to be especially important for organic farming. Also, labour efficiency was found to be both higher and lower on organic compared with conventional farms [<xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R33">33</xref>]. The sophisticated models adopted cannot explain the mixed results, but together these studies challenge the widely held belief about lower labour efficiency and productivity on organic farms.</p>
+            <p>Organic and conventional farms need to be ‘comparable’ when comparing labour use on organic versus conventional farms. Nieberg et al [<xref ref-type="bibr" rid="R40">40</xref>] proposed a general methodology for comparative studies based on identical farm type, similar endowment of production factors such as farm size, and same region. Based on this approach, a clustering method and farm pairs analysis were performed more recently by Moakes [<xref ref-type="bibr" rid="R11">11</xref>] and in some efficiency studies [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>].</p>
+            <p>The two broad dimensions of farm structure and technical efficiency give us insights into some more specific factors affecting labour use, and how labour is related with productivity and efficiency. However, more research is needed to understand the relevance of labour in farm management decision, in particular in farmer’s decision to convert to organic farming.</p>
+            <p>In the next sections we will review aspects related with type of employment and quality of labour, which may play a role in the decision to convert to organic farming and which are particularly important from a rural development perspective.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Type of Employment Provided and Quality of Labour</title>
+         <p>The quality of working conditions on organic farms is covered by the IFOAM ‘Principle of Fairness’, which states that: “Organic farming should provide everyone involved with a good quality of life” [<xref ref-type="bibr" rid="R42">42</xref>]. Most European standards require that organic farmers must comply with the UN Convention on Human Rights and the International Labour Organisation standards.</p>
+         <p>Based on the Jansen’ framework [<xref ref-type="bibr" rid="R04">4</xref>] which broadly identifies terms of employment, working conditions, content of work and labour relations as the main elements of labour quality, we frame this section around the following specific aspects of employment: seasonal versus permanent jobs, farm worker’s health and work satisfaction, wages, job prospects and gender differences. Our objective here is to understand based on the existing studies to what extent social considerations related to organic agriculture are implemented or remain a vague objective.</p>
+         <sec id="s3.1">
+            <title>3.1.- Seasonal versus Permanent Jobs and Job Prospects</title>
+            <p>According to some studies, the share of hired labour compared to family labour often seems to be higher on organic than conventional farms [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R39">39</xref>]. Jansen [<xref ref-type="bibr" rid="R04">4</xref>] questioned whether the increase in hired labour reflects an increase in hired permanent labour, assuming that a high reliance on seasonal workers may reduce the overall benefit of a business to rural development. In 2000, he found little evidence suggesting that this increase is partly in hired permanent labour and partly in seasonal or casual labour, and stated that more studies were needed to draw firm conclusions [<xref ref-type="bibr" rid="R04">4</xref>]. Only very few studies have further investigated this question since.</p>
+            <p>Many agricultural sectors in Europe are now dependent upon low-cost seasonal labour. In particular horticulture, which faces with the most acute labour cost pressures, is likely to take advantage of low cost of seasonal labour [<xref ref-type="bibr" rid="R43">43</xref>]. There are concerns in relation to the working conditions for seasonal migrant workers in agriculture, who are particularly vulnerable to exploitation [<xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>]. A Dutch study by Gardebroek et al [<xref ref-type="bibr" rid="R20">20</xref>] suggests that both organic and conventional arable farms are reliant on temporary hired labour at periods of peak demands, with no substantial difference between the two sectors.</p>
+            <p>Two studies in England [<xref ref-type="bibr" rid="R10">10</xref>] and France [<xref ref-type="bibr" rid="R46">46</xref>] both point to higher levels of temporary or casual work on organic farms. In particular, the French study by Cédric [<xref ref-type="bibr" rid="R46">46</xref>] indicates that organic farms were in general more likely to employ people on temporary contracts and the likelihood actually increased from 2002 to 2009. However, there was considerable variation depending on the location and farm type, with the proportion of workers on temporary contracts ranging from 57% in Alpes Maritimes to 90% in Vaucluse. In particular, organic horticulture and cereals saw the greatest increase in temporary contracts over this period, and contracts in the organic sector were likely to be an average of 20 days shorter than in the conventional sector [<xref ref-type="bibr" rid="R46">46</xref>]. Apart from these studies, there is a marked lack of research on the type of labour on organic farms, and it remains difficult to come to any conclusions regarding the differences in use of seasonal versus permanent labour on organic and conventional farming. Crucially, in many cases it may well be other factors that determine the type of labour used, rather than simply the farm management system. These might be related to the specific industry, national regulations on labour and individual farms’ financial circumstances.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Farmer and Farm Worker Health in Organic and Conventional Farming</title>
+            <p>It is very likely that pesticide exposure is lower on organic farms because of the lower use of pesticides, which represents an important advantage for workers on organic farms compared to those working in conventional farms, especially in crops such as fruit and vegetables with typically high pesticide application rates [<xref ref-type="bibr" rid="R47">47</xref>].</p>
+            <p>Regarding mental health, French studies by Nettier et al [<xref ref-type="bibr" rid="R02">2</xref>], Dupré et al [<xref ref-type="bibr" rid="R48">48</xref>] and Navarrete et al [<xref ref-type="bibr" rid="R49">49</xref>] point to higher levels of satisfaction among organic compared to conventional farmers, due to greater personal fulfilment and recognition of their work. A study by Cross [<xref ref-type="bibr" rid="R44">44</xref>] et al suggests that workers on organic farms are happier than those employed on conventional farms, indicated by better scores in a ‘Short Depression Happiness Scale’, mainly because of the increased variety of tasks performed each day. However, the other three measures of mental health (i.e. Short Form 36, EuroQol EQ-5D and the Visual Analogue Scale) pointed to no significant difference between organic and conventional workers. Both the organic and conventional sector workers had lower than average scores for the other three measures of mental health, suggesting that overall the mental health of farm workers – regardless of the sector – is still worse than in other professions [<xref ref-type="bibr" rid="R38">38</xref>].</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Wages</title>
+            <p>The study conducted by Lobley et al [<xref ref-type="bibr" rid="R10">10</xref>] in England found that salaries per FTE on organic farms in the sample of their study were on average 17% lower than on conventional farms. However, looking at the figures in more details, it appears that the lower salary per FTE on organic farms is largely accounted for by lower family wages and employment of staff as shop assistants or in on-farm food processing. The authors cautioned that salary figures should be interpreted carefully, because farmers do not pay themselves a wage which is easily comparable with salaried workers.</p>
+            <p>Figures from the Farm Income report in England and Wales by Moakes et al [<xref ref-type="bibr" rid="R11">11</xref>] show that value of farmer and family labour, labour income per Annual Labour Unit, and family labour income per Family Work Unit are all greater on organic than conventional farms across all farm types, with the exception of horticulture where the farm income is lower for organic.</p>
+            <p>A study conducted in France [<xref ref-type="bibr" rid="R46">46</xref>] found that average annual organic salaries were 60% higher than in the conventional sector, although from 2002 to 2009 they only increased by 35% compared to 56% on conventional farms. This suggests that the wages on conventional farms may be catching up with the organic sector.</p>
+            <p>Given the very limited number of studies and their contradictory findings, the literature relating to wages is not conclusive, as it is the analysis of income per unit of labour carried out by the European Commission in five EU countries [<xref ref-type="bibr" rid="R13">13</xref>], which shows no clear pattern of income per annual work unit on organic versus conventional farms.</p>
+         </sec>
+         <sec id="s3.4">
+            <title>3.4.- Employment of Women</title>
+            <p>Overall there is very little research on the employment of women in organic sector and also very few gender studies in this area.</p>
+            <p>Jansen argued that women are more involved in organic agriculture than in conventional but did not provide any empirical evidence [<xref ref-type="bibr" rid="R04">4</xref>]. Amongst the studies reviewed here, only three looked at employment of woman. In a survey conducted in England, Lobley et al [<xref ref-type="bibr" rid="R10">10</xref>] found that a smaller proportion of the organic farmers were women compared to conventional, but female respondents from the organic sector were younger than those from the conventional (50 compared with 57 years old). A study on family farms in Switzerland found that the farm woman is more involved in family work than farm work, both in conventional and organic farming, but to a smaller extent in the latter case [<xref ref-type="bibr" rid="R50">50</xref>].</p>
+            <p>The Farm Economics Brief published by the European Commission in 2013 [<xref ref-type="bibr" rid="R13">13</xref>] on the financial performance of organic agriculture in the EU, indicates that there was no difference in the share of male and female farm managers in the EU-27 between organic and non-organic farms.</p>
+         </sec>
+         <sec id="s3.5">
+            <title>3.5.- Labour Use on Organic Farms and Rural Development</title>
+            <p>Since organic farming has generally been associated with greater labour demand than conventional, it could be assumed that policies that encourage organic conversion will consequently have positive effects on rural employment [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R52">52</xref>]. However, as we have shown in the previous sections, it is not always the case that organic farms have greater labour requirements then conventional, and very few studies address the relationship between organic farming and rural development.
+</p>
+            <p>Lobley et al. found in England that differences in employment generated reflect the distinctive business configurations of organic and conventional farms, and not necessarily the adoption of organic farming per se [<xref ref-type="bibr" rid="R10">10</xref>]. In particular, they found that the positive effects of organic farms on rural employment are related to higher incidence of on-farm diversification activities and more hired labour compared to conventional farms, which was found to rely more on family labour.</p>
+            <p>Other studies also found that organic farms employ more non-family labour [<xref ref-type="bibr" rid="R04">4</xref>, <xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R39">39</xref>] and this might have positive rural development implications. However, from a rural development perspective it is also important to consider the nature of any jobs created, in particular remuneration and permanence, which remain largely unexplored.</p>
+            <p>A study conducted in France [<xref ref-type="bibr" rid="R53">53</xref>] found that rural development policies for the programming period 2007 to 2013 related to organic farming had very limited effects on changes in labour use. The explanations given by the authors is that conventional farms choosing to convert may have been the ones that already implemented practices close to organic or that any effect on labour use may be observed after the programming period considered [<xref ref-type="bibr" rid="R53">53</xref>].</p>
+            <p>Most of the existing economic studies only look at labour as a production unit which needs to be minimised, and overlook the output generated in financial and employment terms, thus considering labour only as an obstacle to the adoption of the organic methods. However, from a rural development perspective it is important to consider the financial output generated per labour unit. Moakes et al [<xref ref-type="bibr" rid="R11">11</xref>] found in England and Wales that even though yield levels might be lower on organic farms, the financial output generated per labour unit is similar across farm types, with slightly better performance for organic farms with the exception of the horticulture sector.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Conclusions</title>
+         <p>In this paper we have reviewed differences in labour use on organic and conventional farming in Europe in the scientific literature published since 2000 and outlined some key factors affecting labour use. Overall, labour use on organic farms has received very little attention in the literature, despite the potential implications for farm management and for rural development.</p>
+         <p>Taken together, the existing studies show variable results and do not confirm the widely held belief that organic farming always requires more labour than conventional. Higher labour use per hectare is more often reported on organic than conventional arable farms, whereas similar or lower labour use per hectare is usually reported on organic livestock farms, and the results are mixed for other farm types.</p>
+         <p>Our review highlights the importance of considering farm structure in future research, as labour use appears to change with farm type, with the endowment of production factors in particular farm size, and with the presence or absence of diversification activities.
+The efficiency studies reveal that labour efficiency is not necessarily lower on organic farms, and that in many cases production is less sensitive to changes in labour use on organic than conventional farms.</p>
+         <p>The role of labour in farmers’ decision to adopt the organic methods remains ambivalent and very little researched. Some studies show that labour requirement on organic versus conventional farms does not reflect a decision rule for adopting or not adopting organic farming [<xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>]. External factors, in particular labour availability, are likely to become increasingly relevant and should be considered in future research. We conclude that claims that labour requirements represent a concrete obstacle to the adoption of organic farming need to be treated with caution.</p>
+         <p>The question of the relationship between labour use on organic farms and rural development points to a more general theme which goes beyond the amount of labour used and involves the nature and quality of employment generated as well as gender issues. More positive health effects related to higher satisfaction and lower exposure to pesticides seem to be the most important advantages for farm workers. However, there is little research on whether the organic sector provides better opportunities in terms of wages, job prospects and employment of woman or young people. The inclusion of social standards regarding social sustainability in organic agriculture has sporadically been discussed, and criteria should be codified to make sure that the organic sector is also socially sustainable and can therefore encourage the conversion of non-organic farms.</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- Acknowledgements</title>
+         <p>We would like to thank Catherine Gerrard and Oliver Rubinstein for their input into earlier versions of the paper. We would also like to thank the Editor, and the two anonymous referees for their helpful comments.
+</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Environmental performance and shadow value of polluting on Swiss dairy farms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mamardashvili</surname>
+                     <given-names>Phatima</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Emvalomatis</surname>
+                     <given-names>Grigorios</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jan</surname>
+                     <given-names>Pierrick</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Journal of Agricultural and Resource Economics</source>
+               <volume>41</volume>
+               <issue>2</issue>
+               <fpage>225</fpage>
+               <lpage>246</lpage>
+               <year>2016</year>
+               <publisher-name>Western Agricultural Economics Association</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Conversion to organic farming and consequences on work organisation and work perception</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nettier</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dufour</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chabrat</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Madelrieux</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <source>The 10th European IFSA Symposium</source>
+               <year>2012</year>
+               <conf-loc>Aarhus, Denmark</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Norwegian farmers ceasing certified organic production: Characteristics and reasons</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Flaten</surname>
+                     <given-names>Ola</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lien</surname>
+                     <given-names>Gudbrand</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koesling</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Løes</surname>
+                     <given-names>Anne-Kristin</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Environmental Management</source>
+               <volume>91</volume>
+               <issue>12</issue>
+               <fpage>2717</fpage>
+               <lpage>2726</lpage>
+               <year>2010</year>
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2010.07.026</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Labour, livelihoods and the quality of life in organic agriculture in Europe</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jansen</surname>
+                     <given-names>Kees</given-names>
+                  </name>
+               </person-group>
+               <source>Biological agriculture &amp; horticulture</source>
+               <volume>17</volume>
+               <issue>3</issue>
+               <fpage>247</fpage>
+               <lpage>278</lpage>
+               <year>2000</year>
+               <pub-id pub-id-type="doi">10.1080/01448765.2000.9754845</pub-id>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic farming scenarios: operational analysis and costs of implementing innovative technologies</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sørensen</surname>
+                     <given-names>Claus G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Madsen</surname>
+                     <given-names>Niels A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jacobsen</surname>
+                     <given-names>Brian H</given-names>
+                  </name>
+               </person-group>
+               <source>Biosystems engineering</source>
+               <volume>91</volume>
+               <issue>2</issue>
+               <fpage>127</fpage>
+               <lpage>137</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1016/j.biosystemseng.2005.03.006</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The role of agroecology in sustainable intensification</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lampkin</surname>
+                     <given-names>Nicolas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leake</surname>
+                     <given-names>Alastair</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Creissen</surname>
+                     <given-names>Henry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gerrard</surname>
+                     <given-names>Catherine L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gerling</surname>
+                     <given-names>Robbie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lloyd</surname>
+                     <given-names>Sofie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Padel</surname>
+                     <given-names>Susanne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Jo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Laurence</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>Organic Research Centre and Game &amp; Wildlife Conservation Trust</source>
+               <issue>151</issue>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic in Europe-prospects and developments</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meredith</surname>
+                     <given-names>Stephen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Willer</surname>
+                     <given-names>Helga</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>IFOAM EU Group and FiBL</publisher-name>
+               <publisher-loc>Brussels, Belgium</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technical efficiency of alternative farming systems: the case of Greek organic and conventional olive-growing farms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tzouvelekas</surname>
+                     <given-names>Vangelis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pantzios</surname>
+                     <given-names>Christos J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fotopoulos</surname>
+                     <given-names>Christos</given-names>
+                  </name>
+               </person-group>
+               <source>Food Policy</source>
+               <volume>26</volume>
+               <issue>6</issue>
+               <fpage>549</fpage>
+               <lpage>569</lpage>
+               <year>2001</year>
+               <pub-id pub-id-type="doi">10.1016/S0306-9192(01)00007-0</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The productive efficiency of organic farming: the case of grape sector in Catalonia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Guesmi</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Serra</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kallas</surname>
+                     <given-names>Z</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Roig</surname>
+                     <given-names>Jos\'e Mar\'\ia Gil</given-names>
+                  </name>
+               </person-group>
+               <source>Spanish Journal of Agricultural Research</source>
+               <issue>3</issue>
+               <fpage>552</fpage>
+               <lpage>566</lpage>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.5424/sjar/2012103-462-11</pub-id>
+               <publisher-name>Instituto Nacional de Investigaci\'on y Tecnolog\'\ia Agraria y Alimentaria (INIA)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The contribution of organic farming to rural development: An exploration of the socio-economic linkages of organic and non-organic farms in England</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lobley</surname>
+                     <given-names>Matt</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Allan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reed</surname>
+                     <given-names>Matt</given-names>
+                  </name>
+               </person-group>
+               <source>Land Use Policy</source>
+               <volume>26</volume>
+               <issue>3</issue>
+               <fpage>723</fpage>
+               <lpage>735</lpage>
+               <year>2009</year>
+               <pub-id pub-id-type="doi">10.1016/j.landusepol.2008.09.007</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic farm incomes in England and Wales</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moakes</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lampkin</surname>
+                     <given-names>Nicolas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gerrard</surname>
+                     <given-names>Catherine</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Organic Research Centre</publisher-name>
+               <publisher-loc>Newbury, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Economic performance of organic farms in Europe</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nieberg</surname>
+                     <given-names>Hiltrud</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Offermann</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Universität Hohenheim, Stuttgart-Hohenheim</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic versus conventional farming, which performs better financially?</article-title>
+               <publisher-name>European Commission</publisher-name>
+               <source>Farm Economics Brief</source>
+                                        
+               <year>2013</year>
+                                        <issue>4</issue>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+                        
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic or conventional? Optimal dairy farming technology under the EU milk quota system and organic subsidies</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Breustedt</surname>
+                     <given-names>Gunnar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Latacz-Lohmann, Uwe</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tiedemann</surname>
+                     <given-names>Torben</given-names>
+                  </name>
+               </person-group>
+               <source>Food Policy</source>
+               <volume>36</volume>
+               <issue>2</issue>
+               <fpage>223</fpage>
+               <lpage>229</lpage>
+               <year>2011</year>
+               <pub-id pub-id-type="doi">10.1016/j.foodpol.2010.11.019</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Scale Efficiency in Organic and Conventional Dairy Farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kargiannis</surname>
+                     <given-names>Giannis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Salhofer</surname>
+                     <given-names>Klaus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sinabell</surname>
+                     <given-names>Franz</given-names>
+                  </name>
+               </person-group>
+               <source>Congress Papers</source>
+               <issue-id>124119</issue-id>
+                                
+               <year>2012</year>
+               <conf-name>Italian Association of Agricultural and Applied Economics (AIEAA)</conf-name>
+               <conf-loc>Trento, Italy</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Joint estimation of technology choice and technical efficiency: an application to organic and conventional dairy farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kumbhakar</surname>
+                     <given-names>Subal C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tsionas</surname>
+                     <given-names>Efthymios G</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sipiläinen</surname>
+                     <given-names>Timo</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Productivity Analysis</source>
+               <volume>31</volume>
+               <issue>3</issue>
+               <fpage>151</fpage>
+               <lpage>161</lpage>
+               <year>2009</year>
+               <pub-id pub-id-type="doi">10.1007/s11123-008-0081-y</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Learning in organic farming-an application on Finnish dairy farms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sipiläinen</surname>
+                     <given-names>Timo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Oude Lansink, Alfons</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>XIth Congress of the EAAE (European Association of Agricultural Economists)</source>
+               <fpage>24</fpage>
+               <lpage>27</lpage>
+               <year>2005</year>
+               <conf-loc>Copenhagen, Denmark</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Cost-effectiveness of organic farming for achieving environmental policy targets in Switzerland</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schader</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Institute of Biological, Environmental and Rural Sciences, Aberystwyth, Aberystwyth University, Wales. Research Institute of Organic Agriculture (FiBL), Frick, Switzerland</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technical efficiency of organic milk-farms in Germany - the role of subsidies and of regional factors</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lakner</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+               </person-group>
+               <source>Agronomy Research</source>
+               <volume>7</volume>
+               <issue>Special issue II</issue>
+               <fpage>632</fpage>
+               <lpage>639</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Analysing production technology and risk in organic and conventional Dutch arable farming using panel data</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gardebroek</surname>
+                     <given-names>Cornelis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chavez</surname>
+                     <given-names>Mar\'\ia Daniela</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lansink</surname>
+                     <given-names>Alfons Oude</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Agricultural Economics</source>
+               <volume>61</volume>
+               <issue>1</issue>
+               <fpage>60</fpage>
+               <lpage>75</lpage>
+               <year>2010</year>
+               <pub-id pub-id-type="doi">10.1111/j.1477-9552.2009.00222.x</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Measuring multiple and single factor technical efficiency in organic farming: The case of Greek wheat farms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tzouvelekas</surname>
+                     <given-names>Vangelis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pantzios</surname>
+                     <given-names>Christos J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fotopoulos</surname>
+                     <given-names>Christos</given-names>
+                  </name>
+               </person-group>
+               <source>British Food Journal</source>
+               <volume>104</volume>
+               <issue>8</issue>
+               <fpage>591</fpage>
+               <lpage>609</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1108/00070700210425967</pub-id>
+               <publisher-name>MCB UP Ltd</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Opportunity costs of providing crop diversity in organic and conventional farming: would targeted environmental policies make economic sense?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sipiläinen</surname>
+                     <given-names>Timo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huhtala</surname>
+                     <given-names>Anni</given-names>
+                  </name>
+               </person-group>
+               <source>European Review of Agricultural Economics</source>
+               <volume>40</volume>
+               <issue>3</issue>
+               <fpage>441</fpage>
+               <lpage>462</lpage>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.1093/erae/jbs029</pub-id>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Production risk and technical efficiency in organic and conventional agriculture-the case of arable farms in Germany</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tiedemann</surname>
+                     <given-names>Torben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Latacz-Lohmann, Uwe</surname>
+                  </name>
+               </person-group>
+               <source>Journal of Agricultural Economics</source>
+               <volume>64</volume>
+               <issue>1</issue>
+               <fpage>73</fpage>
+               <lpage>96</lpage>
+               <year>2013</year>
+               <pub-id pub-id-type="doi">10.1111/j.1477-9552.2012.00364.x</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Survey and analysis of labour on organic farms in the UK and Republic of Ireland</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Morison</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hine</surname>
+                     <given-names>Rachel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pretty</surname>
+                     <given-names>Jules</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal of Agricultural Sustainability</source>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>24</fpage>
+               <lpage>43</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1080/14735903.2005.9684742</pub-id>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic farming and rural development: Some evidence from Austria</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Darnhofer</surname>
+                     <given-names>Ika</given-names>
+                  </name>
+               </person-group>
+               <source>Sociologia Ruralis</source>
+               <volume>45</volume>
+               <issue>4</issue>
+               <fpage>308</fpage>
+               <lpage>323</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1111/j.1467-9523.2005.00307.x</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Methodological and conceptual issues in the study of multifunctionality and rural development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Knickel</surname>
+                     <given-names>Karlheinz</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Renting</surname>
+                     <given-names>Henk</given-names>
+                  </name>
+               </person-group>
+               <source>Sociologia ruralis</source>
+               <volume>40</volume>
+               <issue>4</issue>
+               <fpage>512</fpage>
+               <lpage>528</lpage>
+               <year>2000</year>
+               <pub-id pub-id-type="doi">10.1111/1467-9523.00164</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Frontier production functions, technical efficiency and panel data: with application to paddy farmers in India</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Battese</surname>
+                     <given-names>George E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Coelli</surname>
+                     <given-names>Tim J</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of productivity analysis</source>
+               <volume>3</volume>
+               <issue>1-2</issue>
+               <fpage>153</fpage>
+               <lpage>169</lpage>
+               <year>1992</year>
+               <pub-id pub-id-type="doi">10.1007/BF00158774</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Comparison of the Economic Performance between Organic and Conventional Dairy Farms in the Swiss Mountain Region Using Matching and Stochastic Frontier Analysis</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Flubacher</surname>
+                     <given-names>Moritz</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sheldon</surname>
+                     <given-names>George</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Müller</surname>
+                     <given-names>Adrian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Journal of Socio-Economics in Agriculture (Until 2015: Yearbook of Socioeconomics in Agriculture)</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>76</fpage>
+               <lpage>84</lpage>
+               <year>2015</year>
+               <publisher-name>Swiss Society for Agricultural Economics and Rural Sociology</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technology adoption and technical efficiency: organic and conventional dairy farms in the United States</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mayen</surname>
+                     <given-names>Carlos D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Balagtas</surname>
+                     <given-names>Joseph V</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alexander</surname>
+                     <given-names>Corinne E</given-names>
+                  </name>
+               </person-group>
+               <source>American Journal of Agricultural Economics</source>
+               <volume>92</volume>
+               <issue>1</issue>
+               <fpage>181</fpage>
+               <lpage>195</lpage>
+               <year>2010</year>
+               <pub-id pub-id-type="doi">10.1093/ajae/aap018</pub-id>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Comparing conventional and organic citrus grower efficiency in Spain</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beltrán-Esteve, Mercedes</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reig-Mart\'\inez, Ernest</surname>
+                  </name>
+               </person-group>
+               <source>Agricultural Systems</source>
+               <volume>129</volume>
+               <fpage>115</fpage>
+               <lpage>123</lpage>
+               <year>2014</year>
+               <pub-id pub-id-type="doi">10.1016/j.agsy.2014.05.014</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technical efficiency in organic and conventional farming: Evidence from Italian cereal farms</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Madau</surname>
+                     <given-names>Fabio A</given-names>
+                  </name>
+               </person-group>
+               <source>Agricultural Economics Review</source>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>21</lpage>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The efficiency of Spanish arable crop organic farms, a local maximum likelihood approach</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Serra</surname>
+                     <given-names>Teresa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goodwin</surname>
+                     <given-names>Barry K</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Productivity Analysis</source>
+               <volume>31</volume>
+               <issue>2</issue>
+               <fpage>113</fpage>
+               <lpage>124</lpage>
+               <year>2009</year>
+               <pub-id pub-id-type="doi">10.1007/s11123-008-0124-4</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effciency and productivity of conventional and organic farms in Finland 1994-1997</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lansink</surname>
+                     <given-names>Alfons Oude</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pietola</surname>
+                     <given-names>Kyösti</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bäckman</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <source>European Review of Agricultural Economics</source>
+               <volume>29</volume>
+               <issue>1</issue>
+               <fpage>51</fpage>
+               <lpage>65</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1093/erae/29.1.51</pub-id>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Efficiency Analysis of Organic Farming Systems-A Review of Concepts, Topics, Results and Conclusions</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lakner</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Breustedt</surname>
+                     <given-names>Gunnar</given-names>
+                  </name>
+               </person-group>
+               <source>German Journal of Agricultural Economics</source>
+               <volume>66</volume>
+               <issue>2</issue>
+               <fpage>85</fpage>
+               <lpage>108</lpage>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technical efficiency of organic pasture farming in Germany: The role of location economics and of specific knowledge</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lakner</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>von Cramon-Taubadel, Stephen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brümmer</surname>
+                     <given-names>Bernhard</given-names>
+                  </name>
+               </person-group>
+               <source>Renewable Agriculture and Food Systems</source>
+               <volume>27</volume>
+               <issue>3</issue>
+               <fpage>228</fpage>
+               <lpage>241</lpage>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.1017/S1742170511000330</pub-id>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic farmers’ motivations and challenges for adopting conservation agriculture in Europe</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Casagrande</surname>
+                     <given-names>Marion</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peign\'e</surname>
+                  </name>
+               </person-group>
+               <source>Organic Agriculture</source>
+               <volume>6</volume>
+               <issue>4</issue>
+               <fpage>281</fpage>
+               <lpage>295</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1007/s13165-015-0136-0</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Converting or not converting to organic farming in Austria: Farmer types and their rationale</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Darnhofer</surname>
+                     <given-names>Ika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schneeberger</surname>
+                     <given-names>Walter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Freyer</surname>
+                     <given-names>Bernhard</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture and human values</source>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>39</fpage>
+               <lpage>52</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1007/s10460-004-7229-9</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>What influences the growth of organic farms? Evidence from a panel of organic farms in Germany</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brenes-Munoz, Thelma</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lakner</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bruemmer</surname>
+                     <given-names>Bernhard</given-names>
+                  </name>
+               </person-group>
+               <source>German Journal of Agricultural Economics</source>
+               <volume>65</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>15</lpage>
+               <year>2016</year>
+               <publisher-name>DEUTSCHER FACHVERLAG GMBH MAINZER LANDSTRASSE 251, 60328 FRANKFURT MAIN, GERMANY</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Technical efficiency among organic and conventional farms in Sweden 2000-2002: a counterfactual and self selection analysis</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Larsen</surname>
+                     <given-names>Karin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Foster</surname>
+                     <given-names>Ken</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>American Agricultural Economics Association Annual Meeting</source>
+               <fpage>24</fpage>
+               <lpage>27</lpage>
+               <year>2005</year>
+               <conf-loc>Providence, RI, USA</conf-loc>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic farms in a changing policy environment: impacts of support payments, EU-enlargement and Luxembourg reform</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nieberg</surname>
+                     <given-names>Hiltrud</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Offermann</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zander</surname>
+                     <given-names>Katrin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <publisher-name>Universität Hohenheim, Institut für Landwirtschaftliche Betriebslehre</publisher-name>
+               <publisher-loc>Stuttgart, Germany</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic agriculture values and practices in Portugal and Italy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dinis</surname>
+                     <given-names>Isabel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ortolani</surname>
+                     <given-names>Livia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bocci</surname>
+                     <given-names>Riccardo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brites</surname>
+                     <given-names>Cláudia</given-names>
+                  </name>
+               </person-group>
+               <source>Agricultural Systems</source>
+               <volume>136</volume>
+               <fpage>39</fpage>
+               <lpage>45</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.agsy.2015.01.007</pub-id>
+               <year>2015</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>IFOAM Basic Standards.Bonn, Germany</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IFOAM</surname>
+                  </name>
+               </person-group>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Intensification of workplace regimes in British horticulture: the role of migrant workers</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rogaly</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+               </person-group>
+               <source>Population, Space and Place</source>
+               <volume>14</volume>
+               <issue>6</issue>
+               <fpage>497</fpage>
+               <lpage>510</lpage>
+               <year>2008</year>
+               <pub-id pub-id-type="doi">10.1002/psp.502</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Comparative assessment of migrant farm worker health in conventional and organic horticultural systems in the United Kingdom</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cross</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Edwards</surname>
+                     <given-names>Rhiannon T</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hounsome</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Edwards-Jones, Gareth</surname>
+                  </name>
+               </person-group>
+               <source>Science of the Total Environment</source>
+               <volume>391</volume>
+               <issue>1</issue>
+               <fpage>55</fpage>
+               <lpage>65</lpage>
+               <year>2008</year>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2007.10.048</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Semi-compliance and illegality in migrant labour markets: an analysis of migrants, employers and the state in the UK</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruhs</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>Bridget</given-names>
+                  </name>
+               </person-group>
+               <source>Population, space and place</source>
+               <volume>16</volume>
+               <issue>3</issue>
+               <fpage>195</fpage>
+               <lpage>211</lpage>
+               <year>2010</year>
+               <pub-id pub-id-type="doi">10.1002/psp.588</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>\'Evaluation des effets propres de la conversion \`a l’agriculture biologique sur l’emploi</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chambru</surname>
+                     <given-names>C\'edric</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Ecole Polytechnique</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Many shades of gray—The context-dependent performance of organic agriculture</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seufert</surname>
+                     <given-names>Verena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramankutty</surname>
+                     <given-names>Navin</given-names>
+                  </name>
+               </person-group>
+               <source>Science advances</source>
+               <volume>3</volume>
+               <issue>3</issue>
+               <fpage>1602638</fpage>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1126/sciadv.1602638</pub-id>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Short Food Supply Chains, Long Working Days: Active Work and the Construction of Professional Satisfaction in French Diversified Organic Market Gardening</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dupr\'e</surname>
+                  </name>
+               </person-group>
+               <source>Sociologia Ruralis</source>
+               <volume>57</volume>
+               <issue>3</issue>
+               <fpage>396</fpage>
+               <lpage>414</lpage>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1111/soru.12178</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Crop management, labour organization, and marketing: three key issues for improving sustainability in organic vegetable farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Navarrete</surname>
+                     <given-names>Mireille</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dupr\'e</surname>
+                  </name>
+               </person-group>
+               <source>International journal of agricultural sustainability</source>
+               <volume>13</volume>
+               <issue>3</issue>
+               <fpage>257</fpage>
+               <lpage>274</lpage>
+               <year>2015</year>
+               <pub-id pub-id-type="doi">10.1080/14735903.2014.959341</pub-id>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Workload on organic and conventional family farms in Switzerland</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reissig</surname>
+                     <given-names>Linda</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kohler</surname>
+                     <given-names>Andreas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rossier</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+               </person-group>
+               <source>Organic Agriculture</source>
+               <volume>6</volume>
+               <issue>3</issue>
+               <fpage>225</fpage>
+               <lpage>242</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1007/s13165-015-0131-5</pub-id>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ecological citizenship and sustainable consumption: Examining local organic food networks</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seyfang</surname>
+                     <given-names>Gill</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of rural studies</source>
+               <volume>22</volume>
+               <issue>4</issue>
+               <fpage>383</fpage>
+               <lpage>395</lpage>
+               <year>2006</year>
+               <pub-id pub-id-type="doi">10.1016/j.jrurstud.2006.01.003</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Understanding alternative food networks: exploring the role of short food supply chains in rural development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Renting</surname>
+                     <given-names>Henk</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marsden</surname>
+                     <given-names>Terry K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Banks</surname>
+                     <given-names>Jo</given-names>
+                  </name>
+               </person-group>
+               <source>Environment and planning A</source>
+               <volume>35</volume>
+               <issue>3</issue>
+               <fpage>393</fpage>
+               <lpage>411</lpage>
+               <year>2003</year>
+               <pub-id pub-id-type="doi">10.1068/a3510</pub-id>
+               <publisher-name>SAGE Publications Sage UK: London, England</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Evaluating the impact of rural development measures on farm labour use: a spatial approach</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Desjeux</surname>
+                     <given-names>Yann</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dupraz</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Latruffe</surname>
+                     <given-names>Laure</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maigne</surname>
+                     <given-names>Elise</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cahuzac</surname>
+                     <given-names>Eric</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>EAAE Congress: Agri-Food and Rural Innovations for Healthier Societies</source>
+               <conf-loc>Ljubljana, Slovenia</conf-loc>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
