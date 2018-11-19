@@ -1,0 +1,2263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2018.06010052</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Identifying Context-Specific Categories for Visualizing Livability of Cities—a Case Study of Malmö</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Takahashi</surname>
+                  <given-names>Kyoko</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kudo</surname>
+                  <given-names>Shogo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Tateishi</surname>
+                  <given-names>Eigo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Furukawa</surname>
+                  <given-names>Norikazu</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nordqvist</surname>
+                  <given-names>Joakim</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Allasiw</surname>
+                  <given-names>Doreen</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Graduate Program in Sustainability Science - Global Leadership Initiative, Graduate School of Frontier Sciences, The University of Tokyo, Japan</aff>
+         <aff id="A3">
+            <label>2</label>Department of Urban Studies, Malmö University, Sweden</aff>
+         <pub-date pub-type="ppub">
+            <day>05</day>
+            <month>11</month>
+            <year>2018</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>1</issue>
+         <fpage>52</fpage>
+         <lpage>64</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Livability is a concept being applied to cities, even though it is vague. Worldwide, there are several livable city ranking schemes in use, which compare the livability of cities by making use of standardized indicator sets. The research presented here recognizes, as a point of departure, that each city is unique, implying that comparisons of cities by standardized categories only does not adequately reflect the reality of each city. A qualitative approach to identify context-specific categories of livability is proposed and employed to the case of Malmo ̈ in Sweden. Through interviews, nine context-specific categories were identified and visualized. The findings of the study demonstrate that a qualitative approach enables a more in-depth description of livability categories because it can capture and illustrate relationships among the categories. An explicit awareness of such relationships may provide a more holistic perspective to city officials and planners as they aim to improve the livability of their cities. The study concludes that a qualitative approach in identifying context-specific categories can complement existing assessment schemes and allow a better grasp of livability challenges to cities.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>context-specific categories</kwd>
+            <kwd>livability</kwd>
+            <kwd>Malmö</kwd>
+            <kwd>visualizing livability</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Cities are widely considered as pivotal actors for sustainable development efforts. Goal 11 of the United Nations’ Sustainable Development Goals (SDGs) aims at ensuring inclusive, safe, resilient, and sustainable development of urban settlements [<xref ref-type="bibr" rid="R01">1</xref>], and urbanization can be seen as a positive driver for socio-economic development in cities. Some of the benefits it might (but does not necessarily) bring include (i) the fostering of human resource development, (ii) improved quality of life for dwellers, and (iii) employment and decent work [<xref ref-type="bibr" rid="R02">2</xref>].</p>
+         <p>‘Livability’ has been proposed as a key concept for city development [<xref ref-type="bibr" rid="R03">3</xref>], with the underlying assumption that a ‘livable city’ attracts labor force, investors, innovators and entrepreneurs—those who contribute to the economic growth of cities. Thus, especially from an economic perspective, livability can be seen as an important concept. It is inextricably linked to sustainability [<xref ref-type="bibr" rid="R04">4</xref>], and one may argue that, at least in in an urban context, the two concepts are practically indistinguishable [<xref ref-type="bibr" rid="R05">5</xref>]. Nonetheless, livability is a separate and broadly used term; even though it lacks a precise or generally agreed-upon definition [<xref ref-type="bibr" rid="R06">6</xref>]. Its meaning remains nebulous with a variety of existing interpretations. One definition is that livability can be represented by three dimensions relating to human habitation and well-being, namely ‘suitability’, ‘tolerability’, and ‘functionality’ [<xref ref-type="bibr" rid="R04">4</xref>]. Alternatively, it specifically relates to those elements of ‘home’, ‘neighborhood’, and ‘city’ that have to do with safety, economic opportunities and welfare, health, convenience, mobility, and recreation [<xref ref-type="bibr" rid="R07">7</xref>]. Another definition describes livability as consisting of four key domains or ‘umbrella’ concepts. These are (i) social development, (ii) environmental sustainability, (iii) economic performance, and (iv) good governance [<xref ref-type="bibr" rid="R08">8</xref>], which encompass several inter-related issues [<xref ref-type="bibr" rid="R09">9</xref>].</p>
+         <p>The livability of a city generally links strongly to economic conditions at the national level. During an economic recession, cities may struggle to attract talented human resources who would increase or maintain their economic attractiveness [<xref ref-type="bibr" rid="R03">3</xref>]. On the other hand, economic growth can cause negative consequences as well, such as environmental degradation and deterioration of living environments. Thus, economic growth alone is not a sufficient requisite for the achievement of livability. Other dimensions of the economy are equally important in enhancing quality of life and making cities more livable [<xref ref-type="bibr" rid="R06">6</xref>]. Recognition of such complexities and a growing interest in the concept have led to the adoption of various indicator sets in order to measure the livability of cities. Inevitably, confluence with the development of indicators for urban sustainability is considerable [<xref ref-type="bibr" rid="R10">10</xref>]. This study, however, takes its point of departure in schemes that explicitly home in on livability.</p>
+         <p>Assuming that resource owners resort to livable city rankings in choosing ‘the best city’ in which to settle, global competition among cities would occur [<xref ref-type="bibr" rid="R11">11</xref>], wherein ranking schemes become guiding stars also for public policy- and decision-makers who strive to make their cities more attractive to globally mobile resources—including talent, high–net-worth individuals, innovators, entrepreneurs, investors, and capital [<xref ref-type="bibr" rid="R12">12</xref>]. Arguably, such a premise represents an intrinsically flawed perspective on decision making [<xref ref-type="bibr" rid="R13">13</xref>], which does not mean that it is without significance, neither in the eyes of those who create rankings, nor to actual outcomes of policies and governance.</p>
+         <p>One critique to currently used livable city rankings is their extensive use of proxy indicators, which is due to the unavailability of actual or complementary data [<xref ref-type="bibr" rid="R14">14</xref>]. In addition, the use of composite indicator schemes, which aim at deriving an integrated index from a combination of several single measurements using weighting and statistical methods [<xref ref-type="bibr" rid="R15">15</xref>], is also criticized as it fails to capture the complex and multidimensional nature of urban livability. Moreover, this study points out that there are discrepancies between the state of livability perceived by locals and by external reviewers. This circumstance is a significant issue since most livable city schemes are created by actors that are external to the target cities. Typically, existing standardized methods for measuring urban livability (cf. Section 2 below) have been developed to make comparisons between different cities and release city rankings, thus failing to capture the contextual and qualitative uniqueness of each city.</p>
+         <p>Against the backdrop of such critique, in acknowledgement of the fact that each city is contextually unique, the comparison of different cities by sets of standardized indicator categories appears to be an inadequate way in which to reflect actual city livability. Previous studies suggest that indicators of a more descriptive or contextual kind could provide key insights to city conditions and constitute vital sources of information for the evaluation of social-ecological issues and economic performance, as well as for the assessment of needs and resource distribution [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>]. Both context and quality of livability vary from place to place [<xref ref-type="bibr" rid="R19">19</xref>], yet standardized indicator sets typically only include quantitatively measurable aspects and fail to incorporate local perceptions and experiences [<xref ref-type="bibr" rid="R06">6</xref>].
+</p>
+         <p>Appreciating that livability as a concept is a composite of multiple dimensions, both quantitative and qualitative, this study follows up on the inadequacies addressed above and explores a possible way in which to address them. It aims to present how appreciation of the qualitative dimensions of livability can be developed, and it does so through an inductive case study on the city of Malmö, Sweden, which provides an empirical basis for identifying context-specific livability categories. While recognizing the limitations of case study methodology in research on and development of indicators—for example with regards to generalization—it seeks to draw on its strengths, including openness for new patterns to emerge and for old ones to be questioned [<xref ref-type="bibr" rid="R20">20</xref>].</p>
+         <p>Having elaborated in Section 1 on the concept of livability and its significance to cities, a theoretical foundation for the study described in this article has been laid. Section 2 explores existing livable city ranking schemes and provides a point of reference for efforts to complement them. Section 3 presents the chosen case study city, reasons for its selection, and the methodology of the empirical study performed, the outcomes of which are presented in Section 4. These outcomes are subsequently discussed and elaborated on in Section 5. Section 6 concludes the article with summarizing notes and messages from the authors.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Existing Livable City Ranking Schemes</title>
+         <p>Livability can be described as a measure of whether people’s aspirations of basic living conditions are met. To the extent that built, societal and social environments can affect such aspirations, livable city rankings are meant to capture and reflect this condition on an aggregated level [<xref ref-type="bibr" rid="R05">5</xref>]. Table <xref ref-type="table" rid="Tab1">1</xref> presents a selection of nine such rankings that are internationally applied [<xref ref-type="bibr" rid="R21">21</xref>]
+            1
+            footnote 1
+            1
+            footnote 1
+          Although there are ranking schemes that create a more holistic and comprehensive measurement of livability, including City Analysis Methodology (CAM) and UK City Life [<xref ref-type="bibr" rid="R22">22</xref>], these were not included in Table <xref ref-type="table" rid="Tab1">1</xref> since they are only applied to cities within the UK. CAM is an innovative urban analysis framework that aims at providing a holistic evaluation of livability in UK cities with regard to well-being, resource security and CO<inline-formula>
+               <mml:math id="footnote1.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> emissions [<xref ref-type="bibr" rid="R23">23</xref>]. The UK City Life, similarly, aims at providing a comprehensive and holistic evaluation of livability in UK cities [<xref ref-type="bibr" rid="R22">22</xref>]. These two schemes show more openness towards the development of a more holistic approach in measuring urban livability than the international schemes selected for this study.. Despite the inclusion of many variables, as shown in Table <xref ref-type="table" rid="Tab1">1</xref>, these ranking schemes still fail to adequately illustrate critical dimensions of urban livability [<xref ref-type="bibr" rid="R24">24</xref>]. Notably, the livability rankings included here apply standard quantitative measurements such as annual GDP growth, public infrastructure condition, and educational quality [<xref ref-type="bibr" rid="R21">21</xref>]. These types of quantitative data are often readily available and accessible, but this approach, exclusively focusing on mean or median scores of set indicators to compare cities [<xref ref-type="bibr" rid="R06">6</xref>], fails to illustrate the unique characteristics of each city. Furthermore, a closer look at the lists of indicators reveals that, while most schemes try to be as comprehensive as possible, others cover only a limited number of categories. One example, where supposedly significant characteristic have been omitted, is the exclusion of governance aspects by the Global Power City Index.</p>
+         <p>There is growing recognition that livability attributes vary from place to place, which has inspired the inclusion of contextually relevant local indicators [<xref ref-type="bibr" rid="R19">19</xref>], but this trend has only been applied within the transport sector and not to whole sectors [<xref ref-type="bibr" rid="R07">7</xref>]. To address this shortcoming, generation of complementary indicators that illustrate the multiple dimensions of livability is needed [<xref ref-type="bibr" rid="R06">6</xref>]. In order to distill livability categories to apply as a point of reference in the study presented in this article, the authors coded and sorted key content—or ‘topics’—in the descriptions of the nine selected schemes. The result is an amalgamation consisting of eleven categories. These and their constituent topics are displayed in Table <xref ref-type="table" rid="Tab2">2</xref>.</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Overview of nine selected livable city ranking schemes. Adapted from [<xref ref-type="bibr" rid="R21">21</xref>], and modified by the authors.</title>
+            </caption>
+         </table-wrap>
+         <table-wrap position="float" orientation="portrait">
+            <table>
+               <thead>
+                  <tr>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Name of Index
+                  
+                  
+                    and Rankings
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Cities
+                  
+                  
+                    of Opportunity
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Global Cities</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Global City
+                  
+                  
+                    Competitiveness
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Global
+                  
+                  
+                    Livability
+                  
+                  
+                    Rankings
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Global Livable
+                  
+                  
+                    Cities Index
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Global
+                  
+                  
+                    Power City
+                  
+                  
+                    Index
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Quality of
+                  
+                  
+                    Life Survey
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Quality
+                  
+                  
+                    of Living
+                  
+                  
+                    Rankings
+                  
+                </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Teleport
+                  
+                  
+                    cities
+                  
+                </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Organization</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">
+                  
+                    Pricewaterhouse
+                  
+                  
+                    Coopers (PwC)
+                  
+                </td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">ATKearney</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">EIU and Citibank</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">
+                  
+                    Economic
+                  
+                  
+                    Intelligence
+                  
+                  
+                    Unit (EIU)
+                  
+                </td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">
+                  
+                    Lee Kuan Yew
+                  
+                  
+                    School of Public
+                  
+                  
+                    Policy
+                  
+                </td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Mori Foundation</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Monocle</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Mercer</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Topia company</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Number of indicators
+                  
+                  
+                    and categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    67 indicators in 10
+                  
+                  
+                    categories in 3 areas
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    40 indicators in
+                  
+                  
+                    9 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    31 indicators in
+                  
+                  
+                    8 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    30 indicators in
+                  
+                  
+                    5 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    85 indicators in
+                  
+                  
+                    5 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    70 indicators in
+                  
+                  
+                    6 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">11 indicators</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    39 indicators in
+                  
+                  
+                    8 categories
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    123 indicators
+                  
+                  
+                    in 17 categories
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">Categories</td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Tools for a
+                    
+                    
+                      changing world
+                    
+                    
+                      (Innovation,
+                    
+                    
+                      Technology,
+                    
+                    
+                      Gateway)
+                    
+                    
+                      2.Quality of Life
+                    
+                    
+                      (Infrastructure,
+                    
+                    
+                      Safety, Nature,
+                    
+                    
+                      Livability)
+                    
+                    
+                      3.Economics
+                    
+                    
+                      (economy,
+                    
+                    
+                      business, cost)
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Business
+                    
+                    
+                      activity
+                    
+                    
+                      2.Human
+                    
+                    
+                      Capital
+                    
+                    
+                      3.Information
+                    
+                    
+                      Exchange
+                    
+                    
+                      4.Cultural
+                    
+                    
+                      Experience
+                    
+                    
+                      5.Political
+                    
+                    
+                      Engagement
+                    
+                    
+                      6.Personal
+                    
+                    
+                      Wellbeing
+                    
+                    
+                      7.Economics
+                    
+                    
+                      8.Innovation
+                    
+                    
+                      9.Governance
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Economic
+                    
+                    
+                      Strength
+                    
+                    
+                      2.Human
+                    
+                    
+                      Capital
+                    
+                    
+                      3.Institutional
+                    
+                    
+                      Effectiveness
+                    
+                    
+                      4.Financial
+                    
+                    
+                      Maturity
+                    
+                    
+                      5.Global
+                    
+                    
+                      Appeal
+                    
+                    
+                      6.Physical
+                    
+                    
+                      Capital
+                    
+                    
+                      7.Environment
+                    
+                    
+                      and Natural
+                    
+                    
+                      Hazards
+                    
+                    
+                      8.Social and
+                    
+                    
+                      Cultural Character
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Stability
+                    
+                    
+                      2.Healthcare
+                    
+                    
+                      3.Culture
+                    
+                    
+                      and Environment
+                    
+                    
+                      4.Education
+                    
+                    
+                      5.Infrastructure
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Economic
+                    
+                    
+                      Vibrancy and
+                    
+                    
+                      Competitiveness
+                    
+                    
+                      2.Environment
+                    
+                    
+                      Sustainability
+                    
+                    
+                      and Friendliness
+                    
+                    
+                      3.Domestic
+                    
+                    
+                      Security
+                    
+                    
+                      and Stability
+                    
+                    
+                      4.Social
+                    
+                    
+                      Cultural
+                    
+                    
+                      Conditions
+                    
+                    
+                      5.Political
+                    
+                    
+                      Governance
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Economy
+                    
+                    
+                      2.Research
+                    
+                    
+                      and Development
+                    
+                    
+                      3.Cultural
+                    
+                    
+                      Interaction
+                    
+                    
+                      4.Livability
+                    
+                    
+                      5.Environment
+                    
+                    
+                      6.Accessibility
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Safety/crime
+                    
+                    
+                      2.International
+                    
+                    
+                      connectivity
+                    
+                    
+                      3.Climate/sunshine
+                    
+                    
+                      4.Quality
+                    
+                    
+                      of architecture
+                    
+                    
+                      5.Public
+                    
+                    
+                      transportation
+                    
+                    
+                      6.Tolerance
+                    
+                    
+                      7.Environmental
+                    
+                    
+                      issues and access
+                    
+                    
+                      to nature
+                    
+                    
+                      8.Urban
+                    
+                    
+                      design
+                    
+                    
+                      9.Business
+                    
+                    
+                      conditions
+                    
+                    
+                      10.Pro-active
+                    
+                    
+                      policy
+                    
+                    
+                      11.Medical
+                    
+                    
+                      care
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Politics
+                    
+                    
+                      2.Economy
+                    
+                    
+                      3.Environment
+                    
+                    
+                      4.Personal
+                    
+                    
+                      safety
+                    
+                    
+                      5.Health
+                    
+                    
+                      6.Education
+                    
+                    
+                      7.Transportation
+                    
+                    
+                      8.Other public service
+                    
+                  </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                    
+                      1.Housing
+                    
+                    
+                      2.Living
+                    
+                    
+                      cost
+                    
+                    
+                      3.Startups
+                    
+                    
+                      4.Venture
+                    
+                    
+                      capital
+                    
+                    
+                      5.Travel
+                    
+                    
+                      connectivity
+                    
+                    
+                      6.Commute
+                    
+                    
+                      7.Business
+                    
+                    
+                      Freedom
+                    
+                    
+                      8.Safety
+                    
+                    
+                      9.Healthcare
+                    
+                    
+                      10.Education
+                    
+                    
+                      11.Environment
+                    
+                    
+                      12.Economy
+                    
+                    
+                      13.Taxation
+                    
+                    
+                      14.Internet
+                    
+                    
+                      15.Leisure
+                    
+                    
+                      and Culture
+                    
+                    
+                      16.Tolerance
+                    
+                    
+                      17.Outdoors
+                    
+                  </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab2" position="float" orientation="portrait">
+            <label>Table 2</label>
+            <caption>
+               <title>Categories and topics that reflect the combined content of the ranking schemes presented in Table <xref ref-type="table" rid="Tab1">1</xref>.</title>
+            </caption>
+         </table-wrap>
+         <table-wrap position="float" orientation="portrait">
+            <table>
+               <thead>
+                  <tr>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>No.</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Category</bold>
+                     </td>
+                     <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Covered topics</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">1</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Economics</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">
+                  
+                    Capital flow, Market dynamics and integration, Major companies presence,
+                  
+                  
+                    Currency exchange regulation, Banking services, Investment, GDP,
+                  
+                  
+                    Entrepreneur environment, No of headquarters, Employment, Foreign
+                  
+                  
+                    direct investment, Business environment, Household consumption,
+                  
+                  
+                    Trade barriers, Free trade agreements, Economic freedom
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">2</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Education</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Quality of public and private education, Availability of international schools,
+                  
+                  
+                    Library, Level of science education, University
+                  
+                  
+                    ranking, No of researchers, Government expenditure on education,
+                  
+                  
+                    Tertiary education enrolment and achievement
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">3</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Governance</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Transparency, Quality of bureaucracy, Ease of doing business, Taxation,
+                  
+                  
+                    Government effectiveness, Law enforcement, No of embassies,
+                  
+                  
+                    National debts, Judicial system
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Human
+                  
+                  
+                    resource
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Population growth, Work-age population, Income level, Education level,
+                  
+                  
+                    Mindset, Hiring foreign nationals, Think tanks, Global leadership,
+                  
+                  
+                    Intellectual property, Labor productivity, Demographic burden
+                  
+                  
+                    (child dependency ratio, old age dependency ratio)
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">5</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Information
+                  
+                  
+                    exchange
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Access to internet and other media sources, Speed of mobile broadband,
+                  
+                  
+                    ICT, Digital security, Software development
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">6</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Natural
+                  
+                  
+                    environment
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Humidity, Temperature, Natural disasters, Access to nature, Recycling,
+                  
+                  
+                    Greenhouse gas emissions, Air and water pollution, Parks,
+                  
+                  
+                    Environmental regulation and agreement
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">7</td>
+                     <td align="left" style="" rowspan="1" colspan="1">External relationship</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Threat of terror, Threat of civil conflict, Threat of military conflict,
+                  
+                  
+                    International flights, International conferences, No of hotels and
+                  
+                  
+                    foreign visitors, Airport function
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">8</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Personal
+                  
+                  
+                    well-being
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Personal freedom, Safety (crime, police reliability, ethnic and
+                  
+                  
+                    religious conflict), Healthcare (government health expenditure,
+                  
+                  
+                    quality of public hospital, infant mortality, life expectancy),
+                  
+                  
+                    Inequality, Living cost
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">9</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Physical
+                  
+                  
+                    capital
+                  
+                </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Physical infrastructure, Transportation (public transport: prevalence,
+                  
+                  
+                    punctuality and price; congestion, accessibility for commuting,
+                  
+                  
+                    No of traffic accidents), Telecommunications, Architectural construction,
+                  
+                  
+                    Residence, Road
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">10</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Politics</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Relationship with other countries, Political stability on violence,
+                  
+                  
+                    Political events
+                  
+                </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">11</td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                  
+                    Social
+                  
+                  
+                    and cultural
+                  
+                  
+                    character
+                  
+                </td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                  
+                    Personal freedom, Human rights, Openness, Diversity, Food,
+                  
+                  
+                    Daily goods, Alcohol, Restaurants, Sports activities,
+                  
+                  
+                    Entertainment and leisure activities, Opportunity for tradition
+                  
+                  
+                    and history, Events, No of museums
+                  
+                </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s3">
+         <title>3.- Case Study of Malmö, Sweden</title>
+         <p>By comparing indicator categories and topics from Table <xref ref-type="table" rid="Tab2">2</xref> with empirically established priorities, this article explores the proposition of generating contextually relevant local livability indicators. The empirical information was collected in a case study performed in 2016 in Malmö, Sweden, as described below (Section 3.3).</p>
+         <sec id="s3.1">
+            <title>3.1.- Description of Malmö</title>
+            <p>Malmö is the third most populous city in Sweden with approximately 320,000 inhabitants [<xref ref-type="bibr" rid="R25">25</xref>]. Its demographic composition is diverse and young, with 32% of the city’s population originating in other countries, together representing 170 nationalities, and with an average age of 38.5 years [<xref ref-type="bibr" rid="R26">26</xref>]. Located in the southern-most part of Sweden, it is situated adjacent to Denmark’s capital city of Copenhagen, as depicted in Figure <xref ref-type="fig" rid="Fig1">1</xref>. Red lines in Figure <xref ref-type="fig" rid="Fig1">1</xref> indicate the coastal line and land border of Sweden. The two cities are physically linked through a combined bridge and tunnel connection which spans the Öresund Strait. The map in Figure <xref ref-type="fig" rid="Fig2">2</xref> shows the physical plan of the built environment within the municipal boundaries of the City of Malmö with residential areas marked in red. Socio-economically the resident distribution has a higher mean income in the western and northern parts of the city, whereas the eastern and southern parts have a higher proportion of socially and economically challenged households. Industrial areas flank the city to the north and to the south, with several old industrial districts in proximity of the city center being or having been redeveloped into residential areas or mixed urban environments of residence and business. Current planning priorities prescribe the ongoing expansion to occur through urban densification within the perimeters of the Outer Ring Road which circumscribes the city. The oldest parts of urban settlement in Malmö are surrounded by canals in the city center, just south of the main train station in the old harbor area. Malmö went through economic recession and depopulation in 1980s, but has since recovered. Internationally acclaimed and awarded—receiving, for example, a Livable Communities Award in 2007—it still faces numerous challenges [<xref ref-type="bibr" rid="R27">27</xref>], and for the purpose of exploring livability indicators it presents an interesting case.</p>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                  <title>Malmö location maps [<xref ref-type="bibr" rid="R28">28</xref>]. </title>
+               </caption>
+               <graphic xlink:href="figure1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                  <title>Malmö map [<xref ref-type="bibr" rid="R29">29</xref>]. </title>
+               </caption>
+               <graphic xlink:href="figure2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Malmö’s Relevance as a Case for Studying Livability</title>
+            <p>Malmö provides for an interesting case study for the following two reasons.</p>
+            <p>Firstly, the city has gone through major transformation in terms of economic structural changes, successfully recovering from recession and population decline. These recent economic and demographic developments in Malmö are unique [<xref ref-type="bibr" rid="R25">25</xref>]. The city first underwent severe hardships following the transformation of local industries: in the 1970s its population peaked at 266,000 and progressively diminished to reach merely 229,000 by 1985 due to massive loss of employment opportunities in shipyard and other manufacturing industries [<xref ref-type="bibr" rid="R25">25</xref>]. It then managed to radically shift its dependence away from heavy industries to a wider array of knowledge-based businesses in sectors such as bio-medical science, environment, IT, digital media, game industry and education [<xref ref-type="bibr" rid="R26">26</xref>]. Under stable political conditions and unchanging leadership between 1994 and 2013, ‘work of vision’ largely affected city development and planning including, for example, the content of successive updates of the city’s Comprehensive Plan [<xref ref-type="bibr" rid="R30">30</xref>]. These visions, influenced inter alia by the Swedish economist Åke E. Andersson’s ‘K-society’—based on knowledge (Kunskap), capital (Kapital), communication (Kommunikation), and culture (Kultur)—set the course toward a more creative and innovative urban fabric [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>]. Additionally, large-scale public investments including financial support from the national government contributed to the renewal of the city’s built environment, from old heavy-industrial buildings to other kinds of structures such as eco districts (for example Augustenborg and Bo01), university buildings, and cultural complexes (for example Malmö Live) [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>]. As a result, Malmö has become a center for employment in innovative and creative industries and the population has increased rapidly. Current estimates predict that the total population of Malmö will reach 377,000 by 2025 [<xref ref-type="bibr" rid="R26">26</xref>].</p>
+            <p>Secondly, although Malmö is too small, even with forecasted growth, for the majority of livable city ranking schemes, it does feature as a target city included by the set of schemes in Table <xref ref-type="table" rid="Tab1">1</xref>. Existing rankings generally focus only on more populous cities, with the exception, however, of Mercer’s Quality of Life (QoL) ranking and the Teleport Cities ranking by Topia. The latter rates 266 cities including Malmö, evaluating it as one of its top cities within business freedom (9<inline-formula>
+                  <mml:math id="S3.SS2.p3.m1"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 264 cities). Moreover, Malmö scores well also in internet access (11<inline-formula>
+                  <mml:math id="S3.SS2.p3.m2"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 266 cities) and venture capital (68<inline-formula>
+                  <mml:math id="S3.SS2.p3.m3"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 182 cities), suggesting it as a suitable location for business. Medium to high scores for commuting (54<inline-formula>
+                  <mml:math id="S3.SS2.p3.m4"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 255 cities) and travel connectivity (67<inline-formula>
+                  <mml:math id="S3.SS2.p3.m5"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 266 cities) indicate that Malmö is a friendly city for employees, while also being a good place to live in according its ranking in the categories of environmental quality (10<inline-formula>
+                  <mml:math id="S3.SS2.p3.m6"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 266 cities) and healthcare (47<inline-formula>
+                  <mml:math id="S3.SS2.p3.m7"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> out of 265 cities) [<xref ref-type="bibr" rid="R32">32</xref>]. However, since Malmö is a quite small city, it has a disadvantage when certain criteria are evaluated, such as the number of public, health and cultural facilities. Typically, smaller cities have difficulties in scoring high in such categories due to the naturally restricted number of people that benefit from these facilities. Imbalances of this kind provide further argumentation for the need to generate contextually relevant indicator schemes. Smaller cities are no more or less in need of improved urban livability and sustainability than metropolitan cites, and they should have the opportunity of appropriate evaluation regardless of their size.</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Case Study Methodology</title>
+            <p>In order to identify context-specific livability categories for Malmö, 10 semi-structured interviews were conducted in the latter half of 2016 with local experts in the field of urban development and planning. Details regarding the interviewees, who were selected through a snowballing approach, are shown in Table <xref ref-type="table" rid="Tab3">3</xref>. The questions asked focused on identifying qualitative dimensions of livability, including linkages to as well as bottlenecks for the enhancement of livability, including strategies for overcoming challenges. The questions were open-ended to allow for a more flexible approach in the interviews [<xref ref-type="bibr" rid="R33">33</xref>]. The interviewees were also encouraged to go beyond the scope of the interviews and to provide anecdotes about issues they felt are important for a better understanding of the field [<xref ref-type="bibr" rid="R34">34</xref>]. All interviews were conducted in English as a working lingua franca, in which respondents (from Sweden) as well as interviewers (from Japan) are proficient.</p>
+            <p>Each interview lasted for 60 to 90 minutes. An interview guideline was provided at the beginning of each interview. All interviews were audiotaped and transcribed. MAXQDA was used for coding and for visualization analysis, and two of the authors were involved throughout the whole coding process to ensure the coding integrity. The analysis adopted a general inductive approach for qualitative data analysis [<xref ref-type="bibr" rid="R35">35</xref>] which enabled the authors to retrieve categories and topics that describe contextually relevant livability dimensions. After data cleaning and anonymization, the interview transcripts were reviewed multiple times to identify through open coding the content relevant to urban livability. In order to generate categories, relevant words were first sorted into subgroups in iterative readings of the transcripts, using implicit meanings as well as explicit words and phrases from the interviews. Next, these groups were clustered into livability categories. To summarize the result of this coding analysis, a visualization tool was applied to illustrate the findings, and the authors selected appropriate quotes that represent the core themes and the essence of each topic [<xref ref-type="bibr" rid="R35">35</xref>]. These results are presented in the next section.</p>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>Table 3</label>
+               <caption>
+                  <title>List of case study interviewees, all met with in 2016.</title>
+               </caption>
+            </table-wrap>
+            <table-wrap position="float" orientation="portrait">
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>No.</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Name</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Affiliation</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Role</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">1</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">A</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">City Officer</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">
+                  
+                    Sustainable mobility
+                  
+                  
+                    and transport
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">2</td>
+                        <td align="left" style="" rowspan="1" colspan="1">B</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    City
+                  
+                  
+                    Officer
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Citizen dialogue</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">C</td>
+                        <td align="left" style="" rowspan="1" colspan="1">City Officer</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Environmental
+                  
+                  
+                    review of municipal
+                  
+                  
+                    planning
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">4</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    D
+                  
+                  
+                    and E
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Transport
+                  
+                  
+                    Consultant
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Transport planning
+                  
+                  
+                    and strategy
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">5</td>
+                        <td align="left" style="" rowspan="1" colspan="1">F</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    City
+                  
+                  
+                    Officer
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Mobility planning</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    G
+                  
+                  
+                    and H
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">University Lecturers</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Urban planning,
+                  
+                  
+                    Climate strategy
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">7</td>
+                        <td align="left" style="" rowspan="1" colspan="1">I</td>
+                        <td align="left" style="" rowspan="1" colspan="1">University Researcher</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Social impacts
+                  
+                  
+                    from public
+                  
+                  
+                    transportation
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">8</td>
+                        <td align="left" style="" rowspan="1" colspan="1">J</td>
+                        <td align="left" style="" rowspan="1" colspan="1">University Researcher</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Gender, sustainable
+                  
+                  
+                    mobility
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">K</td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Planning staff at regional
+                  
+                  
+                    transportation authority
+                  
+                </td>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                  
+                    Transport planning
+                  
+                  
+                    and strategy
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">10</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">L</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                  
+                    Vice
+                  
+                  
+                    Mayor
+                  
+                </td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Politics</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Context-Specific Categories of Livability for Malmö</title>
+         <p>A total of nine context-specific categories of livability were identified based on the coding analysis described in the previous section. Figure <xref ref-type="fig" rid="Fig3">3</xref> visualizes the categories and topics that comprise livability, based on the input from interviews. The lines connecting each topic and category indicate a direct connection between them, and the width of each line indicates the degree of connectivity, based on the frequency of the words that were used in the interviews.</p>
+         <p>Below, Sections 4.1–4.9 contain descriptions of each of the nine categories presented in Figure <xref ref-type="fig" rid="Fig3">3</xref>, as well as references to conducted interviews. Section 4.10 provides a summary.</p>
+         <fig id="Fig3" position="float" orientation="portrait">
+            <label>
+                Figure 3</label>
+            <caption>
+               <title>Visualization of context-specific livability aspects, resulting from the 2016 Malmö case study presented in this article. </title>
+            </caption>
+            <graphic xlink:href="figure3.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <sec id="s4.1">
+            <title>4.1.- The Category of ‘Politics’</title>
+            <p>Political stability is essential for politicians to be able to make important decisions (L, Table <xref ref-type="table" rid="Tab3">3</xref>). Committed leadership is also an important feature. When Malmö shifted to a ‘sustainable city’ from its previous identity as a heavy-industrial city, the mayor at that time made strong initiatives to bring the city forward. During his time in office, Malmö became well known for its sustainability efforts [<xref ref-type="bibr" rid="R27">27</xref>]. Since then, the city has actively taken innovative approaches to achieve and improve sustainable urban development. An iconic landmark for urban regeneration in Malmö, originating in that time period, is the Western Harbor district, which showcases the transformation from a brown-field site, formerly home to an internationally significant shipyard, to an environmentally high-tech residential area with considerable sustainability ambitions. In the Western Harbor the then largest collection of energy-efficient buildings was constructed, and extensive tests of systems for collecting organic waste were carried out. Malmö addresses different environmental issues simultaneously: for example, holistic mobility planning including public transport, investments in alternative fuel vehicles, and bicycle infrastructure [<xref ref-type="bibr" rid="R27">27</xref>], and the city is internationally acknowledged for its urban planning and sustainable urban development efforts.</p>
+            <p>The interviewees often brought up cooperation among city politics and municipal administration. “The role of politicians is to set goals, but we do not get involved the details, and leave how we can reach the set goals to the City Office. This communication trust is important to achieve the goals” (L, Table <xref ref-type="table" rid="Tab3">3</xref>). Malmö showcases how politicians and city officials each play clear roles in achieving the set goals, and that reciprocal trust between both groups has been a key factor in the city’s transformation towards a more sustainable city.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- The Category of ‘Municipal Administration’</title>
+            <p>In the performed case study, municipal administration relates strongly to politics. During one of the interviews, it was pointed out that the financial strategy is crucially important for administration, and that the municipality must diversify its efforts to use the budget efficiently (D, Table <xref ref-type="table" rid="Tab3">3</xref>). The same informant also reported that the Swedish state railways used to withdraw more and more due to financial difficulties. In order to find ways of reducing costs, a division of Malmö’s municipal administration collaborates with publicly owned companies that are owned by the municipality itself or by another level of government.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- The Category of ‘Strategic Planning of City Structure’</title>
+            <p>Several interviewees mentioned that a ‘compact city’ is a key concept for city planning in Malmö. The compact city strategy is meant to influence the implementation of transportation plans and residential development alike. In order to conserve the very fertile farmlands located outside of Malmö’s built environments, the municipal administration strives to keep urban facilities and residences inside the Outer Ring Road. A lot of symbolic architecture and district-based development of the city, including the Western Harbor and university facilities, are strategically located close to the city center, increasing its attractiveness—together with measures for increased accessibility and improved living environments.</p>
+            <p>One of the main benefits of the compact city strategy mentioned during the interviews was improved air quality and the reduction of traffic volumes from private cars (L, Table <xref ref-type="table" rid="Tab3">3</xref>). A significant reduction in infrastructure expenditures was also mentioned as a benefit of compact city planning. Accordingly, the budget saved from reduced cost of maintenance and operation of city infrastructure could be invested in the construction of more educational facilities for the growing population (L, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.4">
+            <title>4.4.- The Category of ‘Transportation’</title>
+            <p>Transportation strongly influences city planning in Malmö because of its significant social and environmental impacts (e.g. carbon emissions, land price, social cohesion). Several of the interviewees mentioned the importance of the public transport sector in social integration. At the time of the case study, there had been a recent workshop about the social impact of Bus Rapid Transit (BRT) which had focused on how public transportation was being utilized as a tool to improve social integration in socio-economically challenged parts of the city (I, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.5">
+            <title>4.5.- The Category of ‘Business’</title>
+            <p>A reason for Malmö’s population growth in the recent past is the growth of the business sector. The industrial transformation of the city resulted in the creation of attractive job opportunities, not least in IT industries. Creative industries such as gaming and smart phone application developers established their headquarters in the city. Business development was promoted also by the municipality (A, Table <xref ref-type="table" rid="Tab3">3</xref>). One of the challenges identified in the business category, however, is the decline of commercial retail businesses in the city center where shop keepers struggle with competition from renovated or newly established shopping centers in different parts of the city. “Revitalization of commercial business is a key topic in Malmö nowadays. There are various attempts on business activation of central areas through collaborative actions with land owners to create safer and attractive residential and commercial areas” (L, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.6">
+            <title>4.6.- The Category of ‘Human Capital’</title>
+            <p>Human capital also links strongly with the business category in this case study. One of the topics mentioned by informants in relation to this category was the large number of foreign immigrants. Malmö was a substantial recipient of migrants during the acute phases of the refugee and migrant influx into the European Union that culminated in 2015. While locals acknowledge that immigration can be a positive driver for activating economic activities and increasing creativity, building cohesion between local residents and migrants can be challenging. Public consultation to enhance social cohesion between residents need to be given priority by city officials (B, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.7">
+            <title>4.7.- The Category of ‘Social Development’</title>
+            <p>Safety and land value were the prominent topics discussed by case study informants within this category. These topics connect with socio-economic and ethnic segregation, as well as with crime. Increasing safety—and thereby the attractiveness of afflicted areas—is one of the main challenges of the city of Malmö. Provision of affordable housing, for example for immigrants and other low-income residents, was mentioned as being an important measure for the improvement of living conditions in the city (B, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.8">
+            <title>4.8.- The Category of ‘Domestic Relationship’</title>
+            <p>With relevance to the domestic relationship category, a respondent brought up city development strategies in the context of inter-city exchanges, which can be helpful in the solving of local problems and beneficial when applying for national grants (L, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.9">
+            <title>4.9.- The Category of ‘External Relationship’</title>
+            <p>Regional integration of Malmö in the cross-boundary Öresund Region of greater Copenhagen accelerated with the opening in 2000 of the Öresund Bridge that connects the city to the Danish capital. Transport connectivity has been a key factor for the successes that this integration has led to. Another important external contributor to Malmö’s development, especially when it comes to funding, is the European Union. City officials and politicians alike pointed out that EU funding has made significant facilitating contributions to the municipal budget (L, Table <xref ref-type="table" rid="Tab3">3</xref>).</p>
+         </sec>
+         <sec id="s4.10">
+            <title>4.10.- Summary of Categories</title>
+            <p>Table <xref ref-type="table" rid="Tab4">4</xref> summarizes the content above. The nine context-specific categories identified in this study allow for a more in-depth look at factors that affect the livability of Malmö from the perspective of local persons as presented in Table <xref ref-type="table" rid="Tab3">3</xref>. The factors identified cannot be fully explained or represented by quantitative categories alone, but this research provides clues for how and where to look for contextually appropriate and qualitative indicators for Malmö, thereby increasing the comprehensiveness of livability measurements.</p>
+            <p>In Table <xref ref-type="table" rid="Tab4">4</xref>, the column titled ‘Topics covered in Malmö’ contains details needed to delve further into the uniquely Malmö-specific conditions, whereas the headlines used in the ‘Category’ column could also be more generally assigned and interpreted. Still, it should be noted that these categories are context-specific as they reflect the characteristics identified in this particular study, and that other studies in other cities may lead to a different set of categories.</p>
+            <p>In the following section the results presented here will be discussed in relation to existing standardized schemes for evaluations of livability in cities.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Discussion</title>
+         <p>This study identifies differences and similarities between categories used in quantitative livable city ranking schemes already in use (cf. Table <xref ref-type="table" rid="Tab2">2</xref>) and context-specific categories of livability identified in a case study of Malmö (cf. Table <xref ref-type="table" rid="Tab4">4</xref>). Figure <xref ref-type="fig" rid="Fig4">4</xref> provides an illustration of these results and also highlights some points for discussion in the context of prospects for further developments of livability concepts and evaluations thereof.</p>
+         <p>One notable difference between standardized ranking schemes and the context-specific categories of livability extracted in this study appears in the domain of the ‘Politics’ category. In standardized schemes, it only captures cities’ performance, political stability, and political events in relation to other cities. In contrast, the case study presented here identifies ‘leadership’ as the most influential factor within the Malmö-specific ‘Politics’ category. Committed leadership enabled the city’s transformation from a heavy-industrial city to a creative city of knowledge in a relatively short period of time. Cooperation among city politicians and administrators also appears as an important function in the category of politics. Well-defined institutional roles and well-functioning organizations are highlighted as well as the importance of both kinds of representatives sharing the vision of sustainable development. Stable and cooperative relations among city officials in Malmö is seen to have generated a positive cycle of development that attracted competitive human resources into Malmö. Thus, a localized and Malmö-specific measurement of livability ought to follow up along these particular dimensions.</p>
+         <p>Another significant difference relates to transportation. In the categories in Table <xref ref-type="table" rid="Tab2">2</xref>, transportation falls under physical capital. Among case study respondents, however, transportation appeared as a distinctly independent and influential Malmö-specific livability category. Interestingly, transportation was discussed not simply in terms of its mobility function but as an important way in which to encourage social cohesion and reduce segregation. Some of Malmö’s residential areas are disproportionately characterized by higher numbers of socio-economically disadvantaged households and by higher crime rates. With greater accessibility to mobility options that contribute to the opening up of these areas, it is hoped that social isolation can be counteracted and that intermingling among the city’s inhabitants can occur to a greater degree, which would also help in efforts to mitigate safety encroachments as well as crime in target areas. The kind of contextualization achieved in this analysis clearly sheds more light on Malmö’s livability challenges and status than the scores it got for commuting and travel connectivity in the Teleport Cities ranking scheme.</p>
+         <p>Moreover, the context-specific category labelled ‘business environment’ that was identified in this study roughly corresponds to—but presents a narrower focus than—the category ‘economics’ in the comparative set of existing schemes. Once again, taking Malmö’s scores in the Teleport Cities ranking as a reference is illuminating. There, Internet access is one of the measurements used and one where Malmö scores well. In the qualitative assessment presented here, the importance of this topic is affirmed; it resonates as a prerequisite for innovative IT industry which receives particular emphasis (cf. Figure <xref ref-type="fig" rid="Fig3">3</xref>). Similarly, the quantitative measurement of venture capital is qualified here in terms of business support, and both are positively reviewed in Malmö’s case; by the Teleport Citites ranking and by the case study, respectively.</p>
+         <p>The use of a qualitative approach and visualization tool in this study makes possible a closer inspection of the linkages and relations between different livability categories and topics than what quantitative ranking schemes normally allow for, thus addressing one of the major limitations of such schemes. The authors believe that the methodology applied here could be further developed as a way in which to provide context-specific and qualitative value-added to existing rankings.</p>
+         <table-wrap id="Tab4" position="float" orientation="portrait">
+            <label>Table 4</label>
+            <caption>
+               <title>Context-specific categories and topics covered in Malmö.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>No.</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Category</bold>
+                     </td>
+                     <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                        <bold>Topics covered in Malmö</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">4.1</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">Politics</td>
+                     <td align="left" style="border:t;" rowspan="1" colspan="1">
+                
+                  Leadership, Cooperation among politics and administration,
+                
+                
+                  Political stability
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.2</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Municipal administration</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Work division and specialization including public companies,
+                
+                
+                  Financial strategy for administration
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.3</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Strategic planning
+                
+                
+                  of city structure
+                
+              </td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Symbols (City tunnel, Malmö University, Hyllie, Western Harbor),
+                
+                
+                  Land price positive effect, Planning perspectives, Environmental benefits,
+                
+                
+                  City structure, Administration cost
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.4</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Transportation</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Transportation development (Accessibility, Transport system innovation),
+                
+                
+                  Public transportation (Capacity development, Reliability and punctuality,
+                
+                
+                  Market analysis, Social integration, Market development, Planning strategy,
+                
+                
+                  Modal sift), Private transportation (Bicycle transportation, Road and
+                
+                
+                  transportation safety)
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.5</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Business environment</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  IT innovation and technology, Revitalization commercial business,
+                
+                
+                  Job creation and opportunity, Industrial transformation, Business activation,
+                
+                
+                  Business support
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.6</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Human capital</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Creative class, Citizens’ political activities and awareness, Social and
+                
+                
+                  cultural diversity, Social activities, Society cooperation, Immigrant social
+                
+                
+                  activity, Immigrants’ skills
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.7</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Social development</td>
+                     <td align="left" style="" rowspan="1" colspan="1">
+                
+                  Sufficient qualified housing provision, Combatting segregation,
+                
+                
+                  Social integration, Safety
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">4.8</td>
+                     <td align="left" style="" rowspan="1" colspan="1">Domestic relationship</td>
+                     <td align="left" style="" rowspan="1" colspan="1">City development strategies</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">4.9</td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">External relationship</td>
+                     <td align="left" style="border:bb;" rowspan="1" colspan="1">
+                
+                  Stability of outer cities and regions, Regional integration, Cooperation among
+                
+                
+                  cities, EU connection (Öresund Bridge, Ring road)
+                
+              </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <fig id="Fig4" position="float" orientation="portrait">
+            <label>
+                Figure 4</label>
+            <caption>
+               <title>Overview of standardized categories for livable city evaluations versus context-specific categories in the case of Malmö (retrieved from Table <xref ref-type="table" rid="Tab2">2</xref> and Table <xref ref-type="table" rid="Tab4">4</xref>, respectively), highlighting the authors’ choices of points for discussion. </title>
+            </caption>
+            <graphic xlink:href="figure4.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+      </sec>
+      <sec id="s6">
+         <title>6.- Conclusion</title>
+         <p>Categories used in existing livable city rankings can be complemented by context-specific livability categories in the examination of the livability of cities, and the inclusion of qualitative analysis can provide a more comprehensive picture of the situation in an examined city. Such an approach highlights unique features of the city in question and can, in a more precise fashion, suggest specific ways in which urban livability may be enhanced.</p>
+         <p>Through the case study of Malmö, nine-context specific livability categories were identified. The inductive approach used to identify these categories revealed an important point for further development of livability assessments: a qualitative approach allows for more in-depth descriptions of livability categories because it can also reveal the context-specific relationships <italic>between</italic> categories. Explicit awareness of such relationships can in turn allow city officials and planners to have a more comprehensive approach when devising strategies to improve the livability of their cities. Widely used quantitative livability evaluations are usually performed by persons without previous experience and knowledge of target cities. In contrast, a qualitative approach enables local people to have a voice in the assessment of their city’s livability.</p>
+         <p>The results and discussions of this study may contribute to the further development of the livable city concept with the eventual purpose of better reflection of unique and context-specific features of cities in urban development plans. As the research presented here is limited to a single case study, further application in other cities of its inductive approach is needed in order to develop as well as to examine the limitations or the generalizability of the approach. The method for selection of respondents as the source for the analysis is one aspect that particularly needs further elaboration. At any rate, comparisons of the qualitative characteristics of cities could considerably enrich ongoing discussions on the improvement of existing livability evaluation schemes.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Sustainable Development Goals</article-title>
+               <publisher-name>Untied Nation</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.un.org/ga/search/view\_doc.asp?symbol=A/RES/70/1&amp;Lang=E"
+                         xlink:type="simple">http://www.un.org/ga/search/view\_doc.asp?symbol=A/RES/70/1&amp;Lang=E</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>New Urban Agenda 2016</article-title>
+               <publisher-name>UN Habitat</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://citiscope.org/sites/default/files/h3/Habitat\_III\_New\_Urban\_Agenda\_10\_September\_2016.pdf"
+                         xlink:type="simple">http://citiscope.org/sites/default/files/h3/Habitat\_III\_New\_Urban\_Agenda\_10\_September\_2016.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Liveable city from an economic perspective</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Antonescu</surname>
+                     <given-names>Daniela</given-names>
+                  </name>
+               </person-group>
+               <issue>MPRA Paper No. 78734</issue>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1504/ijcast.2016.081296</pub-id>
+               <year>2016</year>
+               <publisher-name>Inderscience Publishers</publisher-name>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>86</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Joanne M. Leach</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peter A. Braithwaite</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Susan E. Lee</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christopher J. Bouch</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dexter V.L. Hunt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chris D.F. Rogers</surname>
+                  </name>
+               </person-group>
+               <article-title>Measuring urban sustainability and liveability performance: the City Analysis Methodology</article-title>
+               <source>International Journal of Complexity in Applied Science and Technology</source>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Taking sustainable cities seriously: Economic development, the environment, and quality of life in American cities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Portney</surname>
+                     <given-names>Kent E</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>MIT Press</publisher-name>
+               <publisher-loc>Cambridge, MA, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.17226/10262</pub-id>
+               <year>2002</year>
+               <publisher-name>National Academies Press</publisher-name>
+               <article-title>Community and Quality of Life</article-title>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781351318167</pub-id>
+               <year>2017</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vuchic</surname>
+                     <given-names>VR</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transportation for Livable Cities</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1142/9789814304504\_0008</pub-id>
+               <year>2010</year>
+               <publisher-name>World Scientific Publishing, co-published with the Singapore University Press</publisher-name>
+               <fpage>191</fpage>
+               <lpage>229</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Austin Ley</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peter Newton</surname>
+                  </name>
+               </person-group>
+               <article-title>Creating and Sustaining Liveable Cities</article-title>
+               <source>Developing Living Cities</source>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0047279408001943</pub-id>
+               <year>2008</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>37</volume>
+               <issue>03</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Claire Edwards</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rob Imrie</surname>
+                  </name>
+               </person-group>
+               <fpage>337</fpage>
+               <lpage>355</lpage>
+               <article-title>Disability and the Implications of the Wellbeing Agenda: Some Reflections from the United Kingdom</article-title>
+               <source>Journal of Social Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781849772723</pub-id>
+               <year>2008</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bell</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Morse</surname>
+                     <given-names>Stephen</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+               <article-title>Sustainability Indicators</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Territorial Reviews: Competitive Cities in the Global Economy Competitive Cities Report 2006</article-title>
+               <publisher-name>Organisation for Economic Co-operation and Development</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.oecd.org/cfe/regional-policy/oecdterritorialreviewscompetitivecitiesintheglobaleconomy.htm"
+                         xlink:type="simple">http://www.oecd.org/cfe/regional-policy/oecdterritorialreviewscompetitivecitiesintheglobaleconomy.htm</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1504/wrstsd.2014.065677</pub-id>
+               <year>2014</year>
+               <publisher-name>Inderscience Publishers</publisher-name>
+               <volume>11</volume>
+               <issue>2</issue>
+               <fpage>176</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tan Khee Giap</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Woo Wing Thye</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Grace Aw</surname>
+                  </name>
+               </person-group>
+               <article-title>A new approach to measuring the liveability of cities: the Global Liveable Cities Index</article-title>
+               <source>World Review of Science, Technology and Sustainable Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1108/14720700310459854</pub-id>
+               <year>2003</year>
+               <publisher-name>Emerald</publisher-name>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>39</fpage>
+               <lpage>57</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>John Dixon</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rhys Dogan</surname>
+                  </name>
+               </person-group>
+               <article-title>Corporate decision making: contending perspectives and their governance implications</article-title>
+               <source>Corporate Governance: The international journal of business in society</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203642559</pub-id>
+               <year>2006</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wong</surname>
+                     <given-names>Cecilia</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+               <article-title>Indicators for Urban and Regional Planning</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/01944369608975684</pub-id>
+               <year>1996</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>62</volume>
+               <issue>2</issue>
+               <fpage>184</fpage>
+               <lpage>202</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Virginia W. Maclaren</surname>
+                  </name>
+               </person-group>
+               <article-title>Urban Sustainability Reporting</article-title>
+               <source>Journal of the American Planning Association</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14649350020008378</pub-id>
+               <year>2000</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>1</volume>
+               <issue>2</issue>
+               <fpage>173</fpage>
+               <lpage>186</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Judith E. Innes</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>David E. Booher</surname>
+                  </name>
+               </person-group>
+               <article-title>Indicators for Sustainable Communities: A Strategy Building on Complexity Theory and Distributed Intelligence</article-title>
+               <source>Planning Theory &amp; Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11482-010-9121-7</pub-id>
+               <year>2010</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>5</volume>
+               <issue>4</issue>
+               <fpage>341</fpage>
+               <lpage>352</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jo Van Assche</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thomas Block</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Herwig Reynaert</surname>
+                  </name>
+               </person-group>
+               <article-title>Can Community Indicators Live Up to Their Expectations? The Case of the Flemish City Monitor for Livable and Sustainable Urban Development</article-title>
+               <source>Applied Research in Quality of Life</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/21681376.2014.983149</pub-id>
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>6</fpage>
+               <lpage>28</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rob Kitchin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tracey P. Lauriault</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gavin McArdle</surname>
+                  </name>
+               </person-group>
+               <article-title>Knowing and governing cities through urban indicators, city benchmarking and real-time dashboards</article-title>
+               <source>Regional Studies, Regional Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.jtrangeo.2012.08.007</pub-id>
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>26</volume>
+               <fpage>51</fpage>
+               <lpage>64</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Harvey J. Miller</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frank Witlox</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Calvin P. Tribby</surname>
+                  </name>
+               </person-group>
+               <article-title>Developing context-sensitive livability indicators for transportation planning: a measurement framework</article-title>
+               <source>Journal of Transport Geography</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.3390/su10051688</pub-id>
+               <year>2018</year>
+               <publisher-name>MDPI AG</publisher-name>
+               <volume>10</volume>
+               <issue>5</issue>
+               <fpage>1688</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Simon Bell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stephen Morse</surname>
+                  </name>
+               </person-group>
+               <article-title>Sustainability Indicators Past and Present: What Next?</article-title>
+               <source>Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>On livability, liveability and the limited utility of quality-of-life rankings</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Conger</surname>
+                     <given-names>Brian</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <source>SPP Comuniqué</source>
+               <issue>7</issue>
+               <issue>4</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.policyschool.ca/wp-content/uploads/2016/03/livability-conger.pdf"
+                         xlink:type="simple">https://www.policyschool.ca/wp-content/uploads/2016/03/livability-conger.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.dib.2017.10.004</pub-id>
+               <year>2017</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>15</volume>
+               <fpage>691</fpage>
+               <lpage>695</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Joanne M. Leach</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Susan E. Lee</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christopher T. Boyko</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Claire J. Coulton</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rachel Cooper</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nicholas Smith</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H\'el\`ene Joffe</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Milena Büchs</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>James D. Hale</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jonathan P. Sadler</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peter A. Braithwaite</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Luke S. Blunden</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Valeria De Laurentiis</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dexter V.L. Hunt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>AbuBakr S. Bahaj</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Katie Barnes</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christopher J. Bouch</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leonidas Bourikas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marianna Cavada</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andrew Chilvers</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stephen J. Clune</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brian Collins</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ellie Cosgrave</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nick Dunn</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jane Falkingham</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Patrick James</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Corina Kwami</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martin Locret-Collet</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Francesca Medda</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Adriana Ortegon</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Serena Pollastri</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cosmin Popan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Katerina Psarikidou</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nick Tyler</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>John Urry</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yue Wu</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Victoria Zeeb</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chris D.F. Rogers</surname>
+                  </name>
+               </person-group>
+               <article-title>Dataset of the livability performance of the city of Birmingham, UK</article-title>
+               <source>Data in Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>City Analysis Methodology (CAM) 2018</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://liveablecities.org.uk/challenges/city-analysis</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A planner's guide to the Places Rated Almanac</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Landis</surname>
+                     <given-names>John D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sawicki</surname>
+                     <given-names>David S</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of the American Planning Association</source>
+               <volume>54</volume>
+               <issue>3</issue>
+               <fpage>336</fpage>
+               <lpage>346</lpage>
+               <year>1988</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/01944368808976494</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Statistics Sweden. Statistiska Centralbyrån 2015</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Statistics Sweden</surname>
+                  </name>
+               </person-group>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.scb.se/sv\_/Hitta-statistik/Statistik-efter-amne/Befolkning/Befolkningens-sammansattning/Befolkningsstatistik/25788/25795/Kvartals-och-halvarsstatistik—Kommun-lan-och-riket/399199/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Malmö city, Sweden. Malmö Stad 2016</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://malmo.se/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.cities.2014.01.005</pub-id>
+               <year>2014</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>39</volume>
+               <fpage>10</fpage>
+               <lpage>20</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tessa Anderson</surname>
+                  </name>
+               </person-group>
+               <article-title>Malmo: A city in transition</article-title>
+               <source>Cities</source>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Esri, HERE, DeLorme, Intermap, increment P Corp, GEBCO, USGS, FAO, NPS, NRCAN, GeoBase, IGN, Kadaster NL, Ordnance Survey, Esri Japan, METI, Esri China, swisstopo, MapmyIndia, DeLome NOAA, NGDC</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Geodata.SE</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://geodata.se/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Crisis and the Post-Industrial City: Or is M almö Building Yesterday's City Tomorrow, Again?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Holgersen</surname>
+                     <given-names>St\aale</given-names>
+                  </name>
+               </person-group>
+               <source>Tijdschrift voor economische en sociale geografie</source>
+               <volume>106</volume>
+               <issue>3</issue>
+               <fpage>231</fpage>
+               <lpage>245</lpage>
+               <year>2015</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14649357.2016.1264615</pub-id>
+               <year>2017</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>18</volume>
+               <issue>1</issue>
+               <fpage>11</fpage>
+               <lpage>33</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Carina Listerborn</surname>
+                  </name>
+               </person-group>
+               <article-title>The flagship concept of the `4th urban environment'. Branding and visioning in Malmö, Sweden</article-title>
+               <source>Planning Theory &amp; Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Teleport Cities: Quality of Life in Malmö 2018</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://teleport.org/cities/malmo/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Case Study Research: Design and Methods (Applied Social Research Methods, Vol. 5)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yin</surname>
+                     <given-names>Robert K</given-names>
+                  </name>
+               </person-group>
+               <source>Sage Publications, Beverly Hills, CA. Rick Rantz Leading urban institutions of higher education in the new millennium Leadership &amp; Organization Development Journal</source>
+               <volume>23</volume>
+               <issue>8</issue>
+               <fpage>2002</fpage>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Local and sustainable food supply: The role of European retail consumer co-operatives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hingley</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mikkola</surname>
+                     <given-names>Minna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Canavari</surname>
+                     <given-names>Maurizio</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Asioli</surname>
+                     <given-names>Daniele</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal on Food System Dynamics</source>
+               <volume>2</volume>
+               <issue>4</issue>
+               <fpage>340</fpage>
+               <lpage>356</lpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098214005283748</pub-id>
+               <year>2006</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>27</volume>
+               <issue>2</issue>
+               <fpage>237</fpage>
+               <lpage>246</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David R. Thomas</surname>
+                  </name>
+               </person-group>
+               <article-title>A General Inductive Approach for Analyzing Qualitative Evaluation Data</article-title>
+               <source>American Journal of Evaluation</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+      <fn-group>
+         <fn id="FN1" fn-type="other">
+            <p>
+               <sup>1</sup> Although there are ranking schemes that create a more holistic and comprehensive measurement of livability, including City Analysis Methodology
+               (CAM) and UK City Life [<xref ref-type="bibr" rid="R22">22</xref>], these were not included in Table 1 since they are only applied to cities within the UK. CAM is an innovative urban
+               analysis framework that aims at providing a holistic evaluation of livability in UK cities with regard to well-being, resource security and CO 2 emissions
+               [<xref ref-type="bibr" rid="R23">23</xref>]. The UK City Life, similarly, aims at providing a comprehensive and holistic evaluation of livability in UK cities [<xref ref-type="bibr" rid="R22">22</xref>]. These two schemes show
+               more openness towards the development of a more holistic approach in measuring urban livability than the international schemes selected for this
+               study.
+      </p>
+         </fn>
+      </fn-group>
+   </back>
+</article>
