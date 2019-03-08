@@ -1,0 +1,1551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2019.15010006</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Violent non-State Actors and New Forms of Governance: Exploring the Colombian and Venezuelan Border Zone</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Villa</surname>
+                  <given-names>Rafael</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Souza Pimenta</surname>
+                  <given-names>Marília</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Department of Political Science, University of São Paulo, São Paulo, Brazil</aff>
+         <aff id="A3">
+            <label>2</label>Center for International Politics Research, University of São Paulo, São Paulo, Brazil</aff>
+         <pub-date pub-type="ppub">
+            <day>05</day>
+            <month>03</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>1</issue>
+         <fpage>6</fpage>
+         <lpage>18</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This article explores the causes underlying a strong presence of violent non-state actors (VNSAs) in South America. Based on a case study of the border area between Colombia and Venezuela, the research relies on a broad empirical data collected from newspapers, official documents and interviews. The analytical perspective has been grounded on a theoretical framework of four dimensions: (i) funding and illegal activities, (ii) presence in strategic regions, (iii) low state presence and (iv) violence, which identifies different forms of presence of VNSAs. When questioned about how VNSAs create new forms of alternative governance in a territorial space of fragile statehood, the results tend to reveal a context in which state governance seems to overlap the alternative and illegal governance of VNSAs, creating a fragile and hybrid governance in the region.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Colombian and Venezuelan borders</kwd>
+            <kwd>governance</kwd>
+            <kwd>violence</kwd>
+            <kwd>violent non-state actors</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Levitsky (2008) identified the existence of black spots in territorial spaces to indicate fruitful areas for operations conducted by illegal groups and suggested that: “‘Black spots’ (or ‘black holes’) are localized areas within a state, over which the government has no formal governance. The type of order prevailing in those territories is almost always unknown by government authorities and the international community.” [<xref ref-type="bibr" rid="R01">1</xref>] Security agencies and scholars [<xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R04">4</xref>] have little oversight of “black spots” in Latin America, transforming them in fertile ground for insurgent groups, narcotraffickers and criminals to freely develop illicit activities, indistinguishable if “black spots” are located in developed or developing territories, and independently from the various possibilities of dimensions they are presenting</p>
+         <p>In Latin America, as well as in other regions of the world, “black spots” are formed in places where the governance of the state is deficitary, lacking in the guarantee of basic services to the population of those regions, and causing a vacuum that would be soon filled by the non-governmental authority of non-state armed groups—or more precisely, Violent Non-State Actors (VNSAs)—that also conduct activities such as money laundering, arms trafficking, trafficking in persons, kidnapping, smuggling, extortion, as well as common and political crimes. States that present social and dysfunctional institutions, such as Mexico, countries that are part of the Northern Triangle of Central America (Honduras, Guatemala, El Salvador), countries bordering the Amazon region and those located on the triple border area in South America (Brazil, Paraguay, Argentina) can all be examples of states presenting difficulties in monitoring and generating the effective development within their border environments [<xref ref-type="bibr" rid="R05">5</xref>].</p>
+         <p>Some causal dimensions have favored the presence and strengthening of VNSAs in Latin America. First, the solid sources of funding of VNSAs achieved through illicit activities; second, and linked to a traditional dimension, the low state presence in the development of public policies, that has reinforced VNSAs in strategic regions; third, expression of the relational dimension, the VNSAs questioning of the state monopoly of force. However, the explanatory dimensions of VNSAs in Latin American black spots can not be attributed solely to those three dimensions.</p>
+         <p>The paper explores determinant variables (dimensions) to explain different levels of governance in the area located at the border, between Colombia and Venezuela. In turn, we seek to find evidences supporting our claim about the structure on dimensions to identify how VNSAs create an alternative governance on borders. Therefore, we will examine the presence and actions of VNSAs in a fragile zone like the Colombian territory at the border with Venezuela, that has become a critical spot in the South American territory, as indicate by some researchers [<xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R06">6</xref>, <xref ref-type="bibr" rid="R07">7</xref>]. And the exact critical nature of this area has been the criterion of choice for our case study over black spots.</p>
+         <p>Thus, the current paper designs a theoretical framework that establishes a nexus between VNSAs’ access to funding, geographical scope, use of violence and low state presence. We use the structure of dimensions to identify how VNSAs develop alternative governance on frontiers.</p>
+         <p>The analysis of those dimensions through which VNSAs operate on the Colombian border with Venezuela is made through the description of different kind of VNSAs and their activities based on empirical data collected from documents, consisting of approximately 100 daily newspaper articles published between 2012 and 2016. Among the Colombian daily newspapers, we have analysed articles published by El Tiempo, The Herald, InSight Crime, The Colombian. On the other side, Venezuelan daily newspapers, like El Nacional, El Universal and La Verdad, have been used. These newspapers have been relevant for the understanding of: (i) the location of the VNSAs region of operation, (ii) the actors involved and (iii) the type of illegal activity. Certainly, although newspapers are not the most consistent source of data, they are very helpful to enlighten the researcher when it comes to investigate the practices of groups carrying out illicit activities. “Newspapers help to show what information policymakers had and provide clues as to what events they regarded as important. In this way, newspapers help us to recapture the perspective of officials at the time ([<xref ref-type="bibr" rid="R08">8</xref>], p.108). For the purposes of this paper, interviews with an academic and a military both in Caracas and Bogota, were taken. Interviews represent complementary sources as ”the use of multiple sources is one way to enhance the construct validity of operational definitions” [<xref ref-type="bibr" rid="R09">9</xref>].</p>
+         <p>The article is divided into four main sections, other than this introduction. The first one is presenting the theoretical debate on VNSAs and theirs dimensions. Subsequently, we define the empirical assessment of the presence of VNSAs on the border between Colombia and Venezuela, where they have developed new ways of governance. In the third section, the theoretical framework is applied to the empirical data and connected to each dimension to explain how formal governance is affected by the actions and motivations of VNSAs. In the last section, we explore the initial argument about alternative governance on the Colombian and Venezuelan borders in order to offer some conclusions.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Theorizing on VNSAs and the Dimensions of their Performance</title>
+         <p>The complex nature of governance is further complicated by the emergence and growing importance of institutions, movements and formations that have their origins in the effects of and reactions to globalization. The emergence of these new forces is a consequence of poor state performance, and their activities can contribute to the further weakening of state structures. Where management state agencies are incapable of delivering (or unwilling to deliver) security and other basic services, and where traditional societal structures have been substantially undermined, people will turn to other social entities for support. In this situation, the actors perceived as powerful and effective include warlords and their militias in outlying regions, gang leaders in townships and squatter settlements, vigilante-type organizations, ethnically-based protection rackets, millenarian religious movements, transnational networks of extended family relations, organized crime or new forms of tribalism. [<xref ref-type="bibr" rid="R10">10</xref>] Occasionally, these new formations have seized power in certain regions of a given state’s territory (be it a remote mountainous peripheral location or a squatter settlement in the capital city). They have shown the capacity to exert violence on a large scale against outsiders and the capacity to control violence within their respective strongholds [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>On the other hand, the intrusion of state agencies impacts on non-state local orders too. Customary systems of order are subjected to deconstruction and re-formation as they are incorporated into central state structures and processes. They adopt an ambiguous position with regard to the state, appropriating state functions and ‘state talk’, but at the same time pursuing their own agenda under the guise of the state authority and power. Taking state functions and state talk on board, however, also means changing one’s original stance. Some governments also try to deliberately incorporate traditional authorities, in order to strengthen state capacities and legitimacy [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>Levitsky identified black spots as fruitful areas for operations conducted by illegal groups and a first definition may be: <italic>““Black spots” (or “black holes”) are localized areas within a state, over which the government has no formal governance. The type of order prevailing in those territories is almost always unknown by government authorities and the international community”</italic> ([<xref ref-type="bibr" rid="R01">1</xref>] p. 393). Black spots or “lawless spaces” are areas that are not governed by the state and underlie different forms of governance and authority, often even in a hybrid way, with the participation of state actors or agencies. For this reason, the Global Black Spot Group, that has been researching and classifying violent non-state actors’ blacks spots, holds that:</p>
+         <p>“Transnational vicious non-state actors use Black Spots as locations between which they can operate undisturbed and out of sight of international law enforcement, intelligence, and security agencies. (…) What they transfer in, out, and between Black Spots are insecurity flows, defined as movements of assets, people, services, or sensitive know how in pursuit of illicit criminal or political gain, and with intention of evading law enforcement, intelligence, and related national and international agencies. Being able to pinpoint and monitor Black Spots on an ongoing basis offers the possibility of tracking the movement of criminals and terrorists, their financial assets and illegal weapons, and their skills and expertise. Such a capability is critical to intelligence gathering and necessary precondition for threat interception and the prevention of the escalation of insecurity” [<xref ref-type="bibr" rid="R11">11</xref>].</p>
+         <p>In spaces where there is a functional absence of the State, both informal economy and low social security conditions spill over into other societies, leading to violence and corrupt practices ([<xref ref-type="bibr" rid="R12">12</xref>] p. 42). Williams affirms that borders are spaces where: “the strategy of the state territoriality is dramatized and state sovereignty is paraded. It is also here that many countervailing strategies contesting state territoriality are clustered” ([<xref ref-type="bibr" rid="R12">12</xref>] p. 44). In these frontier areas, VNSAs are able to generate governance and sometimes to keep peace. In many cases, black spots are formed in places experiencing a deficit of governance of the state, which does not guarantee basic services to the population of those regions, causing a vacuum to be soon filled by the governmental authority of various informal and illegal groups. “Territorial sovereignty is being diminished on a spectrum of issues in such a serious manner as to subvert the capacity of states to control and protect the internal life of society, and non-state actors hold and increasing proportion of power and influence in the shaping of world order” ([<xref ref-type="bibr" rid="R02">2</xref>] p. 25).</p>
+         <p>From a policing perspective, several borders in the hemisphere experience great international insecurity, which intersect with international relations. In many cases, conflicts in border zones have escalated amid border banditry and the smuggling of people, drugs, and guns, creating tensions both between countries and among actors in borderlands. Other border zones are peaceful precisely because of the actions of illegal actors that establish and maintain order [<xref ref-type="bibr" rid="R05">5</xref>].</p>
+         <p>Thus, there is a general tendency coming from governments to notice some actors operating in “black spot”, such as the aforementioned groups, with threats to international security. This is especially true in the border areas of Latin American that can be considered black spots, where non-state armed groups—or more precisely Violent Non-State Actors (VNSAs)— conduct activities such as money laundering, arms trafficking, trafficking in persons, kidnapping, smuggling, extortion, common and political crime. Krause and Milliken identify in these “black spots” at least six categories of VNSAS—militias, warlords, private security providers, urban gangs, and transnational and criminal networks, which facilitate a wider exploration of how such groups form in relation to the state, and how the state in turn is shaped through its interactions and conflict with the armed group(s). [<xref ref-type="bibr" rid="R13">13</xref>] In turn, Aydinli defines the following categories of VNSAS: insurgents domestic militant groups, warlords, urban gangs, private militias/group, terrorists and criminal organizations. [<xref ref-type="bibr" rid="R14">14</xref>] The author also defines the characteristics and evolutionary dynamics from those typologies of VNSAs, reinforcing their autonomy, representation and influence, and providing a comparative analysis of the late 19th and early 20th centuries.</p>
+         <p>In according to Williams VNSAs are entities which challenge the state’s “monopoly on the use of violence within a specified geographical territory” ([<xref ref-type="bibr" rid="R12">12</xref>] p. 4). VNSAs represent a departure from the traditional Westphalian system of states in two ways: first, by providing an alternative to state governance, and second, by challenging the state’s monopoly of violence. VNSAs develop out of poor state governance, but also contribute to further undermining governance by the state. A definition of VNSA, somewhat similar to that given by Williams, though calling those groups of non-state armed actors, is that from Robert Mandel ([<xref ref-type="bibr" rid="R15">15</xref>] p. 42) that defines them like “[…] relatively autonomous organizations (not under complete and direct state control) with significant and sustained coercive capabilities for organized violence. Such actors have two additional features: non-integration into formalized state institutions and a degree of autonomy regarding politics, military operations, and resources” [<xref ref-type="bibr" rid="R16">16</xref>].</p>
+         <p>Therefore, caution is required in the definition of black spots. In fact, they imply on the governance out of the state, like the non-state way of governance of VNSAs in a specific geographic region: “providing rudimentary forms of governance in urban [and rural] areas where the state is absent. The concept of ungoverned spaces is assumed because, where state is absent, there is no governance. In a few cases this might be true, but most so-called ungoverned spaces are, in reality, alternatively and/or hybrid governed spaces” ([<xref ref-type="bibr" rid="R12">12</xref>] pp. 4 and 6).</p>
+         <p>VNSAs establish new patterns of governance: within this context, the governance standard setting is “no longer the exclusive domain of states or governments”. When weak states are unable to create or maintain the loyalty and allegiance of their populations, individuals and groups, those latter typically revert to, or develop, alternative patterns of affiliation [<xref ref-type="bibr" rid="R12">12</xref>]. Moreover, where states with low capacity are unable to meet the demands of their citizens for security and other public goods, other actors fill the gap. New forms of governance or its overlap, carried out by VNSAs, are the result of the combination of different dimensions in a political-geographic space—the low presence of the state, ease in fundraising and control of VNSAs of strategic regions, questioning of the monopoly of force and coalitions and alliances between VNSAs.</p>
+         <p>Our theoretical framework establishes a nexus between VNSAs and geographical scope, access to funding, resources, the role of violence, the interactions between VNSAs and state authorities. We focus on ‘governance beyond governments’, or even, informal modes of governance that emerge in spaces of limited state presence and operate ‘outside’ government’s control. Starting from Williams (2008), the framework we employ to structure our case study combines several strands of literature reaching a mix of dimensions (access to funding, geographical scope, state presence, the role of violence). An overview of the potential determinants is presented in Figure <xref ref-type="fig" rid="Fig1">1</xref>. However, unlike Williams, we do not use a mix of dimensions “to understand the ways in which VNSAs differ from one another”. We use such structure of dimensions to identify how VNSAs develop an alternative governance on frontiers or how an alternative governance from the VNSAs overlap the fragile state governance, creating a hybrid governance [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+         <p>Considering the ways through which they obtain financial support or access to resources, an analysis of the funding of VNSAs often requires a looking at their relationship with the illicit economy at national, regional and global levels. [<xref ref-type="bibr" rid="R13">13</xref>] In some cases, funds are obtained through a model that resembles the provision of a private security service. In other cases, the form of financing and the relation with the form of financing react to the offensives of the central government. The VNSAs’ forms of funding may be connected directly to another VNSA (which serves as the source of the first) and based on opportunities, while keeping the focus on their armed struggle. It can include, in some cases, the protection of activities of the other group, by charging fees that allowed them to maintain their violent apparatus.</p>
+         <p>As for the geostrategic positioning, some VNSAs are relatively small and operate in a circumscribed geographical area, while others have a wider transnational scope [<xref ref-type="bibr" rid="R13">13</xref>]. Empirically it is important to state that the organization and coordination of criminal activities has increased in different parts of a region, spreading to other countries and showing their highest operability in border areas. Physical black spots might exist in part or all of a city or village, part or all of a province or country, parts of multiple countries (as in border areas), or rivers, littorals, or the sea ([<xref ref-type="bibr" rid="R17">17</xref>] p. 24):</p>
+         <p>Contiguous spaces of divergent governance (borderlands/frontiers); spaces of partially regulated, unregulated, and illegal flows, and sharply juxtaposed spaces- whether in cities, states, or regions- between zones of opportunities and zones of exclusion. (…) “dark networks”, which often operate from dangerous spaces, exploit these opportunities (…) In effect, jurisdictional asymmetries encourage jurisdictional arbitrage, provide market incentives, and offer safe havens for dark networks [<xref ref-type="bibr" rid="R12">12</xref>].
+</p>
+         <p>As for the role of violence, although the definition of VNSAs holds it at its core—violence is what distinguishes VNSAs from the NGOs and transnational advocacy networks, that are increasingly considered as part of global civil society. Different organizations not only use different levels and forms of violence, but also use it for different purposes. Finally, in what concerns the low state presence, the state’s minimal or utilitarian presence in these regions induces state agents, at certain moments, to favor the stockpiling, the protection and transit of drugs or illegal weapons in the country, or even in some cases, to directly and personally participate in the illicit business, by also forming a criminal structure.</p>
+         <p>The following section explores the place of the determinant (dimensions) in order to explain different levels of governance in the Colombian and Venezuelan borders. In turn, we seek to find evidences supporting our claim about the structure of dimensions, to identify how VNSAs have developed an alternative governance on frontiers or how an alternative governance from the VNSAs has overlapped the fragile state governance. Thus, we now focus on dimensions characterized by high levels of intervention and activities coming from VNSAs or, at least, an ascending hybrid governance in the Colombian and Venezuelan borders.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- The Presence of VNSAs in Colombia and Venezuela Borders</title>
+         <p>Colombia and Venezuela have vast extents of land located at their borders, corresponding to approximately 2,219 km, and also characterized by heavy economic and human flows, as well as licit and illicit activities. Illicit activities are carried out in this area by insurgents, criminal groups, paramilitaries and drug trafficking agents, and usually coexist with those licit border activities developed by the local population of both countries [<xref ref-type="bibr" rid="R18">18</xref>]. In some cases, however, these black spots end up by giving no alternatives to the local population, but to engage in illicit businesses just for the sake of survival.</p>
+         <p>In the attempt to identify the most affected regions, the data collected from the newspaper articles and reported in the chart below, show that the most significant VNSAs on the frontier between Colombia and Venezuela was the National Liberation Army (ELN , <italic>Ejército de Liberación Nacional</italic>, in Spanish) [<xref ref-type="bibr" rid="R19">19</xref>], with 31% of territorial presence in the border area, followed by the BACRIM [<xref ref-type="bibr" rid="R20">20</xref>] (like the Usuga Clan, or <italic>Clan Usuga</italic>, in Spanish) [<xref ref-type="bibr" rid="R21">21</xref>], the <italic>Rastrojos</italic> [<xref ref-type="bibr" rid="R22">22</xref>] and the People’s Liberation Army (EPL, <italic>Ejército Popular de Liberación</italic>, in Spanish) with 24% of occupation, and finally by the smugglers, with 17%. Besides that, it was also possible to observe a certain equilibrium between the Revolutionary Armed Forces of Colombia (FARC, <italic>Fuerzas Armadas Revolucionarias de Colombia</italic>, in Spanish) with 9% of territorial presence in the border area, before being demobilized in 2017 [<xref ref-type="bibr" rid="R23">23</xref>], and BACRIM, which behaviour is similar to the one of neo-paramilitary groups [<xref ref-type="bibr" rid="R24">24</xref>].</p>
+         <p>Differently from the guerrilla and the paramilitaries, the BACRIM do not follow any hierarchy or any centralized organizational model, although they are committed to a model of “franchises” launched by drug traffickers and the United Self-Defenses of Colombia (AUC, or <italic>Autodefensas Unidas de Colombia</italic>, in Spanish). In 2008, according to the data presented by Tickner et al., [<xref ref-type="bibr" rid="R02">2</xref>] BACRIM were present in 246 Colombian municipalities of the and organized in 100 units under 21 different organizations:</p>
+         <p>Its criminal profile is wider and more flexible, since they engage in multiple activities related to cocaine trafficking, agricultural inputs and fuel; the kidnapping and extortion of rural areas; and micro trafficking and murder by order in urban areas. In addition, BACRIM participate of the intermediate stages of the drug trafficking chain, such as the purchase of cocaine base, production of hydrochloride, custody and transport, as well as the control of the micro trafficking of the domestic consumption ([<xref ref-type="bibr" rid="R02">2</xref>], p. 424).</p>
+         <p>In the 2000s, there was an intense displacement of VNSAs in direction to the Colombia and Venezuela border caused by the FARC debilitation to react to government military actions. The result was a dispute between AUC and FARC in coca crop areas and territorial control over some distribution drug chains. However, some groups like AUC disappeared as organization, practically until 2006, because of the governmental demobilization programs undertaken by Uribe Government (2002-2010) in Colombia. However, aimed to fill the vacuum left by the AUC, a lot of members from that group were reorganized into other BACRIM such as <italic>Los Rastrojos</italic> and the <italic>Usuga</italic> Clan, which ascended to be a warehouse for smuggling and drug trafficking ([<xref ref-type="bibr" rid="R25">25</xref>] p. 13).</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label>
+                Figure 1</label>
+            <caption>
+               <title>VNSAs in the Colombia and Venezuela Borders. Source: Elaborated by the authors, based on data from selected newspaper articles. </title>
+            </caption>
+            <graphic xlink:href="figure1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+      </sec>
+      <sec id="s4">
+         <title>4.- Dimensions of VNSAs Presence in the Colombian and Venezuelan Borders</title>
+         <p>In the analysis about alternative forms of governance on border areas, as the ones derived by the VNSAs, the focus on those dimensions defined in the theoretical framework appears to be determinant, mainly when it concerns the high presence and action of VNSAs in the rising black spots on the Colombia and Venezuela’s borders.</p>
+         <p>The Figure <xref ref-type="fig" rid="Fig2">2</xref> depicts the four dimensions elaborated and analysed in the theoretical framework and upon which we are going to structure the case study of this paper. A further and more detailed analysis of each dimension is offered below, starting with a review of the funding means and illegal activities as a facilitating condition for VNSAs. The following section is focusing on more traditional dimensions, like territorial and strategic control and low state presence. The last section looks at VNSAS violent practices between them and against the state itself. The data discussion of each dimension is weighed against the analytical debate of governance in the last section of the paper.</p>
+         <sec id="s4.1">
+            <title>4.1.- Funding and Illegal Activities</title>
+            <p>Illegal exploitation of gold, coltan and tungsten has become a major source of funding for the FARC in recent years, along with extortion and drug trafficking; while, historically, the main source of ELN funding is the kidnapping. [<xref ref-type="bibr" rid="R26">26</xref>] The ELN “political kidnapping”, as they were called, served mainly to finance the organization itself, although some of them had the principal purpose of exchanging victims for guerrilla prisoners, and in this context, these actions seem very similar to the ones undertaken by the FARC in searching for a “humanitarian agreement”. Furthermore, the ELN has reactivated other sources of financing such as gasoline smuggling on the border with Venezuela and drug trafficking that ease the purchase of weapons, logistical materials and campaign and the maintenance of the troops [<xref ref-type="bibr" rid="R27">27</xref>].</p>
+            <p>In the specific case of the <italic>Usuga</italic> Clan, the main source of income for the group comes from drug trafficking. When it comes to this illicit activity, the Gulf’s Clan is similar to its rivals, like the <italic>Rastrojos</italic> or the <italic>Paisas</italic>, in that they are uninterested in controlling the entire chain of drug production. But they have not proved themselves as adept as the <italic>Rastrojos</italic> when it comes to broker key alliances with other major players in the drug trade. The <italic>Usuga</italic> Clan bought coca base from the FARC, however the two groups are not collaborating much further than that. On the other hand, the main income sources of the <italic>Rastrojos</italic> come from the control of drug trafficking in Valle del Cauca, as well as other illegal activities in the region such as extortion, hired killers and drug micro-trafficking. Despite this, they also sought to concentrate their efforts on other illicit activity, besides drug trafficking, like illegal mining of mainly gold mines (carried out without mining titles or controls by the Colombian government) [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>].</p>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                  <title>Dimensions on the Performance of VNSAs. Source: Developed by the authors, based on the Literature. </title>
+               </caption>
+               <graphic xlink:href="figure2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>In an interview that took place in Caracas, on July 31st of 2014, a further detailed description of the panorama of violence in Venezuela was reported, focusing on the phenomenon of the spread of VNSAs in the Venezuelan territory. According to the interviewed, the drug corridor extends between Táchira, Zulia and Maracaibo, until reaching the main ports of the country, such as the Port of Paranaguá, Porto Cabello, Guanta and La Guajira. Already in the Apure region it is possible to observe the presence of members of the FARC, to whom the small local farmers need to pay the “vacuma”, some forms of “taxes” (extortion). Moreover, according to the report, the region is also characterized by intense smuggling, with strong corruption of local agents, who, in some cases practice extortion too. Lastly, as referred by the academic, the region is marked by the presence of kidnappings, homicides, smuggling and extortion [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>].</p>
+            <p>The financing size analysis shows different ways through which VNSAs governance is emerging. On one hand, VNSAs is controlling sources of financing arising from illicit activities. When small farmers or even groups of drug traffickers are required to pay a monthly fee to groups of guerrillas, a kind of tax that only the state could charge, new forms of governance are created, that overlap those of the state. Moreover, as noted by Bruce Bagley, it is observable that VNSAs can generate illicit drug markets, and illicit activities “because it keeps moving throughout the borders, running from local authorities and from their military actions” [<xref ref-type="bibr" rid="R32">32</xref>].</p>
+            <p>On the other hand, and principally consistent with Williams framework, these groups get funding in an economy that varies significantly among national, regional and global scale. At the national level, although they participate in different informal and illegal drug, mining and smuggling markets, these VNSAs also obtain resources through the provision of “private” security services to local communities or even national groups, or sometimes even through the receiving of money from local criminal groups’ “franchises”[<xref ref-type="bibr" rid="R33">33</xref>]. The growing specialization of the different groups in the control of criminal economies spread throughout the national territory. The groups favor a networked control of illicit economies, outsourcing some parts of these activities to other smaller unities:</p>
+            <p>It is noteworthy how it can be highly lucrative to participate in crossings precisely where they are illegal; when states define certain activities as illegal, they create a risk premium for undertaking the activity. The opportunity for increased gain naturally leads actors engage both legal and illegal transactions to seek to influence the politics of border control, and thus rules governing economic exchanges [<xref ref-type="bibr" rid="R05">5</xref>].</p>
+            <p>At the regional level, groups such as BACRIM participate in the chain-of-trade of regional drug traffickers or by charging “tolls” to facilitate the outbound routes to Central America and the Northern market or even through direct marketing of drugs with Mexican drug cartels. Globally speaking, they have become key drug brokers, in the Colombian Pacific and the Venezuelan Caribbean Sea of lots of illicit drugs that are sent to European, American or Asian markets.</p>
+            <p>Then, low state regulation, corruption, high levels of violence and self-financing possibilities for the VNSAs may indicate, in the case of the Colombian border with Venezuela, the rupture of the institutional environment. Furthermore, this may also contribute to generate alternative and informal forms of governance that can survive or even emerge in the absence of the state or with partial statehood. Such reality is observed by Frödin mainly in the Americas, where some spaces are governed by alternative forms of power, based on “law of the strongest”, and where relations are based on personal standards, as well as on bonds of trust and fear ([<xref ref-type="bibr" rid="R34">34</xref>], p. 274). They are internally fragmented countries, with serious failures of formal governance, where informal institutions end up occupying the vacuum of power left by the central authority and leading to hybrid ways of governance.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Key Geographical Position and Scope</title>
+            <p>Given the geostrategic position, some VNSAs are relatively small and operate in a circumscribed geographical area, while others have a wider transnational scope [<xref ref-type="bibr" rid="R13">13</xref>]. Empirically, it is important to state that there was an increase in the organization and coordination of criminal activities in different parts of a region and that those activities have overlapped other countries. Therefore, it results that these groups are highly operatives in border areas ([<xref ref-type="bibr" rid="R35">35</xref>] p. 24).</p>
+            <p>In their search for profits, VNSAs would accept a higher risk to get a convenient geographical base, as well as proximity to the global marketplace. A strategic region for these groups is represented by the frontiers of many weak states; in fact, border regions possesses geographical, political, economic and social features, like low institutional presence of the state, strategic position, necessary infrastructure and a minimal and utilitarian presence of governments agents, that transform this area in an operational refuge for VNSAs.</p>
+            <p>The VNSAs are present in all the places of the border between Colombia and Venezuela, leaving no border department free from their presence. According to the data, it seems important to note that the Colombian border region with the biggest incidence of VNSAs (with 44% of presence) is Norte Santander department (borders with the Venezuelan department of Táchira). This department is in fact the most populated and urbanized one, compared to Guajira (borders with the Venezuelan department of Zulia) and Arauca (borders with the Venezuelan department of Apure). Táchira and Zulia represent 58% of the incidence of VNSAs in the frontier region between both countries (see Figure <xref ref-type="fig" rid="Fig3">3</xref>).</p>
+            <p>Therefore, Venezuela’s strategic location is crucial for the profit calculations and interests of illegal armed groups, as the country has 4,000 km of maritime border with the Caribbean and 185 km with the Atlantic Ocean, and a series of ports along the coast, as Maracaibo, La Guairá and Puerto Cabello, from which illicit trafficking can be disposed of both in Central America and in Europe ([<xref ref-type="bibr" rid="R36">36</xref>] p. 9). Ariel Ávila has shown that some “neo-paramilitary”—or BACRIM groups—were allocated in the region, forming, according to the author, a “criminal structure” of charges against drug traffickers and extortion of civilians.</p>
+            <p>Furthermore, if we consider the dimension of geostrategic geographical position and the scope, this latter took place through an intense work of agreements and alliances and the building up of societies with diverse structures of organized crime at a local and regional level, seeking to dominate the whole chain of the drug trafficking business and other illicit activities, like smuggling. Analyzing the agreements contracted between VNSAs, in the Colombian border regions with Ecuador, Annette Idler points out that: in reality, the categories are very fluid and flexible, and the lines between the different types of arrangement that exists between one or more groups with another or other groups can evolve into another one, meaning: spot sales may evolve into a strategic alliance ([<xref ref-type="bibr" rid="R04">4</xref>] pp. 68–69).</p>
+            <p>Finally, in the understanding of the key geographical spaces occupied by VNSAs it is also important to consider the transnational links of the BACRIM with other criminal groups outside the country. Of the three main BACRIM, two of them, the <italic>Usuga</italic> Clan and the ELP, have maintained transnational business networks with the Mexican Cartel of Sinaloa, one of the two most powerful Mexican drug trafficking organizations. On the other hand, official sources detected that the Sinaloa Cartel was financing those BACRIM engaged in robbery, while the Cartel was also working for the largest criminal organization in Colombia, the <italic>Usuga</italic> Clan. [<xref ref-type="bibr" rid="R37">37</xref>]. For Clunan and Trinkunas to the extent that VNSAs are present in a certain space, then they generate: (i) disorder, with the use of force in a systematic way; (ii) contested spaces, with the formation of rules, norms and the generation of an own authority; these spaces may begin to generate insecurity, especially if they overflow to a border country or if in that space proliferate activities related to transnational crime ([<xref ref-type="bibr" rid="R03">3</xref>] p. 26).</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Low State Presence</title>
+            <p>It can be argued, according to official data, that between the years 2011–2014, there was a decrease in the efficiency and presence of the Colombian state in the border departments with Venezuela, resulting in a zero-sum outcome that erased the progress made in the item “effectiveness”, which had improved in all departments bordering Venezuela, as reported in the Table <xref ref-type="table" rid="Tab1">1</xref>. In addition, the data show that the presence of the Colombian state has generally failed to be strong in those departments, with the exception, and a slight improvement, in the North of Santander. There was, on the other hand, a good improvement in the rates of Guajira. Meanwhile, both Arauca and Cesar Departments presented a slight worsening in the rates of the Colombian state’s presence, at the same period. It can be argued that the departments (except the Arauca department that was absent) witnessed increasing rates of unemployment, ranging from 9% to 12%, and medium and high GINI rates over a ten years period, indicating socioeconomic difficulties among the local population.</p>
+            <fig id="Fig3" position="float" orientation="portrait">
+               <label>
+                Figure 3</label>
+               <caption>
+                  <title>VNSAs into strategic departments. Elaborated by the authors, based on data from selected newspaper articles from the region [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R53">53</xref>, <xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>, <xref ref-type="bibr" rid="R60">60</xref>, <xref ref-type="bibr" rid="R61">61</xref>, <xref ref-type="bibr" rid="R62">62</xref>, <xref ref-type="bibr" rid="R63">63</xref>, <xref ref-type="bibr" rid="R64">64</xref>, <xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>, <xref ref-type="bibr" rid="R68">68</xref>, <xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>, <xref ref-type="bibr" rid="R72">72</xref>, <xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>]. </title>
+               </caption>
+               <graphic xlink:href="figure3.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig4" position="float" orientation="portrait">
+               <label>
+                Figure 4</label>
+               <caption>
+                  <title>Political map of the border between Colombia and Venezuela [<xref ref-type="bibr" rid="R75">75</xref>]. </title>
+               </caption>
+               <graphic xlink:href="figure4.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>Table 1</label>
+               <caption>
+                  <title>Parameters of the Colombian state presence in the border with Venezuela [<xref ref-type="bibr" rid="R76">76</xref>].</title>
+               </caption>
+            </table-wrap>
+            <table-wrap position="float" orientation="portrait">
+               <table>
+                  <thead>
+                     <tr>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Year</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Eficacy</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Eficiency</bold>
+                        </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Legal
+                  
+                  
+                    Requirements
+                  
+                </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Administrative
+                  
+                  
+                    Capacity
+                  
+                </td>
+                        <td align="center" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Index</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left" rowspan="3" style="border:t;" colspan="1">
+                           <bold>Cesar</bold>
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">2011</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">37.8</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">58.7</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">59.2</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">77.4</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">69.5</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">2014</td>
+                        <td align="left" style="" rowspan="1" colspan="1">47.3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">45.8</td>
+                        <td align="left" style="" rowspan="1" colspan="1">69.9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">66.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">66.6</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Status</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="3" style="" colspan="1">
+                           <bold>Arauca</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">2011</td>
+                        <td align="left" style="" rowspan="1" colspan="1">15.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">65.7</td>
+                        <td align="left" style="" rowspan="1" colspan="1">71.1</td>
+                        <td align="left" style="" rowspan="1" colspan="1">76.7</td>
+                        <td align="left" style="" rowspan="1" colspan="1">77.3</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">2014</td>
+                        <td align="left" style="" rowspan="1" colspan="1">81.3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">59.0</td>
+                        <td align="left" style="" rowspan="1" colspan="1">81.9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">76.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">76.6</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Status</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="3" style="" colspan="1">
+                           <bold>La Guajira</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">2011</td>
+                        <td align="left" style="" rowspan="1" colspan="1">13.3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">52.2</td>
+                        <td align="left" style="" rowspan="1" colspan="1">61.4</td>
+                        <td align="left" style="" rowspan="1" colspan="1">37.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">70.2</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">2014</td>
+                        <td align="left" style="" rowspan="1" colspan="1">78.4</td>
+                        <td align="left" style="" rowspan="1" colspan="1">41.9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">77.5</td>
+                        <td align="left" style="" rowspan="1" colspan="1">79.8</td>
+                        <td align="left" style="" rowspan="1" colspan="1">79.8</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Status</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="" rowspan="1" colspan="1">Increased</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="3" style="border:bb;" colspan="1">
+                           <bold>Nte. Santander</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">2011</td>
+                        <td align="left" style="" rowspan="1" colspan="1">61.9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">58.8</td>
+                        <td align="left" style="" rowspan="1" colspan="1">68.9</td>
+                        <td align="left" style="" rowspan="1" colspan="1">64.7</td>
+                        <td align="left" style="" rowspan="1" colspan="1">63.4</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">2014</td>
+                        <td align="left" style="" rowspan="1" colspan="1">77.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">47.4</td>
+                        <td align="left" style="" rowspan="1" colspan="1">79.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">67.6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">67.6</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Status</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Decreased</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Increased</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Increased</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>The relation between low state presence and criminal gangs’ issues is outlined in the security field, when people at the border area accept the idea that security, which in thesis should be offered by the State, exists in part because groups like BRACRIM have imposed that, in any way. As reported by the testimony of an inhabitant of the region: “You can leave the door open because you know that if you act badly they will kill you. It’s like a mentality; if you do something bad, like stealing or fighting, an armed guy will come and kill you” [<xref ref-type="bibr" rid="R34">34</xref>]. “With the exception of the occasional motorized patrol of heavily armed police, the state—and the right—is completely absent. Similarly, they are also absent in many neighborhoods and cities in Latin America, where violence continues to change—inter-gang conflicts, drug trafficking, racial, political, or social extermination projects” ([<xref ref-type="bibr" rid="R77">77</xref>] p. 470).</p>
+            <p>The analysis of the low statehood at the Colombia and Venezuela border has become important because of the centrality of this space for a series of activities that have begun to overlap and, therefore, to turn out the area into multimodal transit zone, allowing for outlawed groups to carry out activities such as trafficking, stockpiling and hiding products, money laundering, weapons buying, among others. But on the other hand, these illicit activities have ended up generating a series of unlawful “public goods”— labor markets, security that is not offered by the state and supply of goods and consumer products. Moreover, facing the displacement of trade, either by outlaw groups, illicit flow and civilians affected by conflict, borders became a suitable locus for refuge, support and transit of those actors. The illegal transit that has been occurring in the border area between Colombia and Venezuela, namely drug and arms trafficking, as well as the use of the region as a refuge by unlawful armed groups—like the ELN and BACRIM— are real “black spots”, in which the presence of the state is weak related to the formulation of public policy and effective appropriation of space.</p>
+            <p>According to Avila , there are regions in which different forms of illegal authorities operate, with the rise of a political elite linked to crime and the presence of territorial disputes over drug trafficking routes to the guerrilla groups This increased pressure in the border area, says Avila, is due mainly to the disposal of police officers from both nationalities, in coalition with drug traffickers, which can lead to increasing tension between these countries. So, the scholar highlights three trends that have intensified the problem of the region: i) collaboration or negligence of local official agents; ii) inability of governance in the region; iii) increasing institutional instability of local and regional administrations in the border zone [<xref ref-type="bibr" rid="R06">6</xref>].</p>
+            <p>Hence, a key question is the extent to which the VNSAs has become an alternative form of governance and is fulfilling functions that normally are of the responsibility of the state, such as health, safety, infrastructure construction and urban sanitation. Thus, it is important to determine what kind of capacity gaps and functional holes are filled by VNSAs. So, these can include the provision of state functions, like the imposing and maintaining of security and order, while they can also extend to what might be described as paternalistic forms of social welfare. Indeed, for VNSAs the filling of functional spaces is often even more important than filling territorial spaces ([<xref ref-type="bibr" rid="R17">17</xref>] p. 8). This indicates that when VNSAS establish themselves on a frontier, the most important thing for them is not to dominate the territory of that border through armed means or establishing forms of authority in that territory, but it results to be more effective whether they are able to gain a certain social legitimacy by filling the functions that the state does not provide such as safety, health and job creation. The governance failure by the central authorities of the states ends up generating small “black spots” usually located in neighborhoods where the police does not enter and therefore creating parallel ends to formal social norms.
+</p>
+         </sec>
+         <sec id="s4.4">
+            <title>4.4.- Violence</title>
+            <p>Smugglers and narcotraffickers have also used the protection offered by BACRIM, which gradually became more present on the border between Colombia and Venezuela, after the 2000s. In the same period, the increased number of paramilitary groups in the region, sharing an area that was witnessing an augmenting of illegal practices of narcotrafficking and smuggling, resulted in many aggressive disputes, among which, the most violent one was the Bahia Portete massacre, in 2004, against the indigenous women from the Wayúu community. Paramilitary groups, in particular the Jorge 40, profited from the internal disputes inside the Wayúu community to attack its women, that were ravished, tortured and most of them disappeared. This massacre, other than clearly demonstrate the violent disputes in the region, is significant to highlight the cruel fact that the vulnerable groups, and in this specific case we are talking of a double vulnerable group (indigenous and women), are the first and the most affected targets of violence [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+            <p>Violence assumes different forms in the border region and its use is also related to the high incidence of activities exerted by the different types of VNSAs, like kidnappings, extortion, deaths, among others. Regarding the data on security and violence, it can be observed that homicide rates in Norte Santander department are higher than the national and regional average; furthermore, kidnapping rates in the departments of Arauca are four times higher than the national average (Table <xref ref-type="table" rid="Tab2">2</xref>). It should be highlighted that the Arauca department is one of the main sources of funding for some VNSAs, like the ELN. Moreover, the hectares of coca planted in the Department of Santander are also four times higher than the national average. On the other hand, in the Colombian side, the regions La Guajira and Cúcuta are the most violent ones, since they present the highest homicide rates in their departments.</p>
+            <p>According to the project “Rutas del conflicto” from <italic>Centro Nacional de Memoria Histórica de Colombia</italic> (Routes of the conflict—National Center of Historical Memory of Colombia), between 1982 and 2013, the BACRIM or neoparamilitaries were responsible for the vast majority of deaths in Colombia, committing a total number of 1,166 massacres. They were followed by unidentified armed groups with 295 massacres, the FARC guerrilla with 238 cases, and 139 massacres were committed by the security forces [<xref ref-type="bibr" rid="R79">79</xref>].</p>
+            <p>According to statistics, 6,729 people were abducted by the ELN, which is heavily concentrated on the Colombian border with Venezuela, especially in the departments of Norte Santander (Colombia) and Apure (Venezuela), between 1985 and 2015. Of these people, 148 would have died in captivity. In addition, more recent data showed that the FARC has appeared until its demobilization as the alleged perpetrator in 33% of the cases while it has been confirmed in 37% of them; the BACRIM has obtained a percentage of 27% and 20% respectively; while the ELN scores 25% cases as presumed author and 30% as confirmed. In addition, data from the <italic>Pais Libre Foundation</italic> indicates that, in a historical series between 1996 and 2008, the sum of kidnappings in the departments of the border between Colombia and Venezuela (Guajira, Cesar, Norte de Santander, Boyacá, Arauca, Vichada and Guainía) was the largest number of all the border areas of Colombia, with a total of 5,786 people kidnapped [<xref ref-type="bibr" rid="R31">31</xref>].</p>
+            <p>Finally, when the VNSAs action comes to the dimension of violence it is also admitting that VNSAs have achieved some degrees of autonomy and can exercise those governance functions that are not provided by the state. The local population has often been forced to move, either internally or to neighboring territories, and when the state can not exercise its authority effectively, it delegates violence to other actors, allowing for the emergence of the neo-paramilitary groups. Some officers have pointed out that the state, by recognizing its deficiencies, has allowed the use of weapons by peasants to defend themselves and sometimes to attack guerrilla members. [<xref ref-type="bibr" rid="R80">80</xref>] This means that sometimes the state empowers social actors of the population with violence functions. It is an attitude that should be avoided both because the state does not have the capacity to control the use of means of violence by the population and also because the states is easily opting for delegating to the population the fight against VNSAS and consequently affecting the state’s monopoly of force. [<xref ref-type="bibr" rid="R37">37</xref>] VNSAs are inherently “illegitimate <italic>vis-à-vis</italic> the classical state system in part because the essence of being a state is having a monopoly on the legitimate use of violence. Yet, they often provide alternative governance, offering services and supplying collective goods that the state is unable or unwilling to offer and provide” ([<xref ref-type="bibr" rid="R12">12</xref>] p. 6).</p>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>Table 2</label>
+               <caption>
+                  <title>Security indicators of the border Colombian departments [<xref ref-type="bibr" rid="R76">76</xref>].</title>
+               </caption>
+            </table-wrap>
+            <table-wrap position="float" orientation="portrait">
+               <table>
+                  <tbody>
+                     <tr>
+                        <td style="border:tt;" rowspan="1" colspan="1"/>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Indicators</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                           <bold>Department</bold>
+                        </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    Regional
+                  
+                  
+                    average
+                  
+                </td>
+                        <td align="left" style="border:tt;" rowspan="1" colspan="1">
+                  
+                    National
+                  
+                  
+                    average
+                  
+                </td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="4" style="border:t;" colspan="1">
+                           <bold>Cesar</bold>
+                        </td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">Homicides</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">264</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">286</td>
+                        <td align="left" style="border:t;" rowspan="1" colspan="1">461</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Kidnappings</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">9</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Common theft</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.096</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.600</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4.041</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Hectares of Coca</td>
+                        <td align="left" style="" rowspan="1" colspan="1">13</td>
+                        <td align="left" style="" rowspan="1" colspan="1">178</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.460</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="4" style="" colspan="1">
+                           <bold>Arauca</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Homicides</td>
+                        <td align="left" style="" rowspan="1" colspan="1">165</td>
+                        <td align="left" style="" rowspan="1" colspan="1">100</td>
+                        <td align="left" style="" rowspan="1" colspan="1">461</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Kidnappings</td>
+                        <td align="left" style="" rowspan="1" colspan="1">35</td>
+                        <td align="left" style="" rowspan="1" colspan="1">8</td>
+                        <td align="left" style="" rowspan="1" colspan="1">9</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Common theft</td>
+                        <td align="left" style="" rowspan="1" colspan="1">536</td>
+                        <td align="left" style="" rowspan="1" colspan="1">965</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4.041</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Hectares of Coca</td>
+                        <td align="left" style="" rowspan="1" colspan="1">69</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.239</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.460</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="4" style="" colspan="1">
+                           <bold>Guajira</bold>
+                        </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Homicides</td>
+                        <td align="left" style="" rowspan="1" colspan="1">189</td>
+                        <td align="left" style="" rowspan="1" colspan="1">286</td>
+                        <td align="left" style="" rowspan="1" colspan="1">461</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Kidnappings</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">3</td>
+                        <td align="left" style="" rowspan="1" colspan="1">9</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Common theft</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.027</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.600</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4.041</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Hectares of Coca</td>
+                        <td align="left" style="" rowspan="1" colspan="1">6</td>
+                        <td align="left" style="" rowspan="1" colspan="1">178</td>
+                        <td align="left" style="" rowspan="1" colspan="1">1.460</td>
+                     </tr>
+                     <tr>
+                        <td align="left" rowspan="4" style="border:bb;" colspan="1">
+                    
+                      Norte
+                    
+                    
+                      Santander
+                    
+                  </td>
+                        <td align="left" style="" rowspan="1" colspan="1">Homicides</td>
+                        <td align="left" style="" rowspan="1" colspan="1">524</td>
+                        <td align="left" style="" rowspan="1" colspan="1">372</td>
+                        <td align="left" style="" rowspan="1" colspan="1">461</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Kidnappings</td>
+                        <td align="left" style="" rowspan="1" colspan="1">15</td>
+                        <td align="left" style="" rowspan="1" colspan="1">10</td>
+                        <td align="left" style="" rowspan="1" colspan="1">9</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">Common theft</td>
+                        <td align="left" style="" rowspan="1" colspan="1">2.566</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4.144</td>
+                        <td align="left" style="" rowspan="1" colspan="1">4.041</td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">Hectares of Coca</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">6.345</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">1.610</td>
+                        <td align="left" style="border:bb;" rowspan="1" colspan="1">1.460</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Final Remarks</title>
+         <p>The case of the Colombian and Venezuelan borders shows that within this context, the governance standard setting is “no longer the exclusive domain of states or governments” ([<xref ref-type="bibr" rid="R81">81</xref>] p. 11). A diversity of actors, such as rebels and neoparamilitaries can now communicate more effectively and disseminate new standards of governance. Some of the Colombian and Venezuelan borders can be defined like black spots, but in line with the theoretical development it doesn’t mean that they are non-governed areas, on the contrary, they are not completely governed by the state or that such areas show limited statehood. The governance out the state, like the one coming from criminal groups of insurgents, is a way to check the absence of the state in one specific geographic region and show that VNSAs are certainly able, at least, to “provide rudimentary forms of governance in urban [and rural] areas where the state is absent” ([<xref ref-type="bibr" rid="R17">17</xref>] p. 4).</p>
+         <p>Black spots can appear, such as the data have shown, both in more developed urban region, like the Departments of Santander and Táchira (in Colombia and Venezuela, respectively), as well as in a less developed region in the rural areas along the Arauca Department borders. Moreover these black spots can present many possibilities of dimensions—from funding until violence. Such a territorial coverage of the VNSAS is explained by the fact that the state’s presence with its public policies is not homogeneous, meaning with this that, in many urbanized and populated regions as well as in rural regions, some areas are less provided by state assistance and less served by public policies.</p>
+         <p>This could lead to the question whether the state is interested to be present in such regions, or whether it is convenient for it to leave poor areas under the control of VNSAs. In fact, it is possible to advance the hypothesis that it may be opportune for the state, for electoral reasons, to justify the implementation of repressive policies of public security, or even because the VNSAs acting in the black spots provide “public goods” for the population—security, food, fuel, medicines, among others—that the national government is unable to provide. On the other hand, it is possible to observe black spots, on Colombia and Venezuela borders, in which the presence of VNSAs makes the social institutional governance dependent on the income generated by illicit economies, implying alternative modes of subordination to illegal actors. In fact, if the population and entrepreneurs’ levels of consumption depend on the illegal income, then their subordination to illegal actors is complete and and repressive state governance policy, to combat organized crime in these territories, may not be feasible [<xref ref-type="bibr" rid="R82">82</xref>].</p>
+         <p>Where there is a functional absence of the state, informal economy and low social security conditions, the practice of crimes is favored. Sometimes, as in the case of Venezuela, even when the regulatory presence of the state exist—through members of the armed forces—the corruption of officers leads to a spillover effect towards other societies, leading to violence and corrupt practices. In other words, the penetration of official institutions, which in principle should combat illicit activities, is not limited to the border, but gradually problems such as corruption, violence and drug trafficking are spreading even into the territory of the neighboring country.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Dealing with Black Spots of Crime and Terror. Conclusions and Recommendations</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Levitsky</surname>
+                     <given-names>Melvyn</given-names>
+                  </name>
+               </person-group>
+               <source>International Studies Review</source>
+               <volume>10</volume>
+               <issue>2</issue>
+               <fpage>392</fpage>
+               <lpage>396</lpage>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Actores violentos no estatales y narcotráfico en Colombia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tickner</surname>
+                     <given-names>Arlene Beth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Garc\'\ia, Diego</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Arreaza</surname>
+                     <given-names>Catalina</given-names>
+                  </name>
+               </person-group>
+               <source>Pol\'\iticas antidroga en Colombia: \'exitos, fracasos y extrav\'\ios, Bogotá</source>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Conceptualizing Ungoverned Spaces: territorial statehood, contested authority, and softened sovereignty</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anne L. Clunan AND Trinkunas, HA</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Clunan</surname>
+                     <given-names>Anne L and Trinkunas, Harold A</given-names>
+                  </name>
+               </person-group>
+               <source>Ungoverned Spaces: Alternatives to State Authority in an Era of Softened Sovereignty</source>
+               <fpage>17</fpage>
+               <lpage>33</lpage>
+               <year>2010</year>
+               <publisher-name>Stanford University Press</publisher-name>
+               <publisher-loc>Palo Alto, CA, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Exploring Agreements of Convenience Made among Violent Non-State Actors</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Idler</surname>
+                     <given-names>Annette</given-names>
+                  </name>
+               </person-group>
+               <source>Perspectives on Terrorism</source>
+               <volume>6</volume>
+               <issue>4/5</issue>
+               <fpage>63</fpage>
+               <lpage>84</lpage>
+               <year>2012</year>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>American Crossings: Border Politics in the Western Hemisphere</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jaskoski</surname>
+                     <given-names>Maiah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sotomayor</surname>
+                     <given-names>Arturo C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Trinkunas</surname>
+                     <given-names>Harold A</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <publisher-name>Johns Hopkins University Press</publisher-name>
+               <publisher-loc>Baltimore, MD, United States</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>La frontera caliente entre Colombia y Venezuela</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Avila</surname>
+                     <given-names>Fernando</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Le\'on, Sof\'\ia</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ascanio</surname>
+                     <given-names>Elizabeth Ni\ no</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Debate</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Una aproximaci\'on a la ilegalidad, el crimen organizado y ausencia estatal en la frontera colombo-venezolana. El caso del departamento de La Guajira en Colombia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rosero</surname>
+                     <given-names>Luis Fernando Trejos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cediel</surname>
+                     <given-names>David J Luquetta</given-names>
+                  </name>
+               </person-group>
+               <source>Memorias: revista digital de historia y arqueolog\'\ia desde El Caribe</source>
+               <issue>24</issue>
+               <fpage>5</fpage>
+               <year>2014</year>
+               <publisher-name>Departamento de Historia y Ciencias Sociales</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Case studies and theory development in the social sciences</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bennett</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>George</surname>
+                     <given-names>Alexander L</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Cambridge, MA, USA</publisher-loc>
+               <publisher-name>MIT Press</publisher-name>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A practical guide to the comparative case study method in political psychology</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kaarbo</surname>
+                     <given-names>Juliet</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beasley</surname>
+                     <given-names>Ryan K</given-names>
+                  </name>
+               </person-group>
+               <source>Political Psychology</source>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>369</fpage>
+               <lpage>391</lpage>
+               <year>1999</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+               <pub-id pub-id-type="doi">10.1111/0162-895x.00149</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>On hybrid political orders and emerging states: state formation in the context of ‘fragility’</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boege</surname>
+                     <given-names>Volker</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clements</surname>
+                     <given-names>Kevin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nolan</surname>
+                     <given-names>Anna</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.berghof-foundation.org/fileadmin/redaktion/Publications/Handboo k/Articles/boege\_etal\_handbook.pdf"
+                         xlink:type="simple">https://www.berghof-foundation.org/fileadmin/redaktion/Publications/Handboo k/Articles/boege\_etal\_handbook.pdf</ext-link>
+               <publisher-name>Berghof Research Center for Constructive Conflict Management</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Maxwell School. Global Black Spots Group</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.maxwell.syr.edu/moynihan/gbs/Welcome/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Here be Dragons: Dangerous spaces and international security</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Phil</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Anne L. Clunan and Harold A. Trinkunas</surname>
+                  </name>
+               </person-group>
+               <source>Ungoverned Spaces: Alternatives to State Authority in an Era of Softened Sovereignty</source>
+               <fpage>34</fpage>
+               <lpage>54</lpage>
+               <year>2010</year>
+               <publisher-name>Stanford: Stanford Security Studies</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Introduction: The challenge of non-state armed groups</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Keith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Milliken</surname>
+                     <given-names>Jennifer</given-names>
+                  </name>
+               </person-group>
+               <source>Contemporary Security Policy</source>
+               <volume>30</volume>
+               <issue>2</issue>
+               <fpage>202</fpage>
+               <lpage>220</lpage>
+               <year>2009</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/13523260903077296</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Violent non-state actors: From Anarchists to Jihadists</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aydinli</surname>
+                     <given-names>Ersel</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>Abingdon, United Kingdom</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Global security upheaval: armed nonstate groups usurping state stability functions</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mandel</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Stanford University Press</publisher-name>
+               <publisher-loc>Palo Alto, California, United States</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Fragile statehood, armed non-state actors and security governance</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schneckener</surname>
+                     <given-names>Ulrich</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Alan Bryden, Marina Caparini</surname>
+                  </name>
+               </person-group>
+               <source>Private actors and security governance</source>
+               <volume>4</volume>
+               <fpage>23</fpage>
+               <lpage>40</lpage>
+               <year>2006</year>
+               <publisher-name>Geneva Centre for the Democratic Control of Armed Froces (DCAF)</publisher-name>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Violent non-state actors and national and international security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Phil</given-names>
+                  </name>
+               </person-group>
+               <source>International Relations and Security Network</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.files.ethz.ch/isn/93880/VNSAs.pdf"
+                         xlink:type="simple">https://www.files.ethz.ch/isn/93880/VNSAs.pdf</ext-link>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Colombia e seus vizinhos: os tentáculos da instabilidade</article-title>
+               <source>Bogotá/Bruxelas: Latin America/Caribbean Report</source>
+               <issue>3</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.crisisgroup.org/ /media/Files/latinamerica/colombia/03\_colombia\_e\_vizinhos\_in\_pt.pdf"
+                         xlink:type="simple">http://www.crisisgroup.org/ /media/Files/latinamerica/colombia/03\_colombia\_e\_vizinhos\_in\_pt.pdf</ext-link>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The guerrilla group of the ELN emerged in the 1950s based on Leninist doctrines and aimed to preach access to land and a broad agrarian reform, while challenging the power of the central government. Of military nature, its organization resembles a federation of militarized cells, which present many differences between them. However, there is a rather decentralized military organizational structure: Today it has between 2,500 and 3,000 men distributed in five war fronts and it still has a large network of militia men and a large presence in social movements.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Bacrim (Criminal Bands like Los Rastrojos and Clam Usuga) are groups composed by members of former paramilitary groups that disappeared like Las Aguilas Negras (Black Eager) and demobilized paramilitary groups as Autodefensas Unidas de Colombia (AUC). For this reasons they are called ``neo-paramilitary groups'' too.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The ``Clan del Golfo'' (Gulf Clan) has become Colombia's largest and most powerful criminal organization. The Gulf Clan has control across all Colombian territory and funds its activities with drug trafficking, illegal mining and extortion, and money-laundering in sectors like real estate business and international franchises. Colombian authorities have identified their presence in at least 17 departments of the country, recorded in GlobalSecurity.org ``Clan del Golfo (Gulf Clan) Clan Usuga / Autodefensas Gaitanistas''</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>The ``Rastrojos'' or Rondas Populares Campesinas (RCP) is a BACRIM that, by 2014, had an approximate number of 460 militants, operating in a decentralized way and without a fixed command. By 2012 a number of 3000 members was estimated, working in 246 Colombian municipalities (El Pais.``Conozca cómo las bandas criminales se `reparten' zonas de Colombia''.Feb 16, 2012)</p>
+               </annotation>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.elpais.com.co/judicial/conozca-como-las-bandas-criminales-se-reparten-zonas-de-colombia.html</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>The FARC, unlike other Latin American guerrillas, were born from the peasant self-defense movements in the 1950s, and have maintained an important part of Colombian territory under their control, achieving also high military capacity. The FARC-EP came to be present in 15-20\% of the Colombian territory, mainly in the forests of the Southeast and the plains located at the base of the Andes Mountain range. Until their demobilization in early 2017, FARC had between 6000 and 8000 members, a drop of more than half of the 16,000, in 2001. ( BBC News. ``Colombia's rebels: A fading force?''</p>
+               </annotation>
+               <comment>Available from:
+            <uri xlink:type="simple">http://news.bbc.co.uk/2/hi/americas/721717.stm</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Neo-paramilitaries in the sense that such new groups, besides being integrated by former members of paramilitary groups now demobilized, such as the United Self-Defense Forces of Colombia (AUC; Autodefensas Unidas de Colombia in Spanish), do not fight for ideological reasons, as in the case of the AUC, which were anti-communist groups. The new military groups are simply organized criminal groups that also use violence illegally and illegitimately.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>ACNUR Diagnóstico Departamental Norte Santander. 2006</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.acnur.org/t3/uploads/pics/2182.pdf?view=1</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Colombian Forces dismantle illegal mining and FARC finance</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://oglobo.globo.com/mundo/forcas-da-colombia-desmantelam-mineracao-ilegal-financas-das-farc-16125736</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>El Pais. Así es la actividad del ELN en las diferentes zonas de Colombia</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.elpais.com.co/judicial/asi-es-la-actividad-del-eln-en-las-diferentes-zonas-de-colombia.html</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>El Pais. Conozca como bandas criminlaes se reparten el pais</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.elpais.com.co/elpais/judicial/noticias/exclusivo-conozca-como-bandas-criminales-reparten-zonas-del-pais</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Departamento Nacional de Planeación</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.dnp.gov.co/programas/desarrollo-territorial/Paginas/Fichas-de-Caracterizacion-Regional.aspx</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The interview was conducted at the Universidad Central de Venezuela (UCV) by the author of this paper with a researcher/professor from the Economy Department who asked to remain anonymous and not have the name published.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Estadísticas Generales Fundación País Libre enero 1996-junio 2008</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bagley B.</surname>
+                  </name>
+               </person-group>
+               <trans-title>Drug trafficking and organized crime in the Americas: major trends in the twenty first century.</trans-title>
+               <publisher-loc>Washington. USA</publisher-loc>
+               <publisher-name>Woodrow Wilson</publisher-name>
+               <source>Center Update on the Americas</source>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>BBC Mundo. Crisis fronteriza entre Colombia y Venezuela: ¿quiénes son los paramilitares de los que habla Nicolás Maduro?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pardo D.</surname>
+                  </name>
+               </person-group>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.bbc.com/mundo/noticias/2015/09/150908\_venezuela\_colombia\_paramilitares\_maduro\_dp</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Dissecting the state: Towards a relational conceptualization of states and state failure</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Frödin</surname>
+                     <given-names>Olle Jonas</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of International Development</source>
+               <volume>24</volume>
+               <issue>3</issue>
+               <fpage>271</fpage>
+               <lpage>286</lpage>
+               <year>2012</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+               <pub-id pub-id-type="doi">10.1002/jid.1743</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Ungoverned areas and threats from safe havens</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lamb</surname>
+                     <given-names>Robert D</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.cissm.umd.edu/publications/ungoverned-areas-and-threats-safe-havens-2"
+                         xlink:type="simple">http://www.cissm.umd.edu/publications/ungoverned-areas-and-threats-safe-havens-2</ext-link>
+               <publisher-name>Office of Deputy Assistant Secretary of Defence for Policy Planning</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Government Accountability Office (GAO). Drug Control. U.S. Counternarcotics Cooperation with Venezuela has Declined. Washington. 2009</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.gao.gov/new.items/d09806.pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>``La alerta de Colombia por la alianza Cártel de Sinaloa-Clan del Golfo.''</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Croda</surname>
+                     <given-names>Rafael</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.proceso.com.mx/519407/la-alerta-de-colombia-por-la-alianza-cartel-de-sinaloa-clan-del-golfo</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Colombia captura más de 80 integrantes del Clan Usuga</article-title>
+               <source>El Universal</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eluniversal.com.mx/articulo/mundo/2016/09/5/colombia-captura-mas-de-80-integrantes-del-clan-usuga"
+                         xlink:type="simple">https://www.eluniversal.com.mx/articulo/mundo/2016/09/5/colombia-captura-mas-de-80-integrantes-del-clan-usuga</ext-link>
+               <month>Sept 12</month>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Arremetida del Ejército contra la red de traficantes de hidrocarburos en La Guajira</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=389334"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=389334</ext-link>
+               <month>Jan 3</month>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Guerrilla y bacrim dominan el contrabando de gasolina</article-title>
+               <source>El Heraldo</source>
+               <year>2014</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.elheraldo.co/la-guajira/guerrilla-y-bacrim-dominan-el-contrabando-de-gasolina-146445"
+                         xlink:type="simple">https://www.elheraldo.co/la-guajira/guerrilla-y-bacrim-dominan-el-contrabando-de-gasolina-146445</ext-link>
+               <month>Mar 14</month>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Cae cargamento de contrabando en el Cesar</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=389334"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=389334</ext-link>
+               <month>Jan 22</month>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Cancilleres de Colombia y Venezuela acuerdan reunión para abordar crisis en frontera</article-title>
+               <source>El Espectador</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elespectador.com/noticias/elmundo/cancilleres-de-colombia-y-venezuela-acuerdan-reunion-ab-articulo-580592"
+                         xlink:type="simple">http://www.elespectador.com/noticias/elmundo/cancilleres-de-colombia-y-venezuela-acuerdan-reunion-ab-articulo-580592</ext-link>
+               <month>Ago 20</month>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturado alias `Guajiro', presunto jefe de sicarios de `Los Rastrojos'</article-title>
+               <source>El Tiempo</source>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.eltiempo.com/archivo/documento/CMS-4825047"
+                         xlink:type="simple">http://www.eltiempo.com/archivo/documento/CMS-4825047</ext-link>
+               <month>Feb 18</month>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturado alias Mono Ánuar cabecilla del ELN</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390633"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390633</ext-link>
+               <month>Feb 26</month>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturado Cabecilla del frente Héroes y Mártires del ELN</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390145"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390145</ext-link>
+               <month>Feb 1</month>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturado hombre que transportaba pasta base de coca</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=389091"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=389091</ext-link>
+               <month>Dec 20</month>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Choque de bandas militares ocasionó cierre de frontera en Venezuela</article-title>
+               <source>El Nuevo Herald</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elnuevoherald.com/noticias/mundo/america-latina/venezuela-es/article32272311.html"
+                         xlink:type="simple">http://www.elnuevoherald.com/noticias/mundo/america-latina/venezuela-es/article32272311.html</ext-link>
+               <month>Aug 24</month>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Cinco minas antipersonal del ELN fueron destruidas</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=388482"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=388482</ext-link>
+               <month>Dec 4</month>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Confirman muerte en Venezuela de Walter Raúl Silva, alias Cara de Vieja, líder de `Los Rastrojos'</article-title>
+               <source>El Heraldo</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elheraldo.co/nacional/confirman-muerte-en-venezuela-de-walter-raul-silva-alias-cara-de-vieja-lider-de-los"
+                         xlink:type="simple">http://www.elheraldo.co/nacional/confirman-muerte-en-venezuela-de-walter-raul-silva-alias-cara-de-vieja-lider-de-los</ext-link>
+               <month>Jan 17</month>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturadoalias Cabeza de Loro de las Bacrim</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390412"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390412</ext-link>
+               <month>Feb 5</month>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturadastres personas por contrabando de hidrocarburos</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390435"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390435</ext-link>
+               <month>Feb 6</month>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Capturado principal testaferro de alias Megateo</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390135"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390135</ext-link>
+               <month>Feb 1</month>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contundente operación militar golpea al ELN</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=389913"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=389913</ext-link>
+               <month>Jan 27</month>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>DIAN decomisó 11 toneladas de vísceras de ganado traídas de contrabando de Venezuela</article-title>
+               <source>Caracol Radio</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://caracol.com.co/radio/2013/04/30/economia/1367343360_890812.html"
+                         xlink:type="simple">http://caracol.com.co/radio/2013/04/30/economia/1367343360_890812.html</ext-link>
+               <month>Apr 30</month>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Doce militares muertos dejaron combates con las Farc en La Guajira</article-title>
+               <source>El Colombiano</source>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elcolombiano.com/historico/farc_atacaron_a_militares_en_la_serrania_de_perija_en_la_guajira-GVEC_182747"
+                         xlink:type="simple">http://www.elcolombiano.com/historico/farc_atacaron_a_militares_en_la_serrania_de_perija_en_la_guajira-GVEC_182747</ext-link>
+               <month>Mai 21</month>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ejército del extinto capo del cartel del norte del Valle alias `Jabón' está en Ibagué</article-title>
+               <source>El Tiempo</source>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.eltiempo.com/archivo/documento/CMS-4702920"
+                         xlink:type="simple">http://www.eltiempo.com/archivo/documento/CMS-4702920</ext-link>
+               <month>Dec 3</month>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ejército desmantela armería del Clan Usuga, en Norte de Santander</article-title>
+               <source>Ejército Nacional de Colombia</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ejercito.mil.co/?idcategoria=390688"
+                         xlink:type="simple">https://www.ejercito.mil.co/?idcategoria=390688</ext-link>
+               <month>Feb 11</month>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title/>
+               <source>El País</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elpais.com.co/elpais/judicial/noticias/emboscada-patrulla-militar-deja-soldados-muertos-boyaca"
+                         xlink:type="simple">http://www.elpais.com.co/elpais/judicial/noticias/emboscada-patrulla-militar-deja-soldados-muertos-boyaca</ext-link>
+               <month>Oct 26</month>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Importantes capturas de urabeños em Córdoba</article-title>
+               <source>El Universal</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eluniversal.com.co/sucesos/importantes-capturas-de-urabenos-en-cordoba-143874-CREU233724"
+                         xlink:type="simple">https://www.eluniversal.com.co/sucesos/importantes-capturas-de-urabenos-en-cordoba-143874-CREU233724</ext-link>
+               <month>Dec 1</month>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ex paramilitares pidieron perdón a Víctimas de Norte de Santander</article-title>
+               <source>Gobernación de Norte de Santander</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.nortedesantander.gov.co/Noticias-Gobernaci%C3%B3n-Norte-de-Santander/ArticleID/1560/Ex-paramilitares-pidieron-perd%C3%B3n-a-V%C3%ADctimas-de-Norte-de-Santander"
+                         xlink:type="simple">http://www.nortedesantander.gov.co/Noticias-Gobernaci%C3%B3n-Norte-de-Santander/ArticleID/1560/Ex-paramilitares-pidieron-perd%C3%B3n-a-V%C3%ADctimas-de-Norte-de-Santander</ext-link>
+               <month>Dec 11</month>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>GNB incauta 2,7 toneladas de marihuana en frontera con Colombia</article-title>
+               <source>La Verdad</source>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.laverdad.com/sucesos/14578-gnb-incauta-mas-de-2-toneladas-de-droga-en-tachira.html"
+                         xlink:type="simple">http://www.laverdad.com/sucesos/14578-gnb-incauta-mas-de-2-toneladas-de-droga-en-tachira.html</ext-link>
+               <month>Nov 6</month>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Golpe a `los Rastrojos'</article-title>
+               <source>El Tiempo</source>
+               <year>2011</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.eltiempo.com/archivo/documento/MAM-4566711"
+                         xlink:type="simple">http://www.eltiempo.com/archivo/documento/MAM-4566711</ext-link>
+               <month>Mai 19</month>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Guerra contra las FARC: murieron cuatro soldados y ocho subversivos en combate</article-title>
+               <source>El Comercio</source>
+               <year>2010</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://elcomercio.pe/mundo/actualidad/guerra-contra-farc-murieron-cuatro-soldados-ocho-subversivos-combate-noticia-669005"
+                         xlink:type="simple">http://elcomercio.pe/mundo/actualidad/guerra-contra-farc-murieron-cuatro-soldados-ocho-subversivos-combate-noticia-669005</ext-link>
+               <month>Nov 14</month>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Jefe de Los Rastrojos habría sido asesinado en la masacre de Catatumbo en el Zulia</article-title>
+               <source>La Patilla</source>
+               <year>2014</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.lapatilla.com/site/2014/11/11/jefe-de-los-rastrojos-habria-sido-asesinado-en-la-masacre-de-catatumbo-en-el-zulia/"
+                         xlink:type="simple">http://www.lapatilla.com/site/2014/11/11/jefe-de-los-rastrojos-habria-sido-asesinado-en-la-masacre-de-catatumbo-en-el-zulia/</ext-link>
+               <month>Nov 11</month>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>El Nacional</source>
+               <article-title>Capturan presunto narcotraficante que hacia pasar por empresario venezolano</article-title>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.el-nacional.com/noticias/mundo/capturan-presunto-narcotraficante-que-hacia-pasar-por-empresario-venezolano_175048"
+                         xlink:type="simple">http://www.el-nacional.com/noticias/mundo/capturan-presunto-narcotraficante-que-hacia-pasar-por-empresario-venezolano_175048</ext-link>
+               <month>Oct 31</month>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>El Universal</source>
+               <article-title>Habrían detenido en Venezuela a `Diego Rastrojo'</article-title>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eluniversal.com.co/colombia/habrian-detenido-en-venezuela-diego-rastrojo-78800-GXEU162062"
+                         xlink:type="simple">https://www.eluniversal.com.co/colombia/habrian-detenido-en-venezuela-diego-rastrojo-78800-GXEU162062</ext-link>
+               <month>Jun 13</month>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Colombian Conflict Enters a New Phase</article-title>
+               <source>Insight Crime</source>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.insightcrime.org/investigations/colombian-conflict-enters-a-new-phase"
+                         xlink:type="simple">http://www.insightcrime.org/investigations/colombian-conflict-enters-a-new-phase</ext-link>
+               <month>Apr 6</month>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contrabando mueve \$18 billones y tiene sus ``kamikazes''</article-title>
+               <source>El Colombiano</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.elcolombiano.com/historico/contrabando_mueve_-18_billones_y_tiene_sus_kamikazes-ECEC_251014"
+                         xlink:type="simple">http://www.elcolombiano.com/historico/contrabando_mueve_-18_billones_y_tiene_sus_kamikazes-ECEC_251014</ext-link>
+               <month>Jul 13</month>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Importantes capturas de Urabeños en Córdoba</article-title>
+               <source>El Universal</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eluniversal.com.co/sucesos/importantes-capturas-de-urabenos-en-cordoba-143874-CREU233724"
+                         xlink:type="simple">https://www.eluniversal.com.co/sucesos/importantes-capturas-de-urabenos-en-cordoba-143874-CREU233724</ext-link>
+               <month>Dec 1</month>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>The New York Times</source>
+               <article-title>Cocaine's Flow Is Unchecked in Venezuela</article-title>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nytimes.com/2012/07/27/world/americas/venezuela-is-cocaine-hub-despite-its-claims.html"
+                         xlink:type="simple">https://www.nytimes.com/2012/07/27/world/americas/venezuela-is-cocaine-hub-despite-its-claims.html</ext-link>
+               <month>Jul 26</month>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Operativos contra la banda de `los rastrojos' realizan en el Putumayo</article-title>
+               <source>El Tiempo</source>
+               <year>2007</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.eltiempo.com/archivo/documento/CMS-3679483"
+                         xlink:type="simple">http://www.eltiempo.com/archivo/documento/CMS-3679483</ext-link>
+               <month>Aug 13</month>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>El Universal</source>
+               <article-title>Capturanen Venezuela a tres colombianos vinculados a banda ``Los Rastrojos''</article-title>
+               <year>2012</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eluniversal.com.co/mundo/capturan-en-venezuela-tres-colombianos-vinculados-banda-los-rastrojos-86157-PWEU170179"
+                         xlink:type="simple">https://www.eluniversal.com.co/mundo/capturan-en-venezuela-tres-colombianos-vinculados-banda-los-rastrojos-86157-PWEU170179</ext-link>
+               <month>Aug 2</month>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Urabeños' tienen campamentos en Venezuela: Policía</article-title>
+               <source>El Tiempo</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.eltiempo.com/archivo/documento/CMS-13047263"
+                         xlink:type="simple">http://www.eltiempo.com/archivo/documento/CMS-13047263</ext-link>
+               <month>Sep 5</month>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ataque a puesto militar en Venezuela demuestra poder de Los Rastrojos</article-title>
+               <source>InSight Crime</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://noticias.terra.com/america-latina/venezuela/venezuela-militares-incautan-cocaina-en-avion,9312ad2c5c7bc310VgnCLD2000000dc6eb0aRCRD.html"
+                         xlink:type="simple">http://noticias.terra.com/america-latina/venezuela/venezuela-militares-incautan-cocaina-en-avion,9312ad2c5c7bc310VgnCLD2000000dc6eb0aRCRD.html</ext-link>
+               <month>Aug 16</month>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Entorno Inteligente</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">www.entornointeligente.com</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Desarrollo territorial, Departamento Nacional de Planeación, Colombia</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">www.dnp.gov.co/programas/desarrollo-territorial/Paginas/Fichas-de-Caracterizacion-Regional.aspx</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>2.?` Constituci\'on o barbarie? C\'omo repensar el derecho en las zonas “sin ley”</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ripoll</surname>
+                     <given-names>Julieta Lemaitre</given-names>
+                  </name>
+               </person-group>
+               <source>El derecho en Am\'erica Latina</source>
+               <fpage>47</fpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>ACNUR. Diagnóstico Arauca. 2006</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.acnur.org/t3/uploads/pics/2164.pdf?view=1</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Proyecto Rutas del conflicto. Las Cifras de la violencia. Centro Nacional de Memoria Histórica 2018</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://rutasdelconflicto.com/cifras.php</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Informal interviews done for this research, and which took place on 21 July 2014 in Bogotá, with Colonel Jesus Alberto Ruiz Mora, professor at the Military School for Cadets (Escuela Militar para Cadetes, in Spanish. This interview provided an overview of the situation in Colombia.)</p>
+               </annotation>
+
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/cbo9780511635519.002</pub-id>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://doi.org/10.1017%2Fcbo9780511635519.002"
+                         xlink:type="simple">https://doi.org/10.1017%2Fcbo9780511635519.002</ext-link>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <fpage>1</fpage>
+               <lpage>32</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anne Peters</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lucy Koechlin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gretta Fenner Zinkernagel</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Anne Peters and Lucy Koechlin and Till Forster and Gretta Fenner</surname>
+                  </name>
+               </person-group>
+               <chapter-title>Non-state actors as standard setters: framing the issue in an interdisciplinary fashion</chapter-title>
+               <source>Non-State Actors as Standard Setters</source>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Debilidades de la gobernanza en Colombia que impiden combatir el crimen organizado</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Palou</surname>
+                     <given-names>Juan Carlos</given-names>
+                  </name>
+               </person-group>
+               <source>Crimen organizado y gobernanza en la regi\'on andina: cooperar o fracasar Memorias</source>
+               <fpage>77</fpage>
+               <lpage>88</lpage>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Catalina Niño</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Friedrich Ebert Stiftung</publisher-name>
+               <publisher-loc>Quito, Ecuador</publisher-loc>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
