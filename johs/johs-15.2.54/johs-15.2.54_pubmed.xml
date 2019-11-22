@@ -1,0 +1,1066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2019.15020054</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>From Guns to Roses: Understanding Community-Oriented Policing in Afghanistan</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nyborg</surname>
+                  <given-names>Ingrid</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ganapathy</surname>
+                  <given-names>Jaishankar</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nimruzi</surname>
+                  <given-names>Ajmal</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Norwegian University of Life Sciences (NMBU), Ås, Norway</aff>
+         <aff id="A3">
+            <label>2</label>Norwegian Police University College, Olso, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>23</day>
+            <month>10</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>15</volume>
+         <issue>2</issue>
+         <fpage>54</fpage>
+         <lpage>69</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>In Afghanistan, police reform is an important focus of international efforts. After over a decade of assistance, however, there are still daunting challenges of public trust and police effectiveness. From a civilian perspective, the role of the police is a crucial one—and very different from that of the military. Communities, being at the very heart of security challenges, are well positioned to understand the intricacies of security and development. A police service able to work closely with communities plays an important role in managing conflict in the long run. Recognizing this, Afghanistan’s Ministry of Interior Affairs (MoIA) has steadily increased its efforts in community-oriented policing (COP), despite a deteriorating security situation since the withdrawal of US troops in 2014. This paper explores how COP in Afghanistan links with local communities and institutions to ensure both peoples’ security and trust. It begins by considering police-community relations through a broad lens of human security, which comprises the social, economic, political, cultural and legal aspects of their everyday lives. We then examine international assistance to police reform, how the Afghan police have developed their COP philosophy, and how this has played out in re-defining police-community relations. Using field data from Nimruz Province, we then look at the role of local institutions of chowkidari and shura in addressing people’s insecurities, and opportunities for linking these with COP efforts of the police. We conclude that there is a real potential for COP in Afghanistan that his locally owned and sustainable, if enough attention is given to inclusive processes and developing creative and flexible trust-building relationships with local institutions and organizations.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Afghanistan</kwd>
+            <kwd>community-based policing</kwd>
+            <kwd>international police assistance</kwd>
+            <kwd>local institutions</kwd>
+            <kwd>local ownership</kwd>
+            <kwd>police reform</kwd>
+            <kwd>post-conflict</kwd>
+            <kwd>trust-building</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>The need for more knowledge on the complex security and humanitarian challenges in post-conflict societies is critical. In post-conflict situations, there will clearly be a need to protect and keep order as people reconstruct their lives and livelihoods. The best way of doing this in such diverse, volatile environments, however, cannot be determined at a state level alone, but also at the local level. Those best positioned to understand the complexities of security, development and humanitarian assistance are the communities who are in the midst of these conflicts and whose lives are actually at stake. The effects of conflict can be devastating, but also varied. This is the case in Afghanistan, which after more than 18 years of international assistance remains in the midst of many internal and external conflicts, both old and new. Nevertheless, the Ministry of Interior Affairs (MoIA) continues to expand its efforts towards a civil approach to policing through the activities of its community-oriented policing (COP) department Police-e Mardumi (PEM). What processes have influenced this direction, and what has constrained and enabled this move? Is community-oriented policing merely a pre-defined and imported concept introduced by the international community, or does it represent an effort to build on local institutions, customs and norms? What are these local institutions? What efforts have been undertaken by both the police and civil society to build trust and at the same time to address the complexity of issues faced by communities experiencing conflict and insecurity? This paper explores how COP in Afghanistan links with local communities and institutions to ensure both peoples’ security and their trust. To do so, it analyzes the evolution of COP in Afghanistan, looking at those activities which were implemented in line with international police reform processes, those pilot projects which sprang from civil society initiatives and are grounded in local institutions, customs and norms, and those initiatives which evolved locally without international intervention, as exemplified in our case of Nimruz. In this, we explore the spaces between the government and civil society where trust is negotiated, and innovative ways to address complex issues are created. We argue that the active inclusion of civil society in COP, and efforts to evolve trusting relationships between the police and local institutions such as the <italic>chowkidari</italic> and <italic>shura</italic>, have led to flexibility, creativity and sustainability of COP efforts in Afghanistan, despite a worsening political situation.</p>
+         <sec id="s1.1">
+            <title>1.1.- Between Human Security and COP</title>
+            <sec id="s1.1.1">
+               <title>1.1.1.- Afghanistan and Security</title>
+               <p>In post-conflict situations, the transition from military to civilian-based security is crucial. The police represent one important institution working with security issues. An accountable national police service that is capable of upholding the rule of law in the whole country is an important prerequisite for any state-building effort [<xref ref-type="bibr" rid="R1">1</xref>]. A democratization process would be a step to transform the police from a repressive structure to an institution that can facilitate trust between the public and ‘new-born’ government. As Tadjbakhsh [<xref ref-type="bibr" rid="R2">2</xref>] clearly suggests, “Security is not just the end of war, but also the ability to go about one’s business safely, in a safe environment, to have a job, to participate in political processes, to have choices for the education of one’s children, to live a healthy life and to do all this with the knowledge that one’s family is safe and not harmed” (p. 58). From a civilian perspective, the role of the police in post-conflict societies is a crucial one. The main aim of the state and the police is to provide security to all its citizens, leading to less crime, more social order, physical and mental safety, and an atmosphere of trust and confidence in citizens that their life will be protected [<xref ref-type="bibr" rid="R3">3</xref>].</p>
+               <p>COP [<xref ref-type="bibr" rid="R4">4</xref>] is recognized as an important model of policing that can help to restore trust and cooperation between police and communities. As a policing strategy, its strength lies in its approach, which although varied across contexts, often focuses on communication, responsiveness, accountability, prevention and trust-building with communities in order to jointly find solutions to local security issues [<xref ref-type="bibr" rid="R5">5</xref>]. In post-conflict police reform, interest in COP as an approach has been steadily increasing, as governments and international donors see that ‘hard’ security approaches have done little to build trust in these volatile societies. The UN, for example, has made a radical shift in policy to promote COP in post-conflict police reform [<xref ref-type="bibr" rid="R6">6</xref>]. How COP is created and practiced locally, however, is complex and context dependent, and can therefore differ widely between countries, regions and even villages in terms of the nature of interaction between the police, civil society and community members. While this diversity opens many pathways of enquiry on COP, this paper focuses on the process of reform, and specifically on how police-community relations are created and practiced in the case of Afghanistan through the local institutions of <italic>chowkidari</italic> and <italic>shura</italic>.</p>
+               <p>In Afghanistan, insecurity includes both internal and external dimensions. Issues like poverty, social and economic inequalities, scarcity of resources, ethnic and tribal rivalries, domestic violence, illiteracy and lack of basic education, unemployment and weak political and government institutions are some of the major internal factors contributing to insecurity and conflict. This is also reiterated by Afghanistan Human Development Report [<xref ref-type="bibr" rid="R7">7</xref>]:</p>
+               <p>
+                  <italic>Insecurity in Afghanistan is not only a problem of physical safety, but also of deprivation and restricted access to health and educational facilities, legal and political rights, and social opportunities. Dealing with insecurity should not be sought (solely) thorough short-term military solutions, but through a long-term comprehensive strategy that abides by promises of development and the promotion of human rights.</italic> (p.26) </p>
+               <p>External factors such foreign invasions, cross-border terrorism, and insurgencies advocated by Taliban or ISIS also contribute to insecurity and conflicts, interlinking with internal dimensions. It is in this complex context that the police interact with communities.</p>
+               <p>As a basis for our understanding of the complexities involved in security and insecurity, the concept of human security is useful. Human security, with its focus on the security of people rather than only states [<xref ref-type="bibr" rid="R8">8</xref>] opens up a broader range of security/insecurity issues as experienced by different people in Afghanistan. The concept can thus help in understanding how local women and men attempt to cope with different kinds of insecurities (both internal and external), and which institutions (government and traditional) they interact with to address them. It therefore offers a way to study police-community relations that allows for the inclusion of all relevant actors and institutions that together may contribute to or threaten human security of women, men and children in the analysis. For the civilian police, the concept of human security seems to lie closer to their mandate of protecting individuals through upholding law and order compared with the mandate of the military, which concentrates on protecting the interests of the state, mainly from foreign aggression. As the Afghanistan Human Development report of 2007 [<xref ref-type="bibr" rid="R9">9</xref>] clearly states, ‘the ability of ANP to maintain law and order … and strengthening the rule of law in Afghanistan is critical to creating an enabling environment for progress in other key areas of human development, including economic growth, social development and political freedom’ (p.18). It is in this context that human security is seen in relation to civil police. In post-conflict societies, policing perspectives which attempt to understand and deal with the complexity, experiences and strategies of local communities might contribute to better police-community relations, increased trust, sustainable solutions to and prevention of local and national issues of insecurity and ultimately lead to effective local ownership. A perspective based in human security allows for such an analysis.</p>
+            </sec>
+            <sec id="s1.1.2">
+               <title>1.1.1.- Foreign and Local Efforts</title>
+               <p>Police reform in post-conflict contexts, however, is also complex. Foreign actors, including donor countries coordinated under multilateral organizations such as the EU and UN, provide substantial support to police reform. The result is a myriad of advice from the international community, which may be substantively inconsistent. In such a setting, power relations both between donor countries and between the international community and national governments, steered by funding and politics, can easily determine the character of police reform efforts [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. In post-conflict contexts, military and state security perspectives can easily dominate the discourse on international assistance [<xref ref-type="bibr" rid="R11">11</xref>]. These perspectives spill over into civilian police reform processes, militarizing the civilian police rather than promoting a police service that builds trust with communities and addresses their broader set of insecurities (which could include, but not be limited to, the threat of insurgency).</p>
+               <p>There are also concerns of local ownership in reform processes. As a concept, local ownership has become a mantra of post-conflict reform and development and is often cited as a specific criterion of success in international interventions [<xref ref-type="bibr" rid="R12">12</xref>]. However, while used in police reform documents as if its meaning is understood or agreed upon, its meaning is in fact ambiguous, particularly in terms of the nature and degree of local participation in reform processes. Bendix and Stanley [<xref ref-type="bibr" rid="R12">12</xref>] give examples of two very different definitions of local ownership used in reform literature. The first one cites Boughton [<xref ref-type="bibr" rid="R12">12</xref>] to assert that ‘local actors need not have been involved in the development of reform programs, let alone be the initiators, in order to qualify as ‘owners’. Rather, all that is needed is for the owner to ‘appreciate the benefits of the policies and to accept responsibility for them’ [<xref ref-type="bibr" rid="R12">12</xref>]. At the other end of the spectrum is OECD’s perspective, where advisors should support or facilitate local actors rather than lead them, stressing ‘it is important that solutions to problems are developed locally and appropriate to the context they are implemented in. Giving primary responsibility to the government and other local stakeholders is essential to locally-owned SSR’ [<xref ref-type="bibr" rid="R12">12</xref>]. Merely identifying local owners of reform processes and getting their buy-in (in the case of Afghanistan it could be the police and/or <italic>shura</italic>) is not enough; one needs to understand local context and how various actors are involved in the process. Vogelaar unpacks the term further in her work on SSR in Mali, where she builds on Bojicic-Dzelilovic’s understanding of local ownership as a guiding philosophy rather than a mere goal or target of intervention. Focus is put on the relational and contextual nature of the concept, and how it emerges from the shared experience of external and internal actors [<xref ref-type="bibr" rid="R13">13</xref>]. Vogelaar suggests, in line with Bendix and OECD, that in addition to local ownership in terms of government buy-in, SSR should consider the level of inclusivity in processes related to reform. Taking a ‘whole of society’ approach [<xref ref-type="bibr" rid="R13">13</xref>], she points to the importance of looking at how a variety of actors, from different power bases from across society participate in decision-making processes on the design and implementation of reform processes. With our focus on human security and the ways in which the police and civil society communicate and attempt to build trusting relationships in COP, we contribute to the emerging literature on local ownership as a ‘whole-of-society’ approach where a variety of local actors participate in the design, institutionalization and implementation of security reform. It also contributes to policy and literature on the role of police advisors in SSR [<xref ref-type="bibr" rid="R14">14</xref>], bringing in power relations in police reform processes not only at international and national levels [<xref ref-type="bibr" rid="R10">10</xref>], but at local levels as well, where police meet local women and men in their everyday lives. With these lenses, we explore the experiences and potential of community-oriented policing even in a politically insecure context such as Afghanistan.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methods</title>
+         <p>This paper is based on field data from Afghanistan collected between November 2015 and April 2018. In Kabul, staff of MoIA, civil society organizations (CSOs), and non-governmental organizations (NGOs) were interviewed, as well as international police and policing experts based in Kabul and internationally (who had worked in Afghanistan). The local researcher also attended police training sessions in COP, and workshops organized by MoIA, EUPOL and CSOs as a participant observer. We have also consulted secondary data including research papers, reports and policy documents. To study links between communities and the police more closely, interviews and focus group discussions were held in Nimruz province at both provincial and district levels with MoIA staff, CSOs and local community women and men, in urban and rural areas. Nimruz was chosen as a case for several reasons. It has been one of the provinces with the lowest level of international intervention—it never, for example, had a Provincial Reconstruction Team (PRT), and there have been relatively few aid organizations operating in the region. This means that Nimruz has remained under the international radar and under-researched, which makes it possible to study police-community relations outside of the direct influence of the international community, providing an interesting contrast to the project-based cases of COP in other areas of Afghanistan that we examine. Also, Nimruz province has one of the highest number of migrants and internally displaced people in the country due to conflict and economic hardship, making it an interesting case to examine what migration might mean in terms of social relations and trust-building in communities. These aspects make Nimruz a unique case in some ways, however, the findings can nevertheless be relevant for understanding police-community relations in other provinces in that they provide new perspectives on how to understand the variety of local institutions in post-conflict settings.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Post-Bonn Security Sector Reform Assistance in Afghanistan</title>
+         <sec id="s3.1">
+            <title>3.1.- Building a Foundation</title>
+            <p>The international community has been assisting the Afghan government in security sector reform since the Bonn Agreement in 2001. The roadmap provided by the Bonn agreement divided the responsibility of security reform amongst five countries; Germany took responsibility for police reform, Italy for judicial reform, the UK for counter narcotics, Japan for disarmament, demobilization and the US for military reform [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. By 2009, the approach of Germany concentrating on quality, long-term education and training for police (lasting from four months to four years) was under criticism from the US, who insisted that it was critical to have more ‘boots on the ground’ quickly [<xref ref-type="bibr" rid="R17">17</xref>]. In 2007, with the cooperation of the newly-established EUPOL program, the US military launched the Focused District Development (FDD) training program, where district police were trained by private security contractors for six to eight weeks in military skills to fight armed insurgents. This represented a shift in the main goal for the police to one of counter-insurgency (COIN), a military approach with state security at the center. On the one hand, many international police experts confirmed the need for a police force to deal with threats in the form of insurgencies, terrorism and warlordism, either by themselves, or with military assistance. At the same time, however, other police experts and civil society actors argued for a civilian law and order service to deal with day-to-day insecurities faced by the people, which could potentially have a preventive effect. Even as the FDD program was being launched, other voices continued to push for a civil police reform agenda “Good policing is vital for democracy, and democratic functioning is vital for counter-insurgency; the two are not and must not be seen as mutually exclusive. If police reform in Afghanistan is to succeed, the goal should be creation of a trusted, civilian service, which enforces—and is accountable to—the rule of law” [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+            <p>To assist MoIA in coordinating international efforts in police reform, the International Police Coordinating Board (IPCB) was established in 2006 comprising ambassadors of member countries (donors), and international organizations involved in security sector reform [<xref ref-type="bibr" rid="R19">19</xref>]. Through their quarterly meetings chaired by the Minister of Interior Affairs, they took up different issues concerning police reform. The IPCB also established the Senior Police Advisory Group (SPAG), again led by MoIA, and comprising all international police organizations in Afghanistan. SPAG’s role was to give professional policing advice to IPCB on all police-related issues and challenges facing the country, including human rights, gender issues, training, and police-community relations. Both the IPCB and SPAG were to contribute to improving police professionalism in order to provide quality security services to citizens and strengthen the trust between people and the police.</p>
+            <p>Despite the dominance of NATO and ISAF in initial meetings [<xref ref-type="bibr" rid="R20">20</xref>], the establishment of IPCB and its focus on civilian policing expertise through SPAG likely contributed to the gradual shift away from military strategies in police reform. From 2009, for example, a number of community-based policing pilots were initiated by MoIA with the support of IPCB members, and in 2013 international police reform support shifted in effect from under the SSR umbrella to UNDP/LOTFA’s Rule of Law program, again, emphasizing a civil security approach. This shift is also evident in MoIA itself. In 2015, the secretariat of the IPCB was shifted to what is now MoIA’s General Directorate of International Cooperation, where 58 civilians are responsible for ‘coordinating diplomatic and foreign affairs, protocols, ANP trainings abroad, seminars, conferences and workshops around the world’ [<xref ref-type="bibr" rid="R21">21</xref>]. In addition, MoIA currently employs more than 9,500 civilians, and as of late 2016 employed 269 young, college-educated, and technically-proficient Afghans have been employed by MoIA as a part of a Subject Matter Expert (SME) program [<xref ref-type="bibr" rid="R22">22</xref>].</p>
+            <sec id="s3.1.1">
+               <title>3.1.1.- The Afghan National Police</title>
+               <p>The ANP itself comprises uniformed police forces carrying out general police duties, and specialized police forces responsible for border control, terrorism and counter narcotics and public order [<xref ref-type="bibr" rid="R23">23</xref>]. As of 2018 the strength of ANP is about 122,000, and there has also been some re-structuring between MoIA and the Ministry of Defence (MoD). As part of a move to transfer the more militarized units of the ANP to MoD, around 20, 000 personnel have been moved from the ANP to MoD, allowing MoIA to keep control of personnel carrying out general police duties. The number of female police officers is around 3444 comprising two per cent of the police force. According to an Asia Foundation survey in 2017 [<xref ref-type="bibr" rid="R24">24</xref>], only 36.0 % of respondents supported women’s presence in the army or police force. Nevertheless, MoIA’s Strategic Plan (MISP) aims to improve gender representation as well as ethnic balance within the services.</p>
+               <p>During the first years of police reform, bilateral and multilateral donors set up several training institutions both in Kabul and in the provinces. There was, however, little strategic thinking on how the ANP could develop a comprehensive training and education system. This has improved in recent years. Currently, recruitment requirements are mainly based on educational background. For example, to become an officer the minimum requirement is a bachelor’s degree from either the Police academy in Kabul or a foreign police academy which is recognized by MoIA. To become a non-commissioned officer (NCO) with the rank of 2<inline-formula>
+                     <mml:math id="S3.SS1.SSS1.p2.m1"
+                               alttext="{}^{nd}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>n</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>d</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> sergeant, the requirement is baccalaureate (12<inline-formula>
+                     <mml:math id="S3.SS1.SSS1.p2.m2"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> grade certificate). To become an NCO with the rank of 3<inline-formula>
+                     <mml:math id="S3.SS1.SSS1.p2.m3"
+                               alttext="{}^{rd}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>r</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>d</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> sergeant, he or she must have completed 9<inline-formula>
+                     <mml:math id="S3.SS1.SSS1.p2.m4"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> standard from school. In contrast, there is no obligatory educational requirement for being a patrolman/woman; although literate applicants are preferred [<xref ref-type="bibr" rid="R25">25</xref>].
+</p>
+               <p>The challenges in building the capacity of the police are not confined to police training and education. One of the biggest challenges faced by MoIA and police, as well as Afghanistan in general, is widespread corruption. According to Transparency International [<xref ref-type="bibr" rid="R26">26</xref>], Afghanistan is ranked 177 out of 180 countries in the corruption index perception. This is also seconded by a survey carried out by Asia Foundation in 2017 [<xref ref-type="bibr" rid="R24">24</xref>] where 83.7% of Afghan respondents mentioned corruption as a major problem. The report also points out that ANP is the sixth largest institution in Afghanistan receiving large sum of bribes. The issue is pervasive, and requires a broad-based approach at both grassroots and institutional levels.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Community-Oriented Policing in Afghanistan</title>
+         <sec id="s4.1">
+            <title>4.1.- The State as an Actor</title>
+            <p>Over the last decade, COP has become increasingly visible in MoIA’s policing policies, albeit under a variety of names, with the most common being Police-e Mardumi (PEM) [<xref ref-type="bibr" rid="R27">27</xref>]. The Ten-Year Vision of the Afghan National Police [<xref ref-type="bibr" rid="R28">28</xref>], for example, was initiated by MoIA to reform and transform the Afghan National Police from a ‘militarized’ unit in fighting terrorism and counter-insurgency to a ‘service’ unit based on human rights and the rule of law, and includes COP as one of their priorities. COP is also a key component in MoIA’s Five-Year Strategy [<xref ref-type="bibr" rid="R29">29</xref>]. In 2016, MoIA developed an explicit Police-e Mardumi (PEM) Policy, which firmly grounds COP in Afghan law and its constitution, stating ‘…the policy has been designed and prepared in consideration of Article (56) Paragraph (3) Article (75) and Article (134) of the Islamic Republic of Afghanistan constitution, Article 5 of the Police Law, National Working Plan for UNSCR 1325, and the Afghan National Police Strategy Plan’ (MoIA 2016). The PEM policy’s two-year strategic plan (2016-17) points specifically to the necessity of supporting and strengthening relations between public and national police in order to reach the ANPs strategic goals [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+            <p>Interest in COP began already in 2009, when the idea for a democratic policing pilot project was introduced to MoIA by EUPOL and later by UNOPS. This initiated a process whereby the philosophy was introduced to both the ministry and civil society actors, and activities were initiated within MoIA to move the Afghan National Police towards a more democratic and accountable policing service. The purpose of these activities was to strengthen the relationship between the local population and the police, and to make police more responsive to the communities. The area of focus was a combination of activities initiated by both the police and by civil society, mainly with the support of the international community, which included: family response units, links between police and health care personnel, activities with youth in the Scouts, an outreach project for women and children, community consultations through establishment of new Shuras and action plans, mobile police teams to register complaints from citizens, and mobile phone literacy programs for female police officers. There were also community engagement programs like sports events between the police and community, creating awareness among school students on firefighting measures and training on basic traffic rules (see next section).</p>
+            <p>The Police-e Mardumi program also contributed to a change in the terminology used by the police. In our interviews we noted the use of terms like ‘the cooperation between the people and the police’, and how problems have to be solved with close ‘cooperation and coordination’ of the people (a recurring theme). MoIA and civil society actors began to publicly express the importance of COP by referring to it as a ‘style of policing’, or ‘bridge between the community and the public’ in which ‘people are the best source of information’ [<xref ref-type="bibr" rid="R30">30</xref>]. In a 2016 conference to establish the Board of the Implementation and Monitoring of Community Policing Programs [<xref ref-type="bibr" rid="R31">31</xref>], the Director of PEM mentioned a long list of activities and aspirations as the aims of Community Policing, as demonstrated in his speech:</p>
+            <p>
+               <italic>“The aim of COP is gaining cooperation of the community in terms of ensuring security, resolving conflict and enforcing rule of law in consultation with the public and through best practices of good policing. Furthermore, removing the gap between police and community and creating the spirit of cooperation and collaboration between the public and the Afghanistan National Security Forces, especially with the Police is of utmost importance. And also Prevention of crimes through cooperation of public instead of only pursuing criminal or crimes is an important aim of COP.”</italic>
+            </p>
+            <p>PEM, however, did not develop in isolation. There were several other MoIA processes prior to and during the development of PEM that contributed to its growth and current position in MoIA. Some of these focused on structural, organizational and political issues within the Ministry itself, while others focused on the provincial, district and community levels.</p>
+            <sec id="s4.1.1">
+               <title>4.1.1.- MoIA-Focused Initiatives</title>
+               <p>One of the earliest activities focusing on improving relations between the police and communities was the Minister of Interior’s establishment of the 119 Information Center in Kabul city. This center, established in 2009 with financial support from NATO, currently has 58 employees (including seven women) working 24 hours a day, seven days a week and receives around 900 calls per day. Originally established to give citizens an opportunity to report complaints of police misbehavior, corruption, and human rights violations, the helpline expanded to include the reporting of criminal and terrorist activity as concern for crime and violence increased.</p>
+               <p>As a respondent from the ministry pointed out, most of the calls they receive pertain to violence, abuse and harassment against women. The helpline also has three other aims:</p>
+               <p>1) Corruption prevention and to receive feedback about conduct of police against citizens.</p>
+               <p>2) Criminal cases, if there is a crime such as murder or abduction to provide free legal services, and to provide emergency ambulance services.</p>
+               <p>3) To provide help to the police themselves. Police, and particularly female police, can call to complain and report harassment. Also, if police are in a siege, they can call 119 for backup.</p>
+               <p>The call center, however, faces significant challenges, including lack of adequate technical maintenance and support, low levels of training and knowledge transfer, and an overwhelming number of false calls coming in. Because the people who receive calls are not professional police, they face difficulties in registering and routing incidents, causing delay in appropriate and timely action by the police. In the provinces where staffing is more limited and routines are still new, there is a risk that a caller can connect to the police staff about which the caller is complaining.</p>
+               <p>Despite these challenges, 119 for MoIA has proven to be a useful channel for the police to get information from the public about police performance and service provided to the people. An important rationale behind this line is to facilitate trust between citizens and the police services. The helpline was extended from Kabul to five major provinces (Kandahar, Helmand, Nangarhar, Herat, and Balkh) in 2013, but according to MoIA officials, they lack sufficient funding for this expansion to be successful.</p>
+               <p>Another area where MoIA made early inroads in terms of community relations is their work on the protection of women and children. Already in 2005, MoIA established Family Response Units (FRUs), which deal with domestic violence and female and child victims of crime. The aim of the FRUs was ‘to address a wide array of criminal and civil family-related matters including: divorce requests, promissory notes, arranged/forced marriages, runaways, sexual assaults, domestic violence, self-immolation, attempted suicides, suicides, forced virginity tests, property disputes involving widows and estates, child custody issues, abandonment, financial and family support issues’ [<xref ref-type="bibr" rid="R32">32</xref>].</p>
+               <p>One of the most serious problems facing women in Afghanistan is gender-based violence [<xref ref-type="bibr" rid="R33">33</xref>]. For various reasons, women may be hesitant to report these types of crimes to the police. For example, there could be cultural norms inhibiting women and men to interact, a taboo of speaking out or reporting sexual or domestic violence in public, or fear, shame and embarrassment of involving the police and judicial system in intimate private family matters [<xref ref-type="bibr" rid="R34">34</xref>]. In this regard, one of the biggest challenges facing Afghan society is gender segregation which inhibits women and girls from reporting gender-based crimes to police - especially to male police officers. Therefore, the establishment of special units such as the FRUs in police stations that cater to women’s needs, combined with the recruitment of female police officers that can investigate such incidents are of utmost importance. According to one of our police respondents in Nimruz, these units have a broad mandate. Cases where harsh or serious violence has been committed against women are usually registered by the police and sent to the Criminal Investigation Department (CID) (under which FRUs are organized). When the problem involves quarrels or simple disputes between couples, elders of both families are summoned to the police station, and, through dialogue, counselling and guarantees from families of the couple involved in the dispute, the case is solved. In the case of recurring disputes, stronger measures are taken. Some of these families are sent to the Directorate of Women’s Affairs (DoWA) for help from counsellors and attorneys. The connection between Police/FRU and DoWA is a two-way relationship. Some of the cases are sent to police for follow-through by DoWA and some of the cases are sent to DoWA by police for further consultation and follow-up. In other words, FRUs solve disputes through dialogue and mediation between the involved parties in the dispute and making them agree to a solution [<xref ref-type="bibr" rid="R35">35</xref>].</p>
+               <p>In Nimruz province, the FRU handled about 58 cases within a period of ten months, of which 28 cases had been referred to the penal authorities for further investigation, while 30 cases were solved through the family consultation unit in the DoWA [<xref ref-type="bibr" rid="R36">36</xref>]. UNAMA/OHCHR [<xref ref-type="bibr" rid="R36">36</xref>] confirms this when they mention that “police in provinces where Family Response Units (FRUs) have been established and whose members are mainly female, generally receive more complaints and are more likely to act upon them’ (p.18). Furthermore, the report found that ‘in the absence of Family Response Units or visible women police officers, women victims almost never approach police stations willingly, fearing they will be arrested, their reputations stained or worse” [<xref ref-type="bibr" rid="R37">37</xref>]. These FRUs, through their close work with community members, represent an important point of departure for the evolving work on COP.</p>
+               <p>Another important measure undertaken by MoIA early on which has contributed to the development of a strong gender focus in COP is the establishment of the General Directorate of Human Rights, Child Rights and Gender in 2009. The Directorate focuses on gender issues both within the civilian population and the ANP. Issues like harassment and violence against women and children, gender equality within the police services, helpline for women, improving the rank of women police officers, providing safe transport for women police officers and child care facilities for women who are prevented from going to work are some of the key initiatives of the department. Recruitment, training, treatment and retention of women police officers within ANP are also important tasks for this office.</p>
+               <p>The Directorate also facilitates the Police Women’s Council (PWC) (established in 2014) with support from UNDP/LOTFA, UNAMA, EUPOL and ISAF. The purpose of the council is to improve welfare and build capacity among female police officers. The head of the directorate explained that the priorities and objectives of the council were to help in recruitment, training and retention of policewomen, in training to eliminate violence against women police, in building good working environments in police stations and in working against harassment of women police officers. The head of the PWC in Nimruz reiterated some of these points when interviewed, and mentioned specific problematic areas that she was trying to focus on such as lack of transport facilities, lack of changing rooms, poor working conditions for women, harassment from male colleagues, lack of kindergartens, late promotions and overall lack of security for women police officers. In her capacity as council head, she has established four <italic>shura</italic> in four different departments in the police to promote women’s interests. Since the inclusion of women is an important area of community-police engagement, the strengthening of the capacity of women police in different aspects <italic>e.g.</italic>, improving accountability, responsiveness, public trust and police behavior could, in turn, facilitate more access to justice for women and other vulnerable groups in communities.</p>
+               <p>The establishment of units like FRUs and PWCs are important steps taken by MoIA in establishing communication and trust among vulnerable groups like women. The road, however, has not been easy for the women developing these initiatives, even with international support. Women police officers have been harassed, threatened and killed in their efforts to protect women’s rights. But these initiatives are expanding and have received increasing support from within MoIA, including the PEM Directorate.</p>
+            </sec>
+            <sec id="s4.1.2">
+               <title>4.1.2.- International Initiatives for COP</title>
+               <p>As mentioned above, starting in 2008/9, several COP pilot projects were initiated with the assistance of the international community. Bernard <italic>et al.</italic> [<xref ref-type="bibr" rid="R38">38</xref>] distinguishes between three types of COP pilot models. The first model was the Neighborhood Watch Committees (NWCs), established in 2008, funded by GIZ and implemented by a local NGO in four provinces. This was a bottom-up program, where community representatives and the police met to discuss local issues and find solutions within the <italic>shura</italic> structure. Although the police participated, it was not facilitated by the police, and the impact on police image and perceptions was limited to those who participated. Although it is difficult to know how many of these NWCs are still functioning, one NGO leader informed that only a few of them are still at work. Despite the international stakeholders being sensitive to the importance of local institutions such as the <italic>shura</italic>, creating new <italic>shura</italic> based on the needs of specific projects did not guarantee their survival after the project. Instead, another strategy could be to find ways to build on existing <italic>shura</italic>, something we discuss in more detail in the next section on police-community relations in our case study area of Nimruz.
+</p>
+               <p>The second pilot was the Afghan Democratic Policing Project (ADPP), established in 2012, and funded by the Dutch Embassy through UNAMA and UNOPS. This was a set of diverse projects run by eight civil society actors in 12 provinces. This was also a bottom-up program implemented by civil society organizations, but it was implemented with MoIA’s coordination. There was a broad range of activities, including school safety and scout programs, collaboration between the police and hospitals to protect rape victims, sports activities, and community consultations and action plans. The focus was on building peoples’ trust in the police in the course of everyday life. While these projects tackled specific issues, they simultaneously provided an opportunity for creative approaches to improve police-community relations for a large number of police. While this project officially ended in 2015, many of the activities have continued as a part of the current PEM.</p>
+               <p>The third pilot was the PEM project mentioned above. This was also established in 2012, funded by EUPOL, and implemented by MoIA together with a civil society organization. It was implemented in seven provinces, but not the same provinces or districts as the ADPP pilots. Many of the activities were similar to those in the ADPP, but additionally focused on building the capacity of the police in COP principles at a district level (or police station level in Kabul), and later at a strategic level through mentoring in MoIA [<xref ref-type="bibr" rid="R39">39</xref>]. Training and education in COP approaches was also an important aspect of this program. The strength of this project is that it played an important role in institutionalizing PEM after years of struggle to get a foothold in MoIA. When the concept of COP had been introduced by EUPOL and the ICPB in 2009, and activities such as the 119 Helpline were developed, the political climate in MoIA towards reform was tense. In interviews with international police experts, they expressed that it was difficult for the international community to support change, when those wanting change were not in power - some thought it impossible. Rather than give up, both the ADPP and EUPOL shifted their focus to districts and communities, where politics were less limiting. This allowed for the accumulation of experience and evidence of successful COP activities which could, in turn, be used to convince the skeptics in MoIA of the value of COP in building trust in the police. Thus, when politics shifted, it was possible to get a foot in the door and establish a unit, which is now a directorate of PEM.</p>
+               <p>Both the ADPP and the EUPOL mission concluded at the end of 2016. PEM, however, continues. Although it still receives some support from the international community (UNDP/LOTFA for example), PEM has its own policy, action plan and permanent staff, and is continually expanding its activities into new provinces and districts, including Nimruz, the site of our fieldwork. Despite its efforts to build capacity and take the initiative to interact with communities, PEM still struggles with people’s negative perceptions of the ANP - trust is still in deficit. Several studies [<xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>] tell a tale of corruption, drug abuse, illiteracy, incompetency, sexual abuse and violations of human rights by the police. A baseline study conducted by Afghanistan Civil Society Forum- organization (ACSF-o) [<xref ref-type="bibr" rid="R46">46</xref>] in 2010 for UNDP/MoIA on democratic policing points to some interesting perspectives on police-community relations covering eight northern districts of Kabul. The majority of respondents from focus group discussions felt that there would be very little cooperation between the community and police without the establishment of mutual trust. A big stumbling block for cooperation and trust between the public and police was corruption.</p>
+               <p>According to respondent; “they believe that as long as corruption continues, they cannot expect their local police to carry out their duties effectively or establish good relations with the general public” (p.19). In other words, lack of police accountability is a serious alienating factor and hence there is a continuous need for strengthening public trust towards the police. This is no less important for PEM, which emphasizes police accountability in both its policy and activities.</p>
+            </sec>
+            <sec id="s4.1.3">
+               <title>4.1.3.- International Influence and Local Ownership</title>
+               <p>As with any new endeavor, PEM has received both support and criticism from both national and international sources. One line of criticism points to a lack of real commitment to the principles of COP, claiming that COP remains at policy and speech levels, and that very little percolates down to the operational level. They also suggest that government representatives are more concerned with establishing their authority through service delivery rather than exploring the expressed needs of the people, and that the local police were more concerned with establishing their own power base with local elites than engaging with vulnerable communities and protecting them from violence. These claims were explained by some to be partly the result of a lack of ownership of COP. They felt most of the policy measures and changes proposed for the ANP were being forced on them by the international community and as such were not the initiative of MoIA. While the international community has clearly had an important and even dominant role in supporting police reform processes in earlier years, evidence suggests that this may no longer be the case. The leadership of PEM insists that PEM is now firmly grounded in MoIA. This was clearly expressed by the head of PEM in a recent interview, who said that ‘we should stop calling PEM a project, it is a process’. PEM is now institutionalized in MoIA, and is moving quickly to increase its civilian staff and become more oriented towards law and order issues. An important step in this direction was to appoint a minister with a managerial (rather than a military) background. Another step was MoIA’s newly developed strategic plan MISP to help coordinate efforts with other counter-corruption entities. These efforts have facilitated the Major Crimes Task Force (MCTF) to open more than 17 corruption cases in the first quarter of 2018’ [<xref ref-type="bibr" rid="R47">47</xref>]. In total about 140 MoIA officials have been referred to the prosecution authorities over corruption charges. These developments indicate that PEM and COP have a strong foothold in MoIA, and work in tandem with broader efforts towards police accountability. With regard to local ownership and the balance of ownership between PeM and the public, this greatly depends on the context. In one of the <italic>Shura-e</italic> Police (police-public consultation shura) meetings in Nimruz’s capital city, the level of people’s participation in discussions and the number of issues they took up was overwhelming. The majority of discussions focused on how to tackle high crime levels. This environment of involvement and ownership was facilitated by PeM’s openness to the people’s ideas and their participation at the meeting, and is an example of a reform process that both acknowledges and includes a variety of societal actors in decision-making processes [<xref ref-type="bibr" rid="R11">11</xref>].</p>
+               <p>A second and related line of criticism points to a lack of capacity and genuine interest by the police in discovering and addressing the actual insecurities of local communities. This refers to claims that PEM is not able to engage with communities in ways that the international community envisioned, particularly in terms of democratic representation in consultative meetings. One of the NGO leaders implementing the community-police consultation sessions explained, for example, that despite the fact that in some provinces women took more prominent roles in the consultative councils which were established to be the people’s focal point with the police, in most of the provinces and districts women were not present or only had a symbolic role. Also, the formation of the <italic>shura</italic> has been criticized for the inclusion of local power brokers and religious actors, and thereby reinforcing parochial hierarchies. Thus, even though most of the activities within the above projects were designed by international stakeholders together with their local partners, actual implementation of the projects has been somewhat different, as it is influenced by local customs and power relations. This illustrates a dilemma between local ownership and international influence, one which is well known in systems of development aid and institutional reform. Is evidence of exclusion or lack of participation a sign of a lack of adherence to international democratic standards and of ‘failure’? Or can adjustments to local contexts be a sign of increased local ownership and ‘success’, despite their democratic shortcomings? Key to addressing this dilemma is ensuring an inclusive process where voices from different ethnic groups, gender, classes and religious backgrounds can be heard on how they feel the police and communities might address their insecurities. In this sense, PEM would do well to learn more from the ADPP concerning the potential of civil society to mediate at least the initial phases of police-community interaction [<xref ref-type="bibr" rid="R48">48</xref>]. Working with organizations that have proven competence in engaging with communities could ensure that both local sensitivities are respected, and that power relations are nevertheless challenged.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Local Institutions and Community-Police Relations: the Case of Nimruz</title>
+         <p>The experiences from the pilots show that there are a wide variety of ways in which police and communities might interact to improve trust and address human security issues. In our field research, we are exploring in greater depth which local institutions already exist that could potentially link with police to address local security issues. In doing this, we consider the ways in which these institutions might both be sources of legitimacy and keepers of unequal power relations and entitlements in households and communities, while also noting their ability and willingness to adjust these aspects in light of new relations with the government.</p>
+         <sec id="s5.1">
+            <title>5.1.- Local Institutions</title>
+            <p>Before looking into local institutions and community policing at the sub-national level, it is important to define what we mean by “local institutions”. While local institutions can refer to a variety of entities and practices such as tribal and sub-tribal gatherings, inter-tribal assemblies, locality-based ad hoc meetings, business-related bodies and sports federations, in this paper we primarily focus on the institutions of <italic>shura</italic> and <italic>chowkidari</italic>. <italic>Shura</italic> is an Islamic term that refers to the rule of opinion of the majority; the word comes from the Holy Quran and is reflected in Shari’a law [<xref ref-type="bibr" rid="R49">49</xref>] where it means “a serious and effective participation in making a decision” [<xref ref-type="bibr" rid="R49">49</xref>].<italic>Shura</italic> can act as both local decision-making councils as well as conflict resolution institutions ‘resolving disputes and making collective decisions’[<xref ref-type="bibr" rid="R46">46</xref>]. Sometimes the terms <italic>shura</italic> and <italic>jirga</italic> are used interchangeably. The institution of <italic>jirga</italic> originates from the Pashtun speaking tribal people who mainly use it for making collective decisions or resolving disputes that matter for the whole community [<xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>]. In the context of Afghanistan, the definitions and descriptions of local institutions such as the <italic>shura</italic> and <italic>jirga</italic> are not clear, and often contested - for example, the terms are often used interchangeably, despite important differences in their workings. In Afghanistan, a <italic>jirga</italic> has stronger decision making and implementation abilities [<xref ref-type="bibr" rid="R52">52</xref>], and decisions made by a <italic>jirga</italic> [<xref ref-type="bibr" rid="R53">53</xref>] are considered more binding than decisions made by <italic>shura</italic>. According to a study by Asia Foundation [<xref ref-type="bibr" rid="R54">54</xref>], a <italic>jirga</italic> may use tribal forces to enforce its decision. On the other hand, based on the same study, <italic>shura</italic> refers to a group of leaders that make decisions on behalf of the people they represent, and are thus looser, advisory entities. Both <italic>shura</italic> and <italic>jirga</italic> can be held or established at different levels. They could be held at the national level to discuss and determine fundamental questions about the state or they could be held at the household or community level to settle disagreements, quarrels and disputes. Some writers distinguish between the two, where; ‘a <italic>jirga</italic> usually meets to discuss a specific issue’, ‘a <italic>shura</italic> is usually a permanent or quasi-permanent council’ [<xref ref-type="bibr" rid="R55">55</xref>]. Despite these differences, <italic>shura</italic> and <italic>jirga</italic> are both considered traditional institutions for inclusion, ownership, decision making and community involvement at national, subnational and community level in Afghanistan. Also, both <italic>shura</italic> and <italic>jirga</italic> are generally male-dominated and comprised of elders and clergy that have power and control over decision-making processes.</p>
+            <p>In Afghanistan, the idea of shura has been used by the Ministry of Rural Rehabilitation and Development (MRRD) in its National Solidarity Program (NSP) to utilize the culture of “assembly” in its work at community level. In this scheme, local populations have been mobilized into Community Development Councils (CDCs) or District Development Councils (DDCs) that collectively make decisions about grants and the implementation of development projects at local levels. These are often referred to as NSP <italic>Shura</italic>, to evoke a sense of common interest identity, even though they may be comprised of different members than existing <italic>shura</italic> in the community. NSP has, for example, established women’s <italic>shura</italic>, and in some areas <italic>shura</italic> with both men and women members.</p>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Nimruz Province</title>
+            <p>Nimruz province is one of the most remote provinces of Afghanistan. It is located at the far southwestern part of the country, bordering Iran, Pakistan, Helmand and Farah provinces. Most of the people living in this province have migrated from neighboring provinces at different periods in time. According to government statistics, Nimruz province has a settled population of 82,021 [<xref ref-type="bibr" rid="R56">56</xref>]. Even though there is no accurate or official study of ethnic distribution in each province, Nimruz is believed to have been originally populated by Baloch and Farsi-speaking Shia. Other ethnicities like Pashtuns, Tajiks, Arabs, Uzbek and Hazaras also migrated to Nimruz in different historical periods. Currently Baloch and Pashtuns are considered the largest tribes living in Nimruz. This population is distributed within six administrative provincial districts: Delaram, Khashrod, Chakhansor, Kang, Charborjak and Zaranj. Zaranj City, the provincial capital located on the border with Iran, is an interesting mix of different tribes living together. Due to its proximity to the Iranian border, there is a flourishing trade of illegal and legal goods with Iran.</p>
+            <p>Unlike other parts of Afghanistan, the majority of Nimruz’s provincial districts have escaped serious threats of insurgencies, terrorism and other serious conflicts that have plagued the rest of the country (with the exception of Khashrod and Delaram, which have seen sporadic insurgent activities). However, people we interviewed cited other factors of insecurity that they experienced, including: crimes related to human trafficking and drug business, drugs harvested from Helmand and Farah provinces smuggled into Iran from Nimruz province, and drug addicts who commit theft in order to finance their drug use. In addition, respondents reported a number of other causes of insecurity linked to livelihood security, like unemployment, poverty, corruption, migration, lack of adequate water resources and cultivable land. Many of these factors are interlinked, and can in practice mutually reinforce each other.</p>
+            <p>The Afghan Uniform Police (AUP) is the main police unit assigned to uphold the rule-of-law in cities, districts and villages of the country. The AUP in Nimruz is headed by the provincial chief of police, who manages general police activity in the province. While other police units such as The Afghan Public Protection Force (APPF), Police Special Force (PSF) and Border Control Police (BCP) are present, all of them operate under or in coordination with the AUP (although the relationship between the different police units can be unclear, even to police authorities).</p>
+            <p>A retired police officer in Nimruz told us that confusion within the police structure starts from the top of the chain of command in MoIA, given that every new minister brings structural and strategic changes. For example, the system of zonal police command units established by an earlier minister along military lines was dissolved and the provincial structure strengthened by the current minister. The border police were initially tasked with safeguarding borders and handling border crossing traffic and documentation, but a presidential decree in 2018 saw the majority of these duties handed over to the army. While the minister is the head of the MOI, the deputies working under him exert varying degrees of authority in overseeing the daily routine of their sections. For example, the Deputy Minister for Security, who is in charge of all police units, exerts a great degree of power in spite of working under the minister. In Nimruz province, this has created disagreement between the chief of the police and his deputy for security (Deputy Chief of Police for Security); while the chief of police considers himself the representative of the minister and the overall commander, his deputy for security considers himself the representative of the Deputy Minister for Security, and therefore expects the chief of police to consult him before making any changes to leadership and/or management of the units under his purview. Interestingly, a young former police officer told us that this “mess” results from the transition from a “communist” to an “American” police force; nobody knows is who is who, or why there are so many similar units in the police.</p>
+            <p>Nonetheless, it is still possible to describe how the chain of the command functions at the provincial level in Nimruz. The chief of the police is the overall head of the police in the province, and responsible for both operations and administration. Some units are directly under the chief of police office such as the Directorate of Human Rights, Child Rights and Gender and PEM, while other units are led by his deputies. This includes his deputy for security, who oversees security in cities, districts and villages. The next unit of command consists of the Police Districts (PDs), which are stationed in both city and provincial districts, each having an estimated 40 to 50 police personnel. Zaranj, the capital city of Nimruz province, has four PDs, with one in each of its provincial districts. Finally, the PDs have their own smaller units called Samt, which consist of larger, more permanent neighborhood-based check points, and are in charge of setting up temporary check points.</p>
+         </sec>
+         <sec id="s5.3">
+            <title>5.3.- The Shura and COP</title>
+            <p>Prior to the fall of 2016, Community Policing or Police- e- Mardumi did not exist formally as an institution in Nimruz. However, during our fieldwork in 2016 at the Police HQ, the Directorate of Human Rights, Child Rights and Gender received a copy of MoIA’s new strategy on PEM. This 15-page policy was sent from the office of Deputy Minister of Senior Security Affairs, MoIA, informing the province that the purpose of PEM was to strengthen the relations between the public and police. This included dealing with issues such as people’s expectations of the police, police expectation of people, expansion and support of women in the police, Helpline119, holding meetings with people, public safety, cooperation with schools and scouts, and publication and communication. In our 2017 fieldwork we found that Police-e Mardumi Unit had been established in the province in late 2016 and had already facilitated the establishment of <italic>Shura</italic>-e police (people-police consultation shura) in several city districts as well as provincial districts like Kang. The shura is held at the police office and locals and police are part of it. the members of the shuras are elected by the people in the first meeting.</p>
+            <p>Community respondents explained that strategies for coping with many of the above-mentioned insecurities and conflicts involve local institutions like the <italic>shura</italic> and the <italic>chowkidari</italic> (watchman) system. These institutions have been dealing with these challenges long before COP was introduced as a formal policing model in 2016. Our data confirms that the <italic>shura</italic> is an important informal institution that deals with a broad range of issues like land disputes, family issues, safety and security faced by communities. <italic>Shura</italic> are also an important voice of the community, as they represent them in relation to government, provincial officials and police institutions. Our research also shows that police and communities have had close contact, communication and participation through these local institutions for some time. For example, a People’s Shura in a neighborhood of Zaranj City was recently established, representing 6000 households. The leadership explained that they had contacted the governor and police office to inform them about their decision to establish the <italic>shura</italic>. He explained that the police and the governor’s office had welcomed their initiative, and the police have promised to help them in their security needs. One of the initiatives of this newborn <italic>shura</italic> was requesting villagers to install light bulbs on every fourth house for security purposes. An interesting point in this case is that this <italic>shura</italic> sprung out from an existing NSP Community Development Council (CDCs), and thus had experience with working with the government on development initiatives.</p>
+            <p>The People’s Shura of Khaja Karim, located in the northeastern part of the city, is another example of how communities in partnership with police can curb crimes and insurgencies. The head of the Crime Investigation Department (CID) specifically mentioned the name of this <italic>shura</italic> in his interview. He explained that the idea of the creation of this shura had come out of a community consultation, where he had suggested to the community elders to establish it as a venue for the police and community to come together and consult on neighborhood security issues. The head of the <italic>shura</italic> told us there were in fact two reasons for the establishment of this particular <italic>shura</italic>: security and development. The <italic>shura</italic> is based on three of the seven Community Development Councils (CDCs) in Khaja Karim area, and comprises an elected a chairman, deputy and secretary, as well as a board of leadership consisting of seven elders. In addition, there is consultation committee that holds meetings once a week. Following their election, the <italic>shura</italic> members had gone to the Provincial Council (PC) where the police were also present. At the Provincial Council, the <italic>shura</italic> members announced the establishment of the <italic>shura</italic> and asked the police and PC to help them in their endeavor to bring back security to the area.</p>
+            <p>According to our respondent, before the establishment of this <italic>shura</italic>, the area was very unsafe and during the night even the police patrol had difficulty entering the neighborhood. Theft was common and people could not go out because they were afraid of armed thieves and gangs. But after the establishment of the <italic>shura</italic> and through better cooperation with the police, security has vastly improved. The <italic>shura</italic> members even had cell phone access to the police so that they could call upon them in case of emergency. In addition, <italic>shura</italic> members had to be contacted beforehand if the police planned to conduct a house search or make an arrest.</p>
+            <p>The second reason for the establishment of the <italic>shura</italic> was developmental. The community believed if they created a <italic>shura</italic>, they could attract more aid from NGOs and MRRD. One of their developmental concerns was the lack of basic infrastructure like bridges, paved roads, power and schools (there is, for example, only one elementary school in the area). According to one of the <italic>shura</italic> members, most of the development projects are grabbed by wealthy people of the villages who have more political and social power. For example, one village and has electricity, water, school and a clinic because it is comprised of people originating from the area who know everyone at the decision-making level in the province. The hope was that by uniting in a new <italic>shura</italic>, they would be able to counter this type of favoritism and get access to resources for their villages as well.</p>
+            <p>The <italic>shura</italic> also deal with conflict resolution between and within families. For example, if there is a conflict regarding land division or grabbing, the parties in conflict can ask the <italic>shura</italic> to look into the problem and make a decision. More intimate problems like domestic violence and divorce are solved within the family through the help of a <italic>shura</italic> member who is close to the family. When the problem is more serious or criminal, the <italic>shura</italic> refers it to legal and penal authorities. While there is always a degree of respect for the decisions of the <italic>shura</italic>, at least in the case of Nimruz it can be objected or rejected: one or all the parties involved can ask for a different decision or ask for a change in the members of the <italic>shura</italic>. In case the decision does not satisfy one or all the parties involved, it would be referred to a different <italic>shura</italic> or to the government authorities.
+</p>
+            <p>The <italic>shura</italic> also help people with bureaucratic problems they may face. For example, if someone from the locality has issues with government offices that go unaddressed, <italic>shura</italic> members try to solve the problem through connections with police HQ, the governor and/or the PC. Another issue is of Internally Displaced Persons (IDPs) who face the problem of indiscriminate arrests: The head of one <italic>shura</italic> mentioned a case where the police had arrested a person on charges of being a Taliban member. After the shura member’s intervention and talks with police where he explained that this person was known to the community and is not a Taliban member, the arrested person was released.</p>
+            <p>This <italic>shura</italic> has also established and manages a voluntary night watch group that operates from 4pm to 9am. The individuals in this group are unarmed and relatively young; in the <italic>shura’s</italic> opinion, carrying arms would provoke the perpetrators more into causing harm. However, the night watch group does have access to the police’s cell number in case of emergency, and police responsiveness to their emergency calls is good. According to shura members, this trust in the police is based on the readiness of the police to act upon being called and their capacity to follow-up on cases.</p>
+            <p>Respondents from a border village also voiced similar views when asked about their relations with the police. This village (being near to the Iranian border) had close contact with the Border Police Base. The head of the <italic>shura</italic> of this village mentioned that he would have regular meetings with the commander of the base whenever there was an incident or when aid came to the village so that the police could help distribute it in an orderly manner. He also mentioned that for issues of security and safety he would contact this police base.</p>
+            <p>While the Khaja Karim People Shura is a neighborhood <italic>shura</italic> and concentrated in one part of the city, the Grand People’s Shura represents the majority of tribes in the city. This 15-man shura was established in response to the chaotic atmosphere created after the controversial presidential election in 2014. It has proven to be powerful and credible enough to address a variety of societal and governmental issues and even summon high ranking police officers and government staff. The credibility of the <italic>shura</italic> comes from support of influential clergy and tribal elders.</p>
+            <p>Even though these <italic>shura</italic> are based on communal decision-making and the election of members, they retain the old tradition of keeping women out of the <italic>shura</italic>. Women may not be members of the <italic>shura</italic>, but their cases and cases which involve them are represented in the <italic>shura</italic> through their male <italic>Mahram</italic> (close relatives or unmarriageable kin). This can be problematic if a women’s male family members or relatives are not supportive of her case or are in fact perpetrators. It was unclear during these initial interviews the extent to which this type of representation has affected women’s position in Nimruz, and warrants further investigation, including an exploration in the degree to which government institutions such as the police might fill such a gap for women.</p>
+            <p>Citizen initiatives for safeguarding neighborhoods and business establishments are done through a kind of ‘informal policing’ called <italic>chowkidari</italic> (watchman). A <italic>chowkidari</italic> system is an old tradition in Afghanistan, Pakistan and India. We learned of the <italic>chowkidari</italic> system in Nimruz from a watchman of the Shura-e Mardumi (Grand People’s Shura). He explained how the system of chowkidari provides security to shopkeepers and business establishments. They cover more than 2000 shops and market places in Nimruz. They patrol the streets and look after the shops and other establishments during the night. They do so with four motorbike patrols and 18 other staff who walk in the street of the market. According to our respondent, the number of thefts and crimes against business places has drastically decreased. However, they do not cover households - this is purely a private initiative taken by business people. The charge for their services is 120 Afghani per month (approximately USD 1.50). The <italic>chowkidar</italic> are not armed with guns, but instead carry a wooden stick during their night patrolling. The individual <italic>chowkidar</italic> are hired based on prior relationships and acquaintance with the head <italic>chowkidar</italic>, and they work in close cooperation with the local police district. If there is an acute need they contact the commander of the PDs. We were told that the relationship between the <italic>chowkidar</italic> and police is friendly and cooperative. The shopkeepers and business establishments and the chowkidar hold monthly meetings, and the head <italic>chowkidar</italic> is equipped with a cell and he can be reached by all if the need arises.</p>
+         </sec>
+         <sec id="s5.4">
+            <title>5.4.- Nimruz within Afghanistan</title>
+            <p>Our findings from Nimruz draw attention to some little understood aspects of community-police relationships in Afghanistan. For example, our case shows how people’s effort and initiatives towards their own security strengthens arguments for the viability of a human security perspective as well as a bottom-up approach. Those best positioned to understand the complex interplay of security issues, livelihood challenges and conflict resolution are the community women and men themselves. As we mentioned above, <italic>shura</italic> at the community and provincial level act as a bridge between the community and the government. Between the government and the <italic>shura</italic>, the <italic>shura</italic> are the first choice of the people. Perceived corruption of government officials, unnecessary paper work, hassle, impotency and commuting expenditure (at the community level) are some of the major reasons why people prefer the shura over the government as a conflict-solving organization. Additionally, cultural issues are another major barrier between the people and the government; at the community level it is considered a shame and humiliation to go to government to solve cases of conflict, especially if it is conflict over marriage and divorce. People prefer to solve their problems within the “four walls” of their homes rather going to government or involving a member of the shura who is known to the family. Communities try to address the challenges they face in securing their livelihoods, including conflicts, themselves, before seeking outside assistance. We have seen that shura are not only important institutions for conflict resolution, but also viable arenas for contact between the community and police. Our case shows that communities in Nimruz have been having close communication with the police concerning different aspects of their security needs even before COP became an official policing approach. A good example of this is the inauguration meeting of the Grand People’s <italic>shura</italic> in Zaranj city where the police chief was present and promised support. Such initiatives have been taken solely by the <italic>shura</italic> concerned without any prompting from the government, NGO’s or international aid agencies. These micro-level initiatives are important building blocks towards community-police relationships, strengthening the very ethos of community-oriented policing based on community involvement, partnership and mutual trust.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Challenges and Opportunities for COP in Afghanistan</title>
+         <sec id="s6.1">
+            <title>6.1.- An Evolving Shura</title>
+            <p>The presence of local institutions can offer both challenges and opportunities in police reform processes where COP is in focus. Since a COP approach involves the participation of a variety of state and non-state actors, challenges and opportunities can be perceived by these actors very differently. The way a <italic>shura</italic> interacts with the government can thus vary, depending on the local context and the nature of the authority of elites. As local institutions usually serve to preserve and strengthen local power elites [<xref ref-type="bibr" rid="R41">41</xref>], this can result in either support for or rejection of reform processes. Our research in Nimruz has revealed several examples of <italic>shura</italic> serving to improve relations with the police. However, we have also found evidence of local elites feeling threatened by the creation and strengthening of relations between the citizens and state institutions, which led them to hamper rather than facilitate reform activities. It thus is a challenge for reforming efforts to recognize and find ways to engage constructively with local power elites that might perceive COP as a threat to their power base.</p>
+            <p>There are also challenges related to different ideas around the composition of the <italic>shura</italic>. As noted above, the composition of <italic>shura</italic> reflects power relations, and most of the <italic>shura</italic> in Nimruz are dominated by elders and clergy who reinforce traditional power relations in communities. These relations have been challenged beyond the implementation of COP. As mentioned earlier, the National Solidarity Program established several types of CDCs (also known locally as <italic>Shura-e enkeshafi</italic>) in villages in an attempt to promote broader participation from the community. These CDCs built on the collective principle of shura to ensure credibility in the community, but at the same time introduced changes, such as the inclusion of women, either in a separate women’s <italic>shura</italic> or as members in a common <italic>shura</italic>. While <italic>shura</italic> continue to have challenges and problems surrounding inclusion and representation, they nevertheless represent a change towards a more inclusive institution. <italic>Shura</italic> are, as the rest of society, evolving and responding to present needs and circumstance. As mentioned before, women may not be part of the structure or even attend <italic>shura</italic> meetings but if they are party to a conflict, they are represented in <italic>shura</italic> through a trusted party such as father, husband or brother (unless they do not support the woman’s claim). A <italic>shura</italic> representative explained that it is now becoming more common that women’s development and security needs are kept in mind when negotiations take place in the <italic>shura</italic>. For example, when one of the <italic>shura</italic> members from Khaja Karim was discussing the need for paved roads, he mentioned that when women and girls from their neighborhood were commuting to schools or hospitals, they faced difficulties because of the lack of paved roads and accumulation of water in the streets. Traditional <italic>shura</italic>, on the other hand, would have taken measures to prevent girls from going to school or women to the hospital.</p>
+            <p>There are generational shifts in the composition of the shura; young men are becoming more prominent in decision making. While previously, youth would have implemented <italic>shura</italic> decisions without question, they now influence decisions made and can even lead a <italic>shura</italic>. In one of our study villages, the <italic>shura</italic> is led by a young man who has a positive relationship with the police as well as other government agencies. In another instance, youth were in charge of planning meetings and operating the Night Watch, informing others about <italic>shura</italic> meetings and keeping records of the meetings and decisions made.</p>
+            <p>Minorities and other social groups are creating their own <italic>shura</italic>. In this way, they can unite their efforts in solving social problems and have a stronger voice in negotiating with police and other government agencies. For example, a <italic>shura</italic> representing the interest of specific migrants from another province plays an important role in resolving conflicts and renegotiating their status with government agencies.</p>
+            <p>The <italic>shura’s</italic> relationship with the police is also changing. While previously <italic>shura</italic> were mostly engaged with District Police and Criminal Investigation Department to follow up particular cases, the opening of PEM Directorate in the province has facilitated the police in general in Nimruz to cooperate and work closely with a variety of <italic>shura</italic>.</p>
+         </sec>
+         <sec id="s6.2">
+            <title>6.2.- An Afghan COP</title>
+            <p>Similar to the locally initiated collaborations between the police and <italic>shura</italic> in Nimruz, PEM’s <italic>Shura-e</italic> Police (police-public consultation shura) can be important arenas for establishing locally sustainable partnerships to cooperate and work together on community needs towards security and development issues. The potential of PEM’s presence should not be underestimated, as they can be a significant influence toward changes in the <italic>shura</italic> over time. While there is limited quantitative data on, for example, the effect of the pilot projects and PEM on crime rates, qualitative data reveals that both the police and communities are convinced of the positive effect of these activities on human security, trust-building and crime prevention. The pilot projects introduced new ways to engage with community members, and influenced the <italic>Shura-e</italic> Police on issues of gender relations and the representation of youth and minorities, as well as power relations of traditional elders and clergy. Such avenues of cooperation can be beneficial in establishing trust, ownership and sustainability in the long run and help in creating space for change. As Peter Albrecht has argued:</p>
+            <p>
+               <italic>“Focusing on what works and incremental change is important because wholesale transformation in the short term is not feasible. Indeed, even if this were possible, abrupt change would not be sensitive to the potential for conflict in fragile situations. Working with and building on already existing institutions therefore becomes essential”</italic> [<xref ref-type="bibr" rid="R57">57</xref>].</p>
+            <p>Such a bottom-up approach opens new avenues to learn more about insecurities experienced at the local level, and helps to identify local strategies. These insecurities can comprise livelihood challenges like poverty, unemployment, education and health service. They can also include conflicts over access to and use of natural resources like land and water, or issues like migration, divorce, sexual and honor-based violence and gender relations. Understanding the interdependence of these issues, including the complexities of local power relations and institutions is vital if police reform processes are to be operationalized and successful. Without such knowledge, it will not be possible to understand human security issues on the ground, or to know who might address them in what ways. As Marenin [<xref ref-type="bibr" rid="R58">58</xref>] points out, it is the understanding of ‘which insecurities bother people the most, which aspects can be addressed most easily, what practices are most feasible, which will have the largest pay-off in the sequencing of reforms, or which leads to a better sequence of reforms (p. 54). Such community-based initiatives also help in building a good foundation for self-sustainability and ownership of processes of change. Since international support is not meant to be indefinite, the ability of a <italic>shura</italic> to survive should be sought in their natural composition, specialization and the context they operate within. Where this has been the case in Afghanistan, the <italic>shura</italic> continue to exist beyond project periods and offering modest services without any international funding.</p>
+            <p>These experiences can in turn feed into security policy reforms that can bridge existing gaps between the police and communities, and can help to better understand the range of actors and interests operating at the local level to find the right mix of security and development. As Albrecht rightly reminds us: “Actors such as traditional leaders and vigilante groups are considered the primary providers of justice and security in most fragile environments, and deal with an estimated 70 to 90 per cent of local disputes in Africa and Asia” [<xref ref-type="bibr" rid="R57">57</xref>]. This is indeed the case in Nimruz, and in Afghanistan in general, where the <italic>shura</italic> and other local informal institutions remain the most important arenas for conflict resolution in the community. The lesson here is not that a <italic>shura</italic> or <italic>chowkidar</italic> will always be interested or be in a position to work with the police and co-create COP, since they exist in many different sub-national contexts with different constellations of power relations. We can, however, through the presentation and analysis of the case from Nimruz, underline the importance of having an <italic>inclusive process</italic> of engaging with local institutions in COP in ways that recognize power relations, histories, divergent interests in order to make change sustainable in the long-run. In this way the Nimruz case offers insight into how to identify and understand the context that is the key to developing improved relations between the police and communities.</p>
+         </sec>
+      </sec>
+      <sec id="s7">
+         <title>Conclusions</title>
+         <p>Post-conflict situations are complex, and addressing issues of security and insecurity are challenging. This is indeed the case for police reform in post-conflict Afghanistan. Police are often the first level of government people come in contact with, and how people perceive them is crucial to government legitimacy. In Afghanistan, police have been viewed with fear, suspicion and mistrust, and corruption levels are high. When the international community stepped in to assist in police reform in 2001, there was little focus on building trust between police and communities. While the reform efforts of MoIA and central government to create a trusted national law enforcement institution have been important, they have been insufficient to guarantee safety and security to all people, as they remained top-down and politically motivated. This changed in 2009, when the international community introduced COP as a way to build trust and to address the complex issues of human security in local communities. This also marked the entrance of concepts like local ownership, trust-building and sustainability to the Afghan police lexicon. The COP pilot projects, for example, took a community focus, both on building trust, and exploring how local issues can be addressed by the police and communities together. Through these pilots, COP became increasingly grounded in Afghan experiences, and as political power shifted within the ministry leadership, PEM has become institutionalized in MoIA. PEM continues to expand to new provinces and districts, where there are certainly new experiences in police-community that are emerging. We therefore argue that COP in Afghanistan was not merely an imported concept—the way that COP was implemented through linking with local institutions and civil society actors went a long way in making COP a locally-owned process addressing the diverse and complex needs of Afghan women and men.</p>
+         <p>An important aspect we have uncovered in this research is the varied ways in which the police interact with local communities and their institutions. Our research on COP implementation shows that the pilot projects introduced with the assistance of the international community were innovative in creating relations between the police and communities, including local <italic>shura</italic>, with the added advantage of supporting gender, youth and minority inclusion. Through our case study of Nimruz, we explored in depth what these local institutions are, and what efforts have been taken by both the police and the community to build trust and address a broad range of insecurities. We saw, for example, how communities were innovative in the ways they addressed issues of security, conflict and livelihood challenges, both alone and together with the police. We also saw the local police seek platforms and ways to govern with the help of these local entities, and how these efforts were perceived as less corrupt and bureaucratic, which led to acceptance and credibility. In both examples, the relationships focused on building trust and solving problems jointly rather than on informing, reporting and surveillance. While the achievements of PEM are promising, they do not exist in a vacuum, and will be influenced by wider political and economic circumstances that may limit their effectiveness. However, gaining insight into local processes and institutions where women and men tackle issues of insecurity in their everyday lives is key in developing the trust needed for police reform to be able to contribute to human security in the long run.</p>
+         <p>There are several policy implications inherent in the findings from this study. First, international assistance to police reform should explicitly require inclusive processes; police reform with a clear focus on inclusive processes of engagement with a diversity of local actors and institutions increases the chance of local ownership and sustainability. Second, inclusive COP requires capacity building of both the police and civil society, not only in terms of skills training in crime fighting and livelihood development, but also in the skills of dialog and trust-building. Finally, COP cannot be implemented by police alone—a clear policy of communication and collaboration with other government departments and civil society organizations in a ‘whole of society’ approach will increase the relevance and complementarity of reform processes.
+</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rama</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing in Post-conflict Situations</article-title>
+               <source>Concept Paper for Whitehall Policy Seminar</source>
+               <year>2003</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://gsdrc.org/document-library/policing-in-post-conflict-situations/"
+                         xlink:type="simple">http://gsdrc.org/document-library/policing-in-post-conflict-situations/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tadjbakhsh</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security: Concepts and Implications. With an Application to Post-Intervention Challenges in Afghanistan</article-title>
+               <publisher-name>Centre d’etudes et de recherches internationles, Description The Paris Institute of Political Studies (Sciences Po)</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.sciencespo.fr/ceri/sites/sciencespo.fr.ceri/files/etude117_118.pdf"
+                         xlink:type="simple">http://www.sciencespo.fr/ceri/sites/sciencespo.fr.ceri/files/etude117_118.pdf</ext-link>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1201/9781420093599.ch4</pub-id>
+               <year>2009</year>
+               <publisher-name>CRC Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marenin</surname>
+                     <given-names>Otwin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Foreword</article-title>
+               <source>Community Policing</source>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020001</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Emerging Perspectives on Post-Conflict Police-Community Relations</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611104267328</pub-id>
+               <year>2005</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>64</fpage>
+               <lpage>98</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mike Brogden</surname>
+                  </name>
+               </person-group>
+               <article-title>\textquotedblleftHorses for Courses\textquotedblright and \textquotedblleftThin Blue Lines\textquotedblright: Community Policing in Transitional Society</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Arthur</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ahlund</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Lange, M</surname>
+                  </name>
+               </person-group>
+               <article-title>Review of the Global Focal Point for Police, Justice and Security 2018</article-title>
+               <publisher-name>Center on International Cooperation, Folke Bernadotte Academy, the Norwegian Institute of International Affairs</publisher-name>
+               <publisher-loc>Oslo, Norway</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nupi.brage.unit.no/nupi-xmlui/handle/11250/2575199"
+                         xlink:type="simple">https://nupi.brage.unit.no/nupi-xmlui/handle/11250/2575199</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Afghanistan Human Development Report, Security with a Human Face: Challenges and Responsibilities</article-title>
+               <publisher-name>United Nations Development Programme</publisher-name>
+               <year>2004</year>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.af.undp.org/content/afghanistan/en/home/library/human_development/Af-HDR2004.html"
+                         xlink:type="simple">http://www.af.undp.org/content/afghanistan/en/home/library/human_development/Af-HDR2004.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <year>2005</year>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+               <fpage>27</fpage>
+               <lpage>62</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Steve</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Boulder, CO, USA</publisher-loc>
+               <chapter-title>The Contested Concept of Security</chapter-title>
+               <article-title>Critical Security Studies and World Politics</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <article-title>Afghanistan Human Development Report, Bridging Modernity and Tradition: Rule of Law and the search for Justice</article-title>
+               <publisher-name>United Nation Development Programme</publisher-name>
+               <year>2007</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.af.undp.org/content/dam/afghanistan/docs/KnowledgeAndSolutions/Afghanistan_hdr2007%20PUB.pdf"
+                         xlink:type="simple">http://www.af.undp.org/content/dam/afghanistan/docs/KnowledgeAndSolutions/Afghanistan_hdr2007%20PUB.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Divon</surname>
+                     <given-names>Shai</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Police Reform and Power in Post Conflict Societies A Conceptual Map for Analysis</article-title>
+               <source>European Journal of Policing Studies</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdl.handle.net/11250/2490053"
+                         xlink:type="simple">http://hdl.handle.net/11250/2490053</ext-link>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>269</fpage>
+               <lpage>298</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Petřík</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Securitization of Official Development Aid: Analysis of current debate</article-title>
+               <source>International Peace Research Conference. Conflict Resolution and Peace-Building Commission</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.academia.edu/2268910/Securitization_of_Official_Development_Aid_Analysis_of_current_debate"
+                         xlink:type="simple">https://www.academia.edu/2268910/Securitization_of_Official_Development_Aid_Analysis_of_current_debate</ext-link>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10246029.2008.9627475</pub-id>
+               <year>2008</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>17</volume>
+               <issue>2</issue>
+               <fpage>93</fpage>
+               <lpage>104</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bendix</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stanley</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+               </person-group>
+               <article-title>Deconstructing Local Ownership of Security Sector Reform: A Review of the Literature</article-title>
+               <source>African Security Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5937/jrs13-19428</pub-id>
+               <year>2018</year>
+               <publisher-name>Centre for Evaluation in Education and Science (CEON/CEES)</publisher-name>
+               <volume>13</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vogelaar</surname>
+                     <given-names>Gabriëlla</given-names>
+                  </name>
+               </person-group>
+               <article-title>Local Ownership, Inclusivity and Civil-Military Synergy in EU External Action: The Case of EU Support to Security Sector Reforms in Mali</article-title>
+               <source>Journal of Regional Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>United Nations Peace Operations. Community-Oriented Policing in United Nations Peace Operations</article-title>
+               <publisher-name>United Nations Department of Peacekeeping Operations</publisher-name>
+               <year>2018</year>
+               <publisher-name>New York, NY, USA</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/manual-community-oriented-poliicing.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/manual-community-oriented-poliicing.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maass</surname>
+                     <given-names>CD</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Berlin, Germany</publisher-loc>
+               <article-title>Germany and Security Sector Reform in Afghanistan</article-title>
+               <publisher-name>German Institute for International and Security Affairs</publisher-name>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.grips.ac.jp/r-center/wp-content/uploads/09-05.pdf"
+                         xlink:type="simple">http://www.grips.ac.jp/r-center/wp-content/uploads/09-05.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dennys</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hamilton-Baillie, C</surname>
+                  </name>
+               </person-group>
+               <article-title>Strategic Support to Security Sector Reform in Afghanistan, 2001-2010</article-title>
+               <publisher-name>The Centre for International Governance Innovation</publisher-name>
+               <publisher-loc>Waterloo, Canada</publisher-loc>
+               <year>2012</year>
+               <comment>6</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.operationspaix.net/DATA/DOCUMENT/6732 v Strategic_Support_to_Security_Sector_Reform_in_Afghanistan_20012010.pdf"
+                         xlink:type="simple">http://www.operationspaix.net/DATA/DOCUMENT/6732 v Strategic_Support_to_Security_Sector_Reform_in_Afghanistan_20012010.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fescharek</surname>
+                     <given-names>N</given-names>
+                  </name>
+               </person-group>
+               <article-title>The German Police Project Team (GPPT) and the ``capacity to do capacity building''</article-title>
+               <publisher-name>Fondation pour la Recherche Stratégique. Recherches &amp; Documents</publisher-name>
+               <year>2013</year>
+               <publisher-loc>Paris, France</publisher-loc>
+               <comment>10</comment>
+               <issn>1966-5156</issn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.files.ethz.ch/isn/175378/RD_201310.pdf"
+                         xlink:type="simple">https://www.files.ethz.ch/isn/175378/RD_201310.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Reforming Afghanistan’s Police</article-title>
+               <publisher-name>International Crisis Group</publisher-name>
+               <publisher-loc>Brussels, Belgium</publisher-loc>
+               <year>2007</year>
+               <comment>Asia Report 138</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://d2071andvip0wj.cloudfront.net/138-reforming-afghanistan-s-police.pdf"
+                         xlink:type="simple">https://d2071andvip0wj.cloudfront.net/138-reforming-afghanistan-s-police.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Members included EU, EUPOL, UNAMA, UNDP/LOTFA, GPPT, ISAF and NATO</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Key informant interview from IPCB participant Kabul 2015</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>For further information see MoIA's website http://moi.gov.af/en/article/about-the-foreign-relations-directorate.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Enhancing Security and Stability in Afghanistan</article-title>
+               <publisher-name>United States Department of Defense, Report to United States Congress</publisher-name>
+               <year>2016</year>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.defense.gov/Portals/1/Documents/pubs/Afghanistan-1225-Report-December-2016.pdf"
+                         xlink:type="simple">https://www.defense.gov/Portals/1/Documents/pubs/Afghanistan-1225-Report-December-2016.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Perito</surname>
+                     <given-names>RM</given-names>
+                  </name>
+               </person-group>
+               <article-title>Afghanistan's Police; The Weak Link in Security Sector Reform</article-title>
+               <publisher-name>United States Department of Defense, Report to United States Congress</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.usip.org/sites/default/files/afghanistan_police.pdf"
+                         xlink:type="simple">https://www.usip.org/sites/default/files/afghanistan_police.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Survey of Afghan People</article-title>
+               <publisher-name>The Asia Foundation</publisher-name>
+               <publisher-loc>San Francisco, CA, USA</publisher-loc>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://asiafoundation.org/where-we-work/afghanistan/survey/"
+                         xlink:type="simple">https://asiafoundation.org/where-we-work/afghanistan/survey/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Based on an interview with International Police Reform authorities conducted on 10$^th$ April 2018</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Transparency International. Available from: https://www.transparency.org/country/AFG (Accessed on 20 May 2018)</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Others, often used interchangeably, include community policing, police-community relations, democratic policing, accountable police, and police-community partnerships</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Interior Affairs</publisher-name>
+               <publisher-loc>Kabul, Islamic Republic of Afghanistan</publisher-loc>
+               <article-title>Ten-Year Vision for the Afghan National Police: 1392-1402</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://moi.gov.af/en/page/5718/5729"
+                         xlink:type="simple">http://moi.gov.af/en/page/5718/5729</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Interior Affairs</publisher-name>
+               <publisher-loc>Kabul, Islamic Republic of Afghanistan</publisher-loc>
+               <article-title>Ministry of Interior Strategy for the years 1394-1398 (2015-2019)</article-title>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://globalnetplatform.org/system/files/50121/MIS%20-%20English%2001%20March%202015%20%28Strategy%20-%20Policy%29_2.pdf"
+                         xlink:type="simple">https://globalnetplatform.org/system/files/50121/MIS%20-%20English%2001%20March%202015%20%28Strategy%20-%20Policy%29_2.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Phrases used in police conferences and workshops attended by the researcher in 2016/17</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The conference was conducted in Kabul in the month of March; a number of Policing stakeholders and international NGOs were present in the meeting</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nash</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ward</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <article-title>Afghan National Police Family Response Units and Women's Police Corps</article-title>
+               <year>2011</year>
+               <publisher-name>US Embassy, Bureau of International Narcotics and Law Enforcement</publisher-name>
+               <publisher-loc>Kabul, Afghanistan</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ganesh</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <article-title>Women's Economic Empowerment in Afghanistan: Creating Spaces and Enabling the Environment</article-title>
+               <year>2011</year>
+               <publisher-name>Afghanistan Research and Evaluation Unit</publisher-name>
+               <publisher-loc>Kabul, Afghanistan</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://areu.org.af/publication/1307"
+                         xlink:type="simple">https://areu.org.af/publication/1307</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <publisher-loc>Organisation for Economic Co-operation and Development</publisher-loc>
+               <chapter-title>Integrating Gender Awareness and Equality</chapter-title>
+               <year>2008</year>
+               <article-title>Handbook on Security System Reform: Supporting Security and Justice (Section 9). Organization for Economic Co-operation and Development</article-title>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Based on interviews with female police officers and the head of the FRU in Nimruz (2016)</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Female police respondent in Nimruz</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>UNAMA &amp; OHCHR. A Long Way to Go: Implementation of the Elimination of Violence against Women Law in Afghanistan</article-title>
+               <year>2011</year>
+               <publisher-name>United Nations Assistance Mission in Afghanistan and Office of the United Nations High Commissioner for Human Rights</publisher-name>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://unama.unmissions.org/sites/default/files/november_23_unama-ohchr-joint-report-on-implementation-of-evaw-law_eng_1.pdf"
+                         xlink:type="simple">https://unama.unmissions.org/sites/default/files/november_23_unama-ohchr-joint-report-on-implementation-of-evaw-law_eng_1.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bernard</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>ILP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Merchant</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <article-title>Between Security and Development: Emerging Experiences in Afghan Community-Based Policing</article-title>
+               <year>2016</year>
+               <comment>Unpublished manuscript.</comment>
+               <publisher-name>Department of International Environment and Development Studies, Norwegian University of Life Sciences</publisher-name>
+               <publisher-loc> Ås, Norway</publisher-loc>
+            </element-citation>
+            
+            
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The program pulled back from the provinces in 2014 for security reasons.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilder</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>Cops or Robbers? The Struggle to Reform the Afghan National Police</article-title>
+               <year>2007</year>
+               <source>Afghanistan Research and Evaluation Unit (AREU)</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ecoi.net/en/file/local/1222549/432_1186393076_cops-or-robbers-reforming-the-anp-ip-1.pdf"
+                         xlink:type="simple">https://www.ecoi.net/en/file/local/1222549/432_1186393076_cops-or-robbers-reforming-the-anp-ip-1.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Senior Appointment and Corruption within Kabul city Police: Practices and Perception</article-title>
+               <year>2015</year>
+               <source>Afghanistan Integrity Watch</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://iwaweb.org/wp-content/uploads/2016/04/Kabul-Police-Report-English.pdf"
+                         xlink:type="simple">https://iwaweb.org/wp-content/uploads/2016/04/Kabul-Police-Report-English.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Razaq Isaqzadeh, Mohammad</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Giustozzi</surname>
+                     <given-names>Antonio</given-names>
+                  </name>
+               </person-group>
+               <article-title>3 Senior Appointments and Corruption within Afghan MOI: Practice and Perception</article-title>
+               <year>2015</year>
+               <source>Afghanistan Integrity Watch</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://iwaweb.org/wp-content/uploads/2014/12/moi_senior_appointments_and_corruption_english.pdf"
+                         xlink:type="simple">https://iwaweb.org/wp-content/uploads/2014/12/moi_senior_appointments_and_corruption_english.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Razaq Isaqzadeh, Mohammad</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Giustozzi</surname>
+                     <given-names>Antonio</given-names>
+                  </name>
+               </person-group>
+               <article-title>On Afghanistan's Road: Extortion and abuse against Drivers</article-title>
+               <year>2013</year>
+               <source>Afghanistan Integrity Watch</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://iwaweb.org/wp-content/uploads/2014/12/on_afghanistans_roads_extortion_and_abuse_against_driver.pdf"
+                         xlink:type="simple">https://iwaweb.org/wp-content/uploads/2014/12/on_afghanistans_roads_extortion_and_abuse_against_driver.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Women and the Afghan Police: Why a law enforcement agency that respects and protects females is crucial for progress</article-title>
+               <year>2013</year>
+               <comment>Briefing Paper</comment>
+               <publisher-name>Oxfam</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oxfam.org/sites/www.oxfam.org/files/bp-173-afghanistan-women-police-100913-en.pdf"
+                         xlink:type="simple">https://www.oxfam.org/sites/www.oxfam.org/files/bp-173-afghanistan-women-police-100913-en.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Special Inspector General for Afghanistan Reconstruction: Child Sexual Assault in Afghanistan: Implementation of the Leahy Laws and Reports of Assault by Afghan Security Forces</article-title>
+               <year>2018</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.sigar.mil/pdf/inspections/SIGAR%2017-47-IP.pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Baseline study for pilot democratic policing across 8 districts of northern Kabul Province</article-title>
+               <publisher-loc>Kabul, Afghanistan</publisher-loc>
+               <year>2010</year>
+               <publisher-name>Afghanistan Civil Society Forum</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Special Inspector General for Afghanistan Reconstruction (SIGAR)</surname>
+                  </name>
+               </person-group>
+               <article-title>Quarterly Report to the United States Congress</article-title>
+               <year>2018</year>
+               <publisher-loc>Arlington, VA, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.sigar.mil/pdf/quarterlyreports/2018-01-30qr-section3-security.pdf"
+                         xlink:type="simple">https://www.sigar.mil/pdf/quarterlyreports/2018-01-30qr-section3-security.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coyne</surname>
+                     <given-names>AH</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>ILP</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Human Security</source>
+               <article-title>Pushing on a String? An Argument for Civil Society-driven Community Policing as Alternative to Ministry-centric Approach in Conflict-affected Areas</article-title>
+               <volume>\textitunder review</volume>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barekzai</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Women's Participation in School Management Shuras in Afghanistan: Obstacles &amp; Opportunities for Women's Involvement in Government Schools in Kabul City</article-title>
+               <ext-link ext-link-type="uri"
+                  xlink:href="https://pdfs.semanticscholar.org/44f9/47540d590ce3873815c22a92ebe3211b6115.pdf"
+                  xlink:type="simple">https://pdfs.semanticscholar.org/44f9/47540d590ce3873815c22a92ebe3211b6115.pdf</ext-link>
+               <year>2014</year>
+               <publisher-name>Faculty of Arts &amp; Social Sciences, University of Karlstad</publisher-name>
+               <publisher-loc>Karlstad, Sweden</publisher-loc>
+            </element-citation>            
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rassul</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <article-title>Local Conflict Management. An Analysis of Local Conflict Management Approaches in Baghlan, Balk, Helmand, and Nangarhar</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.undp.org/content/dam/afghanistan/docs/Other/StudyPapers/UNDP-AF-18022014-Local%20Conflict%20Management.pdf"
+                         xlink:type="simple">https://www.undp.org/content/dam/afghanistan/docs/Other/StudyPapers/UNDP-AF-18022014-Local%20Conflict%20Management.pdf</ext-link>
+               <year>2013</year>
+               <source>Sub-National Governance Study Paper</source>
+               <issue>5</issue>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Manalan</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community-Based Dispute Resolution Processes in Bamiyan</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.refworld.org/pdfid/4b38706e2.pdf"
+                         xlink:type="simple">https://www.refworld.org/pdfid/4b38706e2.pdf</ext-link>
+               <year>2009</year>
+               <publisher-name>Afghanistan Research and Evaluation Unit</publisher-name>
+               <publisher-loc>Kabul, Afghanistan</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Note that this description of Jirga is for Afghanistan, and does not hold for jirga in Pakistan, where the practice and power of the jirga differ, for example, between tribal and settled areas</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Usually associated with the Pashtun population in eastern and southern Afghanistan</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>State Building, Security, and Social Change in Afghanistan, Reflection on a Survey of the Afghan People</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://asiafoundation.org/resources/pdfs/2008surveycompanionvolumefinal.pdf</uri>.
+        </comment>
+               <year>2008</year>
+               <publisher-loc>San Francisco, CA, USA</publisher-loc>
+               <publisher-name>The Asia Foundation</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coburn</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dempsey</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Informal Dispute Resolution in Afghanistan</article-title>
+               <year>2013</year>
+               <fpage>14</fpage>
+               <publisher-name>United States Institute of Peace</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Afghanistan Central Statistics Organization 2016-2017 Statistic Year Book</article-title>
+               <year>2017</year>
+               <comment>Available from:
+            <uri xlink:type="simple">http://cso.gov.af/en/page/1500/4722/2016-17</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4337/9781781955536.00026</pub-id>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <fpage>279</fpage>
+               <lpage>293</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Albrecht</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Paul Jackson</surname>
+                     
+                  </name>
+               </person-group>
+               <source>Handbook of International Security and Development</source>
+                     
+               <year>2014</year>
+               <publisher-loc>Cheltenham, UK</publisher-loc>
+               <chapter-title>Building on What Works: Local Actors and Service Delivery in Fragile Situations</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marenin</surname>
+                     <given-names>Otwin</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Occasional Paper. Geneva Centre for the Democratic Control of armed Forces</publisher-name>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <article-title>Restoring Policing Systems in Conflict Torn Nations: Process, Problems, Prospects</article-title>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
