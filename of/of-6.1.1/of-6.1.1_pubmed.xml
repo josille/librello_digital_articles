@@ -1,0 +1,3212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2020.06010001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Organic Farming in Bangladesh: To Pursue or not to Pursue? An Exploratory Study Based on Consumer Perception</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Murshed</surname>
+                  <given-names>Rubaiya</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Riaz Uddin</surname>
+                  <given-names>Mohammad</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Department of Economics, University of Dhaka, Dhaka, Bangladesh</aff>
+         <aff id="A3">
+            <label>2</label>Bangladesh Institute of Development Studies [BIDS], Dhaka, Bangladesh</aff>
+         <pub-date pub-type="ppub">
+            <day>28</day>
+            <month>04</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>1</issue>
+         <fpage>1</fpage>
+         <lpage>12</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>The development of organic agriculture in Bangladesh has been slow. According to the Bangladesh Bureau of Statistics (2018), approximately 12,000 farmers in Bangladesh produce organic crops on around 7,000 hectares of land. The transition from conventional to organic farming has been an issue of debate, especially in the context of developing nations such as Bangladesh. The debate stresses the urgency for the transition to preserve environment and health and to ensure a safe, sustainable and environmentally friendly food production system, but also emphasizes the pressure of maintaining food production for a large growing population. We focus on the debate in the context of Bangladesh, and question whether it is the proper time and stage in the development process to attempt the transition from conventional to organic food production systems. We ask why the organic rice market is not expanding in Bangladesh and explain the slow market growth through the two main factors of income constraint and lack of awareness among people about the environmental and health detriments of non-organic farming. The exploratory study finds that it is not mainly the lack of awareness but the income constraint that can be principally attributed to the slow expansion of the organic rice market in Bangladesh. Through exploring consumers’ awareness about organic farming methods and their demand for organic products, this study shows how income as a major constraint, besides price, affects consumers demand for organic and non-organic rice in Bangladesh. Income being identified as the major barrier reveals the potential of the organic rice market to grow in the future, as Bangladesh continues its journey towards becoming a middle-income country.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>agriculture</kwd>
+            <kwd>consumer income level</kwd>
+            <kwd>consumer perception</kwd>
+            <kwd>food production</kwd>
+            <kwd>organic rice</kwd>
+            <kwd>primary data</kwd>
+            <kwd>survey data analysis</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Agricultural food production methods have evolved over time with the advancement of technology. These methods may vary across countries, climates and geographical locations. The debate circling the transition from conventional food production methods to organic food production systems has been a universally researched issue. Food production methods that involve the use of chemical fertilizers and pesticides are referred to as ‘conventional’ [<xref ref-type="bibr" rid="R1">1</xref>]. Although there are controversies regarding the magnitude of the negative effect [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>], the increased use of chemical fertilizers and pesticides leads to environmental degradation (such as decline in soil productivity, contamination of water bodies), and adversely affects the eco-system (aquatic life, livestock etc.) and human health [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. There is a growing need for a sustainable agricultural system which is not harmful [<xref ref-type="bibr" rid="R17">17</xref>]. Yunlong and Smith [<xref ref-type="bibr" rid="R18">18</xref>] suggest that the sustainability of an agricultural system should be assessed from ‘the perspectives of ecological soundness, social acceptability, and economic viability’. An alternative to conventional agriculture is ‘organic agriculture’, which emphasizes the reduced use of agro-chemicals, and promotes the increased use of local, natural, organic and on-farm resources in order to make the agricultural system ecologically, economically and socially more sound and sustainable than conventional agriculture [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. Organic farming methods usually avoid the high dosage of chemical pesticides, chemical artificial fertilizers, genetically modified organisms, man-made fertilisers, antibiotics, growth hormones and livestock feed additives used in conventional farming methods [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>]. In this study, the term ‘organic’ is referred to as a system in which artificial chemical pesticides and fertilizers are generally avoided in crop production or used in a minimum amount compared to the amount used in conventional agriculture.</p>
+         <p>In Bangladesh, the transition between conventional and organic farming involves the consideration of food security and the differences between the two food production methods. Farmers are not likely to quickly shift to organic agricultural methods because their financial return is higher in conventional agriculture. Moreover, crop production and food supply is the farmers’ prime concern due to the focus on attaining food security [<xref ref-type="bibr" rid="R20">20</xref>]. In Bangladesh, increased crop production has been incentivized by providing subsidies for intensified usage of chemical fertilizers, pesticides and irrigation equipment [<xref ref-type="bibr" rid="R25">25</xref>].</p>
+         <p>Conventional and organic agricultural systems in Bangladesh differ in the usage, specifically in the dosage, of chemical fertilizers. Majority of organic farmers in Bangladesh apply some minimal amount of chemical fertilizers, but since their amount of usage is significantly lower than the amount used by conventional farmers, they are considered to be using organic agricultural methods [<xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. On the contrary, very few farmers in more organic agricultural systems apply chemicals to crops because they use their ‘indigenous knowledge’ to control insects by using herbal natural pesticides and traps. Thus, the organic agricultural system is less dependent on chemical inputs compared to the conventional system [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R27">27</xref>].</p>
+         <p>Research has been conducted to verify whether using a more organic agriculture system might reap benefits in Bangladesh. Rasul and Thapa [<xref ref-type="bibr" rid="R20">20</xref>] found that organic agriculture does not differ much from conventional agriculture in terms of land-use patterns, crop yields and food security, and that there is no significant difference in financial and economic benefits, and in value addition. The study suggests that without alternative cost-effective ways of maintaining crop yields, farmers would find it difficult to reduce and abandon the use of chemicals in crop production.</p>
+         <p>Moreover, while the global organic food market is growing [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>], organic farming still occurs mostly on an experimental basis in Bangladesh. Organic cultivation in Bangladesh is estimated at 0.177 million hectares [<xref ref-type="bibr" rid="R28">28</xref>], representing only 2% of the country’s total cultivable land. According to the IFOAM Annual Report [<xref ref-type="bibr" rid="R28">28</xref>] (2010), out of the 138 NGOs that are members of the Forum of Regenerative Agriculture Movement (FORAM) in Bangladesh, only 47 are engaged in organic agriculture. There are only a few commercial organic crop suppliers in the capital city Dhaka- Proshika, Kazi Shahid Foundation, Meena Bazar and Shoshya Probortona. To attain food security, conventional food production methods have been the sought solution for Bangladeshi policymakers since the nation’s independence. For example, rice has been produced through ‘genetically modified’ food production methods to attain food security. Many varieties of rice, such as ‘Golden rice’ [<xref ref-type="bibr" rid="R30">30</xref>], has thus gained recognition in the process [<xref ref-type="bibr" rid="R31">31</xref>]. However, soon after the recognition of these brands of rice, the criticism of genetically modified food production processes arose [<xref ref-type="bibr" rid="R32">32</xref>]. Scepticism also arose on how food security could be compromising the nutrition status of people [<xref ref-type="bibr" rid="R33">33</xref>]. Since farmers often lack the knowledge about the correct dosage and usage of pesticides in farming, the risk of damages from pesticide and chemical fertilizer based genetically modified conventional food production methods could be higher [<xref ref-type="bibr" rid="R34">34</xref>].</p>
+         <p>This research explores the reasons behind the slow growth of the organic rice market size in Bangladesh. Perhaps most consumers are still not much concerned about the health effects of chemicals-based product and organic agriculture might become economically viable in the future if health-conscious people are willing to pay higher prices for organic crops [<xref ref-type="bibr" rid="R20">20</xref>]. According to the Kazi Shahid Foundation [<xref ref-type="bibr" rid="R35">35</xref>], the main reasons for organic farming not expanding in Bangladesh are the lack of support from the government and citizens’ lack of awareness.</p>
+         <p>In understanding the demand for a particular product, the factors usually taken into consideration include the price of the product, the price of substitute products, income of the consumers, purchasing power of the consumers, awareness of the consumers about the products and advertising of the product [<xref ref-type="bibr" rid="R36">36</xref>]. This research aims to understand whether the income constraint of consumers, alongside consumers lack of awareness about organic production methods, is contributing to the rigidity of the organic rice market growth in Bangladesh. In theory and in reality, the price of organic products in the food market is usually higher than the same products produced conventionally, mainly because of the higher costs associated with organic production [<xref ref-type="bibr" rid="R37">37</xref>]. We hypothesize that consumers’ income constraint is the main reason behind the slow growth of the organic rice market in Bangladesh, and that the market will not thrive unless consumers’ income level increases.</p>
+         <p>If this is true, it could lead to the contemplation of whether pursuing organic rice production methods on a large scale in Bangladesh is appropriate at the current stage of development where, according to World Bank [<xref ref-type="bibr" rid="R38">38</xref>], the GDP per capita of Bangladesh was USD 1,827 in June, 2019 after an increase from 1,675 USD in 2018. With the middle-income country goal looming on the horizon, perhaps organic food production would be a more viable route to pursue in the near future once the income goal is reached. Previous research has indicated consumers’ low income level to be a barrier to organic production, especially in poorer countries [<xref ref-type="bibr" rid="R39">39</xref>]. Moreover, market opportunities offer insufficient incentives for practicing organic agriculture in low income countries. On the other hand, Willer and Yussefi [<xref ref-type="bibr" rid="R29">29</xref>] argued that organic agriculture can be advantageous for poorer countries through contributing to purposeful and sustainable socio-economic and ecological development. Additionally, if consumers are unaware of better substitutes to conventional products and lack information about the availability of organic products, perhaps many consumers with the willingness to purchase the products, and the affordability, would miss the opportunity to purchase [<xref ref-type="bibr" rid="R40">40</xref>].</p>
+         <p>This study considers the possibility of consumers’ lack of awareness being a strong reason behind the stiff growth of the organic rice market in Bangladesh. Several studies have highlighted the environmental awareness and health consciousness of consumers as major determinants to their shifting from conventional products to organic products [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>].</p>
+         <p>This research analyses the demand for organic food by consumers in Dhaka, Bangladesh. The objectives of this research are: (1) Testing the awareness level of local consumers in Dhaka city about organic food products, (2) Identifying the preference criteria of organic and conventional food consumers in Dhaka, which would reveal what factors are considered by consumers who choose between these two types of food products, (3) Testing the hypothesis that income is a major barrier to consumers’ organic food consumption. This research is explorative in nature so the findings may not be generalizable from the sample to the population, but may stimulate the need for further research on the topic.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Material and Methods</title>
+         <sec id="s2.1">
+            <title>2.1.- Data Collection</title>
+            <p>The data was collected, through person-to-person interaction instead of through online platforms, from grocery stores where organic food products are regularly available alongside conventional food products. The two main organic food product selling stores in Dhaka city are Meena Bazar and Shoshya Probortona. Data was collected from consumers shopping in these two stores during the period of 8 to 11 August 2012, thereby including consumers of both organic and conventional food products and capturing different income levels among the consumers. A questionnaire was designed to collect the data and the consumers were requested to spare 15 minutes of their grocery-shopping time to fill in the survey face-to-face with the researcher. Some consumers preferred filling in the questionnaire themselves and talked to the researcher about their answers through the process. Consumers participating in the survey were given a 5% discount by the stores. Data was collected from 120 consumers. The questionnaire consisted of both close-ended and open-ended questions. Data on consumers’ awareness and perception was collected through a mixture of dichotomous questions, importance questions, buying propensity questions and matrix questions. Data for the econometric analysis was collected through open-ended questions, e.g. about households’ monthly income, monthly expenditure etc.
+</p>
+            <p>Although the sample size for the study was 120, it shrank to 70 for the econometric analysis because of missing values in the respondents’ answers. This small sample size means findings are not representative of and not generalizable to the target population which is organic rice consumers in Dhaka, so, this study is exploratory in nature, aiming to provide grounds for further research to verify the highlighted aspects.</p>
+            <p>The respondents were randomly chosen from the stores that are the most popular in terms of supplying organic food and drink items in Dhaka. Since we aimed to collect evidence from more informed (about organic products) people, we believe that there is no sample bias because of the assumption that most organic food shoppers may usually go to the surveyed organic shops for their organic purchases. For the same reason, in the case of the descriptive statistics analysis, artificial positively induced answers are not believed to be a problem in this study. The short duration of the survey is the main limitation of this study but two of the main organic rice supplier shops in Dhaka were covered by the survey.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Methods of Analysis</title>
+            <p>The collected data was used for two types of analysis: (1) To present descriptive statistics reflecting the consumers’ perceptions and awareness about organic food products, and (2) To estimate a regression model testing the hypothesis stated in this research that income is a major constraint in consumers’ demand for organic rice. The regression model was estimated using STATA, and included variables depicting consumers’ demand for organic rice, price of organic and conventional rice, environmental awareness, health consciousness, quality satisfaction, family size and household income. Environmental awareness, health consciousness, quality satisfaction etc. are factors that could potentially affect consumers’ demand for organic food products [<xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R43">43</xref>]. In the case of the price of rice, a weighted price of rice was calculated with the particular amount of quantity demanded used as the weight.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Econometric Model</title>
+            <p>The econometric model is based on a multiple variable regression equation (OLS method). </p>
+            <p>
+               <inline-formula>
+                  <mml:math id="S4.SS3.p2.m1"
+                            alttext="ln"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mrow>
+                        <mml:mi>l</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>n</mml:mi>
+                     </mml:mrow>
+                  </mml:math>
+               </inline-formula>
+               <italic> (Average quantity demanded of organic rice by consumer)</italic> = <inline-formula>
+                  <mml:math id="S4.SS3.p2.m2"
+                            alttext="\alpha"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>α</mml:mi>
+                  </mml:math>
+               </inline-formula>
+               <italic> + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m3"
+                               alttext="\beta_{1}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">1</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> 
+                  <inline-formula>
+                     <mml:math id="S4.SS3.p2.m4"
+                               alttext="ln"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo mathvariant="italic">⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                     </mml:math>
+                  </inline-formula> (Monthly Household Income) + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m5"
+                               alttext="\beta_{2}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">2</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> 
+                  <inline-formula>
+                     <mml:math id="S4.SS3.p2.m6"
+                               alttext="ln"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo mathvariant="italic">⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                     </mml:math>
+                  </inline-formula> (Average quantity demanded of conventional rice by consumer) + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m7"
+                               alttext="\beta_{3}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">3</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> 
+                  <inline-formula>
+                     <mml:math id="S4.SS3.p2.m8"
+                               alttext="ln"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo mathvariant="italic">⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                     </mml:math>
+                  </inline-formula> (Average weighted price of organic rice) + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m9"
+                               alttext="\beta_{4}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">4</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> 
+                  <inline-formula>
+                     <mml:math id="S4.SS3.p2.m10"
+                               alttext="ln"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo mathvariant="italic">⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                     </mml:math>
+                  </inline-formula> (Average weighted price of conventional rice) + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m11"
+                               alttext="\beta_{5}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">5</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> Environmental awareness dummy variable + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m12"
+                               alttext="\beta_{6}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">6</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> Education level dummy variable + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m13"
+                               alttext="\beta_{7}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">7</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> Health consciousness dummy variable + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m14"
+                               alttext="\beta_{8}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">8</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> 
+                  <inline-formula>
+                     <mml:math id="S4.SS3.p2.m15"
+                               alttext="ln"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:mrow>
+                           <mml:mi>l</mml:mi>
+                           <mml:mo mathvariant="italic">⁢</mml:mo>
+                           <mml:mi>n</mml:mi>
+                        </mml:mrow>
+                     </mml:math>
+                  </inline-formula> (Family size) + <inline-formula>
+                     <mml:math id="S4.SS3.p2.m16"
+                               alttext="\beta_{9}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msub>
+                           <mml:mi>β</mml:mi>
+                           <mml:mn mathvariant="normal">9</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </inline-formula> Quality Satisfaction dummy variable + error</italic> 
+            </p>
+            <p>The variables in the model follow from the basic ‘Law of Demand’ of Economics, which states that demand for a good is inversely related to its price. The other factors affecting demand include income, consumer’s preference etc. The variables ‘Environmental awareness’, ‘Health consciousness’, ‘Quality satisfaction’ have been included in the model, in the form of dummy variables, based on the assumption that these influence consumer’s preference towards organic foods.</p>
+            <p>The econometric model was tested on the basis of ‘goodness of fit’ by the R2 method. The VIF tolerance method was used to test the existence of multicollinearity; the Breusch-Pagan test was used to test the existence of heteroscedasticity, and the Ramsey RESET (Regression Specific Error Test) was used to test specification bias in the model.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results and Discussion</title>
+         <sec id="s3.1">
+            <title>3.1.- Socio-economic Status</title>
+            <p>According to the respondents’ income distribution, three income levels were identified, monthly income (1) &lt;12,000 taka, (2) 12,000 taka to 75,000 taka and (3) &gt;75,000 taka. The floor and ceiling were chosen to capture the median of the income distribution based on the sample. Among the respondents, 77.5% fell under the middle income group, which indicates a middle-income bias in the data, while 5.8% and 16.7% were in the highest and lowest income bracket, respectively. This indicates that the two grocery stores where the survey was conducted are reasonably affordable places for lower-middle class, middle class, and higher middle class and upper class people, to shop for daily groceries, such as rice. Usually, class categories are classified based on income status and living conditions of consumers.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Environmental and Health Awareness</title>
+            <p>Approximately 3.3% of the respondents are moderately aware about what harms the environment and how to preserve the environment; and 96.7% of the respondents are very aware (Figure <xref ref-type="fig" rid="Fig1">1</xref>). In this case, environmental awareness was measured by asking the respondents questions (framed in a ‘Likert scale’ structure) about the environment, pollution, green farming etc. and the respondents’ answers to the questions were categorized into high, medium, low awareness groups. Most of the respondents stated that they knew about organic food, the threats of conventional food to the environment, and the environmental benefits of organic farming.</p>
+            <p>Around 2.5% of the respondents are moderately conscious of what affects their health positively and negatively; and most of the respondents (97.5%) are very conscious of their health (Figure <xref ref-type="fig" rid="Fig2">2</xref>). Health consciousness was measured by asking the respondents questions (framed in a ‘Likert scale’ structure) about smoking, healthy dieting, exercise etc. and especially about their views on what types of food are harmful for their health. The respondents were specifically probed about their concern about how non-organic food could be affecting their health. The respondents’ answers were categorized into three levels of consciousness.</p>
+      <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                  <title>Environmental awareness of the consumers, percentage of respondents (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                  <title>Health consciousness of consumers’ (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Other Factors and Aspects</title>
+            <p>Most consumers (88 out of 120) understand organic food to be products produced without chemical pesticide usage; while 21 out of 120 consumers perceive organic food to be natural food made with natural unprocessed ingredients (Figure <xref ref-type="fig" rid="Fig3">3</xref>). This portrays that although most respondents are aware of the basic concept of organic foods, perhaps their understanding of the term could be clearer, especially in terms of the methods used in producing the organic food products.</p>
+            <p>Around 97.5% of the respondents (117 out of 120 respondents) are willing to purchase certified organic foods even if it costs them more than purchasing the alternate conventional versions of the products (Table <xref ref-type="table" rid="Tab1">1</xref>). The three consumers who responded that they would not be willing to purchase organic food items at higher prices were found to be in the lower income group. This indicates that income constraint may negatively affect the consumers’ willingness to purchase organic food items.</p>
+            <p>Approximately 77.5% (93 of the 120) of the respondents spend 10,000-20,000 taka per month on food products, while 16.7% of the respondents (20 out of 120) spend &gt;20,000 taka per month on food, and only 5.8% (7 out of 120) of the respondents’ monthly food expenditure is &lt;10,000 taka. Although these figures seem coherent with the income distributions of the three income level groups in this study, monthly food expenditure does not depend on income alone, but also depends on household size. So, respondents’ monthly food expenditure cannot be linked with the income groups alone without data of how many people each of the respondents’ buy food for. Table <xref ref-type="table" rid="Tab2">2</xref> shows some important patterns nonetheless (1) Out of the 20 respondents whose monthly food expenditure is comparatively high (&gt;20,000 taka per month), 15 respondents (75%) confirmed that they purchase organic food products instead of conventional ones regularly while regular purchase of organic items in the total sample was observed for only 43.3% of the respondents. Thus, there seems to be a positive relationship between monthly food expenditure and purchasing organic food products.</p>
+            <fig id="Fig3" position="float" orientation="portrait">
+               <label>
+                Figure 3</label>
+               <caption>
+                  <title>Consumers’ understanding of the term ‘organic food’ (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig3.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>Table 1</label>
+               <caption>
+                  <title>Cross-tabulation of consumers’ income status and their willingness to pay more for certified organic foods (n = 120).</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="center"
+                            colspan="6"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                           <bold>Income Status of the Consumers</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Below 12,000 taka
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                (12,000 to 75,000) taka
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Above 75,000 taka
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Total
+              </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Willingness to pay more
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Not willing
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                for certified organic foods
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Willing
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                4
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                93
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                20
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                117
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Total
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                93
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                20
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                120
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>Table 2</label>
+               <caption>
+                  <title>Cross tabulation between consumers’ purchasing status of organic items with monthly food expenses (n = 120).</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="center"
+                            colspan="6"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                           <bold>Consumers’ organic food purchasing status</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Monthly food expenses (taka)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Regular
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Frequent
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Seldom
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Never purchase
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Total
+              </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Below 10,000
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10,000 - 15,000
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                12
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                8
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                30
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                16,000-20,000
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                27
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                33
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                63
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                21,000-25,000
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                5
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                5
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                26,000-30,000
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                6
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                6
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Above 30,000
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                4
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Total
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                52
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                50
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                120
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Approximately 48.3% of the respondents’ (58 out of 120 of the respondents) came to know about organic food products from advertises on television and from TV programs promoting organic food production (health shows, talk shows on health and environment etc.); and 27.5% (33 out of 120) of the respondents learnt about organic food items from newspaper reviews, articles and advertises (Figure <xref ref-type="fig" rid="Fig4">4</xref>). Respondents who said that they had learnt about organic food from TV programs were asked to mention specific TV programs and channels they had watched in learning about organic food; and all of the respondents’ answers revealed that the shows had been on international channels rather than on national TV channels. Thus, the different medias that can be used in spreading awareness about organic foods can be researched more to reach a wider audience in Bangladesh.</p>
+            <p>Around 80% (96 out of 120) of the respondents have considered consuming organic foods but haven’t consumed (all 96 of the respondents indicated the reason behind this to be the high price of the organic products and the lack of affordability); while only 14.2% (17 out of 120) of the respondents have actually purchased and consumed organic foods (Figure <xref ref-type="fig" rid="Fig5">5</xref>).</p>
+            <fig id="Fig4" position="float" orientation="portrait">
+               <label>
+                Figure 4</label>
+               <caption>
+                  <title>Consumers’ source of information in learning about organic foods (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig4.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Only 7 of the 120 respondents (5.8%) have not purchased any organic food items yet (Fig. <xref ref-type="fig" rid="Fig6">6</xref>); 38 out of the 120 respondents (31.7%) have been purchasing for at least a year; and 75 out of the 120 respondents (62.5%) have been purchasing organic food products from time to time for at least two years and more (Figure <xref ref-type="fig" rid="Fig6">6</xref>). The respondents who had been purchasing organic foods for at least a year or for more than one year were asked why they had made the conscious shift towards purchasing organic foods, and 97% of them responded that it was because they had realized the health benefits of the organic products and had made the shift only when they could afford to buy the organic products.</p>
+            <p>Most of the respondents (93 out of 120 respondents) prefer to buy organic food products from specific stores that they are familiar with and trust (Fig. <xref ref-type="fig" rid="Fig7">7</xref>); while many consumers (15 out of 120 respondents) opt for checking the labels of the food products and the company name to verify the quality and authenticity of the organic food products (Figure <xref ref-type="fig" rid="Fig7">7</xref>).</p>
+            <fig id="Fig5" position="float" orientation="portrait">
+               <label>
+                Figure 5</label>
+               <caption>
+                  <title>Whether the consumers ever consumed or considered consuming organic food (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig5.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig6" position="float" orientation="portrait">
+               <label>
+                Figure 6</label>
+               <caption>
+                  <title>Consumers’ time period of having been aware about organic products and having started purchasing organic food products from time to time (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig6.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig7" position="float" orientation="portrait">
+               <label>
+                Figure 7</label>
+               <caption>
+                  <title>Consumers’ organic food products verifying system (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig7.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Around 90.8% of the respondents (109 out of 120 respondents) think that the government should be responsible for verifying the quality and authenticity of the organic food products (Figure <xref ref-type="fig" rid="Fig8">8</xref>). Consumers’ perceptions on issues like such verifications are very important for the growth of the organic food market, because these are the issues that the authorities and suppliers would have to take into account to maximize their business opportunities, supplies and profits in the organic food market.</p>
+            <p>Approximately 77.5% of the respondents (93 out of 120) have purchased and consumed organic food products because of the products being environmentally friendly, and this indicates that the respondents of the survey in this research are quite concerned about conserving the environment (Figure <xref ref-type="fig" rid="Fig9">9</xref>). So, there seems to be little to no lack of awareness among the respondents about the environmental benefits of organic food products, and this could rule out lack of awareness as a reason behind these consumers’ not purchasing organic food products.</p>
+            <p>Around 80.83% of the respondents (97 out of 120) would be willing to pay 0-9% premium price, meaning that they would be willing to pay a maximum of 9% more than the price of conventional rice to purchase organic rice (Figure <xref ref-type="fig" rid="Fig10">10</xref>). Moreover, 19.17% of the respondents (23 out of 120) said that they would be willing to pay over 9% premium price, and even up to 39% in case of some of the respondents for organic rice instead of conventional rice. The respondents who were willing to pay 20% or over 20% price premium were in the high income status groups (Monthly income &gt;75,000 taka).</p>
+            <fig id="Fig8" position="float" orientation="portrait">
+               <label>
+                Figure 8</label>
+               <caption>
+                  <title>Consumers’ perception about responsibility of verification.</title>
+               </caption>
+               <graphic xlink:href="Fig8.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig9" position="float" orientation="portrait">
+               <label>
+                Figure 9</label>
+               <caption>
+                  <title>Consumers reasons for purchasing and consuming organic food products (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig9.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>The quality of the organic food products is the most popular characteristic that attracts the respondents to purchase organic food products. Around 71.7% of the respondents stated quality to be the most persuading characteristic that pulls them towards consuming green products (Figure <xref ref-type="fig" rid="Fig11">11</xref>). This is a signal to authorities of organic food supply chains to ensure the quality of organic products in order to meet the demand criteria of the consumers of the organic food market.</p>
+            <p>Figure <xref ref-type="fig" rid="Fig12">12</xref> shows that vegetables are the most popular (51 out of 120 respondents) organic food followed consecutively by fruits (38 out of 120 respondents); and fish (20 out of 120 respondents). This could be a reflection of the general suspicion, which has also gained widespread media coverage, about the extensive usage of harmful formalin, pesticides in fresh fruits, vegetables, and fish in Bangladesh. Food Adulteration has been a topic covered by the media extensively, which might have had an influence on consumers opting to buy organic fruits, vegetables, fish etc.</p>
+            <fig id="Fig10" position="float" orientation="portrait">
+               <label>
+                Figure 10</label>
+               <caption>
+                  <title>Premium price that consumers would be willing to pay for organic rice (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig10.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig11" position="float" orientation="portrait">
+               <label>
+                Figure 11</label>
+               <caption>
+                  <title>Characteristics that persuade consumers to buy more green products (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig11.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig12" position="float" orientation="portrait">
+               <label>
+                Figure 12</label>
+               <caption>
+                  <title>Ranking organic food products by popularity heteroscedasticity. The Ramsey RESET test shows that among consumers (n = 120).</title>
+               </caption>
+               <graphic xlink:href="Fig12.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Tables <xref ref-type="table" rid="Tab3">3</xref> and <xref ref-type="table" rid="Tab4">4</xref> respectively show the perceptions and problematic experiences of organic food consumers. Regarding the consumption of organic food in Bangladesh, 40% consumers’ face the problem of high price; while 36.7% face the problem of insufficient supply. High price being perceived as a problem could be linked to the income constraint of consumers, indicating that income constraint could be a strong determinant in consumers’ organic food purchasing.</p>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>Table 3</label>
+               <caption>
+                  <title>Cross tabulation between consumers’ purchasing status of organic items with monthly food expenses (n = 120).</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Statement</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Agreed</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Partially agreed</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Not agreed</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Available organic foods in Bangladesh are really organic
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                42 (35%)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                64 (53.3%)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                14 (11.7%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Quality of the available organic foods is satisfactory
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                11 (9.2%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                104 (86.7%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                5 (4.2%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Price of organic foods is very high
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                112 (93.3%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                8 (6.7%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Supply of organic food items in the market is sufficient
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                16 (13.3%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                104 (86.7%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Number of organic shops is sufficient in the city
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23 (19.2%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                97 (80.8%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Organic foods should be certified by the certifying authorities
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10 (83.3%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                20 (16.7%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                All types of food crops should be cultivated organically
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                120 (100%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Organic foods have less pesticides/chemicals
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                118 (98.3%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2 (1.7%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Organic farming help protect environment and ecology
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                120 (100%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Organic farming is as sustainable as conventional farming
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                119 (99.2%)
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1 (0.8%)
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab4" position="float" orientation="portrait">
+               <label>Table 4</label>
+               <caption>
+                  <title>Problems faced by the consumers of organic products in 2012 (n = 120).</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Problems</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>No. of consumers</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Insufficient supply of organic produce
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                44 (36.7%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Organic foods are available in a limited number of shops
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3 (2.5%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Lack of trust of producers and sales personnel
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23 (19.2%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                High price of organic produce
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                48 (40%)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Others
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0 (0%)
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s3.4">
+            <title>3.4.- Findings from the Regression Analysis</title>
+         </sec>
+         <sec id="s3.5">
+            <title>3.5.- Discussion of the Regression Results</title>
+            <p>The regression results in Table <xref ref-type="table" rid="Tab5">5</xref> show that the average quantity demanded of organic rice increases by approximately 0.6% when the consumer’s income increases by 1%. The R2 value shows that approximately 72% of the variation in average quantity demanded of organic rice is explained by the independent variables incorporated in the model. There is no multicollinearity in this model, and no heteroscedasticity. The Ramsey RESET test shows that the model has no specification bias.</p>
+            <p>The environmental awareness dummy = 1 indicates that the consumers are environmentally aware. The results show that the average quantity demanded of organic rice by aware consumers is 53% greater than that of unaware consumers’. Similarly, health consciousness dummy = 1 indicates that the consumers are health conscious; while the results show that conscious consumers’ average quantity demanded of organic rice is around 36% greater than that of unconscious consumers’. The regression results show that the ‘average quantity demanded of organic rice’ by consumers is largely affected by the consumer’s income, besides the prices of organic rice and the substitute conventional rice. Environmental awareness and health awareness don’t impact the change in consumers’ demand as much as income does. Most importantly, the coefficients for ‘Environmental awareness’ and ‘Health consciousness’ are not statistically significant. In this regression model, the coefficients of ‘consumers’ income’, ‘average quantity demanded of conventional rice’, ‘average weighted price of organic rice’ are statistically significant at the 5% significance level and the coefficient of ‘Quality Satisfaction’ is significant at the 10% significance level. The regression results provide proof that income level and price are two of the most important factors that influence consumers’ average quantity demanded of organic rice in this regression model.</p>
+            <p>The positive relationship between ‘average quantity demanded of organic rice’ and ‘average weighted price of organic rice’ is interesting since it reflects the preferences of a consumer group that is so conscious about consuming organic rice that a rise in price does not reduce their demand for it, but rather raises it. Thus, organic rice in this analysis can be perceived as a ‘Giffen good’. The positive relationship between ‘average quantity demanded of organic rice’ and ‘average quantity demanded of conventional rice’ indicates that these two goods are complementary goods in this case. Another interesting anomaly perceived in the results is the negative relationship between average quantity demanded of organic rice and the education level (dummy variable).</p>
+            <p>The upward-sloping line in Figure <xref ref-type="fig" rid="Fig13">13</xref> confirms that there is a positive relationship between the variables ‘average quantity demanded of organic rice’ and ‘income’. The important issue here is whether this relationship is stronger in magnitude than the relationships of average quantity demanded of organic rice with other factors.</p>
+            <table-wrap id="Tab5" position="float" orientation="portrait">
+               <label>Table 5</label>
+               <caption>
+                  <title>Regression Results.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Source</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>SS</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Df</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Not agreed</bold>
+                        </td>
+                        <td align="justify"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                
+                  
+                    
+                      Number of
+                    
+                  
+                  
+                    
+                      observations =70
+                    
+                  
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Model
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                20.376
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2.264
+              </td>
+                        <td align="justify"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                F(9,48)=13.39
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Residual
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                8.118
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                48
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                48.169
+              </td>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                Probability &gt;F =0.00
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Total
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                28.495
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                57
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                57.499
+              </td>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                R-squared=0.72
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                Adjusted R-squared=0.66
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                Root MSE=0.41
+              </td>
+                     </tr>
+                     <tr>
+                        <td colspan="6" style="border-top:1px solid black;" rowspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                Organic rice demand (
+                <inline-formula>
+                              <mml:math id="S5.T5.m1" alttext="ln" display="inline" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mi>l</mml:mi>
+                                    <mml:mo>⁢</mml:mo>
+                                    <mml:mi>n</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </inline-formula>
+                )
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Coefficient
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Standard Error
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T5.m2"
+                                        alttext="t"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mi>t</mml:mi>
+                              </mml:math>
+                           </inline-formula>
+                 value
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T5.m3"
+                                        alttext="P"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mi>P</mml:mi>
+                              </mml:math>
+                           </inline-formula>
+                 value
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                
+                  
+                    
+                      Consumer’s
+                    
+                  
+                  
+                    
+                      income (
+                      
+                        
+                          
+                            ⁢
+                            l
+                            n
+                          
+                        
+                      
+                      )
+                    
+                  
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.618
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.118
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                5.23
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.000*
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Conventional rice
+                    
+                  
+                  
+                    
+                      demand (
+                      
+                        
+                          
+                            ⁢
+                            l
+                            n
+                          
+                        
+                      
+                      )
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.314
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.104
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3.02
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.004*
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Organic rice
+                    
+                  
+                  
+                    
+                      price (
+                      
+                        
+                          
+                            ⁢
+                            l
+                            n
+                          
+                        
+                      
+                      )
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.858
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.877
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2.12
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.039*
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Conventional rice
+                    
+                  
+                  
+                    
+                      price (
+                      
+                        
+                          
+                            ⁢
+                            l
+                            n
+                          
+                        
+                      
+                      )
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.154
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.826
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.40
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.169
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                Family size (
+                <inline-formula>
+                              <mml:math id="S5.T5.m8" alttext="ln" display="inline" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mi>l</mml:mi>
+                                    <mml:mo>⁢</mml:mo>
+                                    <mml:mi>n</mml:mi>
+                                 </mml:mrow>
+                              </mml:math>
+                           </inline-formula>
+                )
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.772
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.513
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.51
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.139
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Environmental
+                    
+                  
+                  
+                    
+                      awareness (dummy)
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.528
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.396
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.33
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.189
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Education level
+                    
+                  
+                  
+                    
+                      (dummy)
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -0.488
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.409
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -1.19
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.238
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Health
+                    
+                  
+                  
+                    
+                      consciousness (dummy)
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.3645
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.394
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.93
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.359
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="2" style="" rowspan="1">
+                
+                  
+                    
+                      Quality
+                    
+                  
+                  
+                    
+                      satisfaction (dummy)
+                    
+                  
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.492
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.273
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1.80
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0.078**
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                Constant
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                -18.33688
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2.989109
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                -6.13
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.000
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                *Statistically significant at 5% significance level
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" colspan="4" style="" rowspan="1">
+                **Statistically significant at 10% significance level
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <fig id="Fig13" position="float" orientation="portrait">
+               <label>
+                Figure 13</label>
+               <caption>
+                  <title>Relationship between average quantities demanded of organic rice and income of consumer.</title>
+               </caption>
+               <graphic xlink:href="Fig13.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig14" position="float" orientation="portrait">
+               <label>
+                Figure 14</label>
+               <caption>
+                  <title>Comparison of slopes.</title>
+               </caption>
+               <graphic xlink:href="Fig14.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>Figure <xref ref-type="fig" rid="Fig14">14</xref> shows how the consumer’s income is the factor that affects the average quantity demanded of organic rice the most (indicated by the steepest slope among all the graphs: the graph at the top left corner). The steeper the slope, the greater the change in average quantity demanded of organic rice due to a change in the corresponding independent variable. Considering only the variables that are statistically significant, the slopes of the graphs above indicate that consumer’s income is the factor that affects the average quantity demanded of organic rice the most, which is indicated by the steepest slope among all the graphs. Thus, consumer’s income is the most influencing factor in determining the average quantity demanded of organic rice by the consumers.</p>
+            <p>The results show that no matter how conscious consumers’ become of the advantageous effects of organic rice on the environment and on their health- in the end, their demand and consumption is mainly controlled by the level of incomes they earn and the price of the organic products. Organic products are generally highly priced, and so the consumer’s willingness to purchase organic products is mainly dependent on income.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Limitations and Scope for Further Research</title>
+         <p>This study was conducted on a small scale in Dhaka city, but the term ‘in Bangladesh’ has been used multiple times. To clarify, by ‘in Bangladesh’, we are not claiming that the results of this study are generalizable to the Bangladeshi population. The term has been used loosely to indicate that the evidence is from Bangladesh. It would be interesting to see how the findings of this study, which was based on data from consumers in Dhaka, would be in case of other cities in Bangladesh. Further, the larger the sample size, the closer the approximation of the results to reality; and the better the generalization and external validity of the data. Time constraint disallowed the sample size for this research to be any larger, and perhaps the findings could have been more significant with a larger sample size. Finally, the data collection points in this research were set according to the criteria of stores that sell organic food items alongside conventional food items. This allowed for the data to incorporate the perceptions of consumers who purchase organic food items from time to time, and also to perceive the factors consumers’ base their purchasing decisions on when they have both the choices of organic and conventional food items available. An interesting dimension could be added to the research by incorporating the perceptions of consumers of grocery stores that do not provide organic food products.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Policy Recommendations and Conclusion</title>
+         <p>To our knowledge this research is the first of its kind in Bangladesh addressing the question of whether income constraint is the main determinant behind consumers’ decisions to purchase or not purchase organic food products. The findings indicate that the shoppers in the sample have a high level of recognition for organic rice, value its benefits, are willing to pay more for it (except for shoppers earning less than 12K taka) but find that it is in short supply and available at only a few markets.</p>
+         <p>The most common concern in purchasing organic foods is the cost. Organic foods typically cost more than their non-organic conventional versions. The main reason behind the higher prices is the more expensive farming techniques and natural inputs required for the production of organic crops. If we assume that the production and supply of organic rice is determined by the demand for it, then it makes sense why the organic crop market in Bangladesh is not expanding; because market size does influence supply and production [<xref ref-type="bibr" rid="R44">44</xref>]. The findings suggest that consumers’ demand for organic rice is mainly dependent on their income level. Our results indicate that environmental awareness and health consciousness are not as powerful determinants of consumers’ demand for organic rice as income constraint. So, as long as the general average income level of the nation does not increase, the demand for and consumption of organic rice might not increase as much, despite people becoming more aware of environment and health issues.</p>
+         <p>Based on the findings of this study, several policy recommendations can be made. Firstly, since this study emphasizes the increase in consumers’ income levels, initiatives that promote Bangladesh becoming a middle-income nation should be pursued, encouraged and supported. Secondly, it is necessary to create policies that will provide incentives, such as subsidies, to farmers to follow more organic agricultural practices [<xref ref-type="bibr" rid="R20">20</xref>]. Campaigns to increase demand for organically produced crops would help to attract consumers towards organic products, and would thereby increase both the market prices of these products and farmers’ willingness to adopt organic farming methods. Thirdly, the quality and authenticity of organic products should be ensured. The government should play the leading role here, and there could be consumer bodies/unions created to keep track of the process. ‘Certifying bodies’ could also be established in this regard, which would have the authority to label organic products as ‘Certified Organics’, i.e. as produced according to the organic standards set by and certified by certifying bodies [<xref ref-type="bibr" rid="R23">23</xref>]. Fourthly, facilities should be provided to existing organic producers to be able to market their crops more easily and efficiently. Lastly, training and knowledge-sharing opportunities (e.g. organic food production training programs and integrated pest management training) should be provided to farmers to learn about organic farming.</p>
+         <p>Food security has been a priority for Bangladesh for a long time. The time is approaching, for the sake of saving our environment, for greener farming methods to become our utmost priority. The findings of this study give us hope to look forward to a future where organic farming will become more feasible through the country progressing into a middle-income country.</p>
+      </sec>
+      <sec id="s8">
+         <title>Annex</title>
+         <table-wrap id="TabA1" position="float" orientation="portrait">
+            <label>Table A1</label>
+            <caption>
+               <title>Age distribution of the consumers.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Consumer’s Characteristics</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Distribution of the consumers based on their characteristics</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Number of consumers (n = 120)</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Percentage of consumers</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Young (below 35)
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              43
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              35.83%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Age (years)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Middle aged (36-50)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              66
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              55%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Old (above 50)
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              11
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              9.166%
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="TabA2" position="float" orientation="portrait">
+            <label>Table A2</label>
+            <caption>
+               <title>Occupation distribution of the consumers.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Occupation types</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Number of respondents in each occupation (n = 120)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Non-government services
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              39
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Government services
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              11
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Business
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              30
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Students
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              36
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Housewife
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              4
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="TabA3" position="float" orientation="portrait">
+            <label>Table A3</label>
+            <caption>
+               <title>Educational levels of consumers.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Education level</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Number of respondents having studied up to each education level (n = 120)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Up to SSC
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              9
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              SSC passed
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              11
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              HSC passed
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              16
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Under-graduate
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              32
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Post-graduate
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              54
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Adverse Effects of Chemical Fertilizers and Pesticides on Human Health and Environment</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kumari</surname>
+                     <given-names>KA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>KNR</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rao</surname>
+                     <given-names>Ch N</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Chemical and Pharmaceutical Sciences</source>
+               <volume>3</volume>
+               
+               <ext-link ext-link-type="uri"
+                  xlink:href="https://www.jchps.com/specialissues/Special\%20issue3/34\%20jchps\%20si3\%20addn\%20K.Anitha\%20Kumari\%20150-151.pdf"
+                  xlink:type="simple">https://www.jchps.com/specialissues/Special\%20issue3/34\%20jchps\%20si3\%20addn\%20K.Anitha\%20Kumari\%20150-151.pdf</ext-link>
+                                
+               <fpage>150</fpage>
+               <lpage>151</lpage>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Choice of Organic Foods is Related to Perceived Consequences for Human Health and to Environmentally Friendly Behaviour</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Magnusson</surname>
+                     <given-names>Maria K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Arvola</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hursti</surname>
+                     <given-names>Ulla-Kaisa Koivisto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>\AAberg, Lars</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sjöd\'en, Per-Olow</surname>
+                  </name>
+               </person-group>
+               <source>Appetite</source>
+               <volume>40</volume>
+               <issue>2</issue>
+               <fpage>109</fpage>
+               <lpage>117</lpage>
+               <year>2003</year>
+               <pub-id pub-id-type="doi">10.1016/S0195-6663(03)00002-3</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A Comparison of the Nutritional Value, Sensory Qualities, and Food Safety of Organically and Conventionally Produced Foods</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bourn</surname>
+                     <given-names>Diane</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Prescott</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <source>Critical Reviews in Food Science and Nutrition</source>
+               <volume>42</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>34</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1080/10408690290825439</pub-id>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ecological and Toxicological Effects of Inorganic Nitrogen Pollution in Aquatic Ecosystems: A Global Assessment</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Camargo</surname>
+                     <given-names>Julio A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alonso</surname>
+                     <given-names>\'Alvaro</given-names>
+                  </name>
+               </person-group>
+               <source>Environment international</source>
+               <volume>32</volume>
+               <issue>6</issue>
+               <fpage>831</fpage>
+               <lpage>849</lpage>
+               <year>2006</year>
+               <pub-id pub-id-type="doi">10.1016/j.envint.2006.05.002</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic Agriculture, Environment and Food Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Scialabba</surname>
+                     <given-names>Nadia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hattam</surname>
+                     <given-names>Caroline</given-names>
+                  </name>
+               </person-group>
+               <issue>4</issue>
+               <year>2002</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.fao.org/docrep/005/Y4137E/y4137e00.htm\#TopOfPage publisher=Food &amp; Agriculture Org."
+                         xlink:type="simple">http://www.fao.org/docrep/005/Y4137E/y4137e00.htm\#TopOfPage publisher=Food &amp; Agriculture Org.</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <article-title>Environmental Hazards of Nitrogen Loading in Wetland Rice Fields</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ghosh</surname>
+                     <given-names>BC</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bhat</surname>
+                     <given-names>Ravi</given-names>
+                  </name>
+               </person-group>
+               <source>Nitrogen, the Confer-Ns</source>
+               <fpage>123</fpage>
+               <lpage>126</lpage>
+               <year>1998</year>
+               <pub-id pub-id-type="doi">10.1016/C2009-0-07747-2</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Asaduzzaman</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <article-title>Resource Degradation and Sustainable Development in Bangladesh: Some Preliminary Estimates</article-title>
+               <comment>Paper presented in seminar on planning for sustainable development of Bangladesh., Dhaka, Bangladesh.</comment>
+
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Farm Environment Assessment in the Context of Farming Systems in Bangladesh</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hossain</surname>
+                     <given-names>SMA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Salam</surname>
+                     <given-names>MU</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alam</surname>
+                     <given-names>ABMM</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <comment>Paper Presented in the third Asian Farming Systems Symposium</comment>
+
+               <publisher-name>Manila</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Agronomic Management to Combat Declining Soil Fertility in Bangladesh</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hossain</surname>
+                     <given-names>SMA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kashem</surname>
+                     <given-names>MA</given-names>
+                  </name>
+               </person-group>
+               <source>6$^th$ Biennial Conference of the Bangladesh Society of Agronomy, held on</source>
+               <volume>29</volume>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Environmental Impacts of Technological Change in Bangladesh Agriculture: Farmers' Perceptions and Empirical Evidence</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rahman</surname>
+                     <given-names>Sanzidur</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thapa</surname>
+                     <given-names>Gopal B</given-names>
+                  </name>
+               </person-group>
+               <source>Outlook on Agriculture</source>
+               <volume>28</volume>
+               <issue>4</issue>
+               <fpage>233</fpage>
+               <lpage>238</lpage>
+               <year>1999</year>
+               <pub-id pub-id-type="doi">10.1177/003072709902800406</pub-id>
+               <publisher-name>SAGE Publications Sage UK: London, England</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Environmental Impacts of Modern Agricultural Technology Diffusion in Bangladesh: An Analysis of Farmers' Perceptions and their Determinants</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rahman</surname>
+                     <given-names>Sanzidur</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Environmental Management</source>
+               <volume>68</volume>
+               <issue>2</issue>
+               <fpage>183</fpage>
+               <lpage>191</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0301-4797(03)00066-5</pub-id>
+               <year>2003</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Agriculture and Environment: A review, 1972-1992</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Biswas</surname>
+                     <given-names>Margaret R</given-names>
+                  </name>
+               </person-group>
+               <source>Ambio</source>
+               <fpage>192</fpage>
+               <lpage>197</lpage>
+               <year>1994</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/4314198"
+                         xlink:type="simple">https://www.jstor.org/stable/4314198</ext-link>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Importance of Integration in Sustainable Agricultural Systems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Edwards</surname>
+                     <given-names>Clive A</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture, ecosystems &amp; environment</source>
+               <volume>27</volume>
+               <issue>1-4</issue>
+               <fpage>25</fpage>
+               <lpage>35</lpage>
+               <pub-id pub-id-type="doi">10.1016/0167-8809(89)90069-8</pub-id>
+               <year>1989</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effects of Inorganic Adsorbents and Cyclopiazonic Acid in Broiler Chickens</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dwyer</surname>
+                     <given-names>MR</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kubena</surname>
+                     <given-names>LF</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Harvey</surname>
+                     <given-names>RB</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mayura</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sarr</surname>
+                     <given-names>AB</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buckley</surname>
+                     <given-names>Sandra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bailey</surname>
+                     <given-names>RH</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Phillips</surname>
+                     <given-names>TD</given-names>
+                  </name>
+               </person-group>
+               <source>Poultry Science</source>
+               <volume>76</volume>
+               <issue>8</issue>
+               <fpage>1141</fpage>
+               <lpage>1149</lpage>
+               <year>1997</year>
+               <pub-id pub-id-type="doi">10.1093/ps/76.8.1141</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effects of Suspended Sediments on Aquatic Ecosystems</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Newcombe</surname>
+                     <given-names>Charles P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>MacDonald</surname>
+                     <given-names>D Donald</given-names>
+                  </name>
+               </person-group>
+               <source>North American journal of fisheries management</source>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>72</fpage>
+               <lpage>82</lpage>
+               <year>1991</year>
+               <pub-id pub-id-type="doi">10.1577/1548-8675(1991)011&lt;0072:EOSSOA&gt;2.3.CO;2</pub-id>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Water Pollution and Fish Physiology</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Heath</surname>
+                     <given-names>AG</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>CRC. Press</publisher-name>
+               <isbn>9780367448929</isbn>
+               <source></source>
+                       
+               <volume>359</volume>
+               <year>1995</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Is Agricultural Sustainability a Useful Concept?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>James W</given-names>
+                  </name>
+               </person-group>
+               <source>Agricultural Systems</source>
+               <volume>50</volume>
+               <issue>2</issue>
+               <fpage>117</fpage>
+               <lpage>143</lpage>
+               <year>1996</year>
+               <pub-id pub-id-type="doi">10.1016/0308-521X(95)00011-S</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Sustainability in Agriculture: A General Review</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yunlong</surname>
+                     <given-names>Cai</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smit</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+               </person-group>
+               <source>Agriculture, ecosystems &amp; environment</source>
+               <volume>49</volume>
+               <issue>3</issue>
+               <fpage>299</fpage>
+               <lpage>307</lpage>
+               <year>1994</year>
+               <pub-id pub-id-type="doi">10.1016/0167-8809(94)90059-0</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Alternative Agriculture in Bangladesh: A Study of UBINIG, CDA, and PROSHIKA Programmes</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Akter</surname>
+                     <given-names>Nasima</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/13223/Alternative\%20agriculture\%20in\%20Bangladesh\%20a\%20study\%20of\%20UBINIG\%20CDA\%20\%20and\%20PROSHIKA\%20Programmes.pdf?sequence=1&amp;isAllowed=y"
+                         xlink:type="simple">http://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/13223/Alternative\%20agriculture\%20in\%20Bangladesh\%20a\%20study\%20of\%20UBINIG\%20CDA\%20\%20and\%20PROSHIKA\%20Programmes.pdf?sequence=1&amp;isAllowed=y</ext-link>
+               <publisher-name>BRAC Research and Evaluation Division (RED)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Sustainability of Ecological and Conventional Agricultural Systems in Bangladesh: An Assessment Based on Environmental, Economic and Social Perspectives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rasul</surname>
+                     <given-names>Golam</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thapa</surname>
+                     <given-names>Gopal B</given-names>
+                  </name>
+               </person-group>
+               <source>Agricultural systems</source>
+               <volume>79</volume>
+               <issue>3</issue>
+               <fpage>327</fpage>
+               <lpage>351</lpage>
+               <year>2004</year>
+               <pub-id pub-id-type="doi">10.1016/S0308-521X(03)00090-8</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IFOAM</surname>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>IFOAM Annual Report</article-title>
+               <publisher-name>IFOAM</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.ifoam.bio/sites/default/files/page/files/ifoam\_annual\_report\_2005-2006.pdf"
+                         xlink:type="simple">http://www.ifoam.bio/sites/default/files/page/files/ifoam\_annual\_report\_2005-2006.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Higher Antioxidant and Lower Cadmium Concentrations and Lower Incidence of Pesticide Residues in Organically Grown Crops: A Systematic Literature Review and Meta-analyses</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bara\'nski, Marcin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>\'Srednicka-Tober, Dominika</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Volakakis</surname>
+                     <given-names>Nikolaos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Seal</surname>
+                     <given-names>Chris</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sanderson</surname>
+                     <given-names>Roy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stewart</surname>
+                     <given-names>Gavin B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Benbrook</surname>
+                     <given-names>Charles</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Biavati</surname>
+                     <given-names>Bruno</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Markellou</surname>
+                     <given-names>Emilia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Giotis</surname>
+                     <given-names>Charilaos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>British Journal of Nutrition</source>
+               <volume>112</volume>
+               <issue>5</issue>
+               <fpage>794</fpage>
+               <lpage>811</lpage>
+               <pub-id pub-id-type="doi">10.1017/S0007114514001366</pub-id>
+               <year>2014</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Introduction to Organic Farming</article-title>
+               <publisher-name>Ministry of Agriculture, Food and Rural Affairs</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.omafra.gov.on.ca/english/crops/facts/09-077.htm\#define"
+                         xlink:type="simple">http://www.omafra.gov.on.ca/english/crops/facts/09-077.htm\#define</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>DEFRA</surname>
+                  </name>
+               </person-group>
+               <comment>Department for Environment, Food &amp; Rural Affairs</comment>
+                                
+               <article-title>Retrieved 2018, from GOV.UK</article-title>
+               <publisher-name>Ministry of Agriculture, Food and Rural Affairs</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+                         xlink:type="simple">https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Nature and Impact of the Green Revolution in Bangladesh</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hossain</surname>
+                     <given-names>Mahabub</given-names>
+                  </name>
+               </person-group>
+               <volume>67</volume>
+                         
+               <year>1988</year>
+               <fpage>1</fpage>
+               <lpage>146</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ifpri.org/publication/nature-and-impact-green-revolution-bangladesh\#"
+                         xlink:type="simple">https://www.ifpri.org/publication/nature-and-impact-green-revolution-bangladesh\#</ext-link>
+               <publisher-name>International Food Policy Research Institute</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Agrochemicals: Their Effects on Crop Yields and Soil Properties</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sattar</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mian</surname>
+                     <given-names>JA</given-names>
+                  </name>
+               </person-group>
+               <source>Seminar of Soil Scientist Association on Land Degradation and Soil Pollution</source>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Geography of Soils: Formation, Distribution, and Management</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steila</surname>
+                     <given-names>Donald</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pond</surname>
+                     <given-names>Thomas E</given-names>
+                  </name>
+               </person-group>
+               <year>1989</year>
+               <isbn>978-0847675920</isbn>
+               <publisher-name>Rowman &amp; Littlefield</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IFOAM</surname>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>IFOAM Annual Report. Status of Global Organic Market Scenario</article-title>
+               <publisher-name>IFOAM</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.ifoam.bio/sites/default/files/page/files/ifoam\_annual\_report\_2010.pdf"
+                         xlink:type="simple">http://www.ifoam.bio/sites/default/files/page/files/ifoam\_annual\_report\_2010.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The World of Organic Agriculture 2005-Statistics and Emerging Trends</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Willer</surname>
+                     <given-names>Helga</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yussefi</surname>
+                     <given-names>Minou</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>International Federation of Organic Agriculture Movements (IFOAM), DE-Bonn</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Golden Rice</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IRRI</surname>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <institution>IRRI: International Rice Research Institute</institution>
+                                        
+               <comment>Available from:
+            <uri xlink:type="simple">http://irri.org/golden-rice</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Genetically Modified Crops and Food Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Qaim</surname>
+                     <given-names>Matin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kouser</surname>
+                     <given-names>Shahzad</given-names>
+                  </name>
+               </person-group>
+               <source>PloS one</source>
+               <volume>8</volume>
+               <issue>6</issue>
+               <year>2013</year>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0064879</pub-id>
+               <publisher-name>Public Library of Science</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Genetically Modified Foods: Harmful or Helpful?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Whitman</surname>
+                     <given-names>Deborah B</given-names>
+                  </name>
+               </person-group>
+               <source>CSA Discovery Guides</source>
+               <fpage>1</fpage>
+               <lpage>13</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://artsci.ucla.edu/biotech177/reading/GMO\_Harm\_or\_Help.pdf"
+                         xlink:type="simple">http://artsci.ucla.edu/biotech177/reading/GMO\_Harm\_or\_Help.pdf</ext-link>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Food System Sustainability and Food Security: Connecting the Dots</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Capone</surname>
+                     <given-names>Roberto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bilali</surname>
+                     <given-names>H El</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Debs</surname>
+                     <given-names>Philipp</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cardone</surname>
+                     <given-names>Gianluigi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Driouech</surname>
+                     <given-names>Noureddin</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Food Security</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <pub-id pub-id-type="doi">10.12691/jfs-2-1-2</pub-id>
+               <fpage>13</fpage>
+               <lpage>22</lpage>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Risk Assessment of Pesticides used in Bangladesh</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rahman</surname>
+                     <given-names>MH</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alam</surname>
+                     <given-names>MJB</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Civil Engineering</source>
+               <volume>25</volume>
+               <issue>1</issue>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.06.014</pub-id>
+               <fpage>97</fpage>
+               <lpage>106</lpage>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2012</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shamonti</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Reasons Behind Slow Growth of Organic Food Market in Bangladesh</article-title>
+               <comment>R. Murshed, Interviewer</comment>
+                                        
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Economic Supply &amp; Demand</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Whelan</surname>
+                     <given-names>Joseph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Msefer</surname>
+                     <given-names>Kamil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chung</surname>
+                     <given-names>Celeste V</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.com/books?id=Mnj-ZwEACAAJ"
+                         xlink:type="simple">https://books.google.com/books?id=Mnj-ZwEACAAJ</ext-link>
+               <publisher-name>MIT</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>DM</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>10 Reasons Organic Food is so Expensive</article-title>
+               <publisher-name>The Daily Meal. Fox News</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.foxnews.com/food-drink/2012/03/11/10-reasons-organic-food-is-so-expensive.html</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>WB</surname>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>GDP per capita (USD)</article-title>
+               <publisher-name>World Bank</publisher-name>
+               <comment>Retrieved July 23, 2019</comment>
+               <comment>Available from:
+            <uri xlink:type="simple">https://data.worldbank.org/country/Bangladesh</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Who are Organic Food Consumers? A Compilation and Review of Why People Purchase Organic Food</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hughner</surname>
+                     <given-names>Ren\'ee Shaw</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McDonagh</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Prothero</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shultz</surname>
+                     <given-names>Clifford J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stanton</surname>
+                     <given-names>Julie</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Consumer Behaviour: An International Research Review</source>
+               <volume>6</volume>
+               <issue>2-3</issue>
+               <fpage>94</fpage>
+               <lpage>110</lpage>
+               <year>2007</year>
+               <pub-id pub-id-type="doi">10.1002/cb.210</pub-id>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Consumer Perceptions Towards Organic Food</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shafie</surname>
+                     <given-names>Farah Ayuni</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rennie</surname>
+                     <given-names>Denise</given-names>
+                  </name>
+               </person-group>
+               <source>Procedia-Social and Behavioral Sciences</source>
+               <volume>49</volume>
+               <fpage>360</fpage>
+               <lpage>367</lpage>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.1016/j.sbspro.2012.07.034</pub-id>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Comparison of Consumer Perceptions and Preference toward Organic versus Conventionally Produced Foods: A Review and Update of the Literature</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yiridoe</surname>
+                     <given-names>Emmanuel K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bonti-Ankomah, Samuel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>Ralph C</given-names>
+                  </name>
+               </person-group>
+               <source>Renewable Agriculture and Food Systems</source>
+               <volume>20</volume>
+               <issue>4</issue>
+               <fpage>193</fpage>
+               <lpage>205</lpage>
+               <year>2005</year>
+               <pub-id pub-id-type="doi">10.1079/RAF2005113</pub-id>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Organic Farming and Poverty Elimination: A Suggested Model for Bangladesh</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sarker</surname>
+                     <given-names>Md Asaduzzaman</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Itohara</surname>
+                     <given-names>Yoshihito</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>others</surname>
+                  </name>
+               </person-group>
+               <source>Journal of Organic Systems</source>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>68</fpage>
+               <lpage>79</lpage>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.organic-systems.org/journal/Vol\_3(1)/pdf/68-80\%20Sarker.pdf"
+                         xlink:type="simple">https://www.organic-systems.org/journal/Vol\_3(1)/pdf/68-80\%20Sarker.pdf</ext-link>
+               <publisher-name>Journal of Organic Systems</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Consumer Motivations in the Purchase of Organic Food. A Means-end Approach</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raffaele</surname>
+                     <given-names>Zanoli</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Simona</surname>
+                     <given-names>Naspetti</given-names>
+                  </name>
+               </person-group>
+               <source>British Food Journal</source>
+               <volume>104</volume>
+               <issue>8</issue>
+               <fpage>643</fpage>
+               <lpage>653</lpage>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1108/00070700210425930</pub-id>
+               <publisher-name>Emerald Group Publishing Limited</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Market Size, Trade, and Productivity</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Melitz</surname>
+                     <given-names>Marc J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ottaviano</surname>
+                     <given-names>Gianmarco IP</given-names>
+                  </name>
+               </person-group>
+               <source>The Review of Economic Studies</source>
+               <volume>75</volume>
+               <issue>1</issue>
+               <fpage>295</fpage>
+               <lpage>316</lpage>
+               <year>2008</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <pub-id pub-id-type="doi">10.3386/w11393</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
