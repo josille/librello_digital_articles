@@ -1,0 +1,1588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16020009</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Striving for the Impossible? Policing and Territoriality in the Age of the War on Terror</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Hansen</surname>
+                  <given-names>Stig</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Norwegian University of Life Sciences (NMBU), Ås, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>06</day>
+            <month>05</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>9</fpage>
+         <lpage>18</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This article asks how variations of state territorial control have influenced police missions in the recent past, and illustrate how recent police reforms were based on the structure of a ‘western’ type state with clearly identifiable formal state institutions enjoying autonomy, that strive for a form of territorial monopoly over violence. The article argues for moving beyond such assumptions by adopting scenarios based on how territory is controlled, developing four scenarios that can enable foreign-backed police missions to adapt to local circumstances. The article draws upon the typology of territorial control developed by Hansen in 2017/2019, amending this model to be adapted for policing. It argues that each of these scenarios require different strategies and compromises in order to create functioning police forces.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>civil war</kwd>
+            <kwd>community policing</kwd>
+            <kwd>policing</kwd>
+            <kwd>post conflict</kwd>
+            <kwd>territoriality</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>International guidelines for policing tend to put focus upon the state. This generally entails reconstructing institutions based on a perceived ‘western’ type state with clearly identifiable formal autonomy, that strives for a form of monopoly over violence, often taking the viability of such structures for granted [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>]. However, many police missions face a confusing situation where existing state institutions take other forms and interact with other social structures. These social structures include clans, tribes, criminal groups, and armed insurgents involved in governance. In many cases, complex local context has hampered police missions, and the success rates of international missions are troublesome [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>We should not expect the result of police institution building to mirror the state-controlled model prevalent amongst donors, as this also influences the tasks that become important for policing; after all, the key should be the quality of the police services provided given the resources available, rather than the structure of the institutions providing those services.</p>
+         <p>This article argues that a tool from the risk management sector known as scenario planning, can be used to avoid several of these problems. Chris Ruggeri, national managing principal of Deloitte Risk and Financial Advisory, argues that “scenario planning helps the organization embrace uncertainty by developing data-driven stories about the future that can generate more informed decisions” [<xref ref-type="bibr" rid="R15">15</xref>]. Scenarios are here prepared for deployment under different types of circumstances, in the case of police operations, related to variations over the type of state control in question. Subsequently, such scenarios can help to systematize our understanding of situations where state institutions lack importance, and where personal networks are more important.</p>
+         <p>This article will ask how variations in state territorial control influenced police missions in the past, and then develop four scenarios that can enable foreign-backed police missions to adopt to such circumstances. It will first observe the experiences of police missions after the start of the war on terror in 2001, then discuss the problems they have faced, and finally construct four general scenarios and their policy implications. In order to do this, the article draws upon Hansen’s 2017/2019 work on the relationship between jihadist organizations and territorial control, changing and adapting it to policing [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. It does this to build upon Hansen’s typology to offer scenarios as a basis for developing policy interventions.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Police Missions in the Age of the ‘War on Terror’</title>
+         <p>Since 2001, efforts to create or build police institutions have encountered large problems. In Afghanistan, the first plans to (re)create a police force emerged after the G8 Meeting in Geneva in 2002, through a plan for security sector reform (SSR). It established a state monopoly of violence, and a more state-centric approach to Afghan policing where the police forces were to be centrally controlled [<xref ref-type="bibr" rid="R18">18</xref>]. This model was abandoned, as foreign donors understood that the model was ill-suited to the conflict system of Afghanistan, where traditional tribal institutions and armed groups had traditions for implementing justice even before the Afghan Civil War. This model was based on specific assumptions, one of which according to Paris (2004) is that the state has to monopolize coercive power before enforcing the rule of law [<xref ref-type="bibr" rid="R19">19</xref>]. Lawrence (2012) presents the challenges of a state-centric approach to security sector reform in fragile and post conflict areas, stating that the resources available to establish new institutions and sustain them are often not available, as they are higher than the host state’s revenue and the donor’s will to support them [<xref ref-type="bibr" rid="R20">20</xref>]. In many cases, newly established institutions ended up lacking legitimacy, as the local populations simply continued to rely upon other justice providers from the past civil war. In Afghanistan, the prewar state had always delegated justice and law functions to non-state actors in the countryside [<xref ref-type="bibr" rid="R21">21</xref>]. Donors were also unprepared for several of the other conditions that they encountered - for example, the first attempts to create police forces involved the re-deployment of individual policemen to villages without oversight, monitoring, or assistance mechanisms [<xref ref-type="bibr" rid="R22">22</xref>]. There was a grey zone between policing, counter-insurgency, and institution building, and institutions were not always designed for the relevant situation. At times, police forces became synonymous with forces doing counterinsurgency and were too lightly armed and too numerically weak at a local level to survive the pressure from non-state armed groups; at other times, police forces were hijacked by local power-holders [<xref ref-type="bibr" rid="R23">23</xref>].</p>
+         <p>Interestingly, the conditions in Afghanistan had parallels with situations in other countries. In Somalia, policing was seen as a key element in building the new Somali state, and the approach was state-centric from the start [<xref ref-type="bibr" rid="R24">24</xref>]. Moreover, Somalia saw tension resulting from police forces expanding into regions with a presence of jihadist groups. Due to police acting as support troops for African Union offensives, the border between being police and being a soldier was unclear [<xref ref-type="bibr" rid="R25">25</xref>]. In Southern Somalia, a problem occurred when the Somali government and the UNDP planned to create rural police forces; they were found to be too lightly armed to be able to survive [<xref ref-type="bibr" rid="R24">24</xref>]. The police force also had to navigate a society where it faced rival social structures, organizations which implemented justice functions (often better than the police), and areas with tensions and distrust between regional states and the federal state [<xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R26">26</xref>].</p>
+         <p>In Mali, the EU civilian mission in Mali (EUCAP MALI), was launched in January 2015 with a two-year mandate tasked with improving the operational efficiency of the national police [<xref ref-type="bibr" rid="R27">27</xref>]. The police mission was skeptical of expanding into the northern countryside because the area was seen as too insecure for policing [<xref ref-type="bibr" rid="R28">28</xref>].</p>
+         <p>In Iraq, the police were originally trained for a community-policing role with light side arms and light vehicles, but the general lack of security led to them facing insurgents, and suffering heavy losses from 2004-2006 [<xref ref-type="bibr" rid="R26">26</xref>]. Subsequently, heavier police commando units were created after the model of American SWAT forces with more emphasis on combat operations, but these failed in achieving trust from the community [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>].</p>
+         <p>The common denominator of all of these experiences was summed up by David Bayley and Pobert Perito; “in mission after mission … training programs have been put in place like canned food that is assumed to be universally nourishing. In complex environments, however, one size doesn’t fit all” [<xref ref-type="bibr" rid="R32">32</xref>].</p>
+         <p>State centralism, paired with an underlying assumption that the state had a monopoly of coercive power, often characterized the initial stages of security sector reform. Police reformers were unprepared for the fact that they faced alternative, and often rivaling justice providers. Scholars such as Ebo (2007), Baker (2010), Sky (2006), Andersen (2011) underlined the errors of such assumptions, stressing the need for working with state traditions and local conditions, suggesting a hybrid approach, rather than a state-centric approach [<xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>]. Donais (2017) stressed that non-state justice providers, although fluctuating in power, had proven to be more stable than often perceived, making it harder to challenge or circumvent them. Despite increased critique from theorists, the implementation of security sector reform generally remained state-centric [<xref ref-type="bibr" rid="R37">37</xref>]. Moreover, even critics ignored important types of cases facing policy reformers in the field, such as what to do with non-state governed enclaves who were doing policing, as was the case in Somaliland in the Horn of Africa.
+</p>
+         <p>When more hybrid models were deployed they also faced problems, frequently experiencing capture by local strongmen or criminal groups that were in control of central state institutions; implementing transparency and the rule of law also remained a problem.</p>
+         <p>The academic discussion thus had several gaps: the state as an endpoint was kept as an assumption, the practical programs failed to explore state capture by criminal groups, and there was a failure to assess the impact of local strongmen. The question of what the state controlled, and if criminal groups could capture state institutions were central in understanding the above failures, and in understanding the state’s presence in the territories they de-jure should control, as well as the presence of other groups within state institutions.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Introducing Territorial Presence</title>
+         <p>As reported by Matthew Schwartz, newly created or adapted police forces in many places face other networks that perform de-facto policing, such as clans, family networks and tribes [<xref ref-type="bibr" rid="R38">38</xref>]. Denny, for example, sees community police structures as varying according to state involvement, at times taking advantage of non-state actors, and at times operating in areas where the state is weak [<xref ref-type="bibr" rid="R39">39</xref>]. In some settings, a central state leadership may even accept police-like governance structures from various agents, tribes, militias, private military corporations and even criminal networks [<xref ref-type="bibr" rid="R40">40</xref>]. Supporters and facilitators of security sector and police reform still tend to expect a typical configuration of a state, often reassembling the structures found in states such as the United States, France, and China. It is often forgotten that these type of states and state institutions are a rather new invention; China, for example, has large problems with disciplining and controlling its own institutions as recently as the 1980s, and has had unclear borders between police actors and criminal cartels [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R41">41</xref>]. Re-establishing police services in post-conflict situations means that one must deal with a state that at times does not follows the standard expectation of what a state is today. In some states, the elite establishes a neo-patrimonial system to stay in power, not necessarily to create state institutions, but to further their own interests, with little care for the general population [<xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>]. The borders between state and criminal groups might be unclear and blurred, and in some cases, criminal groups might even be a part of this system of governance [<xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>].</p>
+         <p>At times, the state might retract itself completely from parts of a country. This can be a way of saving money for increasing the profit for a ruling elite, for restricted resources, saving lives, or gaining political support, or could be a result of casualty sensitivity. It should not be forgotten that the West also employs similar strategies; in Iraq, the withdrawal of the Occupational Forces into fortified and relatively isolated camps was a product of American strategy in the period from 2003-2006 [<xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>].</p>
+         <p>Even if the state is rich, its peripheral areas can also be very poorly controlled because of geographical features that can make policing costly. For example, a rich country like Norway is unable to properly investigate illegal fishing around its Bovet Island in the South Atlantic, despite the belief amongst experts that this type of crime is extensive in the area [<xref ref-type="bibr" rid="R50">50</xref>]. Norway has simply chosen to retract from the area, save infrequent visits (less than once every two years) by its Navy. In the Malian case, the Mali-Algerian border has few people living in the border areas, generating little income [<xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R52">52</xref>].</p>
+         <p>The income required to provide more control is at times unobtainable, or too large for a state to prioritize. Territorial control might thus vary, and the way that the state retracts its borders with the society around it might be unclear, with parallel channels of governance outside the formal state institutions. In essence, the state could have a limited presence amongst its civilian population, despite being militarily strong.</p>
+         <p>How can one systematize thinking around what kind of presence the government wields in new areas where police forces are to be created? A suitable model has to consider the practical effects of government withdrawal, if this is the case. Such withdrawal can be voluntary, even to the extent that a central government or an occupying force has control if it chooses to and cannot be beaten in open battles, but still chooses to restrict its presence. In some cases, the government might even face an enclave with an ‘anti-state’ and an organization that protests the government’s right to rule, that has established control and produces governance [<xref ref-type="bibr" rid="R53">53</xref>, <xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>]. A good model also has to take into consideration that the government might delegate responsibility to criminal groups to handle issues of governance, or be integrated into the elite at the top of the state.</p>
+         <p>Hansen (2017;2019) studies a form of violent actors, violent jihadist organizations and religiously inspired organizations using violence to achieve their targets [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. While these actors are different from internationally recognized states, Hansen’s model focuses on the relationship between these organizations and territorial control. He argues that these organizations might be accommodated by a state, might exist secretly in areas which the state control, or might be left with vital governance functions in areas where the state neglects the provision of human security to its locals or has full territorial control. This model avoids seeing territory and territorial control as being static, and rather acknowledges it as produced and reproduced, through the very practices of the state and other actors that are discussed in this article. In this view, it is a product of practices existing a priory, yet it also leads to certain conditions and practices that are of relevance to policing. This model acknowledges the concept of territoriality might change and is influenced by the interaction of the relevant actors, yet it also acknowledges that a specific type of territoriality entails a specific set of practices. Following Stuart Elden, territoriality and territory can be understood as being techniques for measuring land and controlling terrain, it becomes a political technology [<xref ref-type="bibr" rid="R60">60</xref>].</p>
+         <p>Hansen’s model seems suited to explore transformations of insurgency groups rather than sketching up scenarios for policing, yet it holds some important insights that can be developed further. Ultimately, the level of security a regime can implement in territories under its theoretical jurisdiction influences territorial control. This control is also influenced by the government’s use of non-government agents in their attempts to do governance, and the type of agents they use. These factors might similarly influence policing, changing the context of the police operation from a good security situation, where the police deal with familiar institutions within a state structure, to a situation where the government either is too weak or absent to provide security, and/or relies on non-state groups as agents performing governance.</p>
+         <p>Hansen bases his model on four scenarios, sketching out variations over the relationship between the violent jihadist organization and the territory in which it operates. In the first scenario, the state allows such an organization to operate and, in many cases, uses it for governance purposes. Al Qaeda, for example, served as trainers for militant groups supported by Sudan during their Sudan years [<xref ref-type="bibr" rid="R17">17</xref>]. In one sense, this scenario mirrors another in which a new police force faces criminal forces integrated with the state it is supposed to serve. In order to draw out the implications for policing, the focus in the scenario has to be slightly modified to a scenario where non-state (and sometimes criminal) actors are performing governance functions. The government in question will employ non-state armed groups; government willingness to cooperate with such groups means that the border between state institutions and non-state institutions has become blurred. In some such cases, crime has been integrated into the government structure and government leaders might be directly involved in crime. Its acceptance by the elite makes policing extremely difficult, not unlike in the state of Chicago in the 1930s [<xref ref-type="bibr" rid="R61">61</xref>]. In Kenya, in 2007, several youth gangs, including the infamous Mungiki and also the less known Taliban youth gang (not to be confused with the Taliban of Afghanistan), were used by politicians in the struggle leading up to the elections [<xref ref-type="bibr" rid="R62">62</xref>]. In his classic book on Warlordism, William Reno sketches out how patrimonialism networks branched into criminal networks in West Africa in the 1990s [<xref ref-type="bibr" rid="R63">63</xref>]. He also describes how informal networks outside the state are more important for many state leaders than the formal institutions of the state; in these cases, crime might be imbedded with the state itself. In order to adapt the scenario here, we might refer to it as the <bold>crime/state governance assemblage</bold> scenario.</p>
+         <p>A second model, referred to as <bold>
+               <italic>the ‘state control’ scenario</italic>
+            </bold>, focuses on the situation faced by policing in Europe, North America, Oceania and East Asia, where the state controls violence through its security institutions, including police structures. In these cases, violent jihadists exist as clandestine networks, are afraid of being investigated, and are focused on organizational security. State institutions dominate the provision of law and order, making this is the ideal type of the ‘modern state’, and the goal that many police reforms and many new police forces attempt to achieve [<xref ref-type="bibr" rid="R40">40</xref>]. Importantly, it often seems to be an end target for attempts to construct and re-construct new police forces; the problem is that there are large parts of the world where the ‘state control’ scenario has never been applied historically, with some areas being hampered by geography, lack of income, and relatively strong alternatives.</p>
+         <p>Hansen introduces a third scenario, ‘semi-territoriality’, where a state has yielded control by retracting itself; the state, or an international occupying force, focuses on security concerns for its troops by sheltering them in bases, and apart from the odd government campaign, has little (if any) presence at the local level. A Yemeni friend of the writer perfectly described this scenario, commenting on pre-war Yemen, claiming, “Yemen is a post office in Sanaa [Yemen’s capital] where I get my passport when I travel abroad, otherwise I don’t see ‘Yemen’ anywhere [<xref ref-type="bibr" rid="R64">64</xref>]. In the original scenario, violent jihadist organizations were allowed advantages, as locals had to relate to them; the violent jihadists would come back when the government pulled back their forces after intermittent campaigns. These campaigns would function like a child squeezing a balloon without ripping it: if you squeeze the insurgents one place, they will flow into another sparsely controlled area, then come back when the government had left. This meant that locals had to adjust to the violent insurgency groups; similarly, a state of semi-territoriality means that locals have to adjust to living with other armed groups than the ones loyal to the state. In such cases, security and justice provision are at times dependent on armed groups in opposition to the state.</p>
+         <p>Such a situation leads to forms of hedging techniques on behalf of the locals, where actors with semi-territorial power have to be accommodated if locals want to stay safe. There are many strategies to achieve this: locals might integrate into groups, try to get their sons or daughters to participate in group activities, or even seek to gain leadership positions. Supplying recruits for armed militias, supplying brides in marriage or paying protection money (tax) might be additional approaches. Local support for state institutions is weakly manifested in these cases, where the state does not have a strong enough presence to protect the loyalists, leaving them at the mercy of hostile armed groups. This happened in Iraq during the first part of the insurgency, where tribal allies of the occupation forces were left to themselves [<xref ref-type="bibr" rid="R48">48</xref>]. The Somali examples illustrate a similar situation, where clans had to interact and even integrate into the Shabaab in order to survive, and there was little support from the government or the forces of the African Union [<xref ref-type="bibr" rid="R65">65</xref>]. The paradox is that these areas are under the military control of the state, and the opposing armed groups do not have the means to defeat the state in open battle, yet the state has retracted from providing day-to-day security.</p>
+         <p>Returning to Hansen’s ideal types, a last scenario describes a case where an insurgency organization is setting up institutions of governance in an area that is under their relatively permanent territorial control. In such a scenario, an organization hostile to the state will perform governance, often including police services. For the purpose of this article, one might expand it from a violent jihadist organization, to including any type of insurgency/cessation organization controlling territory on a more permanent basis, an example being Somaliland in Somalia, or even Ossetia or the trans-Dniester republic in Moldova [<xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>]. Rebel-created governance structures in enclaves can be relatively permanent, and can bring forms of stability as well as policing to a local population. This is not always the case, and might depend on historical conditions, traditions and the stability of rebel control [<xref ref-type="bibr" rid="R68">68</xref>]. In this case, it would be the rebels that do govern the local population, even when they have limited governance institutions, predictability and stability depend on them.</p>
+         <p>We now have four ideal types based on Hansen (2017/2019), which have been slightly altered for the study of police operations and will be outlined. Under certain circumstances, newly created police forces will face a <bold>
+               <italic>state/crime assemblage scenario</italic>
+            </bold>, where crime and state will be intertwined, and where criminal groups have been used for governance purposes. However, under other conditions, a newly created police force might face a state where parallel state institutions are managing to uphold a monopoly of violence; this is reminiscent of the typical situation in North America, North Asia and Europe, which can be called a <bold>
+               <italic>‘state controlled’ scenario</italic>
+            </bold>, where state institutions have the power to define police reform structures due to their position in the international aid and security landscape. In a third and very different scenario known as the <bold>
+               <italic>semi-territorial scenario</italic>
+            </bold>, the state has withdrawn from the day to day dealings in a region, although entering into it in on an irregular basis and wielding superior forces when doing so. The final scenario named <bold>
+               <italic>the enclave scenario</italic>
+            </bold>, is where the state has fully given up control over an area lacks reach, and is in many ways irrelevant, as an alternative structure is performing governance. For the purpose of this article, such a scenario might be named <bold>
+               <italic>the enclave scenario</italic>
+            </bold>. In the original model, Hansen stresses that several of these four scenarios can co-exist within a state: for instance, in some cases, a part of the de jure state can have a state-controlled scenario in the capital city, but have an enclave inside its de-jure territories, as well as lacking a permanent presence in other areas, while working in league with governance networks in other regions.</p>
+         <p>As will be shown, these scenarios demand different structures in the development efficient solutions to policing. The model can say something about the conditions in which police operate under and its variations, and perhaps more clearly underline the particular necessities for policing in each case.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- The State/Crime Assemblage Scenario</title>
+         <p>When doing research in Kenya for the EU-financed Horizon 2020 policing project, one reoccurring criticism from several interviews with the United Nations UNODC and UNDP programs was that these programs were ‘policy blind’ [<xref ref-type="bibr" rid="R69">69</xref>]. The political strata was seen to be unwilling to discard criminal practices and criminal connections, instead leaving police reform as an exercise in fulfilling bureaucratic checkpoints. The NGOs underlined that the ability to handle crime becomes less important if one lacks the will, partly due to the involvement of elites in criminal activities. In one sense, the comments point to one of the essential features of this scenario, namely the lack of will to handle criminal networks despite having the resources to do so [<xref ref-type="bibr" rid="R70">70</xref>]. Police reform quickly becomes merely an exercise for organizations to attempt to follow a list of benchmarks without understanding the situation; such material capacity building doesn’t necessarily transform into better policing. Attempts to use a standard set of strategies employed in East Asia, Europe, North Asia, Oceania or North America, might be counterproductive and even dangerous to policing, as the institutions and structures vary considerably.</p>
+         <p>To venture into a state-to-state-bilateral support program, or indeed a United Nations/regional organization to state program, becomes a dangerous step where checks and balances become essential. To read and understand the local situation becomes essential, requiring a broad dialogue locally, as well as particular understanding of the links between the police and the criminal networks, the networks doing governance, which non-state networks that are important, and the interaction between formal institutions and informal channels. In this scenario, information triangulation becomes very important, and a proper mapping of the</p>
+         <p>informal institutions that are important for the governance, and the legality of these institutions according to national and international law is essential.
+There are a number of potential key allies in police reform: for example, human rights groups could be act as a check on the police forces, while state institutions that are ‘cleaner’ (even cadre units within the police itself, isolated from the rest of the police forces) can be expanded and supported. Religious leaders with integrity could also be allies, as could journalists. In such situations, it is important to remember that the institutions with the ability to perform checks and balances in relation to the police could be in danger of facing violence from the police or allied gangs, although international pressure and international exposure might give some protection to such institutions. In order to achieve all of this, it is necessary to have a permanent and robust presence on the ground for international NGOs and other entities involved in police reform. Such presence becomes important in obtaining firsthand knowledge of the economic links and network links between individuals within the police, the government, various criminal groups, non-state commercial actors.</p>
+         <p>The State/crime assemblage must be understood and the links and economic incentives sustaining them must be disentangled. To do so enables actors involved in police reform to block negative economic incentives, or to alter them in support of a police force disentangled from criminal groups and clientism. A paradox in this situation is that a general increase in police payment might alleviate some of the problems facing the police forces, as policemen become less dependent on criminal activities for income generation. If checks and balances fail to be implemented, international engagement might actually aid the buildup of criminal groups.</p>
+         <p>Last but not least, a scenario might entail political reform or even political change - these situations have scared away international donors in the past. Political change is sensitive, can be seen as undue foreign interference in domestic politics and can lead to sanctions from the local political elite. Moreover, material support for the police forces can disappear in corruption or end with criminal groups [<xref ref-type="bibr" rid="R71">71</xref>].</p>
+         <p>While this scenario is challenging, an approach that includes focus on political reform and checks and balances on the police forces, with emphasis on understanding local conditions, might enhance the probabilities for success. Most importantly, international police reformers must understand that countermeasures may be necessary in such an environment, and be willing to implement countermeasures, even when it means challenges from local political elites. Strengthening policing includes pressure for political change and making important decisions over whether parallel governance systems should be included in efficient policing or be dismantled or detached from governance.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- The State-Controlled Scenario</title>
+         <p>A more common approach focusing on the state as the security provider, as it was conducted in Bosnia, might serve well in such a scenario [<xref ref-type="bibr" rid="R72">72</xref>]. There will be pitfalls as local authoritarian traditions can create human rights violations, as well as a lack of contact between the police and the local communities. However, many of the experiences of common donors will be highly relevant, as the scenario reassembles police reform work in Europe, North-East Asia, Oceania and North America, where most donors came from. This is closer to the one-size fits all approach that several governments have promoted in the past. Experiences from donor countries and their recent attempts on police reform can be employed [<xref ref-type="bibr" rid="R73">73</xref>]. Checks and balances do matter, as do efforts to improve transparency inside the police forces’ attempts to improve community interaction.</p>
+         <p>Although this type of scenario is common in the West, western examples demonstrate its shortcomings. For example, trust between police and communities becomes very important, to ensure proper communication and that communities in general feel protected; local understanding is very important in this sense [<xref ref-type="bibr" rid="R74">74</xref>, <xref ref-type="bibr" rid="R75">75</xref>, <xref ref-type="bibr" rid="R76">76</xref>]. In the past, the lack of such communication, in many cases created by the lack of trust, and the absence of a map of large-scale connections and overlaps between the police and crime groups have hampered police work in Europe and United States [<xref ref-type="bibr" rid="R77">77</xref>, <xref ref-type="bibr" rid="R78">78</xref>, <xref ref-type="bibr" rid="R79">79</xref>, <xref ref-type="bibr" rid="R80">80</xref>]. Top-down reforms become easier to implement due to hierarchy, while centralized police reform becomes easier to implement as it centralizes the monopoly of violence.</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- The Semi-Territorial Scenario</title>
+         <p>In parts of Somalia such as the rural areas in the Bay-Bakool area or central Mudug, or in southern Algeria, it is difficult to spot any state institutions. The state, police forces included, is absent, save the odd military campaign or patrols; for locals, the police either do not exist or exist on an ad hoc basis. The state has a solid presence in many of these areas in the form of strong military units that are superior to insurgency forces, but do not engage in policing and providing local security at a regular basis.</p>
+         <p>Local power holders as insurgents become important providers of security, either by attempting to create some form of security services for locals, or through becoming the producers of insecurity that locals have to envisage strategies in order to appease. As previously mentioned, such strategies can include appeasement through providing recruits, tax, or wives to insurgent outfits, which allow locals to embed themselves into insurgent groups and avoid sanctions through the creation of networks and connections. Forced recruitment and marriage might also take place.</p>
+         <p>In some cases, other more informal governance entities, such as clans or tribes, might provide some police/security functions and their own justice mechanisms. However, several of these mechanisms might have serious drawbacks when it comes to gender issues and human rights. This means that any police reform will face a set of challenges, the first and foremost being the lack of will and capacity to establish the state, including the police in these areas. In some cases, it might not be cost-effective for the state to deploy in the areas. In other cases, it might be costly in the short term, but cost-effective in the long term - for example, by denying guerilla movements on the ground so the state will need convincing before deploying resources. When the state builds up a presence, it cannot be done piecemeal, as insurgents and local power holders would have the power to fight off small police forces. In Somalia, for example, a plan for three to five person police forces in the countryside had to be abandoned because of fears that Shabaab units would crush the Somali police. In Iraq, lightly armed community police units faced the same problem [<xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R24">24</xref>]. Police forces in the initial stage must be equipped to defend themselves from heavy attacks (which hampers their investigative efforts), and have to look more like heavy armed militias in order to survive.</p>
+         <p>Community contacts become important, as do the provision of police services to the locals. Local communities will most likely face severe deprecations if seen supporting new police forces before a secure environment is created, and thus hostility from the local communities, with severe reprisals against ethnic groups supporting the police becomes likely. Steps to protect local allies must be enhanced, and possible military units might be involved in creating a security environment more conducive to normal policing. Standardized police programs based on experiences and techniques from Europe, North Asia, North America and Oceania are less suited for this type of police reform, and counterinsurgency techniques focusing on protecting local populations and security forces must be given priority. Police units, also community police, have to be heavily coordinated with other security forces in order to receive quick reinforcements if needed, and have to have heavy armaments.</p>
+         <p>Local allies, if supported and provided with ample security, can be valuable in upholding justice. Local clan mechanisms, for example, can be used to relieve the police of duties and to act as force multipliers. In the case of lack of state capacity or local legitimacy, such use of local clan mechanisms or community policing programs might become the only viable option in justice provision in the foreseeable future, and might have been so in the past. They might be the nucleus of a new policing regime that does not reassemble any Westphalian type of state and yet be the only realistic alternative. However, this solution has many drawbacks: for example, human rights shortcomings, in the form of discrimination against females or ethnic minorities, are in many ways entrenched in traditional governance systems as clans or tribal entities. Such problems have been addressed by dialogue in the past, and local structures can be flexible and possibly influenced through interaction with outsiders [<xref ref-type="bibr" rid="R81">81</xref>]. Also, local allies often need to defend themselves and their institutions against insurgents and criminal groups; if this is not forthcoming, these allies might disappear when outside support is still needed.</p>
+         <p>In such areas, efforts to create a secure environment conducive to policing should be prioritized over normal police duties. The scenario is simply not fit for ‘ordinary’ police forces, something that must be considered when designing police forces for cases reassembling the traits of this scenario. In such zones, law and order and the sense of ordinary justice for the local population is essential. Violent organizations such as the Shabaab, the Lord’s Resistance Army and the Allied Democratic Forces have used such zones for survival and have staged large attacks out of them [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>].</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- The Enclave Scenario</title>
+         <p>The enclave scenario also brings large dilemmas to police reform, some of which are political. For instance, as when the Islamic State governed parts of Iraq and Syria, the local power holder might provide forms of justice and police services, but will transgress human rights and have aggressive goals [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>]. In such cases, an engagement in building up police forces or reforming police will be seriously hampered by hostility from potential donors. Moreover, the survival of the enclave could be in doubt. Local actors that are not accepted by a majority of international states can nevertheless adroitly provide police services to the local population, which could present a major dilemma is if such enclaves also should be a possible nucleus for creating local police forces. This presents a political question: is it state-building or the provision of police services that should be the priority? After all, an enclave might have a better system for provision of police services than the state it nominally is a part of. Supporting enclave policing based on the rebel faction in control might be the best way to provide services locally, but could counter-act state-building processes, and creating the appearance of taking sides in a civil war situation. This creates its own issues – often, the rebel ruler will also be unacceptable to the international community.</p>
+         <p>This is similar to the problems between Somalia and the self-declared state of Somaliland, where the latter, although not internationally recognized, produces more extensive and better services (including policing). The Somaliland/Somalia situation has been largely solved by seeking the approval of the government of Somalia for projects implemented in Somaliland, and by standardizing equipment and education in projects targeting both the enclave, and forces outside of the enclave. In other instances, such as the Kurdish self-governed areas or in the case of pre-independence Kosovo, the West chose to back police reform: in the first case as a part of a more federal arrangement, but also as an acceptance that the lack of trust in Iraq made national policing in the Kurdish areas impossible.
+A secondary question arises in whether an enclave could be a part of a state-building effort? The power dynamics within international relations are a central force within this question, especially the consideration of which powers support the enclave and which powers support the state’s leadership. International politics will thus limit the possibilities for international engagement. However, it should be noted that engagement with enclaves might be highly useful - in the case of pre-independence Kosovo, the West chose to back police reform, in the first case as a part of a more federal arrangement, but also as an acceptance that the lack of trust. In Iraq, this strategy made national policing in the Kurdish areas impossible. In the second case, the purpose was to build up a new state. In Somalia, one also chose to engage Somaliland, despite the second entity lacking backing for independence [<xref ref-type="bibr" rid="R24">24</xref>]. The Federal system in Somalia was to a certain extent based on enclave thinking, as the central government lacked the necessary trust to do large-scale policing in regional entities such as the Juba State and Puntland. The solution was found in creating both local police handled by the enclave, as well as a federal police structure handling border patrols and investigations in the capital, all while including weak mechanisms of centralization in the process. These mechanisms included common training sessions, common uniforms, etc [<xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R24">24</xref>].</p>
+         <p>When dealing with an enclave that is not aggressive and avoids substantial human rights violations, the question also turns political. Should human security and the service provision given to locals count more than vague dreams of future centralization and central state building? Can federalization be a tool to make police reform acceptable to international actors? Will police reform inside the enclave really undermine state building, when the central state lacks presence in the enclave anyway? Can the Somalia/Somaliland solution be a model in other cases? If the political issues are overcome, the police reform efforts might be efficient. Moreover, as illustrated in the above discussions, there are thus possible mechanisms that can promote the integration of the police forces from the enclave into a larger police force.</p>
+      </sec>
+      <sec id="s8">
+         <title>8.- Conclusions</title>
+         <p>It is easy to develop general practices for police reform which are seen as globally valid. However, research literature rightly suggests that local conditions must be taken into consideration when designing a police reform program. Additionally, reform must be open for a variety of intentions from the local elite, and it must be able to handle the level of violence taking place locally. Today, police forces in peacekeeping missions are required to undergo considerable training before they go into deployment, and UN organizations have developed common training programs [<xref ref-type="bibr" rid="R82">82</xref>], such as the Standardized Generic Training Modules (SGTMs), the Core Pre-deployment Training Materials (CPTM) and the Specialized Training Materials (STMs). Although these programs are designed for peacekeeping and not for police reform (and therefore have an operational focus), they illustrate a lack of local adaptation.</p>
+         <p>A typology as presented here can help police experts go beyond these standardized curriculums to understand that variations in context should influence the structure of a police reform or of new institutions. Additionally, the typology will enable individuals in the field to think systematically about variables that influence structure and training. The ideal type of scenarios will hopefully also serve as a point of departure for future discussions that might refine them.</p>
+         <p>These scenarios serve as a useful reminder that police reform is influenced by both global and local politics, and that politics often must to be addressed in order to achieve successful results (yet actors such as the UN often shun away from this). It also highlights the uncomfortable fact that the local provision of basic human security and policing at times can be thwarted by or sacrificed for a larger state-building agenda, even where a centralized state might not have existed in the past. These scenarios remind us of the importance of taking the locals seriously, and seeing possibilities as well as challenges in local dynamics. To study variations over the territorial control variable might help in better understanding the local challenges faced by the police in many countries in the world, and to understand how these challenges can be met.</p>
+      </sec>
+      <sec id="s11">
+         <title>11.- Acknowledgements</title>
+         <p>The article is produced as a part of the ICT4COP project “Community-Based Policing and Post-Conflict Police Reform” A Horizon 2020 Research and Innovation Project. Thanks to Ingrid Nyborg for comments on the early drafts of this article. I would also like to thank the EUs ICT4COP program for funding.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Guidelines: Police capacity building and development</article-title>
+               <publisher-name>Department of Peacekeeping operations, Department of Field Support, United Nations</publisher-name>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/sgf-guidelines_police_cbd-2015.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/sgf-guidelines_police_cbd-2015.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               
+                                        <institution>United Nations Police</institution>
+               <comment>Available from:
+            <uri xlink:type="simple">https://police.un.org/en</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/1468-2346.12070</pub-id>
+               <year>2013</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>89</volume>
+               <issue>5</issue>
+               <fpage>1247</fpage>
+               <lpage>1264</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dumper</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing Divided Cities: Stabilization and Law Enforcement in Palestinian East Jerusalem</article-title>
+               <source>International Affairs)</source>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Arriola</surname>
+                     <given-names>Leonardo</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>147</fpage>
+               <lpage>168</lpage>
+               <article-title>Protesting and Policing in a Multiethnic Authoritarian State: Evidence from Ethiopia</article-title>
+               <volume>45</volume>
+               <source>Comparative Politics</source>
+               <pub-id pub-id-type="doi">10.5129/001041513804634271</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0022278x08003200</pub-id>
+               <year>2008</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>46</volume>
+               <issue>2</issue>
+               <fpage>215</fpage>
+               <lpage>234</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Dialectic of Police Reform in Nigeria</article-title>
+               <source>The Journal of Modern African Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="report" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.21236/ada372330</pub-id>
+               <year>1998</year>
+               <publisher-name>Defense Technical Information Center</publisher-name>
+               <publisher-loc>Santa Monica, CA, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Oakley</surname>
+                     <given-names>Robert B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dziedzic</surname>
+                     <given-names>Michael J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldberg</surname>
+                     <given-names>Eliot M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing the New World Disorder: Peace Operations and Public Security</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Establishing Law and Order After Conflict</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>Seth G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>Jeremy M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rathmell</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Riley</surname>
+                     <given-names>K. Jack</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>RAND Corporation Report</publisher-name>
+               <publisher-loc>Santa Monica, CA, USA</publisher-loc>
+               <comment>MG-374-RC</comment>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Where Is the Lone Ranger When We Need Him? America's Search for a Postconflict Stability Force, Washington, D.C.</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <year>2004</year>
+               <fpage>434</fpage>
+               <lpage>435</lpage>
+               <volume>37</volume>
+               <pub-id pub-id-type="doi">10.1017/S0020743805302145</pub-id>
+               <issue>3</issue>
+               <source>International Journal of Middle East Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Perito</surname>
+                     <given-names>RM</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780199327874.001.0001</pub-id>
+               <year>2013</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Al-Shabaab in Somalia</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Modern Piracy as a Subject of Academic Enquiry</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.e-ir.info/2008/12/19/modern-piracy-as-a-subject-of-academic-enquiry/"
+                         xlink:type="simple">https://www.e-ir.info/2008/12/19/modern-piracy-as-a-subject-of-academic-enquiry/</ext-link>
+               <source>E-International Relations</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14678802.2014.963391</pub-id>
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>621</fpage>
+               <lpage>650</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Singh</surname>
+                     <given-names>Danny</given-names>
+                  </name>
+               </person-group>
+               <article-title>Corruption and Clientelism in the Lower Levels of the Afghan Police</article-title>
+               <source>Conflict, Security &amp; Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Law</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Malian Crisis: Thinking More Broadly about the Security Sector Agenda, Part III</article-title>
+               <year>2013</year>
+               <publisher-name>Security Sector Reform Resource Center</publisher-name>
+               <publisher-loc>Kitchener, Ontario, Canada</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ssrresourcecentre.org/2016/11/10/the-malian-crisis-a-security-sector-perspective/"
+                         xlink:type="simple">https://www.ssrresourcecentre.org/2016/11/10/the-malian-crisis-a-security-sector-perspective/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goodhand</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Akimi</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Counterinsurgency, Local Militias and State Building in Afghanistan</article-title>
+               <publisher-name>United States Institute of Peace</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <year>2014</year>
+               <publisher-name>Peace Works</publisher-name>
+               <comment>90</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.usip.org/sites/default/files/PW90-Counterinsurgency-Local-Militias-and-Statebuilding-in-Afghanistan.pdf"
+                         xlink:type="simple">https://www.usip.org/sites/default/files/PW90-Counterinsurgency-Local-Militias-and-Statebuilding-in-Afghanistan.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Police Reform in Iraq Challenges and Lessons Learned, Part I</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vandemoortele</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <annotation>
+                  <p>Security Sector Reform Resource Centre Blog Series</p>
+               </annotation>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.linkedin.com/pulse/police-reform-iraq-current-challenges-lessons-learned-paul?articleId=9054036903183609663"
+                         xlink:type="simple">https://www.linkedin.com/pulse/police-reform-iraq-current-challenges-lessons-learned-paul?articleId=9054036903183609663</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Staff Writer Scenario ``Planning and Wargaming for the Risk Management Toolkit'' Deloitte risk Management/ Insights 2019</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0095327x17740086</pub-id>
+               <year>2017</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>44</volume>
+               <issue>4</issue>
+               <fpage>587</fpage>
+               <lpage>605</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Unity Under Allah? Cohesion Mechanisms in Jihadist Organizations in Africa</article-title>
+               <source>Armed Forces &amp; Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2019</year>
+               <publisher-name>Hurst</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>SJ.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Horn, Sahel and Rift. Fault-lines of the African Jihad</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ayub</surname>
+                     <given-names>Fatima</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kouvo</surname>
+                     <given-names>Sari</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wareham</surname>
+                     <given-names>Rachel</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Iniciative for Pacebuilding IfP, European Union</article-title>
+               <publisher-name>International Center for Transitional Justice</publisher-name>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ictj.org/sites/default/files/ICTJ-Afghanistan-Security-Reform-2009-English.pdf"
+                         xlink:type="simple">https://www.ictj.org/sites/default/files/ICTJ-Afghanistan-Security-Reform-2009-English.pdf</ext-link><article-title>Country Case Study: Afghanistan. Security Sector Reform in Afghanistan</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>At War's End: Building Peace after Civil Conflict</article-title>
+               <pub-id pub-id-type="doi">10.1017/CBO9780511790836</pub-id>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Paris</surname>
+                     <given-names>Roland</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4337/9781781955536.00015</pub-id>
+                                        
+               <comment>Available from:
+            <uri xlink:type="simple">https://doi.org/10.4337%2F9781781955536.00015</uri>.
+        </comment>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <fpage>115</fpage>
+               <lpage>134</lpage>
+                                        
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schnabel</surname>
+                     <given-names>Albrecht</given-names>
+                  </name>
+               </person-group>
+               <article-title>Security Sector Reform as a Manifestation of the Security-development Nexus? Towards Building SSR Theory</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>A new institution, the Afghan Local Police (ALA) was established to counter the problems highlighted by Lawrence. The ALA was a more local level force, established and recruited in interaction between local elders, Special Forces and local government officials. However, in practice the process was hijacked by local armed groups and strongmen</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>9780833041333</isbn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rand.org/pubs/monographs/MG595.html"
+                         xlink:type="simple">https://www.rand.org/pubs/monographs/MG595.html</ext-link>
+               <year>2008</year>
+               <volume>4</volume>
+               <publisher-name>University of Arizona Libraries</publisher-name>
+               <article-title>Counterinsurgency in Afghanistan</article-title>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Jones</surname>
+                     <given-names>Seth G.</given-names>
+                  </name>
+               </person-group>
+                                
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5334/sta.gg</pub-id>
+               <year>2015</year>
+               <publisher-name>Ubiquity Press, Ltd.</publisher-name>
+               <volume>4</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vincent</surname>
+                     <given-names>Sam</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weigand</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hakimi</surname>
+                     <given-names>Hameed</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Afghan Local Police - Closing the Security Gap?</article-title>
+               <source>Stability: International Journal of Security &amp; Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wright</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <publisher-name>United Nations Office on Drugs and Crime Report (UNODC)</publisher-name>
+               <article-title>An Overview of Trafficking in Persons (TiP) and Smuggling of Migrants (SoM) in Somalia and the Capacity of Criminal Justice Actors to Respond</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/26470391</pub-id>
+               <year>2015</year>
+               <publisher-name>Institute for National Strategic Security, National Defense University</publisher-name>
+               <volume>5</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Carter</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guard R.</surname>
+                  </name>
+               </person-group>
+               <article-title>Upcoming Inflection Point: Tracing and Optimizing the Amisom Trajectory in Somalia</article-title>
+               <source>Prism</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/03056240802569268</pub-id>
+               <year>2008</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>35</volume>
+               <issue>118</issue>
+               <fpage>585</fpage>
+               <lpage>598</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Private Security &amp; Local Politics in Somalia</article-title>
+               <source>Review of African Political Economy</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Law</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Malian Crisis: The Stumbling Stabilization Effort</article-title>
+               <year>2015</year>
+               <publisher-name>Security Sector Reform Resource Center</publisher-name>
+               <publisher-loc>Kitchner, Canada</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10439463.1997.9964779</pub-id>
+               <year>1997</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>7</volume>
+               <issue>4</issue>
+               <fpage>291</fpage>
+               <lpage>308</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing, Enforcement and Low Intensity Conflict</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>the examples serve as an excellent illustration of Alice Hill���s idea of how a threshold level of violence changes police structures. She argues that when a certain level of violence is reached, normal policing is not possible. What you then get is a police force that is a part of a military counter insurgency force, a paramilitary force commanded by the state with little contact with the local communities</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>88</fpage>
+               <lpage>107</lpage>
+               <article-title>Somalia Works: Police Development as State Building</article-title>
+               <volume>113</volume>
+               <source>African Affairs</source>
+               <pub-id pub-id-type="doi">10.1093/afraf/adt068</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Hills for example points to the difference between Puntland and Somaliland in Somalia (Somaliland has declared independence from Somalia, this have not been accepted by any state), where the peace in Somaliland ensured that it was easier to implement western standards</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>1588267296</isbn>
+               <year>2010</year>
+               <volume>3</volume>
+               <publisher-name>Lynne Rienner</publisher-name>
+               <article-title>The Police in War: Fighting Insurgency, Terrorism, and Violent Crime</article-title>
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bayley</surname>
+                     <given-names>DH</given-names>
+                  </name>
+                  <name>
+                     <surname>Perito</surname>
+                     <given-names>RM</given-names>
+                  </name>
+               </person-group>
+                                
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14678800601176485</pub-id>
+               <year>2007</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>27</fpage>
+               <lpage>60</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ebo</surname>
+                     <given-names>Adedeji</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Role of Security Sector Reform in Sustainable Development: Donor Policy Trends and Challenges</article-title>
+               <source>Conflict, Security &amp; Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <source>The Future of Security Sector Reform</source>
+               <article-title>The Future is Non State</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Sedra</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Centre for International Governance Innovation</publisher-name>
+               <year>2010</year>
+               <isbn>978-0-9867077-0-4</isbn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cigionline.org/sites/default/files/the_future_of_security_sector_reform.pdf"
+                         xlink:type="simple">https://www.cigionline.org/sites/default/files/the_future_of_security_sector_reform.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/03071840608522853</pub-id>
+               <year>2006</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>151</volume>
+               <issue>6</issue>
+               <fpage>22</fpage>
+               <lpage>26</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sky</surname>
+                     <given-names>Emma</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Lead Nation Approach</article-title>
+               <source>The RUSI Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <isbn>978-87-7605-482-3</isbn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.econstor.eu/bitstream/10419/122261/1/68472118X.pdf"
+                         xlink:type="simple">https://www.econstor.eu/bitstream/10419/122261/1/68472118X.pdf</ext-link>
+               <year>2011</year>
+               <issue>31</issue>
+               <fpage>4</fpage>
+               <lpage>17</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andersen</surname>
+                     <given-names>Louise Riis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Security Sector Reform and the Dilemmas of Liberal Peacebuilding</article-title>
+               <source>DIIS working paper</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5334/sta.553</pub-id>
+               <year>2017</year>
+               <publisher-name>Ubiquity Press, Ltd.</publisher-name>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Donais</surname>
+                     <given-names>Timothy</given-names>
+                  </name>
+               </person-group>
+               <article-title>Engaging Non-State Security Providers: Whither the Rule of Law?</article-title>
+               <source>Stability: International Journal of Security and Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.globalcenter.org/wp-content/uploads/2015/05/policing-and-in-security-in-fragile-and-conflict-affected-settings.pdf"
+                         xlink:type="simple">https://www.globalcenter.org/wp-content/uploads/2015/05/policing-and-in-security-in-fragile-and-conflict-affected-settings.pdf</ext-link>
+               <year>2015</year>
+               <comment>12</comment>
+               <fpage>6</fpage>
+               <lpage>25</lpage>
+               <publisher-name>Knowledge Platform Security &amp; Rule of Law</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schwartz</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing and (In)security in Fragile and Conflict-affected Settings</article-title>
+               <publisher-name>Global Center on Cooperate Security Report</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Denney</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <comment>10</comment>
+               <publisher-name>Overseas Development Institute (ODI)</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <article-title>Securing communities? Redefining Community Policing to Achieve Results</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/1043946032000050553</pub-id>
+               <year>2002</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>21</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goldsmith</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing Weak States: Citizen Safety And State Responsibility</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The Chinese coast guard was involved in Piracy</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chabal</surname>
+                     <given-names>Patrick</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daloz</surname>
+                     <given-names>Jean-Pascal</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <article-title>Africa Works: Disorder as Political Instrument</article-title>
+               <isbn>978-0-253-21287-0</isbn>
+               <publisher-name>The International African Institute and Indiana University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/oxfordjournals.afraf.a007947</pub-id>
+               <year>1998</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>97</volume>
+               <issue>388</issue>
+               <fpage>305</fpage>
+               <lpage>341</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Berman</surname>
+                     <given-names>B.J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Ethnicity, Patronage and the African State: The Politics of Uncivil Nationalism</article-title>
+               <source>African Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>For example in Northern Mexico, or in Russia</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Poppa</surname>
+                     <given-names>Terrence E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lupsha Peter</surname>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <article-title>Drug Lord: The Life and Death of a Mexican Kingpin</article-title>
+               <isbn>0966443004</isbn>
+               <publisher-name>Cinqo Puntos Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Astorga</surname>
+                     <given-names>Luis</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>El Siglo de las Drogas</article-title>
+               <isbn>9786073109000</isbn>
+               <publisher-name>Grijalbo</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Porter</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <annotation>
+                  <p>(accessed 1 December 2016)</p>
+               </annotation>
+               <article-title>Gangs of Russia: Ruthless Mafia Networks Extending their Influence</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.ibtimes.co.uk/gangs-russia-ruthless-mafia-networks-extending-their-influence-1495644"
+                         xlink:type="simple">http://www.ibtimes.co.uk/gangs-russia-ruthless-mafia-networks-extending-their-influence-1495644</ext-link>
+               <source>International Business Times</source>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1162/isec\_a\_00087</pub-id>
+               <year>2012</year>
+               <publisher-name>MIT Press - Journals</publisher-name>
+               <volume>37</volume>
+               <issue>1</issue>
+               <fpage>7</fpage>
+               <lpage>40</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Biddle</surname>
+                     <given-names>Stephen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Friedman</surname>
+                     <given-names>Jeffrey A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shapiro</surname>
+                     <given-names>Jacob N.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Testing the Surge: Why Did Violence Decline in Iraq in 2007?</article-title>
+               <source>International Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Geneva Conventions of 12 August 1949</article-title>
+               <publisher-name>International Commitee of the Red Cross (ICRC)</publisher-name>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <fpage>224</fpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.icrc.org/en/doc/assets/files/publications/icrc-002-0173.pdf"
+                         xlink:type="simple">https://www.icrc.org/en/doc/assets/files/publications/icrc-002-0173.pdf</ext-link><annotation>
+                  <p>Haag protocol IV, Art. 43 and the Geneva Convention IV, Arts. 51 &amp; 54</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.seaaroundus.org/doc/publications/chapters/2015/Padilla-et-al-Bouvet-Is.pdf"
+                         xlink:type="simple">http://www.seaaroundus.org/doc/publications/chapters/2015/Padilla-et-al-Bouvet-Is.pdf</ext-link>
+               <year>2015</year>
+               <publisher-name>Marine Fisheries Catches of SubAntarctic Islands, 1950-2010, Palomares</publisher-name>
+               <volume>23</volume>
+               <issue>1</issue>
+               <fpage>21</fpage>
+               <lpage>30</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Padilla</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zylich</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zeller</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pauly</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Fish and Fisheries of Bouvet Island</article-title>
+               <source>Fisheries Centre Research Report</source>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5334/sta.ea</pub-id>
+               <year>2014</year>
+               <publisher-name>Ubiquity Press, Ltd.</publisher-name>
+               <volume>3</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alda</surname>
+                     <given-names>Erik</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sala</surname>
+                     <given-names>Joseph L.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Links Between Terrorism, Organized Crime and Crime: The Case of the Sahel Region</article-title>
+               <source>Stability: International Journal of Security &amp; Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.foreignpolicyjournal.com/2015/10/30/the-sahel-libya-and-the-crime-terror-nexus/"
+                         xlink:type="simple">https://www.foreignpolicyjournal.com/2015/10/30/the-sahel-libya-and-the-crime-terror-nexus/</ext-link>
+               <year>2015</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Duffy</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <month>Oct 30</month>
+               <article-title>The Sahel, Libya, and the Crime-Terror Nexus</article-title>
+               <source>Foreign Policy Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203834510</pub-id>
+               <year>2012</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Caspersen</surname>
+                     <given-names>Nina</given-names>
+                  </name>
+               </person-group>
+               <article-title>Unrecognized States in the International System</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+               </person-group>
+               <article-title>Harakat Al Shabaab, The History of an African Islamist Group 2005-2013</article-title>
+               <source>Hurst</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lia</surname>
+                     <given-names>Brynjar</given-names>
+                  </name>
+               </person-group>
+               <article-title>Understanding Jihadi Proto-States</article-title>
+               <source>Perspectives on Terrorism</source>
+               <volume>9</volume>
+               <issue>4</issue>
+               <year>2015</year>
+               <issn>2334-3745</issn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.terrorismanalysts.com/pt/index.php/pot/article/view/441"
+                         xlink:type="simple">http://www.terrorismanalysts.com/pt/index.php/pot/article/view/441</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/03071847.2014.928016</pub-id>
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>159</volume>
+               <issue>3</issue>
+               <fpage>62</fpage>
+               <lpage>68</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>de Castelli, Laurent</surname>
+                  </name>
+               </person-group>
+               <article-title>Mali: From Sanctuary to Islamic State</article-title>
+               <source>The RUSI Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>9781250080905</isbn>
+               <year>2016</year>
+               <publisher-name>St. Martin's Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McCants</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <article-title>The ISIS Apocalypse: The History, Strategy, and Doomsday Vision of the Islamic State</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>1941393578</isbn>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.reganarts.com/books/2015/isis-inside-the-army-of-terror/"
+                         xlink:type="simple">http://www.reganarts.com/books/2015/isis-inside-the-army-of-terror/</ext-link>
+               <publisher-name>USA: Regan Arts</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weiss</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hassan</surname>
+                     <given-names>Hassan</given-names>
+                  </name>
+               </person-group>
+               <article-title>ISIS: Inside the Army of Terror</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>9780062395542</isbn>
+               <year>2016</year>
+               <publisher-name>Harper Collins</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stern</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berger J.</surname>
+                  </name>
+               </person-group>
+               <article-title>ISIS: The State of Terror</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0309132510362603</pub-id>
+               <year>2010</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>34</volume>
+               <issue>6</issue>
+               <fpage>799</fpage>
+               <lpage>817</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Elden</surname>
+                     <given-names>Stuart</given-names>
+                  </name>
+               </person-group>
+               <article-title>Land, Terrain, Territory</article-title>
+               <source>Progress in Human Geography</source>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2004</year>
+               <publisher-name>Carroll &amp; Graf Publishers</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cooley</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hillel</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <isbn>0786713305</isbn>
+               <article-title>When Corruption Was King: How I Helped the Mob Rule Chicago, Then Brought the Outfit Down</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.crisisgroup.org/africa/horn-africa/kenya/kenya-crisis"
+                         xlink:type="simple">https://www.crisisgroup.org/africa/horn-africa/kenya/kenya-crisis</ext-link>
+               <year>2008</year>
+               <publisher-name>International Crisis Group</publisher-name>
+               <issue>137</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>ICG</surname>
+                  </name>
+               </person-group>
+               <article-title>Kenya in Crisis</article-title>
+               <source>Africa Report</source>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>1999</year>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reno</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <article-title>Warlord Politics and African States</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview January 13, 2013, Sanaa</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1163/9789004305052\_039</pub-id>
+               <year>2015</year>
+               <publisher-name>Bryll</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>SJ</given-names>
+                  </name>
+               </person-group>
+               <volume>11</volume>
+               <fpage>342</fpage>
+               <lpage>350</lpage>
+               <article-title>``Somalia''</article-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Elischer</surname>
+                     <given-names>Sebastian and Hofmeier Rolf and Melber, Henning and Mehler, Andreas</given-names>
+                  </name>
+               </person-group>
+               <source>Africa Yearbook: Politics, Economy and Society South of the Sahara in 2014</source>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Ukraine's Foreign and Security Policy 1991-2000</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wolczuk</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+                                
+               <publisher-loc>London, UK</publisher-loc>
+               <year>2003</year>
+               <pub-id pub-id-type="doi">10.4324/9780203221778</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bradbury</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <article-title>Somaliland: A New Democracy in the Horn of Africa?</article-title>
+               <source>Review of African Political Economy</source>
+               <volume>34</volume>
+               <issue>113</issue>
+               <fpage>461</fpage>
+               <lpage>476</lpage>
+               <year>2007</year>
+               <publisher-name>Routledge</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/03056240701672585</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.7591/9780801462979</pub-id>
+               <year>2017</year>
+               <publisher-name>Cornell University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mampilly</surname>
+                     <given-names>Zachariah Cherian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Rebel Rulers: Insurgent Governance and Civilian Life during War</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The organizations will not be named in the paper because of security concerns</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Kenya is perhaps not the best example of this situation. The Kenyan use of non-state criminal actors has, during the election time, included larger criminal groups as Mungiki, and do include the use of death squads as the infamous Kwa squad, but the latter is usually staffed by the police. A better example is perhaps Liberia in the 1990s and local administrations in Nigeria and Mexico</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with anonymous embassy representative in Nairobi, 10 January, 2016</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10439460701717908</pub-id>
+               <year>2007</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>17</volume>
+               <issue>4</issue>
+               <fpage>321</fpage>
+               <lpage>343</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aitchison</surname>
+                     <given-names>Andy</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform in Bosnia and Herzegovina: State, Democracy and International Assistance</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Toch</surname>
+                     <given-names>Hans</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Officers as Change Agents in Police Reform</article-title>
+               <source>Policing and Society</source>
+               <volume>18</volume>
+               <issue>1</issue>
+               <fpage>60</fpage>
+               <lpage>71</lpage>
+               <year>2008</year>
+               <publisher-name>Routledge</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/10439460701718575</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315697024</pub-id>
+               <year>2016</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cordner</surname>
+                     <given-names>Gary W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Administration</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10439463.2015.1045510</pub-id>
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>27</volume>
+               <issue>2</issue>
+               <fpage>205</fpage>
+               <lpage>228</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Damme, Anjuli</surname>
+                  </name>
+               </person-group>
+               <article-title>The Impact of Police Contact on Trust and Police Legitimacy in Belgium</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/iop.2016.5</pub-id>
+               <year>2016</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>9</volume>
+               <issue>3</issue>
+               <fpage>525</fpage>
+               <lpage>547</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruggs</surname>
+                     <given-names>Enrica N.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hebl</surname>
+                     <given-names>Michelle R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Caridad-Rabelo, Ver\'onica</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weaver</surname>
+                     <given-names>Kayla B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kovacs</surname>
+                     <given-names>Joy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kemp</surname>
+                     <given-names>Andeneshea S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Baltimore Is Burning: Can I-O Psychologists Help Extinguish the Flames?</article-title>
+               <source>Industrial and Organizational Psychology</source>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NIBR/Publikasjoner/Forebygging-av-radikalisering-og-voldelig-ekstremisme2"
+                         xlink:type="simple">http://www.hioa.no/Om-OsloMet/Senter-for-velferds-og-arbeidslivsforskning/NIBR/Publikasjoner/Forebygging-av-radikalisering-og-voldelig-ekstremisme2</ext-link>
+               <year>2016</year>
+               <publisher-name>Norwegian Institute for Urban and Regional Research (HiOA)</publisher-name>
+               <publisher-loc>Oslo, Norway</publisher-loc>
+               <comment>12</comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lid</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Winsvold</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>S��holt</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>SJ.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Heierstad</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Klausen</surname>
+                     <given-names>JE.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Forebygging av radikalisering og voldelig ekstremisme—Hva er kommunenes rolle? (Prevention of radicalization and violent extremism—What is the role of the municipalities?)</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1037/e592672007-002</pub-id>
+                                        
+               <year>2007</year>
+               <publisher-name>American Psychological Association (APA)</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Horowitz</surname>
+                     <given-names>Jake</given-names>
+                  </name>
+               </person-group>
+               <article-title>Making Every Encounter Count: Building Trust and Confidence in the Police</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611104271106</pub-id>
+               <year>2005</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>8</volume>
+               <issue>3</issue>
+               <fpage>279</fpage>
+               <lpage>297</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weitzer</surname>
+                     <given-names>Ronald</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tuch</surname>
+                     <given-names>Steven A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Determinants of Public Satisfaction with the Police</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611104271086</pub-id>
+               <year>2005</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>8</volume>
+               <issue>3</issue>
+               <fpage>298</fpage>
+               <lpage>321</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wesley G. Skogan</surname>
+                  </name>
+               </person-group>
+               <article-title>Citizen Satisfaction with Police Encounters</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Order in Chaos: Understanding Governance in Somalia</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gaas</surname>
+                     <given-names>MH</given-names>
+                  </name>
+               </person-group>
+               <institution>Department of International Environment and Development Studies , Norwegian University of Life Sciences</institution>
+                                
+               <publisher-loc>Oslo, Norway</publisher-loc>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aubyn</surname>
+                     <given-names>Festus</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <comment>39 (Occasional Paper)</comment>
+               <publisher-loc>Accra, Ghana</publisher-loc>
+               <article-title>Policing and peace operations in Africa: Reflections on Minusma</article-title>
+               <publisher-name>Kofi Annan International Peacekeeping Training Centre (KAIPTC)</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
