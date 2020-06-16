@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16020031</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Pushing on a String? An Argument for Civil Society-driven Community Policing as Alternative to Ministry-centric Approach in Conflict-affected States</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Coyne</surname>
+                  <given-names>A. Heather</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nyborg</surname>
+                  <given-names>Ingrid</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Office of the Special Envoy of the Secretary General for Yemen, United Nations, Amman, Jordan</aff>
+         <aff id="A3">
+            <label>2</label>Norwegian University of Life Sciences (NMBU), Ås, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>10</day>
+            <month>06</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>31</fpage>
+         <lpage>43</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Most international support for community policing focuses primarily if not exclusively on capacity building of the government, namely Ministries of Interior and police forces. For structural reasons, these organizations—in and of themselves—are often not the most appropriate partners to launch or sustain community-oriented policing initiatives, especially in the early phases of police reform. This paper presents an alternative to the ministry-centric approach in the form of civil society-driven programming for police reform. Using the case of police reform in Afghanistan in the late 2000s, we argue that a focus on community engagement, accountability, and responsiveness to the needs of the population can lead to improved human security even in post-conflict countries. Although a grassroots approach may seem daunting international actors more familiar with strategic advising at the ministerial level, we find that it provides an opportunity for more sustainable and effective engagement than ministry-centric efforts alone. Our experience from the Afghanistan case also shows, however, that a civil society approach is not a standalone—it needs to be complemented by ministerial initiatives as government has the central role in directing police reform. Adding a civil society component can make the official efforts more likely to succeed.  </p>
+         </abstract>
+         <kwd-group>
+            <kwd>Afghanistan</kwd>
+            <kwd>Community-Based Policing</kwd>
+            <kwd>civil society</kwd>
+            <kwd>human security</kwd>
+            <kwd>international police advising</kwd>
+            <kwd>police reform</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>International programming for community policing has been trapped in an almost exclusively ministry-centric approach, a methodology that has a high risk of failure and that can discredit the concept of community policing in nations emerging from conflict such as Afghanistan where trust in government institutions are low. The trap is composed of restrictive mandates, inappropriate funding structures, and an overly narrow view of the legitimate actors in police reform, all of which falsely present ministries and governments as the only potential partners for community policing interventions. This results in a systemic lack of support for a viable and promising alternative: civil society-driven police reform.</p>
+         <p>It is possible, however, to reframe the police reform debate, such that community policing becomes an integral part of participatory democracy, civil society accountability of government, safety and access to justice. Using a framework of Human Security, civil society and civil security can find common ground. A human security framework puts people’s security in focus, and allows for analysis of not only multiple sources of insecurity faced by communities, but also diversity of civil institutions (governmental and non-governmental) which together can address people’s diverse security needs (Human security here refers to ‘freedom from want’ and freedom from fear’ [<xref ref-type="bibr" rid="R01">1</xref>, <xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R04">4</xref>] where the idea of security moves beyond state security to focus on the multiple dimensions of people’s security. See the introductory article in this issue, Nyborg (2019) ‘Emerging Perspectives on Post-Conflict Police-Community Relations’ [<xref ref-type="bibr" rid="R05">5</xref>], for more on defining security and human security). In such a framing, community policing becomes one civil institution of many that collectively provide community members with a more secure existence. Police reform within such a framework has police accountability and responsiveness to citizens as a key element. It also brings reform firmly within the bounds of civil society work in community development.</p>
+         <p>Most police reform efforts focus primarily if not exclusively on capacity building of the government, namely the Ministry of Interior (MOI) [<xref ref-type="bibr" rid="R06">6</xref>] and the police forces. For structural reasons, these organizations—in and of themselves—are often not the most appropriate partners to launch or sustain community-oriented policing initiatives, especially in the early phases of police reform. Reliance on central ministries and police forces as the principle partners to initiate such initiatives can seriously hurt or even derail the effort through ministerial resistance, political power plays, delay and neglect, or through distortion of the principles of community policing. Community policing initiatives, then, cannot produce results, discouraging further efforts.</p>
+         <p>The recognition that engagement with central ministries and police may be critically flawed does not mean there is no option for developing community-based police initiatives in post-conflict operations. Alternatives do exist utilizing civil society-driven initiatives that allow community-based policing to flourish even in early phases of police reform. Further, such initiatives can encourage acceptance of community-based policing by central ministries as a result of their demonstrated utility and the emergence of a broad range of advocates. Ultimately, such an approach to community-based policing is inherently stronger than top-down driven approaches because it is rooted in and led by communities and civil society.</p>
+         <p>This article describes the civil society-driven approach which was piloted by the United Nations in Afghanistan between 2013 and 2015, and how it demonstrates the potential of a civil society to develop creative, effective engagements to build public trust in police, as well as to strengthen the willingness and capacity of police and the Ministry to embrace community policing. The core program was comprised of a number of small-scale projects for community-police engagement [<xref ref-type="bibr" rid="R07">7</xref>], and implemented through eight civil society organizations in seven provinces. These areas including some of the most remote and insecure districts of Afghanistan. The core projects included police-community consultations, safety outreach campaigns, relationship building between police and health care providers, legal assistance, police women councils, and literacy training for police women. The complementary programming involved police-community sports initiatives, mentoring by women’s organizations of police women, scout-police engagement, university outreach, police station access and information desks/hotlines, and others.</p>
+         <p>The data used for this article stems from a variety of sources. The main source of data is drawn from the field experience of the lead author, who served in the Police Advisory Unit of UNAMA for a period of three years. As a UNAMA staff, she was responsible for the monitoring and oversight of the core projects, as well as coordination with the other programming, which provided a unique opportunity to assess both the challenges involved in design, funding and implementation of the projects as well as the community, police, and ministerial responses. This comprised extensive interviews, meetings and discussions with project partners and participants from civil society and the police, as well as with the international donors and policymakers throughout the project period. Additional data on project activities and results was also available from project reports and studies. The second author conducted in-depth interviews with police officials, policymakers and civil society organizations involved in the pilot activities in several shorter field visits (to Kabul) before, during and after the implementation of the projects. Secondary literature, including studies of the pilots, has also been consulted.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Limitations of a Ministry-Centric Approach</title>
+         <p>Post-conflict [<xref ref-type="bibr" rid="R08">8</xref>] governments, especially Ministries of Interior and police forces, are not typically a natural incubator for community-oriented policing. On the contrary, central ministries in conflict countries, often beset by insurgency, racked by corruption, or burdened with authoritarian legacies are more likely to view community policing as a threat than an opportunity. In most cases, post-conflict authorities have had little exposure to concepts of participatory decision-making and community partnership, and thus lack a clear understanding of the benefits of community-led approaches to policing. In more extreme cases, officials may profit from extortion and social control of populations, and fear that increased accountability generated by community participation would eventually diminish their command of resources.</p>
+         <p>At the other extreme, some governments may be eager to institute community policing, but due to lack of awareness or disagreement with its principles, distort it in ways that undermine its efficacy. Even if a government seems to accept community policing principles initially, centralizing control of initiatives means that government can influence priorities over time. Government initiatives may neglect aspects that Ministries find undesirable (such as empowering police to deal with gender based violence, or encouraging access for media to press for police accountability), undermine the concepts by selectively choosing only certain community groups or individuals to participate (damaging trust), or emphasize only certain types of issues.</p>
+         <p>Examples from Afghanistan illustrate these challenges for even the most well-intentioned Ministries. In one case, an MOI director for community policing was extremely enthusiastic about community engagement, but interpreted it almost exclusively as a vehicle for propaganda or as way to establish auxiliary policing units in which citizens and students would provide guard functions to supplement the police. In another, international agencies volunteered to reprint materials on gender-based violence created by civil society organizations (CSOs) to provide to police for distribution to victims and communities. However, the Gender and Human Rights Directorate of the Ministry of Interior refused because the materials were not created by the Ministry and therefore were beyond their authorization to distribute—the directorate was also probably reluctant to be seen disseminating materials on controversial subjects like women’s rights.</p>
+         <p>Where police forces were historically designed to protect the state against the people or to extract resources from their populations, large investments in building their capacity for community policing may be wasted and diverted because there is no fundamental agreement on the need for a community orientation. Eventual government acceptance of these concepts is, of course, a necessity if Ministries and police forces are to ever successfully adopt and sustain community policing. However, that kind of attitudinal change comes from familiarity with the approaches, sustained pressure from influential advocates, and most of all, from seeing results. It is unlikely that the international community can change longstanding ministerial culture and systems simply through persuasion, awareness raising, or even using funding conditionality. Thus, international initiatives find themselves in the situation of “pushing on a string” instead of pulling it—attempting to promote community policing with governments that have little or no interest to cooperate. Under such circumstances, a community policing agenda may appear futile.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Advantages of a Civil Society-Driven Approach</title>
+         <p>An alternative to the ministry-centric approach exists in the form of civil society-driven programming for police-community engagement. Although this grassroots approach may seem daunting international actors more familiar with strategic advising at the ministerial level, we argue that it actually provides an opportunity for more sustainable and effective action than ministry-centric efforts alone. An approach driven by civil society would clearly need to be complemented by ministerial initiatives since government has the central role in training and supporting police to engage their communities, thus the inclusion of both approaches would greatly increase the chance of success. This section explores the advantages of civil society-driven programming, illustrated by a practical experiment in community-police engagement in Afghanistan—pulling on the string instead of pushing it.</p>
+         <sec id="s3.1">
+            <title>3.1.- Motivation</title>
+            <p>The most obvious advantage of a civil society approach is that there is a clear incentive for communities to encourage improved behavior and performance from police; they are, after all, the ones suffering most from police abuse, incompetence, or neglect, and they have the most at stake in building an accountable and responsive police force. International actors can take advantage of this fact, rather than relying on ministries whose interest level and capacity for execution are more questionable. For example, one of the earliest organized campaigns for police accountability in Afghanistan came after police were implicated in (or at least failed to prevent) the hijacking of a van belonging to the moneychangers union, the murder of its driver, and theft of millions of dollars. The union arranged a strike by of all money changing services and staged a demonstration outside police headquarters until the police leadership agreed to investigate the case and improve security in the main money-changing district. Self-interest is a powerful mobilizer.</p>
+            <p>However, weighing against their intrinsic motivation for better police behavior, communities and civil society may be fearful of engaging with police, as pressing for improved behavior may put them at risk of retaliation. Furthermore, many civil society organizations and communities may lack awareness of an alternative vision of policing, and how they themselves can push for the desired changes. CSOs in Afghanistan balanced these competing impulses by initiating programming within the “comfort zone” of community members, their own organizations, and the police. Activities such as joint sports programs or teaching police to provide basic safety information were, for the most part, uncontroversial, building trust on both sides and creating willingness for both police and communities to take further steps toward more extensive, substantive contact. Once the initial hurdle of fear was overcome, CSOs became enthusiastic about the possibilities of such foundational activities, suggesting innovative techniques for engaging the police on a wide variety of issues.</p>
+            <p>International actors can also play an important role in terms of addressing the initial lack of awareness of community policing and roles for civil society in promoting it. In the project in Afghanistan, the UN identified existing forms of engagement (such as women’s groups running shelters, organizations supporting participatory decision making between communities and civil authorities, and business associations that had conducted advocacy for government accountability) and asked them how they could apply their skills to more direct engagement with police. In addition, the project sought out CSOs that had potential for productive interaction with police (such as Scout groups, journalists associations, and sports federations) and encouraged them to think about ways they could contribute to police reform.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Connections, Knowledge, Skills</title>
+            <p>The second advantage of civil society in promoting reform is that it is more likely to have the connections, knowledge and skills needed for successful community policing initiatives, something that Ministries and police forces may lack in early stages of police reform. For example, most Afghan civil society groups agreed that regular consultations between police and communities were essential for progress toward accountability, but that no appropriate forum existed. Existing dialogue structures (such as the Afghan National Solidarity Program’s community development councils) were reluctant to include police out of fear that police would exploit their projects. It was also problematic to have police organize the consultations, as they tended to invite only the power brokers with whom they were already familiar rather than an inclusive range of society. The level of mutual distrust and hostility between police and people made it essential to use a trusted intermediary from civil society to facilitate the initial “entrée” for police to meet with communities. Familiar with community concerns, several CSOs were able to convince a wide range of community representatives to participate. The organizations then used their expertise in dialogue to create a constructive climate for police community consultations, employing communications and conflict management training and processes for expectation setting and vision building, to eventually reach joint agreements and action plans. They were able to diffuse tensions and facilitate relationship building throughout the course of the workshops and follow-up meetings—actions outside the capability of the police to manage.</p>
+            <p>Along the same lines, civil society can offer police the ability to draw on its resources in a way that reduces the burden on police and makes them look good at the same time, using a simple concept: referral to services. Some services may be provided only by civil society (such as shelters, counseling, hotlines), but with civil society cooperation, police can learn to refer victims to those services appropriately. For example, one provider of a counseling hotline for domestic violence provided a brochure to police so that they could refer victims to the hotline, even when the police could not provide other victim services. In another case, an Afghan women’s organization developed a strong relationship with the MOI and police districts in Kabul. The MOI regularly sent 20-30 police at a time to the CSO to be trained on domestic violence. The training provided some exposure to ideas of gender rights but more importantly, the CSO framed it as a way for police to solve a problem that had been plaguing them: how to provide necessary (but totally unavailable) services to victims. An officer complained to the CSO about the problem of women victims who arrived at nighttime; he said the police had no options on where to keep them. The CSO representative responded, “If that happens, call us, we’ll come to pick up the woman and keep her in a shelter for the night and bring her back in the morning for the investigation”. The police officer was astounded. “You can do that?” The CSO in effect offered the police a referral service to the organizations that could provide shelter, legal aid, and counseling services for which the police themselves had no resources.</p>
+            <p>Even in regard to projects that theoretically could be executed by a Ministry itself, such as development and delivery of training, civil society has added value. CSOs are more likely than ministries and police academies to be early adopters of new pedagogical approaches for adult learning. Traditional police training structures in the developing world tend to rely mostly on rote learning and lectures, while CSOs likely have been exposed to participatory techniques like role play, practical exercises, etc. Civil society involvement in the development of training can help ensure that such practices are integrated, making the <bold>
+                  <italic>content</italic>
+               </bold> of training more valuable, especially when the training is intended for interactions with civilian groups, such as youth. Furthermore, CSOs may be better positioned to improve the <bold>
+                  <italic>process</italic>
+               </bold> of training development, engaging stakeholders to create continuing relationships between police and other entities they need for future success. Finally, civil society participation in <bold>
+                  <italic>delivery</italic>
+               </bold> of training provides a concrete example of commitment to partnership. With their involvement, police trainees from the start see civil society in an official capacity, as instructor or as fellow trainees, legitimizing continuing interaction with them in a way that preaching about cooperation in theory cannot. Early civil society participation can also create ongoing relationships with those government offices responsible for curriculum development and training.</p>
+            <p>In Afghanistan, there are numerous examples of this advantage of civil society participation—and counterexamples when the opportunities were missed. One of the most successful police initiatives was the safety outreach campaign: police were trained to deliver safety briefings on fire, traffic, mines, first aid, floods and earthquakes to schools and communities. Dozens of CSOs contributed to the development of the idea, identifying improvement in the police relationship with children and youth as a priority, and suggesting interactions based on safety and security. Ultimately, the UN contracted a communications consulting firm to develop the materials and curriculum, and to train and mentor the police. (The Ministry of Interior was given several chances to initiate and manage the project, but chose not to do so.) The company made an intensive effort to include civil society and governmental stakeholders: it involved safety and disaster agencies in providing input to the curriculum to align it with their own safety approaches. CSOs such as the Afghan Red Crescent Society even took part in the training of police instructors; some safety agency personnel attended events at schools to observe. Coordination with the Afghan Child Protection Network of NGOS and government agencies ensured that the approach would not put children at risk through association with police. Police and CSOs jointly conducted outreach to education departments—using the CSO contacts— that could authorize police access to schools to deliver the briefings. The consultant involved police and the Ministry in the contacts with CSOs throughout the process, with the result that police experienced positive interactions with a number of key organizations who could partner with them in the future.</p>
+            <p>The involvement of these other agencies ensured higher quality of content than if the course had been developed by MOI alone. In addition, the process of engaging civil society created several side benefits: it gave CSOs and communities a chance to raise concerns about the approach (e.g. police engagement of schools that could put schools at risk of targeting by insurgents); it generated their own interest in the success of the project; and it encouraged them to explore further contact with police on related issues such as disaster response and preparedness. The training department of the Ministry was so impressed by the products that it asked for the firm’s help in developing additional models, such as on drug awareness. These types of materials, when developed in conjunction with local organizations working in that field, can expose police to another sector of society whose cooperation they desperately need for their own success.
+</p>
+            <p>Perhaps the most important factor in the success of the project was that it enabled police to provide a tangible service to communities—not propaganda about cooperation, but a sincere demonstration of what the police can do, with minimal resources, to improve the quality of life of their communities. This was a direct result of the motivations of the actors involved: the organizations driving it were at the core interested not in improving perceptions of police (as perhaps a Ministry would be), but in improving the actual <italic>behavior</italic> of police.</p>
+            <p>In a related effort, various sports federations and clubs showed interest in building relationships between police and people, and improving police fitness, teamwork, and anti-drug mentality through sports. In response to a query of whether they would arrange for police teams to play civilian teams, one federation leader looked shocked. “No,” he replied, “The police are in such bad shape that they would always lose, and that would cause more tension!” Instead, they proposed a project in which police and youth from the community would train together, forming a joint team that would play against other local teams in monthly tournaments. This project was extremely popular with police and citizens, creating channels for cooperation on reporting and fighting crime, drugs, and terrorism. Civil society not only had the motivation to initiate the projects, but also managed it in a way that was more participatory than a Ministry-driven project would be: participating athletes were drawn from the community (not just from existing associates of the police), venues were offered not only inside police stations but at sports centers in town, and the federations used their extensive connections with existing teams to encourage them to participate in tournaments. Again, this is an effort the Ministry could have led itself but did not - if it had, might not have achieved the same level of participation that a civil society lead was able to provide.</p>
+            <p>In terms of using civil society participation in delivery of training as a visible commitment to continued partnership, the UN encouraged the Ministry to invite each of these groups involved in the initial community policing initiatives to present their approaches in the first courses on community policing at the Afghan Police Staff College. The presence of civil society as trainers sent a clear message to police participants that the Ministry and police leadership endorsed interaction with civil society actors. It showed that the Ministry considered them legitimate partners, with the implication that continued engagement with civil society by police in the field was acceptable, an important message in a police system that traditionally is disapproving of engagement with outsiders.</p>
+            <p>In contrast, the advantages of drawing on civil society skillsets were missed in projects that focused exclusively on ministry ownership. In one example, a civil society group with experience in training civilian ministries on gender mainstreaming proposed to develop a course on anti-harassment techniques for police women, who face high levels of harassment from their colleagues. The course would teach not only self-defense techniques, but also approaches to prevent, stop, and report harassment in a system that is largely indifferent to the problem. The capstone of this innovative project was to train the police women to then deliver the same training to university students, helping them to protect themselves from similar problems on campuses, demonstrating the valuable role that police women can play, and building trust between police and students. Unfortunately, the one international organization that agreed to fund the project imposed the condition that the curriculum would be developed and delivered to police by international and ministry trainers rather than through engagement with the local group. That approach would not only miss the chance to expose the Ministry and police to local approaches to dealing with harassment, but more importantly would lose the opportunity to build relationships between the Ministry and a group committed to combating harassment. Such relationships could contribute in the long term to a flow of expertise between police, civilian agencies, and civil society, building momentum on the issue rather than a one-off intervention by internationals that may produce a good curriculum but no continuing relationships.</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Social Pressure</title>
+            <p>A final area where civil society shines is in the critical role of “naming and shaming.” Social pressure can be a powerful tool in police accountability. In the case above of the CSO that provided gender training to police, the CSO kept tabs on their graduates, and if these police did something positive on women’s issues in their district, the CSO made a point of writing them a certificate of appreciation. One police commander framed the certificate and hung it up in the police station—an indicator of how much the police wanted to be recognized for doing the right thing. Schools in Helmand sent similar letters thanking the police for briefing the children on safety. School girls asked to have their picture taken with the police woman who visited the school to brief on safety, and one told her “you look awesome in your uniform and someday I will become a policewoman”. As a police officer explained what to do in case of flood, a boy stood up and told the assembled children and teachers that his family had survived a flood because his brother had attended a previous police briefing. A spontaneous movement to appreciate Afghan security forces sprang up among youth groups after a police officer foiled a suicide attack; the groups paid for billboards thanking police for their heroism and mobilized a Facebook campaign to honor the police. For Afghan police accustomed to widespread public derision, these public examples of appreciation were tremendously moving and created a strong sense of pride in what they were doing.</p>
+            <p>Unfortunately, donors in Afghanistan missed the opportunity to institutionalize such public displays of appreciation. Afghan CSOs had recommended that the Ministry of Interior hold a community policing awards ceremony in which each CSO participating in community policing activities could identify the most active police officer in its project for an achievement award. The Ministry and CSO would award a prize or certificate jointly, so that the police would receive official endorsement of the CSO honor. Because of ministerial reluctance to involve civil society in leadership of the awards process, donors instead held several events in which community policing awards were presented mostly to high level police officials by the International Community, without input or participation by the communities the police were supposedly serving.</p>
+            <p>Counterexamples of public shaming (or at least vocal criticism) of police behavior, were a common feature of the Afghan community-police consultations. Somewhat surprisingly, the police mostly took the criticism calmly and promised to do better. At least some of these promises were not empty: follow-up meetings moderated by CSOs reviewed action on the demands from previous meetings and in many cases, police leaders had indeed taken action to discipline or remove problematic officers. Often the most effective pressure was directed towards family members of an abusive police officer, to rein in their kinsman. Another approach was to utilize radio or TV “call in” shows like one that Sabah Media did weekly for traffic police complaints, featuring senior traffic officials who would respond to callers and report any corrective action taken. These types of “naming and shaming” efforts were not systematically documented so distilling good practice for this role of civil society requires further examination.</p>
+         </sec>
+         <sec id="s3.4">
+            <title>3.4.- Limits of a Society Driven Approach</title>
+            <p>It is important, however, to recognize the limits of the civil society contribution to police reform, especially in terms of its constrained scope. Activities to build high level professionalism and technical law enforcement capacity are mostly outside the purview of civil society—that is not its comparative advantage. Most conflict-affected nations are also faced with a more basic task of changing the mindsets of both police and populations, and establishing the basic foundations of trust between them. Small steps towards building that trust can set in motion a virtuous cycle that enables higher-level capacity building: support among the population allows more effective recruiting, which contributes to more effective training, better service delivery and improved retention. All of these lead to increased professionalism of the police, which further increases public trust. The initial process of building a foundation of trust and cooperation is one that civil society can effectively set in motion, which in turn can create conditions for more effective investment in technical capacities. Moreover, programming that focuses on making police technically proficient before instituting processes for accountability is problematic. If not accompanied by progress on accountability and responsiveness, international technical efforts to train and equip police forces may merely produce better predators.</p>
+            <p>At the same time, civil society may lack access to police, or authority to engage police in activities. Some form of “top cover” or “open door policy” from the side of the ministries that officially encourages or permits police personnel to meet with civil society can facilitate early efforts by civil society to invite police to participate in police-community initiatives. In Afghanistan, the creation of a community policing directorate gave civil society a point of entry to propose activities. Although understaffed and largely un-empowered, the directorate had enough authority to sign introductions to provincial police chiefs, providing some legitimacy to the CSOs attempting to engage them. Later, some provincial community policing teams sponsored by the International Community proved extremely helpful as a gateway for civil society to reach other police and persuade them to participate. These police teams, while small and weak in their ability to influence policy, had the ability to secure participation of police women by arguing the case to their colleagues rather than relying on civil society to do so. The function of these types of gateways is discussed in more detail below in terms of the role that the IC can take in building connections between civil society and state approaches.</p>
+            <p>Despite its limitations, a civil society approach to community policing can lead to better results than dependency on Ministerial initiatives alone. Participatory police reform translates to stronger support and ownership by a range of advocates who can support a more innovative and sustainable approach. In fact, these principles are already recognized in policies such as the 2013 <italic>Secretary General’s report on Security Sector Reform</italic> [<xref ref-type="bibr" rid="R09">9</xref>] which extends the concept of national ownership from “state-centric” to “whole-of-society” ownership, or the UN Department of Peacekeeping Operations Policy on UN Police, which states, “United Nations police shall pay attention at an early stage to those aspects of institution-building that can serve to strengthen the integrity of host State police institutions by enhancing their capacity to be held accountable for the performance of their duties including when they commit human rights violations” [<xref ref-type="bibr" rid="R10">10</xref>]. The potential of civil society driven approaches is recognized but—more often than not—neglected, a reality that will be explored in the following section.</p>
+            <p>
+               <table-wrap>
+                  <table style="border-style: solid;">
+                     <tbody>
+                        <tr>
+                           <td style="text-align: center;"><bold>Variations in Police Motivation</bold></td>
+                        </tr>
+                        <tr><td>
+                           When considering the advantages of civil society-driven approaches, it is important to differentiate between the
+                              Ministry/central leadership of police, and the local police commanders in the field (in Afghanistan, at the provincial and
+                              district levels). In contrast to ministries, the latter have a strong, if mixed, stake in improving community engagement. This
+                              creates openings to engage these unlikely allies in a way to generate momentum and demand for community policing,
+                              even when Ministerial attitudes are more hostile. Lower level commanders have very different needs and perspectives
+                              than the Ministry, falling somewhere between civil society and the MOI in terms of their interest to engage in community
+                              policing. In many cases, these commanders do profit from exploitation and are obligated to use extractive techniques that
+                              provide a flow of payments upward to their patrons. But at the same time, they would also benefit directly from improved
+                              information sharing and problem solving with communities.</td></tr>
+                        <tr><td>
+                           For example, in one Afghan police-community consultation, the people explained that their major concern was illegal
+                           quarrying of the local dam: apparently, looters were taking stones from the dam and the villagers were afraid it would
+                           collapse, damaging their homes and fields. The district police commander—largely uninterested in the entire subject but
+                           aware that some kind of gesture was needed—offered to send a regular patrol to the dam. To his surprise, the patrol
+                           worked, scaring away the looters. And even more surprising to him, the people were so grateful they started approaching
+                           him with information about suspected IEDs, telling him they did not want him to be hurt. For the commander, relating this
+                           story, this was an epiphany—when you listen to the people and respond to their concerns, they give you information
+                           that saves your own skin. For commanders, better relations with community can directly translate to tangible benefits
+                           in terms of information that protects their lives (very important), or that enables them to do their job (somewhat less
+                           important). These incentives do not apply to officials in central ministries who are distant from the direct and constant
+                           physical threats faced by police working in the field.                                                
+                        </td></tr>
+                        <tr><td>
+                           Another factor influencing local commanders in support of police-community engagement, though perhaps with less
+                           weight than other interests, is the feeling of satisfaction and self-respect the police derive from community engagement
+                           activities and from the associated admiration of the people as described above.
+                        </td></tr>
+                        <tr><td>
+                           When exposed to the potential benefits of community policing, local commanders can make cost-benefit calculations on
+                           the proper extent of cooperation with their citizens. They may be unable to completely eliminate extortion, given the
+                           context of patronage and payment in which they operate, but they can moderate their behavior and the extent of the
+                           extortion in order to reach a working arrangement with citizens. Even more importantly, the police can decide to provide
+                           an actual service to communities that may offset some of the resentment of their extractive activities. The implication for
+                           civil society driven initiatives is that civil society can draw on potential supporters at the sub-national level, in spite of any
+                           resistance from national levels, making success more likely.
+                        </td></tr>
+                     </tbody>
+                  </table>
+                  
+                  
+               </table-wrap>
+            </p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Obstacles to Adopting a Civil Society Approach</title>
+         <p>With these obvious advantages, why we do not see more widespread and concerted utilization of civil society in police reform interventions? There are many projects for police-public interaction in conflict zones, but most of these are afterthoughts to a core approach of engaging the government rather than a focused effort to integrate civil society into police reform. A more detailed analysis of the Afghanistan case provides insights as to why civil society—so often the darling of international programming—has largely been sidelined when it comes to policing.</p>
+         <p>In Afghanistan, successful experiments in civil society police reform were met with brief applause, and then ignored as donors and implementers continued to work almost exclusively with government institutions—institutions that had repeatedly failed to show active interest in community policing. This disinterest confounded the civil society groups and their police partners, whose activities had produced the exact results advocated by the international proponents of community policing, while the ministerial-focused efforts were lackluster at best and oppressive at worst [<xref ref-type="bibr" rid="R11">11</xref>]. In spite of their successes, civil society groups were left out of any serious discussion on strategies for police reform, and found few donors willing to build on their momentum. Almost across the board, the imperative for “Afghan Ownership” of police reform inevitably translated into “Ministry of Interior Ownership” rather than considering buy-in from the wider society or even other branches of government.</p>
+         <p>A basic explanation of this pattern is that there was no analysis that could have objectively weighed the cost-benefit of a civil society approach against a ministerial one for Afghanistan. Planners and donors had nothing but anecdotal evidence, which was insufficient to draw them out of established ways of doing business. The Afghan case also pointed to two fundamental frustrations for these types of initiatives: the gap between the development community and police reform actors, and the strong focus on state institutions and statebuilding, both of which we address in detail below.</p>
+         <sec id="s4.1">
+            <title>4.1.- Mind the Gap</title>
+            <p>Of these two challenges, arguably the most problematic is the wide gap existing between the development community and the institutions usually involved in traditional, ministry-centric police reform. Community policing falls into the gray area between them, with both sides reluctant to bridge the gap. For example, donors, advisors and implementers who focus on strengthening civil society’s ability to insist on good governance, governmental accountability, and effective service provision largely exclude policing from their mandate. This is a curious phenomenon, considering that police are an important primary point of contact between community members and the government, but often require considerable improvement in terms of delivery of justice and law enforcement services to communities. Part of the problem could be the international community’s practice of defining civil police reform as a part of its broader security sector reform initiatives, rather than as a part of government service reform. In doing so, policing becomes a part of a kinetic military counterinsurgency strategy, with a focus on hard security within a militarized paradigm, which prevents the police from engaging with communities in ways with might build trust. In such militarized contexts, it becomes even more difficult for civil society to approach police as a civil institution, which results in a strict divide between those organizations who focus on community mobilization and civil society initiatives on one side, and those who work on police capacity building on the other. The gap could be directive (for example, USAID has explicit restrictions on training or capacity building for police) or could reflect ethical preferences (humanitarian-oriented organizations that find engagement with security forces uncomfortable or distasteful). The security community has its own constraints, in terms of a limited definition of what constitutes police training and a reluctance to involve actors from outside the security sector. While this paper critiques the execution of the military mandate in this specific case, these issues suggest a more fundamental need to reassess the appropriateness of the selection of the military for police training in future interventions.</p>
+            <p>An immediate impact of the gap between the security and development communities is the unavailability of funding to support community policing initiatives, especially those involving civil society. The starkest examples come from the Combined Security Transition Command for Afghanistan (CSTCA), the major player on security sector reform, with resources at that time of $1 billion per month to spend on the army and police [<xref ref-type="bibr" rid="R12">12</xref>]. From the outset, CSTCA claimed that it did not have authority to fund programs that benefit the community, but only programs that directly benefit the police. The problem here, however, lies in the military understanding of what constituted “direct support to police”. CSTCA interpreted this in its own military context (namely, training to shoot, move, and communicate) rather than in a framework of a police service providing access to justice and safety services. When presented with a proposal for community-police consultations—a core component of community policing initiatives throughout the world—CSTCA procurement officers responded, “Can you leave the community out of it? Then we can fund it” (They later relented slightly, suggesting that their funds could provide tea at meetings, but only for the police participants and not for the community representatives). CSTCA’s lawyers also vetoed a proposal to train the police to deliver briefings to children on fire safety because “fire safety education is not part of the police mission”. CSTCA and the military command interpreted the purpose of safety briefings as an educational service for the public, rather than a core police function. In fact, the military claimed that it could not assist the police to do anything “that benefits the public” since this would invalidate the entire police training mission. With few police experts to advise them otherwise, military lawyers continuously blocked initiatives for engagement between police and people. A year-long struggle to authorize such police outreach activities specifically in CSTCA’s congressional language resulted in allocation of $7 million for community-police engagement pilot projects developed and driven by CSOs. However, that decision was discarded by the next rotation of commanders and lawyers; the projects were cancelled, and those funds reallocated to police salaries.</p>
+            <p>It is not only within the security sector that funding silos have a negative impact on programs that cut naturally across traditional funding borders. For example, the primary funding vehicle for police reform, the Law and Order Trust Fund for Afghanistan (LOTFA), rejected a project to encourage networking between police domestic violence response units and health care providers to increase mutual referrals on gender-based violence [<xref ref-type="bibr" rid="R13">13</xref>]. LOTFA claimed that it could not use funding designated for the Ministry of Interior to train staff from the Ministry of Public Health. The absurdity of these restrictions—imagined or otherwise—did not reduce the severity of their mpact on police programming that required intergovernmental or societal involvement. Repeatedly, essential programming for community policing—by its nature a crosscutting, multi-sectoral program—was blocked by funding structures designed for single ministries or purposes.</p>
+            <p>The structural problems of the donor community threatened community policing in more subtle ways as well. Availability of funding to support initiatives was key in encouraging Afghan CSOs who were typically focused on social welfare to look past their natural boundaries to take a role in police reform. Such funding was, for the most part, not forthcoming. As the UN began to disseminate results of its community-police engagement pilots and search for ways to integrate them into the mainstream of police reform, it quickly became clear that LOTFA was the only option for sustained, serious funding. Most international actors were reducing their presence and insisted that their contributions take only one channel rather than investing in multiple avenues for police reform. In effect, that meant virtually all contributions were channeled through LOTFA. However, LOTFA faced serious restrictions in supporting civil society-driven initiatives, as it worked under a National Implementation Modality (meaning that MOI must approve any programming and procurement). MOI was suspicious of contracting to entities outside MOI instead of building internal capacity (an understandable and legitimate concern) and was even more reluctant in contracting involved NGOs and civil society, which it viewed as competitors or even usurpers of government prerogatives (a rather less legitimate concern). In some cases, it saw the funding of NGOs as an admission of lack of government capacity to absorb and execute funds (one which the government did not want to make). Therefore, proposals for civil-society driven projects were generally viewed by MOI as non-starters.</p>
+            <p>LOTFA also faces challenges related to its donor structure, which demanded a comprehensive plan that limited grassroots experimentation and bottom-up approaches. Even LOTFA’s procurement structures were problematic, requiring competitive bids that discouraged CSOs from advancing their own creative ideas for programming—if they did so, their idea could then be sold to the lowest bidder. LOTFA did not have a functional grant modality that would allow CSOs to design and implement their own innovative approaches. Furthermore, integration with the full justice chain and Rule of Law approaches was often blocked due to limitations on participation of justice sector agencies and on transfers of funds to UN agencies. Consequentially, LOTFA was only able to identify a limited number of community policing activities that it could support, which focused on remote strategic interventions rather than people-to-police contact and actual service delivery that could affect quality of life, access to justice, and public trust in police.</p>
+            <p>Other police reform donors had equivalent difficulty in gearing themselves for a civil society approach. One of the largest sources of expertise on police reform was the European Union Police Mission. The EU used its own seconded police officers to deliver training and had limited options for providing grants or contracts to Afghan CSOs. Some EUPOL officers made strong efforts to coordinate their own mentoring activities with ongoing civil society initiatives, but EUPOL was not a viable source of financial support for civil society police reform projects.</p>
+            <p>The development-security divide also limited support for community policing through traditional grant mechanisms. Community-police engagement proposals were largely unable to tap into grant programs for community mobilization and rights initiatives. This was due either to explicit donor limitations on engaging the security sector, or to lack of competitiveness of relatively riskier initiatives characterized by little proven experience, lack of a willing governmental partner, and general fear of involvement with the security sector. For example, a DFID-sponsored grant program tried to prioritize community policing, but not a single proposal for police-community engagement was approved, even though some of the same organizations received approval for proposals they submitted on non-police projects. Many grants mechanisms were aimed only at registered NGOs, meaning that other types of civil society (professional associations, sports federations, unions, and research/consulting firms) with good ideas were automatically ineligible to apply.</p>
+            <p>The funding challenge is not just about making dollars available to local CSOs for initiatives. Funding determines which organizations will work in this field, who will bring expertise to it, who will take the lead in decision making and planning, and who will serve as the advocates with host governments about priorities and approaches. In recent cases, international military personnel took the lead for police reform, prioritizing capacity for kinetic operations over justice service delivery. Police reform needs to include a wider range of actors to represent the full range of roles played by the police, and to draw on the full range of capacity building assistance. For example, the development community has a wide range of participatory, qualitative and quantitative evaluation and quality control mechanisms that the security sector reform institutions have not yet developed. These would be useful to adequately guide and monitor new approaches to engaging communities and police. In one well-intentioned effort, advisors trained police to deliver counter-IED training to schools, but a subsequent review found that the course might unintentionally have taught the children how to make their own pressure plates. Improvements in design processes to take account of the broader impacts and possible unintended consequences of new activities on communities could lead to more effective outcomes.</p>
+            <p>While it may seem that resolving the constraints on funding for civil-society driven programming requires a simple increase in flexibility on the part of donors to make space for it in their programming guidelines and priorities, this would involve a formidable awareness raising effort: advocacy with hundreds of different organizations to affect their respective agendas and bureaucratic imperatives. An alternative is to work through training programs for international police advisors, exposing advisors to the potential of civil society-driven reform, and providing them tools and resources to harness it. Since there are only a few dedicated training schools or courses to prepare international police advisors, targeting these key courses could be more effective than targeting the large numbers of donors directly [<xref ref-type="bibr" rid="R14">14</xref>]. This would allow for a concerted effort to raise awareness with the personnel who can shape and advise programming of their respective donor offices and counterparts. However, these advisors would still have little power to influence changes in underlying organizational constraints. Interested donors or the training programs could consider an initiative to expose the participants of advisor training to the ideas of civil society-driven reform, and then, once they are in-country, to provide these ‘graduates” access to dedicated funding to support civil society-proposed projects to engage police and communities.</p>
+            <p>One relevant aspect of the ICT4COP project is to develop a training course for advisors on engaging civil society and other actors to strengthen community policing. If this course could be associated with a grants package that the advisor could direct to promising civil society initiatives, it would not only encourage advisors to participate in the course but would give them the resources necessary to bridge the funding gap. Another ICT4COP initiative has been the establishment of a Police Expert Network, where international police advisors, national police, national civil society organizations and academia meet to share experiences and create information platforms which can provide police advisors and national counterparts with resources for use in their specific reform processes [<xref ref-type="bibr" rid="R15">15</xref>].</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Government-Focused Statebuilding</title>
+            <p>A second factor limiting any embrace of a civil society approach by the international community is the natural preference of international coalitions, embassies, and even the United Nations to deal almost exclusively with state counterparts, especially when “statebuilding” is the stated goal of the mission. There are a number of possible explanations for this preference:</p>
+            <p>• International actors, like host governments, may shy from a civil society approach because it may imply that the government is not sufficiently committed to a community policing agenda. (Although, alternatively, sending a message to ministries that there are alternatives to relying solely on ministry partners might encourage officials to find new ways to cooperate with civil society).</p>
+            <p>• The International Community may be averse to community-driven processes because they are less predictable—and controllable—than bilateral interactions with a central government, and therefore carry higher risk of heading in directions that are not consistent with the priorities or values of the donors. In one accountability project, an NGO trained community groups to monitor donor-funded construction projects to ensure compliance with standards [<xref ref-type="bibr" rid="R16">16</xref>]. One community discovered that a contractor was building a school with substandard bricks which could be crumbled in the hand. When other interventions failed, the community finally organized a sit-in on the road to block the trucks bringing the bricks until the contractor agreed to use higher quality materials. The NGO proposed to apply the same monitoring process for the construction of police stations, with the goal of building cooperation between communities and the police who would use the stations. Upon hearing about the brick protest, CSTCA contract managers responsible for police station construction vetoed the initiative. Building a capacity for civil resistance is not high on the agenda of most international aid programs, even if it could be a key factor in promoting good governance.</p>
+            <p>• The International Community tends to focus on a national, state-determined definition and standard of community policing. A frequently articulated concern is that variations in civil society approaches around the country will create fragmentation and confusion in national police planning. This is in direct contradiction to widespread acceptance that local communities in conflict-affected countries may have widely divergent needs and that community policing is an intensely local undertaking. Diversity in community policing is not fragmentation: enabling people to find local solutions allows national structures to choose from a variety of methods that they can then integrate into formal training and procedures, highlighting community policing as being a collection of activities which together improve police-community relations, trust, and accountability, rather than one particular expression. Exacerbating the fear of diversity, some international advisors mistakenly conjoin the question of diversified local approaches to community policing with the wider debate over police models (usually centralized vs. regional police). They see variations in community policing across the nation as endorsement of a regional model, which politicizes the debate on community policing, when it is really separate and distinct from choices on a national police model.</p>
+            <p>Ultimately, the state-focused argument has some legitimacy: community action may be desirable, but at the end of the day, if it is not integrated into the curriculum, training courses and operational doctrine, it cannot genuinely and sustainably affect the police and their operations. What the international community has not yet fully recognized is that the civil society driven approach can actually <bold>
+                  <italic>strengthen</italic>
+               </bold> the likelihood of ministerial support for community policing. Options for the International Community to promote this are provided in the subsequent section on statebuilding.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Statebuilding through Civil Society</title>
+            <p>A civil society approach to community policing would seem blocked by the fixation on ministerial capacity building. But the international predisposition towards working with state counterparts has the best of justifications: to succeed, the intervention must produce an improvement in state capacity for good governance and delivery of services. This is even truer for policing than most sectors. Without sufficient buy-in to community policing by the Ministry and central police commands, their control over personnel, training, and operations would rapidly nullify any advances made by civil society with their local police.</p>
+            <p>The answer to such concerns lies in institutionalizing the linkage between civil society driven approaches and formal state/ministerial capacity building. International actors can assist the “feedback loop” so that civil society initiatives become sustained within the formal police and other government structures. Fortunately, not only is it a natural process to absorb community-driven activities into a Ministry, it could actually be more effective than starting with a governmental approach alone. There are a number of potential transmission mechanisms, which international actors can act to strengthen.</p>
+            <p>
+               <bold>
+                  <italic>Demonstration Effect:</italic>
+               </bold> As argued above, a ministry might not have the motivation or interest to launch community policing programs themselves, when its officials do not yet have a “visual” of the activity and how it will benefit the Ministry. But a Ministry often would embrace these activities if it could see them “in person”—when it could see tangible results and gains made by them. Working through organizations that do have the right motivation can create a reality that a Ministry can see, appreciate, and adopt for itself. A good example is the Afghan police safety outreach campaign, developed within civil society structures, which ultimately produced a low effort, high impact initiative that was appreciated by participants and improved the image of police. Photos of students looking up at police with awe and admiration, and to testimonials from commanders about the positive public response, prompted MOI to act swiftly to expand the project. International actors and civil society can reinforce the demonstration effect by engaging strategically with the ministry, inviting key decision makers and strategic communications/training departments to observe the activities, and using media coverage to make MOI aware of the image impact that the programs can have. International advisers to the Ministry can also help the transmission of best practices from the civil society initiatives to formal police operations by encouraging inclusion in curriculum and training activities.</p>
+            <p>
+               <bold>
+                  <italic>Advocacy:</italic>
+               </bold> As more communities and police staff are exposed to the programming, new allies emerge who can help advocate with MOI for expansion. Gradually, a consensus develops that the engagement activities should be a standard operating procedure for police. For example, shortly after the Afghan police started safety outreach in Herat, the Provincial Police Chief received calls from principals and teachers for police to visit more schools. In another example, Parliament—an important actor, given its connection both to civil society/communities and its oversight role of police—started to put pressure on MOI to expand civil society programs for women police once it became aware of their results. Convincing MOI to adopt community policing without this support “lobby” is much more difficult than when multiple sectors of society are demanding that change. Additionally, national advocates can press for change over time to sustain reforms, rather than depending on short-term international pressure.
+</p>
+            <p>
+               <bold>
+                  <italic>A New Generation of Leaders:</italic>
+               </bold> As noted above, commanders at the district and provincial level are often more receptive of community policing concepts because they benefit directly and personally from improved relations with their communities. Over time, many of these junior leaders will rise through the ranks, taking that experience with community policing with them, with the ability to promote it on a wider level. Where promotion is linked to their results in the field, there may even be a process of natural selection at work to move the proponents of community policing faster through the ranks. In at least one case in Afghanistan, an officer was promoted on the basis of his work in community policing: his proven ability in managing community interactions made him the prime candidate to handle sensitivities of elections security [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+            <p>Even in the shorter term, police “converts” to community policing can lobby for increased attention to it, or simply institute the institutional changes themselves that will help them consolidate and expand the activities. For example, in the project to strengthen links between police and health care providers, workshop participants were able to make small changes in their own working routines that later spilled over (either through advocacy with leaders or simple adoption of good practices) into the Ministries’ operating procedures. Police staff also identified creative ways to use the techniques introduced by civil society more broadly. For instance, after becoming familiar with briefing schools on safety, one community policing team used the first aid brief as an icebreaker with the taxi unions. Once the union representatives were sufficiently impressed with police concern for their wellbeing, the police announced, “Now we can talk about licensing and registration!”.</p>
+            <p>This concept of the “new generation of leaders” point and the previous point on advocacy can mutually reinforce one another. A strong grasp of community policing concepts is—to a much greater extent than more technical police skillsets—dependent on individual personalities; both at the implementation level (for example, a policeman who on his first visit to the Boy Scouts jumps in to play along in a game of musical chairs) and at the policy level (a ministry official who risks official censure by encouraging access of CSOs to internal decision making), success of community policing requires the right person in the right job. Still, the right person may not stay in the right job, due to frequent turnover of police and ministry officials—indeed, there may possibly be more frequent turnover of community policing “converts” due to their experimentation with the unfamiliar concepts of community policing. To sustain progress, the new generation of leaders must be nurtured and protected by the advocacy community, and their gains institutionalized.</p>
+            <p>
+               <bold>
+                  <italic>Receptors:</italic>
+               </bold> An important factor in the success of civil society initiatives in Afghanistan is whether civil society had a sympathetic point of contact, a “receptor” inside the police force/Ministry. An office that is dedicated to community policing issues can provide a point of entry for civil society and can take the lead in disseminating results and advocating for expansion. As demonstrated with the community policing directorate supported by the UN and provincial community policing teams sponsored by EUPOL in Afghanistan, the reception point can be somewhat weak to start, and may be just enough to provide a point of entry and internal translation for the civil society organizations on the outside. One civil society project for police to mentor boy and girl scouts on safety and rule of law struggled the first year with only eight police participants. With the introduction of the nascent community policing teams and a directorate in the Ministry, police participation grew to hundreds by the following year. The directorate and the teams (only six people each in seven provinces) were not very strong initially, but were able to reach their colleagues and manage the bureaucratic hurdles more effectively than outsiders. Ideally, those receptors would be able to take credit for successes, contributing to their own growth. Due to a capacity building mandate with the Ministry, a key role for international community is to encourage authorities to create these types of reception points. Interestingly, focal points such as community policing teams/directorates may not be doctrinally correct as a long-term solution, because they risk isolating community policing from mainstream operations. However, in the short term they empower civil society initiatives that can then build the wider buy in for longer-term reform.</p>
+            <p>Finally, these effects are not mutually exclusive: The example of Afghan Police Women Councils combined a number of these approaches. A network of women’s CSOs worked to strengthen police women in Afghanistan with the goal of providing better access to justice for women. They assisted the women police to network with each other, to improve advocacy skills so that they could negotiate effectively with their commanders, and to reach out to communities to develop allies. The first experiments were quite successful, resulting in improvements in facilities and more support for women police, including involvement in assignment decisions and response to workplace harassment. The Ministry, however, reacted defensively to the possibility of police women pushing for their own solutions, afraid that their advocacy would damage the reputation of the Ministry and create competition for centralized gender affairs departments. It ordered the police women to stop interacting with the CSOs and dissolved the new police women councils. Intervention by allies in the international community, CSOs, and Parliament helped the Ministry to understand the tool that the networks provided and resulted in establishment of terms of reference for police women networking that benefited both the Ministry and women. The councils have since been incorporated into the Gender, Children and Human Rights Department, where they have established a hotline for women police to report harassment issues and procedures to review cases. This highlights the role that the international community can play in integrating civil society experiments into sustained ministerial efforts.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusion</title>
+         <p>Practitioners and researchers are slowly coming to recognize the value of community policing approaches, not only in maintaining order in relatively peaceful states, but in countering insurgency, combating terrorism, and building government legitimacy in interventions in conflict-affected countries. There is growing recognition of an untapped potential for community policing to contribute to trust-building, peace-building and stabilization in conflict-affected communities.</p>
+         <p>Rather than capitalizing on this potential, however, the standard ministry-centric approach to community policing in conflict-affected states may in fact limit or even extinguish its potential to improve security and to build public trust in government.</p>
+         <p>International interventions can address the barriers to entry for civil society to initiate effective community policing programs by creating funding and institutional space for civil society engagement of police as an alternative to the ministry-centric approach. In order for this to happen, we suggest the following:</p>
+         <p>• Create funding mechanisms that provide support for community policing directly to civil society rather than only to (or through) ministries. These mechanisms can emphasize the importance of integration into ministerial systems so that programs are not conducted in isolation of the government, but the basic principle would be to give responsibility to civil society to drive the initiatives.</p>
+         <p>• To further encourage civil society action on police reform—and acceptance of it by divided donor communities—the activities with the most potential for effective civil society engagement should be documented and the associated training and materials collected, as is common with ministry-centric materials. Such a library of techniques and products could be shared with CSOs and donors to empower and to mainstream civil society action on policing.</p>
+         <p>• Focus ministerial advising efforts on creation of channels for civil society to access and influence the ministry, allowing civil society to incentivize and pressure the ministry over time, rather than attempting direct Ministerial reforms that have weak internal support.</p>
+         <p>In effect, this approach would apply to police reform the core—if often neglected—tenet of development: Empower people to build their own future rather than building it for them. In police reform, a sector that quintessentially authors the redistribution of power between the people and the state, it is even more essential to empower the groups that want accountability and provision of fair, effective services, rather than those who use their power to deny them. Police reform initiatives must stop pushing on the string and instead begin pulling it.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgements</title>
+         <p>The views expressed herein are those of the authors and do not necessarily reflect the views of the United Nations. This paper is based on an analysis of the project documents of the pilot projects in Afghanistan, and interviews with MoI and CSO actors by the second author, and personal experience of the first author in initiating the programs while working with UNAMA in Afghanistan.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations Development Programmme (UNDP)</publisher-name>
+               <article-title>Human Development Report</article-title>
+               <year>1994</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdr.undp.org/sites/default/files/reports/255/hdr_1994_en_complete_nostats.pdf"
+                         xlink:type="simple">http://hdr.undp.org/sites/default/files/reports/255/hdr_1994_en_complete_nostats.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2003</year>
+               <article-title>Human Security Now. Commission on Human Security</article-title>
+               <publisher-name>United Nations Publications</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://reliefweb.int/sites/reliefweb.int/files/resources/91BAEEDBA50C6907C1256D19006A9353-chs-security-may03.pdf"
+                         xlink:type="simple">https://reliefweb.int/sites/reliefweb.int/files/resources/91BAEEDBA50C6907C1256D19006A9353-chs-security-may03.pdf</ext-link>
+               <isbn>0-9741108-0-9</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203965955</pub-id>
+               <year>2007</year>
+               <month>feb</month>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shahrbanou Tadjbakhsh</surname>
+                  </name>
+               </person-group>
+               <article-title>Human Security</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Critical Security Studies and World Politics</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Booth</surname>
+                     <given-names>Ken</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+               <publisher-loc>Boulder, CO</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rienner.com/uploads/47de97240c790.pdf"
+                         xlink:type="simple">https://www.rienner.com/uploads/47de97240c790.pdf</ext-link>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Emerging Perspectives on Post-Conflict Police-Community Relations</article-title>
+               <source>Journal of Human Security</source>
+               <volume>15</volume>
+               <issue>2</issue>
+               <year>2019</year>
+               <issn>1835-3800</issn>
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Or equivalent Ministry</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>These projects were part of a core project funded by the Netherlands Embassy, managed by UNOPS and UNAMA Police Advisory Unit, in collaboration with related programming managed by LOTFA, other embassies, EUPOL, international NGOs and UN agencies</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Post-conflict as used here refers to the end of a larger, armed conflict i.e. war or operation, and not the absence of conflict, as conflict will continue to exist in many forms in these contexts despite political peace agreements. See the introductory article (Nyborg 2019), this issue, for further discussion on post-conflict contexts</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Securing States and societies: Strengthening the United Nations Comprehensive Support to Security Sector Reform</article-title>
+               <publisher-name>General Assembly Security Council. United Nations</publisher-name>
+               <year>2013</year>
+               <annotation>
+                  <p>Secretary General's report on Security Sector Reform in August 2013 (S/2013/480)</p>
+               </annotation>
+               <comment>54</comment>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>United Nations Police in Peacekeeping Operations and Special Political Missions</article-title>
+               <year>2014</year>
+               <publisher-name>United Nations Department of Peacekeeping Operations Department of Field Support USG DPKO, USG DFS</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Future of the Afghan Local Police</article-title>
+               <publisher-name>International Crisi Group</publisher-name>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://d2071andvip0wj.cloudfront.net/268-the-future-of-the-afghan-local-police.pdf"
+                         xlink:type="simple">https://d2071andvip0wj.cloudfront.net/268-the-future-of-the-afghan-local-police.pdf</ext-link>
+               <annotation>
+                  <p>One example of a poorly conceived ministerial program is the Afghan Local Police (ALP), which despite consistently negative results continues to receive international donor (and particularly US) support</p>
+               </annotation>
+               <comment>268</comment>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Between 2010 and 2015</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>In the years since the authors were involved in these efforts, some
+                     of these concerns have been addressed or even solved by the rele-
+                     vant organizations. In particular, LOTFA has introduced a modality
+                     for grants that empowers local civil society organizations to obtain
+                     funding to support their own creative solutions, and more broadly
+                     is engaging civil society as an essential stakeholder in developing
+                     ideas, delivering capacity building, and mobilizing communities to
+                     strengthen and guide police reform efforts. At the same time, LOTFA
+                     maintains a focus on developing the infrastructure and professional-
+                     ization of the police service and ministerial management mechanisms
+                     in recognition that these elements must progress in parallel to civil
+                     society initiatives in order to provide effective security and safety
+                     services</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>One example is the International Police Advisors Masterclass, organized by DCAF/ISSAT. More information at: https://issat.dcaf.ch/ara/Learn/SSR-in-Practice/Countries-Regions/Canada/International-Police-Advisors-Masterclass</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ganapathy</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Damkaas</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Næsje</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>`A Bird's Eye View: from the Field – Is a Police Experts Network (PEN) the missing link in facilitating sustainable Community-oriented Policing in Post-Conflict contexts?'</article-title>
+               <source>Journal of Human Security</source>
+               <year>\textitunder review</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Integrity Watch Afghanistan Community Monitoring Project.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Chief of Police e Mardumi team in Ghor in 2014 was transferred to lead elections security after his successes in negotiating with citizens during community protests over police operations.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
