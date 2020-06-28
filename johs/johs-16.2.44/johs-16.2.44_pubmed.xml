@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16020044</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Protecting the Citizenry—or an Instrument for Surveillance? The Development of Community-oriented Policing in Kenya</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Lid</surname>
+                  <given-names>Stian</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Okwany</surname>
+                  <given-names>Clifford</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Norwegian Institute for Urban and Regional Research, Oslo Metropolitan University, Oslo, Norway</aff>
+         <aff id="A3">
+            <label>2</label>Department of Political Science and Public Administration, The University of Nairobi, Nairobi, Kenya</aff>
+         <pub-date pub-type="ppub">
+            <day>18</day>
+            <month>06</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>44</fpage>
+         <lpage>54</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Community-oriented policing (COP) has become an important innovation in policing throughout the world, with variations among countries and regions, and over time. We identify and discuss contextual factors that determine the formation of COP policies, by investigating two contradictory national COP policies in Kenya: Constitutional Community Policing and Nyumba Kumi. Our study draws on primary data collection and secondary literature on contextual factors. The two competing Kenyan COP policies show, first, that there are significant variations in the nature and content of policing policies defined as COP; secondly, that the diversified and competing local contexts in transitional countries, involving reform processes while key elements of the past regimes are maintained, create significant room for manoeuvre for the actors involved. That enables the formation of radically different COP policies, in Kenya represented by a reformative COP policy as well as a repressive COP policy. Thirdly, the Kenyan case illustrates the risk of subversion of core intentions of COP: government actors have promoted COP policies focused more on information flow than on democratization and police reform. As a result, COP in Kenya has become more of an instrument for surveillance than a tool for protecting the citizenry. This development demonstrates clear historical continuities with colonial policing, significantly enabled by the emerging threat of terrorism. We argue that COP policies building on such criteria are counterproductive and are likely to fail. To avoid the misuse of the label ‘COP’ and legitimation of repressive policing practices, a common coherent definition of COP is required—one that at least ensures the needs and rights of citizens and local communities.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Africa</kwd>
+            <kwd>community policing</kwd>
+            <kwd>Kenya</kwd>
+            <kwd>policy formation</kwd>
+            <kwd>security reforms</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Community-oriented policing (COP) has become an important innovation worldwide [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>]. While COP originates from the Global North, it has rapidly become a significant policing strategy in transitional (post-conflict and post-colonial) countries. The emergence of COP policies in such countries has frequently been supported by international security-development interventions [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>]. COP, as a style or a strategy of policing that reflects local community needs and promotes partnerships between local communities and the police, aimed at preventing and managing crime and resolving social disorder [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R7">7</xref>] has become widely recognized as a strategic aspect of police reform processes and processes of restoring trust in police/community relations [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R7">7</xref>]. However, there is no commonly agreed, clear definition of this policing strategy: COP has been interpreted and practiced differently in various countries and regions, and over time. This has led to the emergence of a diverse set of policing systems that claim to be COP but differ greatly in content and impact [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>Importantly, COP does not occur in a political and social vacuum, it is heavily influenced by the historical, cultural, and political context [<xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]. What type of COP is formed when the local context is particularly diversified and complex—as in transitional countries where there are transformation processes from a post-colonial to a modern governance system? Clarification of what is decisive for the formation of COP policies in such transitional countries is needed for a better understanding of the formation processes and the causes of variations in COP policies.
+</p>
+         <p>This article examines the formation of COP policies in one transitional country—Kenya—by identifying and discussing a set of important contextual factors. The Kenyan case is particularly interesting because the government has initiated two national COP policies that differ significantly in goal, content, and approach. <italic>Constitutional Community Policing</italic> (CCOP) [<xref ref-type="bibr" rid="R12">12</xref>] is anchored in the new Kenyan Constitution from 2010, Article 244 (e), [<xref ref-type="bibr" rid="R13">13</xref>] and is part of the reformation of the country’s security apparatus. <italic>Nyumba Kumi</italic> (NK) is the government’s COP policy at the household level [<xref ref-type="bibr" rid="R14">14</xref>]; it is aimed at enabling residents in local communities to get to know each other better and provide intelligence to the police and the government by applying the colonial administrative structure. While CCOP emphasizes decentralization and reformation, NK is aimed at strengthening centralized surveillance.</p>
+         <p>We ask: how was emergence of two such different COP policies possible? What are the decisive contextual factors for the formation of the two Kenyan national COP policies? What are the implications of these COP policies?</p>
+         <p>Here we explore how five contextual factors—<italic>the colonial policing legacy, security concerns, the objectives of the police, international interventions, and ideological perspectives among political parties</italic>—influenced the formation of these two Kenyan COP policies. Through this analysis, we aim to contribute to increased knowledge about the formation of COP policies, especially in transitional countries. More specifically, we shed light on how diversified local contexts in transitional countries and changes in security concerns can enable the formation of radically different COP policies within the same country, and potential implications of changes in the prioritized COP policy. This knowledge can also contribute more broadly to understanding the linkage between politics and policing, an under-examined feature in much of the literature on policing and security governance [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>].</p>
+         <p>The article draws on a combination of a review of the relevant secondary literature (academic and media articles, public documents, and regulations) in addition to primary data collection conducted in Nairobi, 2016–2018. The secondary data are important mainly for shedding light on historical continuities, and the aim and the structure of Kenya’s COP policies. The primary data aim to capture relevant actors’ perspectives on COP policies and the development of these policies. We have conducted semi-structured interviews with representatives from international organizations and embassies in Nairobi, government representatives, Kenyan academic experts in various fields, Kenyan human rights organizations, community-based organizations, and ordinary citizens in Nairobi [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+         <p>We begin with a brief account of how COP has been understood and promoted internationally, and then present our theory framework. Next, we situate COP within Kenya, including a brief presentation of CCOP and NK. Thereafter, we analyse the formation of these two policies by examining the influence of the five above-mentioned contextual factors. We conclude with a discussion of how contextual factors have enabled the formation of such widely differing COP policies, and of the implications of the COP policies that have been developed in Kenya.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Community-oriented Policing</title>
+         <p>The emergence of COP worldwide is seen as a major innovation in modern-day policing. However, the COP concept remains a subject of definitional debates and interpretations. This has led to confusion regarding what constitutes the approach and activities of COP, as well as how to measure its utility and effectiveness. As a result, today these exist a diverse set of policing systems claiming to be COP [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>]. However, Skogan [<xref ref-type="bibr" rid="R7">7</xref>] argues that COP has three core elements: citizens’ involvement, problem-solving, and decentralization. These three dimensions are closely interrelated, and ignoring even one of them might hamper the impact of COP initiatives. Citizens’ involvement concerns efforts at encouraging the public to strengthen community safety on their own, but also at encouraging the police to engage with the public in making priorities and tactics, and to heed what the public see as their problems. Problem-solving calls for identification of the underlying causes of security problems, and tactics for handling these causes. Decentralization points to the devolution of authority and responsibility in the security apparatus to encourage the development of local solutions to locally defined problems ([<xref ref-type="bibr" rid="R7">7</xref>], p. 28). These core elements in COP have led to widespread recognition of COP as a relevant approach to restoring trust in police–community relations. In transitional countries, COP has become a major strategy for re-establishing broken links between community and police, and rehabilitating the police institution in a way that encourages citizens to trust, interact and support the police [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R7">7</xref>]. COP is also seen as an organizational strategy for transforming the police institution, and a way of creating new cultures within police departments [<xref ref-type="bibr" rid="R7">7</xref>]—indeed becoming semi-synonymous with police reform more generally [<xref ref-type="bibr" rid="R18">18</xref>]. Police reform is often one component of wider political reforms, and these processes are interconnected and interdependent [<xref ref-type="bibr" rid="R10">10</xref>], as we will see in the case of Kenya.</p>
+         <p>Previous studies of COP in Kenya [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>] and elsewhere (i.e.) [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R25">25</xref>] have mainly examined the content and challenges of implementation, in addition to the activities and interests of international actors [<xref ref-type="bibr" rid="R3">3</xref>]. Despite great variations in the nature and content of COP policies worldwide, few studies have analysed the formation processes of COP policies, to get a better understanding of the factors that give shape to these policies. In analysing the formation of COP policies, we draw on critical institutional theory and the concept of institutional bricolage.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Understanding Policy Formation</title>
+         <p>Critical institutional theory can provide insights into the ‘complexity, negotiability, and fuzziness’ of institutional formation ([<xref ref-type="bibr" rid="R26">26</xref>], p. 16). This perspective questions the view of policy-making and implementation as a thoroughly rational undertaking, where social and technical change is considered to be brought about by generalizable policy ideas and neutral scientific reasoning. Cleaver [<xref ref-type="bibr" rid="R26">26</xref>] challenges this assumed rationality in policy-making by applying the concept of <italic>institutional bricolage</italic>, a hybrid approach drawing on components from various institutional theories. Institutional bricolage emphasizes that the formation of institutions [<xref ref-type="bibr" rid="R27">27</xref>] is a complex and multi-layered process influenced by a range of factors. Cleaver draws on the French anthropologist Levi-Strauss’s concept of ‘intellectual bricolage’, which builds on the idea that people creatively draw on heterogeneous repertoires in their thinking, but that there are structures that limit the repertoires and their variations. Unlike the rational and specialist engineer, the <italic>bricoleur</italic> is more of a handyman who makes the best out of the tools and resources at hand.</p>
+         <p>The concept of institutional bricolage combines practical creativity on the part of agencies and structural constraints in explaining institutional formation, functioning, and outcomes. It refers to processes where ‘people consciously and non-consciously draw on existing social formulae (styles of thinking, models of cause and effect, social norms and sanctioned social roles and relationships) to patch or piece together institutions in response to changing situations’ ([<xref ref-type="bibr" rid="R26">26</xref>], p. 45). Central here is the interplay between agency and structure in the formation of institutions. Individuals—and institutions—are heavily influenced by pre-existing ways of thinking, social norms, and moral worldviews. The institutional bricolage assumes that a range of historical, social, cultural, legal, and political factors shape the tools and resources that form institutions, thereby making the institutions geographically and historically contingent. It further assumes that multiple rationalities, interests, and agendas may be involved concurrently. Individuals promote their interests, exercising varying levels of influence over the formation and functioning of institutions as a result of their social position. Implicit here is the assumption that bricolage is a process shaped by relations of power, and that individual actions and social structures interact to produce outcomes that are enabling for some while constraining others. Some aspects of these processes are reproduced in routine practices, whereas other aspects are subject to negotiation, contestation, and justification.
+Cleaver’s concept of institutional bricolage was developed in studies of local institutions for natural resource management in Africa, but is increasingly used in discussing how institutions and policies change in more general terms (see, for instance [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>]). We find the concept highly relevant for exploring the evolution of COP policies in transitional countries in particular. As we will show, in Kenya’s transformation processes from a post-colonial to a modern governance system, several competing processes have created a local context of diversified structures, ideologies, values, and norms. This complex local context makes it highly pertinent to analyse how contextual factors have influenced the formation of COP policies.</p>
+         <p>In the following, we situate COP in Kenya and briefly describe the two COP policies, before moving on to analyse these in detail.
+</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Situating COP in Kenya</title>
+         <p>Kenya is an important economic, financial, and transport hub in East Africa. Recent decades of economic growth have also brought increased human development [<xref ref-type="bibr" rid="R31">31</xref>], but the growth is unevenly distributed in the population. Kenya has a diverse ethnic population with high inter-group tensions, making ethnicity a significant cause of insecurity. Moreover, economic growth has been impaired by weak governance and corruption [<xref ref-type="bibr" rid="R32">32</xref>]. This applies also to the Kenyan police, suffering from lack of resources, equipment, competence [<xref ref-type="bibr" rid="R33">33</xref>], and infamous for corruption [<xref ref-type="bibr" rid="R34">34</xref>]. Many Kenyans see the police mainly as a threat to their property and security. In some documented cases, police officers have contributed to crime rather than its prevention and detection [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>]. In interviews, residents and community-based organizations in Mathare, an informal settlement in Nairobi, have reported extraordinary police brutality and frequent cases of extrajudicial killings ([<xref ref-type="bibr" rid="R38">38</xref>] see, also [<xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>]). Police officers have been seen primarily as corrupt and brutal criminals who protect the elite rather than ordinary members of the public. These conditions result in low levels of trust in the police among many Kenyans [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>].</p>
+         <p>COP was introduced by the Kenyan police early in the 1990s. Inspired by their South African counterparts, the Kenyan police initially saw COP as a matter of recruiting civilians as police reserve officers [<xref ref-type="bibr" rid="R5">5</xref>]. During the 1990s, civic organizations in Kenya established other initiatives based on various interpretations of COP. Nairobi Central Business District Association (NCBDA), concerned at police failure to deal with crime in the business area, wanted a public–private partnership, for better security. Kenya Human Rights Commission (KHRC) saw COP as a practical and measurable tool of curbing crime and human rights abuses by the police and the criminal environment [<xref ref-type="bibr" rid="R5">5</xref>]. After these initial COP initiatives, civil organizations have introduced further initiatives with varying content and aim, generally locally initiated and geographically limited; for instance the Crisis Response Development Foundation (CRDF) COP projects in Nanyuki and Kilifi counties in the 2000, and the more recently Lemelepo Community Policing Project (LCPP) in Kajiado county [<xref ref-type="bibr" rid="R44">44</xref>], as well as Saferworld and PeaceNet’s COP projects [<xref ref-type="bibr" rid="R45">45</xref>]. More recently, the Kenyan government itself has introduced national policies for COP. In the course of a few years, it presented two national COP policies—Constitutional Community Policing (CCOP) and <italic>Nyumba Kumi</italic> (NK). These differ considerably in their nature and content, and relate differently to the key aspects of COP described above.</p>
+         <p>The 2010 Kenyan Constitution, Article 244 (e), provides the legal framework for CCOP: the national police shall promote and foster a relationship with the community [<xref ref-type="bibr" rid="R12">12</xref>]. Additionally, the Constitution introduced a new governance structure, transferring decision-making and implementation powers, functions, responsibilities, and resources from central to elected local governance structures ([<xref ref-type="bibr" rid="R12">12</xref>], Chapter 11). CCOP builds on this new devolved structure in which all county-level security organs are governed under civilian authority [<xref ref-type="bibr" rid="R46">46</xref>]. The County Policing Authorities (CPA) is the oversight body of CCOP, and is chaired by the Governor, an elected post. CPA consists of representatives from various security institutions and the community [<xref ref-type="bibr" rid="R47">47</xref>]. Its functions are to monitor trends and patterns of crime in the county and develop proposals on priorities, objectives, and targets for police performance. This includes monitoring the progress and achievement of set targets as well as providing feedback on the performance of the police services at the county level. CPA shall ensure that COP initiatives comply with the national policing standards [<xref ref-type="bibr" rid="R46">46</xref>].</p>
+         <p>Additionally, CPA shall establish structures to implement Community Policing Committees (CPC) on various levels in the county and receive reports on their work. CPCs, from the county to the local level, are to serve as an arena for representatives of the police and various segments of society in identifying and solving problems, and coordinating COP activities, programs, and training to promote security. Civilian members of the committees should represent various community interests, with consideration given to gender, age, special needs, business groups, and religious organizations. Members can participate in CPCs for two years, with one renewal. Membership is voluntary, and representatives receive no compensation for their participation [<xref ref-type="bibr" rid="R46">46</xref>].</p>
+         <p>In 2013, the Kenyan government initiated a contradictory COP policy, <italic>Nyumba Kumi</italic> (NK) [<xref ref-type="bibr" rid="R48">48</xref>]. The concept is borrowed from Tanzania and is closely linked to the African philosophy of <italic>Ubuntu or Unduguism</italic>—meaning humanity or brother’s keeper. President Kenyatta encouraged Kenyans to embrace <italic>Undugu</italic> (brotherhood)—watching out for one another and informing the police in case of suspicion of terror-cells [<xref ref-type="bibr" rid="R20">20</xref>]. In Swahili, <italic>‘nyumba kumi’</italic> means ten houses, but the concept is not limited to a fixed number of households. It represents a cluster of people or organizations defined by ‘physical locations, felt needs and pursuit of common ideals’ ([<xref ref-type="bibr" rid="R14">14</xref>], p. 3). NK is a policy of anchoring COP at the household level, focused on getting local residents to know each other and to establish a structure for communication among residents as well as with the local police. Each unit should deal not only with security, but also with youth conduct in general, environmental issues, education, and cultural matters. Key NK activities include identifying problems, sharing information among members, and jointly solving problems that might give rise to crime and social disorder. In addition to anchoring COP at the household level, NK also provides, like CCOP, a structure of community policing committees on a higher administrative level, consisting of Government Policing Agencies and elected community members from a wide societal spectrum. However, in NK, officers in administrative posts appointed by the President, such as chiefs and county commissioners, are mandatory members of the committees in their areas of duty, from local to county level. An essential element of NK involves reporting to higher-level community policing committees and the police for action [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>Thus, there are similarities as well as differences between the two COP policies. Both CCOP and NK build on the COP principle of encouraging local community involvement in local policing and creating forums for partnership between local representatives of various community groups and police. Key activities are problem-identification, information sharing, and problem-solving. However, NK is limited in its scope to the household and community level, whereas CCOP is a more comprehensive policy that also includes the institution level, with the essential aim of reforming the police to reflect community needs, building a partnership with the community, and improving citizens’ trust in the police. We hold that CCOP and NK are not parallel, complementary policies, but are contradictory due to significant differences in their structures, functions, and aims. While CCOP emphasizes decentralization and empowering the elected local governance structure, NK is based on the key position of the presidentially appointed representatives and is aimed at strengthening centralized surveillance. There are thus decisive differences between the two.</p>
+         <p>How could such different COP policies have been developed in the same country and almost in parallel? What were the decisive contextual factors that led to such diverse policies, and what are the implications of the resultant COP policies? In the following, we explore the major contextual factors that can explain how the emergence of these contradicting policies was possible, by describing a set of contextual factors decisive for their formation. According to Cleaver [<xref ref-type="bibr" rid="R26">26</xref>], historical, cultural, and social factors create opportunities and impede the actors’ responses and innovations to changing situations. We do not directly investigate the decision-making processes, but analyse the underlying factors leading to the decisions. In line with this understanding of institutional bricolage, we analyse how contextual factors have influenced the formation of Kenyan COP policies.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Formation of COP Policies in Kenya</title>
+         <p>In the next sections, we will examine how CCOP and NK were influenced by five contextual factors: <italic>colonial policing legacy, security concerns, police objectives, international interventions, and ideological perspectives among political parties</italic>. The variation within each of these five contextual factors provided significant room for manoeuvre for the involved actors to form polices as different as CCOP and NK.</p>
+         <sec id="s5.1">
+            <title>5.1.- Colonial Policing Legacy</title>
+            <p>The legacy of the colonial policing in Kenya and Africa provides the cultural, social, and structural patterns that agencies, politicians and other stakeholders have drawn on in the formation of today’s COP policies. CCOP and NK vary considerably in their adaption and improvization to Kenya’s colonial history. NK has some clear lines back to colonial-era policing, whereas CCOP represents a reformation of the past.</p>
+            <p>The origin of most African police forces, including the Kenyan, can be found in measures aimed at securing the colonial regime by coercive means [<xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>]. Policing was part of the foundation of colonial states, and extended the range of state authority. However, police presence was mainly in urban and developed areas of white settlements; elsewhere, the state police were “thinned out” [<xref ref-type="bibr" rid="R50">50</xref>]. Local African communities were mainly responsible to police themselves, and colonial policing often relied on vigilantism and other forms of social control [<xref ref-type="bibr" rid="R51">51</xref>]; indeed, and vigilantism still has strong political connections [<xref ref-type="bibr" rid="R52">52</xref>]. The British colonial administration ruled indirectly by emphasizing the role of local chiefs in maintaining everyday law and order. Chiefs acted as colonial prefects for governments that often lacked sufficient powers or resources to work on the local level on a daily basis. In Kenya, as in many other British African colonies, a tribal police/native police authority was established in parallel to the Government Police Force, to enhance the policing in rural areas as well as collecting taxes. The native police and the chiefs were central elements in the system of Native Administration in British Africa, and a measure for preventing the expansion of rebellion countrywide, such as the Mau Mau in Kenya [<xref ref-type="bibr" rid="R51">51</xref>]. In 1958, the Kenyan Tribal Police were changed to Administrative Police [<xref ref-type="bibr" rid="R53">53</xref>], still functioning under the Kenya Police Service [<xref ref-type="bibr" rid="R46">46</xref>].</p>
+            <p>After independence from the British Empire in 1964, several initiatives have been taken to improve the professionalism and morale of police officers, and change the police from the political control by authoritarian regimes to a more reformed police system [<xref ref-type="bibr" rid="R5">5</xref>]. The introduction of multiparty politics in Kenya lessened the political dimension in policing by exposing the police system to public criticism and scrutiny—apparently without leading to accountability ([<xref ref-type="bibr" rid="R5">5</xref>], p. 592). Despite some improvements, traces of the colonial and the post-colonial state are still evident in many African police systems. The nature and purpose of policing remain unchanged: to maintain a certain degree of order and represent the interests of dominant groups or individuals rather being an instrument that protects the population against crime [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>].</p>
+            <p>This legacy of African policing is the historical context drawn on by two COP policies in various ways. NK continues some of the historical trajectories by mobilizing old structures. The structure of community policing committees in NK build on the old colonial administrative structure. For officers in administrative posts appointed by the President, such as chiefs and county commissioners, membership in the committees in their areas of duty (from local to county level) is mandatory. Essential in NK is to report to community policing committees on a higher administrative level and to the police, when action is needed [<xref ref-type="bibr" rid="R14">14</xref>], with the Executive Office of the President at the end of the reporting chain. This reporting chain, and the key position that officers in presidentially-appointed administrative posts have assumed in NK, reflect the legacy of the colonial era, when these officers were important for everyday law and order in addition to gathering intelligence for the president.</p>
+            <p>On the other side, CCOP counters the colonial policing legacy by applying a devolved structure and promoting police reforms. The police are to liaise with local communities through community policing initiatives and fulfil the needs of the community: they should serve the communities. The new devolved government structure strengthens the functions, resources, and power of the elected local governance structure. Further, the establishment of the CPA as an oversight body governed under civilian authority is aimed at reducing the political dimension in policing and improving police–citizenry relations. Hence, whereas NK can be seen as a continuation of the colonial legacy, CCOP can be understood as a measure for counteracting the colonial policing legacy.</p>
+            <p>However, Schlichte [<xref ref-type="bibr" rid="R49">49</xref>] argues it is not the colonial legacy alone that influence the institutional outcome. Local, social, and political structures [co-]determine the form of organization resulting from colonial encounters. We start by exploring the importance of security concerns for the formation of COP policies.</p>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Changing Security Concerns</title>
+            <p>In Kenya, two major security concerns have been decisive factors in the development of CCOP and NK. For CCOP, there is a linkage to the post-election violence (PEV) 2007 and 2008, which resulted in approximately 1200 deaths and the displacement of 350 000 refugees [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>]. Kenya has experienced several incidents of PEV: the post-election violence in 2007/08 was a political, economic, and humanitarian crisis that erupted after former President Mwai Kibaki was declared the winner of the presidential elections, and the opposition party, Orange Democratic Movement (ODM), led by Raila Odinga, rejected the results [<xref ref-type="bibr" rid="R58">58</xref>]. Briefly put: this PEV was essentially an ethnic conflict in which individuals were targeted because of their ethnicity. Kenyan voting patterns of political allegiance are based on ethnicity [<xref ref-type="bibr" rid="R59">59</xref>]. The mediation process following the 2007/08 election crisis led to various reforms that have remained stalled and derailed for decades, and most importantly, the new 2010 Constitution, which initiated and provided the framework of CCOP. The rapid development was primarily a result of the crisis, with broad acknowledgment of the need for institutional changes, citizen pressure from below, political coalitions and serious efforts at addressing the problems, in addition to the importance of international mediation [<xref ref-type="bibr" rid="R58">58</xref>].</p>
+            <p>By contrast, the development of NK came as an immediate response from the government to the terrorist attack at Nairobi’s Westgate Centre in September 2013. Terrorist attacks and violent extremism are not new in Kenya: there have been several major attacks, including the attack on the US Embassy in Nairobi in 1998 with more than 200 deaths [<xref ref-type="bibr" rid="R60">60</xref>]. Mass shooting in the Westgate attacked resulted in 71 deaths, and approximately 200 wounded [<xref ref-type="bibr" rid="R48">48</xref>]. The Somalian militia group, al-Shabaab, which has recruited many Kenyans, claimed responsibility for the attack [<xref ref-type="bibr" rid="R61">61</xref>]. Two weeks later, the government announced NK as an initiative aimed at countering terrorism attacks.</p>
+            <p>Both the terrorist attack at Westgate and the post-election violence in 2007/08 heavily influenced political decisions and the formation of COP policies, but in different ways. Whereas the post-election violence resulted in significant pressure on national policymakers to introduce reforms, the Westgate attack primarily provided legitimacy for the political leadership to implement new efforts aimed at strengthening police intelligence. This indicates that the development of the COP policies drew on various objectives and purposes as regards the police, to which we now turn.</p>
+         </sec>
+         <sec id="s5.3">
+            <title>5.3.- Objectives of the Police</title>
+            <p>The formation of CCOP and NK seems to have been driven by two different objectives as to the police. Whereas CCOP was closely linked to the aim of reforming the Kenyan police into an accountable service for the citizenry, NK was motivated by the desire to strengthen the intelligence and information delivered to the police, to ensure national security.</p>
+            <p>Several police reform initiatives have been launched since Kenyan independence. However, the police response to the post-election violence in 2007/2008 demonstrated the lack of real reform. It emerged that members of the Kenyan Police Force became active participants in abetting the violence once it commenced, and were responsible for more than one-third of the deaths, the victims being mainly supporters of the opposition party [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R62">62</xref>]. Disclosure of the severe police brutality and the political interference during the 2007/08 election violence fuelled the widespread acknowledgment of the need for police reform, with pressures on the political leadership [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R62">62</xref>].</p>
+            <p>The 2008 Kenyan Commission of Inquiry into Post Election Violence (CIPEV), mandated to investigate the incident, strongly recommended a comprehensive police reform, and established the National Task Force on Police Reforms (NTFPR) chaired by Justice Philip Ransley. The Task Force emphasized that low police salaries, political interference, lack of competent police personnel, poor technical equipment, and communication as obstacles to the development of the police [<xref ref-type="bibr" rid="R33">33</xref>]. These elements were not fully taken into account in the new Kenyan Constitution, but other structural recommendations are incorporated. The 2010 Constitution [<xref ref-type="bibr" rid="R63">63</xref>] included reforming the Kenyan Police from a National Police Force (NPF) to the National Police Service (NPS). This involved merging the Administration Police (AP) with the National Police under the supervision of the Inspector General. Also included in the new Constitution was the creation of an independent police oversight body and police disciplinary body. Additionally, and even more important for the development of COP, Article 244 (e) of the Constitution instructs the police to promote and foster a relationship with the community. According to NPS Act 2011 [<xref ref-type="bibr" rid="R46">46</xref>], the objectives of COP include establishing and maintaining the partnership, communication, and cooperation between the community and the police service to fulfil the needs of the community regarding policing. The new legal framework requires the police to conduct policing with the local community, as opposed to <italic>policing the community</italic> [<xref ref-type="bibr" rid="R64">64</xref>]. This is to be achieved by bringing the police and the citizenry together in decision-making committees, as a way of establishing knowledge-based policing [<xref ref-type="bibr" rid="R65">65</xref>]. To ensure sustainability of the police reform, a Police Reform Steering Committee within the Ministry of Interior and Coordination and National Government was established [<xref ref-type="bibr" rid="R66">66</xref>]. These reforms show how the aim of reforming the police drove the establishment of CCOP, with CCOP merely part of broader reform processes.
+</p>
+            <p>NK was not initiated in order to reform the police, but mainly to encourage the public to become actively involved in promoting national security by gathering and sharing relevant information with the police. The police, not only in Kenya but worldwide, have limitations as regards problem-solving and gathering information, and need assistance from local communities [<xref ref-type="bibr" rid="R11">11</xref>], further exacerbated by the rising threat of terrorism, and the lack of intelligence capacity. The NK can be seen as a response to addressing this intelligence problem, through political legitimacy to extend police intelligence mechanisms.</p>
+            <p>Thus, various objectives as regards the police have driven the evolution of Kenya’s two COP policies. However, these processes should not be understood as a solely domestic concern. We now turn to international influences on the emergence of Kenyan COP policies.</p>
+         </sec>
+         <sec id="s5.4">
+            <title>5.4.- International Involvement</title>
+            <p>In Kenya, COP has been a central element of international security-development interventions for decades [<xref ref-type="bibr" rid="R5">5</xref>]. Particularly in the case of CCOP, the international influence appears significant. CCOP has been inspired largely by Western norms and values, with the prevailing understanding of COP as emphasizing community needs, police reform and trust building. Moreover, the National Task Force on Police Reforms recommended external donor support [<xref ref-type="bibr" rid="R33">33</xref>] which in 2010 resulted in the establishment of the Development Partners Working Group on Police Reforms (DPWGPR) chaired by delegates from United Kingdom. In interviews, UN representatives explained that this working group had been important platform as regards the emergence of COP policies—primarily CCOP, which is the COP policy these partners mainly support [<xref ref-type="bibr" rid="R67">67</xref>]. However, they mentioned two major challenges in that connection: First, in giving priority to implementing NK, the government has neglected the process of CCOP implementation. Donor representatives were generally sceptical to NK, not least because NK policies do not focus on improving the police as such. They felt that the reform processes of democratizing the police had lost momentum, and that having two parallel COP models obstructed the introduction of necessary changes in the security sector. A second challenge for the donor community was President Kenyatta’s lukewarm attitude to donor involvement. For instance, he wanted to limit Kenyan organizations’ financial support from abroad [<xref ref-type="bibr" rid="R68">68</xref>]. We see that the international community has been given some special venues for influencing the formation of CCOP in particular, but they face considerable challenges, largely due to domestic political factors.</p>
+            <p>However, NK also draws on inspiration from outside Kenya, but not in the field of international security-development interventions: NK was originally a Tanzanian concept built on African tradition [<xref ref-type="bibr" rid="R20">20</xref>]. Thus, whereas CCOP has been influenced by international norms, values, and interventions, NK is more closely linked to traditional African philosophy of “brotherhood”. We now turn to the variations in ideological perspectives on security structures in Kenyan politics.</p>
+         </sec>
+         <sec id="s5.5">
+            <title>5.5.- Competing Ideological Positions</title>
+            <p>In Kenya, there are currently at least two administrative systems that enjoy political support. Both CCOP and NK draw on these administrative structures—a major reason way COP in Kenya has been so hotly debated. CCOP builds on the new devolved structure of dispersing political power and economic resources from the national to lower levels of governance. The new Constitution [<xref ref-type="bibr" rid="R63">63</xref>] calls for mutual relations among the 47 county-level governments, Articles 189–192, and Article 6 (2), and provides a sharing mechanism for functions, duties, and services. County and national governments are to share security responsibilities, Article 186, and executive powers have been devolved by introducing the governors’ offices. The governors, who are elected officials, are the county chief executives, with responsibility for county development, including the formulation of security policies [<xref ref-type="bibr" rid="R63">63</xref>].</p>
+            <p>Already in 2011, one year after the introduction of the legal COP framework, President Mwai Kibaki took steps to extend the old colonial administrative structure on which NK was built. Article 15 of the controversial National Coordination Act of 2013 [<xref ref-type="bibr" rid="R69">69</xref>] gives executive powers to the Cabinet Secretary to recruit and appoint national government administrative officers in various geographical areas: county commissioners, sub-county commissioners, deputy county commissioners, assistant county commissioners, chiefs and assistant chiefs. These officers are appointed to be responsible for their respective localities, and are to coordinate national government functions, including overseeing and coordinating security on behalf of the executive in their locality. The National Coordination Act of 2013 thereby reaffirmed the old British colonial administrative structure, even though the 2010 Constitution had dissolved the institution of chiefly authority. Further, the county commissioners replaced the elected governors in handling security matters, even though the constitutional framework vested these powers in the elected county governors [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>].</p>
+            <p>By initiating NK, building on the re-empowered old administrative structure, the ruling coalition party Jubilee, now the Jubilee Party, strengthened the political centralization of power. Control of security functions and duties remained with the national government, including involvement in security policy formulation, which CCOP devolved to the county level. The minority centre/left coalition grouping, National Super Alliance (NASA), supports the constitutional arrangement of security structure and CCOP, dismissing NK as government policy for policing the citizenry [<xref ref-type="bibr" rid="R72">72</xref>]. In Kenyan politics, there have been, at least on paper, politically divided perspectives on the security structure: centralization of security vs decentralization [<xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>]. The former favour the status quo, the colonial administration initiated by the British before independence, whereas proponents of decentralization favour the new Constitution and its aims of devolving security functions to county governments, with a focus on decision-making power and the formulation of security policies through constitutional mechanisms [<xref ref-type="bibr" rid="R75">75</xref>]. These opposing ideological perspectives have been important for the evolution of the various COP strategies, as these perspectives underlie the political parties’ strategies for the security structure, crucial for the formation of the two COP policies.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Concluding Discussion</title>
+         <p>We have examined how the formation of CCOP and NK has been influenced by several contextual factors: colonial policing legacy, security concerns, objective of the police, international interventions and ideological perspectives among political parties. Although we analyse these five factors separately, they are highly interconnected and interdependent. In this final section, we sum up the contextual landscape and discuss how the diversified local context has enabled the formation of such disparate COP policies. We conclude with a discussion of the implications of the COP policies developed in Kenya.</p>
+         <p>We have noted the great variation within these contextual factors, and how these variations have influenced the emergence of Kenya’s COP policies. Variations within the contextual factors are closely linked to two separate processes. Kenya is a transitional country where significant reform processes are underway at the same time as processes preserving central elements from the colonial regime have persisted. These parallel processes have led to a diversified local context with significantly differing structures, ideologies, values, and norms, all influencing the formation of CCOP and NK.</p>
+         <p>CCOP emerged as part of broader democratization and decentralization reform processes in Kenya, inspired by Western values, norms and perspectives and largely supported by international development interventions. CCOP has sought to counter the colonial policing legacy by applying the new devolved structure and promoting police reforms. The post-election violence in 2007/2008 accelerated these reform processes.</p>
+         <p>By contrast, the formation of NK has been influenced by other ideologies, values and processes. The ideology of centralization of the security structure promoted by the ruling party is central to NK, which mobilizes the old colonial structure by making membership in NK committees mandatory for presidential representatives. This has made NK largely a reaffirmation of the colonial policing legacy, made possible by the emerging threat of terrorism and the need for better intelligence gathering.</p>
+         <p>In short, CCOP is based on the reform processes in Kenya, whereas NK draws mainly on the colonial legacy. CCOP and NK are in different ways part of the social world they are intended to modify, making them both legitimate and contested. Moreover, the diversified local context has provided significant room for manoeuvre for agencies in the formation of COP policies. As argued by Cleaver [<xref ref-type="bibr" rid="R26">26</xref>], institutions formed through bricolage are pieced together by groups of individuals in the interplay of structural constraints and creativity. In the formation of COP policies, actors with varying interests and agendas have been able to draw on either modern or traditional structures, ideologies, and values, depending on their interests and agendas.</p>
+         <p>This significant room for manoeuvre has increased the influence of these actors on the formation processes. Cleaver [<xref ref-type="bibr" rid="R26">26</xref>] considers bricolage as a process shaped by relations of power, but the negotiations and importance of power in the institutional formation are often invisible and hidden. However, that is not the case with the formation of COP policies in Kenya. Particularly evident is the use of power by the President and the ruling party to subvert CCOP by establishing NK despite domestic and international pressure for reforms, and the promotion of CCOP in the new Constitution. On the one hand, this indicates that the real influence of international society on the government’s preferred COP policy has been limited. The Kenyan government’s involvement of international representatives emerges as what Hills [<xref ref-type="bibr" rid="R54">54</xref>] describes as ‘tactical concessions or gesture to donors on the part of political elites’. On the other hand, this shows the significant willingness of the national president and the ruling party to use power to prioritize NK. The emerging threat of terrorism and the need to strengthen police intelligence might have been significant factors, as some have claimed. However, the emergence of NK also appears closely related to the desire to retain control of the security apparatus. Historically, in many African countries there has been a lack of willingness on the part of the president and government to decentralize state security structures [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R54">54</xref>]. The ruling party in Kenya has argued for centralization of security, and the initiation of NK and adjustment of associated regulations can be seen as a continuation of earlier practices of maintaining centralized control over the state security apparatus. Evidently, the Kenyan President and the ruling party see COP as an important tool for maintaining control of the national security apparatus, and are willing to use considerable power in order to develop a COP policy that can ensure that they ruling party preserves control.</p>
+         <p>Finally, what are the implications of the formation of two mutually contradictory COP policies in Kenya? First, we note that the level of innovation of COP policies and to what extent they address underlying challenges has varied significantly. To a great extent, CCOP promotes reformation of the previous security apparatus, and seeks to address several major institutional, cultural and structural concerns. By contrast, NK represents primarily a continuation of the past. Only to a minor extent does it promote innovation, alternation and improvisation. The Kenyan government’s prioritization of NK instead of implementing CCOP has in effect subverted the reform processes so basic to CCOP. The result has been a shift in the aims of COP, from long-term goals like reforming the security system by addressing major problems, to short-term goals like strengthening security by increased surveillance and information flow. With this emphasis on NK, COP in Kenya has become more of an instrument of surveillance than a tool for protecting the citizenry. We hold that, in a transitional country like Kenya, with fundamental institutional challenges and limited trust between the police and the citizenry, COP policies that do not address the main challenges will necessarily be counterproductive, and end up failing due to their own limitations.</p>
+         <p>Further, one consequence of the various opportunities to influence the bricolage processes between different actors can be unfair outcomes for different groups, with the reproduction and reinforcement of social inequalities [<xref ref-type="bibr" rid="R26">26</xref>]. In Kenya, such implications are indeed evident. As noted, NK has become an important tool for maintaining control of the national security apparatus. Kenyan academicians have also criticized NK for being a system of surveillance of the citizenry [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>]. Moreover, persons of other ethnicity and/or political affiliation than the ruling party are particularly sceptical to NK, which they see as an instrument for intelligence gathering, a means for the president and his supporters to place opponents under surveillance [<xref ref-type="bibr" rid="R76">76</xref>]. Thus, we find that implementation of NK affirms that COP in Kenya, as in other African countries [<xref ref-type="bibr" rid="R25">25</xref>], tends to reproduce existing power structures, and consolidate state authority in areas where the institutions of the central government are weak. This can result in the reproduction and reinforcement of social inequalities and insecurity, in addition to obstructing COP policies aimed at reforming the security apparatus and at improving the trust between the citizenry and the police.</p>
+         <p>Lastly, we have shown how mutually contradictory COP policies can be developed within the same country almost simultaneously, due to diversified local contexts and competing interests. The COP policies developed in Kenya also stand as clear examples of the significant variations of policing policies that get defined under the “COP umbrella”. CCOP promotes decentralizing and police reform and generally represents the prevailing understanding of COP as a strategy for citizens’ involvement, problem solving and decentralization [<xref ref-type="bibr" rid="R7">7</xref>], that can lead to police reform and improved police/community relations [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R7">7</xref>]. By contrast, NK is a centralized and repressive policy far less in line with this prevailing understanding of COP: indeed, it subverts core intentions of COP. And yet, the government still claims that NK is a COP policy. That this possible is due largely to the lack of a commonly agreed, clear definition of COP: it offers significant room for defining highly differing policing initiatives as ‘COP’– including policing initiatives that largely subvert main principles. Indeed, COP, as an international concept with strong positive connotations, may be attractive to use in connection with governmental policies and practices aimed at strengthening legitimacy.</p>
+         <p>There are good reasons to assume that, also in other countries, repressive policing policies and practices emphasizing surveillance and intelligence gathering are presented as COP, which are not in accordance with the prevailing understanding of COP. Particularly in transitional countries, historical legacies may provide the structures, traditions and ideological discourse for developing repressive policing policies and practices—as the Kenyan case has shown. Further, the growing threat of terrorism and the government’s need for information gathering may further enable and legitimate the emergence of such policing policies and practices. This shows the importance of clarifying the concept of COP—for academic purposes, but not least for policy formation and practice. What is required, as a minimum, is a clear and agreed definition of COP that can ensure the needs and rights of the common people and local communities. This can prevent the COP label from being misused to legitimize repressive political practices.</p>
+      </sec>
+      <sec id="s9">
+         <title>Acknowledgments</title>
+         <p>We would like to express our special thanks to Grete Benjaminsen, Department of International Environment and Development Studies, Norwegian University of Life Sciences (NMBU) and Erik Henningsen of the Norwegian Institute for Urban and Regional Studies (NIBR) for their comments and contributions to this paper. Thanks also to the anonymous referees, other colleagues at NIBR, NMBU and Nairobi University for comments on earlier drafts. Finally, we wish to thank the organizations and individuals in Kenya who took the time to talk with us and share their perspectives.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brodgen</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nijhar</surname>
+                     <given-names>Preeti</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing: National and International Models and Approaches</article-title>
+               <publisher-name>Willan Pub.</publisher-name>
+               <isbn>1843925796</isbn>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weisburd</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Braga</surname>
+                     <given-names>Anthony A</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Innovation: Contrasting Perspectives</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <isbn>1108417817</isbn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Emerging Perspectives on Post-Conflict Police-Community Relations</article-title>
+               <source>Journal of Human Security</source>
+               <volume>15</volume>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>6</lpage>
+               <issn>1835-3800</issn>
+               <year>2019</year>
+               <pub-id pub-id-type="doi">.12924/johs2019.15020001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Freetown, Sierra Leone: Foreign Import or Local Solution?</article-title>
+               <source>Journal of Intervention and Statebuilding</source>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>23</fpage>
+               <lpage>42</lpage>
+               <issn>1750-2977</issn>
+               <year>2008</year>
+               <pub-id pub-id-type="doi">10.1080/17502970701810864</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruteere</surname>
+                     <given-names>Mutuma</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pommerolle</surname>
+                     <given-names>Marie‐Emmanuelle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Democratizing Security or Decentralizing Repression? The Ambiguities of Community Policing in Kenya</article-title>
+               <source>African Affairs</source>
+               <volume>102</volume>
+               <issue>409</issue>
+               <fpage>587</fpage>
+               <lpage>604</lpage>
+               <issn>0001-9909</issn>
+               <year>2003</year>
+               <pub-id pub-id-type="doi">10.1093/afraf/adg065</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Francis</surname>
+                     <given-names>David J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Introduction: Understanding Policing in Transition Societies in Africa</chapter-title>
+               <source>Policing in Africa</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Francis</surname>
+                     <given-names>David J</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Springer</publisher-name>
+               <fpage>3</fpage>
+               <lpage>36</lpage>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Skogan</surname>
+                     <given-names>Wesley G</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Advocate: The Promise of Community Policing</chapter-title>
+               <source>Police Innovation: Contrasting Perspectives</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Weisburd</surname>
+                     <given-names>D AND Braga, A. A.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <fpage>27</fpage>
+               <lpage>43</lpage>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wisler</surname>
+                     <given-names>Dominique</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Onwudiwe</surname>
+                     <given-names>Ihekwoaba D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing: International Patterns and Comparative Perspectives</article-title>
+               <publisher-name>CRC Press</publisher-name>
+               <isbn>1420093592</isbn>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Casey</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <article-title>Implementing Community Policing in Different Countries and Cultures</article-title>
+               <source>Pakistan Journal of Criminology</source>
+               <volume>2</volume>
+               <issue>4</issue>
+               <fpage>55</fpage>
+               <lpage>70</lpage>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Denney</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <article-title>Securing Communities? Redefining Community Policing to Achieve Results</article-title>
+               <source>Synthesis Report</source>
+               <publisher-name>Overseas Development Institute</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/9582.pdf"
+                         xlink:type="simple">https://www.odi.org/sites/odi.org.uk/files/odi-assets/publications-opinion-files/9582.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Garland</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Culture of Control; Crime and Social Order in Contemporary Society</article-title>
+               <publisher-name>Oxford University Press</publisher-name>
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <volume>367</volume>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The name Constitutional Community policing (CCOP) is given by the authors to the COP described in the Constitution and National Police Act. The Kenyan Constitution and the National Police Act do not give the described COP any specific name. Nyumba Kumi is a governmental name</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Article 244 (e) of the Constitution of Kenya, 2010</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Draft Guidelines for implementing of Community Policing—Nyumba Kumi</article-title>
+               <publisher-name>Goverment of Kenya</publisher-name>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Müller</surname>
+                     <given-names>Markus-Michael</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Latin America: Lessons from Mexico City</article-title>
+               <source>Revista Europea de Estudios Latinoamericanos y del Caribe/European Review of Latin American and Caribbean Studies</source>
+               <fpage>21</fpage>
+               <lpage>37</lpage>
+               <issn>0924-0608</issn>
+               <year>2010</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.cedla.uva.nl/50\_publications/pdf/revista/88RevistaEuropea/88-MULLER-ISSN-0924-0608.pdf"
+                         xlink:type="simple">http://www.cedla.uva.nl/50\_publications/pdf/revista/88RevistaEuropea/88-MULLER-ISSN-0924-0608.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kyed</surname>
+                     <given-names>Helene Maria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Albrecht</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Introduction: Policing and the Politics of Order-making on the Urban Margins</chapter-title>
+               <source>Policing and the Politics of Order-making</source>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Albrecht</surname>
+                     <given-names>P AND Kyed, H M</given-names>
+                  </name>
+               </person-group>
+               <fpage>17</fpage>
+               <lpage>39</lpage>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The research is part of the project Community-Based Policing and Post-Conflict Police Reform (ICT4COP) with financing from the European Union's Horizon 2020 Research and Innovation Programme under grant agreement No 653909EU. Primary data were obtained through several field visits to Nairobi in 2016 to 2018 aimed at securing responses from as wide a cross-section of respondents as possible. The primary data consist of approximately 20 interviews with representatives from international and national organizations based in Nairobi (such as UNDP, UNODC, embassies, Kenyan human rights commission, Independent Medico-Legal Unit), government bodies (Kenya National Commission on Human Rights, National Commission for Integration and Cohesion, governors, local chiefs), academic experts and journalists. In addition, more than 30 in-depth interviews, and approximately the same number of shorter interviews, were conducted with community-based organizations, social workers, and local residents in various areas of Mathare, an informal settlement in Nairobi</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ellison</surname>
+                     <given-names>Graham</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pino</surname>
+                     <given-names>Nathan</given-names>
+                  </name>
+               </person-group>
+               <article-title>Globalization, Police Reform and Development: Doing it the Western Way?</article-title>
+               <publisher-name>Springer</publisher-name>
+               <isbn>1137284803</isbn>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andhoga</surname>
+                     <given-names>Walter Otieno</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mavole</surname>
+                     <given-names>Johnson</given-names>
+                  </name>
+               </person-group>
+               <article-title>Influence of Nyumba Kumi Community Policing Initiative on Social Cohesion among Cosmopolitan sub Locations in Nakuru County</article-title>
+               <source>International Journal of Social and Development Concerns</source>
+               <volume>1</volume>
+               <issue>6</issue>
+               <fpage>65</fpage>
+               <lpage>76</lpage>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Atta-Asamoah, Andrews</surname>
+                  </name>
+               </person-group>
+               <article-title>Responses to Insecurity in Kenya; Too Much, Too Little, Too Late?</article-title>
+               <publisher-name>Institute for Security Studies</publisher-name>
+               <source>East Africa Report</source>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kioko</surname>
+                     <given-names>Eric Mutisya</given-names>
+                  </name>
+               </person-group>
+               <article-title>Conflict Resolution and Crime Surveillance in Kenya: Local Peace Committees and Nyumba Kumi</article-title>
+               <source>Africa Spectrum</source>
+               <volume>52</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>32</lpage>
+               <issn>0002-0397</issn>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://journals.sub.uni-hamburg.de/giga/afsp/article/view/1019/1026.html"
+                         xlink:type="simple">https://journals.sub.uni-hamburg.de/giga/afsp/article/view/1019/1026.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Leting</surname>
+                     <given-names>Mark K</given-names>
+                  </name>
+               </person-group>
+               <article-title>Nyumba Kumi Strategy of Community Policing and its Impact on Curbing Crime</article-title>
+               <year>2017</year>
+               <fpage>32</fpage>
+               <lpage>36</lpage>
+               <source>Empirical Assessment from Kenya</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://iosrjournals.org/iosr-jhss/papers/Vol.\%2022\%20Issue1/Version-4/D2201043236.pdf"
+                         xlink:type="simple">http://iosrjournals.org/iosr-jhss/papers/Vol.\%2022\%20Issue1/Version-4/D2201043236.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Munyao</surname>
+                     <given-names>Festus M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Effects of Nyumba Kumi Initiative on Security Management in Kenya, A Case Study of Lungalunga Sub-County</article-title>
+               <source>Journal of Public Policy and Administration</source>
+               <volume>2</volume>
+               <issue>2</issue>
+               <fpage>70</fpage>
+               <lpage>95</lpage>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iprjb.org/journals/index.php/JPPA/article/view/435"
+                         xlink:type="simple">https://www.iprjb.org/journals/index.php/JPPA/article/view/435</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mwaniki</surname>
+                     <given-names>David Wangángá</given-names>
+                  </name>
+               </person-group>
+               <source>Community-police Partnership: Reflections on Challenges of Community Policing in Developing Countries and Implications for Kenya</source>
+               <publisher-name>Erasmus University</publisher-name>
+               <publisher-loc>Rotterdam, Netherlands</publisher-loc>
+               <year>2010</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://hdl.handle.net/2105/8738"
+                         xlink:type="simple">https://hdl.handle.net/2105/8738</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kyed</surname>
+                     <given-names>Helene Maria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Albrecht</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Jackson</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Community Policing in Rural Mozambique and Sierra Leone</chapter-title>
+               <source>Handbook of International Security and Development</source>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <fpage>264</fpage>
+               <lpage>278</lpage>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cleaver</surname>
+                     <given-names>Frances</given-names>
+                  </name>
+               </person-group>
+               <article-title>Development Through Bricolage: Rethinking Institutions for Natural Resource Management</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <isbn>135156952X</isbn>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Institutions are defined as `social arrangements that shape and regulate human behaviour and have some degree of permanency and purpose transcending individual human lives and intentions' (Merrey \textitet al. (2007) in Cleaver ([27|, p.8). We consider such understanding of institutions embrace COP policies which are obviously arrangements aimed at regulating citizens' behaviour</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Benjaminsen</surname>
+                     <given-names>Grete</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Bricolage of REDD+ in Zanzibar: From Global Environmental Policy Framework to Community Forest Management</article-title>
+               <source>Journal of Eastern African Studies</source>
+               <volume>11</volume>
+               <issue>3</issue>
+               <fpage>506</fpage>
+               <lpage>525</lpage>
+               <issn>1753-1055</issn>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1080/17531055.2017.1357103</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Friesendorf</surname>
+                     <given-names>Cornelius</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform in Ukraine as Institutional Bricolage</article-title>
+               <source>Problems of Post-Communism</source>
+               <volume>66</volume>
+               <issue>2</issue>
+               <fpage>109</fpage>
+               <lpage>121</lpage>
+               <issn>1075-8216</issn>
+               <year>2019</year>
+               <pub-id pub-id-type="doi">10.1080/10758216.2017.1351304</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Carstensen</surname>
+                     <given-names>Martin B</given-names>
+                  </name>
+               </person-group>
+               <article-title>Institutional Bricolage in Times of Crisis</article-title>
+               <source>European Political Science Review</source>
+               <volume>9</volume>
+               <issue>1</issue>
+               <pub-id pub-id-type="doi">10.1017/S1755773915000338</pub-id>
+               <fpage>139</fpage>
+               <lpage>160</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations Development Programme</publisher-name>
+               <article-title>Inequalities in Human Development in the 21st Century Briefing note for countries on the 2019</article-title>
+               <source>Human Development Report</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdr.undp.org/sites/all/themes/hdr\_theme/country-notes/KEN.pdf"
+                         xlink:type="simple">http://hdr.undp.org/sites/all/themes/hdr\_theme/country-notes/KEN.pdf</ext-link>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>The World Factbook. Central Intelligence Agency</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.cia.gov/library/publications/the-world-factbook/geos/ke.html</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Report of the National Task Force on Police Reforms</article-title>
+               <publisher-name>Government of Kenya</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.icc-cpi.int/RelatedRecords/CR2011\_05851.pdf"
+                         xlink:type="simple">https://www.icc-cpi.int/RelatedRecords/CR2011\_05851.pdf</ext-link>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mageka</surname>
+                     <given-names>Annie</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform in Kenya: Challenges and Opportunities</article-title>
+               <source>Center for Security Governance Insights</source>
+               <year>2015</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://secgovcentre.org/2015/10/police-reform-in-kenya-challenges-and-opportunities/"
+                         xlink:type="simple">https://secgovcentre.org/2015/10/police-reform-in-kenya-challenges-and-opportunities/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osse</surname>
+                     <given-names>Anneke</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police reform in Kenya: A Process of `Meddling Through'</article-title>
+               <source>Policing and Society</source>
+               <volume>26</volume>
+               <issue>8</issue>
+               <fpage>907</fpage>
+               <lpage>924</lpage>
+               <issn>1043-9463</issn>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1080/10439463.2014.993631</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kiama P, Christiansen C, Jensen S, Kelly T</surname>
+                  </name>
+               </person-group>
+               <article-title>Violence Amongst the Urban Poor in Kenya</article-title>
+               <publisher-name>Independent Medico-Legal Unit (IMLU)</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gov.uk/dfid-research-outputs/violence-amongst-the-urban-poor-in-nairobi"
+                         xlink:type="simple">https://www.gov.uk/dfid-research-outputs/violence-amongst-the-urban-poor-in-nairobi</ext-link>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Mirage at Dusk</article-title>
+               <publisher-name>Kenya National Commission on Human Rights</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.knchr.org/Articles/ArtMID/2432/ArticleID/1031/Still-a-Mirage-at-Dusk-A-Human-Rights-Accounts-of-the-2017-Fresh-Presidential-Elections"
+                         xlink:type="simple">https://www.knchr.org/Articles/ArtMID/2432/ArticleID/1031/Still-a-Mirage-at-Dusk-A-Human-Rights-Accounts-of-the-2017-Fresh-Presidential-Elections</ext-link>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This was highlighted by almost all our informants from Mathare. See also \citepR39</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Mathare Social Justice Centre. Who Is Next? A Participatory Action Research Report Against the Normalization of Extrajudicial Executions in Mathare.</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.matharesocialjustice.org/who-is-next/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Stapele, Naomi</surname>
+                  </name>
+               </person-group>
+               <article-title>`We are not Kenyans': Extra-judicial Killings, Manhood and Citizenship in Mathare, a Nairobi Ghetto</article-title>
+               <source>Conflict, Security &amp; Development</source>
+               <volume>16</volume>
+               <issue>4</issue>
+               <fpage>301</fpage>
+               <lpage>325</lpage>
+               <issn>1467-8802</issn>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1080/14678802.2016.1200313</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>Peris S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kimari</surname>
+                     <given-names>Wangui</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramakrishnan</surname>
+                     <given-names>Kavita</given-names>
+                  </name>
+               </person-group>
+               <article-title>‘Only the People can Defend this Struggle’: The Politics of the Everyday, Extrajudicial Executions and Civil Society in Mathare, Kenya</article-title>
+               <source>Review of African Political Economy</source>
+               <volume>44</volume>
+               <issue>154</issue>
+               <fpage>559</fpage>
+               <lpage>576</lpage>
+               <issn>0305-6244</issn>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1080/03056244.2016.1269000</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruteere</surname>
+                     <given-names>Mutuma</given-names>
+                  </name>
+               </person-group>
+               <article-title>More than Political Tools: The Police and Post-election Violence in Kenya</article-title>
+               <source>African Security Review</source>
+               <volume>20</volume>
+               <issue>4</issue>
+               <fpage>11</fpage>
+               <lpage>20</lpage>
+               <issn>1024-6029</issn>
+               <year>2011</year>
+               <pub-id pub-id-type="doi">10.1080/10246029.2011.630805</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This was a very common perception also among informants in Mathare</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Skilling</surname>
+                     <given-names>Louise</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Kenya: The Application of Democratic Policing Principles</article-title>
+               <source>The Police Journal</source>
+               <volume>89</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>17</lpage>
+               <issn>0032-258X</issn>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1177/0032258X16637372</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Implementing community-based policing in Kenya Safer World 2008</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.saferworld.org.uk/resources/publications/306-implementing-community-based-policing-in-kenya</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2012</year>
+               <article-title>National Police Service Act, Article 41-44 (Revised Edition 2012)</article-title>
+               <publisher-name>Government of KEnya</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The six representatives from various security institutions (the police, the National Intelligence Service (NIS) and the Directorate of the Criminal Investigations (CID)) are appointed by the Inspector General (IG) of Police. The six civilians are to be competitively appointed by the governor and approved by the county assembly (County Public Service Board (CPSB)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Okwany</surname>
+                     <given-names>Clifford Collins Omondi</given-names>
+                  </name>
+               </person-group>
+               <source>Kenya's Foreign Policy towards Somalia: A Contribution to Insecurity</source>
+               <publisher-name>Norwegian University of Life Sciences</publisher-name>
+               <publisher-loc>Ås, Norway</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://brage.bibsys.no/xmlui/handle/11250/2422413"
+                         xlink:type="simple">https://brage.bibsys.no/xmlui/handle/11250/2422413</ext-link>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schlichte</surname>
+                     <given-names>Klaus</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Jan</surname>
+                     <given-names>Beek</given-names>
+                  </name>
+                  <name>
+                     <surname>Göpfert</surname>
+                     <given-names>Mirco</given-names>
+                  </name>
+                  <name>
+                     <surname>Owen</surname>
+                     <given-names>Olly</given-names>
+                  </name>
+                  <name>
+                     <surname>Steinberg</surname>
+                     <given-names>Jonny</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Oxford University Press</publisher-name>
+               <source>Police in Africa: The Street Level View</source>
+               <chapter-title>Policing Africa: Structures and Pathways</chapter-title>
+               <fpage>19</fpage>
+               <lpage>26</lpage>
+               <issn>0190676639</issn>
+                     
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waller</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+               </person-group>
+               <article-title>Towards a Contextualisation of Policing in Colonial Kenya</article-title>
+               <source>Journal of Eastern African Studies</source>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>525</fpage>
+               <lpage>541</lpage>
+               <issn>1753-1055</issn>
+               <year>2010</year>
+               <pub-id pub-id-type="doi">10.1080/17531055.2010.517421</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Killingray</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Maintenance of Law and Order in British Colonial Africa</article-title>
+               <source>African Affairs</source>
+               <volume>85</volume>
+               <issue>340</issue>
+               <fpage>411</fpage>
+               <lpage>437</lpage>
+               <issn>0001-9909</issn>
+               <year>1986</year>
+               <pub-id pub-id-type="doi">10.1093/oxfordjournals.afraf.a097799</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>David M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Vigilantes, Violence and the Politics of Public Order in Kenya</article-title>
+               <source>African affairs</source>
+               <volume>101</volume>
+               <issue>405</issue>
+               <fpage>531</fpage>
+               <lpage>555</lpage>
+               <issn>1468-2621</issn>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1093/afraf/101.405.531</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.administrationpolice.go.ke/2015-02-16-09-14-42/history.html"
+                         xlink:type="simple">http://www.administrationpolice.go.ke/2015-02-16-09-14-42/history.html</ext-link>
+               <year>2017</year>
+               <publisher-name>Government of Kenya, Administration Police</publisher-name>
+               <article-title>History of Administration Police</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing Africa: Internal Security and the Limits of Liberalization</article-title>
+               <source>International Review of Law, Computers &amp; Technology</source>
+               <volume>25</volume>
+               <issue>1-2</issue>
+               <fpage>69</fpage>
+               <lpage>77</lpage>
+               <issn>1360-0869</issn>
+               <year>2011</year>
+               <pub-id pub-id-type="doi">10.1080/13600869.2011.594659</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Similar views were expressed in interviews with international organization, human rights organization, academic experts, journalists, community-based organizations, government officials (chiefs) and local residents</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Okia</surname>
+                     <given-names>Opolot</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Role of the Police in the Post Election Violence in Kenya 2007/08</article-title>
+               <source>Journal of Third World Studies</source>
+               <volume>28</volume>
+               <issue>2</issue>
+               <fpage>259</fpage>
+               <lpage>275</lpage>
+               <issn>8755-3449</issn>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cheeseman</surname>
+                     <given-names>Nic</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Kenyan Elections of 2007: An Introduction</article-title>
+               <source>Journal of Eastern African Studies</source>
+               <volume>2</volume>
+               <issue>2</issue>
+               <fpage>166</fpage>
+               <lpage>184</lpage>
+               <issn>1753-1055</issn>
+               <year>2008</year>
+               <pub-id pub-id-type="doi">10.1080/17531050802058286</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kanyinga</surname>
+                     <given-names>Karuti</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Long</surname>
+                     <given-names>James D</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Political Economy of Reforms in Kenya: The Post-2007 Election Violence and a New Constitution</article-title>
+               <source>African Studies Review</source>
+               <volume>55</volume>
+               <issue>1</issue>
+               <fpage>31</fpage>
+               <lpage>51</lpage>
+               <issn>0002-0206</issn>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.1353/arw.2012.0002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hassan</surname>
+                     <given-names>Mai</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Strategic Shuffle: Ethnic Geography, the Internal Security Apparatus, and Elections in Kenya</article-title>
+               <source>American Journal of Political Science</source>
+               <volume>61</volume>
+               <issue>2</issue>
+               <fpage>382</fpage>
+               <lpage>395</lpage>
+               <year>2017</year>
+               <pub-id pub-id-type="doi">10.1111/ajps.12279</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Botha</surname>
+                     <given-names>Anneli</given-names>
+                  </name>
+               </person-group>
+               <article-title>Radicalisation in Kenya. Recruitment to al-Shabaab and the Mombasa Republican Council</article-title>
+               <source>Institute for Security Studies Papers</source>
+               <volume>2014</volume>
+               <issue>265</issue>
+               <fpage>28</fpage>
+               <lpage>28</lpage>
+               <issn>1026-0404</issn>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Horn, Sahel, and Rift: Fault-lines of the African Jihad</article-title>
+               <publisher-name>Oxford University Press</publisher-name>
+               <isbn>1787382788</isbn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waki</surname>
+                     <given-names>Philip N</given-names>
+                  </name>
+               </person-group>
+               <article-title>Report of the Commission of Inquiry into Post Election Violence (CIPEV)</article-title>
+               <publisher-name>Government of KEnya</publisher-name>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://reliefweb.int/sites/reliefweb.int/files/resources/15A00F569813F4D549257607001F459D-Full\_Report.pdf"
+                         xlink:type="simple">https://reliefweb.int/sites/reliefweb.int/files/resources/15A00F569813F4D549257607001F459D-Full\_Report.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Constitution of Kenya</article-title>
+               <year>2010</year>
+               <publisher-name>Goverment of Kenya</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Expressed in interview by security expert at the University of Nairobi in January 2016</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Expressed in interview by a representative of the United Nation Office on Drugs and Crime in Nairobi January 2016</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Revised Police Reforms Program Document 2015–2018; A Strategy Framework for Implementation of Reforms in the National Police Service</article-title>
+               <year>2015</year>
+               <annotation>
+                  <p>Nairobi: Ministry of Interior and Coordination of National Government</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Expressed in interview by representative of UNODC and UNDP in Nairobi January 2016</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Stig Jarle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lid</surname>
+                     <given-names>Stian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Okwany</surname>
+                     <given-names>Clifford Collins Omondi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Countering Violence Extremism in Somalia and Kenya: Actors and Approaches</article-title>
+               <publisher-name>Norwegian Institute for Urban and Regional Research</publisher-name>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>National Government Co-ordination act No.1 of 2013 (article 15)</article-title>
+               <publisher-name>Goverment of Kenya</publisher-name>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Further steps from the Jubilee government to maintain control of the police and the security system were taken in 2014. By amending the security laws the President vested power to appoint the Inspector General, Deputy Inspector General and the Director of Criminal Investigations (\citepR20,R49). President Uhuru Kenyatta followed up with the decision to rebrand the police, rename and remove some police leadership positions (\citepR72)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Okwany</surname>
+                     <given-names>Clifford Collins Omondi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Kenya's Security Dilemma; A Tall Walk for a Young Nation</article-title>
+               <source>Africa.no</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.afrika.no/artikkel/2015/02/10/kenya-kampen-mot-terror-et-politisk-dilemma"
+                         xlink:type="simple">https://www.afrika.no/artikkel/2015/02/10/kenya-kampen-mot-terror-et-politisk-dilemma</ext-link>
+               <year>2015</year>
+               <month>Feb 10</month>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Uhuru Kenyatta makes major changes in police</article-title>
+               <source>Daily Nation</source>
+               <year>2018</year>
+               <month>Mar 18</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nation.co.ke/news/Uhuru-Kenyatta-makes-major-changes-in-police/1056-4757458-mv5qoqz/index.html"
+                         xlink:type="simple">https://www.nation.co.ke/news/Uhuru-Kenyatta-makes-major-changes-in-police/1056-4757458-mv5qoqz/index.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>During the 2017 election there was still a clear political divide between the Jubilee regime, re-elected in the 2017 elections, that continued to argue for implementing Nyumba Kumi, and the coalition of minority parties, the National Super Alliance (NASA), hoping to implement the constitutional framework of community policing. However, uncertainty surrounds the claims of NASA, as it intends to maintain administrative police offices such as the chiefs (\citepR75)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <annotation>
+                  <p>Presidential adviser Joshua Kutuny hits back at Cord over insecurity claims</p>
+               </annotation>
+               <source>Nation Media</source>
+                        
+               <year>2013</year>
+               <month>Nov 24</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://mobile.nation.co.ke/news/politics/Joshua-Kutuny-Cord-Jubilee-Insecurity/3126390-2086334-format-xhtml-6amypp/index.html"
+                         xlink:type="simple">https://mobile.nation.co.ke/news/politics/Joshua-Kutuny-Cord-Jubilee-Insecurity/3126390-2086334-format-xhtml-6amypp/index.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>`Oppressive' Marwa has to go, Raila tells Lamu residents</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Praxides</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <source>The Star</source>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://twitter.com/thestarkenya/status/889093529850568704"
+                         xlink:type="simple">https://twitter.com/thestarkenya/status/889093529850568704</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>This became evident in our interviews with community-based organizations, government officials (chiefs) and local residents in Mathare</article-title>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
