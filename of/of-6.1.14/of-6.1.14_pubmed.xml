@@ -1,0 +1,3212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2020.06010014</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Carrying Capacity of Traditional Farming in South East England: A Case Study</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Lovatt Smith</surname>
+                  <given-names>Paul</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nobes</surname>
+                  <given-names>Gavin</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Farmer, East Sussex, UK</aff>
+         <aff id="A3">
+            <label>2</label>School of Psychology, University of East Anglia, Norwich, UK</aff>
+         <pub-date pub-type="ppub">
+            <day>16</day>
+            <month>07</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>6</volume>
+         <issue>1</issue>
+         <fpage>14</fpage>
+         <lpage>22</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Traditional farming in South East (SE) England is presented as a highly-evolved form of sustain- able farming. The carrying capacity of traditional farming on a 2.75 ha family smallholding in SE England is assessed from production data recorded over a period of 8 years. The key elements of the farming system were mixed farming (livestock, dairy, arable and horticultural), self-sufficiency in terms of inputs and organic principles. Ten types of food were produced with the aim to comprise all the elements of a balanced diet. The holding and farming system are described and an analysis of the food produced is presented, in terms of weight and energy content, for the years 2010 to 2017. An average carrying capacity of 0.64 people ha−1 was demonstrated on the basis of food energy content alone. Carrying capacity increased to 1.09 people ha−1 when production was re-proportioned to align with the UK Government’s currently recommended balanced diet. The latter figure is similar to carrying capacity estimates, derived from national statistics, for the UK’s total farmland in the middle part of the 20th Century but significantly lower than theoretical predictions of national carrying capacity.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>balanced diet</kwd>
+            <kwd>carrying capacity</kwd>
+            <kwd>organic</kwd>
+            <kwd>sustainable farming</kwd>
+            <kwd>traditional farming</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Increasing concerns about the UK’s food security are focussing attention on the productivity of sustainable methods of farming. This case study illustrates the productivity of a traditionally farmed 2.75 ha family farm in SE England, using data gathered over an 8 year period. The question addressed is as follows: <italic>How many people can traditional farming on this holding feed, on the basis of a balanced diet?</italic>
+         </p>
+         <p>Traditional agriculture is defined as “the original farming method handed down from generation to generation, involving the intensive use of indigenous knowledge, natural resources and cultural beliefs of the farmer” [<xref ref-type="bibr" rid="R1">1</xref>]. Farmers and agriculturalists generally use the term to distinguish self-sufficient, subsistence-oriented, mixed farming from industrial, specialised farming. Traditional farming, according to these definitions, began in SE England in Neolithic times around 6,000 years ago [<xref ref-type="bibr" rid="R2">2</xref>] and, although continually evolving, was the only form of agriculture until the transition to industrial farming which can be said to have started in the late 18<inline-formula>
+               <mml:math id="S3.p2.m1"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> Century with the beginning of the Industrial Revolution. Traditional farming in this area can therefore be said to have supplied most of the food for the inhabitants on a millennial time-scale.
+</p>
+         <p>Traditional farming tends to conform to organic principles. Like organic farming, its self-sufficient, low input approach necessitates the use of organic fertilisers and non-reliance on imported materials, especially agrochemicals. Indeed, the organic movement, which started in response to the step-change in the industrialisation of farming at the end of the Second World War, is based on traditional farming principles.</p>
+         <p>The local traditional farming system was chosen for this holding because it was deemed to be highly sustainable, ecologically-beneficial and fitted with the family’s lifestyle aims. The broad principles were interpreted to be as follows: </p>
+         <list list-type="bullet">
+            <list-item>
+               <p>The production of a balanced diet comprised of cereals (predominantly wheat), meat and dairy products from cattle and sheep, meat from pigs, vegetables (including potatoes), wild and cultivated fruit, meat and eggs from poultry and meat from wild game.</p>
+            </list-item>
+            <list-item>
+               <p>Agricultural land use appropriate to the above food production: predominantly fields (rotational arable including fallow and grass leys together with permanent pasture) with stock-proof boundaries (hedgerows and fencing), woodland for fuel and other uses, farm buildings (cattle, pig and poultry housing, feed and equipment storage) and horticultural land.</p>
+            </list-item>
+            <list-item>
+               <p>Self-sufficiency in feed and fertility and organic principles.</p>
+            </list-item>
+            <list-item>
+               <p>Seasonal movement of livestock to and from common pastureland, woodland or neighbouring farm-holdings. </p>
+            </list-item>
+         </list>
+         <p>Carrying capacity, as used in relation to food production from farming, has been defined as “the maximum number of people that a given land will maintain in perpetuity under a given system of usage without land degradation setting in” [<xref ref-type="bibr" rid="R3">3</xref>]. Implicit in this definition is that the farming system is sustainable and that the food provides a healthy, or balanced, diet.</p>
+         <p>Despite its importance to food security, few estimates of carrying capacity for UK farmland seem to have been made. Only two published sources, both based on theoretical calculations, have been found. In 1975, Mellanby [<xref ref-type="bibr" rid="R4">4</xref>] predicted that 11.0 million ha of Britain’s agricultural land were sufficient to feed its population of 53 million, based on the productivity of contemporaneous “conventional” farming and his estimates of a balanced diet. This equates to a carrying capacity of 4.82 people ha<inline-formula>
+               <mml:math id="S3.p7.m1"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>. In 2007, Fairlie [<xref ref-type="bibr" rid="R5">5</xref>] predicted the amount of farmland required to feed the then population of 60.6 million people under 6 different scenarios based on combinations of different diets and farming systems. Fairlie’s closest scenario to this case study is considered to be “Organic with Livestock” which was estimated to require 15.9 million ha of farmland, equating to a carrying capacity of 3.81 people ha<inline-formula>
+               <mml:math id="S3.p7.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>.</p>
+         <p>However the actual carrying capacity of UK farming from historical data is suggested to be much lower than the above predictions. Historical estimates of carrying capacity at a national level can be made from published statistics for population, agricultural land area data and the national food self-sufficiency ratio using the following formula: </p>
+         <p>
+            <inline-formula>
+               <mml:math id="S3.p9.m1"
+                         alttext="C=(R\times P)/A"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:mrow>
+                     <mml:mi>C</mml:mi>
+                     <mml:mo>=</mml:mo>
+                     <mml:mrow>
+                        <mml:mrow>
+                           <mml:mo stretchy="false">(</mml:mo>
+                           <mml:mrow>
+                              <mml:mi>R</mml:mi>
+                              <mml:mo>×</mml:mo>
+                              <mml:mi>P</mml:mi>
+                           </mml:mrow>
+                           <mml:mo stretchy="false">)</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>/</mml:mo>
+                        <mml:mi>A</mml:mi>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:math>
+            </inline-formula> 
+         </p>
+         <p>Where:</p>
+         <p>C = carrying capacity (persons per hectare)</p>
+         <p>R = Food self-sufficiency ratio</p>
+         <p>P = Population</p>
+         <p>A = Agricultural land area (hectares) </p>
+         <p>The UK’s food self-sufficiency ratio is calculated by the UK Government using national statistics of indigenous food production and food imports. The ratio is sometimes called the “food production to supply ratio”. UK food self-sufficiency ratios, both contemporary and historical, are published by the Department for Environment, Food and Rural Affairs (DEFRA) [<xref ref-type="bibr" rid="R6">6</xref>]. Table <xref ref-type="table" rid="Tab1">1</xref> shows estimates of national carrying capacity for the UK’s farmland in persons per ha, calculated as explained above, for the years 1750, 1850, 1950 and 2000. Population figures are from Jeffries [<xref ref-type="bibr" rid="R7">7</xref>]. The calculation assumes that A, the area of agricultural land, has remained relatively constant at today’s figure of 18.7 million ha [<xref ref-type="bibr" rid="R8">8</xref>], which appears to be a reasonable approximation for this period from historical data [<xref ref-type="bibr" rid="R9">9</xref>]. The estimates show an increase in carrying capacity from 0.42 to 1.89. This increase is to be expected given the ongoing improvements in farming practices and livestock health and the increasing use of mechanisation and agrochemicals.</p>
+         <p>Other indications of UK farmland carrying capacity come from the period of the Second World War, when great effort was put into maximising indigenous food production due to the restriction of food imports by enemy action at sea. In addition the national diet was limited by enforced rationing. Despite all the effort and dietary restriction, by the end of the war the national food self-sufficiency ratio was estimated at only around 50%: “…you see the 46 millions in our island harassed about their food supply, of which they grow only half, even in wartime….” (Sir Winston Churchill, March 1946 “Iron Curtain” speech). This would indicate that only 23 million people could be fed by the wartime effort which, based on the same calculation method as above, approximates to a carrying capacity of 1.23 people per hectare.</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Estimates of UK farmland carrying capacity in 1750, 1850, 1950 and 2000.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Year</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Food self-sufficiency ratio</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Population</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Carrying capacity (persons per hectare)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1750
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1.00
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              8 million
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              0.42
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1850
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              0.75
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              21 million
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              0.84
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1950
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              0.40
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              50 million
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.06
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2000
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              0.60
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              59 million
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1.89
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>The lack of information on the carrying capacity of UK farmland and the large disparity between theoretical predictions and historical measurements are, we consider, worthy of further investigation. This study aims to use empirical calculations to shed light on these issues at a farm scale.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Material and Methods</title>
+         <sec id="s2.1">
+            <title>2.1.- The Farm</title>
+            <p>The holding was purchased in 2002. Much effort and expenditure was needed to prepare for traditional farming and it took until 2010 before it was fully underway. The data presented in this study were collected during the 8 year period between 2010 and 2017.</p>
+            <p>The farm was situated in the Weald of East Sussex, on gently sloping south-facing land at elevations of between 70 and 80m above sea level. The soils were divided between a sandy loam of pH 6.5 on the higher ground and clay loam with a pH of 6.7 on the lower ground. The land was classed as “good to moderate” grade 3 agricultural land by the UK Government [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+            <p>The total area of the holding was 2.75 ha of which 2.51 ha was used for agricultural purposes. The majority of the agricultural land (2.34 ha) was permanent pasture plus 0.16 ha arable and 0.01 ha horticultural. Forestry comprised 0.09 ha deciduous semi-natural woodland plus perimeter hedges composed of native species. There was a 14 x 11 m agricultural barn which was used for all purposes including livestock housing in winter.
+Livestock consisted of the following: </p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Up to two breeding Dexter cows plus followers (note that cattle were not kept for the final 2 years, 2016 and 2017)</p>
+               </list-item>
+               <list-item>
+                  <p>Up to five breeding Lleyn ewes plus followers</p>
+               </list-item>
+               <list-item>
+                  <p>Up to three fattening pigs, bought in at age 8 weeks</p>
+               </list-item>
+               <list-item>
+                  <p>Up to four hens and a cockerel</p>
+               </list-item>
+            </list>
+            <p>The livestock were fed as much as possible from the holding. This included the production of hay for winter forage for the cattle and sheep, although in most years some extra hay had to be imported for the cattle. The cattle and sheep were exclusively pasture-fed and the chickens and pigs were fed on a mixture of home-produced food and imported organic concentrate feed. All livestock were kept outdoors except for the cattle which were housed during wet periods in the winter. The cows were put in calf by artificial insemination and the sheep were tupped by a rented ram. Calves were slaughtered aged 18 months, pigs at 7 months and lambs at 5 months of age. Hand milking of one cow was briefly carried out for 2 months in 2010.</p>
+            <p>The arable land was used to grow wheat and potatoes for human consumption as well as other cereals and root vegetables for livestock feed. The horticultural area, a kitchen garden, was used to grow vegetables. Other produce comprised top fruit from an orchard area, hedgerow fruit and wild game.</p>
+            <p>An organic ethos was followed but no organic certification was sought. Farmyard manure from the winter bedding of cattle, mixed with compost from horticulture and kitchen waste, was used as fertiliser for the horticultural produce. Crop rotation formed the basis of fertility management for the field crops. No artificial fertilisers nor arable or horticultural chemicals were used but vetinary medicines and preventatives were used when necessary. Produce was sold directly to customers at or near organic retail prices.</p>
+            <p>Seasonal movement of livestock off-farm was not carried out but a large proportion of pig food was sourced off-holding by foraging.</p>
+            <p>Machinery comprised a pedestrian tractor and implements plus a four-wheel drive road vehicle, livestock trailer and transport trailer. A stationary PTO-driven threshing machine was purchased in 2013. Hand tools were used extensively and were often found to be more effective and efficient than machinery.</p>
+            <p>Detailed records of animal movements, births and deaths, medicines administered, itemised financial records and annual accounts were kept, in accordance with government regulations.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Data and Analysis</title>
+            <p>The food produced was divided into ten types (Table <xref ref-type="table" rid="Tab2">2</xref>). Throughout the 8-year study period a daily log was kept of activity, inputs and outputs for each food type. From these data, the yearly output weight in kg of each food type was recorded, along with other measurements (labour time, weight and type of inputs and cost or value).</p>
+            <p>The food energy for each food type was calculated by multiplying the yearly output weight by a food energy value in MJ per kg. Food energy values were based on a comprehensive list in a 2008 report by Health Canada [<xref ref-type="bibr" rid="R11">11</xref>]. Where food types had more than one component, a weighted average value was used, according to the relative contribution of each component. Table <xref ref-type="table" rid="Tab2">2</xref> shows the food energy values used for each food type, in order of food energy per kg. The high energy foods were meat and wheat flour while the low energy foods were fruit and vegetables. Pork had the highest energy due to its high edible fat content.</p>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>Table 2</label>
+               <caption>
+                  <title>Energy values of food types used in this study.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Food Type</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Components</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Food energy (MJ per kg)</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Pork
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Sausages, joints, back and streaky bacon, ham, chops, liver, lard
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18.75
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Beef
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Joints, steaks, mince, offal
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                14.58
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Wheat flour
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Wholemeal
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                14.17
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Lamb and mutton
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Joints, chops, mince, offal
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                13.33
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Game
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Rabbit, pheasant, pigeon
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                8.33
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Chickens and eggs
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Chicken and eggs
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                7.08
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Dairy
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Cow’s milk
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3.88
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Potatoes
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Whole potatoes
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3.88
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Fruit
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Apples, pears, blackberries, damsons
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2.50
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Vegetables
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Carrots, courgettes, onions, parsnips, leeks, beetroot, runner beans, broad beans, peas, salad, brassicas, tomatoes, cucumbers, sweet corn
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1.25
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- The Balanced Diet Scenario</title>
+            <p>In order to align the production with a balanced diet, a hypothetical scenario was constructed in which the relative proportions of the ten food types were changed. The balanced diet was the UK Government’s recommendation, published in the Eatwell Guide (2018) [<xref ref-type="bibr" rid="R12">12</xref>]. This guide divides food into five categories, each with a recommended dietary proportion. The food types produced in the study period were assigned to one of the Guide’s five food categories, as shown in Table <xref ref-type="table" rid="Tab3">3</xref>.</p>
+            <p>The food types in the balanced diet scenario were then assigned proportions to conform to the Eatwell Guide, as shown in Table <xref ref-type="table" rid="Tab4">4</xref>.</p>
+            <p>The effect of rebalancing food production in the balanced diet scenario is shown in Table <xref ref-type="table" rid="Tab5">5</xref>, which compares the proportions of the three main food categories in the balanced diet scenario with the Eatwell Guide (2018) and study period.</p>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>Table 3</label>
+               <caption>
+                  <title>Food types: The Eatwell Guide balanced diet [<xref ref-type="bibr" rid="R12">12</xref>] and this study.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="center"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                           <bold>Food Types</bold>
+                        </td>
+                        <td align="justify"
+                            rowspan="2"
+                            style="border-top:1px solid black;"
+                            colspan="1">
+                
+                
+                    
+                      
+                        Eatwell Guide
+                      
+                    
+                    
+                      
+                        colour category
+                      
+                    
+                  
+              </td>
+                        <td align="justify"
+                            rowspan="2"
+                            style="border-top:1px solid black;"
+                            colspan="1">
+                
+                
+                    
+                      
+                        Eatwell Guide
+                      
+                    
+                    
+                      
+                        approximate proportions
+                      
+                    
+                  
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Eatwell Guide</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>This Study</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Beans, pulses, fish, eggs, meat and other proteins
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Beef, Pork, Lamb, Chicken and Eggs, Game
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                16%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Dairy and alternatives
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Dairy
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Blue
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Potatoes, bread, rice, pasta and other starchy carbohydrates
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Wheat flour, potatoes
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Yellow
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                35%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Fruit and vegetables
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Fruit, vegetables
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Green
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                38%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Oils and spreads
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                None
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Purple
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1%
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab4" position="float" orientation="portrait">
+               <label>Table 4</label>
+               <caption>
+                  <title>Food types produced in this study: Eatwell Guide [<xref ref-type="bibr" rid="R12">12</xref>] food category and weight fraction.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Wheat flour</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Vegetables</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Fruit</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Dairy</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Beef</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Pork</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Eggs and chicken meat</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Lamb and mutton</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Game</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Total</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Eatwell Guide food category</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Yellow
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Green
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Green
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Blue
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Yellow
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Red
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Weight fraction (%)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                27%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                25%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                8%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                8%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2%
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                100%
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab5" position="float" orientation="portrait">
+               <label>Table 5</label>
+               <caption>
+                  <title>Comparison of proportions of food categories between the Eatwell Guide’s balanced diet and this study.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td style="border-top:1px solid black;" rowspan="1" colspan="1"/>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                           <bold>Eatwell Guide balanced diet</bold>
+                        </td>
+                        <td align="left"
+                            colspan="2"
+                            style="border-top:1px solid black;"
+                            rowspan="1">
+                           <bold>This Study</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="left"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                           <bold>Food Category (code)</bold>
+                        </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                           <bold>Approximate proportion</bold>
+                        </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                           <bold>Study Period</bold>
+                        </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                           <bold>Balanced Diet Scenario</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="left"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                Wheat flour and potatoes (yellow)
+              </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                35%
+              </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                21%
+              </td>
+                        <td align="right"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                35%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="left" style="" rowspan="1" colspan="1">
+                Fruit and vegetables (green)
+              </td>
+                        <td align="right" style="" rowspan="1" colspan="1">
+                38%
+              </td>
+                        <td align="right" style="" rowspan="1" colspan="1">
+                20%
+              </td>
+                        <td align="right" style="" rowspan="1" colspan="1">
+                37%
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="left"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                Meat, dairy and eggs (red and blue)
+              </td>
+                        <td align="right"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                27%
+              </td>
+                        <td align="right"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                59%
+              </td>
+                        <td align="right"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                28%
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>The balanced diet scenario would involve the following changes to farming on the holding: </p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>An increase by 3.5 times in the production of wheat flour, to be achieved by increasing the area of the wheat crop by the same amount.</p>
+               </list-item>
+               <list-item>
+                  <p>A reduction in the numbers of breeding ewes to 1.</p>
+               </list-item>
+               <list-item>
+                  <p>A reduction in the numbers of pigs to 1.</p>
+               </list-item>
+               <list-item>
+                  <p>A 3 times increase in fruit production, to be achieved by expanding the area of orchard.
+</p>
+               </list-item>
+               <list-item>
+                  <p>A 50% increase in vegetable production, to be achieved by intensification of the existing vegetable garden.</p>
+               </list-item>
+               <list-item>
+                  <p>The production of approximately 2 litres of cow’s milk per day for 6 months of the year, some of which would be processed into butter and cheese. The remainder of the milk would be fed to the calf. This would involve a change in the cattle-keeping from a “beef suckler” to a “house cow” system and a substantial increase in labour for milking, calf care and dairy processing. </p>
+               </list-item>
+            </list>
+            <sec id="s2.3.1">
+               <title>2.3.1.- Carrying capacity calculation</title>
+               <p>The carrying capacity of the holding was calculated by summing the annual food energy in MJ for all 10 food types and dividing by a factor of 3,449 MJ. This factor is the annual food energy requirement per person recommended by the UK National Health Service, based on a daily requirement of 9.45 MJ (2,250 kcal), which is the average of the daily requirement for men and women [<xref ref-type="bibr" rid="R13">13</xref>]. The carrying capacity in persons per ha was calculated by dividing the holding’s carrying capacity by the area of agricultural land (2.51 ha).</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <sec id="s3.1">
+            <title>3.1.- Study Period</title>
+            <p>The total annual production in the study period varied from 436-728 kg in weight with a corresponding food energy content range of 4,242-7,321 MJ. The average annual production was 570 kg with a food energy content of 5,531 MJ. The carrying capacity of the holding during the study period, on a food energy basis alone and without any dietary consideration, was 1.60 people. This is equivalent to a carrying capacity of 0.64 people per hectare.</p>
+            <p>Tables <xref ref-type="table" rid="Tab6">6</xref> and <xref ref-type="table" rid="Tab7">7</xref> show the breakdown of the above totals by food type. The food types are arranged in descending order of average annual values.</p>
+            <table-wrap id="Tab6" position="float" orientation="portrait">
+               <label>Table 6</label>
+               <caption>
+                  <title>Weight of food produced (kg), 2010–2017.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Food Type</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2010</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2011</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2012</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2013</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2014</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2015</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2016</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2017</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Average per year of production</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Beef</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                199
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                112
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                91
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                81
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                109
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                120
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                119
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                40
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                120
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                45
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                180
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                200
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                111
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Pork</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                108
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                147
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                80
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                105
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                109
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                107
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Vegetables</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                50
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                50
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                120
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                110
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                110
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                90
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                197
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                103
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Lamb and mutton</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                17
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                100
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                55
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                72
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                108
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                108
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                128
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                84
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Dairy</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                60
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                60
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Wheat flour</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                32
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                63
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                12
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                56
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                36
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                20
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                45
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                33
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Eggs and chicken meat</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                47
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                53
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                23
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                29
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Fruit</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                10
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                20
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                50
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                50
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                45
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                35
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                29
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Game</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                7
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                0
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Sum Total</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>547</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>450</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>654</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>436</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>624</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>656</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>466</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>728</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>570</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab7" position="float" orientation="portrait">
+               <label>Table 7</label>
+               <caption>
+                  <title>Energy content of food produced (MJ), 2010–2017.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Food Type</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2010</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2011</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2012</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2013</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2014</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2015</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2016</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2017</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Average per year of production</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Pork</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2,100
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,944
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2,858
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,555
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2,041
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2,119
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                -
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,944
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2,080
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Beef</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                3,009
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,693
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,376
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,225
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,648
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,814
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,794
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Lamb and mutton</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                235
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,382
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                760
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                995
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,493
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,493
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,769
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                1,161
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Wheat flour</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                470
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                15
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                926
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                176
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                823
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                529
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                294
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                661
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                487
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                161
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                402
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                482
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                181
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                402
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                402
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                723
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                804
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                444
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Eggs and chicken meat</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                319
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                358
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                146
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                194
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Dairy</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                156
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                156
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Vegetables</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                65
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                65
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                130
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                156
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                143
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                143
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                117
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                256
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                134
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Fruit</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                22
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                22
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                22
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                43
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                108
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                108
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                97
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                76
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                62
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <bold>Game</bold>
+                        </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                9
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                60
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                -
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                35
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Sum Total</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>6,309</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>4,793</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>7,321</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>4,242</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>6,306</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>6,753</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>2,870</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>5,655</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>5,531</bold>
+                        </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>Note the following: </p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Beef: The reason for high production in 2010 was that two animals were slaughtered compared with one in other years. The zero values for 2016 and 2017 were because the cattle were sold in late 2015 and no cattle were kept from then onwards.</p>
+               </list-item>
+               <list-item>
+                  <p>Potatoes: The reasons for low production in 2010 and 2013 were disease (late blight caused by <italic>Phytophthora infestans</italic>) and lack of irrigation, respectively.</p>
+               </list-item>
+               <list-item>
+                  <p>Pork: Three pigs were kept in the years 2010 to 2015, no pigs were kept in 2016 and two pigs were kept in 2017. Other than the number of pigs, the variations in production largely reflect different breeds and feeding regimes. The average meat production per animal was 39 kg.</p>
+               </list-item>
+               <list-item>
+                  <p>Lamb and mutton: No sheep were kept in 2010. Between 2 and 5 breeding ewes were kept from 2011–2017, with an average of 3.6. The fertility rate averaged 1.6 lambs per ewe. The variations in production reflect the number of breeding ewes, the fertility rate, the number of lambs kept for breeding and the age at slaughter. The average meat production per animal was 18 kg.</p>
+               </list-item>
+               <list-item>
+                  <p>Dairy: in 2010 cow’s milk was produced for 2 months.</p>
+               </list-item>
+               <list-item>
+                  <p>Wheat flour: Production had significant variations due to a number of factors (Figure <xref ref-type="fig" rid="Fig1">1</xref>), however there were possible indications of increasing trend in yield over the study period from 750 to almost 2,000 kg ha<inline-formula>
+                        <mml:math id="I4.i6.p1.m1"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>, reflecting improving farming skill. The area of wheat varied from 180 m<inline-formula>
+                        <mml:math id="I4.i6.p1.m2"
+                                  alttext="{}^{2}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula> to 320 m<inline-formula>
+                        <mml:math id="I4.i6.p1.m3"
+                                  alttext="{}^{2}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>. The maximum production was 56 kg from 200 m<inline-formula>
+                        <mml:math id="I4.i6.p1.m4"
+                                  alttext="{}^{2}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mn>2</mml:mn>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula> in 2014 which equates to a yield of 2,780 kg ha<inline-formula>
+                        <mml:math id="I4.i6.p1.m5"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula> . The low production in 2011 was due to the mistaken use of a winter wheat variety. The low production in 2016 was due to the experimental nature of the new minimum tillage system. The low production in 2013 was due to predation by birds on modern short-straw wheat varieties. The average yield was 1,370 kg ha<inline-formula>
+                        <mml:math id="I4.i6.p1.m6"
+                                  alttext="{}^{-1}"
+                                  display="inline"
+                                  overflow="scroll">
+                           <mml:msup>
+                              <mml:mi/>
+                              <mml:mrow>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                              </mml:mrow>
+                           </mml:msup>
+                        </mml:math>
+                     </inline-formula>.</p>
+               </list-item>
+               <list-item>
+                  <p>Fruit: The increase in output over time reflects the maturity of fruit trees.</p>
+               </list-item>
+               <list-item>
+                  <p>Vegetables: The increasing production over the study period reflects improving farming skill and the installation of a polytunnel in 2017. The total yield of 196 kg in 2017 was made up as follows: carrots 54 kg, courgettes 30 kg, onions 28 kg, leeks 25 kg, parsnips 15 kg, beetroot 14 kg, runner beans 10 kg, cucumbers 5 kg, tomatoes 5 kg, broad beans 4 kg, purple sprouting broccoli 3 kg, lettuce 2 kg.</p>
+               </list-item>
+               <list-item>
+                  <p>There was a change from meat-dominated production towards a more balanced dietary output during the study period. Figure <xref ref-type="fig" rid="Fig2">2</xref> shows this trend in terms of the three main categories of food produced: meat, carbohydrate and fruit/vegetables. The original bias towards meat production arose partly because of an interest in livestock and partly because of the relatively high monetary value of meat. </p>
+               </list-item>
+            </list>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                 <title>Wheat yield on the farm, 2010-2017 (kg per ha) A linear regression of grain yield on year was not significant (Adjusted R 2 = 0.06, df = 6).</title>
+               </caption>
+               <graphic xlink:href="Fig1.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                 <title>Production trends: annual output by food category, 2010–2017 (kg).</title>
+               </caption>
+               <graphic xlink:href="Fig2.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- The Effects of Anomalous Weather</title>
+            <p>There were four anomalous periods of weather during the study period. These caused a significant reduction in two crops: wheat flour in 2010 and potatoes in 2013. These events and their effects are summarised in Table <xref ref-type="table" rid="Tab8">8</xref>. The rainfall data is from the UK Meteorological Office regional rainfall records for SE and Central Southern England [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Balanced Diet Scenario</title>
+            <p>The total annual production of the ten food types in the balanced diet scenario are shown in Table <xref ref-type="table" rid="Tab9">9</xref>, which is arranged in order of weight. There is a significant increase in total annual production compared with the study period, from an average of 570 kg to 1,222 kg, with a corresponding increase in total food energy from 5,531 MJ to 9,420 MJ.</p>
+            <p>The carrying capacity of the holding for the balanced diet scenario, based on the average total food energy output of 9,420 MJ per year is calculated in the same way as described above for the study period. The carrying capacity of 2.73 people is equivalent to 1.09 people per hectare. This represents an increase of approximately 71% on the study period carrying capacity.
+</p>
+            <table-wrap id="Tab8" position="float" orientation="portrait">
+               <label>Table 8</label>
+               <caption>
+                  <title>Anomalous weather events and their effect on production, 2010–2017.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Event/Date</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Actual regional rainfall (mm)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Average regional rainfall 1910-2017 (mm)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Effect on farming</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Effect on inputs</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Effect on food production</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Drought April-July 2010
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                112
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                213
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Supressed growth of cereals and hay
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Import of extra hay
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Reduced yield of wheat flour
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                High rainfall June-July 2012
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                242
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                109
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Reduced yield and quality of hay
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Import of extra hay
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                None
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Drought June-Aug 2013
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                94
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                172
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Reduced growth of potatoes
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Increased use of water for irrigation
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Reduced yield of potatoes
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                High rainfall Dec 2013-Feb 2014
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                514
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                221
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Longer housing of cattle and increased hay consumption
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Import of extra hay
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                none
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab9" position="float" orientation="portrait">
+               <label>Table 9</label>
+               <caption>
+                  <title>Balanced diet scenario, annual outputs of food.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Wheat flour</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Vegetables</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Fruit</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Dairy</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Potatoes</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Beef</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Pork</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Eggs and chicken meat</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Lamb and mutton</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Game</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Total</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Weight (kg)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                327
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                300
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                150
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                113
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                100
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                95
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                50
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                44
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                24
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                20
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,222
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Food Energy (MJ)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4,800
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                389
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                324
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                293
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                402
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,436
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                972
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                299
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                332
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                173
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9,420
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <p>The aim of this study was to measure how many people the holding could feed (its carrying capacity) from traditional farming on the basis of a balanced diet. The data, recorded over a period of 8 years, showed a carrying capacity of 0.64 people per hectare but the proportions of food types did not conform to a balanced diet. A balanced diet scenario was therefore constructed on the basis of the UK Government’s current recommendations which gives an increased carrying capacity of 1.09 people per ha.</p>
+         <p>The increase in carrying capacity for the balanced diet scenario reflects an increase in farming efficiency, mainly due to the following two factors:</p>
+         <list list-type="order">
+            <list-item>
+               <p>An increase in the production of plant-based foods and corresponding reduction in the number of livestock. More food energy per unit area is produced from plant-based foods, however livestock are an essential part of traditional farming. It is considered that the balanced diet scenario represents a practical and sustainable split between plant-based and livestock-based food production, although there might be animal welfare issues concerning lack of companionship due to low livestock numbers. Such issues would not arise on a larger holding which would be capable of supporting greater numbers of livestock.
+</p>
+            </list-item>
+            <list-item>
+               <p>An increase in yields of all food types compared to the averages for the study period. Average productivity during the study period was constrained by two factors. Firstly the time available to be spent on the holding was limited because of other part-time work and family commitments. Secondly a lack of farming skills and experience: no one in the family had any formal land-based qualifications and this was their first farming enterprise. Over the course of the study period these factors became less influential as experience was gained and more time became available. The balanced diet scenario therefore uses estimates of productivity based on indications of ultimate potential from these trends.</p>
+            </list-item>
+         </list>
+         <p>It should be noted that the balanced diet scenario is estimated to require a near doubling of labour time compared with the study period. The increase in labour time would be mainly associated with dairy production (twice-daily milking and weekly cheese/butter-making for 6 months per year and hand-rearing of the calf) plus the increased production of wheat flour, fruit and vegetables.</p>
+         <p>It is not claimed that the data presented here are representative of the potential of a larger farm in a more commercial setting. It could be argued that factors such as a lack of profit-motive and economies of scale mean that productivity is less than it could be if this were the case. In making a judgement on this, the reader might consider the following three points:</p>
+         <list list-type="order">
+            <list-item>
+               <p>The efficiency and productivity of small farms can be comparable, if not better, than that of larger farms [<xref ref-type="bibr" rid="R15">15</xref>].</p>
+            </list-item>
+            <list-item>
+               <p>Self-sufficient farming has a financial productivity incentive: eating home-grown produce saves money.</p>
+            </list-item>
+            <list-item>
+               <p>Self-sufficient farming has several non-financial productivity incentives: healthy eating, active lifestyle, communality, benefits to wildlife, etc.</p>
+            </list-item>
+         </list>
+         <p>The carrying capacity results from this study are significantly less, by a factor of more than three, than the theoretical predictions of Fairlie (2007; [<xref ref-type="bibr" rid="R5">5</xref>]) and Mellanby (1975; [<xref ref-type="bibr" rid="R4">4</xref>]). It is not the purpose of this study to investigate these discrepancies in detail but the following points should be noted:</p>
+         <p>First, the theoretical predictions of Mellanby (1975; [<xref ref-type="bibr" rid="R4">4</xref>]) were based on the productivity of contemporaneous “conventional” farming, which is widely accepted to have higher productivity than traditional farming.</p>
+         <p>Second, both theoretical predictions are based on a balanced diet but the components are somewhat different to that used by this study. The diet in the theoretical predictions has a higher proportion of carbohydrates (cereals and potatoes) and dairy and a correspondingly lower proportion of fruit and vegetables and meat. This might explain some of the greater productivity calculated by the theoretical predictions but it is not obvious how this factor could cause such large discrepancies.</p>
+         <p>Third, the theoretical predictions of Fairlie (2007; [<xref ref-type="bibr" rid="R5">5</xref>]) are constructed on a livestock-based organic farming system similar to the traditional farming system used in this study, therefore carrying capacity would be expected to be similar. This is problematic, however Fairlie (2007; [<xref ref-type="bibr" rid="R5">5</xref>]) emphasised that there were ”limitations to this kind of theoretical exercise” and that his article was ”intended as a rough guide and a useful framework for thinking about such matters”.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>This case study shows that traditional farming on a 2.75 ha holding in SE England has a carrying capacity of 0.64 people per hectare on a food energy basis alone without any dietary consideration. This is based on 8 years of food production data recorded between 2010 and 2017. Carrying capacity rises to 1.09 people per ha when the production is re-proportioned to conform to a balanced diet, illustrating the greater efficiency of balanced diet-driven production from traditional farming.</p>
+         <p>The balanced diet scenario carrying capacity estimate of 1.09 people per ha is broadly comparable with this study’s estimates of UK national values for the middle of the 20th Century. It is much less than the theoretical predictions made by Mellanby (1975; [<xref ref-type="bibr" rid="R4">4</xref>]) of 4.81 people per ha although these were based on “conventional” farming methods which are generally accepted to have higher productivity than traditional farming. More problematically, it is much less than the theoretical prediction made by Fairlie (2007; [<xref ref-type="bibr" rid="R5">5</xref>]) of 3.81 people per ha which was based on similar farming methods to traditional farming. The subject of carrying capacity appears to be under-researched and the above discrepancies require further investigation.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2018</year>
+               <publisher-name>Thesaurus and Glossary</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://agclass.nal.usda.gov/mtwdk.exe?k=glossary&amp;l=60&amp;w=12849&amp;n=1&amp;s=5&amp;t=2"
+                         xlink:type="simple">https://agclass.nal.usda.gov/mtwdk.exe?k=glossary&amp;l=60&amp;w=12849&amp;n=1&amp;s=5&amp;t=2</ext-link>
+               <publisher-name>United States Department of Agriculture</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <article-title>National Agricultural Library</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0003581500046023</pub-id>
+               <year>2004</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>84</volume>
+               <fpage>436</fpage>
+               <lpage>436</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>John Collis</surname>
+                  </name>
+               </person-group>
+               <article-title>Britain BC: Life in Britain and Ireland Before the Romans.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pryor</surname>
+                     <given-names>Francis</given-names>
+                  </name>
+               </person-group>
+               <isbn>0007126921</isbn>
+               <source>The Antiquaries Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/3180583</pub-id>
+               <year>1950</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>164</fpage>
+               <lpage>164</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barnes</surname>
+                     <given-names>J. A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Studies in African Land Usage in Northern Rhodesia.</article-title>
+               <source>Africa</source>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>1975</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mellanby</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Can Britain Feed Itself?</article-title>
+               <publisher-name>Merlin Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fairlie</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Can Britain Feed Itself?</article-title>
+               <fpage>18</fpage>
+               <lpage>26</lpage>
+               <volume>4</volume>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.thelandmagazine.org.uk/sites/default/files/can\_britain\_feed\_itself.pdf"
+                         xlink:type="simple">https://www.thelandmagazine.org.uk/sites/default/files/can\_britain\_feed\_itself.pdf</ext-link>
+               <source>The Land</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://webarchive.nationalarchives.gov.uk/20090731154417/http://www.defra.gov.uk/foodrin/pdf/Ensuring-UK-Food-Security-in-a-changing-world-170708.pdf"
+                         xlink:type="simple">http://webarchive.nationalarchives.gov.uk/20090731154417/http://www.defra.gov.uk/foodrin/pdf/Ensuring-UK-Food-Security-in-a-changing-world-170708.pdf</ext-link>
+               <year>2008</year>
+               <month>July</month>
+               <publisher-name>Department for Environment, Food and Rural Affairs</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <article-title>Ensuring the UK's Food Security in a Changing World</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-1-349-75096-2\_1</pub-id>
+               <year>2005</year>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Julie Jefferies</surname>
+                  </name>
+               </person-group>
+               <article-title>The UK Population: Past, Present and Future</article-title>
+               <chapter-title>Focus on People and Migration</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/833073/AUK-Chapter2-23sep19.ods"
+                         xlink:type="simple">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/833073/AUK-Chapter2-23sep19.ods</ext-link>
+               <article-title>Agriculture in the United Kingdom Data Sets</article-title>
+               <comment>Chapter 2 The Structure of the Industry</comment>
+               <publisher-name>United Kingdom Goverment</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.nuffield.ox.ac.uk/media/2161/allen-eandw.pdf</uri>.
+        </comment>
+               <year>2005</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>Robert C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>English and Welsh Agriculture, 1300-1850: Outputs, Inputs and Income</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://publications.naturalengland.org.uk/file/128043"
+                         xlink:type="simple">http://publications.naturalengland.org.uk/file/128043</ext-link>
+               <year>2010</year>
+               <article-title>Regional Agricultural Land Classification Maps. Agricultural Land Classification map London and the South East (ALC007)</article-title>
+               <publisher-name>Natural England</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/fn-an/alt_formats/pdf/nutrition/fiche-nutri-data/nvscf-vnqau-eng.pdf"
+                         xlink:type="simple">https://www.canada.ca/content/dam/hc-sc/migration/hc-sc/fn-an/alt_formats/pdf/nutrition/fiche-nutri-data/nvscf-vnqau-eng.pdf</ext-link>
+               <year>2008</year>
+              <fpage>1</fpage>
+              <lpage>62</lpage>
+               <publisher-name>Minister of Health Canada</publisher-name><article-title>Nutrient Values of some Common Foods</article-title>
+               <isbn>978-0-662-48082-2</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.gov.uk/government/publications/the-eatwell-guide"
+                         xlink:type="simple">https://www.gov.uk/government/publications/the-eatwell-guide</ext-link>
+               <year>2018</year>
+               <publisher-name>Public Health England</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <article-title>The Eatwell Guide</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.nhs.uk/chq/pages/1126.aspx?categoryid=51"
+                         xlink:type="simple">http://www.nhs.uk/chq/pages/1126.aspx?categoryid=51</ext-link>
+               <year>2015</year>
+               <publisher-name>United Kingdom National Health Service</publisher-name>
+               <article-title>What Should my Daily Intake of Calories be?</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.metoffice.gov.uk/climate/uk/summaries/datasets"
+                         xlink:type="simple">http://www.metoffice.gov.uk/climate/uk/summaries/datasets</ext-link>
+               <year>2018</year>
+               <publisher-name>The Meteorological Office</publisher-name>
+               <publisher-loc>Exeter, UK</publisher-loc>
+               <article-title>Climate and Climate Change. UK and Regional Series</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Small is Successful</article-title>
+               <year>2011</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ecologicalland.coop/sites/ecologicalland.coop/files/Small\_is\_Successful\_0.pdf"
+                         xlink:type="simple">https://ecologicalland.coop/sites/ecologicalland.coop/files/Small\_is\_Successful\_0.pdf</ext-link>
+               <publisher-name>Ecological Land Cooperative Ltd</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
