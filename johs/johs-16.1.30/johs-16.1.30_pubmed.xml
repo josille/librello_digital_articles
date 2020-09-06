@@ -1,0 +1,1977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16010030</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Exploring a Nexus of National and Human Security: Food and Energy Challenges in the U.S. Arctic</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Carlson</surname>
+                  <given-names>Cameron</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Bouffard</surname>
+                  <given-names>Troy</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Woodward</surname>
+                  <given-names>Dana</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Homeland Security and Emergency Management, University of Alaska Fairbanks, AK, USA</aff>
+         <pub-date pub-type="ppub">
+            <day>01</day>
+            <month>09</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <fpage>30</fpage>
+         <lpage>40</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Changes in the U.S. Arctic are challenging both the national and human security dynamics of the region. Historically, the region’s significance had been defined by national security concerns, but the emerging concept of human security has come to provide a useful framework through which to define and demonstrate the nexus between the two. This paper provides an overview of the relationship between national and human security and the concerns shared by individuals working in both areas, with a more narrowed focus on the interrelated issues of both food and energy security within the U.S. Arctic. Considering the substantial overlap of aspects of food and energy on both national as well as human security, an analysis of the relationships involving each provides meaningful and extended context of the term “security” for the Arctic region.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Arctic, national security, human security, food security, energy security, Arctic security</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Since satellite observation began in 1979, the Arctic has experienced ever-diminishing volumes of summer ice, with 2018 being younger and thinner than previous years [<xref ref-type="bibr" rid="R1">1</xref>]. From that development alone, numerous implications have been examined for the opening of the Arctic region, many stemming from increases in maritime access to Arctic waters [<xref ref-type="bibr" rid="R2">2</xref>]. For those implications raised with the opening of the Arctic, numerous issues are presented regarding Arctic shipping routes, the economic benefits of transporting goods through the region, and its geostrategic importance as a power projection platform for military forces [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>]. Others note the opening of the Arctic and the dash for resources to underscore the potential effects of competition and confrontation with other nations, including Russia [<xref ref-type="bibr" rid="R6">6</xref>] and China [<xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>].
+</p>
+         <p>Historically, national-security challenges involving the U.S. Arctic have been framed by the Cold War and the need to provide for the early warning and detection of Soviet bombers and, later, ballistic missiles. Previously, Alaska played a major role during WWII, as the Japanese invasion of a U.S. territory sparked unprecedented national security inertia and ignited a regional military buildup that changed both the demographics and future of Alaska [<xref ref-type="bibr" rid="R9">9</xref>]. Various strategic qualities today continue to demonstrate Alaska’s geostrategic importance to national security [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>Since the ’90s, the concept of human security has continued to become an established approach centered on a distinct differentiation from the traditional military-state context of national security. The United Nations has led the way in developing a purpose for the distinction in “a powerful approach” as a “proven analytical and planning framework that supports more comprehensive and preventive responses” [<xref ref-type="bibr" rid="R11">11</xref>]. In the U.S. Arctic, Alaska continues to have a unique relationship with human security, including challenges resulting from climate change, social pathologies, and disasters that differ greatly than those experienced in the lower 48 states. While Alaska has fewer than a million people, the original population consisted of Native peoples who have lived in the state for thousands of years. Today, the population is an amalgamation of these Native peoples and other Alaska state residents, who co-depend on a safe and stable security environment in which to live.</p>
+         <p>Numerous studies and definitions regarding national security exist, with continued strides in human security scholarship, research and analysis being made every day. Less common is scholarship that combines both, possibly due to the relative newness of human security as an accepted security concept and the complexities involved in developing an effective framework that integrates the two concepts. To that end, this article offers an example based upon observable connections between national and human security under the driving influences of both food and energy security within the U.S. Arctic.</p>
+         <p>National security priorities in the U.S. Arctic have often overshadowed human security as a security concept, challenging access to and the sustainability of food and energy security requirements. History reminds us that insufficient quantities and types of food often lead to food insecurity, malnutrition, civil unrest, or even violence. To date, most studies involving food security have focused on three primary discourses: access to local foods, Native Alaskan issues, and economic factors [<xref ref-type="bibr" rid="R12">12</xref>]. In the North, energy can be just as crucial for survival. Oil and the resulting petroleum investments and revenue serve as the main revenue source for the state of Alaska [<xref ref-type="bibr" rid="R13">13</xref>]. Oil also remains the primary source of energy for smaller rural areas, which depend on diesel electric power [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>The research goal is to illustrate a nexus between national and human security within the context of a changing U.S. Arctic. In particular, this study examines the roles of energy and food security within the U.S. region of Alaska, with a more narrowed examination of the shared energy and food security complexities which overlap the two central security categories. Consequently, the authors offer a view to understanding how the distinctions, connections, and overlap made between both national and human security provide significant insight concerning the northern-related security composition of the person, the natural world, and the social-civic construct.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Background</title>
+         <sec id="s2.1">
+            <title>2.1.- Defining National Security</title>
+            <p>Defining “national security” remains somewhat problematic due to the changing nature of the national security interests of the U.S. throughout the nation’s history [<xref ref-type="bibr" rid="R15">15</xref>]. The meaning of national security has continued to expand, contract, and morph across the past several administrations due in large part to changes in focus influenced by both national and international events of significance [<xref ref-type="bibr" rid="R13">13</xref>]. Following the aforementioned literature, we utilize a definition of national security from a broader context involving not only a state-centric perspective and its application to safeguarding the nation, its people, and their culture but likewise the integration of human security as a noted requisite to address non-traditional security threats [<xref ref-type="bibr" rid="R16">16</xref>]. Although scholars widely recognize the need to integrate human and national security as a model for international use, Cosby [<xref ref-type="bibr" rid="R17">17</xref>], supporting a broader definition, underscores the need for the integration of human security as a basis for U.S. National Security development and the conduct of foreign policy.</p>
+            <p>This article subscribes to the classification of the Arctic from the <italic>U.N. Arctic Human Development Report</italic>, which includes the entirety of the state of Alaska [<xref ref-type="bibr" rid="R18">18</xref>]. Since the attack on Pearl Harbor and the subsequent invasion that materialized during the Aleutian Campaign of World War II, Alaska’s role in national security has required a steady and ever-increasing multilevel government and interagency approach to provide for U.S. national security concerns [<xref ref-type="bibr" rid="R10">10</xref>]. Today, Alaska continues to serve at the forefront of U.S. national security through significant national defense responsibilities as a primary location for critical missile defense infrastructure, including both the ground-based interceptors located at Fort Greely and the Long-Range Discrimination Rader at Clear Air Station [<xref ref-type="bibr" rid="R19">19</xref>]. Furthermore, the U.S. Coast Guard, as an organization subordinate to the Department of Homeland Security, continues to provide primary operational surface capabilities for the U.S. Arctic maritime environment as well as the mission to conduct international maritime-related law enforcement. Soon, Alaska will be home to 54, or approximately one fifth, of the entire arsenal of 5th-generation fighters [<xref ref-type="bibr" rid="R20">20</xref>].</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Defining Human Security</title>
+            <p>The concept of human security was developed during the post-Cold War ’90s and has largely been differentiated from national and military security in stressing that individuals as stakeholders are the key focus rather than the state [<xref ref-type="bibr" rid="R13">13</xref>]. Often, definitions revolve around the need to protect individuals and provide for principles such as freedom, dignity, and/or livelihood. Others focus on protecting individuals from things, such as “freedom from fear” and “freedom from want” [<xref ref-type="bibr" rid="R21">21</xref>]. According to the UN, “human security is needed in response to the complexity and the interrelatedness of both old and new threats—from chronic and persistent poverty to ethnic violence, human trafficking, climate change, health pandemics, international terrorism, and sudden economic and financial downturns” [<xref ref-type="bibr" rid="R22">22</xref>].</p>
+            <p>Human security as a defined concept has evolved greatly in the 21<inline-formula>
+                  <mml:math id="S4.SS2.p2.m1"
+                            alttext="{}^{st}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>s</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> century [<xref ref-type="bibr" rid="R23">23</xref>] and has continued to gain traction based on a realization that security issues extend well beyond the national military–centric, if not international military–centric concerns of the past. The extension of these concerns has been demonstrated in the U.S. military’s increased involvement in non-warfighting operations, such as humanitarian assistance and disaster relief, as well as in its newfound efforts to address climate change as a national security interest [<xref ref-type="bibr" rid="R23">23</xref>]. Within the Arctic, residents currently do not face external nation state–based hostilities due to a system of regional governance and cooperation that has been fostered by the Arctic Council [<xref ref-type="bibr" rid="R24">24</xref>]. The region does, however, face numerous human-security challenges in the changing dynamics of vegetation, wildlife, and the very environment itself. Still, beyond the external aspects of national security, Alaska in particular faces multiple human security challenges due to food [<xref ref-type="bibr" rid="R25">25</xref>] and energy security [<xref ref-type="bibr" rid="R26">26</xref>] issues.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Defining Food Security</title>
+            <p>According to the U.K. Department for Environment, Food, and Rural Affairs, “a country and people are food secure when their food systems operate efficiently in such a way as to remove fear that there will not be enough to eat” [<xref ref-type="bibr" rid="R27">27</xref>]. At the international level, the Food and Agriculture Organization of the United Nations considers food security a success “when all people, at all times, have physical and economic access to sufficient, safe and nutritious food to meet their dietary needs and food preferences for an active and healthy life” [<xref ref-type="bibr" rid="R28">28</xref>]. In a broader sense, food security can effectively be considered on four levels: (a) individual/household, (b) regional, (c) national, and (d) global. Within each level, seven key themes help provide even more in-depth measurement of food security through availability: access, affordability, nutrition and quality, safety, resilience, and confidence [<xref ref-type="bibr" rid="R27">27</xref>]. Although such definitions provide some meaning, difficulties do exist as food-security metrics might not reflect the problems involving static information, which could impact the flexibility needed to proactively respond to dynamic regional realities [<xref ref-type="bibr" rid="R29">29</xref>]. Such problems could be the case for the North, especially as the U.S. Arctic continues to experience significant environmental and socio-economic change, where policy and operations will need to consider the looming impacts of food security at the local, state, and regional levels.</p>
+         </sec>
+         <sec id="s2.4">
+            <title>2.4.- Defining Energy Security</title>
+            <p>The International Energy Agency defines energy security as the uninterrupted availability of energy sources at an affordable price. Energy security has many aspects. On the one hand, long-term energy security mainly deals with timely investments to supply energy in line with economic developments and environmental needs. On the other hand, short-term energy security focuses on the ability of the energy system to react promptly to sudden changes in the supply–demand balance [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+            <p>Dimensions of energy-security definitions, according to the International Energy Agency, include (a) availability, (b) affordability, and (c) acceptability; Hughes [<xref ref-type="bibr" rid="R31">31</xref>] added a fourth dimension (accessibility). An additional issue related to energy security that will be incorporated into the above is energy independence. Greene examines oil independence, [<xref ref-type="bibr" rid="R32">32</xref>] noting that, should oil remain a dominant energy source in the near future, oil dependence will continue to be an economic threat in numerous scenarios. He also outlines in his analysis that the U.S. can achieve oil independence through a combined effort to reduce consumption while increasing its oil supply.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- The Roles of Food and Energy Security in the U.S. Arctic: National Security</title>
+         <sec id="s3.1">
+            <title>3.1.- Food Security</title>
+            <p>Food security in a changing Arctic is complex and based upon multiple influencing factors that impact the availability, access, distribution, and infrastructure of the indigenous communities, urban-area populations, and industries that support it [<xref ref-type="bibr" rid="R33">33</xref>]. According to the Alaska Resource Development Council, seafood harvests in Alaska for 2018 accounted for more than 60% of the total U.S. fishing harvest, with an economic impact of $2 billion that extends beyond Alaska and to the entirety of the U.S. [<xref ref-type="bibr" rid="R34">34</xref>]. To threaten both the food security and economic benefit of Arctic seafood, changes within the Arctic marine food web could be altered soon because of climate change. These changes could affect the migration patterns of fish, with potentially adverse impacts on marine mammals, and, thus, traditional hunting for indigenous coastal communities [<xref ref-type="bibr" rid="R35">35</xref>].</p>
+            <p>Another notable consideration to the issue of food security is the conduct of illegal, unreported, and unregulated (IUU) fishing [<xref ref-type="bibr" rid="R36">36</xref>]. In the U.S. Arctic today, the consistent security challenge has largely involved the conflicting fishing activity of various nations, especially Southeast Asia. IUU fishing and China is an illustrative example. With the world’s largest population, China’s demand for fish is significant and steady, with supplies unable to be satisfied by resources located in its own coastal waters, driving activity abroad to meet economic and food security needs [<xref ref-type="bibr" rid="R37">37</xref>]. In response to depletion near inland shores, China has increased subsidies to fishing industries to build larger vessels with increased range, resulting in broader security-related issues beyond near-coastal fishing [<xref ref-type="bibr" rid="R38">38</xref>]. Furthermore, China’s Beidou navigation satellite system offers the capability to transmit short messages or track other units that could be used to coordinate fishing as well as “maritime reconnaissance” [<xref ref-type="bibr" rid="R39">39</xref>]. The capability of transiting greater distances with substantially more vessels has continued to pose a threat to U.S. national security in the Arctic, especially when enforcement authorities lack the ability to monitor illicit activity. Moreover, China has consistently demonstrated a willingness to traverse sovereign boundaries and ignore generally accepted international norms [<xref ref-type="bibr" rid="R40">40</xref>].</p>
+            <p>Brady observes that food security is key to the Chinese national security strategy and, to that end, related pressures have already adversely impacted local fishing industries globally [<xref ref-type="bibr" rid="R8">8</xref>]. She likewise points to a Chinese-based report that notes the nation’s interest in Arctic fisheries. Although the previous example focuses on China, the intent is not to associate the State with sanctioned criminal activity but to illustrate a web of the documented complexities often involving several other actors. Although Chinese sub-state actors represent the primary violators, the China government overtly supports the regulation of fisheries while maintaining an active voice to influence frameworks and governance as regulation becomes codified, as demonstrated by the 2017 Central Arctic Ocean Fishing ban, which China has also signed [<xref ref-type="bibr" rid="R41">41</xref>]. Furthermore, the moratorium on fishing in U.S. Arctic waters also remains one of the strongest protective mechanisms in response to uncertainty of various impacts to fish, which is widely endorsed and supported by virtually all stakeholders [<xref ref-type="bibr" rid="R42">42</xref>].</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Energy Security</title>
+            <p>Alaska’s role in national energy security is largely defined by oil production and exportation. The state has in the past been the anchor for U.S. petroleum production and has contributed significantly to the industry since the late 1960s, when oil was discovered in quantities significant enough for large-scale production. While continued development has helped ensure U.S. energy independence and dominance [<xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>], within the larger context of the Arctic, the development of gas and oil is of great interest to numerous countries [<xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>].</p>
+            <p>Pillar II of the National Security Strategy embraces dominance in the energy sector through diversification and affordable sources [<xref ref-type="bibr" rid="R44">44</xref>]. In support of that goal, the U.S. finally became an energy net exporter for the first time in 75 years [<xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>]. However, the extent to which U.S. net exportation is sustainable depends on many factors, including Alaska’s contribution to oil and gas. Future production in Alaska partially relies on access to new reserves, including on- and offshore sources. Recent passage of the Tax Cut and Jobs Act required the Secretary of the Interior to establish and administer a competitive oil and gas program from the coastal plain (section 1002) located in Arctic National Wildlife Refuge (ANWR), effectively ending the 1980 ban [<xref ref-type="bibr" rid="R49">49</xref>]. ANWR commenced in 2018 with lease sales, which marked the beginning stages of resource exploitation [<xref ref-type="bibr" rid="R50">50</xref>]; in addition, extraction through shale has further supported the National Security Strategy to ensure energy independence and dominance while reducing leverage against the United States via increases in U.S. net exportation [<xref ref-type="bibr" rid="R51">51</xref>]. Recent ANWR estimates forecast a 90% increase (3.2 billion barrels) of oil crude production and 6.8 billion barrels of oil from 2031 to 2050 [<xref ref-type="bibr" rid="R48">48</xref>].
+</p>
+            <p>The Beaufort and Chukchi Seas represent the two primary, potential offshore production areas. However, in March 2019, a federal judge ruled and revoked the use of 120 million acres in the U.S. Arctic Ocean nullifying an executive order issued by the current administration [<xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R53">53</xref>]. As such, projects in either sea seem unlikely, given regulatory and commodity pricing forces that continue to make production in northern waters economically unappealing at this time.</p>
+            <p>Aside from Arctic oil, Arctic natural gas has had an increasingly important role for U.S. energy security. However, recovering natural gas in the North has proven difficult, as limited transportation resources and associated costs of extraction challenge the drilling companies’ ability to access resources [<xref ref-type="bibr" rid="R54">54</xref>]. Moreover, market prices and liquified natural gas ([LNG] which helps boost resource value) technicalities further complicate the appeal of natural gas production. Alaska is not new to natural gas, though. Cook Inlet basin still represents the nation’s oldest natural gas production site since export began in 1967 [<xref ref-type="bibr" rid="R55">55</xref>]. Notably, operations and transport of natural gas from Cook Inlet are relatively cheap compared to LNG development originating from the North Slope of Alaska. During the Walker Administration, Alaska pursued options to produce its northern gas to market, eventually brokering a deal with China in hopes of establishing a 100-year contract [<xref ref-type="bibr" rid="R56">56</xref>]; however, the deal fell apart politically and economically, even as aspects of national security emerged as part of the concern, especially in the context of general bilateral foreign trade issues [<xref ref-type="bibr" rid="R57">57</xref>].</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- The Roles of Food and Energy Security in the U.S. Arctic: Human Security</title>
+         <sec id="s4.1">
+            <title>4.1.- Food Security</title>
+            <sec id="s4.1.1">
+               <title>4.1.1.- The Donut Hole: A Lost Food Source</title>
+               <p>Human food security has long been linked to fish as a food source, and U.S. Arctic waters have played an important role in food security for many populations since WWII. A prime example of current impacts to the U.S. Arctic as a result of historical practices is unregulated and unrestricted fishing, which has led to a collapse of the “Donut Hole” located in the Aleutian Basin of the Bering Sea (Figure <xref ref-type="fig" rid="Fig1">1</xref>). As a once healthy and thriving fisheries region, known for its productivity of pollock, it drew the attention of numerous international fishing fleets from nations, including the People’s Republic of China, Japan, the Republic of Korea, and Poland [<xref ref-type="bibr" rid="R53">53</xref>]. The Donut Hole, as Balton outlines, is the result of the extension of the fishery zones from both the United States and the former Soviet Union. The area inside of the waters were beyond the jurisdictional control of bordering coastal states.</p>
+               <p>The collapse of the Donut Hole was a long time coming considering the historical backdrop provided by Bailey [<xref ref-type="bibr" rid="R58">58</xref>]. The narrative he provides outlines that the Bering region developed post World War II as an important food source for a Japan that was facing not only “malnutrition” but also “social unrest resulting from food shortages” [<xref ref-type="bibr" rid="R58">58</xref>]. As Japan developed and modernized its fishing fleet and adapted its wartime radar technology (fish finding), so too did others in the region, including the Republic of Korea and the USSR. Bailey [<xref ref-type="bibr" rid="R59">59</xref>] escribes that, initially, interest in foreign fishing fleets in the Bering were of little interest, until concern developed in the 1960s that the scope of these operations was beginning to impact the halibut and crab populations, as well as the salmon headed back to spawn in Alaska. In 1976, the United States would take a more assertive role to influence fishing practices of these fleets and prioritize domestic fisherman when it unilaterally extended the Fisheries Conservation Zone (FCZ) out to 200 miles [<xref ref-type="bibr" rid="R60">60</xref>].</p>
+               <p>The eventual result proved to be one of the most significant global fisheries collapses on record [<xref ref-type="bibr" rid="R58">58</xref>]. Bailey [<xref ref-type="bibr" rid="R59">59</xref>] notes the sometimes startling consequences of actions or the lack for taking action. Reported pollock catches from the Donut Hole were at 360,000 tons in 1985, with the total reported catch coming in at 1.5 million tons by 1989. Although interest existed to examine the negative impacts, by this point, it was already too late. Three years later, reported catches in the area amounted to approximately 10,000, signaling a complete collapse of pollock within the area. Ultimately, a moratorium was achieved internationally, with an agreement being signed in 1994, the Convention on the Conservation and Management of the Pollock Resources in the Central Bering Sea.</p>
+               <fig id="Fig1" position="float" orientation="portrait">
+                  <label>
+                Figure 1</label>
+                  <caption>
+                     <title>The donut hole [<xref ref-type="bibr" rid="R58">58</xref>].</title>
+                  </caption>
+                  <graphic xlink:href="Fig1.jpg"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+            </sec>
+            <sec id="s4.1.2">
+               <title>4.1.2.- Lack of State Agriculture</title>
+               <p>Simply put, Alaska is currently food insecure and, unlike most regions of the United States, does not maintain a balance between locally produced, imported, and exported foods [<xref ref-type="bibr" rid="R61">61</xref>]. Aside from shorter growing seasons and cold-temperature issues, several other categories of factors explain various agricultural challenges in Alaska, including environmental, geophysical, biological, and socioeconomic difficulties [<xref ref-type="bibr" rid="R62">62</xref>]. Of all the food consumed by Alaskans, only 5 to 10% is produced in the state [<xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R63">63</xref>]. Additionally, as roughly 10% of a family’s income is dedicated to food in the lower 48, 14% is the norm for a family in Alaska [<xref ref-type="bibr" rid="R64">64</xref>]. The more distant one is from an urban area in Alaska, the greater the cost of food, with milk costing $15 a gallon in the community of Kotzebue [<xref ref-type="bibr" rid="R65">65</xref>]. Importantly, Kotzebue’s study notes that a high cost does not equate to quality but rather reflects the economic cost of distribution to the far end of the supply chain which is largely shouldered by the consumer. Consequently, access, costs, and potential disruption to the supply chain become dynamic contributors to food insecurity. Fairbanks, the second-most densely populated city, sits 180 miles south of the Arctic Circle. As the second largest city, it is estimated to maintain a 3- to 5-day food supply in local stores, compared to Anchorage, which has a 5- to 7-day supply [<xref ref-type="bibr" rid="R66">66</xref>]. There is also a distinct imbalance between Alaska rural and urban food sources and consumption. For example, wild food harvest [<xref ref-type="bibr" rid="R67">67</xref>] for 2017 in rural areas averaged 276 pounds per person, while urban harvest accounted for 19 pounds per person on average [<xref ref-type="bibr" rid="R68">68</xref>] underscoring the reliance on locally procured food in rural areas versus the store bought food in the urban.</p>
+            </sec>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Energy Security</title>
+            <p>Although improved home construction has increased energy efficiency, the majority of homes in places like Fairbanks were not suitable for the subarctic climate, largely because builders were from the lower 48 states and were not familiar with the environmental conditions [<xref ref-type="bibr" rid="R69">69</xref>]. Consequently, energy costs for households in the high latitudes remain higher due to their heavy reliance on oil to heat their homes in the winter. Alaska’s harsh winters, energy-intensive oil and natural gas industries, and small population, place the state’s per capita energy consumption as third highest in the nation, after Louisiana and Wyoming [<xref ref-type="bibr" rid="R14">14</xref>]. Alaska’s unique power grid connects to Anchorage, Fairbanks, and the Kenai Peninsula, or what is commonly called the “Rail Belt” [<xref ref-type="bibr" rid="R70">70</xref>]. Microgrids constitute the remainder of electrical grids in smaller towns and villages (Figure <xref ref-type="fig" rid="Fig2">2</xref>).</p>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                  <title>Pan-arctic circumpolar off-grid settlements [<xref ref-type="bibr" rid="R71">71</xref>].</title>
+               </caption>
+               <graphic xlink:href="Fig2.jpg"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>To adapt to household and commercial energy difficulties, Alaska’s policy makers routinely consider legislation and sometimes even disaster declarations to supplement and fund the annual funding of the Power Cost Equalization Program [<xref ref-type="bibr" rid="R72">72</xref>]. Efforts also include opportunities to transition from fossil fuels. In 2010, Alaska’s legislature established the Alaska State Energy Policy, which set a goal for Alaska to increase its electric generation from renewable and alternative energy sources to 50% by 2025 [<xref ref-type="bibr" rid="R14">14</xref>]. Hossain, Loring, &amp; Marsik, [<xref ref-type="bibr" rid="R26">26</xref>] argue that rural Alaska should “have reliable access to socially acceptable energy generation or provisioning services, at a level sufficient to conducting a sustainable life.”</p>
+            <p>Combined with volatility in oil prices and a constant political battle over the state’s oil tax regime, energy security for Alaska has been less than nominal, especially since the 2008 global fiscal crisis. Moreover, rural Alaska’s dependence on fuel oil remains vulnerable to problems, some of which involve national and human security. For example, in the fall of 2011, Nome Alaska experienced a severe storm that prevented the annual scheduled delivery of fuel to the community. Estimates of increased fuel prices ranged from $5.40 to $9 per gallon if brought in by plane. In the end, the solution involved a Russian ice-hardened tanker escorted by a USCG ice breaker to deliver vital fuel in January 2012—in mid-Winter—with reserves running low [<xref ref-type="bibr" rid="R73">73</xref>].</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Convergence of National and Human Security in the U.S. Arctic</title>
+         <sec id="s5.1">
+            <title>5.1.- Food Security</title>
+            <p>From a national security perspective vis-à-vis economics, Alaska’s $3 billion seafood industry supports the nation’s $6 billion seafood industry [<xref ref-type="bibr" rid="R74">74</xref>] and subsequently contributes to not only U.S. but global food security. Alaska led all states in volume, with landings of 60 billion pounds with a value of $1.8 billion, as well as 158 processing plants and wholesalers and nearly ten people employed [<xref ref-type="bibr" rid="R75">75</xref>]. According to the Alaska Department of Fish and Game, [<xref ref-type="bibr" rid="R68">68</xref>] fish directly accounted for nearly 54% of wild food harvest in rural Alaskan areas while providing about 14% of caloric needs and 95% of protein needs in 2017 (Figure <xref ref-type="fig" rid="Fig3">3</xref>). Indirectly, the same report indicates other food sources that are dependent on fish (land mammals) and/or impacted by illicit fishing practices (marine mammals).</p>
+            <p>The effects of climate change on food security remain a convergence both at the federal and local levels but for different reasons. Conversely, from a human security perspective, indigenous and rural communities throughout the U.S. Arctic remain affected by several factors, including changing food availability and vulnerability, as well as limited transportation infrastructure. Caulfield [<xref ref-type="bibr" rid="R76">76</xref>] underscores that, for smaller and indigenous communities, the problems are even more manifest because they are impacted by the availability of essentials, fluctuations in pricing, and a long and often costly distribution process. For many of these communities, subsistence hunting and fishing are important in both a literal (survival) and cultural food security context. The use of cash or bartering in Alaska often buys necessities, such as snowmobiles, fuel, food, and ammunition [<xref ref-type="bibr" rid="R77">77</xref>]. Moreover, higher prices (e.g., for food and energy) require people to work multiple jobs, which in turn limits time for subsistence hunting and fishing, thus adding to food insecurity. Importantly, food security through availability and access, coupled with subsistence hunting and fishing, plays a critical role in the health security in rural communities [<xref ref-type="bibr" rid="R78">78</xref>]. In general, an estimated 65% of Alaska residents utilize some form of subsistence [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+            <fig id="Fig3" position="float" orientation="portrait">
+               
+               <label>Figure 3</label>
+               <caption>
+                  <title>Wild food harvest in rural Alaska [<xref ref-type="bibr" rid="R62">62</xref>].</title>
+               </caption>
+               <graphic xlink:href="Fig3.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Energy Security</title>
+            <p>Conversely, some scholars and policy makers argue that policies that support oil and gas exploitation make a “mockery” of sustainability [<xref ref-type="bibr" rid="R79">79</xref>]. The prospect of oil and mineral exploration poses significant challenges to food, health, and environmental security but also presents opportunities. Gjørv <italic>et al.</italic> [<xref ref-type="bibr" rid="R80">80</xref>] states, “Security in the Arctic has focused on issues of power, resource exploitation, and territory these issues continue to influence government policy. While the idea of energy security persists with governments to secure energy resources, often power is exerted over those who are dependent on those untouched resources” [<xref ref-type="bibr" rid="R80">80</xref>].</p>
+            <p>Should, however, crude oil production on the North Slope decline below 300,000 barrels per day, ice and increased wax settlement follow in the pipeline [<xref ref-type="bibr" rid="R43">43</xref>]. This increases maintenance costs and potentially forces the exploitation of ANWR to develop the additional flow needed to mitigate potential increased maintenance costs as well as to ensure continued energy dominance. Adding to the complexity of providing for energy security and economic profitability, the cost for oil and natural gas resource development in Alaska, according to the U.S. Energy Information Administration, sits 50 to 100% higher than it does in Texas [<xref ref-type="bibr" rid="R43">43</xref>].</p>
+            <p>The entire LNG value chain, including liquefaction, shipping, and regasification, complicate the global natural gas industry and play a role in economic, environmental, and national security policy [<xref ref-type="bibr" rid="R81">81</xref>]. Regarding human security, Northern communities have consistently expressed a desire for natural gas to help offset heating costs and pollution. However, the State of Alaska has had a different focus on its desire for natural gas, namely the pursuit of exportation, which does nothing for communities directly, but could offer indirect benefits as revenues are collected. However, several obstacles prevent the full use of LNG beyond extraction, including treatment, liquefaction, transport, storage, and regasification, to name a few. Gasification alone involves numerous technical difficulties associated with LNG, which requires a significant amount of energy to render natural gas into a liquid state at -161<inline-formula>
+                  <mml:math id="S7.SS2.p3.m1"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>F and 1/600<inline-formula>
+                  <mml:math id="S7.SS2.p3.m2"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> it original volume [<xref ref-type="bibr" rid="R82">82</xref>]. In addition, given the global LNG competition involving supply from Australia, the Middle East, and Russia, Alaska has a very limited geographic market area in which to sell its potential—of which China represents one of the few places currently.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>Conclusions</title>
+         <p>The nexus of both human and national security interests within the U.S. Arctic is remarkable considering the recognized challenges regarding security in the larger Arctic setting. The relationship and overlap between human and national security interests within the U.S. Arctic increasingly demonstrate a strong connection to changing dynamics of the region and how those changes not only serve as an example to the overlapping nature of the national and human security, but how this region will continue to serve as a benchmark in exposing those concerns. While, globally, it is increasingly recognized that human security concerns are becoming more pronounced as international conflict between nation states declines [<xref ref-type="bibr" rid="R23">23</xref>], Alaska remains of significant geostrategic importance to U.S. due to national security interests and its location [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>Human security concerns within the U.S. Arctic are likewise both complex and prominent. As a land of extremes, Alaska will remain as long as people continue to live in an environment rife with challenges such as isolation and climate, yet rich in remarkable beauty, resources, and cultural roots and strengths. While external global threats might not loom large for individuals within the region [<xref ref-type="bibr" rid="R24">24</xref>], the changing climate is altering the physical landscape in relation to permafrost and, as a consequence, the longer term viability of Arctic infrastructure and its residents way of life. To drill down into the human security aspects of the U.S. Arctic, climate change has altered the physical landscape such that indigenous peoples of the U.S. Arctic are finding it difficult to “put food on the table” [<xref ref-type="bibr" rid="R83">83</xref>]. Still, as a state on the front lines of climate change, its efforts in proactive adaptation planning will serve to potentially reduce not only the costs but the impacts of a changing climate [<xref ref-type="bibr" rid="R84">84</xref>].</p>
+         <list list-type="order">
+            <list-item>
+               <p>
+                  <italic>Intersection of Energy Security with a National Security Backdrop</italic>. As previously noted, Alaska’s role in providing energy to meet the national security requirements of the U. S. is both very real and significant. In historical and contemporary contexts, Alaska has significantly contributed to and enabled the nation to achieve both energy dominance and independence [<xref ref-type="bibr" rid="R85">85</xref>]. Vast oil and natural gas estimates indicate the presence of other production areas, such as the Beaufort and Chukchi Seas which could prove to further reinforce energy security and independence going into the future. These areas could serve to extend the significance of the U.S. Arctic as an energy resource–rich region well into the future. However, the appetite as well as the cost for development and operations may come into conflict with this region realizing its full potential and the energy security supply it could provide.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Intersection of Food Security with a National Security Backdrop</italic>. The $3 billion seafood industry of Alaska continues to support the economic largesse of a $6 billion U.S. parent industry. Nationally, Dutch Harbor has led the nation with the highest amount of seafood landed for more than two decades, with approximately 770 million pounds alone in 2017 [<xref ref-type="bibr" rid="R75">75</xref>]. Likewise, as the report highlights, this industry provides approximately 15% of rural Alaskans’ employment, with an extended national impact of creating 99,000 full-time equivalent jobs. The perspectives drawn from this evidence illustrate how the economics of fisheries relate to both the national security significance of a food rich region, but further underscore how seafood contributes to the economic basis of human security at a more localized level. Current impacts to fisheries from illicit activity continue to represent issues closely associated with national security, with the potential to escalate into higher tension or conflict. However, as previously developed, the region is not on the cusp of conflict as diplomatic intervention has proven itself effective in negotiated agreements to safeguard valuable fishing areas.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Intersection of Energy Security with a Human Security Backdrop</italic>. The costs associated with the development of energy resources within the U.S. Arctic are sizeable and are at odds with sustainability and other initiatives related to longer term climate-change adaptation. At the same time, the traditional need for energy is real, particularly considering the backdrop of Alaska’s cold winters and ensuing energy consumption rates as compared to the Lower 48. Beyond the simple need to meet the energy demands of Alaska through the use of home heating oil and natural gas, the state’s economy depends greatly on the production of these resources for its revenue and longer term financial viability. This unique juxtaposition leaves Alaska at odds with itself. Although the state contributes to the energy and human security needs of those who live and work there, revenue, resulting from the royalties realized from the sovereign wealth fund represent the largest contribution toward investment, and thus, returns (currently Alaska’s largest revenue source)—which comes at a time when climate change and environmental issues have become more contentious.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Intersection of Food Security with a Human Security Backdrop</italic>. The collapse of the Donut Hole as a food source from a National Security perspective serves to simultaneously demonstrate both the economic and food production capability of the region, and yet, its fragility. Whereas Bailey notes that the socioeconomic aspects of the collapse might not significantly affect the local fishing and indigenous communities, overfishing of the region has indeed had a longer term impact, as fishing harvests for a variety of has species have declined appreciably [<xref ref-type="bibr" rid="R58">58</xref>]. From this loss, however, the “Doughnut Hole Convention” was developed and has global implications for safeguarding the fishery and thwarting the larger scale occurrence of IUU. This agreement underscores a success in providing for the protection of a region that substantially influences national and international food capacity and that generates national security significance of the convention as a forum for international agreement.</p>
+               <p>A further review of several outliers regarding the overlap of Human and National Security interests in the U.S. Arctic should be further considered. In the greater context of human security and its emphasis beyond both food and energy security, numerous other areas of shared concern are worthy of analysis, including the economic, environmental, and health security challenges of the region. While certain aspects of this paper have touched on each of these areas, the U.S. Arctic as a sub-region is very different from other parts of the Arctic, and especially the contiguous United States. The needs of the individual intersect with those of the region, or the state, on important topics including subsistence hunting, home heating, and the effects of climate change. A similar, broader concern is also observed in addressing the health security needs of the U.S. Arctic during an economic downturn. This concern in itself has the potential to undermine the national as well as human security stability in a region that is on the front lines of climate security concerns while great power competition continues to entrench itself throughout the Circumpolar North.</p>
+               <p>National and human security should not be regarded as mutually exclusive—in either policy or behavior. Although the two can contrast or complement each other, the integration of the two becomes increasingly more important as a consideration, especially as human security continues to evolve in understanding, acceptance, and application. This article provided a means by which to examine energy and food security, in the context of the broader concept of human and national security, to illustrate the overlapping concerns within the U.S. Arctic. Any number of other human security–related categories could be studied in the same manner, within the researcher’s spatial (and/or longitudinal) framework. Human security has a way of “humanizing” national security. It helps reveal how the relationship between the two contributes to a greater understanding of security in general while offering a more interrelated appreciation toward defining and describing both national and human security.
+</p>
+               <p>
+                  <italic>Intersection of Food Security with a Human Security Backdrop</italic>. The collapse of the Donut Hole as a food source from a National Security perspective serves to simultaneously demonstrate both the economic and food production capability of the region, and yet, its fragility. Whereas Bailey notes that the socioeconomic aspects of the collapse might not significantly affect the local fishing and indigenous communities, overfishing of the region has indeed had a longer term impact, as fishing harvests for a variety of has species have declined appreciably [<xref ref-type="bibr" rid="R58">58</xref>]. From this loss, however, the “Doughnut Hole Convention” was developed and has global implications for safeguarding the fishery and thwarting the larger scale occurrence of IUU. This agreement underscores a success in providing for the protection of a region that substantially influences national and international food capacity and that generates national security significance of the convention as a forum for international agreement.</p>
+               <p>A further review of several outliers regarding the overlap of Human and National Security interests in the U.S. Arctic should be further considered. In the greater context of human security and its emphasis beyond both food and energy security, numerous other areas of shared concern are worthy of analysis, including the economic, environmental, and health security challenges of the region. While certain aspects of this paper have touched on each of these areas, the U.S. Arctic as a sub-region is very different from other parts of the Arctic, and especially the contiguous United States. The needs of the individual intersect with those of the region, or the state, on important topics including subsistence hunting, home heating, and the effects of climate change. A similar, broader concern is also observed in addressing the health security needs of the U.S. Arctic during an economic downturn. This concern in itself has the potential to undermine the national as well as human security stability in a region that is on the front lines of climate security concerns while great power competition continues to entrench itself throughout the Circumpolar North.</p>
+               <p>National and human security should not be regarded as mutually exclusive—in either policy or behavior. Although the two can contrast or complement each other, the integration of the two becomes increasingly more important as a consideration, especially as human security continues to evolve in understanding, acceptance, and application. This article provided a means by which to examine energy and food security, in the context of the broader concept of human and national security, to illustrate the overlapping concerns within the U.S. Arctic. Any number of other human security–related categories could be studied in the same manner, within the researcher’s spatial (and/or longitudinal) framework. Human security has a way of “humanizing” national security. It helps reveal how the relationship between the two contributes to a greater understanding of security in general while offering a more interrelated appreciation toward defining and describing both national and human security.
+</p>
+               <p>
+                  <italic>Intersection of Food Security with a Human Security Backdrop</italic>. The collapse of the Donut Hole as a food source from a National Security perspective serves to simultaneously demonstrate both the economic and food production capability of the region, and yet, its fragility. Whereas Bailey notes that the socioeconomic aspects of the collapse might not significantly affect the local fishing and indigenous communities, overfishing of the region has indeed had a longer term impact, as fishing harvests for a variety of has species have declined appreciably [<xref ref-type="bibr" rid="R58">58</xref>]. From this loss, however, the “Doughnut Hole Convention” was developed and has global implications for safeguarding the fishery and thwarting the larger scale occurrence of IUU. This agreement underscores a success in providing for the protection of a region that substantially influences national and international food capacity and that generates national security significance of the convention as a forum for international agreement.</p>
+               <p>A further review of several outliers regarding the overlap of Human and National Security interests in the U.S. Arctic should be further considered. In the greater context of human security and its emphasis beyond both food and energy security, numerous other areas of shared concern are worthy of analysis, including the economic, environmental, and health security challenges of the region. While certain aspects of this paper have touched on each of these areas, the U.S. Arctic as a sub-region is very different from other parts of the Arctic, and especially the contiguous United States. The needs of the individual intersect with those of the region, or the state, on important topics including subsistence hunting, home heating, and the effects of climate change. A similar, broader concern is also observed in addressing the health security needs of the U.S. Arctic during an economic downturn. This concern in itself has the potential to undermine the national as well as human security stability in a region that is on the front lines of climate security concerns while great power competition continues to entrench itself throughout the Circumpolar North.</p>
+               <p>National and human security should not be regarded as mutually exclusive—in either policy or behavior. Although the two can contrast or complement each other, the integration of the two becomes increasingly more important as a consideration, especially as human security continues to evolve in understanding, acceptance, and application. This article provided a means by which to examine energy and food security, in the context of the broader concept of human and national security, to illustrate the overlapping concerns within the U.S. Arctic. Any number of other human security–related categories could be studied in the same manner, within the researcher’s spatial (and/or longitudinal) framework. Human security has a way of “humanizing” national security. It helps reveal how the relationship between the two contributes to a greater understanding of security in general while offering a more interrelated appreciation toward defining and describing both national and human security.
+</p>
+            </list-item>
+         </list>
+      </sec>
+      <sec id="s9">
+         <title>Acknowledgments</title>
+         <p>The views expressed within the text are those of the authors and do not necessarily reflect the views of the United Nations (U.N.) or the U.S. Department of Defense (DoD). This article is partially based upon previous research and analysis conducted as part of DoD contract # FA2517-16-D-6003. We wish to thank the members of the partnering academic institutions, both in the U.S. and abroad who have worked to further Human Security as field of study.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1175/jcli-d-16-0412.1</pub-id>
+               <year>2017</year>
+               <publisher-name>American Meteorological Society</publisher-name>
+               <volume>30</volume>
+               <issue>2</issue>
+               <fpage>553</fpage>
+               <lpage>571</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kirchmeier-Young, Megan C.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zwiers</surname>
+                     <given-names>Francis W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gillett</surname>
+                     <given-names>Nathan P.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Attribution of Extreme Events in Arctic Sea Ice Extent</article-title>
+               <source>Journal of Climate</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s10584-012-0685-0</pub-id>
+               <year>2013</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>118</volume>
+               <issue>3-4</issue>
+               <fpage>885</fpage>
+               <lpage>899</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stephenson</surname>
+                     <given-names>Scott R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Laurence C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brigham</surname>
+                     <given-names>Lawson W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Agnew</surname>
+                     <given-names>John A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Projected 21<sup>st</sup>-Century Changes to Arctic Marine Access</article-title>
+               <source>Climatic Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Implications from Opening Arctic Sea Routes</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Melia</surname>
+                  </name>
+                  <name>
+                     <surname>Nathanael</surname>
+                  </name>
+                  <name>
+                     <surname>Haines</surname>
+                  </name>
+                  <name>
+                     <surname>Keith</surname>
+                  </name>
+                  <name>
+                     <surname>Hawkins</surname>
+                  </name>
+               </person-group>
+                              
+               <year>2017</year>
+               <publisher-name>Government Office for Science</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/634437/Future\_of\_the\_sea\_-\_implications\_from\_opening\_arctic\_sea\_routes\_final.pdf"
+                         xlink:type="simple">https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/634437/Future\_of\_the\_sea\_-\_implications\_from\_opening\_arctic\_sea\_routes\_final.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1002/wcc.507</pub-id>
+               <year>2018</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>9</volume>
+               <issue>2</issue>
+               <fpage>507</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ng</surname>
+                     <given-names>Adolf K.Y.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andrews</surname>
+                     <given-names>Jonathan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Babb</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lin</surname>
+                     <given-names>Yufeng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Becker</surname>
+                     <given-names>Austin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Implications of Climate Change for Shipping—Opening the Arctic Seas</article-title>
+               <source>Wiley Interdisciplinary Reviews: Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.polar.2016.04.004</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>10</volume>
+               <issue>3</issue>
+               <fpage>404</fpage>
+               <lpage>414</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beveridge</surname>
+                     <given-names>Leah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fournier</surname>
+                     <given-names>M\'elanie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lasserre</surname>
+                     <given-names>Fr\'ed\'eric</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Linyan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>T\^etu, Pierre-Louis</surname>
+                  </name>
+               </person-group>
+               <article-title>Interest of Asian Shipping Companies in Navigating the Arctic</article-title>
+               <source>Polar Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Arctic Meltdown-The Economic and Security Implications of Global Warming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Borgerson</surname>
+                     <given-names>Scott G</given-names>
+                  </name>
+               </person-group>
+               <source>Foreign Affairs</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.jstor.org/stable/20032581"
+                         xlink:type="simple">http://www.jstor.org/stable/20032581</ext-link>
+               <volume>87</volume>
+               <fpage>63</fpage>
+               <year>2008</year>
+               <publisher-name>HeinOnline</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Three-Way Power Dynamics in the Arctic</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pincus</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+               </person-group>
+               <source>Strategic Studies Quarterly</source>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>40</fpage>
+               <lpage>63</lpage>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.airuniversity.af.edu/Portals/10/SSQ/documents/Volume-14\_Issue-1/Pincus.pdf"
+                         xlink:type="simple">https://www.airuniversity.af.edu/Portals/10/SSQ/documents/Volume-14\_Issue-1/Pincus.pdf</ext-link>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/703293</pub-id>
+               <year>2017</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <volume>82</volume>
+               <fpage>1</fpage>
+               <lpage>273</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brady</surname>
+                     <given-names>Anne-Marie</given-names>
+                  </name>
+               </person-group>
+               <article-title>China as a Polar Great Power</article-title>
+               <source>The China Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Alaska at War, 1941-1945—The Forgotten War Remembered</article-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Chandonnet</surname>
+                     <given-names>Fern</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <isbn>1602230137</isbn>
+               <publisher-name>University of Alaska Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Why Alaska and the Arctic are Critical to the National Security of the United States</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Forsyth</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <source>Military Review</source>
+               <volume>98</volume>
+               <issue>1</issue>
+               <fpage>113</fpage>
+               <year>2018</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/Forsyth-why-alaska-and-arctic-are-critical.pdf"
+                         xlink:type="simple">https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/Forsyth-why-alaska-and-arctic-are-critical.pdf</ext-link>
+               <publisher-name>US Army CGSC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>What is Human Security—United Nations Trust Fund for Human Security</article-title>
+               <publisher-name>United Nations</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.un.org/humansecurity/what-is-human-security/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5304/jafscd.2018.081.003</pub-id>
+               <year>2018</year>
+               <publisher-name>Lyson Center for Civic Agriculture and Food Systems</publisher-name>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Burke</surname>
+                     <given-names>Tracey</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Durr</surname>
+                     <given-names>Cara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reamer</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Importance of Local Foods to Users of Food Pantries in Accessible Rural Alaska</article-title>
+               <source>Journal of Agriculture, Food Systems, and Community Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>American National Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meese</surname>
+                     <given-names>Michael J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nielsen</surname>
+                     <given-names>Suzanne C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sondheimer</surname>
+                     <given-names>Rachel M</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <isbn>978-1421426778</isbn>
+                               
+               <publisher-name>JHU Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Alaska State Energy Profile</article-title>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eia.gov/state/analysis.php?sid=AK"
+                         xlink:type="simple">https://www.eia.gov/state/analysis.php?sid=AK</ext-link>
+               <publisher-name>U.S. Energy Information Administration</publisher-name>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Limits of National Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Donohue</surname>
+                     <given-names>Laura K</given-names>
+                  </name>
+               </person-group>
+               <source>American Criminal Law Review</source>
+               <volume>48</volume>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://scholarship.law.georgetown.edu/facpub/1010"
+                         xlink:type="simple">https://scholarship.law.georgetown.edu/facpub/1010</ext-link>
+               <fpage>1573</fpage>
+               <year>2011</year>
+               <publisher-name>HeinOnline</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1353/book.26472</pub-id>
+               <year>2009</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jordan</surname>
+                     <given-names>Amos A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Taylor</surname>
+                     <given-names>William J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meese</surname>
+                     <given-names>Jr., Michael J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nielsen</surname>
+                     <given-names>Suzanne C.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Johns Hopkins University Press</publisher-name>
+               <article-title>American National Security</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Human Security Concept—The Root of US National Security and Foreign Policy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cosby</surname>
+                     <given-names>Stephen L</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://apps.dtic.mil/dtic/tr/fulltext/u2/a510268.pdf"
+                         xlink:type="simple">https://apps.dtic.mil/dtic/tr/fulltext/u2/a510268.pdf</ext-link>
+               <publisher-name>Marine Corps Combat Development Command</publisher-name>
+               <publisher-loc>Quantico, VA, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Arctic Human Development Report</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Einarsson</surname>
+                     <given-names>Niels</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nymand Larsen, Joan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nilsson</surname>
+                     <given-names>Annika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Young</surname>
+                     <given-names>Oran R</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.svs.is/static/files/images/pdf\_files/ahdr/English\_version/AHDR\_first\_12pages.pdf"
+                         xlink:type="simple">http://www.svs.is/static/files/images/pdf\_files/ahdr/English\_version/AHDR\_first\_12pages.pdf</ext-link>
+               <publisher-name>Stefansson Arctic Institute</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.defensenews.com/land/2017/04/20/long-range-discrimination-radar-passes-preliminary-design-review/</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Judson J.</surname>
+                  </name>
+               </person-group>
+               <article-title>Long Range Discrimination Radar Passes Preliminary Design Review—Defense News</article-title>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>Alaska Public Media</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.alaskapublic.org/2018/11/29/eielson-afb-commander-says-f-35s-will-usher-new-era-of-combat-power/"
+                         xlink:type="simple">https://www.alaskapublic.org/2018/11/29/eielson-afb-commander-says-f-35s-will-usher-new-era-of-combat-power/</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bross</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Eielson AFB Commander Says F-35's Will Usher New Era of Combat Power</article-title>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-3-319-97247-3\_8</pub-id>
+               <year>2018</year>
+               <publisher-name>Springer International Publishing</publisher-name>
+               <fpage>159</fpage>
+               <lpage>181</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Atienza</surname>
+                     <given-names>Maria Ela L.</given-names>
+                  </name>
+               </person-group>
+               <source>Human Security in Practice—The Philippine Experience from the Perspective of Different Stakeholders</source>
+               <chapter-title>Human Security Norms in East Asia</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Human Security in Theory and Practice, Application of the Human Security Concept and the United Nations Trust Fund for Human Security</article-title>
+               <year>2009</year>
+               <publisher-name>United Nations, Human Security Unit, Office for the Coordination of Humanitarian Affairs</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.unocha.org/sites/dms/HSU/Publications\%20and\%20Products/Human\%20Security\%20Tools/Human\%20Security\%20in\%20Theory\%20and\%20Practice\%20English.pdf"
+                         xlink:type="simple">https://www.unocha.org/sites/dms/HSU/Publications\%20and\%20Products/Human\%20Security\%20Tools/Human\%20Security\%20in\%20Theory\%20and\%20Practice\%20English.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780429503726</pub-id>
+               <year>2018</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reveron</surname>
+                     <given-names>Derek S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mahoney-Norris, Kathleen A.</surname>
+                  </name>
+               </person-group>
+               <article-title>Human and National Security—Understanding Transnational Challenges</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Human Security in the Arctic—The Foundation of Regional Cooperation</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Exner-Pirot, Heather</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <pub-id pub-id-type="doi">10.13140/RG.2.2.18371.40480</pub-id>
+               <publisher-name>Munk School of Global Affairs, University of Toronto</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.envsci.2008.10.006</pub-id>
+               <year>2009</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>12</volume>
+               <issue>4</issue>
+               <fpage>466</fpage>
+               <lpage>478</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Loring</surname>
+                     <given-names>Philip A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gerlach</surname>
+                     <given-names>S.C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Food, Culture, and Human Health in Alaska—An Integrative Health Approach to Food Security</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.erss.2016.03.014</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>16</volume>
+               <fpage>89</fpage>
+               <lpage>97</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hossain</surname>
+                     <given-names>Yasmeen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loring</surname>
+                     <given-names>Philip A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marsik</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+               </person-group>
+               <article-title>Defining Energy Security in the Rural North\textemdashHistorical and Contemporary Perspectives from Alaska</article-title>
+               <source>Energy Research &amp; Social Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Food Security and the UK—An Evidence and Analysis Paper</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Defra</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <source>Food Chain Analysis Group</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://pdfs.semanticscholar.org/a6f8/92c232ec85a6425d5ba8d54c32a7f3f1609b.pdf"
+                         xlink:type="simple">https://pdfs.semanticscholar.org/a6f8/92c232ec85a6425d5ba8d54c32a7f3f1609b.pdf</ext-link>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Food Security—Concepts and Measurement</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clay</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <source>Trade Reforms and Food Security—Conceptualising the Linkages</source>
+               <publisher-name>Food and Agriculture Organization of the United Nations</publisher-name>
+               <year>2002</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.fao.org/3/a-y4671e.pdf"
+                         xlink:type="simple">http://www.fao.org/3/a-y4671e.pdf</ext-link>
+               <fpage>25</fpage>
+               <lpage>31</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/agec.12305</pub-id>
+               <year>2016</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>47</volume>
+               <issue>S1</issue>
+               <fpage>135</fpage>
+               <lpage>147</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Upton</surname>
+                     <given-names>Joanna B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Denno Ciss\'e</surname>
+                  </name>
+               </person-group>
+               <article-title>Food Security as Resilience—Reconciling Definition and Measurement</article-title>
+               <source>Agricultural Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Energy Security - Ensuring the Uninterrupted Availability of Energy Sources at an Affordable Price</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.iea.org/areas-of-work/energy-security"
+                         xlink:type="simple">https://www.iea.org/areas-of-work/energy-security</ext-link>
+               <publisher-name>International Energy Agency</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Four `R's of Energy Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hughes</surname>
+                     <given-names>Larry</given-names>
+                  </name>
+               </person-group>
+               <source>Energy policy</source>
+               <volume>37</volume>
+               <issue>6</issue>
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2009.02.038</pub-id>
+               <fpage>2459</fpage>
+               <lpage>2461</lpage>
+               <year>2009</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2009.01.041</pub-id>
+               <year>2010</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>38</volume>
+               <issue>4</issue>
+               <fpage>1614</fpage>
+               <lpage>1621</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Greene</surname>
+                     <given-names>David L.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Measuring Energy Security—Can the United States Achieve Oil Independence?</article-title>
+               <source>Energy Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1088/1748-9326/2/4/045018</pub-id>
+               <year>2007</year>
+               <publisher-name>IOP Publishing</publisher-name>
+               <volume>2</volume>
+               <issue>4</issue>
+               <fpage>045018</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>White</surname>
+                     <given-names>Daniel M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gerlach</surname>
+                     <given-names>S Craig</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loring</surname>
+                     <given-names>Philip</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tidwell</surname>
+                     <given-names>Amy C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chambers</surname>
+                     <given-names>Molly C</given-names>
+                  </name>
+               </person-group>
+               <article-title>Food and Water Security in a Changing Arctic Climate</article-title>
+               <source>Environmental Research Letters</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Growing Alaska Through Responsible Resource Development</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.akrdc.org/assets/Annual-reports/2019annualreport.pdf"
+                         xlink:type="simple">https://www.akrdc.org/assets/Annual-reports/2019annualreport.pdf</ext-link>
+               <publisher-name>Resource Development Council</publisher-name>
+               <publisher-loc>Anchorage, AK, USA</publisher-loc>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s13280-017-0954-2</pub-id>
+               <year>2017</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>46</volume>
+               <issue>S3</issue>
+               <fpage>368</fpage>
+               <lpage>386</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Troell</surname>
+                     <given-names>Max</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eide</surname>
+                     <given-names>Arne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Isaksen</surname>
+                     <given-names>John</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hermansen</surname>
+                     <given-names>\Oystein</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cr\'epin, Anne-Sophie</surname>
+                  </name>
+               </person-group>
+               <article-title>Seafood from a Changing Arctic</article-title>
+               <source>Ambio</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.marpol.2017.03.010</pub-id>
+               <year>2017</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>81</volume>
+               <fpage>71</fpage>
+               <lpage>79</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lindley</surname>
+                     <given-names>Jade</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Techera</surname>
+                     <given-names>Erika J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Overcoming Complexity in Illegal, Unregulated and Unreported Fishing to Achieve Effective Regulatory Pluralism</article-title>
+               <source>Marine Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.marpol.2016.02.018</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>68</volume>
+               <fpage>65</fpage>
+               <lpage>73</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Hongzhou</given-names>
+                  </name>
+               </person-group>
+               <article-title>Chinese Fishermen in Disputed Waters—Not Quite a ``People's War''</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.marpol.2017.11.009</pub-id>
+               <year>2018</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>88</volume>
+               <fpage>64</fpage>
+               <lpage>74</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Oozeki</surname>
+                     <given-names>Yoshioki</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Inagake</surname>
+                     <given-names>Denzou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Saito</surname>
+                     <given-names>Tsutomu</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Okazaki</surname>
+                     <given-names>Makoto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fusejima</surname>
+                     <given-names>Ippei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hotai</surname>
+                     <given-names>Makoto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Watanabe</surname>
+                     <given-names>Tomowo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sugisaki</surname>
+                     <given-names>Hiroya</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Miyahara</surname>
+                     <given-names>Masanori</given-names>
+                  </name>
+               </person-group>
+               <article-title>Reliable Estimation of IUU Fishing Catch Amounts in the Northwestern Pacific Adjacent to the Japanese EEZ—Potential for Usage of Satellite Remote Sensing Images</article-title>
+               <source>Marine Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Meet the Chinese maritime militia waging a `People's War at Sea'</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://blogs.wsj.com/chinarealtime/2015/03/31/meet-the-chinese-maritime-militia-waging-a-peoples-war-at-sea/</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Erickson</surname>
+                     <given-names>AS</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kennedy</surname>
+                     <given-names>CM.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>The US Military is Warning that China's Fishing Boats are Bullies and Could Start a War on the High Seas—Business Insider</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.businessinsider.com/us-warns-chinas-aggressive-fishing-boats-could-start-a-war-2019-1</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Woody</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>US Signs Agreement to Prevent Unregulated Commercial Fishing on the High Seas of the Central Arctic Ocean</article-title>
+               <publisher-name>NOAA Fisheries</publisher-name>
+               <volume>3</volume>
+                       
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.state.gov/u-s-signs-agreement-to-prevent-unregulated-commercial-fishing-on-the-high-seas-of-the-central-arctic-ocean/"
+                         xlink:type="simple">https://www.state.gov/u-s-signs-agreement-to-prevent-unregulated-commercial-fishing-on-the-high-seas-of-the-central-arctic-ocean/</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Fishery Management Plan for Fish Resources in the Arctic Management Area</article-title>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.npfmc.org/arctic-fishery-management/"
+                         xlink:type="simple">https://www.npfmc.org/arctic-fishery-management/</ext-link>
+               <publisher-name>North Pacific Fishery Management Council</publisher-name>
+               <publisher-loc>Anchorage, AK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2018.05.003</pub-id>
+               <year>2018</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>119</volume>
+               <fpage>574</fpage>
+               <lpage>584</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nong</surname>
+                     <given-names>Duy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Countryman</surname>
+                     <given-names>Amanda M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Warziniack</surname>
+                     <given-names>Travis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Potential Impacts of Expanded Arctic Alaska Energy Resource Extraction on US Energy Sectors</article-title>
+               <source>Energy Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>National Security Strategy of the United States of America</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Trump</surname>
+                     <given-names>Donald J</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <publisher-name>Executive Office of The President</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf"
+                         xlink:type="simple">https://www.whitehouse.gov/wp-content/uploads/2017/12/NSS-Final-12-18-2017-0905.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5038/1944-0472.5.3.2</pub-id>
+               <year>2012</year>
+               <publisher-name>University of South Florida Libraries</publisher-name>
+               <volume>5</volume>
+               <issue>3</issue>
+               <fpage>13</fpage>
+               <lpage>32</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <article-title>Arctic Energy Resources—Security and Environmental Implications</article-title>
+               <source>Journal of Strategic Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jmss.org/article/view/57876"
+                         xlink:type="simple">https://jmss.org/article/view/57876</ext-link>
+               <year>2010</year>
+               <publisher-name>Centre of Military and Strategic Studies</publisher-name>
+               <volume>12</volume>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>22</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>Peter F.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Arctic Energy Resources and Global Energy Security</article-title>
+               <source>Journal of Military and Strategic Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bloomberg.com/news/articles/2018-12-06/u-s-becomes-a-net-oil-exporter-for-the-first-time-in-75-years"
+                         xlink:type="simple">https://www.bloomberg.com/news/articles/2018-12-06/u-s-becomes-a-net-oil-exporter-for-the-first-time-in-75-years</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Blas</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Just Became a Net Oil Exporter for the First Time in 75 Years</article-title>
+               <source>Bloomberg</source>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eia.gov/outlooks/aeo/pdf/aeo2019.pdf"
+                         xlink:type="simple">https://www.eia.gov/outlooks/aeo/pdf/aeo2019.pdf</ext-link>
+               <year>2019</year>
+               <publisher-name>U.S. Energy Information Administration</publisher-name>
+               <article-title>Annual Energy Outlook 2019—With projections to 2050</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.congress.gov/115/bills/hr1/BILLS-115hr1enr.pdf"
+                         xlink:type="simple">https://www.congress.gov/115/bills/hr1/BILLS-115hr1enr.pdf</ext-link>
+               <year>2017</year>
+               <publisher-name>U.S. Goverment Information</publisher-name>
+               <article-title>Tax Cuts And Jobs Act</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.alaskajournal.com/2018-12-20/draft-eis-released-anwr-lease-sale"
+                         xlink:type="simple">https://www.alaskajournal.com/2018-12-20/draft-eis-released-anwr-lease-sale</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brehmer</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <source>Alaska Journal of Commerce</source>
+               <article-title>Draft EIS Released for ANWR Lease Sale</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eia.gov/outlooks/aeo/anwr.php"
+                         xlink:type="simple">https://www.eia.gov/outlooks/aeo/anwr.php</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wagener</surname>
+                     <given-names>DV</given-names>
+                  </name>
+               </person-group>
+               <source>Annual Energy Outlook</source>
+               <article-title>Analysis of Projected Crude Oil Production in the Arctic National Wildlife Refuge</article-title>
+               <publisher-name>Energy Information Authority</publisher-name>
+               <annotation>
+                  <p>DOE/EIA-0383(2016)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Trump's Order to Open Arctic Waters to Oil Drilling Was Unlawful, Federal Judge Finds'</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davenport</surname>
+                     <given-names>Coral</given-names>
+                  </name>
+               </person-group>
+               <source>The New York Times</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nytimes.com/2019/03/30/climate/trump-oil-drilling-arctic.html"
+                         xlink:type="simple">https://www.nytimes.com/2019/03/30/climate/trump-oil-drilling-arctic.html</ext-link>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.washingtonpost.com/climate-environment/2019/03/30/federal-judge-declares-trumps-push-open-up-arctic-atlantic-ocean-oil-gas-drilling-illegal/?noredirect=on"
+                         xlink:type="simple">https://www.washingtonpost.com/climate-environment/2019/03/30/federal-judge-declares-trumps-push-open-up-arctic-atlantic-ocean-oil-gas-drilling-illegal/?noredirect=on</ext-link>
+               <year>2019</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Eilperin</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <source>Washington Post</source>
+               <article-title>Federal Judge Declares Trump's Push to Open up Arctic and Atlantic Oceans to Oil and Gas Drilling Illegal</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11053-013-9213-9</pub-id>
+               <year>2013</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>23</volume>
+               <issue>1</issue>
+               <fpage>175</fpage>
+               <lpage>193</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Attanasi</surname>
+                     <given-names>Emil D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Freeman</surname>
+                     <given-names>Philip A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Commercial Possibilities for Stranded Conventional Gas from Alaska's North Slope</article-title>
+               <source>Natural Resources Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.aoga.org/sites/default/files/news/cook\_inlet\_fact\_sheet\_final.pdf"
+                         xlink:type="simple">https://www.aoga.org/sites/default/files/news/cook\_inlet\_fact\_sheet\_final.pdf</ext-link>
+               <year>2015</year>
+               <publisher-name>Alaska Oil and Gas Association</publisher-name>
+               <article-title>AOGA Fact Sheet—Cook Inlet Oil &amp; Gas Production</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://agdc.us/wp-content/uploads/2018/01/AGDC-0009-1711-Newspaper-Insert-2017-V14-LR.pdf"
+                         xlink:type="simple">https://agdc.us/wp-content/uploads/2018/01/AGDC-0009-1711-Newspaper-Insert-2017-V14-LR.pdf</ext-link>
+               <year>2017</year>
+               <publisher-name>Alaska Gasline Development Corporation</publisher-name>
+               <article-title>Alaska and China Sign Historic Joint Development Agreement</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Caught Between Superpowers—Alaska's Economic Relationship with China Amidst the New Cold War</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Karson</surname>
+                     <given-names>Sam</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://scholarship.law.duke.edu/alr/vol36/iss1/4"
+                         xlink:type="simple">https://scholarship.law.duke.edu/alr/vol36/iss1/4</ext-link>
+               <source>Alaska Law Review</source>
+               <volume>36</volume>
+               <fpage>47</fpage>
+               <year>2019</year>
+               <publisher-name>HeinOnline</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5751/es-04124-160228</pub-id>
+               <year>2011</year>
+               <publisher-name>Resilience Alliance, Inc.</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bailey</surname>
+                     <given-names>Kevin M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>An Empty Donut Hole—The Great Collapse of a North American Fishery</article-title>
+               <source>Ecology and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/faf.12068</pub-id>
+               <year>2013</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>15</volume>
+               <issue>1</issue>
+               <fpage>179</fpage>
+               <lpage>180</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hart</surname>
+                     <given-names>Paul J B</given-names>
+                  </name>
+               </person-group>
+               <article-title>Billion-Dollar Fish. The Untold Story of Alaska Pollock.</article-title>
+               <source>Fish and Fisheries</source>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/2200185</pub-id>
+               <year>1976</year>
+               <publisher-name>JSTOR</publisher-name>
+               <volume>70</volume>
+               <issue>3</issue>
+               <fpage>624</fpage>
+               <article-title>United States—Fishery Conservation and Management Act of 1976</article-title>
+               <source>The American Journal of International Law</source>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.14430/arctic4402</pub-id>
+               <year>2014</year>
+               <publisher-name>The Arctic Institute of North America</publisher-name>
+               <volume>67</volume>
+               <issue>3</issue>
+               <fpage>271</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stevenson</surname>
+                     <given-names>Kalb T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alessa</surname>
+                     <given-names>Lilian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kliskey</surname>
+                     <given-names>Andrew D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rader</surname>
+                     <given-names>Heidi B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pantoja</surname>
+                     <given-names>Alberto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clark</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainable Agriculture for Alaska and the Circumpolar North: Part I. Development and Status of Northern Agriculture and Food Security</article-title>
+               <source>ARCTIC</source>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.14430/arctic4408</pub-id>
+               <year>2014</year>
+               <publisher-name>The Arctic Institute of North America</publisher-name>
+               <volume>67</volume>
+               <issue>3</issue>
+               <fpage>296</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stevenson</surname>
+                     <given-names>Kalb T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rader</surname>
+                     <given-names>Heidi B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alessa</surname>
+                     <given-names>Lilian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kliskey</surname>
+                     <given-names>Andrew D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pantoja</surname>
+                     <given-names>Alberto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clark</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smeenk</surname>
+                     <given-names>Jeffery</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainable Agriculture for Alaska and the Circumpolar North: Part II. Environmental, Geophysical, Biological and Socioeconomic Challenges</article-title>
+               <source>ARCTIC</source>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780198299493.003.0006</pub-id>
+               <year>2001</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <fpage>142</fpage>
+               <lpage>172</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Balton</surname>
+                     <given-names>David A.</given-names>
+                  </name>
+               </person-group>
+               <source>The Bering Sea Doughnut Hole Convention—Regional Solution, Global Implications</source>
+               <chapter-title>Governing High Seas Fisheries</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Food in the Last Frontier—Inside Alaska's Food Security Challenges and Opportunities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Snyder</surname>
+                     <given-names>Elizabeth Hodges</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meter</surname>
+                     <given-names>Ken</given-names>
+                  </name>
+               </person-group>
+               <source>Environment—Science and policy for sustainable development</source>
+               <volume>57</volume>
+               <issue>3</issue>
+               <fpage>19</fpage>
+               <lpage>33</lpage>
+               <year>2015</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/00139157.2015.1002685</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>4.5 Food Systems, Environmental Change, and Community Needs in Rural Alaska</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gerlach</surname>
+                     <given-names>S Craig</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loring</surname>
+                     <given-names>Philip A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Turner</surname>
+                     <given-names>Amy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Atkinson</surname>
+                     <given-names>David E</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.academia.edu/2015421/Food\_Systems\_Environmental\_Change\_and\_Community\_Needs\_in\_Rural\_Alaska"
+                         xlink:type="simple">https://www.academia.edu/2015421/Food\_Systems\_Environmental\_Change\_and\_Community\_Needs\_in\_Rural\_Alaska</ext-link>
+               <publisher-name>Academia</publisher-name>
+               <fpage>89</fpage>
+               <lpage>109</lpage>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s10806-011-9358-7</pub-id>
+               <year>2011</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>25</volume>
+               <issue>6</issue>
+               <fpage>813</fpage>
+               <lpage>841</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raymond</surname>
+                     <given-names>Anthony</given-names>
+                  </name>
+               </person-group>
+               <article-title>Taming the Unruly Side of Ethics—Overcoming Challenges of a Bottom-Up Approach to Ethics in the Areas of Food Policy and Climate Change</article-title>
+               <source>Journal of Agricultural and Environmental Ethics</source>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Wild food as provided by the reference is composed of salmon, other fish, shellfish, land mammals, marine mammals, birds and eggs, and wild plants</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Subsistence Harvests of Pacific Halibut in Alaska, 2016</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fall</surname>
+                     <given-names>James A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koster</surname>
+                     <given-names>David S</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <comment>436</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.adfg.alaska.gov/download/Technical\%20Papers/TP436.pdf"
+                         xlink:type="simple">http://www.adfg.alaska.gov/download/Technical\%20Papers/TP436.pdf</ext-link>
+               <publisher-name>Alaska Department of Fish and Game, Division of Subsistence</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2018.09.017</pub-id>
+               <year>2018</year>
+               <month>dec</month>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>123</volume>
+               <fpage>450</fpage>
+               <lpage>460</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dominique Pride</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Joseph Little</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marc Mueller-Stoffels</surname>
+                  </name>
+               </person-group>
+               <article-title>The value of residential energy efficiency in interior Alaska—A hedonic pricing analysis</article-title>
+               <source>Energy Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Learn More About Interconnections Washington, DC2018</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act-0"
+                         xlink:type="simple">https://www.energy.gov/oe/services/electricity-policy-coordination-and-implementation/transmission-planning/recovery-act-0</ext-link>
+               <year>2018</year>
+               <publisher-name>U.S. Department of Energy</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Renewable Energy Development in Alaska—Policy Implications for the Development of Renewable Energy for Remote Areas of the Circumpolar Arctic</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Holdmann</surname>
+                     <given-names>Gwen Pamela</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://search.proquest.com/openview/14cb2eac6aea05a02fa133f5ca481623/1?pq-origsite=gscholar&amp;cbl=2026366&amp;diss=y"
+                         xlink:type="simple">https://search.proquest.com/openview/14cb2eac6aea05a02fa133f5ca481623/1?pq-origsite=gscholar&amp;cbl=2026366&amp;diss=y</ext-link>
+               <publisher-name>University of Alaska Fairbanks</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Power Cost Equalization Anchorage, Alaska: State of Alaska</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.akenergyauthority.org/What-We-Do/Power-Cost-Equalization"
+                         xlink:type="simple">http://www.akenergyauthority.org/What-We-Do/Power-Cost-Equalization</ext-link>
+               <year>2020</year>
+               <publisher-name>Alaska Energy Authority</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.reuters.com/article/us-alaska-nome-fuel/russian-icebreaking-tanker-set-to-deliver-fuel-to-alaska-town-idUSTRE7B503A20111206"
+                         xlink:type="simple">https://www.reuters.com/article/us-alaska-nome-fuel/russian-icebreaking-tanker-set-to-deliver-fuel-to-alaska-town-idUSTRE7B503A20111206</ext-link>
+               <article-title>Russian icebreaking tanker set to deliver fuel to Alaska town Anchorage, Alaska</article-title>
+               <year>2011</year>
+               <source>Reuters</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rosen</surname>
+                     <given-names>Y. </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Fisheries of the United States</article-title>
+               <publisher-name>National Marine Fisheries Service, NOAA Current Fishery Statistics</publisher-name>
+               <year>2017</year>
+               <comment>2016 Report</comment>
+               <publisher-loc>Silver Spring, MD, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Fisheries of the United States, 2016</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.fisheries.noaa.gov/webdam/download/62276710"
+                         xlink:type="simple">https://www.fisheries.noaa.gov/webdam/download/62276710</ext-link>
+               <publisher-name>National Marine Fisheries Service, US Department of Commerce</publisher-name>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Food security in Arctic Alaska—A Preliminary Assessment</chapter-title>
+               <issue>4</issue>
+                       
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Caulfield</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://chaireconditionautochtone.fss.ulaval.ca/documents/pdf/Chapitre-4.pdf"
+                         xlink:type="simple">http://chaireconditionautochtone.fss.ulaval.ca/documents/pdf/Chapitre-4.pdf</ext-link>
+               <source>Sustainable Food Security in the Arctic—State of Knowledge</source>
+               <fpage>75</fpage>
+               <lpage>94</lpage>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-3-319-17602-4\_16</pub-id>
+               <year>2015</year>
+               <publisher-name>Springer International Publishing</publisher-name>
+               <fpage>213</fpage>
+               <lpage>223</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nilsson</surname>
+                     <given-names>Lena Maria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eveng\aard, Birgitta</surname>
+                  </name>
+               </person-group>
+               <source>Food Security or Food Sovereignty—What Is the Main Issue in the Arctic?</source>
+               <chapter-title>The New Arctic</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/22423982.2017.1419678</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>77</volume>
+               <issue>1</issue>
+               <fpage>1419678</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Walch</surname>
+                     <given-names>Amanda</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bersamin</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loring</surname>
+                     <given-names>Philip</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>Rhonda</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tholl</surname>
+                     <given-names>Melissa</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Scoping Review of Traditional Food Security in Alaska</article-title>
+               <source>International Journal of Circumpolar Health</source>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0967010616665957</pub-id>
+               <year>2016</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>47</volume>
+               <issue>6</issue>
+               <fpage>461</fpage>
+               <lpage>480</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Greaves</surname>
+                     <given-names>Wilfrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Arctic (In)security and Indigenous Peoples—Comparing Inuit in Canada and Sámi in Norway</article-title>
+               <source>Security Dialogue</source>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-3-642-12315-3\_10</pub-id>
+               <year>2016</year>
+               <publisher-name>Springer Berlin Heidelberg</publisher-name>
+               <fpage>181</fpage>
+               <lpage>201</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoogensen Gjørv, Gunhild</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dale</surname>
+                     <given-names>Brigt</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lvova</surname>
+                     <given-names>Maria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Br\aaten, Kari-Anne</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>González</surname>
+                     <given-names>Victoria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bazely</surname>
+                     <given-names>Dawn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Christensen</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tanentzap</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bojko</surname>
+                     <given-names>Evgeny</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Human Security in the Arctic—The IPY GAPS Project</chapter-title>
+               <source>Implications and Consequences of Anthropogenic Pollution in Polar Environments</source>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5860/choice.51-3865</pub-id>
+               <year>2014</year>
+               <publisher-name>American Library Association</publisher-name>
+               <volume>51</volume>
+               <issue>07</issue>
+               <fpage>51</fpage>
+               <lpage>3865</lpage>
+               <article-title>Energy for the 21$^st$ Century—Opportunities and Challenges for Liquefied Natural Gas (LNG)</article-title>
+               <source>Choice Reviews Online</source>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.energy.2018.12.170</pub-id>
+               <year>2019</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>170</volume>
+               <fpage>557</fpage>
+               <lpage>568</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>He</surname>
+                     <given-names>Tianbiao</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rong Chong, Zheng</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Junjie</surname>
+                     <given-names>Zheng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ju</surname>
+                     <given-names>Yonglin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Linga</surname>
+                     <given-names>Praveen</given-names>
+                  </name>
+               </person-group>
+               <article-title>LNG Cold Energy Utilization—Prospects and Challenges</article-title>
+               <source>Energy</source>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Food Insecurity—Arctic Heat Is Threatening Indigenous Life</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Struzik</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://e360.yale.edu/features/arctic\_heat\_threatens\_indigenous\_life\_climate\_change"
+                         xlink:type="simple">https://e360.yale.edu/features/arctic\_heat\_threatens\_indigenous\_life\_climate\_change</ext-link>
+               <source>Yale Environment</source>
+               <volume>360</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Fourth National Climate Assessment—Impacts, Risks, and Adaptation in the United States. Summary Findings and Overview</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>US-GOV</surname>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nca2018.globalchange.gov/"
+                         xlink:type="simple">https://nca2018.globalchange.gov/</ext-link>
+               <publisher-name>US Goverment Global Change Research Program</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.heritage.org/energy-economics/commentary/turning-americas-energy-abundance-energy-dominance"
+                         xlink:type="simple">https://www.heritage.org/energy-economics/commentary/turning-americas-energy-abundance-energy-dominance</ext-link>
+               <article-title>Turning America's Energy Abundance into Energy Dominance</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dayaratna</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Loris N</surname>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>The Heritage Foundation</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
