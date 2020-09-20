@@ -1,0 +1,3567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16010016</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Hypertargeting Facebook Profiles Vulnerable to ISIS Recruitment with “Breaking the ISIS Brand Counter Narrative Video Clips” in Multiple Facebook Campaigns</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Speckhard</surname>
+                  <given-names>Anne</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ellenberg</surname>
+                  <given-names>Molly</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Shaghati</surname>
+                  <given-names>Haider</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Izadi</surname>
+                  <given-names>Neima</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>The International Center for the Study of Violent Extremism, Washington, DC, USA</aff>
+         <pub-date pub-type="ppub">
+            <day>20</day>
+            <month>08</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <fpage>16</fpage>
+         <lpage>29</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Despite the territorial demise of Islamic State of Iraq and Syria [ISIS], their cyberoperations continue to entice supporters. In an effort to disrupt ISIS’s appeal, the International Center for the Study of Violent Extremism has produced over 150 short video clips featuring ISIS insiders denouncing the group, published in over 100 Facebook campaigns in multiple languages and regions. This article details 16 campaigns hyper-targeted at profiles that, based on predetermined and assessed indicators, suggested increased risk of exposure to ISIS-related content. Qualitative and quantitative metrics possibly suggest positive changes in online attitudes and behavior, reducing support and incitement to terrorism.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Counter narratives</kwd>
+            <kwd>Deradicalization</kwd>
+            <kwd>ISIS</kwd>
+            <kwd>Online radicalization</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>In Syria and Iraq, where ISIS once held significant swaths of territories and managed to attract up to 40,000 foreign fighters to its Caliphate, the group has been declared territorially defeated. ISIS continues to operate in both countries, however, mounting low-level attacks on a weekly basis and continuing to attract new recruits globally [<xref ref-type="bibr" rid="R1">1</xref>]. Despite territorial defeat in Iraq and Syria, and as part of its recruitment strategy, ISIS remains firm in promoting and disseminating core narratives of militant jihadist ideology, while also signaling a new era of protracted insurgency-style attacks—biding time until they can reformulate their now lost Caliphate [<xref ref-type="bibr" rid="R2">2</xref>]. Some authors have stressed that the recent video appearances on social media of the ISIS leader, Abu Bakr al-Baghdadi, is an example of such, as it serves to project “the appearance that he is secure, calm, and confident, despite years of major military powers bombarding ISIS-controlled land and infrastructure in Iraq and Syria” [<xref ref-type="bibr" rid="R3">3</xref>]. Similarly, in Baghouz, one of its last strongholds in Syria, ISIS urged its followers to remain resolute in the face of military advancement against the group [<xref ref-type="bibr" rid="R4">4</xref>].
+</p>
+         <p>The group also continues to exploit the allure of the Islamic State, albeit in retreat, as a utopian ideal, revered for generations to come, as well as portray itself as victorious, with “Allah’s help,” despite ravaged social, political, and war conditions from which it managed to emerge and survive. ISIS propagandists tout the group and its terrorist activities as able to convey purpose, significance, value, and self-esteem to those who join. For instance, in a September 2019 purported audio recording, Abu Bakr al Baghdadi urged his followers to continue attacks and storm prisons and camps holding ISIS prisoners and their families. In the same audio recording, he urged his supporters to “teach Muslims about the Islamic State’s struggle and not forget the followers who held out until the Caliphate’s final weeks” [<xref ref-type="bibr" rid="R5">5</xref>]. Indeed, many ISIS cadres featured in ISIS propaganda during their last stand in Syria appeared unwilling to accept the then looming defeat in Baghouz and denying its significance. Others tried to turn the defeat around. They taunted what they referred to as the humiliating legacy of the international community in allowing ISIS members to be targeted for their belief in the Islamic State and Islamic laws. The group also decried the international community for failing to take responsibility for the scores of women and children who died in Baghouz under U.S.-led coalition and others’ air bombardments [<xref ref-type="bibr" rid="R6">6</xref>].</p>
+         <p>On Facebook, Twitter and YouTube—and lately on small-to-mid-sized and micro platforms, some even run by single individuals—ISIS and other terrorist groups continue to recruit, inspire, and attract those willing to answer their call to violence [<xref ref-type="bibr" rid="R7">7</xref>]. To a varying degree, it is in such platforms that a significant number of online users—potential would-be terrorist, religious scholars, ideologues, recruiters, promoters, propagandists, and affiliated and unaffiliated sympathizers—continue to group together to form ISIS’ online support community and aid its propaganda distribution and continue spinning its narratives that are critical to both its short and long-term sustainment.</p>
+         <p>While ISIS propagandists continue to churn out and distribute dangerous content, governments and social media companies struggle with takedown efforts to prevent violent extremist and terrorist exploitation of social media platforms and the Internet. For instance, in 2018, Facebook reportedly voluntarily removed 14.3 million pieces of violent content tied to extremist groups such as ISIS and al-Qaeda. Only 41,000 pieces of the total were flagged by external sources, namely by regular Facebook users [<xref ref-type="bibr" rid="R8">8</xref>]. Facebook took down the rest. Despite take-down policies, coupled with the fact that its propaganda production has shrunk considerably, violent extremist content produced by groups such as ISIS remains accessible and sharable online, particularly in languages other than English. In addition, some experts from both the private and governmental sectors have criticized over reliance on artificial intelligence (AI) to detect and remove online extremist content. In fact, such experts render efforts to detect and remove online extremist content without human interaction and moderation of limited utility [<xref ref-type="bibr" rid="R9">9</xref>]. Indeed, relying on intel and open source intelligence (OSINT) techniques, in the course of a 30-day campaign, ICSVE researchers were recently able to identify more than 500 Facebook accounts in Arabic, Albanian, English and Turkish that openly promoted, shared, endorsed or actively discussed ISIS material and/or supported anti-Western and pro-ISIS ideologies. The researchers also found professionally produced propaganda videos and materials, both old and new, distributed over Facebook that continue to attract ISIS sympathizers and followers online [<xref ref-type="bibr" rid="R10">10</xref>].</p>
+         <p>To counter violent extremist group ideologies and narratives, ICSVE researchers have spent the last three years in-depth video interviewing over 240–ISIS and al Shabaab, male and female, adult and juvenile–returnees, defectors, and imprisoned cadres. Their research and interviews focus on understanding individual motivations and pathways into and out of terrorism, experiences inside the group, and reasons for leaving, if defected from the group, and disillusionment and feelings now about the group. From these in-depth video interviews, ICSVE researchers have produced over 180 short counter narrative video clips featuring actual ISIS and al Shabaab members and their family members as they discuss their experiences inside the group and denounce it for its utterly un-Islamic, corrupt and brutal nature, while warning others not to join. Facebook has collaborated with ICSVE researchers to distribute these video clips, subtitled in the 27 languages in which ISIS recruits, in over 150 broad online awareness raising and prevention campaigns to counter the group’s online presence, propaganda, and recruiting efforts. These counter narratives comprise the <italic>Breaking the ISIS Brand Counter Narrative Project</italic>, which has been the basis for various studies of the efficacy of counter narratives in engaging different populations both online and in face-to-face focus groups. Furthermore, in cooperation with Facebook, ICSVE researchers have also been able to target the same critical groups that ISIS itself is successfully reaching: Populations specifically believed to be at risk for exposure to those distributing ISIS materials or who repeatedly referenced a direct support for ISIS on Facebook.</p>
+         <p>This article reports on ICSVE’s primary research and efforts to target and intervene in multiple Facebook campaigns online; hyper-targeted to samples of Facebook profiles judged to be at risk for radicalization based on exposure to militant jihadi-driven (ISIS, al-Qaeda, al Shabaab) violent extremist content and rhetoric on Facebook. The purpose of the campaigns was to engage target audiences with ICSVE-produced counter narratives and discern their impact utilizing a set of awareness, engagement, and impact metrics. Between November 7, 2018, and December 7, 2018, ICSVE researchers ran 16 campaigns on Facebook using 10 ICSVE-produced counter narratives (See Table <xref ref-type="table" rid="Tab1">1</xref>). The reporting on these hyper-targeted ICSVE-run campaigns on Facebook, among the 144<inline-formula>
+               <mml:math id="S3.p6.m1"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> campaign to date run by ICSVE on Facebook, provides unique insights into a large and important data set. This data set consists of users who were selected based on signals that gave evidence that they were at risk of exposure to those distributing ISIS materials or who had referenced a direct support for ISIS on Facebook—hence a population deemed as “vulnerable” to terrorist recruitment and exposure.</p>
+         <p>A number of ethical matters were considered with respect to this campaign. ICSVE researchers did not directly interact with any Facebook users, therefore there was no necessity of proclaiming the research purpose of the campaign. Moreover, ICSVE did not receive the names of the people targeted in the campaigns, only the mechanisms by which they were selected. As such, Facebook did not breach the privacy of these users by sharing any of their information with ICSVE. Similarly, the only names ICSVE was able to obtain were the Facebook names, which may or may not be the users’ legal names, of people who commented on the videos. It can be assumed that Facebook users understand that commenting on a video means that others will be able to see their names, essentially making their comments open-source, observational data. Still, the users did not consent to having their names published in a research article, therefore no names are revealed in this article.</p>
+         <p>ICSVE targeted campaigns reported in this article was carried out in German, English, French, Turkish, Dutch, Arabic, Albanian, Swahili, and Bengali speaking Facebook accounts. International Center for the Study of Violent Extremism selected these languages and region based upon ISIS and al Shabaab recruitment activity in such languages and regions. International Center for the Study of Violent Extremism identified countries such as Turkey, France, and Belgium, and multi-country and regional areas such as the Middle East and Africa using a common language as specific targeting criteria. Certain counter narratives targeted certain populations based on a combination of both availability of counter narratives and content that ICSVE researchers believed would more profoundly resonate with the target audience. For instance, ICSVE selected counter narratives depicting local Iraqi and Arab ISIS cadres for use in Iraq, Jordan, Lebanon, and neighboring countries, while using counter narratives featuring European defectors in Germany (See Table <xref ref-type="table" rid="Tab1">1</xref>).</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Campaign Type and Methodology</title>
+         <p>Online campaigns against ISIS and other terrorist groups typically fall into one or more of three distinct categories. Each campaign type has a different goal, though a single campaign may have multiple goals. Counter narratives, discussed in this article, are campaigns that aim to disrupt, discredit and refute the narratives put forth by terrorist groups, causing viewers to question the truthfulness of the messages they receive from terrorist groups online. In contrast, alternative narratives promote the positive, prosocial elements of democratic society, emphasizing values of tolerance and freedom rather than decrying the terrorist group’s antisocial values. Alternative narratives can fall flat if viewers have not personally experienced the benefits of democratic society promoted in the alternative narrative and have been discriminated against or marginalized in such a society. Finally, government strategic communications are campaigns put forth overtly by government entities, aiming to raise awareness of positive government action and correct misinformation that may be disseminated in terrorist propaganda. However, those most vulnerable to terrorist recruitment may be already predisposed not to trust the government due to real or perceived discrimination or harassment and subsequent disillusionment with society and negative attitudes toward government in general [<xref ref-type="bibr" rid="R11">11</xref>]. All of ICSVE’s campaigns are counter narratives, and the focus in the campaigns discussed presently was on reaching Facebook accounts that ICSVE judged as vulnerable to exposure to terrorist propaganda and rhetoric. These campaigns stand in contrast to previously ICSVE initiated campaigns where the focus was on targeting general Facebook populations and accounts in an effort to raise or increase awareness about the dangers of joining ISIS and similar terrorist groups using ISIS insider counter narratives. The present focus thus differed on narrowing the targeting of the campaigns to profiles judged to be more vulnerable individuals, namely those already in contact with ISIS recruiters and influencers on Facebook and those deemed most likely to be themselves targets of ISIS recruitment efforts. The profiles targeted in these campaigns had also been at one time in contact with those who were distributing violent extremist content and showing direct support and/or strong sympathy for the militant jihadi violent extremist cause. The campaigns thus specifically targeted Facebook accounts that were likely to be under the influence of propagators of violent extremist ideologies, such as those propagated by ISIS or al Shabaab. The target populations may have included persons who may have progressed further in the grooming process and extremism trajectory due to these exposures.</p>
+         <p>Internet-based awareness campaigns are crucial to understanding how individuals can be radicalized and mobilized to violence. In contrast, more focused and targeted campaigns allow us to not only identify and directly engage with accounts that may show support for a violent extremist cause, but also monitor and analyze online behavior, and possibly discern shifts in offline attitude(s) and behaviors and also have a positive impact on negative online behaviors [<xref ref-type="bibr" rid="R12">12</xref>]. To date, only a few organizations have mounted online Countering Violent Extremism (CVE) campaigns in an effort to thwart the influence of groups such as ISIS. Some among them have also managed to target their efforts at vulnerable audiences versus only the general population. Table <xref ref-type="table" rid="Tab2">2</xref> contains a list of major CVE online campaigns, broken down by their type of messaging, strategic objectives, and outcomes (See Table <xref ref-type="table" rid="Tab2">2</xref>).</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Counter narrative campaign content.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Country</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Language</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Campaign Date</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Counter Narrative</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Germany
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              German
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 8- Dec. 8, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Promises of ad dawlah to women”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+                https://www.youtube.com/watch?v=qrM7ykImq00
+                        
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkey &amp; Europe
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkish
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 13-Sept. 13, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Marriage in the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+             https://www.youtube.com/watch?v=XF7xDypwZsE
+                      
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkish
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 7-Dec. 7, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Promises of ad dawlah to women”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+               https://www.youtube.com/watch?v=SgLhJezcpKY
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Turkish
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 7-Dec. 7, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              https://www.youtube.com/watch?v=OnOgd9YxvF4&amp;list=PLqpy96DXqN-cOJxe2PdPIYKvt80fKBvo7&amp;index=5&amp;t=2s
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              English
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 7-Dec. 7, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “A Belgian family in the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+              https://www.youtube.com/watch?v=phZsHWBzcbE
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              English
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 7-Dec. 7, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+              https://www.youtube.com/watch?v=6kHwyGLI5JQ&amp;list=PLqpy96DXqN-dK01K_FikteDoSxScG_OT0&amp;index=20
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              France
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              French
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nov. 7-Dec. 7, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+               https://www.youtube.com/watch?v=-1D_VfLwLuo
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              France &amp; Belgium
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              French
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 14-Sept. 14, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Dreams of the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+               https://www.youtube.com/watch?v=5FRWCDAAo_M&amp;list=PLqpy96DXqNdBJreHM_kN4Tu_0BAIotGp&amp;index=8
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              U. A. E.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Arabic
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 25-Nov. 1, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              https://www.youtube.com/watch?v=6kHwyGLI5JQ&amp;list=PLqpy96DXqN-dK01K_FikteDoSxScG_OT0&amp;index=20
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Iraq &amp; Lebanon
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Arabic
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 25-Sept. 25, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Swearing bayat for IS in Fallujah”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+            https://www.youtube.com/watch?v=KAF28__E_Fo
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              The Netherlands
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Dutch
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 14-Nov. 1, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Justice in the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+              https://www.youtube.com/watch?v=jFcq8N_es8E
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Albania &amp; Europe
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Albanian
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 14-Nov. 1, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+            https://www.youtube.com/watch?v=bXHtMBftjMs&amp;list=PLqpy96DXqN-cXB99Yl9P_zWxWlGCay1G4&amp;index=27&amp;t=2s
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Kenya
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Swahili
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 14-Sept. 14, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “The lioness and the lion of IS”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+               https://www.youtube.com/watch?v=bwXPAeP40J8&amp;list=PLqpy96DXqN-dVuL6Z6Clxdhc2FSwkRGIn&amp;index=1
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Middle East &amp; North Africa (Libya, Lebanon, Mauritania, Saudi Arabia, Kuwait, Israel, Jordan, Morocco, Qatar, Tunisia, Bahrain, Egypt)
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Arabic
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 13-Sept. 13, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “My brother in the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+             https://www.youtube.com/watch?v=928WFV68zJw&amp;list=PLqpy96DXqN-ecauObr9dAj7ijLjk7iW_Z&amp;index=14
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Africa &amp; Europe (Uganda, Zambia, Mozambique, South Africa, Nigeria, Kenya, UK, New Zealand, US)
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              English
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 13-Sept. 13, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “Rewards of joining the Islamic State”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" colspan="4" style="" rowspan="1">
+              
+              https://www.youtube.com/watch?v=6kHwyGLI5JQ&amp;list=PLqpy96DXqN-dK01K_FikteDoSxScG_OT0&amp;index=20
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bangladesh
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bengali
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Aug. 14-Sept. 14, 2018
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              “The knights of the Caliphate”
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         colspan="4"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1">
+              
+              https://www.youtube.com/watch?v=OFMUgk_t1XA&amp;list=PLqpy96DXqNdK01K_FikteDoSxScG_OT0&amp;index=11
+                     </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab2" position="float" orientation="portrait">
+            <label>Table 2</label>
+            <caption>
+               <title>Online campaigns and outcomes: Messaging, strategy, and objectives.</title>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Campaign Name</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Year</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Type of Messaging</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Objective</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Platform and Target</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Evaluation</bold>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Extreme Dialogue
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2016
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              General awareness raising campaign using a series of short videos
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Facebook, Twitter, and YouTube users, advertising
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Video views, comment analysis, likes &amp; shares, platform comparisons
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Average Mohammed
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2016
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Animated counter narrative videos used to target extremist ideology
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook, Twitter, and YouTube users
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Reach vs. engagement cross platform comparison, comment analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              One-to-One Pilot Study
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2014
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              An online campaign seeking to diminish support for Islamist or supremacist cause
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Comment analysis; direct responses or shifts in online behavior recorded
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              One-to-One (Follow-Up Study)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2018
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Former extremists engaged and sent messages to 800+ accounts that showed support for Islamist or supremacist cause
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Response rate, engagement, comment analysis; shifts in online behavior recorded
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Say No to Terrorism
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2013
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Videos posted to counter extremism in Saudi Arabia
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook &amp; YouTube users
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video views, comments, analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Redirect method
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2015-current
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Redirecting ISIS supporters and sympathizers to anti-ISIS video playlists
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Impressions, clicks, click-through-rate (CTR)
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Breaking the ISIS Brand Counter narrative Project
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2017
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              General awareness raising campaigns using ISIS defector videos to counter extremism in Iraq
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook users, advertising
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video views, viewer retention, video shares, likes, comment analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Breaking the ISIS Brand Counter narrative Project – Jordan
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2018
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              General awareness raising campaign using ISIS defector videos to counter extremism
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook users in Jordan, advertising
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video views, viewer retention, video shares, likes, comment analysis; Users redirected to ICSVE “The Real Jihad,” suggesting further engagement and interest in the project
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Breaking the ISIS Brand – Facebook English Speakers
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2018
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              General awareness raising campaign using ISIS defector videos to counter extremism
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              English Facebook users, advertising
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video views, video shares, viewer retention, likes, comment analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Breaking the ISIS Brand – English &amp; Albanian Facebook Accounts
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2017
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ISIS defector videos posted to counter accounts that suggested sharing, liking, or sympathizing with ISIS material
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              English &amp; Albanian Facebook users
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video shares, likes, comment analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Harakat ut-Taleem
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2016
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narrative
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Videos depicting former extremists’ testimonial and dramatization of events to dissuade the youth from joining the Taliban in Pakistan and offer alternative viewpoints
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Facebook users in Pakistan, Twitter, YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Views, viewer retention, comment analysis
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              EXIT USA
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Ongoing
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Counter &amp; alternative narratives
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Testimonials highlighting the experiences of former extremists to counter far-right extremism
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              YouTube, Facebook, Twitter
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Video views, viewer retention, comment analysis; Eight engaged in sustained engagement, contacted the campaign organizers to discuss violent extremism and deradicalization
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         colspan="6"
+                         style="border-top:1px solid black;"
+                         rowspan="1">
+              Author review of literature. The endnotes contain references to the material cited in the table.
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <sec id="s2.1">
+            <title>2.1.- Geographic Location and Demographic Information</title>
+            <p>Males constituted a majority in the targeted sample across all 16 campaigns, as they were more likely to appear in our hyper-targeted sample based on the algorithm used to identify them as potentially vulnerable to a terrorist propaganda distributor. In addition, 18-34-year-olds, across both male and female age categories, were the most reached group. Similarly, ICSVE chose that age group because they were more likely to fall into the targeted sample. For instance, the campaign targeting Germany included 467 male and 108 female accounts in the 18-34-year-olds category, while Iraq and Lebanon included 12,064 male and 552 females in the same category (See Table <xref ref-type="table" rid="Tab3">3</xref> for a sample breakdown). The samples in each country/region were far smaller than in previous ICSVE campaigns given that the hyper-targeting only focused on those deemed vulnerable to ISIS and al Shabaab propagandists as opposed to previous sampling based on age, gender, key words, and so forth.</p>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>Table 3</label>
+               <caption>
+                  <title>Sample cemographic breakdown.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Country</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Age Category Male</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Age Category Female</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Reach</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Germany
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (221); 25-34 (246)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (54); 25-34 (54)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3,536
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Turkey &amp; Europe
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (245); 25-34 (275)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (33)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3,921
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Turkey
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (151); 25-34 (152)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                25-34 (45)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7,320
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Iraq &amp; Lebanon
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (6,836); 25-34 (5,228)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (284); 25-34 (263)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                15,543
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kenya
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (106); 25-34 (288)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18-24 (185); 25-34 (263)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1,065
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <p>One of the objectives of these Facebook campaigns was to engage those at risk for exposure to terrorist propaganda with ICSVE produced counter narratives. Secondary to that objective was to engage the viewers to click on the ICSVE YouTube channel in the language being used in the counter narrative campaign, or, if operating in English, Arabic or Albanian, to click through to the ICSVE TheRealJihad.org website. The Real Jihad is a repository of counter narrative videos, written materials, and links to helpful organizations for prevention of and exiting from extremism. A number of variables were used to measure whether these objectives were reached. The goal in both objectives was to initiate engagement and possibly discern behavioral shifts, both online and offline, among the target audiences. The campaign results were analyzed in terms of awareness, engagement, and impact metrics derived from industry best practices and the authors’ research in conducting targeted interventions online (See Figure <xref ref-type="fig" rid="Fig1">1</xref>).</p>
+         <p>The campaigns generated a total reach of 118, 559, and 51, 686 video views at 3, 25, 50, 70, and 100 percent video watches (See Table <xref ref-type="table" rid="Tab4">4</xref>). The reach metric gives a measure of how many people could have seen the counter narratives, or how many individuals the video could potentially reach, depending on ad placement and targeting criteria used. The metric is not an estimate of how many people actually watched the counter narratives, but rather on how many people’s Facebook feeds the counter narrative ad appeared, giving the person the possibility of exposure to it. Those reached may not always click on the ads; however, a good reach metric increases the likelihood of more persons engaging with it when they see it.</p>
+         <table-wrap id="Tab4" position="float" orientation="portrait">
+            <label>Table 4</label>
+            <caption>
+               <title>Overview of results.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Country</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Objective</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Reach</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Video Watches (&gt;3 seconds)</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Video Watches (&gt;75%)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Germany
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              3,536
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1,359
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              512
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3,921
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2,169
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              926
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7,320
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              437
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              121
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              13,113
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5,161
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,530
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              83
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              156
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              66
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              76
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              79
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              29
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              10,158
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5,947
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2,254
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France &amp; Belgium
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4,840
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,610
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              640
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              U.A.E.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3,932
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,378
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              474
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Iraq &amp; Lebanon
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              15,543
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              13,481
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5,080
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              The Netherlands
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              736
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              235
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              86
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Albania &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3,022
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3,869
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,690
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Kenya
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,065
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              660
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              249
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Middle East &amp; North Africa
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic YouTube
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              40,792
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              12,242
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4,048
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Africa &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4,410
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,761
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              617
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bangladesh
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Traffic TRJ
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              5,962
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1,141
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              478
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <caption>
+              <title>Data analysis framework.</title>
+            </caption>
+            <graphic xlink:href="Fig1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>ICSVE utilized the following video engagement metrics to analyze the data:
+</p>
+         <list list-type="bullet">
+            <list-item>
+               <p>Video view rate: The percentage of the users who viewed the counter narratives and watched them for more than 3 seconds. International Center for the Study of Violent Extremism calculated this metric as Total Views/Impressions. Note that total video view refers to the number of times a user viewed a counter narrative for 3 seconds and more. For instance, in the case of Germany: 1,359 Total views/44, 100 impressions=3.1% (See Table <xref ref-type="table" rid="Tab5">5</xref>).</p>
+            </list-item>
+            <list-item>
+               <p>Seventy-five, 95 and 100 percent View Rate—Percentage of users who viewed our counter narratives and watched them for 75, 95, and 100 percent of the length: The metric is calculated as 75, 95, 100 % Views/Total Views. For instance, in the case of Turkey: 1,530/5,161=29 % (See Table <xref ref-type="table" rid="Tab5">5</xref>).</p>
+            </list-item>
+            <list-item>
+               <p>Complete View Rate—Percentage the viewers who watched the entire counter narrative: The metric is calculated as Complete Views/Total views. For instance, in the case of France and Belgium: 120/1,899=6.3 % (See Table <xref ref-type="table" rid="Tab5">5</xref>).</p>
+            </list-item>
+         </list>
+         <table-wrap id="Tab5" position="float" orientation="portrait">
+            <label>Table 5</label>
+            <caption>
+               <title>Video engagement metrics.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Country</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Video View Rate (%)</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>% of users who viewed and watched &gt;75%</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Complete View Rate (%)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Germany
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              3.1
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              37
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              37
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.6
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              42
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5.9
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.7
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              27
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.3
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              29
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.7
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.7
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              42
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.6
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.6
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              36
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3.8
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.1
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              37
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France &amp; Belgium
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3.3
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              39
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.4
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              U.A.E.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.6
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              34
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.9
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Iraq &amp; Lebanon
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3.2
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              37
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.8
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              The Netherlands
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2.2
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              36
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Albania &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2.9
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              43
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              9.2
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Kenya
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2.7
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              37
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.2
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Middle East &amp; North Africa
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.5
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              33
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5.4
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Africa &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3.3
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              35
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bangladesh
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1.7
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              41
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              6.8
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Video engagement metrics are significant when considering the relatively low audience sample size across all 16 campaigns. For instance, there are significant video watches at 75, 95, and 100 percent watches relative to audiences reached, especially in the case of Turkey, France, Iraq &amp; Lebanon, the Middle East and North Africa (See Table <xref ref-type="table" rid="Tab4">4</xref>). In addition, the complete view rate is relatively high in the Netherlands, U.A.E., Albania, Europe, and Trinidad &amp; Tobago campaigns, while the view rate (75, 95, and 100 percent) stands above 30 percent across all campaigns (See Table <xref ref-type="table" rid="Tab5">5</xref>).</p>
+         <p>As discussed earlier, reach refers to Facebook users who see ICSVE Facebook ad post and who might watch the counter narrative video. To answer the question of how many of them actually watch and for how long, a post “engagement funnel” can demonstrate engagement graphically (See Figure <xref ref-type="fig" rid="Fig2">2</xref>) using the case of targeting in Iraq and Lebanon [<xref ref-type="bibr" rid="R13">13</xref>].</p>
+         <p>The percentage of viewers, who, after watching the 10-second mark (10-second video views), decided to watch the counter narrative until the end was also calculated. This metric gives us a general idea of how engaging the rest of our counter narrative content was after the 10-second watch point. Facebook recommends 7-10 seconds as baselines for capturing target audience’s attention [<xref ref-type="bibr" rid="R14">14</xref>]. ICSVE used the following formula to compute the metric: Complete Views/10-second Video Views. For instance, in the case of Germany: 62/1,759=3.5 percent. This means that 3.5 percent of the 10-second viewers watched the counter narrative until the end. The numbers were much higher in the case of Trinidad &amp; Tobago, the Netherlands and the Albania &amp; Europe campaigns (See Table <xref ref-type="table" rid="Tab6">6</xref>).</p>
+         <p>The average watch time across all 16, campaign is 10.5 seconds, indicating that users took in at least some of the counter narrative messaging. Given that the target audiences are likely to have already been exposed, and possibly positively inclined, to terrorist propaganda, many may have stopped watching after realizing it was a denunciation of a terrorist group. The low average watch time may also reflect the fact that the target audiences expressed disinterest in the counter narratives, rejected them, or objected to the length of the video. In addition, by social media standards, any video watch of 10 seconds or more indicates a high level of engagement, which is a positive of sorts. In most campaigns, traffic to ICSVE’s TheRealJihad.org and YouTube channel was chosen as an objective in order to send the viewer to the sites with far more counter narrative and CVE materials, which could also explain the low average watch time—that rather than watch the whole video, they clicked through for further content on these sites. In other words, many may have migrated to either TheRealJihad.org or YouTube channel after seeing the ad on Facebook for further engagement (See Table <xref ref-type="table" rid="Tab7">7</xref> under “Landing Page (LP) views”)[<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>].</p>
+         <fig id="Fig2" position="float" orientation="portrait">
+            <caption>
+              <title>Engagement funnel example: Iraq and Lebanon.</title>
+            </caption>
+            <graphic xlink:href="Fig2.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <table-wrap id="Tab6" position="float" orientation="portrait">
+            <label>Table 6</label>
+            <caption>
+               <title>Video engagement metrics.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Country</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Complete Views</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>10-Second Views</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>% Watched until the end</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Germany
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              62
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1,759
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              3.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              129
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,688
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              7.6
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              20
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,009
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1.9
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Turkey
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              244
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              11,404
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2.1
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              12
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              147
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              8.1
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              3
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              87
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              9.2
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              269
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              6,405
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.2
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              France &amp; Belgium
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              120
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              1,899
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              6.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              U.A.E.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              109
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2,529
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Iraq &amp; Lebanon
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              659
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              15,222
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              The Netherlands
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              38
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              453
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              8.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Albania &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              358
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5,241
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              6.8
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Kenya
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              48
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              842
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              5.2
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Middle East &amp; North Africa
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              663
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              22,218
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2.9
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Africa &amp; Europe
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              97
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              2,129
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              4.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bangladesh
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              78
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2,737
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2.8
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>The frequency metric ranged from low 3.55 to high 42.98 (See Table <xref ref-type="table" rid="Tab7">7</xref>). Facebook calculates the frequency metric as impressions divided by reach and refers to the average number of times each person in the targeted sample saw the ad. The high frequency rate across all the campaigns reflects ad targeting and placement criteria set to build recall and awareness by showing the counter narratives in the target audience’s Facebook feed multiple times. This level of ad optimization is important in the case of the target audiences due to the “self-selective” nature of social media content. Social media content is self-selective because individuals choose which content to consume. Thus, with more exposures, they are more likely to click on and watch the content. Optimization is also important due to the fluidity of social media information, as the rapid flow of information on Facebook can reduce the accuracy of exposure recall [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>Many of the previous ICSVE campaigns were optimized for ad creatives and targeting criteria to ensure that the same individuals are not seeing the ads too often during a campaign. This was necessary to avoid audience fatigue and risk the prospect of interaction with the ad and the counter narratives in the process. In these campaign samples, which were much smaller, limiting exposure was not possible, thus risking possible oversaturation, while also increasing the likelihood that more exposure would mean that target audiences would either click on the video itself or migrate to ICSVE’s YouTube channel or TheRealJihad.org website for further engagement and interactions.</p>
+         <p>Link clicks refer to the number of click on links within an ad that takes the target audience on or off Facebook. For example, an individual click on a link that takes a user to an external website or to a video posted by another website, such as YouTube, is considered a link click. Unique click refers to a metric that counts people, not actions, who performed a link click, so we may have 100 link clicks but only 90 unique clicks (See Table <xref ref-type="table" rid="Tab7">7</xref>). The unique clicks are less relative to link clicks, as they measure the number of people who performed an action on the ad. In this example, 90 unique clicks led to 100 link clicks, meaning some users performed multiple clicks.</p>
+         <p>The landing page views metric measures the number of times a person clicked on the ad that successfully led him or her to a desired destination page (TheRealJihad.org or the ICSVE YouTube channel). This metric is useful in discerning the extent to which ICSVE fulfilled the secondary objective of the research, namely sending the viewers to either the ICSVE’s TheRealJihad.org website or the full YouTube playlist of ICSVE counter narrative videos in their viewing language. While the number of link clicks within an ad remains important for measuring engagement on the ads or post, the landing page view metric is a better indicator of quality clicks that landed the target audience to a desired destination page the ICSVE’s TheRealJihad.org or YouTube channel.</p>
+         <p>Click-Through-Rate (CTR), calculated as clicks divided by impressions and expressed as a percentage, is a campaign performance metric used to measure the effectiveness of a campaign “Learn More” button leading to TheRealJihad.org, YouTube; Facebook display ad, For example, in the case of France and Belgium, CTR rate stands at 0.9 percent. This number is promising, as average CTR rate for Facebook ads across all industries stands at 0.9 percent [<xref ref-type="bibr" rid="R14">14</xref>]. In the case of Trinidad and Tobago and Turkey, it stands at 2.5 and 1.7 percent, respectively, still well above industry expectations. As also reflected in Table <xref ref-type="table" rid="Tab7">7</xref>, the CTR rates across all 16 campaigns ranges from 0.6 to 2.5 percent.</p>
+         <p>CTR is an important metric, as it calculates how many individuals among the target audience actually end up clicking on an ad after seeing it, thus migrating to the desired site, as predetermined by ICSVE researchers, for further counter narrative exposure in this case. CTR is an important indicator of how relevant the ads were to the target audience and it determines ad engagement rate (quality score). That said, the type of content presented in the counter narrative and the nature of target audience has a bearing on CTR rate. In other words, the controversial nature of the counter narrative content in the eyes of the viewers may have affected their motivations to take the desired action. The CTR rate might be further increased by improving performance of the components it is designed to track, including the wording of the ad, imagery, content, video length, subject lines, links to external and landing pages [<xref ref-type="bibr" rid="R14">14</xref>]. Despite low CTR rates in certain campaigns, such as in the case of Iraq &amp; Lebanon and Albania &amp; Europe, clicks on Facebook with URL tags were also monitored. The use of a Google Analytics monitoring tool revealed a significant number of visits to ICSVE’s TheRealJihag.org and YouTube channel in response to a specific ad posted on our end (See Table <xref ref-type="table" rid="Tab7">7</xref> under “Link clicks” and “Landing Page (LP) views”).</p>
+         <table-wrap id="Tab7" position="float" orientation="portrait">
+            <label>Table 7</label>
+            <caption>
+               <title>Overview of results.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="left"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>Country</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>Link Clicks</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>Unique Clicks</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>LP Views</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>Frequency</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>Impressions</bold>
+                     </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+                        <bold>CTR (%)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              Germany
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              739
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              574
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              287
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              12.47
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              44,100
+            </td>
+                     <td align="right"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              1.7
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Turkey &amp; Europe
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              777
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              578
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              63
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              11.93
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              46,578
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.7
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Turkey
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              437
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              392
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              131
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              3.55
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              25,966
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.7
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Turkey
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              5,161
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              3,446
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1,276
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              29.39
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              385,450
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              52
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              25
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              15
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              40.01
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              3,321
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.6
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Trinidad &amp; Tobago
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              26
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              13
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              8
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              13.58
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1,032
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              2.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              France
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              2,116
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1,701
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              979
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              14.13
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              143,496
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.5
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              France &amp; Belgium
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              444
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              387
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              25
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              10.00
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              48,396
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              0.9
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              U.A.E.
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              295
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              212
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              24
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              21.54
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              84,690
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              0.3
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Iraq &amp; Lebanon
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1,545
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1,196
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              9
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              26.66
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              414,339
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              0.4
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              The Netherlands
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              119
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              125
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              NA
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              13.97
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              10,280
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.2
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Albania &amp; Europe
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              820
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              543
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              24
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              42.98
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              129,896
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              0.6
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Kenya
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              325
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              233
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              NA
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              22.54
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              24,004
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.4
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Middle East &amp; North Africa
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              4,822
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              3,990
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              36
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              19.86
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              810,300
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              0.6
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="" rowspan="1" colspan="1">
+              Africa &amp; Europe
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              930
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              930
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              731
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              11.84
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              52,232
+            </td>
+                     <td align="right" style="" rowspan="1" colspan="1">
+              1.8
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="left"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              Bangladesh
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              518
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              394
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              9
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              11.51
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              68,621
+            </td>
+                     <td align="right"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              0.8
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <sec id="s3.1">
+            <title>3.1.- Engagement, Comments and Impact Analysis</title>
+            <p>Engagement metrics serve to better quantify volume and the types of interaction with the counter narratives, while comments analysis (also an engagement subset category), offers insight into how the target audience responded to the counter narratives. Impact analysis includes a measurable change in the target audience behavior both offline and online, such as sustained engagements online, taking conversation offline, contacting ICSVE for help or additional referrals, clicking “Learn More” or “Call to Action” buttons leading to external websites.</p>
+            <p>Sentiment analysis software (IntenCheck) was initially applied to the comments (after translation into English from multiple languages) to identify themes from a random sample of 10 percent of the comments. Following initial evolutions, ICSVE researchers then analyzed the comments in-depth. Table <xref ref-type="table" rid="Tab8">8</xref> below contains a sample of dominant themes by target country.</p>
+            <table-wrap id="Tab8" position="float" orientation="portrait">
+               <label>Table 8</label>
+               <caption>
+                  <title>Sample dominant themes by campaign.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Country</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Dominant Themes</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Germany, France, &amp; Belgium
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Pro-ISIS; Anti-United States &amp; Anti-Israel
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Albania &amp; Europe
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Efforts to distort Islam, Bashar atrocities, solidarity for ISIS
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Iraq &amp; Lebanon
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                ISIS as a vanguard of Islam, pro-Shia and anti-Sunni sentiments
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>The 16 campaigns generated a total of 5,110 post reactions, page likes, comments, and shares. Turkey, Iraq &amp; Lebanon, Bangladesh, and Middle East &amp; Africa represent campaigns with the most engagements. The target audience was comprised of individuals who, based on Facebook signals, were believed to be vulnerable for exposure to ISIS and other militant jihadi-driven extremist groups. The audience also included countries where ISIS and al Shabaab had already successfully garnered supporters. Thus, it was not surprising to find a significant number of posts that included anti-United States and anti-Israel remarks, especially in the Turkey, France &amp; Belgium, and Albania &amp; Europe campaigns. In some regards, this is a positive outcome, indicating that our counter narratives campaigns were reaching to the target audiences and that the defector videos were being watched by exactly the audiences ICSVE researchers hoped to reach. Regardless of whether the one-time exposure to a countering idea challenged them enough to change their minds, it did reach them, nevertheless.</p>
+            <p>Some who commented also expressed disbelief in the stories of the defectors featured in the counter narratives and the campaign in general, calling into doubt whether it was an actual ISIS insider speaking or a contrived video clip, or viewing the clip as Islamophobic because it denounced the activities of ISIS. Likewise, some pointed out the worse (in their view) atrocities of the Assad government (See Table <xref ref-type="table" rid="Tab7">7</xref>), or even of the U.S.-led coalition invasion in Iraq in 2003, which, due to many circumstances, unleashed the rise of al Qaeda in Iraq and later ISIS. Those commenting about the U.S. often blamed the United States as the sole cause for the emergence of ISIS, namely depicting it as much worse than ISIS was, making it clear that much work lies ahead in terms of counter narrative messaging.</p>
+            <p>In general, ICSVE researchers have repeatedly found in face-to-face, focus group interventions conducted in multiple languages and cultures around the world that viewers, even terrorists themselves, deem the videos credible. However, some ISIS supporters will often attack in this manner online, as it a convenient way to dispel the messaging. It also underlines what many in the sample of 200+ defectors, returnees, and imprisoned ISIS cadres have shared with ICSVE researchers: ISIS instructed them not to believe mainstream media and accounts denouncing the group. That some see denouncing ISIS and their terrorist activities as Islamophobic is troubling as well. Some commenters also expressed anger at and underlined the guilt of the defectors featured in the counter narrative for their time spent in support of ISIS and for their nefarious deeds. A sampling of comments is below:</p>
+            <list list-type="bullet">
+               <list-item>
+                 <p><bold>***********</bold>  comments: The Islamic state will remain, God willing <italic>Campaign: Turkey, Promises of ad-Dawlah to Women</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold> comments: Aman çok üzüldüm mk çocuğu 5 tane bomba patlatmışsın. Senden korksak bizide öldürecektin Türkiye ye gelecektin. Geber oç bende müslümanım. Sünniyim yada her neyse… Senin gibiler yüzünden birçok genç ateist oldu. Sen kıyametin alametisin. Bebek öldürdün hepinizin mk. (Translation: You set off 5 bombs. If we were afraid of you, you would have killed us. You would have come to Turkey. Die OC I’m Muslim too. I’m a Sunni or whatever… a lot of young atheists have died because of people like you. You are the sign of the apocalypse. You killed a baby all of you mk.) <italic>Campaign: Turkey, Rewards of Joining Islamic State</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold> replies: <bold>***********</bold> video oyuncu ve gerçek değil .. insanları harekete geçirip para ödemeye çağırıyorlar. bu video doğru değil. kamuoyunda hiçbir şeye inanma (Translation: This video is acting and unreal.. They are calling people to act and pay money. This video is not true. Don’t believe anything in public.)<italic>Campaign: Turkey, Rewards of Joining Islamic State</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold>: Kush qenka ai i palaço qe e sponsorizon kete video, i ashtequajtur “isis” ka koh qe po venitet, edhe ne siri kohet e fundit ke masakra dhe bombardime nga avionet rus dhe te ushtrise se basharit qe kane vrare civil musliman te pafajshem, avionet e putinhudhin bomba mbi spitale femijesh dhe mediat ne bote heshtin, ushtria e basharit hudh arm kimike mbi muslimanet dhe mediat heshtin, per nje grupim qe sdihet si e mori hovin qe kan bere akte te cuditshme neper bote dalin video te sponsorizuara etiketohet islami (Translation: Who is sponsoring this video, the so-called “Isis” has been fading away, even recently in Syria there are massacres and bombings by Russian aircraft and Bashar army who killed innocent civilian Muslims, Putin’s airplanes drop bombs on children’s hospitals and the media in the world are silent, Bashar’s army drops the chemical weapons on Muslims and the media are silent, for a group [ISIS] that is not much known about how they emerged and carried out strange acts around the world now emerge sponsored videos that labels [attacks] Islam. <italic>Campaign: Albania &amp; Europe: Rewards of Joining the Islamic State</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold> comments: Daesh une invention israélienne. Pourquoi daesh n’attaque pas israël, pourtant ils oppriment le peuple palestiniens ? (Translation: ISIS is an Israeli invention. Why Daesh does not attack Israel, yet they will protect the Palestinian people? …
+                   <bold>***********</bold> replies: <bold>***********</bold> Toi je suis sûr que tu perds plus de temps à dénoncer «les chiens de l’enfer» plutôt que les américains qui ont semé le chaos et la mort en envahissant un pays tout entier et que tu passes ton temps à essayer d’expliquer aux non musulmans qu’il ne faut pas faire d’amalgame non? (Translation: I’m sure you’re wasting more time denouncing “the dogs of hell” rather than the Americans who sow chaos and death by invading a whole country and spending your time trying to explain to non-Muslims that you don’t have to make an amalgam, right?
+<italic>Campaign: France, Rewards of Joining the Islamic State</italic>
+                  </p>
+               </list-item>
+            </list>
+            <p>There were also comments in support of the ICSVE campaigns, including anti-ISIS statements and comments in opposition to terrorism and political violence in general. A number of accounts spurred constructive dialogue among interlocutors on ISIS and militant jihadi-driven extremism after engaging with the counter narrative videos. Given the nature of our target audience, these are significant interactions and engagements and demonstrate the emotionally evocative nature of the ICSVE counter narrative video clips and their ability to create discourse. Below are some sample user comments in these regards:</p>
+            <list list-type="bullet">
+               <list-item>
+                 <p><bold>***********</bold> Comments- Kommt ein bischen spät aber besser spät als nie (Translation: Arrives a bit late [counternarrative] but better late than never). <italic>Campaign: Germany, Promises of ad-Dawlah to Women</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold> replies: <bold>***********</bold> bomba patlatıp insanları öldüren her şeye karşıyım (Translation: Yasmeen Kareem I’m against everything that explodes bombs and kills people). <italic>Campaign: Turkey, Rewards of Joining Islamic State</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold>  comments: سؤال اين خليفة المسلمين لم نره منذ زمن ولم نسمع له اي صوت ¿. (Translation: Where is Muslim Khalifa? We have not heard or seen him in a long time). <italic>Campaign: Middle East &amp; North Africa, My Brother in the Islamic State</italic>
+                  </p>
+               </list-item>
+               <list-item>
+                 <p><bold>***********</bold> replies: <bold>***********</bold> donc allez faire le désordre et tuer des innocents c’est normal ?? (Translation: <bold>***********</bold> so go do the mess and kill innocent people is normal??
+                   <bold>***********</bold> replies: <bold>***********</bold> ou tu a vu que je cautionne le terrorisme (Translation: <bold>***********</bold> or did you see that I condone terrorism? <italic>Campaign: France &amp; Belgium: Dreams of the Islamic State</italic>
+                  </p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <p>The purpose of these campaigns was to continue to raise awareness and challenge narratives of extremist groups such as ISIS, but to do so in hyper-focused samples judged by prior analysis as vulnerable due to prior exposure to terrorist recruiting content. Previously initiated ICSVE Facebook campaigns focused on raising general awareness about groups such as ISIS or included smaller datasets of ISIS endorsers or sympathizers [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. In contrast, this research encompassed one of the largest data sets by ICSVE that directly targeted users who were likely to have been exposed to propaganda, such as that distributed by those who sympathized or referenced a direct support for militant jihadi, including ISIS and al Shabaab, violent extremist groups on Facebook. There is ample evidence that exposure to such propaganda can have a strong radicalizing effect on viewers. At the height of their reign, ISIS recruiters would blanket the Internet with their content, then use the immediate feedback mechanisms of social media to immediately swarm in on and “love-bomb” anyone who liked, shared, commented on, or otherwise responded to their content. Recruiters were able to build strong and intimate relationships with their prey online, grooming them and eventually convincing them either to travel abroad to join ISIS in Iraq and Syria or to mount attacks at home [<xref ref-type="bibr" rid="R22">22</xref>].</p>
+         <p>While it is difficult to discern and report offline impacts of the Facebook interventions across all 16 campaigns, ICSVE applied a combination of awareness, engagement, and impact analysis metrics to monitor and evaluate the effectiveness of the Facebook campaigns. Engagement metrics, such as thousands of comments and reactions generated throughout campaigns, for instance, offers a better insight into the perceptions of the target audience vis-à-vis the campaign, ISIS, and Islamist-driven violent extremism in general. Given that, these campaigns targeted individuals whom ICSVE judged as vulnerable to ISIS recruitment and propaganda exposure on Facebook, and not general populations, anti-ISIS comments or comments praising the campaign may indicate a measure of success, as do negative comments that demonstrate that ICSVE reached and was able to engage and elicit strong emotional reactions from exactly those individuals in need of such counter messaging. Furthermore, it is important to point out potential alternative explanations: That it may not be the content of the counter narrative videos that motivated viewers to comment or watch them, but rather mere curiosity, morbid infatuation and a number of other possible factors.</p>
+         <p>In addition, comments analysis proved essential in identifying certain messaging themes that could inform the future campaign directions. For example, in the case of the Albania &amp; Europe campaign target audience, efforts to distort Islam, the government of Assad’s atrocities, failure of the West and the media to report Assad’s atrocities, and the need for continued solidarity for ISIS as vanguards of Islam dominated thematically. Comparatively speaking, in the case of Belgium and France, anti-Israel, anti-United States and comments warning about ISIS’ strength in recruiting among the vulnerable stood out. Furthermore, a significant number of those who watched the videos and/or ended up clicking our link to the external website (ICSVE’s TheRealJihad.org) responded by commenting, liking, and sharing on the campaign. This indicates that the videos sufficiently reached and engaged those who watched the videos, which, arguably, is a positive sign, especially when given the evidence that this audience was vulnerable to being exposed to ISIS propaganda materials and messaging [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>In some campaigns, such as Albania and Europe, ICSVE researchers were able to access some user accounts and analyze their profile and news feeds (e.g. reactions to other videos, materials,) before and after viewing the counter narratives to observe potential shifts in violent extremist rhetoric. In this particular sample, after watching the counter narrative videos, some continued to praise the Islamist-driven rhetoric, though clearly distancing themselves from terrorism and terrorist acts. In other accounts, users changed their Facebook privacy settings (access to profile and posts) from “Only You” (the account holder as the only one who sees it) to “Friends” (only people who are friends with the account holder) and “Public” (available to anyone whether Facebook friends or not) after viewing the counter narrative. This may be indicative of a potential positive shift in online behavior. There were also others who expressed likes for the campaign and were able to cultivate constructive dialogue with other interlocutors on the platform on the issue of ISIS, violent extremism, Islam, and the counter narratives, as well as save (for later viewing) and share the counter narratives with other Facebook members. Previous ICSVE counter narrative campaigns have demonstrated that Facebook users will occasionally share the videos without watching them, believing the videos to be ISIS propaganda. Therefore, not all shares indicate that the person has changed his or her attitude regarding ISIS as a result of watching the counter narrative video. However, this unintentional dissemination of counter narrative material nevertheless advances the overall goal of enhanced engagement, as other Facebook users who may not have otherwise been exposed to the counter narrative will have the opportunity to view it after it has been shared by the unsuspecting propagandist. The future targeting campaigns might also focus on tracking the target audience’s online behavior and communication, whenever possible, and in other social media platforms, such as discussion forums and blogs. While a larger sample of users are necessary to infer potential changes in attitude or behavior, these are promising indicators of success, nevertheless.</p>
+         <p>Comments also suggested a considerable amount of interaction with the counter narratives throughout all 16 campaigns. Although important, focusing on comments alone can often be misleading, as they represent a minority of users in the total sample. In other words, it is important to consider the vast majority of the sample participants who chose not to comment. In this regard, ICSVE researchers exercised caution in not using comments to draw general conclusions about the impact of the campaigns while also taking them as a sign of at least some participants being engaged enough to take the time to comment, argue, discuss, which is also an indication of success [<xref ref-type="bibr" rid="R12">12</xref>]. Moreover, in the authors’ view, insiders and formers are the most credible sources of denouncing a terrorist group, because these persons have similarly been attracted to and experienced the group in reality [<xref ref-type="bibr" rid="R23">23</xref>]. They can convey compelling stories of their experiences inside a terrorist group, and in language that is simple and appealing to vulnerable populations. While the research shows viewers can deprecate even insider accounts online as fake, such accounts still appear to engage those deprecators enough that they watch the video clips and take the time to comment on them. If they had no impact, those who are commenting would likely not bother to do so.</p>
+         <p>While direct behavioral shifts online could not be discerned, meaning no individual reached out to ICSVE researchers directly seeking help or wishing to take the conversation offline, a number of effects, not necessarily observable in the comments section, were observed, possibly suggesting changes in online attitudes and behavior or a positive impact on online negative behavior [<xref ref-type="bibr" rid="R12">12</xref>]. For example, share posts and link clicks to the external websites (“Learn More”) such as ICSVE’s YouTube and TheRealJihad.org suggest engagement and indicate a positive impact on targeting audience behavior online and bringing counter narrative material to those judged as high-risk for exposure to ISIS propagandists and their terrorist incitement and recruitment messaging. In the case of Turkey, 10 percent of the reached audience clicked and landed on the external website (TheRealjihad.org). In the case of Africa, that number reached 16 percent (See Table <xref ref-type="table" rid="Tab5">5</xref>, under “Landing page views”). The fact that some clicked on the external link leading to ICSVE’s TheRealJihad.org website indicates that the campaigns encouraged engagement on observable online behavior, which is also a positive result. Equally important, such actions reflect willingness on their end to take additional step towards engaging with information that may disagree with their viewpoint, considering the target audience sample was composed of those with evidence of vulnerability to ISIS propaganda, which may affect shifts towards positive behavior both offline and online.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusion</title>
+         <p>Groups such as ISIS maintain their presence online by pushing a strategic and cohesive brand of power and constantly shifting between communication platforms. Their propaganda continues to draw in supporters and sympathizers while also constantly adapting their messages and adjusting phrasing and communication language to both remain in touch with their support base and evade detection by authorities. Methods by which they continue to reach out and communicate with their support base remain powerful even in the face of automated, machine learning and sophisticated detection systems. As evidenced in this and other ICSVE-initiated research, takedowns and disruptions of violent extremist material and accounts can also be a frustrating exercise, as these same actors often resurface under different variations and monikers [<xref ref-type="bibr" rid="R10">10</xref>]. Their efforts are also tenacious in that they manage to quickly alert and redirect their network of supporters when social media platforms become hostile toward them. Given that it is difficult to eradicate violent extremist content online completely, it is crucial to counter-messaging to challenge the terrorist narrative and potentially drive their follower base down.</p>
+         <p>Private and public sector actors continue to disrupt ISIS and other violent extremists’ groups’ presence online. These actors have especially strengthened such efforts in the years leading to ISIS’ territorial defeat in Iraq and Syria. Social media platforms such as Facebook have made significant efforts to flag and take down online violent extremist content. There have also been efforts to report to law enforcement worrying online trends. Although commendable, concerns over the threat of militant jihadists’ digital presence remain real, as they continue to be present on mainstream platforms.</p>
+         <p>This article details the utility of counter narratives in disrupting ISIS’s online recruitment and indoctrination efforts and in eliciting engagement from users most susceptible to online exposure to terrorist propaganda, echoing previous ICSVE research [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. This latest development in counter narrative strategy, hyper-targeting Facebook profiles with the generous assistance of Facebook, demonstrates that ICSVE’s counter narratives are even more effective in engaging members of the target audience than the general population, which gives validity to their efficacy as powerful counter messaging tools and ICSVE’s methods in distributing them online. Future developments, including shortening the videos to one minute in order to increase the complete view rate, will likely further enhance the counter narratives’ ability to effectively refute and discredit ISIS online as complete view rates will likely increase with shorter videos. This research aimed at hyper-targeting those vulnerable to ISIS recruitment with counter narratives is an important step demonstrating not only the efficacy of counter narratives, but the impact of strong working relationships between large social media companies (Facebook) and non-governmental organizations (ICSVE). In order to effectively counter ISIS and other terrorist groups online, it is crucial that experts from a variety of sectors work in concert.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgments</title>
+         <p>The International Center for the Study of Violent Extremism thanks the Embassy of Qatar in Washington, D.C. and Facebook for their partial support of the Breaking the ISIS Brand Counter Narrative Project.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Foreign Fighters Continue to Join ISIS in Syria, US Joint Chiefs Chair Says</article-title>
+               <year>2018</year>
+               <source>The Defense Post</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://thedefensepost.com/2018/10/16/isis-foreign-fighters-travel-syria-dunford/"
+                         xlink:type="simple">https://thedefensepost.com/2018/10/16/isis-foreign-fighters-travel-syria-dunford/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>In ISIS Leader's Video appearance, Messages to Followers, Rivals and the West</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mekhennet</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Washington Post</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.washingtonpost.com/world/national-security/in-isis-leaders-video-appearance-messages-to-followers-rivals-and-the-west/2019/05/02/341258d4-6c3a-11e9-8f44-e8d8bb1df986\_story.html?noredirect=on"
+                         xlink:type="simple">https://www.washingtonpost.com/world/national-security/in-isis-leaders-video-appearance-messages-to-followers-rivals-and-the-west/2019/05/02/341258d4-6c3a-11e9-8f44-e8d8bb1df986\_story.html?noredirect=on</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Baghdadi Is Alive - and so is the ISIS Narrative</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cafiero G.</surname>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Foreign Policy In Focus</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://fpif.org/baghdadi-is-alive-and-so-is-the-isis-narrative/"
+                         xlink:type="simple">https://fpif.org/baghdadi-is-alive-and-so-is-the-isis-narrative/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>ISIS Releases Defiant Video From Inside Besieged Syrian City Of Baghouz</article-title>
+               <year>2019</year>
+               <source>The Middle East Media Research Institute</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.memri.org/jttm/isis-releases-defiant-video-inside-besieged-syrian-city-baghouz"
+                         xlink:type="simple">https://www.memri.org/jttm/isis-releases-defiant-video-inside-besieged-syrian-city-baghouz</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>ISIS Leader Baghdadi Urges Followers to Continue Attacks, Storm Prisons in Purported New Recording</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lovelock</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Salim</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Washington Post</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.washingtonpost.com/world/middle\_east/baghdadi-urges-followers-to-continue-attacks-storm-prisons-in-purported-new-recording/2019/09/16/85bdc69a-d8ab-11e9-adff-79254db7f766\_story.html"
+                         xlink:type="simple">https://www.washingtonpost.com/world/middle\_east/baghdadi-urges-followers-to-continue-attacks-storm-prisons-in-purported-new-recording/2019/09/16/85bdc69a-d8ab-11e9-adff-79254db7f766\_story.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>ISIS Releases Video of Fighters in Baghuz as War Reaches Final Days</article-title>
+               <year>2019</year>
+               <source>The Guardian News</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="6. https://www.youtube.com/watch?v=H2MxkYniEWw"
+                         xlink:type="simple">6. https://www.youtube.com/watch?v=H2MxkYniEWw</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Analysis: ISIS Use of Smaller Platforms and the DWeb to Share Terrorist Content - April 2019</article-title>
+               <year>2019</year>
+               <source>Tech Against Terrorism</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.techagainstterrorism.org/2019/04/29/analysis-isis-use-of-smaller-platforms-and-the-dweb-to-share-terrorist-content-april-2019/"
+                         xlink:type="simple">https://www.techagainstterrorism.org/2019/04/29/analysis-isis-use-of-smaller-platforms-and-the-dweb-to-share-terrorist-content-april-2019/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Crossroads: Counter-terrorism and the Internet</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fishman</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Texas National Security Review</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://tnsr.org/2019/02/crossroads-counter-terrorism-and-the-internet/"
+                         xlink:type="simple">https://tnsr.org/2019/02/crossroads-counter-terrorism-and-the-internet/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Artificial Intelligence Can't Solve Online Extremism Issue, Experts Tell House Panel</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Birnbaum</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>The Hill</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://thehill.com/policy/technology/450246-artificial-intelligence-cant-solve-online-extremism-issue-experts-tell"
+                         xlink:type="simple">https://thehill.com/policy/technology/450246-artificial-intelligence-cant-solve-online-extremism-issue-experts-tell</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Is ISIS still Alive and Well on the Internet?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Homeland Security—Goverment Technology and Services Coalition's</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.hstoday.us/subject-matter-areas/cybersecurity/is-isis-still-alive-and-well-on-the-internet/"
+                         xlink:type="simple">https://www.hstoday.us/subject-matter-areas/cybersecurity/is-isis-still-alive-and-well-on-the-internet/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.15664/jtr.1220</pub-id>
+               <year>2016</year>
+               <publisher-name>University of St. Andrews Library</publisher-name>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>35</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beutel</surname>
+                     <given-names>Alejandro</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weine</surname>
+                     <given-names>Stevan M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Saeed</surname>
+                     <given-names>Aliya</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spahic</surname>
+                     <given-names>Aida Mihajlovic</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stone</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Oakley Beahrs, John</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shanfield</surname>
+                     <given-names>Stephen B.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Guiding Principles for Countering and Displacing Extremist Narratives</article-title>
+               <source>Journal of Terrorism Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.7249/rr2813</pub-id>
+               <year>2018</year>
+               <publisher-name>RAND Corporation</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Helmus</surname>
+                     <given-names>Todd</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Klein</surname>
+                     <given-names>Kurt</given-names>
+                  </name>
+               </person-group>
+               <article-title>Assessing Outcomes of Online Campaigns Countering Violent Extremism: A Case Study of the Redirect Method</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Master Your Facebook Video Metrics</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bridges</surname>
+                     <given-names>Seth</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>The Hill</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rivaliq.com/blog/mastering-facebook-video-metrics/"
+                         xlink:type="simple">https://www.rivaliq.com/blog/mastering-facebook-video-metrics/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The `7-Second Hook Formula' to Capture Your Audience's Attention and Get Them to Take Action-in Seven Seconds or Less!</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mcsheat</surname>
+                     <given-names>Kate</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <source>Elite Marketing Pro</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://elitemarketingpro.com/blog/the-7-second-hook-formula-to-capture-your-audiences-attention-and-get-them-to-take-action-in-seven-seconds-or-less/"
+                         xlink:type="simple">https://elitemarketingpro.com/blog/the-7-second-hook-formula-to-capture-your-audiences-attention-and-get-them-to-take-action-in-seven-seconds-or-less/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>5 Metrics to Measure the Success of Facebook Videos</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Patel</surname>
+                     <given-names>Sweta</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Marketing Land</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://marketingland.com/6-metrics-measure-success-facebook-videos-224452"
+                         xlink:type="simple">https://marketingland.com/6-metrics-measure-success-facebook-videos-224452</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The State of Facebook Video In The Year 2017: Video Length Up, Time Watched Down</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Saric</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <source>Business 2 Community</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.business2community.com/facebook/state-facebook-video-year-2017-video-length-time-watched-01834666"
+                         xlink:type="simple">https://www.business2community.com/facebook/state-facebook-video-year-2017-video-length-time-watched-01834666</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5038/1944-0472.11.4.1695</pub-id>
+               <year>2019</year>
+               <publisher-name>University of South Florida Libraries</publisher-name>
+               <volume>11</volume>
+               <issue>4</issue>
+               <fpage>32</fpage>
+               <lpage>71</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>Ardian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ahmed</surname>
+                     <given-names>Mohamed</given-names>
+                  </name>
+               </person-group>
+               <article-title>Intervening in and Preventing Somali-American Radicalization with Counter Narratives: Testing the Breaking the ISIS Brand Counter Narrative Videos in American Somali Focus Group Settings</article-title>
+               <source>Journal of Strategic Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2018</year>
+               <publisher-name>International Center for the Study of Violent Extremism</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.icsve.org/fighting-isis-on-facebook-breaking-the-isis-brand-counter-narratives-project/"
+                         xlink:type="simple">https://www.icsve.org/fighting-isis-on-facebook-breaking-the-isis-brand-counter-narratives-project/</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bodo</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <article-title>Fighting ISIS on Facebook—Breaking the ISIS Brand Counter-Narratives Project</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2018</year>
+               <source>Vox Pol</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.voxpol.eu/breaking-isis-brand-counter-narratives-intervention-albanian-speaking-facebook-accounts-part-1/"
+                         xlink:type="simple">https://www.voxpol.eu/breaking-isis-brand-counter-narratives-intervention-albanian-speaking-facebook-accounts-part-1/</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bodo</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fazliu</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Breaking the ISIS Brand Counter Narratives Part I: Intervention with Albanian Speaking Facebook Accounts</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <issn>23343745</issn>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>Ardian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wooster</surname>
+                     <given-names>Claire</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Izadi</surname>
+                     <given-names>Neima</given-names>
+                  </name>
+               </person-group>
+               <source>Perspectives on Terrorism</source>
+               <issue>3</issue>
+               <fpage>50</fpage>
+               <lpage>66</lpage>
+               <publisher-name>Terrorism Research Institute</publisher-name>
+               <article-title>Mounting a Facebook Brand Awareness and Safety Ad Campaign to Break the ISIS Brand in Iraq</article-title>
+               <volume>12</volume>
+               <year>2018</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.jstor.org/stable/26453135"
+                         xlink:type="simple">http://www.jstor.org/stable/26453135</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Engaging English Speaking Facebook Users in an Anti-ISIS Awareness Campaign</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shajkovci</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wooster</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Izadi</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Strategic Security</source>
+               <volume>11</volume>
+               <issue>3</issue>
+               <fpage>52</fpage>
+               <lpage>78</lpage>
+               <year>2018</year>
+               <pub-id pub-id-type="doi">10.5038/1944-0472.11.3.1679</pub-id>
+               <publisher-name>University of South Florida Libraries</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Tailored Online Interventions: The Islamic State's Recruitment Strategy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Berger</surname>
+                     <given-names>J. M.</given-names>
+                  </name>
+               </person-group>
+               <source>Combating Terrorism Center Sentinel</source>
+               <volume>8</volume>
+               <issue>10</issue>
+               <year>2018</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ctc.usma.edu/wp-content/uploads/2015/10/CTCSentinel-Vol8Iss1036.pdf"
+                         xlink:type="simple">https://www.ctc.usma.edu/wp-content/uploads/2015/10/CTCSentinel-Vol8Iss1036.pdf</ext-link>
+               <publisher-name>CTC</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Defectors and former extremists have been used effectively in the realm of CVE to fight the appeal of violent extremist groups. That said, issues related to trust and reliability may arise in working with defectors and formers. For instance, some cannot be trusted as they vacillate in their opinions and attitudes about the terrorist group which they formerly endorsed or to which they belonged. Some defectors and formers may find it stressful to speak about their experiences, while others may simply refuse to talk. Likewise, many are not psychologically healthy (not having fulfilled their psychological or other needs inside the terrorist group). Similarly, after serving in conflict zones and inside brutal terrorist organizations, some may suffer from posttraumatic stress and substance disorders, making them unreliable interlocutors and questionable role models.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
