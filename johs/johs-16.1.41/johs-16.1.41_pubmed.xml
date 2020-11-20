@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16010041</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Ecological Security of Communities in Polish Cities</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Korneć</surname>
+                  <given-names>Radosław</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Department of Social Sciences, Siedlce University of Natural Sciences and Humanities, Siedlce, Poland</aff>
+         <pub-date pub-type="ppub">
+            <day>10</day>
+            <month>11</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <fpage>41</fpage>
+         <lpage>50</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Compared to issues related to the economy, politics, social or military concerns, attempts to preserve ecology and the natural environment have a relatively short history. Anthropogenic environmental changes in many cases have a direct impact on one's quality of life and the functioning of urban centers, states and communities. Pressure exerted by human economic activity on the environment is demonstrated, above all, by reductions in air, water, and soil quality, worse acoustic climate, and limited access to green spaces. The most detrimental undertakings have a negative impact on the level of ecological security in cities are transport, domestic heating of buildings, industrial activities, and heating processes. The main goal of this paper is to identify the perception of the ecological security of the residents of the biggest urban centers. Urban environment security is a very broad issue. It covers both natural phenomena, where human impact is minimal, levels of urban sustainable development and attitudes of the city dwellers. Recently, citizen awareness of the importance of environmental challenges in Polish cities’ development has surged, including awareness of the desire to live in a cleaner environment and to breathe clean air. The topic is more and more often discussed in public debate, above all during periods of peak contaminant concentrations. The situation serves as a stimulus for citizens to mobilize, often through various social movements while local governments take actions oriented at changing methods of domestic heating, more eco-friendly mobility and the enhanced environmental education of society.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>ecological security</kwd>
+            <kwd>sustainable urbanization</kwd>
+            <kwd>human security</kwd>
+            <kwd>ecological threats</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Urbanization determines spatial distribution of the global population and, along population growth, population ageing, and international migration, constitutes one of the four demographic mega-trends [<xref ref-type="bibr" rid="R1">1</xref>].</p>
+         <p>Due to the density of population and building development, natural disasters and anthropogenic environmental hazards are much more dangerous for the cities than for non-urban areas. A concentration of anthropogenic pollution (air pollution, acoustic climate, and municipal solid waste) is a great problem in urban areas. Moreover, the development of cities generates multiple environmental problems in rural areas, such as decreasing quantities of arable land, or water, soil, and air pollution [<xref ref-type="bibr" rid="R2">2</xref>].</p>
+         <p>Due to their chronic nature, air pollution and noise are recognised as one of the greatest environmental issues in cities. Those undesirable phenomena may be limited only partially by physical barriers. Therefore, they affect areas such as residential zones, schools [<xref ref-type="bibr" rid="R3">3</xref>], health centres, and other public utility facilities. Long-term exposure to noise is related to multiple health problems, including coronary artery disease [<xref ref-type="bibr" rid="R4">4</xref>], myocardial infarction, irritation among people with poor quality of sleep, diabetes, decreased understanding of written text, and decreased focus among children at school age [<xref ref-type="bibr" rid="R5">5</xref>]. According to the publication by the World Health Organization, at least 100 million people in the EU are exposed to road noise and at least 1.6 million years of healthy life is lost each year [<xref ref-type="bibr" rid="R6">6</xref>]. In Poland, that issue is particularly important and concerns two areas of human activity. Firstly, excessive noise levels and air pollution are results of using increasingly older vehicles and the growing rate of motorization [<xref ref-type="bibr" rid="R7">7</xref>]. Secondly, public utilities in many Polish cities are still based on fossil fuels, in particular coal. According to the report by the European Environment Agency, the greatest problem for air quality understood as the general composition of atmosphere with additives in a specific place and time is the pollution with particular matter (PM10 and PM2.5), ozone (O<inline-formula>
+               <mml:math id="S3.p3.m1"
+                         alttext="{}_{3}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>3</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>), and nitrogen oxide (NO<inline-formula>
+               <mml:math id="S3.p3.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>). Nearly half a million people die prematurely due to air pollution a year, including over 47 thousand people in Poland. In recent years, air quality norms have been exceeded virtually all over Poland. The standard levels for PM10 have been exceeded in 91% of measurement zones, in particular in the Slaskie, Malopolskie, and Lodzkie Provinces (Voivodeships), except for northern parts of Poland. The standard levels for strongly carcinogenic benzo(a)pyrene have been exceeded in all zones. In terms of PM10, PM2.5, and polycyclic aromatic hydrocarbons pollution (including benzo(a)pyrene), compared to other European states, situation in Poland is very bad. PM10, PM2.5, and benzo(a)pyrene levels recorded in Poland are among the highest in the EU member states. Also, sulphur dioxide (SO<inline-formula>
+               <mml:math id="S3.p3.m3"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>) levels are much higher in Upper Silesia than in Western European countries, although similar to the values recorded in Romania and Bulgaria. Nitrogen oxides are a problem only in the largest cities, especially in Warsaw, and along the busiest roads [<xref ref-type="bibr" rid="R8">8</xref>].</p>
+         <p>The article is divided into the following sections: introduction, literature review, methodology, research results and conclusions.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Theoretical Background</title>
+         <p>The provision of security to city dwellers is crucial and constitutes one of government’s priorities. Nonetheless, the term is very broad and hard to define due to its multiple aspects (e.g. economic, environmental, social, legal, military, political and cultural ones).</p>
+         <p>After the end of the Cold War, the neo-realistic views of Barry Buzan—who found that various types of non-state human collectivities should be included in security analyses right next to sovereign states—proved to be vital [<xref ref-type="bibr" rid="R9">9</xref>].</p>
+         <p>The focus of the research into security, considering entities other than the state (including individuals), has developed not only on a subjective (personal) but also on an objective (material) basis. This tendency is reflected, above all, by the development of the security complex theory as part of the research conducted by the so-called Copenhagen school. It is demonstrated by a shift of emphasis, from military-political aspects to others, such as the humanitarian aspect. The material scope of contemporary security is the issue that is showing the sharpest increase [<xref ref-type="bibr" rid="R10">10</xref>]. Both the personal and the material scope security expansion indicates that there are scores of research perspectives on urban centers which, given the complexity of the urban space, their external and internal relations and transformations over time, require an interdisciplinary approach. In Poland, most of the studies on urban space security focus on public order and public security [<xref ref-type="bibr" rid="R11">11</xref>]. Even though they are an incredibly significant sphere of urban center operations, crucial for the assessment of the quality of life in the city, other elements of security, including those having an impact on the operations of humans and agglomerations, are covered relatively infrequently.</p>
+         <p>Considerable relevance of ecological security, demonstrated by strategic documents of the European Union Member States, is related to, among other things, the natural environment and human health protection, the reduction of impact on natural disasters and anthropopression, and the provision of access to clean air, water and soil. The environmental and anthropogenic hazards detected across urbanized areas and associated with property loss and disability include [<xref ref-type="bibr" rid="R12">12</xref>]:</p>
+         <list list-type="bullet">
+            <list-item>
+               <p>Hydrological, meteorological, and geological risks, such as floods, droughts, urban heat islands, hurricanes, storms, earthquakes, landslides and volcano eruptions;</p>
+            </list-item>
+            <list-item>
+               <p>Emissions to the environment, including chemical and radiological hazards, environmental pollutions;</p>
+            </list-item>
+            <list-item>
+               <p>Fire, construction and technical infrastructure-related hazards, e.g. energy or sewage infrastructure;</p>
+            </list-item>
+            <list-item>
+               <p>Road, air, rail, and other transport-related hazards.</p>
+            </list-item>
+         </list>
+         <p>Despite the fostering of multidimensional relations between the city and nature, for many years urban studies have omitted any ecological security-related issues. What is more, the studies on ecology and the natural environment have rarely looked into ‘the city’ in a comprehensive manner.</p>
+         <p>The idea of ecological security and sustainable urbanization of the city, resultant from an intense interest in ecological hazards and a paramount need for environmental protection expressed both by the world of science and public administration, and developing environmental movements, are all anti-urban, at least to some extent. The objective of an ecocity is the rejection of everything that is urban (artificial and harmful for the biophysical world) and the restoration of all that is natural, local and self-sufficient (within a walking distance, not requiring energy-consuming processing processes or fuel-consuming transport). In other words, an ecocity promoted an idealized, romantic interpretation of the natural order [<xref ref-type="bibr" rid="R13">13</xref>].</p>
+         <p>City’s ecological security is a concept of development security designed to establish favorable urban conditions, especially given the prospective continuous city development in the 21st century. As a branch of ecological security, it is a process of development of urban space’s sustainable environment [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>In a number of cases, anthropogenic environmental changes have a direct impact on one’s quality of life and the operations of urban centers, states, and communities. Compared to issues related to the economy, politics, social or military concerns, the attempts to preserve ecology and the natural environment have a relatively short history. The increasingly interdependent and systemic image of global development has been the initial stimulus to react to the matter. The result was an emergence of the environmental canon under which every individual, urban center and country should broaden their knowledge about the problems the human environment is facing and learn about some feasible solutions [<xref ref-type="bibr" rid="R15">15</xref>].</p>
+         <p>A more serious interest in the environmental and ecological security issues was generated after the end of the Cold War, when the paradigm of community values became popular and an optimistic vision on social development based on peaceful cooperation was developed.</p>
+         <p>Causes of ecological hazards and the generation of developmental barriers should be recognized as connected to unlimited and uncontrolled human activity. Most often, it does not involve any respect for natural resources (including water, air, soil, or food), which humans depend on [<xref ref-type="bibr" rid="R16">16</xref>]. If the environment has ceased to offer those goods, we would have to pay specific costs (e.g. of plant pollination, self-cleaning, self-regulation etc.). Being a part of nature, humans influence nature themselves. That is why, the survival and development of the human species depends on the proper level of ecological security [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+         <p>Human beings, as constituent of the ecosystem, are embedded in the environmental interrelations just as all other constituents are. Therefore, we may not become nature’s dominators. The idea of environmentalism prevails over anthropocentrism and state-centrism in the traditional studies on security. The object of this research is neither the state nor the human being, but the planet viewed holistically as a single ecosystem. This approach is premised on the assumption that human beings are a part of nature and that the idea of human security and ecosystem security are integrally related [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+         <p>Ecological security of cities is an important research issue. Moreover, examining ecological security of cities may bring benefits in terms of efficient environmental management. Furthermore, the available publications concern various elements of ecological security of the cities. Authors raise issues such as drinking water availability, food security, use of land, environmental management, or impact of human activity on the environment quality [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>]. Important elements of ecological security of the city include acoustic climate and air quality. That results directly from the definition of ecological security of the city, which is recognized as a guarantee of protection against hazards for physical and mental health of city residents as well as for sustainable social and economic development.</p>
+         <p>The issue of noise hazard to (pollution of) environment and its significant impact on the quality of life and health of citizens was noticed by the European Union already in 1996. The Green Book says that the emission of 85 dB noise must be prevented; the increase of noise between 55-65 dB must be refrained from, and the noise levels should not exceed 65 dB. Those demands resulted in Directive 2002/49/EC of the European Parliament and the Council of 25 June 2002 relating to the assessment and management of environmental noise [<xref ref-type="bibr" rid="R23">23</xref>].</p>
+         <p>In the context of ecological security of cities, air quality is also of great importance. Air pollution in cities is the main problem all over the world, both in well-developed and in developing countries. World Health Organization recognizes air pollution as the greatest environmental hazard to health in Europe. In the EU, air pollution causes on average over 1,000 premature deaths every day, which exceeds the number of people dying in road accidents over ten times [<xref ref-type="bibr" rid="R24">24</xref>].</p>
+         <p>While focusing on the ideas such as the anthropogenic nature of risks, the opportunities to counteract them in the evolution of social behaviors, cooperation of various entities and eradication of international conflicts and tensions against the background of ecological concerns in Poland, M. Pietraś suggests the following understanding of the term ‘ecological security’: it is the state of social relations, including contents, forms and methods of organization of international relations, which not only limits and eliminates ecological hazard, but also promotes positive action, allowing one to fully embrace values that are crucial for the existence and development of nations and states [<xref ref-type="bibr" rid="R25">25</xref>].</p>
+         <p>Ecological security was predicated, on the one hand, on the canvas of the post-Cold War security paradigm and, on the other hand, on the concept of sustainable development. In the city, one can find the essence of economic activity, i.e. goods and energy production, transport services, intensive land use and the like, which poses problems such as environmental degradation, negative impact on air quality, climate, soil, fauna and flora, and overexploitation of natural resources. That is why, every city must try to confront the issues, and either solve or alleviate them. As rightly noted by Voula Mega [<xref ref-type="bibr" rid="R26">26</xref>], to carry out actions aimed at citizen life quality improvement, one must be guided by the principles of prevention and vigilance so that urban organisms could be protected at the right time. For all of the above reasons, managing cities’ ecological security in line with the principles of sustainable development might be one of the most fundamental and challenging tasks in the years to come [<xref ref-type="bibr" rid="R27">27</xref>]. Nowadays, the ecological security of the city is viewed as a guarantee to all city dweller of protection against the risks to their physical or mental health and of sustainable social and economic development.</p>
+         <p>Moreover, it is a process which focuses on the promotion of resident welfare, aimed at the prevention and management of environmental degradation of the cities, allowing the provision of sustainable ecological services to urban communities. This practice comprises urban landscape integration with a view to ensure sufficient volumes of environmental services supporting development of the socio-economic system and, at the same time, continued sustainable development [<xref ref-type="bibr" rid="R28">28</xref>].
+</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Methodology</title>
+         <p>Natural environment protection and quality of life improvement in the present structure, i.e. a constructed environment, is one of the major objectives of the actions taken to revitalize contemporary cities. This study constitutes the result of a part of the research on the development of smart and sustainable urban spaces in Poland. The object of the research is the ecological security of five largest Polish cities.</p>
+         <p>The main objective of this study is to identify the perception of ecological security of the residents of the biggest urban centers.</p>
+         <p>The research problem, the solving of which will allow the researcher to attain the study goal, is to find the answer to the following question: To what extent does the ecological security situation affect the quality of life of the residents of the largest urban centers in Poland.</p>
+         <p>The research process was conducted in two main stages. During the first stage, the real quality of urban environments was established. On the basis of the reports generated by the provincial inspectorates for environmental protection, acoustic maps, and Local Data Bank records of the Central Statistical Office (GUS), the author conducted an analysis of acoustic climate, air quality and access to green spaces.
+In the second stage, the author conducted a survey among the residents of the largest urban centers regarding their perception of the ecological security situation and access to green infrastructure in their whereabouts.</p>
+         <p>The research was conducted in the last quarter of 2018. The survey form was distributed using CAWI-method. The respondents were asked, among other, about their feelings related to air quality, acoustic climate, mobility habits, and the water and electricity consumption. The population of the largest five Polish cities (Warsaw, Cracow, Lodz, and Poznan) is 4.4 million; the research sample was 1,067, with the maximum error of 3%.</p>
+         <p>The distribution of respondents according to gender was relatively equal; women constituted 53% and men 47% of the respondents. The largest age group was composed of people aged 24–28 (31%); the respondents aged 29–45 and 46-60 constituted 23% and 22% respectively. The two smallest groups were people over 60 (8%) and those aged 18–23 (15%).</p>
+         <p>The methodology applied was to solve the main research problem and confront the environmental quality indicators with city-dwellers’ feedback.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Results</title>
+         <p>The fundamental element having an impact on environmental quality and ecological security of the city is anthropogenic activity. Pressure exerted by human economic activity on the environment is demonstrated, above all, by reductions in air, water, and soil quality, worse acoustic climate, and limited access to green spaces. The most detrimental undertakings having a negative impact on the level of ecological security in cities are transport, domestic heating of buildings, industrial activities, and heating processes.</p>
+         <p>Air pollution-related effects on human health have placed air pollution at the core of the policy decision-making process. In recent estimates, the World Health Organization (WHO) reports that approximately 7 million people died as a result of air pollution in 2012. Therefore, as emphasized by the WHO, air pollution is now the world’s largest single environmental health risk (Figure <xref ref-type="fig" rid="Fig1">1</xref>). Some developed countries, particularly the European Union states and the United States, have implemented strict regulations to improve air quality. On the contrary, developing countries are generally characterized by weaker environmental regulations [<xref ref-type="bibr" rid="R29">29</xref>].</p>
+         <p>According to a report of the Chief Inspectorate of Environmental Protection (GIOŚ), due to the negative impact of air pollution on one’s health and the poor situation of the ecosystem, every year in Poland an assessment of air quality is conducted with respect the following: sulfur dioxide SO<inline-formula>
+               <mml:math id="S6.p3.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>, nitrogen dioxide NO<inline-formula>
+               <mml:math id="S6.p3.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>, carbon oxide CO, benzene C<inline-formula>
+               <mml:math id="S6.p3.m3"
+                         alttext="{}_{6}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>6</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>H<inline-formula>
+               <mml:math id="S6.p3.m4"
+                         alttext="{}_{6}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>6</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>, ozone O<inline-formula>
+               <mml:math id="S6.p3.m5"
+                         alttext="{}_{3}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>3</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>, particulate matter PM10 and PM2,5 pollution, and heavy metals determined in PM10: lead (Pb), arsenate (As), cadmium (Cd), nickel (Ni) and benzo(a)pyrene (B(a)P) [<xref ref-type="bibr" rid="R30">30</xref>].
+</p>
+         <p>The results of assessments and zones’ classes by pollution type depend on the concentration of a given pollutant. Subject to the analysis of concentrations in a given zone, the following zone classes were distinguished:</p>
+         <list list-type="bullet">
+            <list-item>
+               <p><bold>Class A</bold> – pollutant concentration level does not exceed the maximum levels permitted/target levels</p>   
+            </list-item>
+            <list-item>
+               <p><bold>Class B</bold> – pollutant concentration level exceeds the maximum levels permitted but does not exceed the maximum level permitted plus margin of tolerance</p>
+            </list-item>
+            <list-item>
+               <p><bold>Class C</bold> – pollutant concentration level exceeds the maximum levels permitted/target levels</p>
+            </list-item>
+            
+         </list>
+          
+        
+          
+          <p>Despite numerous actions aimed at quality of air improvement, the key concerns of the Polish cities continue to be the following: in the summer season—too high tropospheric ozone levels, in the winter season—excessive concentrations of particulate matter PM10 and PM2.5 and benzo(a)pyrene. This state of affairs is reflected by air quality assessments conducted by the provincial inspectorates for environmental protection, which distinguish urban agglomerations [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+         <p>Based on the assessment of air quality of five largest cities in Poland, it can be concluded that the main reason for exceeding the levels permitted for PM10, PM2.5 and benzo(a)pyrene is surface emission (emission related to apartment heating in the communal and living sector). In Warsaw, the key pollution emitter is car transport. The communal and living emitters are located at urban peripheries rather than in the heart of the city (Cracow). The capital city has a well-developed gas and heating network which the majority of infrastructure is connected to. Given the above, local air pollutants in Warsaw are in 60%-80% emitted by road transport [<xref ref-type="bibr" rid="R32">32</xref>]. In Wroclaw, Poznan, and Lodz, the most serious issue remains high levels of contamination with particulate matter and benzo(a)pyrene. What is more, in Warsaw, Cracow and Wroclaw, standards are exceeded also for NO<inline-formula>
+               <mml:math id="S6.p6.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>. As the permitted limits are exceeded on downtown streets, where both pedestrians and drivers abound, the number of people exposed to high concentration of NO<inline-formula>
+               <mml:math id="S6.p6.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> may be anywhere between 5% and 15% of all city residents.</p>
+         <p>According to the conducted research, the subjective evaluation of air quality provided by the citizens of five largest cities in Poland shows that circa 50% of the respondents from Warsaw, Poznan and Wroclaw believe it is good or rather good. On the contrary, around 70% of respondents in Cracow and Lodz reckon that air quality is unsatisfactory or rather unsatisfactory (Figure <xref ref-type="fig" rid="Fig2">2</xref>).</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label> Figure 1</label>
+            <caption>
+               <title>Major air pollutants in Europe, clustered according to impacts on human health, ecosystems, and climate
+                  [<xref ref-type="bibr" rid="R32">32</xref>]. Pollutants, from left to right: sulfur dioxide (SO <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
+                     xmlns:m="http://www.w3.org/1998/Math/MathML"
+                     mode="inline"
+                     xml:id="S6.p8.m1"
+                     tex="{}_{2}"
+                     text="_2"
+                     fragid="S6.p8.m1">
+                     <mml:math alttext="{}_{2}" display="inline">
+                        <mml:msub>
+                           <mml:mi/>
+                           <mml:mn>2</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </Math></inline-formula> ), nitrogen oxides (NO <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
+                     xmlns:m="http://www.w3.org/1998/Math/MathML"
+                     mode="inline"
+                     xml:id="S6.p8.m2"
+                     tex="{}_{x}"
+                     text="_x"
+                     fragid="S6.p8.m2">
+                     <mml:math alttext="{}_{x}" display="inline">
+                        <mml:msub>
+                           <mml:mi/>
+                           <mml:mi>x</mml:mi>
+                        </mml:msub>
+                     </mml:math>
+                  </Math></inline-formula> ), carbon monoxide (CO), ammonia (NH <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
+                     xmlns:m="http://www.w3.org/1998/Math/MathML"
+                     mode="inline"
+                     xml:id="S6.p8.m3"
+                     tex="{}_{3}"
+                     text="_3"
+                     fragid="S6.p8.m3">
+                     <mml:math alttext="{}_{3}" display="inline">
+                        <mml:msub>
+                           <mml:mi/>
+                           <mml:mn>3</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </Math></inline-formula> ),
+                  particulate matter (PM), non-methane volatile organic compounds (NMVOC), polycyclic aromatic hydrocarbons (PAH),
+                  methane (CH <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
+                     xmlns:m="http://www.w3.org/1998/Math/MathML"
+                     mode="inline"
+                     xml:id="S6.p8.m4"
+                     tex="{}_{4}"
+                     text="_4"
+                     fragid="S6.p8.m4">
+                     <mml:math alttext="{}_{4}" display="inline">
+                        <mml:msub>
+                           <mml:mi/>
+                           <mml:mn>4</mml:mn>
+                        </mml:msub>
+                     </mml:math>
+                  </Math></inline-formula> ), heavy metals (HM).</title>
+            </caption>
+            <graphic xlink:href="Fig1.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="Fig2" position="float" orientation="portrait">
+            <label> Figure 2</label>
+            <caption>
+               <title>Air quality assessment in the biggest Polish cities 2018</title>
+            </caption>
+            <graphic xlink:href="Fig2.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>Almost every area of the Polish territory has failed to attain air quality standards. The PM10 concentration standards are not met in 91% of the monitored zones, in particular, in the Silesian, Małopolskie (especially in Nowy Targ and Cracow) and Łódzkie (Lodz) provinces, the exceptions being situated in the northern parts of the country. The strongly carcinogenic benzo(a)pyrene concentration limits have been exceeded across all zones. Polish cities post particularly poor results compared to the rest of Europe with respect to particulate matter PM10 and finer PM2.5 or polycyclic aromatic hydrocarbons (including benzo(a)pyrene) contamination. PM10, PM2.5 and benzo(a)pyrene concentrations reported in Poland are among the highest concentrations in the EU Member States [<xref ref-type="bibr" rid="R8">8</xref>].</p>
+         <p>The acoustic climate of the environment in Poland is affected, to the largest extent, by traffic-related noise. The key issue in this category is road noise which, due to its prevalence, has a vast reach. It varies over time and is emitted by vehicles moving with irregular frequency and volume. It is created mainly when tires are in contact with road surfaces and can be exacerbated by the engine characteristics of a given vehicle [<xref ref-type="bibr" rid="R33">33</xref>].</p>
+         <p>Road noise is an essential environmental hazard not only in Poland but also across the entire area of the European Union [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>]. According to the WHO, nearly 40% of the EU’s population (200 million) are exposed to road noise exceeding 55 dB per day. Around a half of that number are exposed to noise levels exceeding 65 dB during the day and 150 million—to noise levels over 55 dB at night [<xref ref-type="bibr" rid="R36">36</xref>]. Since noise is one of the conditions accountable for the situation of the natural environment and ecological security, Polish cities with a population of over 100 thousand must have acoustic maps drawn up (Figure <xref ref-type="fig" rid="Fig3">3</xref>, Figure <xref ref-type="fig" rid="Fig4">4</xref>) [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+         <fig id="Fig3" position="float" orientation="portrait">
+            <label> Figure 3</label>
+            <caption>
+               <title>Acoustic maps of Warsaw and Cracow – 2017 [<xref ref-type="bibr" rid="R38">38</xref>,<xref ref-type="bibr" rid="R39">39</xref>].</title>
+            </caption>
+            <graphic xlink:href="Fig3.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="Fig4" position="float" orientation="portrait">
+            <label> Figure 4</label>
+            <caption>
+               <title>Acoustic maps of Poznan and Wroclaw – 2017 [<xref ref-type="bibr" rid="R40">40</xref>,<xref ref-type="bibr" rid="R41">41</xref>].</title>
+            </caption>
+            <graphic xlink:href="Fig4.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>The descriptive parts of such maps demonstrate that in Poznan nearly 20%, in Warsaw approximately 6%, in Cracow 10%, in Lodz ca. 10%, and in Wroclaw over 20% of the population is exposed to above-standard noise levels. The results obtained as part of acoustic map creation do not reflect the full extent of the issue since the analysis of the conducted survey reveals that dissatisfaction with the level of noise is reported by definitely more individuals than those exposed to excessive noise (Figure <xref ref-type="fig" rid="Fig5">5</xref>).</p>
+         <p>The conducted research demonstrates that the largest percentage of people for whom the level of noise constitutes a significant issue is found in Cracow, Poznan, and Warsaw, where over 50% of the respondents are unsatisfied with the acoustic climate. Only in Lodz and Wroclaw the level of dissatisfaction is markedly lower. An overwhelming dissatisfaction with noise levels compared to the population actually exposed to above-standard noise levels is a consequence of road transport universality. Quantitative development of linear infrastructure in the cities has a knock-on effect in terms of the external operation of this type of transport which can impact whole urban areas.</p>
+         <p>Open public spaces, for instance in the form of green urban areas, have a stronger influence on the individual than single objects [<xref ref-type="bibr" rid="R42">42</xref>]. They are the essence of urban life and favor interaction and integration. Aesthetic and well-operated spaces determine the reception of both the general image and the distinct areas of a city or a region [<xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>].
+</p>
+         <p>An inspection performed over the period 2017-2018 by the Supreme Audit Office (NIK) revealed that the authorities of the cities of Warsaw, Lodz, Wroclaw and Cracow (Poznan was not included in the inspection) effectively managed green urban areas via proper maintenance and development of green spaces, cooperation with local communities, and didactic and communication activities [<xref ref-type="bibr" rid="R45">45</xref>]. This positive view is further developed by the indicator of the share of green spaces in city areas—with the largest of all big Polish cities reported in Poznan and Lodz (Table <xref ref-type="table" rid="Tab1">1</xref>).</p>
+         <fig id="Fig5" position="float" orientation="portrait">
+            <label> Figure 5</label>
+            <caption>
+               <title>Assessment of noise level in the biggest Polish cities in 2018.</title>
+            </caption>
+            <graphic xlink:href="Fig5.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Green urban area [<xref ref-type="bibr" rid="R46">46</xref>].</title>
+            </caption>
+            <table>
+               <tbody>
+                  <tr>
+                     <td align="center"
+                         colspan="2"
+                         style="border-top:1px solid black;"
+                         rowspan="1"><bold>The share of parks, lawns, and green areas of the housing estate areas in the total area</bold></td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Poznan
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              20%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Lodz
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              19%
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Wroclaw
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              18%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Bydgoszcz
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              18%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Warsaw
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              15%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Cracow
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              15%
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bialystok
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              14%
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Moreover, the respondents are also positive about green urban space development and access. At the same time, the vast majority of the respondents wishes that more new areas where they could spend their free time were developed. Of all the respondents, the Warsaw residents are those who desire new parks, woods, and other green spaces the most.</p>
+         <p>The presented results demonstrate that, on the one hand, Polish urban dwellers are not fully satisfied with the quality of their urban environments but, on the other hand, they are the persons most responsible for their condition. The analysis of air quality and acoustic climate reports shows that one of the fundamental and still unsolved problems continues to be individual transport. Many people cannot imagine a life without a car, especially in Poland where it is a luxury good and an indicator of one’s social status. The most glaring example of the issue is the continuously growing motorized transport in the biggest cities [<xref ref-type="bibr" rid="R47">47</xref>]. Nonetheless, the strategies of development of Warsaw, Cracow, Lodz, Poznan, and Wroclaw focus on the non-environment-friendly habits of the city dwellers. It is believed that the state of affairs may be improved by an ecological and effective system of transport, where mass transport is privileged, car traffic in the areas of highest population concentration is radically limited, and environmental awareness of urban communities is developed.</p>
+         <p>The Eurobarometer report—Quality of Life in European Cities 2015—confirms urban dwellers’ dissatisfaction with the quality of the components of ecological security and environment. The studies show that of 79 analyzed European cities, the largest percentage of citizens unsatisfied with air quality can be found in Cracow. What is more, only 50% of Warsaw residents are satisfied with air quality, which reflects poorly on the capital city of Poland when compared to other European cities. In the comparison of resident satisfaction with the noise level, Polish cities once again fail to be best performers. In the year 2015, in Cracow and Warsaw, 54% and 52% city dwellers, respectively, were unsatisfied with the acoustic climates. Solely 8 cities in the case of Cracow and 13 cities in the case of Warsaw turned out to have poorer results [<xref ref-type="bibr" rid="R48">48</xref>].</p>
+         <p>Urban environment security is an overly broad issue. It covers both natural phenomena, where human impact is minimal, levels of urban sustainable development and the attitudes of the city dwellers. Recently, citizen awareness of the importance of environmental challenges in Polish city development has surged, including resident awareness of the desire to live in a cleaner environment and to breathe clean air. To cope with the major environmental risks inherited from the past, one must employ effective, well-though-out, long-term measures which will be ever-present in the general strategies of development of Polish metropolises and which will constitute a reasonable compromise between the interests of various resident groups and diverse developmental needs.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>To ensure that the environmental situation is sufficiently considered is key to sustainable urban development. Green urban spaces, clean air, good acoustic climates, and low-emission urban transport are critical to making the city a friendly place to live.</p>
+         <p>City development in line with the principles of sustainable development requires efficient space management. This efficiency is achieved through settlement densification and a simultaneous diversification of the compound area use. A vital element in the development of ecological security of the city is the assurance of adequate proportions between the investment areas and bio-active areas [<xref ref-type="bibr" rid="R49">49</xref>] Green surroundings are undeniable assets of every real estate. The so-called designated green urban areas facilitate physical activity, relaxation, promote health and aesthetics. They affect the quality of life and maintain important biodiversity in nature.</p>
+         <p>Indices determining air quality and the related indicator of the effect on climate change refer only to particulate and gaseous emissions of particularly adverse plants.</p>
+         <p>The measurement results of the acoustic climate and the air quality show how much work has to be done in the future to improve life in the city. The residents’ assessment of those elements of the environment also expressly indicates that they are not satisfied of the conditions in which they live.</p>
+         <p>The topic arises more and more often in public debate, above all during periods of peak contaminant concentrations. That problem is especially noticeable in Polish cities. According to the report by IQAir, the Swiss monitoring platform, out of the 100 worst cities in terms of air quality in Europe 29 cities are located in Poland and 24—in Italy. To make the scale of the problem more obvious, it is worth adding that in the IQAir ranking Poland occupies the 10<inline-formula>
+               <mml:math id="S7.p5.m1"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+         </inline-formula> place in Europe (18.7 μg/m<sup>3</sup>) with regard to the highest average pollution across the country [<xref ref-type="bibr" rid="R50">50</xref>].</p>
+         <p>The situation serves as a stimulus for citizens to mobilize, often through various social movements and for local governments to take actions oriented at changing the methods of domestic heating, more eco-friendly mobility, and enhancing the environmental education of society. The problem affecting all cities is the growing number of vehicles, exceeding the capacity of existing road systems.</p>
+         <p>Poland is one of the most motorized European countries. With the factor of 571 cars per 1000 citizens, it takes a place high above the EU average, which is 505 cars per 1000 citizens. That high value results mainly from the motorization of the inhabitants of large cities. In Warsaw, it is over 700 cars per 1000 residents, in Krakow, Poznań, and Wrocław—over 600 cars per 1000 residents. Unfortunately, that value grows each year, which is a clear evidence of great faults of the urban transport model and civilizational backwardness. To compare, the number of cars in German cities is constantly dropping. In 2002, there were 365 cars per 1000 citizens in Berlin, 318 in 2009, and 289 in 2018. In Hamburg, there were 402 cars per 1000 residents in 2009, and 331 in 2018 [<xref ref-type="bibr" rid="R51">51</xref>]. It is worth remembering that it is residents of urban areas that are responsible for living conditions. To compare, in the cities with low motorization index and energy derived from renewable resources residents are satisfied with environmental conditions. For example, in Hamburg as many as 82% of residents are satisfied with the air quality, and 72% with the acoustic climate [<xref ref-type="bibr" rid="R48">48</xref>]. In Groningen, where over 60% of journeys within the city are made by bike [<xref ref-type="bibr" rid="R52">52</xref>], 92% of the community is satisfied with the air quality and 85% with the acoustic climate [<xref ref-type="bibr" rid="R48">48</xref>].</p>
+         <p>It is addressed via the implementation of measures aimed at sustainable urban transport development, such as the promotion and extension of public transport, Park &amp; Ride system development, interchange centers (hubs) and the popularization of bicycle and tram transportation. The adoption of the ‘‘Plan of electro-mobility development’’ by the Polish government in March 2017, the main objective of which is to create conditions for the development of this area in Poland, was a vital step [<xref ref-type="bibr" rid="R53">53</xref>].</p>
+         <p>The largest Polish cities are facing many challenges for ecological security and, therefore, the quality of life. Local government authorities should promote pro-environmental behaviours and support local initiatives; on the other hand, they should also make decisions conditioning citizens’ behaviours where necessary (such decisions may often be unfavourable to the community).</p>
+         <p>Another important factor in the shaping of the image and attractiveness of cities has been the establishment of green spaces, including protected areas, forests and or designated green spaces. Green additions to urban areas increase both city landscape qualities as well as the quality of life of city dwellers. Nowadays, in Polish cities we can observe a high degree of space tightening which is a consequence of urbanization and poses a serious challenge to urban centers. The monitored cities are aware of the role green spaces play in their structure and regularly implement actions aimed at revitalizing degraded and post-industrial areas through the planting of trees, bushes, and creation of flowerbeds (Warsaw). Attractive novel solutions which have been applied of late take the forms of woonderfs (living streets), pocket parks and flower-rich grasslands (Lodz, Cracow, Wroclaw).</p>
+         <p>The assurance of good levels of ecological security is an obligation under the Polish law. Today’s environmental challenges prompt the mobilization of many entities in various spheres of life. Their actions, in accordance with the premise of continuous sustainable development, are supported by administration units of different regions, local and regional authorities, in consultation with the community which is increasingly clear about its necessity to enjoy access to a high-quality environment.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgments</title>
+         <p>The research was carried out under the research theme No. 501/18/S financed from by a science grant provided by the Ministry of Science and Higher Education of Poland.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>World Urbanization Prospects</article-title>
+               <publisher-loc>New York, New York, USA</publisher-loc>
+               <year>2019</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://population.un.org/wup/Publications/Files/WUP2018-Report.pdf"
+                         xlink:type="simple">https://population.un.org/wup/Publications/Files/WUP2018-Report.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Modeling the Optimal Ecological Security Pattern for Guiding the Urban Constructed Land Expansions</article-title>
+               <source>Urban Forestry &amp; Urban Greening</source>
+               <volume>19</volume>
+               <fpage>35</fpage>
+               <lpage>46</lpage>
+               <year>2016</year>
+               <pub-id pub-id-type="doi">10.1016/j.ufug.2016.06.013</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Su</surname>
+                     <given-names>Yongxian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Xiuzhi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liao</surname>
+                     <given-names>Jishan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Hongou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Changjian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ye</surname>
+                     <given-names>Yeyao</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Yang</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Evaluation of Noise Pollution Related to Human Perception in a University Campus in Brazil</article-title>
+               <source>Applied Acoustics</source>
+               <volume>157</volume>
+               <fpage>107023</fpage>
+               <year>2020</year>
+               <pub-id pub-id-type="doi">10.1016/j.apacoust.2019.107023</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barboza-de Souza, Thaísa</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chaves-Alberto, Klaus</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andrade-Barbosa, Sabrina</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Relationship between Transportation Noise Exposure and Ischemic Heart Disease: A Meta-analysis</article-title>
+               <source>Environmental Research</source>
+               <volume>138</volume>
+               <fpage>372</fpage>
+               <lpage>380</lpage>
+               <year>2015</year>
+               <pub-id pub-id-type="doi">10.1016/j.envres.2015.02.023</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vienneau</surname>
+                     <given-names>Danielle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schindler</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Perez</surname>
+                     <given-names>Laura</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Probst-Hensch, Nicole</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Röösli</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Road Traffic Noise, Air Pollution and Cardiovascular Events in a Swedish Cohort</article-title>
+               <source>Environmental Research</source>
+               <volume>185</volume>
+               <fpage>109446</fpage>
+               <year>2020</year>
+               <pub-id pub-id-type="doi">10.1016/j.envres.2020.109446</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andersson</surname>
+                     <given-names>Eva M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ögren</surname>
+                     <given-names>Mikael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Molnár</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Segersson</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rosengren</surname>
+                     <given-names>Annika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stockfelt</surname>
+                     <given-names>Leo</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>Environmental Noise Guidelines for the European Region (2018)</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.euro.who.int/en/publications/abstracts/environmental-noise-guidelines-for-the-european-region-2018"
+                         xlink:type="simple">https://www.euro.who.int/en/publications/abstracts/environmental-noise-guidelines-for-the-european-region-2018</ext-link>
+               <publisher-loc>København, Copenhagen, DK</publisher-loc>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Średni wiek samochodów w Europie. Polska znacznie powyżej średniej [Average age of cars in Europe. Poland well above the average]</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://tvn24.pl/biznes/moto/sredni-wiek-samochodow-w-polsce-i-w-europie-ra978789-4508852</uri>.
+        </comment>
+               <source>Tvn24</source>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kuchcik</surname>
+                     <given-names>Magdalena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Milewski</surname>
+                     <given-names>Paweł</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Zanieczyszczenie powietrza w Polsce—stan, przyczyny i skutki [Air Pollution in Poland—Condition, Causes and Effects]</article-title>
+               <volume>182</volume>
+               <issue>2</issue>
+               <source>Studia KPZK</source>
+               <publisher-name>Polska Akademia Nauk Komitet Przestrzennego Zagospodarowania Kraju</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://journals.pan.pl/dlibra/show-content?id=107643&amp;"
+                         xlink:type="simple">http://journals.pan.pl/dlibra/show-content?id=107643&amp;</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>People, States and Fear: An Agenda for International Security Studies in the Post-cold War Era</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <isbn>978-0955248818</isbn>
+               <year>2007</year>
+               <publisher-name>ECPR Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sta\'nczyk, Jerzy</surname>
+                  </name>
+               </person-group>
+               <article-title>Istota współczesnego pojmowania bezpieczeństwa—zasadnicze tendencje [The Essence of the Contemporary Understanding of Security— Principal Tendencies]</article-title>
+               <year>2010/2011</year>
+               <volume>5</volume>
+               <source>Rocznik Bezpieczeństwa Międzynarodowego [The Yearbook of International Security]</source>
+               <fpage>15</fpage>
+               <lpage>33</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Siemiatkowski</surname>
+                     <given-names>Piotr</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tomaszewski</surname>
+                     <given-names>Patryk</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jurgilewicz</surname>
+                     <given-names>Oktawia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Poplavska</surname>
+                     <given-names>Zhanna</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <volume>9</volume>
+               <issue>2</issue>
+               <fpage>617</fpage>
+               <lpage>635</lpage>
+               <article-title>Assessment of Basic Elements of the Security System of Local Communities</article-title>
+               <source>Journal of Security and Sustainability Issues</source>
+               <pub-id pub-id-type="doi">10.9770/jssi.2019.9.2(20)</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.18778/8088-490-8.07</pub-id>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://doi.org/10.18778%2F8088-490-8.07"
+                         xlink:type="simple">https://doi.org/10.18778%2F8088-490-8.07</ext-link>
+               <year>2016</year>
+               <publisher-name>Wydawnictwo U\L</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Magdalena Ciepielewska</surname>
+                  </name>
+               </person-group>
+               <article-title>Zr\'ownowa\.zony rozw\'oj miast odpowiedzi\ka na post\kepuj\kace procesy urbanizacyjne [Sustainable urban development as a response to progressing urbanization processes]</article-title>
+               <source>Ekonomia zr\'ownowa\.zonego rozwoju. Spo\lecze\'nstwo, \'Srodowisko, Innowacje w gospodarce [Economics of sustainable development. Society, Environment, Innovations in the economy]</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Urbanizacja natury: w stronę relacyjnej ekologii miejskiej [Urbanization of nature: towards relational urban ecology]</article-title>
+               <volume>60</volume>
+               <issn>0033-2356</issn>
+               <issue>2-3</issue>
+               <source>Przegląd Socjologiczny [Sociological Review]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Miciukiewicz</surname>
+                     <given-names>Konrad</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>167</fpage>
+               <lpage>186</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Akiyode</surname>
+                     <given-names>Oluwole</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>298</fpage>
+               <lpage>304</lpage>
+               <article-title>Urban Environmental Security in Developing Economy Mega-City: A Case Study of Lagos, Nigeria</article-title>
+               <volume>12</volume>
+               <source>Journal for Sustainable Development in Africa Clarion University of Pennsylvania, Clarion</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Bezpieczenstwo mirdzynarodowe w Europie Srodkowej po zimnej wojnie [International security in Central Europe after the Cold War]</chapter-title>
+               <source>Ekologiczne czynniki bezpieczeństwa [Ecological security factors]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kukułka</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kukułka</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9788385838166</isbn>
+               <year>1994</year>
+               <publisher-name>Scholar Agency</publisher-name>
+               <publisher-loc>Warsaw, Poland</publisher-loc>
+               <fpage>106</fpage>
+               <lpage>119</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Czlowiek w srodowisku przyrodniczym i spolecznym: zarys problematyki ekologii spolecznej [Human in the natural and social environment. Outline of the issues of social ecology]</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Albinska</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9788373633049</isbn>
+               <year>2005</year>
+               <publisher-name>Wydawn. KUL</publisher-name>
+               <publisher-loc>Lublin, Poland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>The Hierarchical Basis for Living Systems</chapter-title>
+               <source>Trends in General Systems Theory</source>
+               <year>1972</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mislum</surname>
+                     <given-names>JH.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Klir</surname>
+                     <given-names>GJ</given-names>
+                  </name>
+               </person-group>
+               <fpage>145</fpage>
+               <lpage>187</lpage>
+               <publisher-name>Wiley-Interscience</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Bezpieczenstwo miedzynarodowe—wspolczesne koncepcje [International security—contemporary concepts]</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Czaputowicz</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9788301171131</isbn>
+               <year>2012</year>
+               <publisher-name>Wydawnictwo Naukowe PWN</publisher-name>
+               <publisher-loc>Warsaw, Poland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Linking Ecological Degradation Risk to Identify Ecological Security Patterns in a Rapidly Urbanizing Landscape</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Peng</surname>
+                     <given-names>J AND Pan, Y AND Liu, Y AND Zhao, H AND Wang, Y</given-names>
+                  </name>
+               </person-group>
+               <source>Habitat International</source>
+               <volume>71</volume>
+               <fpage>110</fpage>
+               <lpage>124</lpage>
+               <year>2018</year>
+               <issn>0197-3975</issn>
+               <pub-id pub-id-type="doi">10.1016/j.habitatint.2017.11.010</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Second Green Revolution: Innovative Urban Agriculture's Contribution to Food Security and Sustainability – A Review</article-title>
+               <source>Global Food Security</source>
+               <volume>22</volume>
+               <fpage>13</fpage>
+               <lpage>24</lpage>
+               <year>2019</year>
+               <issn>2211-9124</issn>
+               <pub-id pub-id-type="doi">10.1016/j.gfs.2019.08.002</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Armanda</surname>
+                     <given-names>Dian T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guinée</surname>
+                     <given-names>Jeroen B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tukker</surname>
+                     <given-names>Arnold</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>``Measurement Drives Diagnosis and Response'': Gaps in Transferring Food Security Assessment to the Urban Scale</article-title>
+               <source>Food Policy</source>
+               <volume>74</volume>
+               <fpage>117</fpage>
+               <lpage>125</lpage>
+               <year>2018</year>
+               <issn>0306-9192</issn>
+               <pub-id pub-id-type="doi">10.1016/j.foodpol.2017.12.001</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haysom</surname>
+                     <given-names>Gareth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tawodzera</surname>
+                     <given-names>Godfrey</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Conceptualizing Urban Water Security in an Urbanizing World</article-title>
+               <source>Current Opinion in Environmental Sustainability</source>
+               <volume>21</volume>
+               <fpage>45</fpage>
+               <lpage>51</lpage>
+               <year>2016</year>
+               <issn>1877-3435</issn>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Romero-Lankao, Patricia</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gnatz</surname>
+                     <given-names>Daniel M</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2016.11.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Directive 2002/49/EC of the European Parliament and of the Council of 25 June 2002 relating to the assessment and management of environmental noise - Declaration by the Commission in the Conciliation Committee on the Directive relating to the assessment and management of environmental noise.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Air Pollution: Our Health still Insufficiently Protected</article-title>
+               <publisher-name>European Court of Auditors</publisher-name>
+               <comment>23</comment>
+               <year>2018</year>
+               <publisher-loc>Rue Alcide de Gasperi, Luxembourg, LU</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.eca.europa.eu/Lists/ECADocuments/SR18\_23/SR\_AIR\_QUALITY\_en.pdf"
+                         xlink:type="simple">https://www.eca.europa.eu/Lists/ECADocuments/SR18\_23/SR\_AIR\_QUALITY\_en.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Bezpieczenstwo ekologiczne w Europie [Ecological security in Europe]</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pietras</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9788322708408</isbn>
+               <year>1996</year>
+               <publisher-name>Uniwersytetu Marii Curie-Sklodowskiej</publisher-name>
+               <publisher-loc>Lublin, Poland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Voula</surname>
+                     <given-names>Mega</given-names>
+                  </name>
+               </person-group>
+               <article-title>Our City, Our Future: towards Sustainable Development in European Cities</article-title>
+               <source>Environment and Urbanization</source>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>133</fpage>
+               <lpage>154</lpage>
+               <year>1996</year>
+               <pub-id pub-id-type="doi">10.1177/095624789600800111</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hens</surname>
+                     <given-names>Luc</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1007/s10668-010-9259-3</pub-id>
+               <issn>1573-2975</issn>
+               <source>Environment, Development and Sustainability</source>
+               <issue>6</issue>
+               <fpage>875</fpage>
+               <lpage>876</lpage>
+               <article-title>The Challenge of the Sustainable City</article-title>
+               <volume>12</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Akiyode</surname>
+                     <given-names>Oluwole</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tumushabe</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Abdu</surname>
+                     <given-names>Yusuf</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <month>12</month>
+               <fpage>24</fpage>
+               <lpage>30</lpage>
+               <article-title>Urban Environmental Security in a Continuously Growing City in Sub-Saharan Africa in the Climate Change Era: A Case of Kampala, Uganda</article-title>
+               <volume>3</volume>
+               <source>American Journal of Environmental Policy and Management</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>EU Air Pollution Regulation: A Breath of Fresh Air for Eastern European Polluting Industries?</article-title>
+               <source>Journal of Environmental Economics and Management</source>
+               <volume>83</volume>
+               <fpage>145</fpage>
+               <lpage>163</lpage>
+               <year>2017</year>
+               <issn>0095-0696</issn>
+               <pub-id pub-id-type="doi">10.1016/j.jeem.2016.12.003</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bagayev</surname>
+                     <given-names>Igor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lochard</surname>
+                     <given-names>Julie</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Air Quality in Europe</article-title>
+               <publisher-name>European Environment Agency</publisher-name>
+               <year>2012</year>
+               <comment>4</comment>
+               <publisher-loc>Copenhagen, DK</publisher-loc>
+               <pub-id pub-id-type="doi">10.2800/55823</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.gios.gov.pl/pl/stan-srodowiska/raporty-o-stanie-srodowiska"
+                         xlink:type="simple">http://www.gios.gov.pl/pl/stan-srodowiska/raporty-o-stanie-srodowiska</ext-link>
+               <year>2018</year>
+               <article-title>State of Environment in Poland</article-title>
+               <publisher-name>Chief Inspectorate of Environmental Protection</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.transport-publiczny.pl/wiadomosci/warszawa-za-6080-zanieczyszczen-odpowiada-transport-drogowy-54015.html</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Urbanowicz</surname>
+                     <given-names>W</given-names>
+                  </name>
+               </person-group>
+               <article-title>Warszawa: Za 60\%-80\% zanieczyszczeń odpowiada transport drogowy [Road transport is responsible for 60\%-80\% of pollution]</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Hałaśliwość nawierzchni betonowych—przykładowe wyniki badań [Noisiness of the cement concrete pavements—results of studies]</article-title>
+               <volume>10</volume>
+               <issn>0012-6357</issn>
+               <source>Drogownictwo [Road Engineering]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gardziejczyk</surname>
+                     <given-names>W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gierasimiuk</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Motylewicz</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>319</fpage>
+               <lpage>326</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>High-resolution Assessment of Road Traffic Noise Exposure in Denmark</article-title>
+               <source>Environmental Research</source>
+               <volume>182</volume>
+               <fpage>109051</fpage>
+               <year>2020</year>
+               <issn>0013-9351</issn>
+               <pub-id pub-id-type="doi">10.1016/j.envres.2019.109051</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Thacher</surname>
+                     <given-names>Jesse D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Poulsen</surname>
+                     <given-names>Aslak H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Raaschou-Nielsen, Ole</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jensen</surname>
+                     <given-names>Allan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hillig</surname>
+                     <given-names>Kristine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Roswall</surname>
+                     <given-names>Nina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hvidtfeldt</surname>
+                     <given-names>Ulla</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jensen</surname>
+                     <given-names>Steen S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Levin</surname>
+                     <given-names>Gregor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Valencia</surname>
+                     <given-names>Victor H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sørensen</surname>
+                     <given-names>Mette</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Dataset on the Road Traffic Noise Measurements in the Municipality of Thessaloniki, Greece</article-title>
+               <source>Data in Brief</source>
+               <volume>29</volume>
+               <fpage>105214</fpage>
+               <year>2020</year>
+               <issn>2352-3409</issn>
+               <pub-id pub-id-type="doi">10.1016/j.dib.2020.105214</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Begou</surname>
+                     <given-names>Paraskevi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kassomenos</surname>
+                     <given-names>Pavlos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kelessis</surname>
+                     <given-names>Apostolos</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>Night Noise Guidelines for Europe</article-title>
+               <publisher-loc>Copenhagen, DK</publisher-loc>
+               <year>2009</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.euro.who.int/\_\_data/assets/pdf\_file/0017/43316/E92845.pdf?ua=1"
+                         xlink:type="simple">http://www.euro.who.int/\_\_data/assets/pdf\_file/0017/43316/E92845.pdf?ua=1</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Act of 27 April 2001 Environmental Protection Law. Journal of Laws of 2001 no 62 item 627, as amended</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Poznaj mapę akustyczną Warszawy [Discover the acoustic map of Warsaw]</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">http://mapaakustyczna.um.warszawa.pl/pl/</uri>.
+        </comment>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Mapa akustyczna Miasta Krakowa [Acoustic map of the City of Krakow]</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.krakow.pl/encyklopedia_krakowa/13140,artykul,mapa\_akustyczna\_miasta\_krakowa.html</uri>.
+        </comment>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Mapa akustyczna 2017 [Acoustic Map 2017]</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.poznan.pl/mim/wos/mapa-akustyczna-2017,p,11105,40435.html</uri>.
+        </comment>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>System Informacji Przestrzennej Wroclawia [Wroclaw Spatial Information System]</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://geoportal.wroclaw.pl/mapy/akustyczna/</uri>.
+        </comment>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Prawno-siedliskowe aspekty zarządzania parkami miejskimi [Law-environmental aspects of management with urban parks]</article-title>
+               <volume>30</volume>
+               <issn>2082-5501</issn>
+               <issue>103</issue>
+               <source>Zeszyty Naukowe Uniwersytetu Przyrodniczo-Humanistycznego w Siedlcach. Administracja i Zarządzanie [The Scientific Papers of the Siedlce University of Natural Sciences and Humanities, Series: Administration and Management]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jankowski</surname>
+                     <given-names>Kazimierz</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Truba</surname>
+                     <given-names>Milena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wyrebek</surname>
+                     <given-names>Henryk</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cisek</surname>
+                     <given-names>Marek</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>39</fpage>
+               <lpage>47</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sutkowska</surname>
+                     <given-names>Eliza</given-names>
+                  </name>
+               </person-group>
+               <article-title>Współczesny kształt i znaczenie zieleni miejskiej jako zielonej przestrzeni publicznej w strukturze miasta—przestrzeń dla kreacji [Contemporary form and significance of town green areas as green public space in urban structure—a place for creation]</article-title>
+               <source>Teka Komisji Architektury, Urbanistyki i Studiów Krajobrazowych [TEKA Commission of Architecture, Urban planning and Landscape Studies]</source>
+               <volume>2</volume>
+               <year>2006</year>
+               <fpage>184</fpage>
+               <lpage>192</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Zielona infrastruktura jako wielozadaniowe narzędzie zrównoważonego rozwoju [Green infrastructure as a multifunctional tool of sustainable development]</article-title>
+               <issn>2082-4793</issn>
+               <pub-id pub-id-type="doi">10.25167</pub-id>
+               <issue>27</issue>
+               <source>Studia Miejskie [Urban Studies]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Puzdrakiewicz</surname>
+                     <given-names>Krystian</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>155</fpage>
+               <lpage>174</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Urban Greenery Management</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.nik.gov.pl/plik/id,15863,vp,18378.pdf</uri>.
+        </comment>
+               <year>2017</year>
+               <institution>Supreme Audit Office</institution>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.portalsamorzadowy.pl/gospodarka-komunalna/oto-polskie-miasta-posiadajace-najwiecej-zieleni-tu-chcemy-mieszkac,125622.html</uri>.
+        </comment>
+               <year>2019</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jakubowski</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <article-title>Oto polskie miasta posiadające najwięcej zieleni—Tu chcemy mieszkać [Polish cities with the most greenery—We want to live here]</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>System transportu miejskiego wobec zrównoważonego rozwoju [System of city transport towards sustainable development]</article-title>
+               <issn>2082-4793</issn>
+               <pub-id pub-id-type="doi">10.25167</pub-id>
+               <issue>30</issue>
+               <source>Urban Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Korneć</surname>
+                     <given-names>Radosław</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <fpage>71</fpage>
+               <lpage>84</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://op.europa.eu/en/publication-detail/-/publication/b78cdfb8-c32f-11e5-8d08-01aa75ed71a1/language-en"
+                         xlink:type="simple">https://op.europa.eu/en/publication-detail/-/publication/b78cdfb8-c32f-11e5-8d08-01aa75ed71a1/language-en</ext-link>
+               <year>2015</year>
+               <publisher-loc>Brussels, Auderghem, BE</publisher-loc>
+               <publisher-name>European Commission</publisher-name>
+               <article-title>Quality of Life in European Cities 2015</article-title>
+               <pub-id pub-id-type="doi">10.2776/870421</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Znaczenie terenów zielonych w przestrzeni publicznej oraz ich wpływ na jakość życia miejskiego [The Importance of Green Areas in Public Places and their Impact on the Quality of Urban Life]</article-title>
+               <issn>2449-948X</issn>
+               <issue>1(9)</issue>
+               <source>Rynek - Społeczeństwo - Kultura [Market – Society – Culture]</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chojecka</surname>
+                     <given-names>Agnieszka</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>48</fpage>
+               <lpage>54</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.iqair.com/world-most-polluted-cities?continent=59af92ac3e70001c1bd78e52</uri>.
+        </comment>
+               <year>2019</year>
+               <institution>IQAir</institution>
+               <article-title>World's most Polluted Cities 2019 (PM2.5)</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://oko.press/monokultura-samochodowa-dobija-polskie-miasta-jest-coraz-gorzej-ale-politycy-tkwia-w-spalinowej-bance/</uri>.
+        </comment>
+               <year>2019</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pacholski</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Oko. Press</publisher-name>
+               <article-title>Monokultura samochodowa dobija polskie miasta. Jest coraz gorzej, ale politycy tkwią w spalinowej bańce [Car monoculture is finishing Polish cities. It gets worse and politicians are stuck in it]</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Groningen: Opowieść o cichym mieście pełnym rowerów [Groningen: A story about a quiet city full of bicycles]</article-title>
+               <institution>Popidea</institution>
+               <source>Miasto 2077</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.miasto2077.pl/groningen-opowiesc-o-cichym-miescie-pelnym-rowerow/"
+                         xlink:type="simple">https://www.miasto2077.pl/groningen-opowiesc-o-cichym-miescie-pelnym-rowerow/</ext-link>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">http://bip.me.gov.pl/files/upload/26453/Plan\%20Rozwoju\%20Elektromobilno\%C5\%9Bci.pdf</uri>.
+        </comment>
+               <year>2020</year>
+               <institution>Ministry of Energy</institution>
+               
+               <publisher-loc>Warsaw, Poland</publisher-loc>
+               <article-title>Plan Rozwoju Elektromobilności w Polsce [Electromobility Development Plan in Poland]</article-title>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
