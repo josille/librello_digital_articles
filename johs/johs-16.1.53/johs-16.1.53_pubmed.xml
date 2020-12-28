@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16010053</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Editorial</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Plagues, Pandemics, Health Security, and the War on Nature</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Butler</surname>
+                  <given-names>Colin</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>The Australian National University, Canberra, Australia</aff>
+         <pub-date pub-type="ppub">
+            <day>18</day>
+            <month>12</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>1</issue>
+         <fpage>53</fpage>
+         <lpage>57</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This editorial presents a brief review of pandemics from antiquity to COVID-19. Although all large-scale epidemic diseases ("pandemics") can be considered ecological "checks" on human population size, and although COVID-19 is the biggest such pandemic since HIV/AIDS emerged it is not likely to approach the deathtoll of earlier pandemics, such as the plague. There are two major hypotheses to explain the origin of COVID-19. One is the "natural origin" hypothesis, the other is that it might have escaped from a laboratory, with its origin subsequently hidden. Although most scientists support the natural origin idea the other cannot yet be dismissed. Evidence for each hypothesis is presented. If the first theory is correct then it is a powerful warning, from nature, that our species is running a great risk. If the second theory is proven then it should be considered an equally powerful, indeed frightening, signal that we are in danger, from hubris as much as from ignorance. More pandemics are inevitable, but their severity can be reduced by greater transparency, international co-operation, and retreat from planetary boundaries.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>bats</kwd>
+            <kwd>China</kwd>
+            <kwd>COVID-19</kwd>
+            <kwd>ecology</kwd>
+            <kwd>health</kwd>
+            <kwd>medical history</kwd>
+            <kwd>limits</kwd>
+            <kwd>security</kwd>
+            <kwd>pandemics</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- COVID-19 and Other Recently Discovered Zoonoses</title>
+         <p>Zoonoses (defined here as pathogens that have spread from other animal species to humans) recognised in the last 70 years cause diseases including Ebola, Human Immunodeficiency Virus (HIV), Lassa, Marburg, Nipah, Severe Acute Respiratory Syndrome (SARS) and Middle Eastern Respiratory Syndrome (MERS), as well as COVID-19, whose causal agent is the virus named SARS-CoV-2. Compared to historic pestilences, the global death toll of COVID-19, though now over a million, is minor. Unlike previous plagues, COVID-19 has emerged in an age of vaccines, antibiotics, and sophisticated epidemiology. But, without a vaccine, COVID-19 seems likely to become endemic, posing a perennial threat, not only to the elderly and people with pre-existing conditions, but to younger people who risk developing chronic manifestations, including cardiac, renal and neurological effects.</p>
+         <p>There is great concern, some of it overstated, that zoonotic pathogens have global pandemic potential. For example, all of the pathogens mentioned above, other than HIV, are listed by the World Health Organization (WHO) as priority diseases, claimed to “pose the greatest public health risk due to their epidemic potential and/or whether there is no or insufficient countermeasures” [<xref ref-type="bibr" rid="R08">8</xref>]. However, of this WHO list, only COVID-19 and MERS are known to be transmitted by asymptomatic patients, and of these, only COVID-19 is easily transmitted by aerosols. The other zoonoses in this list are highly contagious and have high mortality but are less problematic from a public health perspective because, with proper barrier nursing and strict infection control, they “burn out” [<xref ref-type="bibr" rid="R09">9</xref>]. Note, however, that before SARS was brought under control almost 8,000 people were infected, of whom about 800 died.</p>
+         <p>COVID-19 causes justifiable fear not only because it has no vaccine and no proven treatment (yet), but also because it shares, with influenza, HIV/AIDS and a small number of other pathogens a “stealth” capacity, enabling it to spread from people who are either completely asymptomatic, or whose infections may be hidden to others. This makes it far harder to control than other newly discovered viral zoonoses, including SARS and Nipah virus [<xref ref-type="bibr" rid="R09">9</xref>].</p>
+         <p>Apart from HIV/AIDS, historical plagues long precede the contemporary global crisis, which is marked by extreme stratification, plummeting biodiversity and worsening climate change. Two planetary boundaries have already been exceeded. It may thus not be accurate to attribute devastating infectious diseases solely, or even mostly, to the “war on nature”, the plundering of planetary resources for the alleged benefit of one species, humans [<xref ref-type="bibr" rid="R10">10</xref>]. On the other hand, zoonoses have only affected humans in significant numbers since plant and animal domestication and other manifestations of human ingenuity that enabled densely inhabited human settlements. While most experts date the beginning of the Anthropocene to the 18<inline-formula>
+               <mml:math id="S3.p4.m1"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> century or later, Ruddiman and his colleagues have long argued for a much earlier date, perhaps 7,000 years ago [<xref ref-type="bibr" rid="R11">11</xref>]. All major infectious diseases that have affected humans have not only occurred in this period, in a time when humans have increasingly transformed nature, but also laboratory ingenuity, though not necessarily laboratory wisdom [<xref ref-type="bibr" rid="R07">7</xref>, <xref ref-type="bibr" rid="R12">12</xref>].</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- The Natural Origin Theory for the Emergence of SARS and COVID-19</title>
+         <p>There are two major hypotheses to explain the origin of COVID-19. One is the “natural origin” hypothesis, the other is that it might have escaped from a laboratory, with its origin subsequently hidden.</p>
+         <p>Most recently recognised zoonoses have been facilitated by factors associated either with falling biodiversity or intensive farming, especially of chickens and pigs. These ecological determinants include deforestation, and the hunting, slaughtering, smuggling, trading and farming of wild animals, from chimpanzees to pangolins and civet cats. Climate change may also be an element, such as via heat waves and other forms of stress, including pregnancy and poor nutrition, that might increase viral “spillover” from bats and rodents to other species [<xref ref-type="bibr" rid="R13">13</xref>].
+</p>
+         <p>Social factors, especially poverty and exploitation, are also relevant. High population density, where many people share a single dwelling, is an important risk factor, as is the common practice of a single shared toilet for many slum dwellers, such as in India. Crowded public transport is a setting for COVID-19 transmission. On the other hand, enormous, densely packed cities may not necessarily be at very high risk, if housing is of sufficient standard and there are alternatives for commuting, such as the internet.</p>
+         <p>The average level of wealth and the degree of stratification are also important. A highly egalitarian population where most people are poor does not provide protection, and is likely at greater threat than a stratified population with high average wealth. However, many cities are highly stratified, with people living in pockets of affluence alongside poverty and human exploitation. Away from the cities, rural poverty not only helps to motivate legal activities such as participating in deforestation, but illegal acts such as participating in wildlife trafficking.</p>
+         <p>Bats are the reservoir species for many recently discovered viral zoonoses, responsible for diseases including SARS, COVID-19, Nipah and Ebola. The coronavirus that causes SARS is widely considered to have crossed into human populations (in 2002) via the farming of civet cats (and possibly other “exotic” species, such as bamboo rats) in southern China. But for 17 years, despite monitoring and anxiety, nothing quite like SARS emerged again, until late 2019 when an unusual cluster of pneumonia cases, now known as COVID-19, was detected in the central Chinese city of Wuhan. A new strain of coronavirus was rapidly identified by staff at the Wuhan Institute of Virology (WIV), one of China’s most prestigious viral research laboratories. It was, soon after, named SARS-CoV-2.</p>
+         <p>SARS-CoV-2 is generally thought to have evolved and to have entered the human population in a way similar to the causal organism for SARS. Consistent with this hypothesis, the location of the first cases in Wuhan was identified as associated with a local market, where many live animals, different species, were held in close proximity for sale [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>Several early articles speculated that the bridging species (between bats and humans) was a pangolin, one of the world’s most frequently traded mammals, mostly illegally, used not only for food but for its alleged medicinal value. It initially seemed plausible that viruses in infected pangolins might have had opportunities to exchange genetic material <italic>en route</italic> to China, in cages transported by smugglers, where the secretions and breath of stressed, frightened animals, perhaps from different origins, and even of different species, may mix. Alternatively, a new strain could have emerged in a farm, where animals such as civet cats are bred in captivity, also in crowded conditions. However, there is an emerging consensus that the coronaviruses to date identified in pangolins are not sufficiently close to SARS-CoV-2 to be the source, despite intensive searching [<xref ref-type="bibr" rid="R15">15</xref>]. Despite intense effort, the natural origin hypothesis has not yet been further strengthened.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- An Alternative Hypothesis for COVID-19: Laboratory Escape</title>
+         <p>Although most scientists support the natural origin hypothesis an alternative theory for the origin of COVID-19 is slowly gaining interest. It has always been striking that a disease like SARS would emerge in Wuhan, a city more than a thousand kilometres north of tropical Yunnan, where there are larger bat populations and identified natural sources of coronaviruses. However, one plausible route could be via infected animals imported into Wuhan, bringing the virus along. WIV researchers originally asserted that COVID-19 entered humans in a market offering seafood and other animals in Wuhan, which was promptly closed for cleaning and investigation.</p>
+         <p>Curiously, however, samples from living animals in the market (such as of faecal material or swabs) were reportedly not taken. Dr Shi Zhengli, who heads a group that studies bat coronaviruses at the WIV, wrote, in a series of responses to the journal <italic>Science</italic>, that only frozen samples of animals had been taken from the market, and that no coronaviral RNA had been found in them [<xref ref-type="bibr" rid="R16">16</xref>]. More recently, the head of the Chinese Centre for Diseases Control (CDC) denied the fish market as the source, adding that “the novel coronavirus had existed long before” [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+         <p>Many self-published essays on the internet have disputed the natural origin hypothesis. Most such essays suggest that it instead accidentally escaped from the WIV, after either being manipulated in the laboratory, or perhaps because it was already archived there, reaching the wider population after infecting a researcher. The laboratory escape argument is also considered plausible by the U.S. government which, in addition, has suspended its funding of the EcoHealth Alliance [<xref ref-type="bibr" rid="R18">18</xref>] which has reportedly undertaken “gain of function” viral research in China [<xref ref-type="bibr" rid="R19">19</xref>].</p>
+         <p>Circumstantial evidence gives plausibility to this alternative hypothesis. Suspicion is heightened by the opacity and power of the Chinese Communist Party, its almost complete suppression of free speech, and the increasing sense it conveys of feeling besieged by hostile forces. The mother of Dr. Li-Meng Yan,a scientist currently in hiding after being granted asylum in the U.S. (after alleging that SARS-CoV-2 was derived from a laboratory), is reported to have been detained by Chinese authorities [<xref ref-type="bibr" rid="R20">20</xref>]. Such evidence may seem thin, but it is widely known that a deceased Chinese doctor’s attempts to warn of the pandemic were originally suppressed [<xref ref-type="bibr" rid="R20">20</xref>]. It also well accepted that Chinese authorities initially attempted to disguise the outbreak.</p>
+         <p>The provenance of the closest known betacoronavirus to SARS-CoV-2 (a variant called RaTG13, which is 96% similar, meaning that the two strains may share a common ancestor that diverged 20 to 50 years ago) is also curious. Evidence for RaTG13 was found in material collected between 2012 and 2015 from a mine cave near Tongguan town, in Mojiang County, Yunnan, and taken from there to the WIV [<xref ref-type="bibr" rid="R21">21</xref>]. Six miners, of whom 3 died, had worked in this mine in 2012, removing bat guano. The cause of their respiratory illness was hypothesised by the medical team treating them as a viral and fungal co-infection [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>]. This information, reported in a thesis, was scarcely known outside China until revealed in 2020 by activists and then in a single (to date) peer reviewed paper [<xref ref-type="bibr" rid="R23">23</xref>]. The thesis also revealed that several of these cases of pneumonia had been brought to the attention of Zhong Nanshan, one of the most senior doctors in China.</p>
+         <p>The provenance of RaTG13 is striking for several reasons. Firstly, the link between the mine-associated human illnesses and RaTG13 was not officially disclosed until November 17, 2020, in an addendum written by WIV-associated investigators, published in <italic>Nature</italic> [<xref ref-type="bibr" rid="R21">21</xref>], over nine months after the original report of RaTG13, also published in <italic>Nature</italic>, on February 3, 2020 [<xref ref-type="bibr" rid="R14">14</xref>]. The addendum appeared almost one month after Rahalkar and Bahulikar’s paper, which not only discussed the Masters thesis, but which also speculated that RaTG13 was first found in material sampled from the same cave where the miners had acquired their illness [<xref ref-type="bibr" rid="R23">23</xref>]. An earlier paper (published February 2016), also led by WIV researchers, had reported the identification of viruses sourced in material from the mine but had also failed to disclose any human illness [<xref ref-type="bibr" rid="R24">24</xref>]. Yet, as reported in the addendum, the WIV researchers had sampled the Mojiang mineshaft specifically because of its association with miners who had sickened, a fact known to the WIV in 2012 [<xref ref-type="bibr" rid="R21">21</xref>]. These facts demonstrate a reluctance by WIV researchers, ongoing for almost 5 years, to report (at least in internationally available journals) the association between an infection with a case fatality rate of 50% and viruses that they had isolated. The timing of their addendum, which ends this silence, may be coincidence, but can also be interpreted as an attempt to save face, by publishing additional, highly pertinent information, without apology, but when embarrassed by growing awareness of their previous non-disclosure.</p>
+         <p>Adding to the fog, a profile of the senior WIV investigator Dr Shi Zhengli, published in March 2020 in <italic>Scientific American</italic> (final author for the 2016 and 2020 reports) reveals knowledge of six mine-associated cases of pneumonia, two (sic) of whom had died [<xref ref-type="bibr" rid="R25">25</xref>]. This profile does not precisely reveal the source for this information, but creates the impression that such information was given to the reporter by Dr. Shi herself. The report states that <italic>“Shi’s team had been called in to investigate the virus profile of a mineshaft in Yunnan’s mountainous Mojiang County … where six miners suffered from pneumonia like diseases (two of them died). After sampling the cave for a year the researchers discovered a diverse group of coronaviruses in six bat species.”</italic>
+         </p>
+         <p>The profile also states “although the fungus turned out to be the pathogen that had sickened the miners”. This contradicts not only the Masters thesis (which finds that fungal co-infection may have been possible) but also the addendum for which Shi is again final (senior) author which states “We suspected that the patients had been infected by an unknown virus” [<xref ref-type="bibr" rid="R21">21</xref>]. In a longer interview with Shi, conducted by correspondence and published in Science in July 2020, she is asked <italic>“What do you think of the theory that infected people who lived near mines were the index cases and that they travelled to Wuhan?”</italic> Shi answers <italic>“I guess you are referring to the bat cave in Tongguan town in Mojiang county of Yunnan Province. To date, none of nearby residents is infected with coronaviruses”</italic> [<xref ref-type="bibr" rid="R16">16</xref>]. This answer also seems disingenuous.</p>
+         <p>A high-level panel, initiated by WHO, but stated as acting independently, has been formed to investigate the response to the pandemic. Co-chaired by Nobel Laureate Ellen Johnson-Sirleaf and former New Zealand Prime Minister Helen Clark, an advance party of the panel is reported to have spent three weeks in Beijing, in August 2020, but without visiting Wuhan, where the outbreak started. WHO has stated that this first visit is to prepare for a subsequent, larger mission (13 people including Dr Zhong Nanshan). However, WHO was also reported as being vague in response to being asked if this larger task force would even visit Wuhan [<xref ref-type="bibr" rid="R26">26</xref>]. Such procrastination means the trail will be even colder, and casts further doubt on the willingness and capacity of both WHO and the Chinese authorities to uncover the true cause of the outbreak.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Conclusions</title>
+         <p>The proximal origin of COVID-19 is unclear, other than its distal origin in a bat. The natural origin and the laboratory associated theories remain plausible, not only for COVID-19, but even for HIV/AIDS [<xref ref-type="bibr" rid="R07">7</xref>]. If the first theory is correct then it is a powerful warning, from nature, that our species is running a great risk. If the second theories are proven (for either or both pandemics) then it or they should be considered an equally powerful, indeed frightening, signal that we are in danger, from hubris as much as from ignorance.</p>
+         <p>In either case, each hypothesis for the origin of COVID-19 is related to our evolving planetary crisis. More pandemics are inevitable, but their severity can be reduced by greater transparency [<xref ref-type="bibr" rid="R27">27</xref>], international co-operation, and retreat from planetary boundaries.</p>
+      </sec>
+      <sec id="s7">
+         <title>Acknowledgements</title>
+         <p>The author wishes to thank Ro McFarlane, Alex Lautensach and BillyBostickson.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Ecosystems and Human Well-being A Framework for Assessment</chapter-title>
+               <source>Ecosystems and Human Well-being</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>CD</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chambers</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chopra</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dasgupta</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Duraiappah</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kumar</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>colleagues</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Island Press</publisher-name>
+               <year>2003</year>
+               <fpage>71</fpage>
+               <lpage>84</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://pdf.wri.org/ecosystems\_human\_wellbeing.pdf"
+                         xlink:type="simple">http://pdf.wri.org/ecosystems\_human\_wellbeing.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Damme, Wim</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Lerberghe, Wim</surname>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <fpage>511</fpage>
+               <lpage>514</lpage>
+               <article-title>Editorial: Epidemics and Fear</article-title>
+               <volume>5</volume>
+               <source>Tropical Medicine &amp; International Health</source>
+               <pub-id pub-id-type="doi">10.1046/j.1365-3156.2000.00599.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alfani</surname>
+                     <given-names>Guido</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Murphy</surname>
+                     <given-names>Tommy</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>314</fpage>
+               <lpage>343</lpage>
+               <article-title>Plague and Lethal Epidemics in the Pre-Industrial World</article-title>
+               <volume>77</volume>
+               <source>The Journal of Economic History</source>
+               <pub-id pub-id-type="doi">10.1017/S0022050717000092</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>DeWitte</surname>
+                     <given-names>Sharon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Slavin</surname>
+                     <given-names>Philip</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>37</fpage>
+               <lpage>60</lpage>
+               <article-title>Between Famine and Death: England on the Eve of the Black Death—Evidence from Paleoepidemiology and Manorial Accounts</article-title>
+               <volume>44</volume>
+               <source>Journal of Interdisciplinary History</source>
+               <pub-id pub-id-type="doi">10.1162/JINH\_a\_00500</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nunn</surname>
+                     <given-names>Nathan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Qian</surname>
+                     <given-names>Nancy</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>163</fpage>
+               <lpage>88</lpage>
+               <article-title>The Columbian Exchange: A History of Disease, Food, and Ideas</article-title>
+               <volume>24</volume>
+               <source>Journal of Economic Perspectives</source>
+               <pub-id pub-id-type="doi">10.1257/jep.24.2.163</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Spellberg</surname>
+                     <given-names>Brad</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Taylor-Blake, Bonnie</surname>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>3</fpage>
+               <article-title>On the Exoneration of Dr. William H. Stewart: Debunking an Urban Legend</article-title>
+               <volume>2</volume>
+               <source>Infectious Diseases of Poverty</source>
+               <pub-id pub-id-type="doi">10.1186/2049-9957-2-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jain</surname>
+                     <given-names>S L</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>The WetNet: What the Oral Polio Vaccine Hypothesis Exposes about Globalized Interspecies Fluid Bonds: Revisiting the OPV Hypothesis</article-title>
+               <source>Medical Anthropology Quarterly</source>
+               <pub-id pub-id-type="doi">10.1111/maq.12587</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <year>2020</year>
+               <article-title>Prioritizing Diseases for Research and Development in Emergency Contexts</article-title>
+               <institution>World Health Organization</institution>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.who.int/activities/prioritizing-diseases-for-research-and-development-in-emergency-contexts</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>C D</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Pandemic Potential of Zoonoses</article-title>
+               <volume>369</volume>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://science.sciencemag.org/content/369/6502/379/tab-e-letters"
+                         xlink:type="simple">https://science.sciencemag.org/content/369/6502/379/tab-e-letters</ext-link>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hawkins</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Our War against Nature: Ontology, Cognition and A Constricting Paradigm</chapter-title>
+               <source>Human Security in World Affairs: Problems and Opportunities (2nd edition)</source>
+               <publisher-name>Shareable Online Learning Resources</publisher-name>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruddiman</surname>
+                     <given-names>W. F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>He</surname>
+                     <given-names>Feng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vavrus</surname>
+                     <given-names>S J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kutzbach</surname>
+                     <given-names>John E</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <fpage>106386</fpage>
+               <article-title>The Early Anthropogenic Hypothesis: A Review</article-title>
+               <volume>240</volume>
+               <source>Quaternary Science Reviews</source>
+               <pub-id pub-id-type="doi">10.1016/j.quascirev.2020.106386</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Colin and Dixon, Jane and Capon, Anthony</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>511</fpage>
+               <lpage>528</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weiss</surname>
+                     <given-names>RA</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Reflections on the Virulence of Infections: Heirlooms and Temporary Exhibits</chapter-title>
+               <source>Health of People, Places and Planet</source>
+               <publisher-name>ANU Press</publisher-name>
+               <isbn>9781925022407</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+             <institution>United Nations Environment Programme</institution>
+               <article-title>Nature Strikes Back: COVID-19 and the Risk of Future Pandemics</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>C D</given-names>
+                  </name>
+               </person-group>
+               <annotation>
+                  <p>Forth coming</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zhou</surname>
+                     <given-names>Peng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>Xinglou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hu</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Lei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Wei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Si</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhu</surname>
+                     <given-names>Yan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Bei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>H</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Jing</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Luo</surname>
+                     <given-names>Yun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guo</surname>
+                     <given-names>Hua</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jiang</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Ying</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shen</surname>
+                     <given-names>X</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Xi</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>A Pneumonia Outbreak associated with a New Coronavirus of Probable Bat Origin</article-title>
+               <volume>579</volume>
+               <source>Nature</source>
+               <pub-id pub-id-type="doi">10.1038/s41586-020-2012-7</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Choo</surname>
+                     <given-names>Siew Woh</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhou</surname>
+                     <given-names>Jinfeng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tian</surname>
+                     <given-names>Xuechen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhan</surname>
+                     <given-names>Siyuan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Qiang</surname>
+                     <given-names>Shen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Brien, Stephen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tan</surname>
+                     <given-names>Ka Yun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Platto</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koepfli</surname>
+                     <given-names>Klaus</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Antunes</surname>
+                     <given-names>Agostinho</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Are Pangolins Scapegoats of the COVID-19 Outbreak-CoV Transmission and Pathology Evidence?</article-title>
+               <pub-id pub-id-type="doi">10.1111/conl.12754</pub-id>
+               <source>Conservation Letters</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Trump `Owes us an Apology'. Chinese Scientist at the Center of COVID-19 Origin Theories Speaks out</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.sciencemag.org/news/2020/07/trump-owes-us-apology-chinese-scientist-center-covid-19-origin-theories-speaks-out"
+                         xlink:type="simple">https://www.sciencemag.org/news/2020/07/trump-owes-us-apology-chinese-scientist-center-covid-19-origin-theories-speaks-out</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anonymous</surname>
+                  </name>
+               </person-group>
+               <article-title>Wuhan's Huanan Seafood Market a Victim of COVID-19: CDC Director</article-title>
+               <year>2020</year>
+               <publisher-name>Global Times</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.globaltimes.cn/content/1189506.shtml</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>NIH's Axing of Bat Coronavirus Grant a `Horrible Precedent' and might Break Rules, Critics Say</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wadman</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.sciencemag.org/news/2020/04/nih-s-axing-bat-coronavirus-grant-horrible-precedent-and-might-break-rules-critics-say"
+                         xlink:type="simple">https://www.sciencemag.org/news/2020/04/nih-s-axing-bat-coronavirus-grant-horrible-precedent-and-might-break-rules-critics-say</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sirotkin</surname>
+                     <given-names>Karl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sirotkin</surname>
+                     <given-names>Dan</given-names>
+                  </name>
+               </person-group>
+               <article-title>Might SARS-CoV-2 Have Arisen via Serial Passage through an Animal Host or Cell Culture?</article-title>
+               <source>BioEssays</source>
+               <volume>42</volume>
+               <issue>10</issue>
+               <fpage>2000091</fpage>
+               <pub-id pub-id-type="doi">10.1002/bies.202000091</pub-id>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Li Wenliang: Coronavirus Kills Chinese Whistleblower Doctor</article-title>
+                 <institution>British Broadcasting Corporation</institution>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.bbc.com/news/world-asia-china-51403795</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zhou</surname>
+                     <given-names>Peng</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>Xinglou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Xian-Guang</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hu</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Lei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Wei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Si</surname>
+                     <given-names>Hao-Rui</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhu</surname>
+                     <given-names>Yan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Bei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Chao-Lin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Hui-Dong</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Jing</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Luo</surname>
+                     <given-names>Yun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guo</surname>
+                     <given-names>Hua</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jiang</surname>
+                     <given-names>Ren-Di</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liu</surname>
+                     <given-names>Mei-Qin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Ying</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shen</surname>
+                     <given-names>Xu-Rui</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wellentome</surname>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <fpage>1</fpage>
+               <lpage>1</lpage>
+               <article-title>Addendum: A Pneumonia Outbreak Associated with a New Coronavirus of Probable Bat Origin</article-title>
+               <source>Nature</source>
+               <pub-id pub-id-type="doi">10.1038/s41586-020-2951-z</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>The Analysis of Six Patients With Severe Pneumonia Caused By Unknown Viruses</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Xu</surname>
+                     <given-names>L</given-names>
+                  </name>
+               </person-group>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.documentcloud.org/documents/6981198-Analysis-of-Six-Patients-With-Unknown-Viruses.html</uri>.
+        </comment>
+               <year>2013</year>
+                 <institution>Kunming Medical University, China</institution>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rahalkar</surname>
+                     <given-names>Monali</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bahulikar</surname>
+                     <given-names>Rahul</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Lethal Pneumonia Cases in Mojiang Miners (2012) and the Mineshaft Could Provide Important Clues to the Origin of SARS-CoV-2</article-title>
+               <volume>8</volume>
+               <source>Frontiers in Public Health</source>
+               <pub-id pub-id-type="doi">10.3389/fpubh.2020.581569</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ge</surname>
+                     <given-names>Xingyi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>Ning</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Wei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hu</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Bei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Yunzhi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhou</surname>
+                     <given-names>Ji-Hua</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Luo</surname>
+                     <given-names>Chu-Ming</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>Xinglou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wu</surname>
+                     <given-names>Li-Jun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zhang</surname>
+                     <given-names>Yun</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>Zong-Xiao</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shi</surname>
+                     <given-names>Zheng-Li</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>31</fpage>
+               <lpage>40</lpage>
+               <article-title>Coexistence of Multiple Coronaviruses in Several Bat Colonies in an Abandoned Mineshaft</article-title>
+               <volume>31</volume>
+               <source>Virologica Sinica</source>
+               <pub-id pub-id-type="doi">10.1007/s12250-016-3713-9</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Qui</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <article-title>How China's ``Bat Woman'' hunted down viruses from SARS to the new coronavirus</article-title>
+               <year>2020</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.scientificamerican.com/article/how-chinas-bat-woman-hunted-down-viruses-from-sars-to-the-new-coronavirus1/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Failure by WHO Team to Visit Wuhan Sparks Concerns over Virus Probe</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shepherd</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Manson</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smyth</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <source>Financial Times</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ft.com/content/f9dea077-66fb-4734-9d1d-076dc93568e1"
+                         xlink:type="simple">https://www.ft.com/content/f9dea077-66fb-4734-9d1d-076dc93568e1</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Relman</surname>
+                     <given-names>David A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Opinion: To Stop the Next Pandemic, We Need to Unravel the Origins of COVID-19</article-title>
+               <volume>117</volume>
+               <issue>47</issue>
+               <fpage>29246</fpage>
+               <lpage>29248</lpage>
+               <year>2020</year>
+               <pub-id pub-id-type="doi">10.1073/pnas.2021133117</pub-id>
+               <publisher-name>National Academy of Sciences</publisher-name>
+               <issn>0027-8424</issn>
+               <source>Proceedings of the National Academy of Sciences USA</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
