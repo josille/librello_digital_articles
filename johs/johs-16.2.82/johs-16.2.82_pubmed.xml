@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2020.16020082</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Aguu: From Acholi Post War Street Youth and Children to ‘Criminal Gangs’ in Modern Day Gulu City, Uganda</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Divon</surname>
+                  <given-names>Shai</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Owor</surname>
+                  <given-names>Arthur</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Norwegian University of Life Sciences (NMBU), Ås, Norway</aff>
+         <aff id="A3">
+            <label>2</label>Centre for African Research, Gulu City, Uganda</aff>
+         <pub-date pub-type="ppub">
+            <day>24</day>
+            <month>02</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>82</fpage>
+         <lpage>96</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This paper analyses the origin and evolution of the Aguu, a group of street youth/children labelled as a criminal gang operating in the streets of Gulu, Uganda. Based on a series of interviews, focus group discussions, participant observations, archival work and literature review, the paper traces the origin of the Aguu to the conflict in Northern Uganda, and describes the transformation of the Aguu from street youth/children linked to war and displacement to their present day labelling as ‘criminal gang’. Anchored in an analysis based on Assemblage Theory, this paper demonstrates the complexity, multiplicity and fluidity of the Aguu identity as a group whose inception and evolution, both internal and external, occurs through a process of relationship between social, political, economic and infrastructural changes linked to war, culture, aid and politics, affecting present day security discourses in Gulu, Uganda.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Africa</kwd>
+            <kwd>assemblage</kwd>
+            <kwd>crime</kwd>
+            <kwd>cities</kwd>
+            <kwd>development</kwd>
+            <kwd>gangs</kwd>
+            <kwd>post-conflict</kwd>
+            <kwd>security</kwd>
+            <kwd>street youth</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>In July 2014 Human Rights Watch released a report titled ‘Where do you want us to go?’, dealing with abuses against street children in Uganda. The report stated that: ‘Children living on the streets… throughout Uganda’s urban centres face violence and discrimination by police, local government officials, their peers, and the communities in which they work and live’ [<xref ref-type="bibr" rid="R1">1</xref>]. In January 2019, Christine, the daughter of Bishop Nelson Onono Onweng of the Northern Uganda Diocese, was ambushed and stabbed to death in Gulu, the principal town of Northern Uganda, and one of the most important business and commercial hubs of the region [<xref ref-type="bibr" rid="R2">2</xref>]. During the funeral, the Deputy Speaker of the Ugandan Parliament, Honourable Jacob Oulanyah said: ‘What are we doing in our households and communities to ensure that we raise children who respect lives? It saddens me that young people are the ones killing today’. The murder of Christine Anyeko was carried out by ‘street goons’ [<xref ref-type="bibr" rid="R3">3</xref>], or, as they are dubbed in the local youth language in Gulu: the <italic>Aguu</italic>.</p>
+         <p>The local ‘youth language’ in Gulu is an Acholi-based linguistic practice called the <italic>Leb pa Bwulu</italic> [<xref ref-type="bibr" rid="R4">4</xref>]. The language was established by youth who found themselves in the streets during and after the period of the civil war between the Ugandan People’s Defence Force (UPDF) and the Lord’s Resistance Army (LRA) [<xref ref-type="bibr" rid="R5">5</xref>]. The <italic>Aguu</italic>, as they initially referred to themselves, is a term that denotes an association with a socially isolated group struggling to subsist within the pre-established norms, conventions, and rules of society as they are defined in the context of Northern Uganda, Gulu municipality, and the Acholi ethnic group. Literally translated, the term <italic>Aguu</italic> is a reference to people ‘who would do anything to get by’ [<xref ref-type="bibr" rid="R6">6</xref>].</p>
+         <p>The <italic>Aguu</italic> in the streets of Gulu can be conceptualised in a variety of ways. They can be viewed as children and youth, victims of dire circumstances, that find themselves living in and/or off the streets of Gulu. They can be viewed as youth/children who made a conscious choice to leave their homesteads for various reasons and head to the streets of Gulu. They can be viewed as individuals who resorted to illicit activities as a livelihood strategy; as thugs who prey on by-passers and snatch their valuables; or as organised gangs that engage in coordinated criminal activities, and as criminals-for-hire, used as pawns in a variety of small and large conflicts for purposes of coercion, punishment, self-interest, or revenge. In a theoretical sense, the <italic>Aguu</italic> can be conceptualised as a group living on the boundary between what is considered normative and non-normative social behaviour in Acholi society and Gulu town [<xref ref-type="bibr" rid="R7">7</xref>].</p>
+         <p>This article focuses on human (in)security as a function of complex social, cultural and political circumstances in Northern Uganda. The particular emphasis of this article is on the relationship between the <italic>Aguu</italic> external and internal identity, their labelling as a youth criminal organisation, and a variety of social, security, cultural and political discourses in Gulu town about crime, safety, security and street youth/children. The aim of the article is to highlight the complexity and multiplicity of the <italic>Aguu</italic>, and the label ‘street gang’ assigned to them. Based on a series of interviews, participant observation, focus group discussions, and archival work conducted in Gulu between 2018-2019, undertaken as part of a larger project focusing on community-oriented policing in Northern Uganda [<xref ref-type="bibr" rid="R8">8</xref>], this article nuances the local socio-political dynamics around street youth/children in Gulu.</p>
+         <p>To understand the processes of formation and transformation of the <italic>Aguu</italic> identity as a part of the socio-political discourses on crime and (in)security in Gulu, this article will proceed as follows: we begin by outlining the intellectual and theoretical framework linking Assemblage Theory to the analysis of youth criminal gangs, and then present the methodology and ethics for this research. We trace the origins of the <italic>Aguu</italic> and how their identity today is presented by different stakeholders in Gulu. We then introduce the make-up, organisation, leadership, and activities of the <italic>Aguu</italic> as recounted both by members of the <italic>Aguu</italic> and by other stakeholders in Gulu. We proceed with an analysis and discussion of the <italic>Aguu</italic> and the complexity of their shifting identities as part of various discursive and non-discursive multiplicities linked to crime, human security, and discourses of ‘deviance’ in Gulu. And finally, we conclude this article with a note on limitations, implications, and future research.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Assemblage, the <italic>Aguu</italic>, and (In)security in Gulu</title>
+         <p>This research was conducted in 2018-2019, while Gulu was undergoing major physical and institutional changes towards achieving the status of a City in Uganda [<xref ref-type="bibr" rid="R9">9</xref>]. During that period, when asked about the sources of crime in the streets of Gulu, the police, government officials, and members of the community at large, raised the <italic>Aguu</italic> and their activities as one of the major sources of insecurity. The designation ‘youth street gang’ in relation to the <italic>Aguu</italic> is common in modern day Gulu, and several categories of respondents referred to the <italic>Aguu</italic> as what seemed to designate a coherent entity which they labelled as (youth/children) ‘street gang’ and one of the main reasons for crime, disruption, and violence in contemporary Gulu. As the discourses about the <italic>Aguu</italic> and their identity included references to the civil-war and to street youth and children in the streets of Gulu as a function of the conflict, it became increasingly clear that the meaning of <italic>Aguu</italic>, as well as the identity of its ‘members’ is rather multiple and complex.</p>
+         <p>In this paper, we draw from the work of Deluze and Guattari on Assemblage Theory, and subsequent work on the interpretation and application of the theory by scholars such as DeLanda and Buchanan [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>], to analyse the formation and re-formulation processes of the <italic>Aguu</italic>. Assemblage Theory has been applied for the analysis of a wide variety of complex societal contexts, including for the analysis of multiplicity and complexity in security studies [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>], policy analysis [<xref ref-type="bibr" rid="R18">18</xref>], criminology, phenomenology, discourse studies, urban studies, street youth and gangs [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>].</p>
+         <p>Before we outline the main tenants of the Assemblage approach, we begin by problematising the concept of the ‘gang’ as an ‘entity’ to better understand the challenges around the common labelling of the <italic>Aguu</italic> as a homogenous group regarded as a ‘gang’ by various groups of stakeholders in Gulu.</p>
+         <sec id="s2.1">
+            <title>2.1.- Problematising ‘Gang’</title>
+            <p>The criminologist Don Crewe directs attention towards the fact that the term ‘gang’ is an essentialisation created by external definitions that objectify and simplify the observance of a an <italic>eidos</italic>: a surface, an appearance, or a phenomenon ([<xref ref-type="bibr" rid="R20">20</xref>], p. 1001). It is often assumed that crime and violence are essential features of a ‘gang’ [<xref ref-type="bibr" rid="R27">27</xref>]. This assumption stems from the dominant scholarship on gangs, mainly conducted in the 1970s on- and to explain and address -street gangs in the United States [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. Gangs were expected to be a major source of insecurity in terms of crime and violence, especially in urban spaces [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>]. As a consequence, when a group is labelled ‘a gang’, it becomes a ‘tautological construction’ involving ‘the relationship between gangs and violent or otherwise criminal behaviour’ ([<xref ref-type="bibr" rid="R20">20</xref>], p. 1003). While the assumptions linking gangs to crime and violence have dominated the scholarship on gangs, they have been contested by several scholars who offer more nuanced discourses on such groupings [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>]. In a broader sense, ‘gang’ is a simplified term for a variety of complex social groups. When a social group is labelled ‘street gang’, it immediately assumes a variety of traits including violence, crime and other behaviours that are viewed as social deviance, especially when analysed through various criminological perspectives [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R22">22</xref>]. Such perspectives presuppose an ontological reality which lead to constrained analyses of the ‘gang’. The <italic>Aguu</italic>, as an entity labelled ‘youth criminal gang’ by the police, local leaders, and members of the community, is an example of a such a group with an assumed predetermined identity expressed in the common contemporary discourses in Gulu. In these discourses, the <italic>Aguu</italic> are essentialised and described with certain properties, functions and causes. Viewing the <italic>Aguu</italic> in such a way serves a variety of purposes in modern day Gulu, a point we return to in our analysis. But this view of the Aguu does not address the fact that the ‘entity’ is an assemblage of individuals that become ‘<italic>Aguu</italic>’ through internal and external processes. We use the Assemblage approach to conduct a critical analysis of the <italic>Aguu</italic>, asking, based on the specific situation in contemporary Gulu ‘what kind of assemblage would be required to produce it?’ ([<xref ref-type="bibr" rid="R13">13</xref>], p. 473). To understand the processes that lead to assemblages, it is necessary to flesh out the social, political, cultural, historical and economic forces interacting in a context that not only lead to the creation of groups such as the <italic>Aguu</italic>, but also govern how these groups evolve and change, how they are viewed and understood by others as a function of complex circumstances, as well as how these groups come to characterise themselves.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- The Assemblage Approach</title>
+            <p>Assemblage Theory offers an approach to social complexity which lays emphasis on multiplicity, fluidity and change in an attempt to resist essentialism and reification that stem from definitions ([<xref ref-type="bibr" rid="R11">11</xref>], p. 26). Following Deluze and Guattari [<xref ref-type="bibr" rid="R10">10</xref>], Buchanan ([<xref ref-type="bibr" rid="R13">13</xref>], p. 463) underlines that ‘assemblages explains the existence of a thing in the world’; they are ‘structured and structuring’; they ‘have a logic, and operational sense…that can be mapped’; and ‘always strive to persist in their being’ though ‘they are subject to forces of change…but ultimately prefer not to change’.</p>
+            <p>According to DeLanda ([<xref ref-type="bibr" rid="R12">12</xref>], pp. 12-20), assemblages are individual entities which have an historical contingent identity. As such, assemblages can be an ‘individual person, individual community, an individual organisation, an individual city etc.’. While these entities operate at different scales, they are all viewed as assemblages, hence they have the same ontological status, and therefore can interact directly with each other ‘individual to individual’.</p>
+            <p>Assemblages consist of heterogenous components, such as individual persons, but also the material and expressive objects that comprises communities and organisations. As assemblages can be individual entities on different scales, they can ‘become component parts of larger assemblages’. Linked to the problematisation of the ‘gang’ above, the study of the <italic>Aguu</italic> as an assemblage focuses on the <italic>sui-generis</italic> properties and the situational contexts that produces it as an entity ([<xref ref-type="bibr" rid="R22">22</xref>], pp. 130-131). On another level, the <italic>Aguu</italic> as an ‘entity’ is also a part of an assemblage where a relationship exists with other entities such as the police, local leadership, and communities in the space of Gulu municipality [<xref ref-type="bibr" rid="R37">37</xref>], in which they are perceived as a ‘gang’. This view of the <italic>Aguu</italic> as an assemblage with <italic>sui-generis</italic> properties [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>], and the <italic>Aguu</italic> in an assemblage where they are labelled as an homogenised (criminal) entity allows us to analyse the <italic>Aguu</italic> as ‘a purely formal arrangement or ordering that functions as a mechanism of inclusion and exclusion’ ([<xref ref-type="bibr" rid="R13">13</xref>], p. 465) on both levels. In the assemblage approach, the main question is ‘given the specific situation, what kind of assemblage would be required to produce it’ ([<xref ref-type="bibr" rid="R13">13</xref>], p. 473), or as we apply it to our research, the analysis of what produces the <italic>Aguu</italic> in Gulu today and their labelling as an entity dubbed ‘youth street gang’. This type of analysis allows us to see beyond the superficial appearance of the <italic>Aguu</italic> as a street gang, and peer into the deep structures of action ([<xref ref-type="bibr" rid="R13">13</xref>], p. 467).</p>
+            <p>As DeLanda ([<xref ref-type="bibr" rid="R12">12</xref>], p. 21) indicates, ‘assemblages emerge from the interaction between their parts, but once an assemblage is in place, it starts acting as a source of limitations and opportunities for its components’. These are described as processes of <italic>territorialisation/de-territorialisation</italic>. Territorialisation in assemblages refers to the processes through which the components of an assemblage are homogenised, or are drawn from a ‘homogeneous repertoire’, but may also refer to the spatial boundaries of the whole ([<xref ref-type="bibr" rid="R12">12</xref>], p. 22). Deluze and Guattari [<xref ref-type="bibr" rid="R10">10</xref>] assert that these processes are anchored in the natural desire of individuals to ‘become’, and their ability to imagine a future based on that desire, especially in relation to achieving ontological security ([<xref ref-type="bibr" rid="R20">20</xref>], pp. 1006-1007). When applied to social groups, territorialising includes consolidation processes encouraging the formation of norms that create clearer demarcation of an assemblage and increase their capacities ([<xref ref-type="bibr" rid="R20">20</xref>], p. 1009).</p>
+            <p>When applied to ‘gang’ research these can be viewed as processes that promote ‘normalisation and homogeneous meanings, styles, and representation’ ([<xref ref-type="bibr" rid="R20">20</xref>], p. 16). These processes territorialise the ‘gang’ and move it towards becoming an entity. Territorialisation processes pertaining to an assemblage often lead to de-territorialisation processes in other assemblages, for example when an individual person breaks with the norms of one group and begins adhering to norms of another group. Processes of de-territorialisation can also arise from conflicts between entities, for example when the police or community engage in efforts to disband (physically and discursively) groups labelled as ‘criminal gangs’. In such examples the police and the community move to de-territorialise both the spatial and normative spaces of the ‘gang’ which are seen to be in tension with the spatial and normative spaces of other assembled entities ([<xref ref-type="bibr" rid="R22">22</xref>], p. 129).</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Methodology</title>
+         <p>This article is based on qualitative data collection conducted in Gulu, Uganda between 2018-2019. It combines primary data collection through semi-structured interviews, focus group discussions (FGDs), and participant observation, together with historical and archival data analysis, supplemented by media and social media articles and opinions to flesh out and compare the contemporary popular discourses around the <italic>Aguu</italic> in Gulu. The objective of the methodology applied in this research is to flesh-out, document and analyse the processes that produce the <italic>Aguu</italic> as an organised criminal youth gang in Gulu. We use discourses to highlight the characteristics and complexities of particular contexts [<xref ref-type="bibr" rid="R43">43</xref>]. The methodology is therefore designed to collect data that allows us to explore historical as well as contemporary social and political trajectories that lead to various perceptions of the <italic>Aguu</italic> as a source of (in)security, but also how ‘people work to secure their lives…individually, collectively and through local state and non-state institutions’ [<xref ref-type="bibr" rid="R43">43</xref>].</p>
+         <p>For this purpose, a total of thirty-eight semi-structured interviews were conducted with key informants. Interviews were conducted with local government officials in Gulu, police officials (district and municipality levels; leadership and field levels police officers), community and cultural leaders, members of the community, NGOs, personnel in a juvenile remand centre, street youth, current/former members of the <italic>Aguu</italic>, and <italic>Aguu</italic> leadership. We also conducted three FGDs, two with members of the community in two randomly chosen divisions of Gulu municipality [<xref ref-type="bibr" rid="R44">44</xref>], and one FGD with members of the <italic>Aguu</italic>. Each FGD comprised of 5-7 participants. In addition, we conducted participant observation through joining a police patrol in Gulu. Interviews were carried out in English and Acholi, as one of the authors is a native Acholi speaker.</p>
+         <p>Key informants were selected for participation based on their position and roles in the community. We used a local facilitator to identify current/former members of the <italic>Aguu</italic> and spoke with members of the <italic>Aguu</italic> who agreed to participate in this research. The <italic>Aguu</italic> participants were chosen randomly by the facilitator, based on those who agreed to meet with us and consented to participate in this research. Before we began the research in Gulu, the concept and design were subjected to several tiers of ethical approval, including by the EU commission as a pre-condition for the implementation of the project; an approval by a Research Ethics Committee accredited through the <italic>Uganda National Council for Science and Technology (UNCST)</italic> as a part of the process for acquiring a research permit in Uganda; and an official approval from the Directorate of Research, Planning and Development of the Ugandan Police Force (UPF). These various bodies reviewed and approved the design of the research, the informed consent forms, the interview guides and the overall architecture of the research project in Northern Uganda.</p>
+         <p>Following the ethical guidelines issued by the EU, UNCST and UPF, all participants in this research were presented with an informed consent form in English and Acholi. The objective and purpose of this research was outlined and explained to all respondents. Participants were informed that the data collected will be used to write-up and publish an academic article. All participants in this research were informed that their identity will be protected and will not be disclosed. As such, the information based on interviews and FGD is presented in this article in a way that cannot be linked to particular individuals. All participants in this research were legally adults, including all <italic>Aguu</italic> respondents interviewed during the research. All the respondents in this research consented to participate in this research and to the use of the narratives they provided during this research for academic purposes. No data presented in this article can be directly or indirectly linked to current/past members of the <italic>Aguu</italic>.</p>
+         <sec id="s3.1">
+            <title>3.1.- The Emergence of the <italic>Aguu</italic>
+            </title>
+            <p>It is difficult to establish with certainty when the term <italic>Aguu</italic> was coined. The birth of youth languages, such as the <italic>Leb pa Bwulu</italic> is usually attributed to identity construction [<xref ref-type="bibr" rid="R45">45</xref>]. In the case of the <italic>Aguu</italic> as the original practitioners of the <italic>Leb pa Bwulu</italic>, the birth of the language seems to be related to ‘resistance identity’ [<xref ref-type="bibr" rid="R46">46</xref>] born out of social exclusion usually associated with stigmatised groups [<xref ref-type="bibr" rid="R45">45</xref>]. According to Beall et al. ([<xref ref-type="bibr" rid="R47">47</xref>], p. 3072), the processes that lead to the establishment of resistance identities often occur in cities that become ‘the eye of the storm’ due to conflict. Such processes often occur as consequences of civil wars turning into civic conflicts which arise from ‘sense of powerlessness among certain urban groups’ and the attempts they engage in to reclaim an identity ([<xref ref-type="bibr" rid="R47">47</xref>], p. 3072). The origins of the <italic>Aguu</italic> (term and group) are directly linked to the civil conflict that devastated Northern Uganda between 1986-2006. The course and implications of the conflict, as well as the response of the international community and subsequent intended and unintended impacts of this response are well documented [<xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>, <xref ref-type="bibr" rid="R52">52</xref>]. These accounts serve as a background to the inception of the <italic>Aguu</italic>. They reveal how the conflict led to a transformation of Gulu from a small provincial town to a main hub during both the war and post-war displacement and re-construction processes [<xref ref-type="bibr" rid="R49">49</xref>], filling the streets with tens of thousands of displaced Acholi, eventually leading to a socio-cultural crisis whose effects are still unfolding in present contexts. In his article on Gulu as a town/camp, Branch [<xref ref-type="bibr" rid="R49">49</xref>] describes how the transformation of Gulu links to the conditions and processes faced by the displaced population since 1986. He highlights how the nexus between conflict, displacement, and international aid efforts impact the foundations of Acholi culture as well as lead to the growth and transformation of Gulu from a small regional urban centre into a main hub (and eventually a city in present day). If we place the formation and later transformation of the <italic>Aguu</italic> in relationship to this story, as we do below, then the <italic>Aguu</italic> can be described as a group assembled and transformed through the interaction between the processes of conflict, displacement, aid, reconstruction, and opportunity.
+</p>
+            <p>Throughout the civil war in Northern Uganda, the Acholi population have been subjected to civilian control strategies exercised by both the LRA and the UPDF [<xref ref-type="bibr" rid="R51">51</xref>]. As the LRA conducted massive attacks against the civilian population, engaged in systematic abduction of women and children, and issued decrees banning movement and forcing the abandonment of settlements [<xref ref-type="bibr" rid="R52">52</xref>], large portions of the population sought refuge in the relative safety of the streets of Gulu [<xref ref-type="bibr" rid="R49">49</xref>]. The UPDF aggravated population displacement by launching systematic attacks on villages suspected of hosting and collaborating with LRA rebels. This general insecurity peaked in 1995-96 with a series of LRA abductions and massacres. During this period, people were forced to leave their lands and homesteads at night and seek refuge in the streets of Gulu and other places [<xref ref-type="bibr" rid="R51">51</xref>]. In October 1996, the government of Uganda introduced the ‘Protected Villages’ policy, which forced the local population to leave their villages on a forty-eight hours’ notice and gather in a number of camps where the UPDF had increased military presence [<xref ref-type="bibr" rid="R53">53</xref>] ([<xref ref-type="bibr" rid="R54">54</xref>], p. 92). Through this process, Gulu town was transformed overnight to the largest camp in the region [<xref ref-type="bibr" rid="R49">49</xref>]. This wartime displacement brought into the streets of Gulu a large and diverse population who lost their access to livelihood. It also brought into Gulu a humanitarian economy, creating important new opportunities for the displaced, sustaining the needs of most people in town [<xref ref-type="bibr" rid="R49">49</xref>]. These circumstances carried a significant number of people into the streets of Gulu and exposed them to a changing urban environment, while detaching them from their habitual rural livelihoods. But it was mostly the post-war effects of this massive displacement that led to the current fault lines in Acholi society. These fault lines are results of disruptions caused by the war to land tenure systems and property disputes [<xref ref-type="bibr" rid="R55">55</xref>, <xref ref-type="bibr" rid="R56">56</xref>], education and disconnection of individuals from culture and community lives [<xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R57">57</xref>] family breakdown and orphanage [<xref ref-type="bibr" rid="R58">58</xref>], experiencing urban/westernised lifestyles and ‘corporate culture’ ([<xref ref-type="bibr" rid="R7">7</xref>], p. 92) [<xref ref-type="bibr" rid="R49">49</xref>], massive NGO intervention and a humanitarian economy [<xref ref-type="bibr" rid="R59">59</xref>], dependency syndrome [<xref ref-type="bibr" rid="R60">60</xref>, <xref ref-type="bibr" rid="R61">61</xref>, <xref ref-type="bibr" rid="R62">62</xref>], and changes to ‘traditional’/cultural institutions [<xref ref-type="bibr" rid="R7">7</xref>].</p>
+            <p>As thoroughly discussed by Atkinson [<xref ref-type="bibr" rid="R63">63</xref>], the Acholi are structured around social institutions including several conventions, norms and previously sanctioned rules around family, community, livelihood strategies, household dynamics, culture, rituals etc. In addition, the Acholi society is established within the sovereign Ugandan State, and as such they incorporate into their ethnic institutions the institutions of the state, including education, law and order, political structures etc. The history of Uganda, the civil war, and the subsequent effects of the massive displacement, violence and trauma, breakdown of habitual livelihood structures, of households, of communities, of culture, and of the state institutions, led to a fundamental modification to the traditional Acholi socio-cultural structures ([<xref ref-type="bibr" rid="R7">7</xref>], pp. 314-325). Nevertheless, the Acholi have proven to be resilient, and in the years since the end of the conflict, they have re-established their communities, socio-cultural institutions, and organisation [<xref ref-type="bibr" rid="R64">64</xref>], and reintegrated into the governance structures of the Ugandan State. But some, as the <italic>Aguu</italic>, have not been fully re-integrated into society through these processes. In the case of the <italic>Aguu</italic>, the transformations that occurred during- and as a consequence of -the conflict, translated into the formation of an entity after the war, which is viewed today by the Acholi community, leadership, and state institutions in Gulu, over a decade after the war has ended, as a disruptive group. Parts of this group today are associated with distinct emergent institutions such as rules, leadership and (street) language, and members of this group are engaged in a variety of livelihood strategies, many of which defy traditional and state institutions. The original group of <italic>Aguu</italic> emerged from transformations that are directly linked to the disruption caused by the war to community lives, and the disconnection of some youth/children from their nucleus families and responsible care of adults, sources of livelihood and social frameworks. But the processes of transformation of the <italic>Aguu</italic> are also linked to new opportunities emerging from these circumstances such as the transformation of Gulu into a major hub, and a variety of subsequent prospects available in the emerging urban environment. The original <italic>Aguu</italic>, as we describe below, were children and youth exposed to various degrees of trauma, loss, and stigmatisation. Their experiences exposed them to changing urban settings, where they found themselves alone in the streets without direct means of livelihood, and at the mercy of the humanitarian economy established by a large number of domestic and foreign NGOs [<xref ref-type="bibr" rid="R59">59</xref>]. These conflict-related processes of disconnection from conventional social constructions and exposure to new physical, cultural, and economic environments is at the foundation of the formation of the original group of <italic>Aguu</italic>. To better understand these dynamics, we outline below the historical origin of street youth/children labelled <italic>Aguu</italic> in Gulu, and then move to describe the present-day context.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- The Origin of the <italic>Aguu</italic>
+         </title>
+         <p>There are two origins for the initial groups of street youth/children dubbed <italic>Aguu</italic> in Gulu. The first set of street youth/children came from families who lost access to their lands, uprooted from their communities, separated from their livelihoods due to the conflict, and the ‘night commuters’ who trekked to camps to seek relative safety and protection from LRA attacks and abductions at night [<xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>]. An additional consequence of this mass displacement was numerous births of children in IDP camps. Some of these children were orphaned due to the war or sickness of their caregivers; others were abandoned by their parents due to early pregnancies and their inability to provide for their children, as well as stigmatisation against single and young mothers. As a result, many of these children who did not know their parents and had no strong cultural/clan identity, found themselves outside the traditional Acholi social institutions. The second set of street children who found themselves rootless in the streets of Gulu are the former abductees. According to estimates, the LRA abducted between 54,000 and 75,000 people, out of which 25,000 to 38,000 were children [<xref ref-type="bibr" rid="R67">67</xref>]. These children were exposed to a variety of traumatic circumstances during the war, including separation from their homes, safety, abuse, physical and sexual violence. These children were stigmatised and often punished as collaborators by their communities when they escaped from the LRA or returned after the war [<xref ref-type="bibr" rid="R49">49</xref>]. The origination of the street language <italic>Leb pa Bwulu</italic> as well as the emergence of the term <italic>Aguu</italic> as a self-designation used by these youth/children to refer to themselves as individuals who belong to a group who would do anything to get by, is attributed to these initial groups of youth/children.</p>
+         <p>In the years that passed since the conflict subsided in 2006, most of the street children/youth associated with the IDP camps and LRA abductions are now teenagers or young adults. Nevertheless, the <italic>Aguu</italic> as a group is still present in the streets of Gulu, which begs the question – who are the <italic>Aguu</italic> today? The following section attempts to answer this question based on a series of interviews, participant observation and focus group discussions conducted with current and former members of the <italic>Aguu</italic> in Gulu, street youth, local leaders, police officials, and the community.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- The <italic>Aguu</italic> in 2020 as Viewed by the Police, Local Leaders, and the Community</title>
+         <p>When you ask people in Gulu today what is <italic>Aguu</italic>, one of the most common answers is ‘useless’ children and youth. For most people, <italic>Aguu</italic> is used as a derogatory term to designate ‘good for nothing’ troublemaking youth that lives in and off the streets, as well as a reference to youth criminals and prostitutes perceived as the main reason for the high crime rates in Gulu. To better observe the variety of issues on the streets of Gulu, we joined a night-time police foot patrol. The patrol departed from Gulu police station at 8:00 pm and lasted about six hours. We joined a team of three armed and uniformed police officers, led by an Assistant Inspector of Police in civilian clothing accompanied by three local community leaders at the LC1 level [<xref ref-type="bibr" rid="R68">68</xref>]. The local community leaders held the position of ‘defence secretaries’, having the responsibility to ensure local security, assist the local council leader (LC1) and the police on matters of security, and liaise between the community, the local council leader and the police on security matters. During the patrol we observed a large presence of youth and children in the streets of Gulu, including young girls acting as prostitutes, both in the streets and around lodges. In July 2018, police officials in Gulu told us that there are about 300 <italic>Aguu</italic> in the streets. In January 2019, Patrick Jimmy Okema, the Aswa Region Police Spokesperson was quoted in a news outlet saying that ‘at least 100 children still sleep and eat off the streets of Gulu town, seven years after peace returned to the region’ [<xref ref-type="bibr" rid="R69">69</xref>]. Unofficially, a senior police official informed us in January 2020 that there is a gap between the numbers provided by the police for the ‘consumption of the general public’ and in reality, the police estimates that there are about 600 <italic>Aguu</italic> in the streets of Gulu. Below we outline who these <italic>Aguu</italic> are in the streets of Gulu today as they are described through the lenses of the different groups of stakeholders.</p>
+         <p>According to the police, the <italic>Aguu</italic> is a reference to a criminal gang. They consist of ‘lazy’ youth and children, that broke with family traditions and live in and off the streets; they are seen as rebellious youth/children that engage in acts of petty thievery, organised crime and prostitution. The police associate the leadership of the <italic>Aguu</italic> today with war-time displaced children and abductees. The <italic>Aguu</italic> are described by the police as a ‘street gang’ and they often refer to children and youth labelled <italic>Aguu</italic> as ‘members’ of a ‘street gang’. A variety of criminal activities are attributed to the <italic>Aguu</italic> by the police. These include organised robbery of unsuspecting civilians, prostitution, house and business break-ins, and various violent criminal activities that often result in injury or murder of civilians. Police officials often use the term ‘terrorise’ to describe the <italic>Aguu</italic> impacts on people in Gulu. They are often described by the police as substance abusers and are accused of committing criminal acts under the influence of alcohol or drugs.</p>
+         <p>Like the police, community leaders often blame the <italic>Aguu</italic> for much of the insecurity in the streets of Gulu. The term <italic>Aguu</italic> is used by community leaders and members of the community as a derogatory term, referring to youth and children that spend their time in the streets, do not behave according to socio-cultural norms, cause trouble and commit crime, and as a term that designates an affiliation with a gang. Several accounts by politicians, the police, community leaders and the <italic>Aguu</italic>, indicate that <italic>Aguu</italic> is also a reference to youth/children recruited by local businessmen and politicians to commit illegal acts for profit, to intimidate opponents, exert acts of vengeance, and weaken competition. In these narratives the <italic>Aguu</italic> are also described as both organised gangs and individuals available for hire.</p>
+         <p>As indicted by local leaders during interviews, the discourse and subsequent action by political leaders in Gulu in relation to the <italic>Aguu</italic> play an important role in popular politics and local power competitions for resources. This often translates into more than public rhetoric, and transforms into illegal ‘vigilante’ action led by politicians and local leaders to rid the streets of Gulu from the <italic>Aguu</italic>. Many prominent leaders in Gulu ‘earned their stripes’ by leading groups of ‘vigilantes’ armed with clubs, in what could be described as mob violence actions against the Aguu to ‘fix’ the crime problem in Gulu. The current Mayor of Gulu, George Labeja, built his reputation and began his political career by leading groups of vigilantes in violent mob justice actions against ‘petty thievery’ in Gulu. The Mayor often refers to these actions as part of his political campaign promises to bring security to the streets of Gulu [<xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>, <xref ref-type="bibr" rid="R72">72</xref>].</p>
+         <p>In recent years other political leaders have mobilised groups of people in violent civilian actions against the <italic>Aguu</italic> [<xref ref-type="bibr" rid="R73">73</xref>]. These politicians describe the <italic>Aguu</italic> as ‘groups of organised criminals’, ‘petty thieves’ and a ‘major source of insecurity in Gulu town’. Such vigilante actions and episodes often result in mob violence that lead to death and injury on both sides, as well as cycles of reprisal actions [<xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>, <xref ref-type="bibr" rid="R72">72</xref>]. In April 2019, an LC1 chairperson from Layibi division in Gulu mobilised 40 people armed with clubs and other improvised weapons against the <italic>Aguu</italic> who were accused of plural break-ins, arson, and robbery in the area. This violent episode led to a reprisal action by the <italic>Aguu</italic>, prompting a joint police and army intervention which included firing live rounds at the <italic>Aguu</italic> [<xref ref-type="bibr" rid="R74">74</xref>].</p>
+         <p>Some murders of public servants in Gulu are often initially attributed to the <italic>Aguu</italic>, but without concrete evidence, such as the murders of Gulu Municipal Deputy Town Clerk John Oola in May 2017, former Gulu University lecturer Andrew Rachkara in June 2014, as well as several media personalities. In interviews with police officials and local leaders, the respondents indicated that some of the reasons for the initial attributions of crimes to the <italic>Aguu</italic> include: using the <italic>Aguu</italic> to deviate attention from a political or economic motive for the crime; for political reasons; and because the <italic>Aguu</italic> are often actually hired to conduct such actions by politicians, businessmen and ordinary people.</p>
+         <p>In general, community members refer to the <italic>Aguu</italic> as ‘criminals’ and ‘pests’. They see them as youth/children who ‘rebelled’ against tradition and culture, broke away from family structures and values, and chose livelihood strategies and lifestyles which are not accepted by Acholi society. Street children/youth today bear the same stigma stamped upon the original group of street children/youth associated with the conflict.</p>
+         <p>Members of the community often explain the lifestyle of the <italic>Aguu</italic> in relation to substance abuse. As explained by the police, politicians, and as we observed during our night-time patrol with the police, alcohol, opium and cannabis consumption are concrete problems in Gulu. Both the community and the police use circular arguments to explain crime and presence of children/youth in the streets in relation to substance abuse. Some explain that street children/youth commit crime because they are under the influence of drugs (so being under the influence is the reason for unruly behaviour); on the other hand, others explain that children/youth commit crime because they need money for drugs and alcohol (so addiction is the motivation for crime). But most respondents also connect the presence of children/youth in the streets of Gulu, and subsequent criminal activity for survival, to boredom, to the conflict, and to the outcomes of the conflict. They link the existence of the <italic>Aguu</italic> and part of their leadership today to the original groups of street children/youth in Gulu. And they also link the presence of street children/youth who were not directly displaced by the conflict or abducted by the LRA to the outcome of the conflict in a variety of ways: some street children/youth are in the streets today because their parents were affected by the conflict in terms of disruptions of livelihood, inaccessibility to land and property, mental sickness etc. and therefore the children/youth had to leave or flee their houses and families. Another explanation is that street children/youth today were ‘exposed’ to external influence through the humanitarian economy that persisted in Gulu for almost a decade after the conflict ended (foreigners, NGOs, westerners), and therefore choose to try and pursue an urban lifestyle which is not consistent with Acholi values and/or inspired by foreign influence and imagined opportunities. But they also recognise that some children/youth freely choose the street life for freedom and access to what they believe is ‘easy money’ through a life of crime. In all the examples given to us above, members of the community, police and local leadership see the <italic>Aguu</italic> today as deviants. Almost no respondents viewed the <italic>Aguu</italic> as victims or with compassion [<xref ref-type="bibr" rid="R75">75</xref>].</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- The Structure and Composition of the ‘Entity’ <italic>Aguu</italic> in 2020 as Described by those Associated with the Group</title>
+         <p>Interviews with contemporary street youth indicate that unlike the original <italic>Aguu</italic>, not everyone who is labelled as such today is homeless, orphan, rootless, or lives permanently in the streets. In addition, and as expected more than a decade after the end of the civil war, the data below indicates that the presence of many street children/youth in Gulu today is unrelated or not directly related to the conflict in the same way as the original group was.</p>
+         <p>It is difficult to determine with certainty how many children/youth live permanently in the streets of Gulu today. But the fact that some of those who label themselves or are labelled by others as <italic>Aguu</italic> are not homeless or street children/youth, indicates that the term has clearly transformed from a description of a specific group linked to the conflict and its outcomes, to denote youth and children that live in and off the streets, and include youth and children that are not necessarily homeless, as well as youth and children that conduct criminal activities and exhibit behaviours that are not considered normative such as break-away from their communities, families, abuse substances, and engage in prostitution.</p>
+         <p>As indicated in the previous section, various stakeholders have firm opinions about the identity of the <italic>Aguu</italic> as deviants, but in reality, <italic>Aguu</italic> is a diverse group. In the following section we describe the nuanced identities of street youth based on various self-descriptions collected through interviews and FGDs with male and female respondents. We outline how they themselves view the various reasons behind why certain youth and children end up in the streets today. We then turn to outline the organisation, leadership, activities, coordination of the street youth/children that engage in organised criminal activities, as well as collusion between such groups, labelled <italic>Aguu</italic> ‘gangs’ and stakeholders in Gulu as described by members of these groups during interviews.</p>
+         <p>Firstly, it is important to recall that the term <italic>Aguu</italic> was coined by street children/youth as a self-reference. While it is used today as a derogatory reference to street youth/children, it is still used by many street youth/children as a self-reference despite the negative external connotations, a point we come back to in the analysis below. When we asked street youth why they end up in the streets of Gulu today, several underlying explanations emerge from stories told in interviews:</p>
+         <list list-type="order">
+            <list-item>
+               <p>
+                  <italic>Difficult socio-economic conditions at home and death of parents</italic>. Many of the street youth/children today find themselves in the streets of Gulu because they do not get along with their caregivers and are chased away from the household. Some have lost their biological parents during the war and were sent to relatives, who themselves have many children. In some cases, when relatives do not have the means to take care of everyone, some youth/children are forced- or choose -to, leave because of the difficult circumstances at home. Some leave home in an attempt to earn money for the family, or because a caregiver is sick and cannot work or take care of the children. In some cases where there are multiple siblings and difficult livelihood situations, such as very little food or space to live, some choose to leave the household.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Children born to formerly abducted or returnees, rejected by families and communities</italic>. Some children/youth are born to parents that were directly affected by the war. Some caregivers were traumatised and suffer from mental illnesses, other parents are former abductees and suffer from a variety of conditions. Some contemporary youth/children choose- or were forced -to leave because their parents struggle to reintegrate into society or do not manage to perform as caregivers as a result of trauma and other reasons.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Conflict with the law and fear of parents</italic>. Some report that they had to run away from home because they got in trouble with the law and/or with their parents. Some told us that they were stealing and had to run away, others were gambling away or spending their school fees or their parents’ money and ran away due to fear of their parents’ reaction.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Thrown out for disciplinary reasons and bad behaviour</italic>. Some children/youth were thrown out of their homes by their caregivers due to violent verbal and physical disagreements about actions, lifestyle choices and fighting with their parents.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Born in the streets</italic>. Some street youth/children were born in the streets. Many were born outside of wedlock as a result of prostitution or other circumstances. Some of these were abandoned by young parents in the street at a very young age and were forced to survive and fend for themselves since. Some of these were born to <italic>Aguu</italic> parents who could not/did not want to take care of them, others were abandoned by their parents in order to avoid stigma.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Searching for excitement and opportunities</italic>. Some of the street youth/children say they left their homes by choice, to acquire freedom and an opportunity for a better life and livelihoods, and to seize opportunities for a better/different life in the city. Some began to abuse substances such as drugs and alcohol and went to the streets to try and feed their addiction by stealing and prostitution. Others found themselves in the streets because peers convinced them to seek a better life and freedom. Yet others report they wanted independence and the opportunity to escape from their own cultures and traditions in search for freedom and a better life (sometimes influenced by notions presented by other cultures).</p>
+            </list-item>
+         </list>
+         <p>It is important to note that some youth found in the streets of Gulu today are not Acholi and come from afar to seek work and new opportunities. This is often the case with female prostitutes that travel to Gulu which is one of the fasted growing urban centres in Uganda, and the biggest Urban centre in Northern Uganda. These are also labelled <italic>Aguu</italic>.</p>
+         <p>For many street youth/children, crime and prostitution are livelihood strategies. The processes that lead to the changes of <italic>Aguu</italic> from homeless and rootless youth and children linked to the conflict who would do anything to get by, to loosely organised criminal gangs is intimately linked to economic, political and social opportunism of both the street youth/children and other stakeholders in Gulu that contribute to the onset of criminal organisation. Some of our respondents indicate that the organisation of some youth/children beyond opportunistic petty thievery into organised criminal gangs is linked to sponsorship of predatory stakeholders such as scrap dealers, local businessmen, vendors from Kampala, politicians, and others. This narrative was also repeated by local government officials and the police interviewed during this research. According to accounts collected from street youth/children and local leaders in Gulu, the organised criminal endeavours of the <italic>Aguu</italic> began when local scrap dealers solicited street youth/children in Gulu to locate material, steal and bring it back to scrap yards where they would receive a small payment for their service. Some scrap dealers, especially dealers who came from other locations in Uganda, were not familiar with Gulu town and the <italic>Aguu</italic> serve as their local eyes and hands to gather scrap and other valuable items to be sold by the scrap dealers for a profit. Other local businessmen, such as mobile phone vendors and lodge owners are also using <italic>Aguu</italic> to turn a profit. Some mobile phone vendors for example, pay <italic>Aguu</italic> to steal phones, and then sell them for a profit in their shops. Lodge owners essentially use female <italic>Aguu</italic> prostitutes by allowing them to bring clients to the lodge and rent out rooms at hourly rates. These activities led to several levels of organisation among street youth/children in Gulu, which in turn led to the formation and organisation of groups, including a system of leadership and rules as described below.</p>
+         <p>The organisation of several groups of street youth and children in Gulu to carry out coordinated activities, has led to increased sophistication and collusion with various opportunistic sponsors. These operations involve coordination with boda-boda drivers who provide transportation services; they involve <italic>Aguu</italic> prostitutes who provide intelligence or help lure victims to be robbed by the group; and coordination between groups in town and their leadership for organisation, seeking permission to conduct activities across territories, and collection of information to be shared between groups. The <italic>Aguu</italic> also report that in many cases, break-ins, arson, beating, and sometimes murder are carried by contracts they receive from local businessmen, other members of the community, politicians, and external stakeholders from outside the city of Gulu. Sometimes the <italic>Aguu</italic> coordinate activities with individual members of the police through bribery to ensure slow or lack of police interference or minimal investigation.</p>
+         <p>When it comes to the leadership and organisation, information collected during interviews indicate that the <italic>Aguu</italic> cannot be considered as a single organised criminal group with unified leadership. There are several organised groups which act as more or less coherent street criminal gangs, each with their own leadership structure and set of rules. While <italic>Aguu</italic> criminal groups often communicate and coordinate between themselves (see below), there are no regular ‘leadership’ meetings nor an overarching leadership structure.</p>
+         <p>Street children/youth are organised in various territorial settings. These range from groups who claim territoriality based on streets or areas they live in, or around localities such as industrial areas, pubs and lodges. The <italic>Aguu</italic> often give nicknames to their territory/group (See Table <xref ref-type="table" rid="Tab1">1</xref>). The police and members of the community at large often view the <italic>Aguu</italic> as ‘cells’ operating from localities/areas in Gulu, and in many cases members of the <italic>Aguu</italic> criminal groups also refer to themselves as belonging to these cells.</p>
+         <p>The <italic>Aguu</italic> groups vary in size, activities, and level of organisation. Each group seems to have a leadership structure, where at least one member is considered the main ‘go-to’ leader. Leadership is based on several qualities, including physical strength, experience in the street, cunningness and most importantly, his or her network. A leader needs to be able to coordinate with other groups and their leaders, with the local community, businessmen, police, politicians, and other stakeholders in order to benefit and protect members of the group. The leaders command respect in the street. They must be able to protect and rescue members of their group if the need arises. Members of the groups follow their instructions.</p>
+         <p>Many indicated that the members of the criminal <italic>Aguu</italic> groups do not use real names, and especially do not call their leaders by names. There are many nicknames and titles for various leaders and members. Table <xref ref-type="table" rid="Tab2">2</xref>. presents some examples of nicknames given to leaders and lower ranking members of <italic>Aguu</italic> criminal groups. Sponsors of the <italic>Aguu</italic> criminal groups are referred to as ‘dons’ and are those who buy valuables or contract the groups for various purposes.</p>
+         <p>Members of the <italic>Aguu</italic> criminal groups follow a loose set of rules that seem to be designed first and foremost to regulate behaviour between the members, between the members and their leaders, and instruct members on how to behave if they are caught. The existence of rules, as well as their formulation as outlined below, is a clear indication of organisation and coordination. If rules are broken there are several prescribed consequences. Sanctions against violators vary, but respondents report that they may range from corporal punishment to banishment in extreme cases. Table <xref ref-type="table" rid="Tab3">3</xref> presents some of the different rules and sanctions that various <italic>Aguu</italic> criminal group members must follow.</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Examples of Gang Nicknames in Gulu.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>
+                           <italic>Aguu gang nicknames
+                           </italic>
+                        </bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>
+                           <italic>Aguu ‘cells’ named after localities
+                           </italic>
+                        </bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              ‘Gang Pa Oweka’ (Oweka’s home)
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nakasero
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Layibi Go-down’ in Layibi division
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Kanyagoga
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Te-Gwana’ (Pece division)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Layibi
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘K-Ghosts’ (Kanyagoga Ghosts)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Olayo-ilong
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              ‘Cuk pa Lujwero’ (in Pece division)
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Kasubi
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab2" position="float" orientation="portrait">
+            <label>Table 2</label>
+            <caption>
+               <title>Example of nicknames given to <italic>Aguu</italic> leaders and members.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Leaders</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Lower ranking members</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              ‘Latela’ (Acholi word meaning Leader)
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              ‘Dogos’,(from the Swahili word kadogo-small one)
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Afande’ (Swahili word for High Ranking)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Younger’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Ya Kwanza’ (Swahili word for the first one)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Buddy’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Gadafi’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Cuk pa Lujwero’ (in Pece division)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Siya’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Yoyo’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Kadogo’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Mchuzi’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Jam boys’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Toling’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Home boys’
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Ojoko’(Derived from Acholi name Ojok)
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Kamule’ (street slang)
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Actor’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Whatsapp’
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              ‘Ladit’ (Acholi for Elder)
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab3" position="float" orientation="portrait">
+            <label>Table 3</label>
+            <caption>
+               <title>Example of Rules and Sanctions for <italic>Aguu</italic> Members.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Rules</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Sanctions for breaking rules</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Never disclose who assigned you to a particular mission.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              If you default on payment for bailing a fellow Aguu you are expelled/banished; if you show remorse you might be subject to lighter punishments (usually beaten by cane).
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              ‘Thou shall not be arrested/caught during an assignment’.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              If you disclose who is the buyer of the stolen good you are banished.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Never divulge details of your location and that of your leader.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Always share the loot faithfully with colleagues who accompanied you on a particular exploit.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              When arrested the leader should help bail you out.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+                        <italic>Aguu</italic>
+               members should contribute money to bail an arrested fellow.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              If you are caught with stolen goods, never disclose who is the intended buyer.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You must not hurt your fellow street kid or leader (this rule is often broken, especially if people are under the influence of alcohol or drugs).
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You should not report your fellows when arrested.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Report mishaps to your leader.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              New recruits must report to the head of the cell/territory and must be accepted/initiated into the group.
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>Many of the females labelled <italic>Aguu</italic> are engaged in organised prostitution. Prostitutes are mostly organised around local lodges in Gulu, but are also organised as groups in the streets. While the owners of the lodges do not govern the female prostitutes, it is the owner who supervises the affairs of the lodge and the female Aguu leader. The owner communicates with a ‘head lady’ who is considered the leader of the <italic>Aguu</italic> prostitutes operating from a lodge. The ‘head lady’ is usually a prostitute herself but takes control of most decisions and planning of daily activities. In cases where the girls live together as a group or in the same household, then the ‘head lady’ collects contributions for food from the other prostitutes daily, as well as rent and other utilities on a monthly basis. The ‘head lady’ enforces the rules of the lodge and the rules of behaviour for the girls (see below). There is usually a connection between the Aguu prostitutes, the ‘head lady’, and a male <italic>Aguu</italic> criminal group leader who is responsible for a group in the area. The male <italic>Aguu</italic> leader and the ‘head lady’ meet to discuss security issues, coordination with NGOs and other organisation that provide contraceptive and other health services, as well as coordination of other criminal activities where prostitution is involved such as luring victims and other involvement in planning and implementation of criminal activities. Female <italic>Aguu</italic> also follow sets of rules and are sanctioned in various ways if rules are broken (Table <xref ref-type="table" rid="Tab4">4</xref>.)</p>
+         <p>The emergence of rules and mechanisms for punishment points to organisation and structure. The rules as described to us seem to serve four main purposes:</p>
+         <list list-type="order">
+            <list-item>
+               <p>Anchor the role and legitimacy of the leader.</p>
+            </list-item>
+            <list-item>
+               <p>Create a sense of collectiveness, loyalty and belonging.</p>
+            </list-item>
+            <list-item>
+               <p>Protect the members of the <italic>Aguu</italic> criminal groups and leadership through codes of conduct designed for mutual support, protection, and loyalty.</p>
+            </list-item>
+            <list-item>
+               <p>Minimise internal friction and behaviours that can lead to exposure and conflict.</p>
+            </list-item>
+         </list>
+         <p>These rules are installed to provide a sense of security, structure and belonging to group members, as well as predictability in terms of outcomes if members do not conform to the established organisation.</p>
+         <p>It is important to emphasise that not all Aguu engage in criminal activities, and that those who engage in criminal activities also pursue other livelihood strategies. Many find a variety of temporary work opportunities available in the streets, such selling fast food and a variety of other products to commuters in junctions; cleaning, carrying, moving, helping jobs; daily or temporary jobs offered by various contractors and farmers inside and outside Gulu where the Aguu are picked up in locations by contractors based on ad-hoc selection etc.</p>
+         <table-wrap id="Tab4" position="float" orientation="portrait">
+            <label>Table 4</label>
+            <caption>
+               <title>Example of Rules and Sanctions for Female <italic>Aguu</italic> Prostitutes.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Rules</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Sanctions for breaking rules</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              If you fight or quarrel with a client, colleagues or owner of the premise you are chased away.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              You pay a fine of fifty to one hundred thousand shillings, or any amount decided by the leader.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You should not call the man who is a client while on ‘duty’ your husband or boyfriend—they are simply clients with no attachment to you.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You can be chased away by the group leader. 
+              You buy plastic chairs for the lodge.
+               
+              If you are new you get one warning.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Time management is important, and especially when girls need to go back to where they reside.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              When moving, one should use trustful Boda-Boda drivers to avoid mishaps and robbery on the way.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You must ensure you are paid before the client leaves.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              No unnecessary loud noises when in the rooms.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Stealing from colleagues, clients and the lodge is not permitted.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Identity cards must be submitted to the lodge owners before you start operations.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              You should dress decently when not working especially during the day to avoid stigma, labelling and name calling.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+              Matters related to the group must remain confidential.
+            </td>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Witchcraft and use of herbs in the lodges is not allowed.
+            </td>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s7">
+         <title>7.- Analysis and Discussion</title>
+         <p>In every society one can locate discourses alluding to past times when culture and society thrived, and great things were accomplished. In post-war ‘Acohliland’ these discourses are rather prominent, celebrating a notion of a pre-1986 past where ‘traditional institutions’, ‘culture’, and ‘family values’ were respected as the pillars of society. There is no doubt that the war has had a deep impact on Acholi societal institutions and has led to several fault lines within that society. In Gulu, the onset of the processes of change that contributed to the inception of the <italic>Aguu</italic> as an entity, are linked to the civil war and the circumstances which led to an unusual number of youth/children in the streets of Gulu, disconnected from the habitual environment and social institutions. In parallel, international efforts to assist the civilian population affected by the war coupled with the massive displacement of population, led to both the physical growth and the introduction of new livelihood opportunities in Gulu. It is not surprising that in the years since the war ended, these circumstances accelerated tensions between forces of continuity and forces of change in Acholi society and the state. As summarised by Vorhölter ([<xref ref-type="bibr" rid="R7">7</xref>], p. 272), the societal and cultural principles that structured the pre-war Acholi society have been disturbed by the war, but they have also ‘been challenged by women and youth, who took over new roles during and after the war’. In addition, the proliferation of ‘western’ ideas through the heavy involvement of NGOs and the international community during and after the war through development aid, relief, and reconstructions efforts, contributed to internal criticism within the Acholi society that ‘have called into question established local belief and value systems’ ([<xref ref-type="bibr" rid="R7">7</xref>], p. 272). It is not unexpected that many community and cultural leaders in Gulu speak about Acholi society using narratives that highlight change and loss as a threat to traditional values, and the need to continue rebuilding, strengthening and persevering traditional institutions. In these narratives, street youth/children and their current behaviours and attitudes are flagged as a major source of insecurity, undermining both what is seen by many as traditional Acholi values, and as an obstacle to the reconstruction of a society that adhere to those institutions [<xref ref-type="bibr" rid="R76">76</xref>]. These tensions coupled with the history of the <italic>Aguu</italic> and contemporary criminal activities and organisation of some street youth/children, led to labelling of the <italic>Aguu</italic> as a deviant and disturbing entity by members of the community, the police, and local leaders. Viewing groups such as the <italic>Aguu</italic> as deviants is not uncommon from criminological perspectives (but also not uncontested within the same discipline). This point of view is expressed from a particular understanding of how society should be in a context by those who have the power to define and sanction, and subsequently lead to explanations of why some members of that society ‘deviate’ from this ‘mainstream’ view. As we explained above, the <italic>Aguu</italic> are viewed as such a deviant group by the police (a law-and-order institution concerned with enforcing the common law of the state of Uganda, tasked with crime reduction), local leaders and members of the community (who mainly view their society through a mixture of their cultural institution, state institutions, the context of the civil-war, and a variety of interests that collide/align with the existence of <italic>Aguu</italic>, including economic, power, and cultural motives), and within the context of changing urban settings/growth of Gulu. From a theoretical perspective, these entities view the <italic>Aguu</italic> through a lens of <italic>Anomie</italic>: the breakdown of norms [<xref ref-type="bibr" rid="R77">77</xref>]. Through this lens, transitions in societies are often viewed as leading to a crisis of norms for some, caused by the shift/loss of long standing and familiar social institutions, especially when conflict is involved. When this disjunction occurs in societies, many individuals enter a transition period where they find themselves in a state of confusion and disorganisation caused by break down of norms brought about by the loss of their social anchors [<xref ref-type="bibr" rid="R78">78</xref>]. Based on this concept, the Strain Theory of Deviance was developed in criminology [<xref ref-type="bibr" rid="R79">79</xref>] linking the breakdown of norms to the adoption (by some in society) of nonstandard approaches to life, such as crime, to achieve status and goals in society. Viewed through this lens, the formation of gangs and their criminal activities are often explained as deviant subcultures [<xref ref-type="bibr" rid="R80">80</xref>] arguing that while groups as such diverge from accepted social norms, they also create a different sets of norms they develop, and a subculture is formed. This lens is consistent with the predominant view of the <italic>Aguu</italic> in Gulu as an ‘entity’ by the police, local leaders, and the community, in an assemblage where these entities are interacting in the space of Gulu city. The context presented here is linked to conflict, post conflict re-construction, growth of the urban space, changing contexts (institutional, cultural, economic etc.) and new opportunities available for everyone. The <italic>Aguu</italic> and the organisation of criminal groups within them, are viewed by the police, local leaders, and the community as a force of change that collides with predominant views about continuity of specific socio-cultural and state institutions. On the other hand, some of the same individuals who label the <italic>Aguu</italic> as deviants, see them as an opportunity to achieve political, economic or other objectives. These views of the <italic>Aguu</italic> as opportunity leads to two main categories of interaction with them. On the one hand the <italic>Aguu</italic> feature in discourses as a source of insecurity in Gulu by those who have an interest of using the <italic>Aguu</italic> for purposes of political or economic gains to increase personal or other status. This also leads at times to concrete measures against the <italic>Aguu</italic>, such as the ‘vigilante’ acts we describe. On the other hand, various individuals within the police, local leadership and the community, use their various powers to co-opt the <italic>Aguu</italic> and utilise them for economic gain, as labour, removing economic and political competition, and sorting personal and civic disagreements through violence. Some of these interactions with the <italic>Aguu</italic> can be analysed from an assemblage perspective as efforts to de-territorialise the group, for example by criminalising the ‘entity’ and taking actions against them. Other interactions lead to increased territorialisation of the <italic>Aguu</italic>, for example by mobilising them to achieve economic, political, and civic interests which results in strengthening the organisation and opportunities available to street youth/children. Thus, perceptions of the <italic>Aguu</italic> go beyond the dissatisfaction of an older generation with the choices of youth in the post-war era; the <italic>Aguu</italic> are simultaneously viewed as a source of insecurity due to crime and rebellious social behaviours, but also used by the same groups who label them as unwanted deviants to turn profit, to secure interests and for political gain.</p>
+         <p>In a place where the civil-war is still present in the minds of the population as a cause of contemporary disruption to societal norms, structures and livelihoods, some of the discourses in relation to the <italic>Aguu</italic> equates them to a dangerous ‘rebel group’ that pose security threats to the population and the city of Gulu [<xref ref-type="bibr" rid="R81">81</xref>, <xref ref-type="bibr" rid="R82">82</xref>, <xref ref-type="bibr" rid="R83">83</xref>]. As specified by street youth and various other stakeholders in Gulu, the conflict is still seen as a significant underlying cause for the presence of <italic>Aguu</italic> in the streets of Gulu. This is not only in relation to the current leadership of some <italic>Aguu</italic> ‘gangs’ of which some indicated that they belonged to the original group of street youth/children who found themselves in the streets as a direct result of the conflict.</p>
+         <p>This is also relevant to youth and children that ended in the streets of Gulu after the end of the conflict for reasons that are described as insecurities affecting caregivers stemming from the conflict, including difficult socio-economic situations, lack of access to livelihood due to loss of land, mental health, and other traumatic effects etc. The conflict is also the main reason behind the accelerated processes of urbanisation, growth and change in Gulu [<xref ref-type="bibr" rid="R84">84</xref>]. These processes, which began with the conflict and continued after the conflict as part of reconstruction efforts and the presence of a large number of national and international NGOs’, present new opportunities for people, and attract many youth/children as well as adults to the streets of Gulu for a variety of reasons.</p>
+         <p>As specified above, the <italic>Aguu</italic> is a reference to a complex entity which is defined externally as a homogenous deviant group. Internally, however, the <italic>Aguu</italic> is varied, multiple, complex and fluid. Despite being used as a derogatory term by most of those who view them as deviants, many street children/youth refer to themselves as <italic>Aguu</italic>. Some do so to indicate that they are ‘dangerous’, and as a consequence are left alone or imagine they gain respect through instilling fear. Others do so to convey an identity or a sense of belonging to an entity that fulfils some institutional functions and is composed of individuals that occupy the same physical and societal space.</p>
+         <p>In reality, <italic>Aguu</italic> today is a reference to youth and children that have in common the fact that their umbilical cords to mainstream societal structures have been severed or damaged, willingly or unwillingly. While the data illustrates how a history of displacement has led to the inception of the <italic>Aguu</italic> in Gulu, the subsequent processes of modification and change of this group represents more than the outcomes of the conflict, but also shifting generational values in Acholi society, and a break-down and reformulation of social, cultural, political and economic interests within the shifting character of urban Gulu after the conflict subsided and to date.</p>
+         <p>When it comes to the criminal organisation of the <italic>Aguu</italic>, we have outlined some of the <italic>territorialisation</italic> processes such as physical space, creation of rules, sanction, symbolic language and leadership. We have also indicated how members of the police, community and local leadership contribute to these <italic>territorialisation</italic> processes through, for example, bribery of police officers, co-option of criminal groups for economic gain, for political gain, and for punishment and revenge purposes, but also through marginalising and labelling the groups as social deviants, which leads to the formation of an identity and a counter movement of <italic>territorialisation</italic>. We have also alluded to the processes that attempt to <italic>de-territorialise</italic> the <italic>Aguu</italic>, expressed through police, political and popular actions and rhetoric against street youth/children. Also mentioned are the processes of <italic>de-territorialisation</italic> in relation to youth/children breaking away from what is considered normative socio-cultural Acholi institutions as well as state institutions such as law and order, and <italic>re-territorialisation</italic> in the form of <italic>Aguu</italic>, which, despite the external derogatory and criminal meaning, has also internal representation of identities stemming from access to and availability of new opportunities, hope for better lives, but also constrained choices, criminal organisation and abusive livelihood contexts. In this case, the study of the historical trajectory behind the creation and evolution of the <italic>Aguu</italic> and the processes that led to the contemporary outcome of their organisation and presence in the streets of Gulu, becomes an important factor for understanding the long-term effects of societal disruptions and new emerging opportunities for human security/insecurity in Gulu.</p>
+         <p>Referring to the <italic>Aguu</italic> today as a criminal entity and in derogatory terms, without distinguishing between the original <italic>Aguu</italic>, the multiple identities and activities of street youth/children at large in Gulu, processes of change in Gulu, the multiple identities and activities of those who use the <italic>Aguu</italic> for various purposes etc., leads to treating the <italic>Aguu</italic> today as an homogenous entity, and subsequently to discourses that point to a surface that looks deviant and criminal, but in reality overlooks complexity, multiplicity and fluidity.</p>
+      </sec>
+      <sec id="s8">
+         <title>8.- Limitations, Implications and Future Research</title>
+         <p>This study is focused on the <italic>Aguu</italic>, their complex history, current complexity, fluidity, change and evolution, and their place in Gulu. We did not study the <italic>Aguu</italic> in relation to the history and organisation of other criminal groups in Uganda, urban spaces, or elsewhere in Africa and the world. This article does not deal with street youth in African cities as a phenomenon, although our use of Assemblage Theory may nevertheless be relevant in the study of youth in other African cities to reveal underlying complex societal processes. Instead, the article focuses on street youth/children in Gulu linked to the particular context in Northern Uganda, and the shifting external and internal identities of the group and its members. We focused on fleshing out how children/youth became/become ‘<italic>Aguu</italic>’, the meanings of this label, the current organisation of the criminal groups within the <italic>Aguu</italic>, how the <italic>Aguu</italic> are viewed, understood and used by various members of the community, police, and local leadership, as well as how street children/youth view themselves and their livelihood contexts. We also highlight how these different identities are integrated into political and security discourses in Gulu. For ethical reasons and limitations of time and scope, we did not speak directly with minors, and did not focus on enlarging the number of respondents but focused instead on key informants and different stakeholders to sample the main discourses and opinions. We hope that the findings of this research will enable various stakeholders in Northern Uganda to better understand the identities of those who are labelled <italic>Aguu</italic>, the background for their formation as an entity, the mechanisms of transformation, and the linkage to criminal organisation. As the UPF is determined to roll its Community Policing Strategy, this article can provide some of the necessary analysis that may assist in developing more nuanced approaches to street children/youth in Gulu.
+</p>
+      </sec>
+      <sec id="s11">
+         <title>Acknowledgments</title>
+         <p>This research was funded by the EU Horizon 2020 project ICT4COP: ‘Community-Based Policing and Post-Conflict Police Reform’. We would like to thank the EU and the project for providing the funding to conduct this research. We express our gratitude to the project leader, Ingrid Nyborg for support throughout the research process and for commenting on earlier drafts of this article.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.hrw.org/report/2014/07/17/where-do-you-want-us-go/abuses-against-street-children-uganda"
+                         xlink:type="simple">https://www.hrw.org/report/2014/07/17/where-do-you-want-us-go/abuses-against-street-children-uganda</ext-link>
+               <year>2014</year>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <publisher-name>Human Rights Watch</publisher-name>
+               <publisher-name>Human Rights Watch</publisher-name>
+               <article-title>Where Do You Want Us to Go? Abuses against Street Children in Uganda</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>As of 1 July 2020, the status of Gulu shifted from a `Municipality' to `City'. As such, Gulu is currently the principal city in Northern Uganda.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.softpower.ug/gulu-police-calls-for-lasting-solution-to-street-goons-after-murder-of-bishops-daughter/</uri>.
+        </comment>
+               <year>2019</year>
+               <annotation>
+                  <p>As referred to by Jimmy Patrick Okema, the Police Spokesperson of the Aswa River Region quoted in: Soft Power News. Gulu: police calls for lasting solution to street goons after murder of Bishop's daughter</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="ttps://kups.ub.uni-koeln.de/8502/1/The_Mouth_3_online.pdf"
+                         xlink:type="simple">ttps://kups.ub.uni-koeln.de/8502/1/The_Mouth_3_online.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lorenz</surname>
+                     <given-names>Steffen</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>The Mouth: Critical Studies on Language, Culture and Society</source>
+               <issue>3</issue>
+               <fpage>173</fpage>
+               <lpage>182</lpage>
+               <article-title>Youth Languages and the Dynamics of Language Change. The story of Aguu and the Acholi Youth Language Leb pa Bwulu</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>While officially the conflict between these two entities is not resolved, the hostilities have been displaced and continue outside the borders of Uganda</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>As emphasised by Lorenz S. \citepR4</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.17875/gup2014-752</pub-id>
+               <year>2014</year>
+               <publisher-name>Göttingen University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vorhölter</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+               </person-group>
+               <article-title>Youth at the Crossroads</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This research was funded by the EU Horizon2020 project ICT4COP.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This research was conducted before the status of Gulu changed, and the reference to the administrative structures in this article are in line with the status of Gulu as a Municipality.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>University of Minnesota Press</publisher-name>
+               <isbn>0816614016</isbn>
+               <year>1987</year>
+               <article-title>A Thousand Plateaus: Capitalism and Schizophrenia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Deleuze</surname>
+                     <given-names>Gilles </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781472546043</pub-id>
+               <year>2006</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>DeLanda</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Continuum</publisher-name>
+               <article-title>A New Philosophy of Society: Assemblage Theory and Social Complexity</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Edinburgh University Press</publisher-name>
+               <isbn>9781474413633</isbn>
+               <year>2016</year>
+               <article-title>Assemblage Theory</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>De Landa, Manuel </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.3366/dls.2017.0276</pub-id>
+               <year>2017</year>
+               <publisher-name>Edinburgh University Press</publisher-name>
+               <volume>11</volume>
+               <issue>3</issue>
+               <fpage>457</fpage>
+               <lpage>474</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buchanan</surname>
+                     <given-names>Ian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Assemblage Theory, or, the Future of an Illusion</article-title>
+               <source>Deleuze Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781350015579</pub-id>
+               <year>2021</year>
+               <publisher-name>Bloomsbury Academic</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buchanan</surname>
+                     <given-names>Ian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Assemblage Theory and Method</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/j.1749-5687.2008.00060.x</pub-id>
+               <year>2009</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>17</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abrahamsen</surname>
+                     <given-names>Rita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Security Beyond the State: Global Security Assemblages in International Politics</article-title>
+               <source>International Political Sociology</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/cbo9780511974441</pub-id>
+               <year>2010</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abrahamsen</surname>
+                     <given-names>Rita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Security Beyond the State</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Private Security in Africa: From the Global Assemblage to the Everyday</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Higate</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Utas</surname>
+                     <given-names>Mats</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <isbn>978-1786990266</isbn>
+               <publisher-name>Zed Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/21622671.2018.1559760</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>8</volume>
+               <issue>3</issue>
+               <fpage>319</fpage>
+               <lpage>335</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Savage</surname>
+                     <given-names>Glenn C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>What is Policy Assemblage?</article-title>
+               <source>Territory, Politics, Governance</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2014</year>
+               <fpage>39</fpage>
+               <lpage>57</lpage>
+               <publisher-loc>Maklu, Antwerpen, Belgium</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Crewe</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Assemblage Theory and the Future for Criminology</chapter-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Calster</surname>
+                     <given-names>Van</given-names>
+                  </name>
+               </person-group>
+               <source>New Directions for Criminology Antwerp: Maklu</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ssrn.com/abstract=2875344"
+                         xlink:type="simple">https://ssrn.com/abstract=2875344</ext-link>
+               <year>2016</year>
+               <publisher-name>Eidos and Process</publisher-name>
+               <volume>6</volume>
+               <issue>4</issue>
+               <fpage>999</fpage>
+               <lpage>1015</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Crewe</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gang: Culture</article-title>
+               <source>Oñati Socio-legal Series</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1468794119830641</pub-id>
+               <year>2019</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>174</fpage>
+               <lpage>193</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Feely</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <article-title>Assemblage Analysis: an Experimental New-materialist Method for Analysing Narrative Data</article-title>
+               <source>Qualitative Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/9781137358103</pub-id>
+               <year>2013</year>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hallsworth</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Gang and Beyond</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1741659008092327</pub-id>
+               <year>2008</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>4</volume>
+               <issue>2</issue>
+               <fpage>175</fpage>
+               <lpage>195</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hallsworth</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Young</surname>
+                     <given-names>Tara</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gang talk and Gang Talkers: A Critique</article-title>
+               <source>Crime, Media, Culture: An International Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/00071773.1994.11007058</pub-id>
+               <year>1994</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>25</volume>
+               <issue>2</issue>
+               <fpage>157</fpage>
+               <lpage>169</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Patton</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+               </person-group>
+               <article-title>Metamorpho-Logic: Bodies and Powers in A Thousand Plateaus</article-title>
+               <source>Journal of the British Society for Phenomenology</source>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.geoforum.2019.06.011</pub-id>
+               <year>2019</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>104</volume>
+               <fpage>71</fpage>
+               <lpage>80</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Richmond</surname>
+                     <given-names>Matthew Aaron</given-names>
+                  </name>
+               </person-group>
+               <article-title>``Hostages to both sides'': Favela Pacification as Dual Security Assemblage</article-title>
+               <source>Geoforum</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13604813.2018.1451138</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>22</volume>
+               <issue>2</issue>
+               <fpage>257</fpage>
+               <lpage>269</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shand</surname>
+                     <given-names>Wayne</given-names>
+                  </name>
+               </person-group>
+               <article-title>Urban Assemblage, Street Youth and the Sub-Saharan African City</article-title>
+               <source>City</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/9781137333858</pub-id>
+               <year>2013</year>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>White</surname>
+                     <given-names>Rob</given-names>
+                  </name>
+               </person-group>
+               <article-title>Youth Gangs, Violence and Social Respect</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Klein</surname>
+                     <given-names>Malcolm W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Street Gangs and Street Workers</article-title>
+               <isbn>0138515018</isbn>
+               <publisher-name>Prentice-Hall Englewood Cliffs, N.J</publisher-name>
+               <fpage>338</fpage>
+               <year>1971</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Oxford University Press</publisher-name>
+               <isbn>0195095340</isbn>
+               <year>1995</year>
+               <article-title>The American Street Gang: Its Nature, Prevalence, and Control</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Klein</surname>
+                     <given-names>Malcolm W </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Cambridge University Press</publisher-name>
+               <isbn>0521562929</isbn>
+               <year>1996</year>
+               <article-title>Life in the Gang: Family, Friends, and Violence</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Decker</surname>
+                     <given-names>Scott H </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/j.1745-9125.1993.tb01142.x</pub-id>
+               <year>1993</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>31</volume>
+               <issue>4</issue>
+               <fpage>565</fpage>
+               <lpage>589</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Esbensen</surname>
+                     <given-names>Finn-Aage</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huitizinga</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gangs, Drugs and Delinquency in a Survey of Urban Youth</article-title>
+               <source>Criminology</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ojp.gov/pdffiles/171119.pdf"
+                         xlink:type="simple">https://www.ojp.gov/pdffiles/171119.pdf</ext-link>
+               <year>1998</year>
+               <publisher-name>Office of Juvenile Justice and Delinquency Prevention, U.S. Department of Justice</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Battin-Pearson, Sara R.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thornberry</surname>
+                     <given-names>Terrence P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Hawkins, David</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Krohn</surname>
+                     <given-names>Marvin D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gang Membership, Delinquent Peers, and Delinquent Behavior</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ojp.gov/pdffiles1/ojjdp/190106.pdf"
+                         xlink:type="simple">https://www.ojp.gov/pdffiles1/ojjdp/190106.pdf</ext-link>
+               <source>Juvenile Justice Bulletin</source>
+               <publisher-name>U.S. Department of Justice</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hill</surname>
+                     <given-names>Karl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lui</surname>
+                     <given-names>Christina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hawkins</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <article-title>Early Precursors of Gang Membership: A Study of Seattle Youth</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/0-306-47945-1\_2</pub-id>
+               <year>2003</year>
+               <publisher-name>Springer US</publisher-name>
+               <fpage>11</fpage>
+               <lpage>46</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Thornberry</surname>
+                     <given-names>Terence P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lizotte</surname>
+                     <given-names>Alan J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Krohn</surname>
+                     <given-names>Marvin D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Carolyn A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Porter</surname>
+                     <given-names>Pamela K.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Causes and Consequences of Delinquency</chapter-title>
+               <source>Taking Stock of Delinquency</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.7312/kont12140</pub-id>
+               <year>2003</year>
+               <publisher-name>Columbia University Press</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kontos</surname>
+                     <given-names>Louis and Brotherton, David C. and Barrios, Luis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gangs and Society</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/b.9780631220923.2003.00007.x</pub-id>
+               <year>2003</year>
+               <publisher-name>Blackwell Publishing Ltd</publisher-name>
+               <fpage>91</fpage>
+               <lpage>124</lpage>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Colin</surname>
+                     <given-names>Sumner</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>The Blackwell Companion to Criminology</chapter-title>
+               <source>The Blackwell Companion to Criminology</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>We recognise that on this level, we treat the police, local leadership and communities as homogenous entities in regard to their view of the \textitAguu as an entity. In reality, each of these entities is an assemblage composed of heterogenous individuals, institutions, physical and symbolic properties etc. Local leaders, for example, include religious leadership, cultural leadership, political leadership, customary leadership, informal leadership etc. It is beyond the scope of this article to nuance the assemblage of each of these entities, and we use key informants as representative of the entity's view of \textitAguu.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>It is important to note that by sui-generis we do not mean to insinuate that the Aguu as street youth/children or as criminal gangs in an urban space is a unique phenomenon in Gulu, Uganda. We allude to the particular trajectory that lead to assemblages and their multiplicity and fluidity. Indeed, research on street youth/children and criminal gangs in African cities and elsewhere in the world indicates many similarities between the criminal behaviour of the \textitAguu in Gulu and other places in the world, as well as similar mechanisms of interactions in contexts of political economy, post-conflict reconstruction, urbanisation etc. As we specify in the limitations section of this article, we do not engage here in a review and summary of this literature, nor conduct a comparative analysis. Nevertheless, the information in this article can serve those who wish to conduct a comparative analysis of street youth/children and criminal organisation in African cities and elsewhere. For some of the relevant literature on these issue see notes\citepR39,R40,R41,R42</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13533312.2013.838391</pub-id>
+               <year>2013</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>20</volume>
+               <issue>3</issue>
+               <fpage>321</fpage>
+               <lpage>337</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mitton</surname>
+                     <given-names>Kieran</given-names>
+                  </name>
+               </person-group>
+               <article-title>Where is the War? Explaining Peace in Sierra Leone</article-title>
+               <source>International Peacekeeping</source>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-981-4585-97-2\_5-1</pub-id>
+               <year>2015</year>
+               <publisher-name>Springer Singapore</publisher-name>
+               <fpage>1</fpage>
+               <lpage>21</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shand</surname>
+                     <given-names>Wayne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Blerk, Lorraine</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hunter</surname>
+                     <given-names>Janine</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Economic Practices of African Street Youth: The Democratic Republic of Congo, Ghana, and Zimbabwe</chapter-title>
+               <source>Labouring and Learning</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1748895817750436</pub-id>
+               <year>2018</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>19</volume>
+               <issue>2</issue>
+               <fpage>179</fpage>
+               <lpage>196</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Theodore Petrus</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Irvin Kinnes</surname>
+                  </name>
+               </person-group>
+               <article-title>New social Bandits? A Comparative Analysis of Gangsterism in the Western and Eastern Cape Provinces of South Africa</article-title>
+               <source>Criminology &amp; Criminal Justice</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780429284397-5</pub-id>
+               <year>2020</year>
+               <publisher-name>Routledge</publisher-name>
+               <fpage>82</fpage>
+               <lpage>97</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maarten Hendriks</surname>
+                  </name>
+               </person-group>
+               <chapter-title>The Politics of Everyday Policing in Goma: The Case of the Anti-gang</chapter-title>
+               <source>Urban Africa and Violent Conflict</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020001</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Emerging Perspectives on Post-Conflict Police-Community Relations</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Before the status of Gulu changed from Municipality to City, there were four divisions in Gulu municipality. After July 1$^st$, 2020, these division were merged into two: Gulu West and Gulu East.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.jstor.org/stable/30028964"
+                         xlink:type="simple">http://www.jstor.org/stable/30028964</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kiessling</surname>
+                     <given-names>Roland</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mous</surname>
+                     <given-names>Maarten</given-names>
+                  </name>
+               </person-group>
+               <source>Anthropological Linguistics</source>
+               <issue>3</issue>
+               <fpage>303</fpage>
+               <lpage>341</lpage>
+               <publisher-name>[Anthropological Linguistics, Trustees of Indiana University]</publisher-name>
+               <article-title>Urban Youth Languages in Africa</article-title>
+               <volume>46</volume>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nassenstein</surname>
+                     <given-names>Nico</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hollington</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+               </person-group>
+               <article-title>Youth Language Practices in Africa and Beyond</article-title>
+               <year>2015</year>
+               <publisher-name>De Gruyter Mouton</publisher-name>
+               <isbn>978-1-61451-852-5"</isbn>
+               <pub-id pub-id-type="doi">10.1515/9781614518525</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beall</surname>
+                     <given-names>Jo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goodfellow</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rodgers</surname>
+                     <given-names>Dennis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Cities and Conflict in Fragile States in the Developing World</article-title>
+               <source>Urban Studies</source>
+               <volume>50</volume>
+               <issue>15</issue>
+               <fpage>3065</fpage>
+               <lpage>3083</lpage>
+               <year>2013</year>
+               <pub-id pub-id-type="doi">10.1177/0042098013487775</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Branch</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <source>The Political Dilemmas of Global Justice: Anti-Civilian Violence and the Violence of Humanitarianism, the Case of Northern Uganda</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ci.nii.ac.jp/ncid/BA91027513"
+                         xlink:type="simple">https://ci.nii.ac.jp/ncid/BA91027513</ext-link>
+               <publisher-name>Columbia University,</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Branch</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>3152</fpage>
+               <lpage>3167</lpage>
+               <article-title>Gulu in War\dots and Peace? The Town as Camp in Northern Uganda</article-title>
+               <volume>50</volume>
+               <source>Urban Studies</source>
+               <pub-id pub-id-type="doi">10.1177/0042098013487777</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Duke University Press</publisher-name>
+               <isbn>9780822341741</isbn>
+               <year>2008</year>
+               <article-title>Living with Bad Surroundings: War, History, and Everyday Moments in Northern Uganda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Finnström</surname>
+                     <given-names>Sverker </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="book" xlink:type="simple">
+               <volume>4</volume>
+               <publisher-name>Berghahn Books</publisher-name>
+               <isbn>1845455657</isbn>
+               <year>2009</year>
+               <article-title>Social Torture: The Case of Northern Uganda, 1986-2006</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dolan</surname>
+                     <given-names>Chris </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Zed Books</publisher-name>
+               <isbn>9781848135635</isbn>
+               <year>2010</year>
+               <article-title>The Lord's Resistance Army: Myth and Reality</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The literature indicates that the protected villages were death traps, where social and health conditions kept on deteriorating, and the UPDF presence was inconsistent, allowing the LRA to attack and massacre the dwellers of these camps. Please see references (\citeR50</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Branch</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Displacing Human Rights: War and Intervention in Northern Uganda</article-title>
+               <isbn>9780199782086</isbn>
+               <publisher-name>Oxford University Press</publisher-name>
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780199782086.001.0001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>United Religions Initiative (URI) &amp; Acholi Religious Leaders Peace Initiative (ARLPI)</publisher-name>
+               <article-title>Mitigating Land Based Conflicts in Northern Uganda</article-title>
+               <publisher-loc>Kampala, Uganda</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.uri.org/sites/default/files/media/document/2017/Mitigating\%20Land\%20Book\%20final.pdf"
+                         xlink:type="simple">https://www.uri.org/sites/default/files/media/document/2017/Mitigating\%20Land\%20Book\%20final.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Fountain Publishers</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chelimo</surname>
+                     <given-names>G. A.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Hintjens</surname>
+                     <given-names>H and Maguru, J. M. and Nyakaisiki, F and Odong, J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Land Rights in the Context of Post-War Northern Uganda: the Case of Amuru District, Uganda</chapter-title>
+               <publisher-loc>Kampala, Uganda</publisher-loc>
+               <source>Challenging Social Exclusion: Multi Sectoral Approaches to Realising Social Justice in East Africa</source>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McElroy</surname>
+                     <given-names>Theresa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Muyinda</surname>
+                     <given-names>Herbert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Atim</surname>
+                     <given-names>Stella</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spittal</surname>
+                     <given-names>Patricia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Backman</surname>
+                     <given-names>Catherine</given-names>
+                  </name>
+               </person-group>
+               <article-title>War, Displacement and Productive Occupations in Northern Uganda</article-title>
+               <source>Journal of Occupational Science</source>
+               <volume>19</volume>
+               <issue>3</issue>
+               <fpage>198</fpage>
+               <lpage>212</lpage>
+               <year>2012</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/14427591.2011.614681</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <issn>0951-6328</issn>
+               <source>Journal of Refugee Studies</source>
+               <fpage>282</fpage>
+               <lpage>300</lpage>
+               <volume>27</volume>
+               <publisher-name>Oxford University Press</publisher-name>
+               <issue>2</issue>
+               <year>2014</year>
+               <article-title>Motherhood and Social Repair after War and Displacement in Northern Uganda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baines</surname>
+                     <given-names>Erin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rosenoff Gauvin, Lara</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2010</year>
+               <publisher-name>James Currey</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Perrot</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>T and Vlassenroot, K</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Northern Uganda: A `Forgotten Conflict', Again? The Impact of the Internationalization of The Resolution Process</chapter-title>
+               <fpage>187</fpage>
+               <lpage>204</lpage>
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <source>The Lord's Resistance Army: Myth and Reality</source>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://resourcecentre.savethechildren.net/node/2373/pdf/2373.pdf"
+                         xlink:type="simple">https://resourcecentre.savethechildren.net/node/2373/pdf/2373.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Falk</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lenz</surname>
+                     <given-names>JA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Okuma</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Study of The Dynamics Behind Child Night Commuting Phenomena in Gulu, Uganda</article-title>
+               <publisher-name>Red Barnet: Save the Children Denmark</publisher-name>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.31899/hiv1.1005</pub-id>
+               <year>2010</year>
+               <source>Population Council</source>
+               <month>Dec 5</month>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kalibala</surname>
+                     <given-names>Sam</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elson</surname>
+                     <given-names>Lynne</given-names>
+                  </name>
+               </person-group>
+               <article-title>Protecting Hope: Situation Analysis of Vulnerable Children in Uganda 2009</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Protecting the Right to Life of the Internally Displaced: An Examination of Encampment and Its Effects on the Communities in Unyama and Koro Sub-Counties in Gulu District, Northern Uganda</article-title>
+               <source>Independent Study Project (ISP) Collection</source>
+               <source>ndependent Study Project (ISP)Collection</source>
+               <comment>2345</comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alessandra</surname>
+                     <given-names>Ashley</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://digitalcollections.sit.edu/isp_collection/2345"
+                         xlink:type="simple">https://digitalcollections.sit.edu/isp_collection/2345</ext-link>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <isbn>9780812232486</isbn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.jstor.org/stable/j.ctt17mvh9g"
+                         xlink:type="simple">http://www.jstor.org/stable/j.ctt17mvh9g</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ronald R. Atkinson</surname>
+                  </name>
+               </person-group>
+               <publisher-name>University of Pennsylvania Press</publisher-name>
+               <article-title>The Roots of Ethnicity: The Origins of the Acholi of Uganda Before 1800</article-title>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>By this we do not mean to insinuate that the current socio-cultural Acholi institutions and organisation are identical to the pre-war institutions. Nevertheless, it is important to note that there is a strong will within the Acholi people to preserve their cultural heritage and uphold societal norms. These are expressed not only by the attempt to re-create institutions, but also by frequent happenings and celebrations in Gulu that highlight Acholi cultural heritage and organisation.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA) &amp; Integrated Regional Information Networks (IRIN)</publisher-name>
+               <article-title>When the Sun Set we Start to Worry: An Account of Life in Northern Uganda</article-title>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Night Commuting in Gulu, Northern Uganda: From Spontaneous Strategy to New Social Institution</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://urn.nb.no/URN:NBN:no-13589"
+                         xlink:type="simple">http://urn.nb.no/URN:NBN:no-13589</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lunde</surname>
+                     <given-names>Henriette</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <institution>University of Oslo</institution>
+               <publisher-loc>Oslo, NO</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <publisher-name>eScholarship, University of California</publisher-name>
+               <year>2007</year>
+               <article-title>Abducted: The Lord's Resistance Army and Forced Conscription in Northern Uganda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pham</surname>
+                     <given-names>Phuong</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vinck</surname>
+                     <given-names>Patrick</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stover</surname>
+                     <given-names>Eric</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://hhi.harvard.edu/sites/default/files/publications/abducted-the-lords-resistance-army.pdf"
+                         xlink:type="simple">https://hhi.harvard.edu/sites/default/files/publications/abducted-the-lords-resistance-army.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Local Council at the lowest administrative level (level 1).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Police in Gulu still Holding 120 Suspects Arrested Christmas Season</article-title>
+               <year>2019</year>
+               <month>Jan 11</month>
+               <source>Eagle Online</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://eagle.co.ug/2019/01/11/police-in-gulu-still-holding-120-suspects-arrested-in-christmas-season.html"
+                         xlink:type="simple">https://eagle.co.ug/2019/01/11/police-in-gulu-still-holding-120-suspects-arrested-in-christmas-season.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Gulu Cracks Down on Notorious Street Gang</article-title>
+               <year>2019</year>
+               <month>Jun 29</month>
+               <source>The Daily Monitor</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.monitor.co.ug/News/National/Gulu-cracks-down-notorious-street-gang/688334-5176646-6rxvgaz/index.html"
+                         xlink:type="simple">https://www.monitor.co.ug/News/National/Gulu-cracks-down-notorious-street-gang/688334-5176646-6rxvgaz/index.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>In Gulu, Aguu Storm Industrial Area, Demand for Head of LC1 Chairperson</article-title>
+               <year>2019</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Emmy Ojara</surname>
+                  </name>
+               </person-group>
+               <month>Jun 23</month>
+               <source>Acholi Times</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.acholitimes.com/2019/06/23/in-gulu-aguu-storm-industrial-area-demand-for-head-of-lc1-chairman/?fbclid=IwAR3hEtrsEtMM7hVj1mt\_qI2bY6XvQcz1Xs9xRMWSrI8v7kf2\_5Ol4SXxcTA"
+                         xlink:type="simple">http://www.acholitimes.com/2019/06/23/in-gulu-aguu-storm-industrial-area-demand-for-head-of-lc1-chairman/?fbclid=IwAR3hEtrsEtMM7hVj1mt\_qI2bY6XvQcz1Xs9xRMWSrI8v7kf2\_5Ol4SXxcTA</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Gulu Local Leaders Seek Police Protection from Thugs</article-title>
+               <year>2019</year>
+               <month>Jul 7</month>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Emmy Ojara</surname>
+                  </name>
+               </person-group>
+               <source>Acholi Times</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.acholitimes.com/2019/07/07/gulu-local-leaders-seek-police-protection-from-thugs/"
+                         xlink:type="simple">http://www.acholitimes.com/2019/07/07/gulu-local-leaders-seek-police-protection-from-thugs/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Based on interviews with three LC3 Chairpersons in Gulu that were involved in such actions.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>How Criminal Gangs are Terrorising Gulu Residents</article-title>
+               <year>2019</year>
+               <month>Jun 25</month>
+               <source>The Daily Monitor</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.monitor.co.ug/News/National/How-criminal-gangs-are-terrorising-Gulu-residents/688334-5171380-ift3us/index.html"
+                         xlink:type="simple">https://www.monitor.co.ug/News/National/How-criminal-gangs-are-terrorising-Gulu-residents/688334-5171380-ift3us/index.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>While most of our respondents did not refer to the \textitAguu with compassion, it is important to note that on social media forums dedicated to discussions on the \textitAguu in Gulu, one can locate different opinions. For example, one comment in a WhatsApp group in Gulu (dedicated to discussions with opinion leaders on contemporary issues), in a thread discussing the Aguu, one person wrote: `I think we need to devise a more sober, soft mechanism of dealing with these \textitAguu</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>While this view was expressed to us by community members, leaders and the police in an over-generalised fashion, it is important to note that there are many youth in Gulu who believe that preserving Acholi cultural structure and heritage is imperative, and are participating actively in efforts to revive traditional culture and symbolism.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Macmillan</publisher-name>
+               <isbn>0333339819</isbn>
+               <year>1984</year>
+               <article-title>The Division of Labour in Society</article-title>
+               <publisher-loc>London, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Durkheim</surname>
+                     <given-names>Emile </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Routledge</publisher-name>
+               <isbn>0415278309</isbn>
+               <year>2002</year>
+               <article-title>Suicide: A Study in Sociology</article-title>
+               <publisher-loc>London, UK</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Durkheim</surname>
+                     <given-names>Emile </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Social Theory and Social Structure</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Merton</surname>
+                     <given-names>R.K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Merton</surname>
+                     <given-names>R.C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Macmillan Publishing Company</surname>
+                  </name>
+               </person-group>
+               <isbn>9780029211304</isbn>
+               <year>1968</year>
+               <publisher-name>Free Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>The Free Press</publisher-name>
+               <year>1955</year>
+               <article-title>Delinquent Boys: The Culture of the Gang</article-title>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>Albert K </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>See for example quoting a community leader and the Aswa regional Police spokesman (respectively) for linking B13 to \textitAguu on: New Media Uganda</p>
+               </annotation>
+               <year>2019</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.youtube.com/watch?v=hHuQAwVJ4q0</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>See for example quoting a community leader and the Aswa regional Police spokesman (respectively) for linking B13 to \textitAguu on: New Media Uganda</p>
+               </annotation>
+               <publisher-name>New Media Uganda</publisher-name>
+               <year>2019</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.youtube.com/watch?v=6jnI4UKJxig</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>PMLDaily</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David Okema</surname>
+                  </name>
+               </person-group>
+               <article-title>No New Rebel Group in Gulu</article-title>
+               <year>2019</year>
+               <month>Jul 20</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pmldaily.com/news/2019/07/no-new-rebel-group-in-gulu-police-disclaims-as-residents-vow-to-lynch-suspected-members.html"
+                         xlink:type="simple">https://www.pmldaily.com/news/2019/07/no-new-rebel-group-in-gulu-police-disclaims-as-residents-vow-to-lynch-suspected-members.html</ext-link>
+               <annotation>
+                  <p>The police was quick to denounce the equation of B13 to a rebel group, highlighting that it is a criminal gang of \textitAguu operating in the Gulu region</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Some may argue that growth and change may have come to Gulu without the conflict. This is most likely true, nevertheless, in the case of Gulu, \textitde-facto</p>
+               </annotation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
