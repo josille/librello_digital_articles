@@ -1,0 +1,1564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2021.16020134</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Civil Security in the Wake of Crisis—Renegotiating Police-Community Relations in Post-Crisis Development in Swat, Pakistan</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nyborg</surname>
+                  <given-names>Ingrid</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nawab</surname>
+                  <given-names>Bahadar</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Department of International Environment and Development Studies, Norwegian University of Life Sciences</aff>
+         <aff id="A3">
+            <label>2</label>Department of Development Studies, COMSATS University Islamabad (CUI), Abbottabad Campus, Pakistan</aff>
+         <pub-date pub-type="ppub">
+            <day>07</day>
+            <month>06</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>134</fpage>
+         <lpage>148</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This paper explores the transition from military to civil security in post-militancy and subsequent militant operations in 2009 and the floods of 2010 in the Swat Valley of Khyber Pakhtunkhwa (KP), Pakistan. Based mainly on qualitative interviews with local police and community women and men, the paper examines the shifting roles of the police over the course of these crises and how community-police relations are continuously negotiated.  Before the conflict, relations between the community and police were weak, and traditional institutions such as the jirga were functioning. Militants attacked both systems, targeting police, politicians, jirga leaders and education institutions. Following the military operation, the responsibility for security became a confusing institutional landscape of civil and military actors, which has reshaped community-police relations in Swat. Dichotomous distinctions between state and non-state, formal and informal institutions fall short in describing the everyday dynamic crafting of local institutions, particularly in a post-conflict context like Swat. New ‘hybrid’ institutions have emerged, initiated by both government and communities, with varying degrees of success in building trust and addressing peoples’ fears that militants may return. The results are relevant for both post-conflict development assistance and police and justice reform not only in the study area, but also in other post-conflict areas where states and communities find themselves re-negotiating their basic relationships.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Sevurity</kwd>
+            <kwd>Human Security</kwd>
+            <kwd>Post-Conflict</kwd>
+            <kwd>Pakistan</kwd>
+            <kwd>Swat Local Institutions: Bricolage: Community-Oriented Policing</kwd>
+            <kwd>Police Reform</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>As the world focused on geopolitics and events in Afghanistan post-9/11, less visible but nevertheless significant changes were taking place in northwestern Pakistan. Cross-border movements that were historically common in the Khyber Pakhtunkhwa Merged Districts (KPMD) [<xref ref-type="bibr" rid="R1">1</xref>] began to increasingly influence adjoining areas in Khyber Pakhtunkhwa (KP) [<xref ref-type="bibr" rid="R2">2</xref>]. The Swat Valley is one of these affected areas. From around 2006, militants [<xref ref-type="bibr" rid="R3">3</xref>] began to move into the area, introducing a comparatively conservative religious agenda through local religious leaders such as Sufi Mohammad and Fazal Ullah, and appealing to those parts of the population who were already frustrated with an ineffective government, a particularly slow and expensive judicial process, and marked class differences [<xref ref-type="bibr" rid="R4">4</xref>]. Claiming a moral high ground, as well as consensus of the local population, the militants demanded quick justice systems (Nizam-e-Adl) and Sharia [<xref ref-type="bibr" rid="R5">5</xref>] to be imposed in Swat, and the government eventually conceded. The period between 2007-2009 was one of increasing violence in the valley, where police, local leaders, moderate religious leaders, political figures and elite were targeted, and women’s mobility was severely restricted. While some attempts were made by both the government and local community leaders to negotiate with the militants, the situation in Swat was considered so serious that the government undertook several operations to rid the valley of militants. The decisive military operation (Rah-e-Rast) took place in the late spring of 2009, where approximately 2.5 million people from Swat were displaced to camps and private homes in the Mardan and Peshawar area while the army and militants fought for control of the valley. Within three months, Swat was ‘cleared’ of militants, and the internally displaced persons (IDPs) began their return to Swat.</p>
+         <p>The army took control [<xref ref-type="bibr" rid="R6">6</xref>], and was therefore able to contribute to rescue, relief and reconstruction activities in resettlements of IDPs in the aftermath of the devastating floods of July 2010 as well. As the crisis normalized, the army reduced its presence, and responsibility for general security was gradually handed over to the civil police. There have since been a number of donor initiatives to assist the government in strengthening rule of law, including both the police and the judiciary, which is seen as one important step in preventing future conflicts in the area. The question remains, however, whether these new initiatives are designed with adequate attention to the local institutional, cultural and political context, and local experiences of security and insecurity.</p>
+         <p>This paper looks closely at how security and insecurity in the area has been experienced and has led local police and community members in terms of the creation and evolution of civil and government institutions. It begins by describing the situation in Swat in terms of civil security before, during and after the conflict, with a focus on the changing role of the police, the Army, traditional institutions, judiciary, local administration, and police-community relations. The paper goes on to discuss security and insecurities in the communities related to the conflict, including the changing perceptions of the police and attempts to reform police and strengthen the rule of law in the area at district and provincial levels. Finally, it looks at police reform processes in Swat in light of larger processes of police and judiciary reform in Pakistan, including ideas around policing and the judiciary in MDKP. The paper highlights institutional bricolage as a best strategy in conflict and post-conflict situations, particularly in traditional societies, for better engagement of the local community and dispute resolution. It concludes with a discussion of what we can learn from the Swat case in terms of understanding local perspectives and institutions in finding innovative ways of dealing with human security issues in post–conflict contexts. The paper is based mainly on qualitative data collected in Pakistan through individual interviews and focus group discussions with national, provincial and district authorities, development organizations, local and national police, and community women and men in and from Swat between 2010-2019. In addition, policy documents and print media sources have been consulted [<xref ref-type="bibr" rid="R7">7</xref>].</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Conceptual framework</title>
+         <p>The study of civil security in relation to police-judiciary and community relations in post-conflict contexts involves the use of concepts that are often unclear and contested not only in the literature, but in practice. There are three bodies of theory that are central to the arguments presented in this paper. The first is the literature dealing with security and conflict. While conventional ideas of security in security studies are concerned mainly with national security or the security of the state [<xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>], this research is grounded in literature from critical security studies and development studies where security is both broader and people-centered. Furthermore, the focus is not merely on whether people are secure or insecure, but on how security is constituted in society [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. Within this perspective, we find human security useful as a concept. According to Alkierie [<xref ref-type="bibr" rid="R17">17</xref>], ‘the objective of human security is to safeguard the vital core of all human lives from critical pervasive threats, in a way that is consistent with long-term human fulfillment’ [<xref ref-type="bibr" rid="R18">18</xref>]. This expands ideas of insecurity beyond direct violence and war to include the multiple sources and interrelatedness of insecurities faced by different women and men in post-conflict contexts. Insecurity thus becomes a broad concept that encourages interdisciplinary thinking [<xref ref-type="bibr" rid="R19">19</xref>] about issues ranging from food and livelihood insecurity to personal, health, environmental and political insecurity. Along these lines, conflict in this study takes on a broader meaning than merely war and can range from armed conflict at a macro level to inter-personal conflicts at a very micro level. This allows for an analysis of conflict resolution and management at multiple levels, and can include conflict over borders, resources, or interpretations of cultural and religious norms and practices. This is a particularly useful approach in Swat, as conflicts are an integrated part of peoples’ everyday lives, are often multiple and overlapping, and include elements of both political and personal interests at several levels [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>].</p>
+         <p>The second body of literature central to this research deals with policing, and more specifically community-oriented policing (COP) and the Rule of Law (ROL). Most countries in the world today subscribe to some form of community-oriented policing in their work, comprising activities which are designed to bring the police in closer contact with communities, in the belief that this will contribute to more trusting relations and reduced crime [<xref ref-type="bibr" rid="R21">21</xref>]. These activities can take many forms, but are characteristically preventative, proactive, problem-solving, and partnership-forming [<xref ref-type="bibr" rid="R23">23</xref>]. Taking a critical view of COP, Brogden [<xref ref-type="bibr" rid="R24">24</xref>] describes how the community-oriented policing agenda, which has its roots primarily in Western ideas of law and justice, has become a central part of reform processes in developing and transitional societies in the global South. He argues that despite good intentions of addressing issues such as stability and human rights, models of COP have been transferred rather uncritically into these societies without adequately considering local culture, norms or institutions, rendering them seldom if ever appropriate. Brogden explains this as a continuation of an earlier ‘law and development’ paradigm from the 1960s and 70s that was based on ‘the general assumption…that law was central to the development process. Social change could not occur in a desired direction without appropriate legal provisions’ [<xref ref-type="bibr" rid="R24">24</xref>]. This was understood in terms of Western legal traditions and did not take into account the vast differences in traditional laws, customary codes, and local, indigenous, legal structures in so-called developing countries. Since then, there has been a growing understanding of legal pluralism and plural legal orders [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>], and the challenges and opportunities this brings not only in the justice sector, but the policing sector as well. In fact, development assistance projects which focus on Rule of Law address the linkages between these sectors, but usually with a focus on state institutions. Golub [<xref ref-type="bibr" rid="R30">30</xref>] criticizes what he terms the ‘Rule of Law Orthodoxy’ so common in development assistance, which he claims is top-down and confined to reform of the formal justice sector, giving ‘insufficient attention to the needs of the disadvantaged’. As an alternative, he introduces the concept of Legal Empowerment, which more directly addresses the need to support civil society efforts to build the legal capacities of the poor. In this approach: ‘(1) attorneys support the poor as partners, instead of dominating them as proprietors of expertise; (2) the disadvantaged play a role in setting priorities, rather than government officials and donor personnel dictating the agenda; (3) addressing these priorities frequently involves non-judicial strategies that transcend narrow notions of legal systems, justice sectors, and institution building; (4) even more broadly, the use of law is often just part of integrated strategies that include other development activities’.</p>
+         <p>The concept of Legal Empowerment thus represents a broadening of the approach to ROL to include local institutions and local contexts of power relations. This resonates well with Brogden’s [<xref ref-type="bibr" rid="R24">24</xref>] conclusions about how COP might succeed if it abandons its top-down, fixed form and takes note of local context: ‘…the key requirement must be that the initiative is local in character. It must draw on local experiences and practice in terms of what works…they must only be implemented when they are constructed through the benefit of local knowledge and sensitivity to local conditions and legitimation’.</p>
+         <p>Despite his support of local perspectives, Brogden [<xref ref-type="bibr" rid="R24">24</xref>] does recognize the challenges in bringing local institutions into policing. Issues of accountability for local policing-like groups and their lack of legal status, the politicization of local groups and issues of impunity cause concern for reformers.</p>
+         <p>This leads us into the third body of literature, which is related to the conceptualization of institutions and their evolution. For this aspect we find discussions of resource management institutions in the fields of anthropology, development studies and political ecology particularly insightful in understanding how local institutions are formed and re-formed in the face of social, economic and political changes. Contemporary understandings of resource management institutions have been influenced by the rise of legal pluralism mentioned earlier, particularly in studies of customary land rights. A plethora of studies of the complex user rights regimes governing land, water, forest and mineral resources have shown that local communities manage common resources in ways that can only be understood through the lens of the local social, economic and moral context in which they are practiced. But while some scholars and policymakers claim that these rules can translate into principles for resource management which are universal and can be applied in the construction of new and sustainable institutions [<xref ref-type="bibr" rid="R31">31</xref>], others disagree. Cleaver [<xref ref-type="bibr" rid="R32">32</xref>], a critical institutionalist, argues that traditional institutions are rarely designed for single purposes or address specific sectors exclusively—they are more often multi-purpose and are an integral part of social life such as wedding, funerals, savings groups, kin or belief-based networks—important arenas ‘in which authority is asserted or challenged, joint identities are formed and consolidated, norms reproduced or negotiated’ [<xref ref-type="bibr" rid="R33">33</xref>]. It is this embeddedness that contributes to the sustainability of local institutions and makes the imposition of new institutions by governments or the international community rarely successful. In her work on water management in Zimbabwe, Cleaver uses the concept of institutional bricolage to better understand ‘the ways that interfaces between communities and governments work’. Bricolage, according to Cleaver: ‘consists of the adaptive processes by which people imbue configurations of rules, traditions, norms and relationships with meaning and authority’ [<xref ref-type="bibr" rid="R32">32</xref>]. They are always evolving, ‘formed from and reproduced through the interactions of daily life. This fact ensures both continuity and change in institutional form [<xref ref-type="bibr" rid="R32">32</xref>].</p>
+         <p>While Cleaver focuses on resource management, her analysis is just as relevant for all local institutions—and particularly interesting to use in the analysis of police, judiciary and community interfaces. In our study of local institutions such as the <italic>jirga</italic> in Swat, we find it useful to describe the wider array of relationships in which the <italic>jirga</italic> engages, and how as an institution it has been influenced by and adapted to changes including extreme conflict, natural disasters, and changing social norms of gender and social equity. This also allows us to look more closely at how these local institutions interact with more formal government institutions, including those that have emerged in connection with reform processes such as those discussed in this paper. in particlular, it also allows us to distinguish between institutions that are designed within the formal sector, those that have evolved outside the formal sector, and those that we here term as integrated or hybrid, that move somewhere in the fuzzy areas between the formal and informal or indigenous. Globally, there is an increasing trend towards what is often referred to as alternative dispute resolution processes of mediation and arbitration that is attached to the formal justice system to, for example, reduce the burden on the courts in corporate disputes [<xref ref-type="bibr" rid="R34">34</xref>] or in peace negotiations, such as those undertaken by Nelson Mandela which moved between formal and behind the scenes dialog and communication [<xref ref-type="bibr" rid="R35">35</xref>]. There are also extensive examples of indigenous conflict resolution institutions which have been around for centuries, such as the Cantons of Guatemala [<xref ref-type="bibr" rid="R36">36</xref>], which are richly described in the literature [<xref ref-type="bibr" rid="R37">37</xref>]. There is less documentation, however, of processes of reform which describe processes of bricolage which lead to the development of institutions that lie somewhere in between the formal and informal. This paper examines the case of how police reform in KP, Pakistan moves precisely in this fuzzy area and results in the formation of integrated or hybrid institutions which are legitimate in the eyes of both the government and local communities.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Methodology</title>
+         <p>This research is based on a decade of field work in the Swat Valley, Khyber Pakhtunkhwa [<xref ref-type="bibr" rid="R38">38</xref>]. During this period more than 10 villages were selected from upper, middle and lower Swat including urban, rural, conflict-ridden and flood-affected communities. The total number of respondents is over 300, which has generated a comprehensive set of data upon which this paper is grounded. Data was collected using qualitative methods, including open-ended and semi-structured interviews, focus group discussions and participant observation. Interviews were the main tool for collecting data from majority of the respondents, as the information was often sensitive and required confidentiality. Wherever it was appropriate and possible, FGDs were used with both women and men in the selected areas. Participant observation as tool was used during all interviews and FDGs, and when researchers were attending and observing meetings and other gatherings. Purposive sampling was used to select relevant respondents, villages, government offices and civil society organizations. Socio-economic, ethnic and gender diversity were considered while selecting the respondents, with particular focus on the representation of women (60), men (200), youth (40), minorities (20), landowners (80), and the landless (120). Other key informants interviewed included community leaders (30), lawyers (15), teachers(20), health workers(16), civil society organization staff (35), and government officials (40) including police and other security officers at local (20), district (10), provicial (7) and national (3) levels. Particularly central to this paper is the data from respondents who were either members of <italic>jirga</italic> (12) or village committees (30), or were affected by conflict (250), militancy and police and who approached jirga (45), Dispute Resolution Councils (DRCs) (12), village committees or police as a party to disputes or conflict [<xref ref-type="bibr" rid="R39">39</xref>]. A detailed question guide was developed for each group of respondents to explore, for example, how different actors perceive formal (police, courts) and informal institutions for dispute resolution and justice, how they experience security and insecurity, how they view community-police relations in terms of trust-building and accountability, and how they view recent police reforms such as the new KP Police Act of 2017 and the establishment of DRCs. Both authors conducted the fieldwork. Questions guides were developed in English but whenever needed it was communicated to respondents in Urdu and Pashto with the help of the second author and other research staff. All the data was organized and coded and analyzed according to key themes in the question guide and those that emerged in the interviews.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Civil Society and Government Security and Conflict Resolution Institutions</title>
+         <p>Despite a focus on both civil security and conflict resolution in post-conflict contexts, conventional reform processes tend to see these roles as rather separate, with different institutions (such as the police, the courts) dealing with security and conflict resolution respectively, often in spite of informal institutions. In contexts where institutional bricolage is at work, however, we can see how these functions can be closely linked, and performed either within the same institution, or by several different institutions in collaboration, depending on the context and the type of conflict. This section looks more closely at how government and local institutions in Swat have been involved with security and dispute resolution, and how both formal and informal institutions evolved through a process of institutional bricolage to meet the demand of the new security situation in conflict and post conflict Swat.</p>
+         <sec id="s4.1">
+            <title>4.1.- The Jirga System</title>
+            <p>In the period stretching from the incorporation of the Swat Valley into Pakistan proper in 1969 to the conflict in 2008/2009, people had two options in trying to resolve their differences. The first was to continue to rely on their traditional, centuries-old system of the <italic>jirga</italic>, a Pakhthun institution where community members call together a group of elders and/or competent and trusted villagers to mitigate a conflict [<xref ref-type="bibr" rid="R40">40</xref>]. Even during the pre-1969 rule of the Wali of Swat, the <italic>jirga</italic> was the main institution to which community members would bring their conflicts for deliberation, confident that a decision would be made in a swift and fair manner. The Wali of Swat, as the ruler, would nominate members of the <italic>jirga</italic>. In that system, the <italic>jirga</italic> was a fixed body, as it was and still is in much of KPMD. Today, however, the composition of most of the <italic>jirga</italic> in Swat is not fixed. The aggrieved groups or parties choose elders who, in consultation with the aggrieved parties, finalize the membership and scope of a <italic>jirga</italic>. All villagers have some form of access to this institution, and although women are almost never included in a <italic>jirga</italic>, they can often access this decision-making group through their male relatives, or through influential women in the community who could bring their cases forward for them indirectly. In one of the study villages in upper Swat, for example, certain influential women were available on specific days of the week for consultation by women experiencing conflict or other difficulties. These women would either handle the complaints through negotiations by themselves or approach the community elders to bring the case before the <italic>jirga</italic>. Nevertheless, a Woman’s <italic>Jirga</italic> was established in Swat in 2013 to improve women’s access to justice [<xref ref-type="bibr" rid="R41">41</xref>]. Despite being a traditional institution, the <italic>jirga</italic> is a reflection of the local power dynamics in each community, and its character can therefore differ significantly depending on the village, and over time [<xref ref-type="bibr" rid="R42">42</xref>]. In the case study below, we describe the workings of one of the <italic>jirga</italic> in our study to help to illustrate the dynamic nature of these institutions in Swat and their role in conflict resolution and civil security.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Case Study of a Local <italic>Jirga</italic> (KP)</title>
+            <p>Kanju is a village not far from the district center of Swat, an area that was highly affected by the conflict. Prior to 1979, there was likely nothing particular about this <italic>Jirga</italic>, and it worked as many others, calling people together to handle disputes within the community. In 1979, however, the <italic>jirga</italic> was registered as a Social Welfare Society. This was the first such organization in Swat, which now number over 200. After some years it expanded its activities with the establishment of a women’s wing which provided social support, charity and education to poor illiterate women and girls. In 2013 it also established a youth wing, which was mainly for boys, whose purpose is to contribute to the well-being of all in the community, mainly through first aid and firefighting. Thus, through the years, the <italic>jirga</italic> has expanded its mandate from one of conflict resolution, to one of social welfare, with the work done on a voluntary basis by those women, men and youth who are able to contribute. One young teacher, for example, taught at the primary school during the day, and gave lessons most evenings to poorer women at her home.</p>
+            <p>Despite this branching out into social welfare, the <italic>jirga</italic> itself continues to be the main body for hearing cases brought up by community women and men. The leader of the <italic>jirga</italic> explains its workings [<xref ref-type="bibr" rid="R43">43</xref>]:</p>
+            <p>
+               <italic>‘The jirga meets every Friday from noon until the evening, depending on how many cases are brought to us. The parties referred by the court also attend this jirga—the jirga issues a summons to them. When there is any dispute, the local police refer them to this committee and say that if the committee is unable to solve your problem, only then come to us. The police and government officials also came to know about this arrangement, and they referred female related cases, enmity cases and murder cases etc. to solve them here. The jirga reasons openly and people compromise. There is 99% success rate of this jirga. The community really listens and agrees to what the jirga decides and problems get solved. The religious scholars also attend this jirga and they try to decide things in light of Islamic rules. In case the parties don’t accept the decision of the jirga, the jirga cannot impose decisions on them and sends them back to the local court. The comments and reasoning of jirga is also sent to the court in case of failure to reach an agreement. The local court also calls the witnesses from the jirga. 10–12 persons always sit in jirga who are deputed purely for this purpose. These persons are elected after every 2 years. There are 150 male members in the community. They have right to vote and they vote after every 2 years.’</italic>
+            </p>
+            <p>All of the cases are meticulously registered in writing by the <italic>jirga</italic>, and they invite legal advisors to attend when they are needed. They have four legal advisors in their membership, and contact with two of the best known women legal advisors in the district, who mainly hear cases of gender-based violence. Since men cannot meet with women openly, the women members sit with the women complainants and there is a purdah (dividing curtain) between the male and female’s side. A woman, if she wishes, can authorize a male representative (father, brother, husband) to come on her behalf. Since 1979 the <italic>jirga</italic> has heard over 4000 cases, which range from family disputes over inheritance, dowry, divorce, child custody, domestic violence, land rights, and murder. The leader of the <italic>jirga</italic> explains that even in very difficult cases such as murder, they manage to come to a compromise:</p>
+            <p>
+               <italic>‘There is a cultural norm called Gheirat which is a fight for their dignity. People can go to any extreme level to take revenge. If something is paid by the murderer’s family, there is a compromise between the parties. We even call the police and government and we explain things to them after the decision has been made. The enemies are invited to take an oath of peace and hug each other. The final ceremonies are usually held in the mosque. They then commit that from now on they will use pens instead of guns. In cases of murder, the compromise is difficult and usually takes long. There is always some compensation made by the murderer’s family. In rare cases, the parties accept decisions without any compensation. In certain cases, the murderer’s family even migrates to other areas. The local community is well aware of the way the processes and decisions are made by this jirga. Therefore, they always come with confidence for their cases.’</italic>
+            </p>
+            <p>The decisions of the <italic>jirga</italic> are always based on compromise. According to the leader of the <italic>jirga</italic>, the success of the <italic>jirga</italic> is well-known in the area, and even people who had their cases heard in the government refer their cases to this <italic>jirga</italic>. These forums put a high value on restorative justice, with one of their main objectives being to restore peace in the community.</p>
+            <p>The institution of <italic>jirga</italic> is also used when conflicts emerge at higher levels. When the Taliban gained power in Swat during 2008/2009, their reign became one of extreme violence. Target killings, kidnappings, extortion, beheadings, and rape were reported as common in many areas. Even many who originally supported the Taliban as a source of swift justice and were rewarded with land taken from their landlords, came to fear them. As the crisis in Swat worsened in late 2008, the Qowmi Awami Jirgah (National Peace Restoration Committee) tried to end the violence. This <italic>jirga</italic> included members from all of Swat, including religious scholars, representatives of government bodies (Union Council secretaries and former <italic>Nazim</italic> [<xref ref-type="bibr" rid="R38">38</xref>]), community notables, the police (passive members), as well as two members of the Taliban. The leader of the Kanju jirga was also a member in this committee. The decisions of this committee are highly honored, and it is in fact still functioning and interacts with the army. In early 2009, 50 members from Qowmi Awami Jirgah went to Fazal Ullah and the army generals for discussions and made them meet in the provincial government guest house. As a result of the series of discussions, the Taliban were about to leave the occupied places without fighting, until the religious leader Fazal Ullah addressed the community, reversing this resolution. Although he had agreed on the compromise points in the <italic>jirga</italic>, when he came on stage, he said something else, akin to ‘I was fighting for Islam and I don’t accept the government bodies’, undermining the careful deliberations of the traditional <italic>jirga</italic>. His speech was transmitted through the media. That address was in early 2009, and not long afterwards, the military operation was undertaken.
+</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- The Police and Court System</title>
+            <p>The second option for people in conflict was to bring a case through the police to the formal justice system. Before the merger with Pakistan, in addition to the traditional jirga system, the Wali of Swat had his own court system, headed by a chief justice appointed by him. This was replaced with a formal police and judicial system in the 1969 merger. In order to register a conflict, one now had to go to the police station in person, file a First Incident Report (FIR), and appear before the court for a decision. From its onset in 1969, this formal system was slow, expensive, and only accessible to those with sufficient resources to engage a lawyer. This resulted in cases remaining unsolved for 10, 20 or even 30 years. This is also the case elsewhere in Pakistan. In fact, the police in Pakistan is historically considered as one of the most ill-equipped, poorly trained, highly politicized, corrupt and poorly managed government institution [<xref ref-type="bibr" rid="R21">21</xref>]. They are constantly criticized throughout the country, including the Police in KP, for their poor services. This lack of a functioning formal police and justice system and the frustration it incited amongst the populace has been cited as one of the main reasons that the Taliban, who promised quick justice, was able to gain popular support in the Swat Valley [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R44">44</xref>]. This was compounded by significant class differences, particularly in lower Swat, where large landowners controlled production and trade, and were over-represented in village leadership. These class differences were also capitalized on by the Taliban, who incited poor tenants to revolt against their landlords. The government was seen as an agent of the rich, and the police and court in particular were seen as protectors of the influential landlords.</p>
+            <p>According to community members, the police in particular had a poor reputation before the conflict. They were considered to be ineffective, corrupt, violent, unresponsive, and in fact a source of insecurity for most of the population. They were also not accessible to women—it was considered both shameful and risky for a woman to go to a police station. As government representatives, however, they became targets themselves as the militants infiltrated Swat. Prior to the decisive operation by the military in May 2009, the police in Swat had been the target of increasing violence from militants, with direct attacks on check posts and police stations. Police suffered significant losses of life, and many officers deserted their posts in areas where the militants took control. Militants were well-armed, and easily confiscated vehicles and supplies from communities and government staff. The police who remained at their posts found it difficult to secure the area due to insufficient staff and equipment and responded by pulling back from the public scene and fortifying their police stations to protect themselves. This mistreatment and target killing at the hand of militants, however, also made police ‘‘affectees’’ and hence got the sympathy of the public. In addition, the majority of the middle and lower rank police officials were usually locals and the community felt their suffering.</p>
+            <p>In the first six months following the decisive operation, the army was in full control of the area, operating all checkpoints and conducting house-to-house searches for militants. In this early phase, the police served together with the army at army check points, mainly for training. Almost immediately after the operation, the government initiated an aggressive recruitment campaign for new police officers, recruiting actively from the IDP camps those who had suffered most under the militants, and would likely be motivated to help secure the area [<xref ref-type="bibr" rid="R45">45</xref>].</p>
+            <p>When the flood hit in July 2010, the army and the police were both active in rescue activities. Gradually, as the situation following the flood stabilized, the police were handed over control of checkpoints, and as their numbers increased over the next two years, they became more visible than the army in the streets. In general, community women and men have seen an improvement in the functioning of the police following the conflict and flood, which they feel is due to police training by the army. The police themselves, while perhaps more disciplined in relation to communities as a result of working with the army, see their own role as much broader than earlier, far beyond a strict law and order focus. As one police official from Swat stated: ‘The role of police is to supervise law and order at every level. In each and every sector, the police is involved. Police are even involved in small events and emergencies like rehabilitation, distribution of aid, when different buildings are on fire, flood etc.’ The police, however, continue to struggle with limited resources and low morale. The police leadership at that time and even today is trying to maintain motivation in an area where they have faced deadly threats and attacks in the past. The army is still in the Swat valley, but its activities are concentrated on performing limited operations in the more remote areas to keep militants out of the valley.</p>
+            <p>As the police force was being reconstituted and expanded, they introduced a system of community police. While militancy was at its peak, the government of KP temporarily recruited around 8,000 male volunteers to support the demoralized police in Swat. This volunteer force was called community police. The community police would support the normal police at checkpoints and in providing security to potential target individuals and institutions of the militants. Community police in Swat were mostly young people who received training to support police in fighting militancy and maintaining law and order situations. Quite recently, the government of KP made the community police volunteers permanent employees of the Swat police.</p>
+            <p>The situation in Swat has thus been one of shifting relations of power, authority and trust between the army, the police and community members (see Table <xref ref-type="table" rid="Tab1">1</xref>). These relations, however, do not shift evenly or coherently throughout Swat. Although higher political interests are clearly at work in determining parts of these relationships, such as the establishment of an army Brigade or the level of resources provided to the police, these relations are as well-negotiated through everyday experiences of army, police and community members in the course of interactions. This means that power relations will be different in areas where insurgents regularly strike than they are in areas of relative peace, such that people’s ideas about security, crime and the government in general can differ significantly. This begs for approaches to police reform that operate in different micro-environments within a larger political and cultural context.</p>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>Table 1</label>
+               <caption>
+                  <title>Civil Society and Government Security and Conflict Resolution Institutions in KP.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Institutions</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Time Period</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Who Formed it</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Purpose</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Support base</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>How is it connected to the government?</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Jirga (KPMD) and Pre-merger Swat
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Centuries old
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Members selected by the Wali of Swat/Government
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Conflict/dispute resolution
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Wali of Swat/Government
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Members of the 
+                <italic>Jirga</italic>
+                 are often nominated by the government or in consultation with the government
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                           <italic>Jirga</italic>
+                 (local in KP)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Centuries old
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                By the aggrieved tribes, clan, families, households and individuals (Neither Jirga nor its members are fixed)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                To resolve conflict/disputes of tribes, clan, families and households
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Aggrieved parties but appreciated by concerned local community and when presented in the court, the cases are often withdrawn
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                The government has no control over the jirga but their decision is often accepted by police and legal court if the case is already reported
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Local Courts
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Pre-1969
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Appointed by Wali of Swat
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                State justice system
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                State government
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                The 
+                <italic>Jirga</italic>
+                 head and members were nominated by the state government and decisions were accepted by the state
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Police
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Since independence (Post-1969 in Swat)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Recruited by the government
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Maintain law and order situations
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Government
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Part of Government
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Courts
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Since independence (Post-1969 in Swat)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Selected and recruited by the government
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Provide justice system according to the constitution of the country and law of the land
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Decisions are bound on government and parties
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Independent but the government must follow the decision
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Social Welfare Organization and 
+                <italic>Jirga</italic>
+                 (Kanju Case)
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1972-present
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Areas/Village activists
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Dispute resolution and welfare of local men and women. The organization organize different training for local women and youth
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Top 5 positions are selected through male consensus for a certain period. They themselves, as well as other elders in the village can make case to case 
+                <italic>jirga</italic>
+                 for resolutions of disputes
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Accepted by local community and not bound but quite often by the government (police and court)
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Changing Insecurities in Swat</title>
+         <p>As mentioned above, there has been a gradual transition from military to civil security in the years following the military operation in Swat. Evidence of this shift includes increases in the numbers of police and police stations, reduction of military check posts on the roads and replacement of military with police at the remaining check posts. The army is still in Swat but mostly stay in their barracks, except for assisting at a few checkpoints together with police. However, the army still shows its presence in convoys during any time of day and night as well as targeted operations on intelligence information. Most of the operations are now jointly conducted by the police and army. The presence of the army and strong intelligence network of both police and army make the re-entry of militants into Swat difficult.</p>
+         <p>In general, when reflecting on this changing context, both women and men stated that the security situation went from good to very bad, and then again to better: <italic>‘Our mobility was really easy before the militancy but during militancy we were confined inside our homes in fear. Now things are little bit better, but I still feel fear in going out but despite fear I have to go out to take care of different things since I am the head of the house.’</italic> (Widow, female household head).</p>
+         <p>Most respondents also explained that crime in the village was almost non-existent before the conflict. During the conflict, however, there was stealing, looting, robberies, kidnapping and murder. With the army and the police in place, the situation has again improved, with the exception of the drug trade. The crime rate related to drugs sale was said to be increasing in the villages, and many feel that there has been no action taken by the police or any committee or <italic>Jirga</italic> against it. One female key informant stated, for example, that the poorer class people who were involved in drugs sale, are now very well off. They also say that there are still militants in the village.</p>
+         <p>According to a police official in Swat, the overall rate of crime has decreased after the conflict. He referred to two types of crimes:</p>
+         <p>
+            <italic>‘In our point of view, one type of crime is the use of drugs like opium, churs etc. and smuggling of weapons. When the rate of such crime increases, it is a kind of positive sign for us. This is positive in the sense that these crimes are not that dangerous - unlike the substantive crimes. The second type of crime is murder cases, robbery, car snatching etc.- also called substantive crimes. When the rate of substantive crimes increases, it is bad and a negative sign for us. Now these substantive crimes are less than before while Swat was on top in these crimes before the crisis’.</italic>
+         </p>
+         <p>This indicates that views on crime and experiences of insecurity may not be related in the way one might think. While the police view substantive crime as high before the conflict, and better now, communities can talk of low insecurity before the conflict and a higher degree of uncertainty now. The relationship between crime and insecurity in Swat is complex, and experienced quite differently depending on one’s gender, social status, and whether they are part of the police or military.</p>
+         <p>The communities often have mixed feelings about the role of the military, particularly in the period immediately following the conflict. Despite their role in ridding the area of the militants, and the positive role that they played in assisting after the flood, the army is considered powerful and is looked upon with trepidation. Community members feel that members of the army often overstep their boundaries in terms of how they perform their duties:</p>
+         <p>
+            <italic>‘The police used to address crimes before the conflict, but now everything is under the control of army. During the conflict even police were afraid, and they could not do anything as they themselves were slaughtered by the militants and many policemen even left their jobs in fear. Though the army has done well to us it also has done bad too. They helped us in getting rid of militants but killed many innocent people and without any proof arrested many people. They have usurped properties of innocent people. They have broken their trust. Now we don’t trust anybody’</italic> (Female key informant).</p>
+         <p>Community members are reluctant to criticize the army, but express frustration in the degree to which villagers were forced to take part in the defense committees, and how the army had involved themselves in conflict resolution. Particularly in the period immediately following the conflict, all complaints and village conflicts were decided by the army, rather than the local <italic>jirga</italic>. As one elder villager put it, ‘the army can make decisions as they like, but the conflicts do not disappear, and as soon as the army leaves, they will again surface, we are just waiting’. There were also many conflicts that were not addressed due to the heavy presence of the army—aggrieved parties preferred to wait until a more opportune time when the army was gone.</p>
+         <p>As community women and men emerged from the conflict to rebuild their lives and livelihoods, they faced many additional challenges. The mega flood of 2010 destroyed crops and infrastructure at a time when people still hadn’t recovered from the conflict, setting recovery back an estimated 10 years. They were faced with multiple insecurities—not only personal or political insecurity, but food, livelihood, health and environmental insecurities, which required assistance from the government and the international community far beyond what a conventional army or police could provide. Despite the government operations, communities lacked trust in the government. There was also a high degree of mistrust within communities, as people could be reported to the authorities for having supported the militants, when they may in fact only been in personal conflict with their accuser. The influence of local jirga and moderate religious scholars had already been weakened during the conflict as conservative religious leaders were given relatively more power by the militants [<xref ref-type="bibr" rid="R46">46</xref>]. When the army took control after the conflict, they constituted defense committees who reported directly to the army, and later to the police. As these were not answerable to the village leadership, the power of the local <italic>jirga</italic> again weakened.</p>
+         <p>Despite this shift in power relations away from local institutions, as the situation stabilized, the army left many of the villages, and these defense committees began to disappear. The government, police, judiciary and communities began to renegotiate their relationships to ensure that conflict would not return to the region. <italic>Jirga</italic> leaders, such as those in Kanju, reconnected directly with the government through the re-establishment of relations between the <italic>jirga</italic>, police and courts. The <italic>jirga</italic> once again became an important local institution, and one which the government acknowledged as a potential partner in keeping peace in the area.</p>
+         <p>Historically, the KP Police worked under the Police Act 1861 and KP police rules of 1975. Formal courts decide criminal, civil, rights-based and other cases under the domain of the 1973 Constitution of Pakistan, which comprises elaborate provisions on the composition, jurisdiction, powers and functions of the Court. Formal police and court institutions, however, were neither designed nor able to address broader but nevertheless highly relevant diverse needs of the community in a post (or ongoing)-conflict situation, which involve many different and more complex issues than merely insurgencies. Government policy reflected a renewed interest in finding innovative ways of addressing these challenges, and better ways for the police to link with communities, particularly in conflict situations. New initiatives from the government emerged after the conflict, supported by new policy, such as the Strategic Framework for KP police (2014), and the Khyber Pakhtunkhwa Police Act of 2017, where, for example, community policing is highlighted [<xref ref-type="bibr" rid="R21">21</xref>]. This was complemented by efforts in civil society to promote better relations between the police and community. Linking institutions vastly different in character, however, is not an easy task, especially in post-conflict Swat where trust is in deficit. While some institutions are designed for specific purposes of addressing certain kinds of crime or conflict, others may be more diffuse in their purpose, but at the same time more dynamic and potentially more sustainable. In Pakistan, constructing new institutions with the right mix of function and membership to be effective, preventative and sustainable has proven a challenge. The next section will present and discuss some of the newer initiatives by the KP government and civil society intended to improve relations between the police and communities, manage conflict and promote peace.</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- Designing Institutions and Institutional Bricolage at the State-community Apex</title>
+         <p>Formal judiciaries and alternate dispute resolutions institutions are constantly debated in Pakistan. The formal judicial system is weak, expensive, complicated, and time-consuming, and decisions often do not remove the enmity of the parties. Informal institutions such as the jirga thus remain relevant and accessible for local women and men, and as described above, maneuver somewhere in between where the state ends and local communities begin. As a local institution which deals with, among other things, conflict resolution, its functions often overlap with those of the formal justice system. It hears cases between parties and hands down judgments, but also refers some cases to the courts and vice versa, as discussed in the above mentioned case study. As a local institution it is both appreciated for its authority in achieving restorative justice and preventing the escalation of conflict between adversaries, but is also criticized for its exclusively male elitist composition and a lack of accountability to social and gender equity and human rights. This has led to heated debates on whether <italic>jirga</italic> should be formalized and transformed to ensure oversight by the government, acknowledged in their own right as informal institutions with formal authority, or left as they are [<xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>]. And while the jirga is the community level institution with which government departments such as the judiciary, police and line ministries as well as development organizations take contact to discuss collaboration, they are only one aspect of a civil society with which government can collaborate [<xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>]. The ways in which this collaboration is envisioned will partly reflect how one understands and interacts with local institutions. Recognizing the important role of local institutions in dispute resolution and public acceptability of its decisions, the KP government (including, police, army and courts) has established a number of bodies which are in some ways hybrid institutions, but in others new constellations integrating formal and informal aspects in innovative ways. This section looks at the design and evolution of several of these institutions in terms of their role in ROL and dispute resolution (see Table <xref ref-type="table" rid="Tab2">2</xref>).</p>
+         <sec id="s6.1">
+            <title>6.1.- Islahi/Musalihati Committees</title>
+            <p>The Local Government Ordinance 2001 promulgated by the military government advocated for the establishment of Musalihati Anjuman (reconciliation associations). The establishment of these associations, however, was considered politically motivated, so they were not accepted as legitimate by provincial law and the police department, and after some time were abandoned altogether. The police then introduced Islahi/Musalihati Committees (Righteous/Reconciliation Committees) in the province in 2006 as a new system of dispute resolution. These committees represented a bricolage of government and local institutions, where the police and community elders from traditional jirga or other notables in local communities engaged together to strengthen the justice system at the local level [<xref ref-type="bibr" rid="R51">51</xref>], under government supervision. This experiment was initiated in Hazara Division of KP province where the Islahi/Musalihati Committee was put in place at police station level through Standing Orders of Inspector General of Police KP and later extended to other districts of the province [<xref ref-type="bibr" rid="R52">52</xref>]. These committees helped to reduce the burden on police and courts by resolving disputes in a quick and transparent way, and according to local culture and traditions. These continued to be established in the period following the conflict in Swat, when the government, police and communities were in dialog to try to improve relations which were suffering from a lack of trust. As one of the main complaints against the government prior to and during the conflict was the lack of quick justice, focus was put on trying to find better ways to involve the communities in conflict resolution that would reduce the number of FIRs and court cases brought to an already overloaded justice sector. Under this system, the designated community elders would meet once a week with the police to go through cases brought either before the <italic>jirga</italic> or before the police, to discuss what should be handled in the Islahi/Musalihati committee, and what should be referred to the police. Both the <italic>jirga</italic> and police preferred settlement by this new committee or <italic>jirga</italic>—but if a case could not be solved locally it would be registered at the police station. This arrangement, however, was criticized mainly by lawyers, who were in effect left out of the process, as well as community members who did not agree with how the members of the committee were chosen. The lawyers eventually filed a case with the Supreme Court against this arrangement, who deemed it to be unconstitutional. It is worth mentioning that consecutive governments hardly tried to bring reforms in the judicial system or in the police department. There was a lack of political will and an unduly strong bureaucracy that did not want a quick justice system and autonomous and strong police department as demanded by the majority of the local community and other key respondents. The Islahi/Musalihati Committee gave new hope to communities for solving local disputes without wasting time and money in the police and court system. After some time, however, these committees became controversial and politicized. In addition to criticism from lawyers, they faced resistance from the courts as well. Also, the police held a dominant role in the Islahi/Musalihati committees, and local communities still would not fully trust them.
+</p>
+         </sec>
+         <sec id="s6.2">
+            <title>6.2.- Defense Committees</title>
+            <p>The army established a system of defense committees in each village to report any suspicious activities or people entering the area. These committees were said to be voluntary (they were indeed not paid), and all of the households were expected to take part through the participation of a male member in the committee. Participation was in fact required, and those who missed their duty would have to pay a fine. The defense committees reported directly to the army and were composed of local civilians at community level who patrolled their own people during night against militants, criminals and insurgents. The committees were headed by local men trusted by the army. Armed forces selected the members of defense committees and gave them the task of sharing information with law enforcement agencies regarding militants and helping the army in guarding their areas in times of need [<xref ref-type="bibr" rid="R53">53</xref>]. The members of the defense committee would inform law enforcement agencies right away if they sensed any dubious activity or observed any suspicious person in their area. In this way they were helping security forces to ‘prevail peace in the region’ [<xref ref-type="bibr" rid="R54">54</xref>]. Defense committees were organized at UC and village-level in the entire Swat Valley with the army’s assistance and support. Initially there were a total of 65 defense committees in 65 union councils in Swat with each comprising 30 to 60 members from each village across the region. Local people were cautious in their interaction with defense committee members, as they saw them as spies for the army. It is also worth mentioning, however, that members of defense committees were frequently targeted by unknown attackers, and many were killed during and after the crises. Most of the defense committees have now been dissolved due to the restoration of peace in Swat.</p>
+            <p>While defense committees were not very popular in the eyes of the community due to forced volunteerism and target killings, people nevertheless saw value in building relations with the police and the army. At some point, the police took over the checkpoints and began to handle routine crime cases in the area. Contrary to the more independent <italic>jirga</italic>, both Islahi/Muslihati committees and defense committees were controlled by police and army, and dependent on them for security issues and developmental interventions. While defense committees were formed to keep an eye on militants during and soon after the military operation, local communities consider defense committees very risky. In fact, the majority of the defense committee members were targeted and killed. Therefore, while it might be have been a useful strategy for the military to use local people to protect themselves from militants through defense committees, these committees contributed very little to the overall peace and security of Swat. The strategy was one-sided i.e. military forces forced ‘volunteerism’, where the defense committee would fully follow the instructions from Army rather than local practice and wisdom. Based on this, defense committees cannot be considered bricolage institutions. Rather, they represent a step in a process of institutional bricolage where military forces engaged local community in different ways as partners in contributing to security. Eventually this would evolve into other forms of institutional cooperation.</p>
+         </sec>
+         <sec id="s6.3">
+            <title>6.3.- UNDP Islahi Committees</title>
+            <p>In Pakistan, there are two main camps of opinion around the issues of <italic>jirga</italic>. One camp favors the formalization the <italic>jirga</italic>, making them a recognized body by the state. This approach has a strong following in the former tribal areas (now KPMD), where the state has had relatively little influence in society, and the <italic>jirga</italic> are often fixed entities. The other camp opposed the formalization of <italic>jirga</italic>, citing the lack of women’s and minorities representation in the <italic>jirga</italic>, and the lack of focus on the protection of human rights. However, in the aftermath of the conflict, the international Rule of Law activities in Swat and KP also began to address people’s access to civil security and the formal judicial system in increasingly innovative ways. In 2011, the province initiated a Strengthening the Rule of Law (ROL) project in collaboration with the United Nation Development Program (UNDP), and in 2012 they initiated the Strengthening of the Rule of Law in Malakand Division, which included the Swat Valley. While conventional approaches to rule of law focused on improving access of local women and men to the formal justice system, the programs in Malakand explored ways to link more positively with existing local institutions such as the <italic>jirga</italic> and create new hybrid-like institutions (similar to the Musalihati Committees) which could have more credibility and accountability to local community members. An alternative discourse has revolved around the creation of new institutions based on some of the core principles of the <italic>jirga</italic>, but with a strong link to civil law and formal institutions. It is along these lines that the ROL projects were maneuvering. The KP Comprehensive Development Strategy document refers to <italic>Musalihati Anjuman</italic>, committees that were formed jointly by UNDP and the Ministry of Local Government Rural Development. Their purpose was to reduce conflicts at the grassroots level, thus reducing the overall burden on formal policing and justice system.</p>
+            <p>In 2012, the Kanju <italic>jirga</italic> of Swat was approached by UNDP to discuss the formation of such a <italic>Musalihati Anjuman</italic>. After agreement was reached on its formation, the leader of the Kanju <italic>jirga</italic> became its convener. The members included the police, judiciary and the community, as well as representatives from the political parties. A meeting was held at the district level every Sunday. At this meeting they discussed each case, reporting on which cases have been solved in the <italic>jirga</italic>, which cases have been referred to the courts, and which new cases will be referred to the <italic>jirga</italic>. The leader of the <italic>jirga</italic> was in fact not happy with this committee, as it was, in his opinion, too politicized. He was constantly being approached by the political members who would sought to influence his discussions for their own or their constituent’s gain. Under such arrangements the police end up taking a back seat, reducing rather than improving their direct interaction with the <italic>jirga</italic>. The police were also subject to political control under this arrangement, something that was already considered to be one of the most serious weaknesses in the Pakistani police at that time. The UNDP Islahi committee were not really accepted by local community, police and courts. From community and other stakeholders point of views this initiative was rather imposed by the donor without any consensus. However, there were some financial and other incentives for committee members and so they continued work in those committee until they became inactive.</p>
+         </sec>
+         <sec id="s6.4">
+            <title>6.4.- Dispute Resolution Councils (DRCs)</title>
+            <p>The government of KP the under the Police Act 2017 took an important initiative of engaging local community in decision-making by formally introducing Dispute Resolution Councils (DRCs) across the province, which had initially started in 2014. Organized at district level, in a DRC the victim, the offender and local community elders pursue reconciliation through arbitration, forgiveness and compromise acceptable to all stakeholders [<xref ref-type="bibr" rid="R21">21</xref>]. The DRC is comprised of 21 members including retired civil officers, lawyers, educationists and other notable individuals from the community. Most of the committee members are men, making the representation of women quite limited. The concerned parties must agree to approach DRCs instead of reporting the case in the police station and ending in court. The members of the DRC are divided into three-member juries who hear different cases on different days in the DRCs designated office. Every member is bound to be a part of a jury. DRCs are quick in decision-making compared to courts where cases remain pending for years and even decades [<xref ref-type="bibr" rid="R21">21</xref>]. Parties most often accept the decision of the DRC and the issue is resolved. Quick decisions and dispute resolution are the hallmark of DRC, however, it does not necessarily ensure justice to the aggrieved party. DRC can also provide opportunities for powerful parties to exercise their bargaining power and escape harsh punishment that they might have received from police and courts. Women also bring their cases to DRCs, despite the lack of female members. However, the turnout of cases and acceptance of decisions by the parties clearly indicate that the DRCs have gained the trust of both community and police.</p>
+            <p>While the DRCs are only in KP for the moment, their work is appreciated by local governments, police departments, local communities and even judiciaries in other provinces where <italic>jirga</italic> are not a part of the cultural landscape. It has been used, for example, as a model by the Chief Justice Lahore High Court in the launching and establishment of Alternate Dispute Resolution Centers (ADR) in all districts of Punjab in 2017. All cases referred to the ADRs and their status are compiled and released on the website of the Lahore High Court. The nature of registered cases/disputes are categorized into criminal, civil, family, guardian, rent, cases against services providers such as WAPDA, SNGPL, PTCL and WASA. Most of the cases are mediated by the civil judge in each district. The success rate of ADRs is around 45-50% with more than one hundred thousand cases reported and handled by mid-2019 [<xref ref-type="bibr" rid="R55">55</xref>]. In case of ADRs, the Court categorically encourages community to go to ADR instead of court, as can be seen by the slogan ‘Litigation leads to fears and mediation leads to cheers!’ on a banner on display in the ADR. While the ADRs represent an important move, they work under the Lahore High Court, while the DRCs are run jointly by police and community elders.</p>
+         </sec>
+         <sec id="s6.5">
+            <title>6.5.- Public Liaison Councils (PLC)</title>
+            <p>In a push for better public and police interaction, the KP Police Act 2017 demanded the establishment of Public Liaison Councils (PLC) at village and neighborhood levels where 70% of the council members should be elected community representative and the remaining 30% be elders and persons of repute. The PLC is headed by a designated police officer and members are selected for two years. The KP Act 2017 clearly defined the role and responsibilities of the PLC, but here we can summarize that the PLC is expected to notice unusual and unwanted activities in their areas, and keep close liaison with the police to maintain law and order situation. The PLC also informs police about any new development, tensions, arrival of new people or tenants and violation of rules if any in the area. While these councils clearly hold the role of being informants for the police, in areas where civil society organizations have been engaged, these councils often become the focus of community-based policing activities that work towards trust-building and crime prevention, and include both male and female youth in their membership. They therefore have the potential to contribute to the development of new, more trusting relations between the police and the communities.</p>
+         </sec>
+         <sec id="s6.6">
+            <title>6.6.- Public Safety Commissions (PSC)</title>
+            <p>The KP Act 2017 required establishment of provincial- and district-level public safety commissions. The commission’s selections, functions and roles are clearly defined in the Act. Members of the commission include elected representatives from ruling and oppositions parties, retired civil and security officers, and representatives of civil society including female and minority. The major role of the commission is to oversee the performance of police in maintaining law and order in the province and to develop trust between police and the public.</p>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>Table 2</label>
+               <caption>
+                  <title>Integrated (‘hybrid’) Government and Civil Society Institutions.</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Institutions</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Time Period</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Who Formed it</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Purpose</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Support base</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>How is it connected to the government?</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Islahi/Musalhati Committees
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2006-2008 (as a pilot in some police stations)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Police Station of the area
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                To resolve the disputes before proper FIR is registered in the police station
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Concerned police station, representatives from the villages under the police station
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Decisions accepted by the police department and the case does not proceeded to the courts
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Defense Committees
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2009-2014 (with some exceptions)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                By Army particularly in Swat at UC level but also in some conflict areas of KP and KPMD
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Protecting villagers particularly during night and passing information to army about happenings in the area
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Pak army
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Answerable to army (later police)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Village Defense Committees
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2009-present (some not all)
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Same as defense committee but at village level
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Protecting villagers particularly during night and passing information to army about happenings in the area
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Pak army
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Answerable to army (later police)
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                UNDP Islahi Committees
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2011-2013
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                UNDP and local government
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Conflict resolution and support to locals and courts
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Member selected by UNDP, local NGOs including locals elder, lawyers and local politicians
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Everyone is paid by UNDP, the decisions were not bound on anyone
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Dispute Resolution Councils
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2016-present
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                District police head and administration
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Dispute resolution
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Members are appointed by police and district administration including representation of women and minority
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Accepted by district police and administration as well as local community
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Public Liaison Councils
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                2017-present
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                District Police Office and Head of Police Station
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Supporting Police in the maintaining law and order, building trust between police and community through empowerment
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Police offices from District to neighborhood level
+              </td>
+                        <td align="justify" style="" rowspan="1" colspan="1">
+                
+                Police and district administration
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Public Safety Commissions
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2017-present
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Provincial and district governments
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Oversee performance of police, making police accountable to government and public, democratizing of decisions related to human security and public interest
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Provincial and districts governments
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Presenting reports to provincial and districts government
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <p>We can see from the evolution of the initiatives presented in this section that the formal institutions of the government (police, army and court) realized the importance of community-based mechanisms of dialogue and negotiation both to better understand the position of the conflicting parties and to resolve them through mediation. This became particularly important in KP and Swat during and following the conflict, when there was a need for mechanisms which built trust both within communities, and between the communities and the government. By exploring new avenues of collaboration between the police, courts and communities, the government demonstrated that they were willing to address the demands of communities for more fairness in the justice system. Through trial and error, and close collaboration between the government and communities, initiatives bricolaged into institutions that combined locally-grounded principles of mediation, compromise, forgiveness and reconciliation with law and order and legal justice. On the one hand, this means that rival parties might not get complete justice and they might not fully satisfy the rights of each party. On the other hand, the parties are encouraged to compromise, embrace and forgive each other without spending often exorbitant amounts of money and time in the formal security and justice system.</p>
+            <p>As seen here, the evolution of these institutions still has a long way to go in order to incorporate the interests and participation of women and minorities—they need to be more inclusive and sensitive to power relations to obtain wider recognition. Nevertheless, they revolve around local issues which are of immediate concern to communities and that are not taken care by any other forum or institution. They are often multi-purpose, and their character can change over time to accommodate changing contexts. They can address issues that are beyond the scope of village jirga and are able to consult legal principles that were previously not accessible to village <italic>jirga</italic>. By operating on a higher level than village <italic>jirga</italic>, however, they are less accessible for some. For policing, and specifically community-based policing, it is important that police reach beyond the upper level conflict resolution institutions and participate at the community level in terms of building trust. Thus, the PLCs become an important institution to focus on in terms of reform and competence building in communication and mediation.</p>
+         </sec>
+      </sec>
+      <sec id="s7">
+         <title>7.- Conclusions</title>
+         <p>The evolution of security and justice institutions in Swat and KP has not occurred in a bubble. National and international politics, history and reform processes have influenced the ways in which government and community relations are evolving. The historical and contemporary geo-politics of the region, continuous shifts between civil and military governments, and the colonial basis of the police and judicial system have contributed both to Pakistan’s focus on state security, and to weakened civil institutions. Government and community relations in Swat have undergone significant changes since its incorporation into KP in 1969. Since incorporation, communities in Swat have berated the Pakistan government for its weak institutions and inability to address their broader set of insecurities. Rather than engage with poorly trained and violent police, and expensive and slow court processes, communities have preferred to avoid government institutions altogether and instead rely on local institutions such as the <italic>jirga</italic> to address their needs. This dissatisfaction with government services was one important factor in the complexity of the conflict in the late 2000s.</p>
+         <p>The serious toll the conflict took on communities and government institutions, and particularly the police, prompted the government and civil society to explore, together, alternative ways to interact to promote peace and trust-building. The institutions that have evolved since the conflict represent a move away from single-purpose, formal, rule of law institutions toward a legal empowerment approach, where communities participate in defining the tenets of their own security issues. This has opened for multipurpose, dynamic and integrated institutions, that are legitimate in the eyes of the police, justice system and communities. It also supports a move towards community-oriented policing by institutionalizing joint problem identification and preventative activities in Public Liaison Councils (PLCs).</p>
+         <p>The integrated or ‘hybrid’ institutions that have evolved from this complex set of influences are not without problems of power and inclusion, and they may sometimes fall somewhere between cracks of government and community accountability. Nevertheless, institutional bricolage is a dynamic process, which allows for a continued renegotiation of relations. Allowing such a process to take place provides a possibility for formal, legal systems to continue to influence and inform these institutions, and communities, including the marginalized, as well as to influence how the government understands their plight. Pakistan has taken notice of these developments at the national level, and the experiences of KP are being considered in other provinces as well. It is important, however, that it is the process of institutional bricolage that is the lesson, rather than reproducing institutions that have evolved specifically in Swat and KP.</p>
+         <p>The findings likely have relevance for post-conflict police reform processes in other contexts as well. Single purpose institutions imposed from outside/above are seldom able to address the complexity of human security that locally evolved institutions have the potential to do. They may be able to address certain issues, but they will not ensure human security, trusting government/police relations with communities, nor will they be sustainable. The case of Swat and KP shows that reforms in police can indeed be both creative and effective in terms of building more relevant government institutions that are built upon indigenous principles of negotiation and dialog, while simultaneously promoting peace and addressing human security in inclusive partnership with communities. More attention to the study of these fuzzy areas in between the government and indigenous systems in other areas could uncover more examples of how bricolage might result in more accountable and appropriate security institutions.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Previously known as Federally Administered Tribal Areas (FATA)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Previously known as North West Frontier Province (NWFP)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Although accounts of the conflict in Swat often refer exclusively to the Taliban, we choose in this article to use the term `militant'. This is to distinguish between the Taliban, who are more broadly defined as conservative actors in society, and militants, defined as those who choose violent means to forward their conservative agenda. While the two may often intersect, completely conflating the two into Taliban would be misleading, as there are many conservative actors who did not support the use of violence.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Narrative of Militancy: A Case Study of Swat, Pakistan</article-title>
+               <volume>16</volume>
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020055</pub-id>
+               <issue>2</issue>
+               <source>Journal of Human Security</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shah</surname>
+                     <given-names>Qasim Ali</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>Bahadar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elahi</surname>
+                     <given-names>Noor</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.jurist.org/hotline/2009/04/pakistans-acceptance-of-sharia-law-in.php</uri>.
+        </comment>
+               <annotation>
+                  <p>Islamic law, implemented by government decree on April 17th, 2009.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The army is now permanently stationed in the area.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This research is a part of the Community-Based Policing and Post-Conflict Police Reform (ICT4COP) project, with funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No 653909. It builds on findings from the Norwegian Research Council funded research project `Gender and Human Security in Post-Crisis Pakistan: Policy Implications of Local Gendered Perspectives of Security and Development' conducted by the authors (2010-2015).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Politics Among Nations: The Struggle for Power and Peace</article-title>
+               <publisher-name>Knopf</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Morgenthau</surname>
+                     <given-names>H J</given-names>
+                  </name>
+               </person-group>
+               <year>1948</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Structural Realism after the Cold War</article-title>
+               <volume>25</volume>
+               <pub-id pub-id-type="doi">10.1162/016228800560372</pub-id>
+               <issue>1</issue>
+               <source>International Security</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waltz</surname>
+                     <given-names>Kenneth N.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <fpage>5</fpage>
+               <fpage>41</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Tragedy of Great Power Politics</article-title>
+               <publisher-name>W.W. Norton</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mearsheimer</surname>
+                     <given-names>John J.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Elusive Balance: Power and Perceptions During the Cold War</article-title>
+               <publisher-name>Cornell University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wohlforth</surname>
+                     <given-names>William Curti</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>From Wealth to Power: The Unusual Origins of Americas World Role</article-title>
+               <publisher-name>Princeton University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zakaria</surname>
+                     <given-names>Fareed</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Inequality and Theorizing in International Relations: The Case for Subaltern Realism</article-title>
+               <volume>4</volume>
+               <pub-id pub-id-type="doi">10.1111/1521-9488.00263</pub-id>
+               <issue>3</issue>
+               <source>International Studies Review</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ayoob</surname>
+                     <given-names>Mohammed</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <fpage>27</fpage>
+               <fpage>48</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Security and Emancipation</article-title>
+               <volume>17</volume>
+               <pub-id pub-id-type="doi">10.4324/9781315184517-26</pub-id>
+               <issue>4</issue>
+               <source>Review of International Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Booth</surname>
+                     <given-names>Ken</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+               <fpage>13</fpage>
+               <fpage>26</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Discipline of International Relations: Still an American Social Science?</article-title>
+               <volume>2</volume>
+               <pub-id pub-id-type="doi">10.1111/1467-856x.00042</pub-id>
+               <issue>3</issue>
+               <source>The British Journal of Politics and International Relations</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Steve</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <fpage>374</fpage>
+               <fpage>402</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>The Contested Concept of Security</chapter-title>
+               <source>Critical Security Studies and World Politics</source>
+               <publisher-name>Lynne Lienner</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Ken Booth</surname>
+                  </name>
+               </person-group>
+               <fpage>27</fpage>
+               <lpage>62</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2003</year>
+               <publisher-name>Harvard University Press</publisher-name>
+               <fpage>15</fpage>
+               <lpage>40</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alkire S.</surname>
+                  </name>
+               </person-group>
+               <chapter-title>Concepts of Human Security</chapter-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>LC and Fukuda-Parr, S and Seidensticker, E; title = Human Security in a Global World</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Developed further from the UN Development Report (1994), where the term human security was coined as `freedom from want' and `freedom from fear'.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A Broad Concept that Encourages Interdisciplinary Thinking</article-title>
+               <volume>35</volume>
+               <pub-id pub-id-type="doi">10.1177/096701060403500319</pub-id>
+               <issue>3</issue>
+               <source>Security Dialogue</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Winslow</surname>
+                     <given-names>Donna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eriksen</surname>
+                     <given-names>Thomas Hylland</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <fpage>361</fpage>
+               <fpage>362</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Rural Development in Swat, Pakistan: Understanding Food and Livelihood Security in Post-Conflict Contexts</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Khan</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ali</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-loc>Oslo,NO</publisher-loc>
+               <publisher-name>Department of International Environment and Development Studies, Noragric, Norwegian University of Life Sciences</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.umb.no/statisk/noragric/publications/reports/2012/noragricrep62.pdf"
+                         xlink:type="simple">http://www.umb.no/statisk/noragric/publications/reports/2012/noragricrep62.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Community-Oriented Policing: Political, Institutional and Technical Reforms in Khyber Pakhtunkhwa (KP) Police</article-title>
+               <volume>15</volume>
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020041</pub-id>
+               <issue>2</issue>
+               <source>Journal of Human Security</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bahadar</surname>
+                     <given-names>Nawab</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ullah</surname>
+                     <given-names>Shakir</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maqsood</surname>
+                     <given-names>Tahir</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dawar</surname>
+                     <given-names>Shakirullah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bahadar</surname>
+                     <given-names>Nawab</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elahi</surname>
+                     <given-names>Noor</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <article-title>Violent Conflict in North Waziristan, Pakistan: The Distortion and Re-emergence of Social Structure</article-title>
+               <volume>13</volume>
+               <source>FWU Journal of Social Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>COPS</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://cops.usdoj.gov/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>``Horses for Courses'' and ``Thin Blue Lines'': Community Policing in Transitional Society</article-title>
+               <volume>8</volume>
+               <pub-id pub-id-type="doi">10.1177/1098611104267328</pub-id>
+               <issue>1</issue>
+               <source>Police Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <fpage>64</fpage>
+               <fpage>98</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Legal Pluralism</article-title>
+               <volume>22</volume>
+               <pub-id pub-id-type="doi">10.2307/3053638</pub-id>
+               <issue>5</issue>
+               <source>Law &amp; Society Review</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Merry</surname>
+                     <given-names>Sally Engle</given-names>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <fpage>869</fpage>
+               <lpage>896</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>No Condition is Permanent: The Social Dynamics of Agrarian Change in Sub-Saharan Africa</article-title>
+               <publisher-name>University of Wisconsin Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Berry</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Law: A Map of Misreading. Toward a Postmodern Conception of Law</article-title>
+               <volume>14</volume>
+               <pub-id pub-id-type="doi">10.2307/1410186</pub-id>
+               <issue>3</issue>
+               <source>Journal of Law and Society</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Santos</surname>
+                     <given-names>Boaventura De Sousa</given-names>
+                  </name>
+               </person-group>
+               <year>1987</year>
+               <fpage>279</fpage>
+               <lpage>302</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Non-State Justice Systems in Latin America: Case Studies: Peru and Columbia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Faundez</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <publisher-loc>London,UK</publisher-loc>
+               <annotation>
+                  <p>Paper prepared for the United Kingdom Department for International Development workshop, ``Working with Non-State Justice Systems''</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Gender Justice and Legal Pluralities: Latin American and African Perspectives</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McNeish</surname>
+                     <given-names>John-Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sieder</surname>
+                     <given-names>Rachel</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://carnegieendowment.org/files/wp41.pdf"
+                         xlink:type="simple">https://carnegieendowment.org/files/wp41.pdf</ext-link>
+               <year>2003</year>
+               <publisher-name>Carnegie Endowment for International Peace</publisher-name>
+               <comment>41</comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Golub S.</surname>
+                  </name>
+               </person-group>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <article-title>Beyond Rule of Law Orthodoxy: The Legal Empowerment Alternative Rule of Law Series, Democracy and Rule of Law Project</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Institutions and The Environment</article-title>
+               <volume>28</volume>
+               <pub-id pub-id-type="doi">10.1111/j.1468-0270.2008.00840.x</pub-id>
+               <issue>3</issue>
+               <source>Economic Affairs</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ostrom</surname>
+                     <given-names>Elinor</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <fpage>24</fpage>
+               <fpage>31</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Development through Bricolage: Rethinking Institutions for Natural Resource Management</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cleaver</surname>
+                     <given-names>Frances</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Beyond the State in Rural Uganda</article-title>
+               <publisher-name>Edinburgh University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1494&amp;context=umlr"
+                         xlink:type="simple">https://repository.law.miami.edu/cgi/viewcontent.cgi?article=1494&amp;context=umlr</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Menkel-Meadow, C.</surname>
+                  </name>
+               </person-group>
+               <article-title>Ethics Issues in Arbitration and Disputes Resolution Processes: What's is Happening and What's not</article-title>
+               <year>2002</year>
+               <issue>56</issue>
+               <volume>4</volume>
+               <fpage>949</fpage>
+               <lpage>1007</lpage>
+               <source>University of Miami Law Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Making Peace with your Enemy: Nelson Mandela and his Contributions to Conflict Resolution</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sternlight</surname>
+                     <given-names>Jean R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schneider</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Menkel-Meadow, Carrie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mnookin</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldstone</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andrews</surname>
+                     <given-names>Penelope</given-names>
+                  </name>
+               </person-group>
+               <source>Nevada Law Journal</source>
+               <volume>16</volume>
+               <fpage>281</fpage>
+               <lpage>312</lpage>
+               <year>2015</year>
+               <publisher-name>HeinOnline</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Matute</surname>
+                     <given-names>Arturo</given-names>
+                  </name>
+               </person-group>
+               <article-title>Possibilities of Advancing Police Reform in Guatemala through Community-Oriented Policing</article-title>
+               <source>Journal of Human Security</source>
+               <volume>16</volume>
+               <issue>2</issue>
+               <year>2021</year>
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020097</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://cardozojcr.com/vol10no1/163-232.pdf"
+                         xlink:type="simple">https://cardozojcr.com/vol10no1/163-232.pdf</ext-link>
+               <year>2008</year>
+               <volume>10</volume>
+               <fpage>163</fpage>
+               <lpage>231</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osi</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Understanding Indigenous Dispute Resolution Processes And Western Alternative Dispute Resolution, Cultivating Culturally Appropriate Methods In Lieu of Litigation</article-title>
+               <source>Cardozo Journal of Conflict Resolution</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The research projects under which this research was conducted include: Pak-3004 Norwegian Frame Agreement between Norway and Pakistan pilot project on Livelihood, Security and Development in Post Conflict Swat (2010-2011); Norwegian Research Council funded project on `Gender and Human Security in Post-Conflict Pakistan: Policy implications of local, gendered understandings of security and development' (2011-2014); and EU H2020 funded project on Community-Based Policing and Post Conflict Police Reforms (2015-2020).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Note that some of these categories overlap, for example, a respondent who was a landowner or landless could also be a teacher, a lawyer, health worker, community leader, male or female. The point here was to give an indication of both total numbers and the relative degrees of representation.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>A committee of respected community members called together to discuss make decisions on community issues. The jirga is one of the main pillars of the Pakhtunwali, or code of conduct in Pakhtun societies.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Female jirga set up to win justice for women in Swat</article-title>
+               <source>DAWN</source>
+               <year>2013</year>
+               <month>Jul 11</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.dawn.com/news/1024391"
+                         xlink:type="simple">http://www.dawn.com/news/1024391</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2009</year>
+               <issue>16</issue>
+               <fpage>33</fpage>
+               <lpage>44</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ahmad</surname>
+                     <given-names>I</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Khan MA</surname>
+                  </name>
+               </person-group>
+               <article-title>Role of Tradition Institution in the Management of Natural Resources in Pashtoon Society, NWFP, Pakistan</article-title>
+               <source>PUTAJ Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The leader of the Union Council (similar to a mayor).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Role of Stakeholders in Post Conflict Peacebuilding in Swat, Pakistan</article-title>
+               <volume>18</volume>
+               <pub-id pub-id-type="doi">10.4335/18.1.211-229(2020)</pub-id>
+               <issue>1</issue>
+               <source>Lex Localis - Journal of Local Self-Government</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shah</surname>
+                     <given-names>Qasim Ali</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>Bahadar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mehmood</surname>
+                     <given-names>Tahir</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <fpage>211</fpage>
+               <fpage>229</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andrew Buncombe</surname>
+                  </name>
+               </person-group>
+               <article-title>Pakistan to boost Swat valley police</article-title>
+               <source>Independent</source>
+               <year>2011</year>
+               <month>Oct 23</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.independent.co.uk/news/world/asia/pakistan-to-boost-swat-valley-police-1707909.html"
+                         xlink:type="simple">http://www.independent.co.uk/news/world/asia/pakistan-to-boost-swat-valley-police-1707909.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>False Promises False Hopes: Local Perspectives on Liberal Peace Building in North-Western Pakistan</article-title>
+               <volume>40</volume>
+               <pub-id pub-id-type="doi">10.1080/08039410.2013.797016</pub-id>
+               <issue>2</issue>
+               <source>Forum for Development Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Khan</surname>
+                     <given-names>Kashif Saeed</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid L.P.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>261</fpage>
+               <fpage>284</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Along these lines, see Wimpelmann's (2013) work on the debates over the formal role of the jirgas and shuras in Afghanistan, where she exposes the complex power relations between international and national interests on whether these institutions should be formalized or not in policy and law.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Nexuses of Knowledge and Power in Afghanistan: The Rise and Fall of the Informal Justice Assemblage</article-title>
+               <volume>32</volume>
+               <pub-id pub-id-type="doi">10.1080/02634937.2013.835200</pub-id>
+               <issue>3</issue>
+               <source>Central Asian Survey</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wimpelmann</surname>
+                     <given-names>Torunn</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>406</fpage>
+               <fpage>422</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>See Caparini and Fluri's (2006) article for a useful discussion on civil society and the state in security sector reform.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2006</year>
+               <volume>10</volume>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Caparini</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fluri</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <article-title>Civil Society Actors in Defence and Security Affairs. Civil Society and the Security Sector: Concepts and Practices in New Democracies</article-title>
+               <publisher-name>Geneva Centre for the Democratic Control of Armed Forces (DCAF)</publisher-name>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>Khyber Pakhtunkhwa Police. Dispute Resolution Council</p>
+               </annotation>
+               <comment>Available from:
+            <uri xlink:type="simple">http://kppolice.gov.pk/drc/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <annotation>
+                  <p>Community Policing: Proceedings of a Consultative Workshop (2010) by Center for Peace and Development Initiatives (CPDI), p.16</p>
+               </annotation>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.cpdi-pakistan.org/wp-content/uploads/2016/02/comm\_p.pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2010</year>
+               <publisher-loc>Lahore, Pakistan</publisher-loc>
+               <publisher-name>Human Right Commission of Pakistan (HRCP)</publisher-name>
+               <article-title>Swat: Paradise Regained. Report of an HRCP Fact-finding Mission, Lahore</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fazal Khaliq</surname>
+                  </name>
+               </person-group>
+               <article-title>Taliban target local militias called peace committees in Pakistan's Swat Valley</article-title>
+               <source>UPI</source>
+               <year>2004</year>
+               <month>Feb 20</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.upi.com/Taliban-target-local-militias-called-peace-committees-in-Pakistans-Swat-Valley/41390394841287"
+                         xlink:type="simple">http://www.upi.com/Taliban-target-local-militias-called-peace-committees-in-Pakistans-Swat-Valley/41390394841287</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Alternate Dispute Resolution - Consolidated Statement</article-title>
+               <publisher-name>Lahore High Court</publisher-name>
+               <year>2019</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.lhc.gov.pk/ADR\_Consolidated\_Statement\_2019"
+                         xlink:type="simple">https://www.lhc.gov.pk/ADR\_Consolidated\_Statement\_2019</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
