@@ -1,0 +1,1496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2021.17010015</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Planetary Precarity and ‘More-Than-Human Security’: The Securitization Challenge in the Aftermath of COVID-19</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Morrissey</surname>
+                  <given-names>John</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>National University of Ireland, Galway, Ireland</aff>
+         <pub-date pub-type="ppub">
+            <day>09</day>
+            <month>07</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue>1</issue>
+         <fpage>15</fpage>
+         <lpage>22</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>COVID-19 has elevated anew the import of holistically conceiving human-environmental well-being and tackling the overarching precarities of our ecologies, societies and public health in strategies of securitization. This paper considers the key challenge of reimagining securitization in the aftermath of COVID-19 and makes two core arguments. The first is that in addressing precarity a key starting point lies in being mindful of how it is differentially experienced across multiple social hierarchies in the human world. The paper draws upon Judith Butler’s work on ‘frames of seeing’ to consider how our current moment can elicit a contrapuntal concern for those who have always been precarious but not in view. The second core argument is that it is vital to move beyond a concern for human precarity to a concern for a broader sense of planetary precarity, which in turn prompts the need to strategize for a ‘more-than-human’ sense of security. Developing the concept of ‘human security’, the paper reflects on how we can usefully envision a ‘more-than-human security’ for a more biologically stable and sustainable planet.  </p>
+         </abstract>
+         <kwd-group>
+            <kwd>COVID-19</kwd>
+            <kwd>more-than-human security</kwd>
+            <kwd>planetary precarity</kwd>
+            <kwd>securitization</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Towards the end of Samuel Beckett’s Waiting for Godot, Vladimir declares that ‘‘we are no longer alone, waiting for the night’’. He muses that we are all, in fact, metaphorically ‘‘waiting for Godot’’, and that life is mostly ‘‘waiting for … waiting’’ [<xref ref-type="bibr" rid="R1">1</xref>]. The years 2020 and 2021 have felt like that, and throughout the world people have felt the urge to fast-forward time to a normality once taken for granted and now craved. In adjusting to the new normal, there is undoubtedly a wider appreciation of precarity—no longer seen as just happening ‘over there’, to ‘them’ and not to ‘us’—and this is important for the global-scale socio-environmental challenges faced. But social and environmental precarity continues to be experienced in hugely disparate ways, with COVID-19 serving in fact to widen indices of health, poverty and economic inequalities.</p>
+         <p>Responding to the COVID-19 pandemic has elevated the import of holistically conceiving the well-being of our ecologies and societies. In addressing precarity on multiple scales, a key starting point lies in seeing precarity and being mindful of how it is differentially experienced across class, race, gender, sexuality, disability and other social hierarchies in the human world. With this in mind, this paper draws upon the work of feminist philosopher and social theorist, Judith Butler, on ‘frames of seeing’ to consider how our current moment can elicit a contrapuntal concern for those who have always been precarious, by rendering their worlds visible and a constitutive part of a globally understood precarity. It then critiques the spatial dynamics and excesses of late modern capitalism in contemplating a broader sense of ‘planetary precarity’, before considering how the concept of ‘human security’ might usefully be extended to envision a ‘more-than-human’ sense of security in responding to COVID-19 and the likelihood of future pandemics [<xref ref-type="bibr" rid="R2">2</xref>]. To begin with, however, the paper opens with a reflection on securitization as an assemblage of actionable knowledge, asking critically how we come to define and frame ‘security’.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Security and Securitization</title>
+         <p>In the late 1970s, the philosopher and social theorist, Michel Foucault, predicted that we would increasingly live in a ‘‘society of security’’ ([<xref ref-type="bibr" rid="R3">3</xref>], p. 11). For Foucault, modern society was moving in a direction increasingly typified by prevailing discourses of securitization, which underpinned a governmentalized world of regulated political, economic and social subjectivity. Across the social sciences and humanities in recent years, key contributions have divulged the extent to which neoliberal discourses of ‘security’ function centrally in the governing techniques of our contemporary world [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>]. In the seemingly endless global war on terror, for instance, we have witnessed how specific registers of interventionism play pivotal roles in the justification of military securitization strategies—where ‘identified’ ‘risk’ becomes discursively binded to ‘necessary’ ‘securitization’ [<xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>]. This not only mirrors broader dimensions of contemporary geopolitical grand strategy but also echoes a long history of imperialism in which interventionism was legitimized and actioned via hegemonic forms of colonial discourse involving registers of threat, risk, defense and opportunity [<xref ref-type="bibr" rid="R11">11</xref>].</p>
+         <p>To return to Foucault’s critique of modern society, he incisively laid bare how overlapping structures of governing power and governing epistemes reinforce and legitimate each other: ‘‘knowledge linked to power not only assumes the authority of ‘the truth’ but has the power to make itself true’’ ([<xref ref-type="bibr" rid="R12">12</xref>], p. 27). This ‘power-knowledge’ couplet works to enable the discursive hegemony of prioritised forms of knowledge that underpin prevailing forms of governance and governmentality. In deconstructing global health governance, Foucault’s power-knowledge couplet has been usefully drawn upon via the idea of ‘framing’ or ‘issue framing’, whereby ‘‘an issue is presented in such a way as to tie into a broader set of ideas about the world, or ‘socially constructed reality’, and through this gain influence and policy purchase’’ ([<xref ref-type="bibr" rid="R13">13</xref>], p. 3). Framing in global health governance involves what Colin McInnes and Kelley Ley call the ‘‘ideational element’’ of the global health security nexus, wherein prioritised interventionary policies emerge from an ‘‘arena of competition’’ in which ‘‘ideas matter’’ and buttress ‘‘acceptable pathways of government response’’ ([<xref ref-type="bibr" rid="R13">13</xref>], pp. i, 4). Global health securitization, in other words, like all discourses of security, is selective, and framed in highly consequential ways for the enactment of global health policy [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>].</p>
+         <p>Recognising the role of framing enables a critique of global health governance that sees its policy formation and operationalisation as relying on prioritized ideas of threat, risk and security. As Adam Ferhani and Simon Rushton have shown, despite the ‘‘internationalist rhetoric governments engage in’’, in the ‘‘face of a crisis’’ this commonly evaporates and governments instead ‘‘prioritize the safety of their own citizens, their economic interests, and their own political popularity’’ ([<xref ref-type="bibr" rid="R16">16</xref>], p. 466) [<xref ref-type="bibr" rid="R17">17</xref>]. We have witnessed this in the Global North with the vaccine rollout for COVID-19 in particular. As Ferhani and Rushton reason, Global North governments find themselves (unusually) at ‘‘the epicenter of the COVID-19 pandemic’’, and have on the whole adopted ‘‘nationalistic ‘domestic first’ responses, undermining the possibilities for international cooperation’’ ([<xref ref-type="bibr" rid="R16">16</xref>], p. 473). They point to the key ‘global health’ securitization challenge consequently faced: generating a shift away from ‘‘disease as a narrow national security concern’’, rethinking ‘‘what borders are’’ and reframing ‘global health security’ to ‘‘detect and respond to infectious disease outbreaks’’ ([<xref ref-type="bibr" rid="R16">16</xref>], p. 473).</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Variegated Precarity and the Politics of Space</title>
+         <p>COVID-19’s securitization is, like all discourses of security, an assemblage of knowledge prioritized, framed and communicated in determinative ways. As Judith Butler has noted, critiquing how knowledge is constructed begins with a consideration of how it is dominantly formed within a ‘‘contemporary social frame’’ ([<xref ref-type="bibr" rid="R18">18</xref>], p. 1). Butler has spent much of her academic career reflecting on ‘‘what it means to become ethically responsive, to consider and attend to the suffering of others’’ ([<xref ref-type="bibr" rid="R19">19</xref>], p. 951) [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>]. In this endeavour, she has illuminated how certain frames of seeing ‘‘permit the representability of the human’’, direct ‘‘the way in which suffering is presented to us’’, and thus ‘‘affect our responsiveness’’: ‘‘whether and how we respond to the suffering of others, how we formulate moral criticisms, how we articulate political analyses, depend upon a certain field of perceptible reality’’ ([<xref ref-type="bibr" rid="R19">19</xref>], p. 951). Butler’s broader appreciation of the power of subjection and the consequences for our conditioned subjectivity cautions her in considering if we can ‘‘learn to see the frame that blinds us to what we see’’([<xref ref-type="bibr" rid="R19">19</xref>], p. 966) [<xref ref-type="bibr" rid="R23">23</xref>]. Mirroring philosopher Susan Sontag’s concerns in <italic>Regarding the Pain of Others</italic> [<xref ref-type="bibr" rid="R24">24</xref>], Butler poses the question of whether or not it is possible to transcend the ‘‘final narcissism of our desire to see’’ when we have long been conditioned toward an ‘‘inability to see what we see’’ ([<xref ref-type="bibr" rid="R19">19</xref>], p. 966). For Butler, overcoming our conditioned subjectivity requires us to deconstruct and theorize the ‘‘forcible frame’’ that imposes ‘‘constraints on what ‘can’ be heard, read, seen, felt, and known’’—and this starts with recognizing ‘‘‘not seeing’ in the midst of seein’’ ([<xref ref-type="bibr" rid="R19">19</xref>], p. 966).</p>
+         <p>‘Not seeing’ the world for Butler is the result of a ‘‘visual norm’’ that conducts a ‘‘fateful disavowal’’ of the human suffering of ‘Others’ ([<xref ref-type="bibr" rid="R19">19</xref>], p. 966). This remains a fundamental epistemological challenge, in recognizing, for instance, how the COVID-19 pandemic involves a variegated precarity and vulnerability across our communities. We have heard much about how responding to the crisis relies upon staying at home and retreating to the safety of family units. But as Butler more recently notes, ‘‘not everyone has a household or a ‘family’’’, and ‘‘increasing numbers of the population’’ are, in fact, ‘‘homeless or transient’’ [<xref ref-type="bibr" rid="R25">25</xref>]. Therefore configuring the household as a ‘space of protection’ involves a profound power-knowledge privileging of some worlds over others. Lynsey Hanley highlights why this matters in the context of COVID-19: ‘‘[s]pace—how it’s apportioned, how it’s governed, how it’s made available to some and denied to others—is always political […] we are being encouraged to imagine that every home and immediate neighbourhood is as comfortable and well-resourced as the next: that everyone has a garden, a computer, a quiet room to study or work in, and a supermarket and an open space nearby’’ [<xref ref-type="bibr" rid="R26">26</xref>].</p>
+         <p>Insisting on the enduring politics of space is vital in bringing into view worlds of human suffering that are outside the dominant frame. In this task, we also need to acknowledge the implicit racism at the heart of why developed countries have consistently ignored precarity that happens ‘over there’. As World Health Organization (WHO) Executive Director Mike Ryan recently observed, this is why the Global North was so ‘‘entirely complacent of infectious diseases’’ prior to the outbreak of COVID-19 [<xref ref-type="bibr" rid="R27">27</xref>]. And there is an onus upon us too to highlight the human picture hidden in the many soundbite knowledges of the pandemic (particularly on social media and in our dominantly market-driven news forums) that circulate reductively and in a manner that dissuades empathy and solidarity. The term ‘underlying conditions’ is one such example. As urban studies social theorist Ananya Roy notes, this signifier works to reduce social conditions to medical symptoms, and in the process hides the backstory: the ‘‘systematic denial of robust and affordable health care’’ [<xref ref-type="bibr" rid="R28">28</xref>]. It also works of course to abhorrently imply that some lives are ultimately disposable.</p>
+         <p>One could conclude that some lives are indeed disposable, in reflecting on the hierarchical privileging of access to the emerging vaccines for COVID-19—which Oxfam has termed the ‘inequality virus’ [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. As Judith Butler once more observes, we are again seeing many in the privileged Global North assert their rights to ‘‘live at the expense of others’’ by setting out ‘‘those who should be protected against death at all costs and those whose lives are considered not worth safeguarding against illness and death’’ [<xref ref-type="bibr" rid="R25">25</xref>]. Sadly, it seems that social and economic inequality will ensure that COVID-19 discriminates in its societal penetration and effects—mirroring how we value lives differently, how we support those lives differently, and ultimately how we differentially recognize lives in our regimes of representation.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Capitalism and Planetary Precarity in the Anthropocene</title>
+         <p>In addition to appreciating a differentiated and wider sense of human precarity, a core challenge in imagining a more just and sustainable post-COVID-19 world lies in articulating a broader sense of <italic>planetary precarity</italic> that recognizes what Janet Wilson and colleagues call the ‘‘biocentric interconnectedness of the human and more-than-human world’’ ([<xref ref-type="bibr" rid="R31">31</xref>], p. 444). Such a sense of precarity refuses the spurious distinctions so frequently made between human and non-human worlds, and instead frames an understanding of conjoined human-environmental precarity on a global scale [<xref ref-type="bibr" rid="R32">32</xref>]. Planetary precarity may have become more visible as a result of the pandemic, but it predates it to the beginning of an era of ecological stress on the planet that Paul Crutzen and Eugene Stoermer termed the ‘Anthropocene’ at the turn of the century [<xref ref-type="bibr" rid="R33">33</xref>]. The ‘Anthropocene’, which has also been instructively theorized as the ‘Capitalocene’, has been typified by far-reaching ecological impacts on the planet sustained in the wake of an ascendant capitalism since the industrial revolution [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>]. In distinguishing the Anthropocene twenty years ago, Crutzen and Stoermer concluded that a ‘‘strategy leading to sustainability of ecosystems against human induced stresses will be one of the great future tasks’’ ([<xref ref-type="bibr" rid="R33">33</xref>], p. 18)—and that task remains. As Antje Bruns reasons, ‘‘socio-ecological burdens’’ continue to be the ‘‘defining characteristic of the Anthropocene’’, and the COVID-19 crisis simply brings more into view the already existing stresses on the planet brought about by human behaviour ([<xref ref-type="bibr" rid="R39">39</xref>], p. 5).</p>
+         <p>Alerts to the dangers of overstepping environmental boundaries in the process of excessive capitalist production are not new, of course—the idea of global warming has been present in the scientific community since the 1930s and the WHO has consistently warned for over two decades that climate change and habitat degradation pose significant overlapping risks in the proliferation of infectious pathogens: ‘‘the spread and increased lability of various infectious diseases, new and old, reflects the impacts of demographic, environmental, technological and other rapid changes in human ecology’’ ([<xref ref-type="bibr" rid="R40">40</xref>], p. 104). There is no doubt that scientific and social scientific expertise on planetary ecological stress needs to impact more in terms critical public scholarship, and a crucial challenge lies in insisting on the scalar connections and relational geographies of environmental stress and consequent precarity, as David Quammen and others have shown [<xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R43">43</xref>]. This is key to what Bruns has highlighted as the necessity of ‘‘zooming out a little’’ in order to see the interconnected ‘‘struggles and contractions in this era called the Anthropocene’’, which is marked by a range of issues, from population growth, pollution and climate change, to biodiversity loss and resource grabs that mirror the unrelenting goal of capitalist economic growth ([<xref ref-type="bibr" rid="R39">39</xref>], p. 6).</p>
+         <p>Political economic critiques of late modern capitalism are vital in contextualising the challenges of planetary precarity we face. Deregulated extractivism, excessive consumerism, overlapping environmental stresses, growing economic inequalities and the ecologically unsustainable idea of continuous economic growth collectively demand a fundamental reappraisal of what an economy is actually designed for. There is an acute need for repeatedly making the argument that market concerns and profit—to the detriment of environmental and human health—is no longer acceptable as the rationale for ‘development’ and ‘growth’.</p>
+         <p>Market-driven, econcentric rationales prevail in so many aspects of contemporary life. Manifesting in everything from increasingly technocratic forms of government to deepening regimes of performance management, such rationales have been seen at the heart of global health governance too. As Matt Sparke observes, the governance of global health has unobtrusively adapted ‘‘calculations from global finance to manage global health interventions’’ ([<xref ref-type="bibr" rid="R44">44</xref>], p. 48). . Sparke’s concerns are echoed by Susan Sell and Owain Williams, who have outlined the multiple ‘‘underlying structural effects of capitalism on health’’ that are evident at every human-environmental scale—effects that mirror a ‘‘market fundamentalism’’ that ‘‘profoundly’’ shapes global health governance in areas such as ‘‘trade and investment policy’’, ‘‘austerity programs’’, and ‘‘pharmaceutical and food governance’’ ([<xref ref-type="bibr" rid="R45">45</xref>], p. 1). Sell and Williams convincingly show how neoliberal capitalism ‘‘generates health outcomes like no other system’’, resulting in what they term ‘‘structurally pathogenic’’ negative impacts ([<xref ref-type="bibr" rid="R45">45</xref>], p. 1).</p>
+         <p>Joining the dots on the structural violence wrought by neoliberal capitalism on human and environmental health is an urgent and vital task that requires a holistic conceptualization of conjoined human and environmental security in the Anthropocene. One of the most important connections to illuminate between capitalist productions and ecological after-effects on a global scale relates to ‘Big Farm’ agribusiness and regulating how we ethically and environmentally produce food [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>]. A primary economic driver of ecological stress is the demand for cheap meat that has seen a rise in industrial-sized cattle, pig and chicken farming. Apart from the well-documented methane emissions and the various core animal welfare issues, intensive farming has been linked to ‘‘local biodiversity damage from ammonia emissions’’, deforestation due to the ‘‘reliance on protein-rich crops such as soya as animal feed’’, and multiple ‘‘detrimental impacts’’ on communities, including the dissemination of ‘‘harmful bacteria, viruses and air pollutants’’ [<xref ref-type="bibr" rid="R48">48</xref>]. In the wildlife food sector, agribusiness has evidently played a central role in the emergence of COVID-19, and indeed in many of the other deadly pathogens we have seen in recent decades. Karin Brulliard usefully historicizes the consequences of a largely unregulated global wildlife trade: ‘‘[COVID-19] began like so many pandemics and outbreaks before: inside an animal. The virus’s original host was almost certainly a bat […] as was the case with Ebola, SARS, MERS and lesser-known viruses such as Nipah and Marburg […] Wild animals have always had viruses coursing through their bodies. But a global wildlife trade worth billions of dollars, agricultural intensification, deforestation and urbanization are bringing people closer to animals, giving their viruses more of what they need to infect us: opportunity’’ [<xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>].</p>
+         <p>In the hugely profitable exotic food industry, opportunities for infection are being facilitated in particular by increased encroachment on wild forests. As Catrin Einhorn documents, the ‘‘destruction of forests into fragmented patches is increasing the likelihood that viruses and other pathogens will jump from wild animals to humans’’, and, as coronaviruses are zoonotic, further outbreaks are not only probable but inevitable [<xref ref-type="bibr" rid="R51">51</xref>]. The United Nations Environment Programme have underscored the worrying global picture: ‘‘diseases passed from animals to humans are on the rise, as the world continues to see unprecedented destruction of wild habitats by human activity’’ [<xref ref-type="bibr" rid="R52">52</xref>]. They set out the core challenge of containing transmissions: addressing the ‘‘multiple and often interacting threats to ecosystems and wildlife to prevent zoonoses from emerging, including habitat loss and fragmentation’’ [<xref ref-type="bibr" rid="R52">52</xref>].</p>
+         <p>Agribusiness is the principal force driving habitat loss and ecological fragmentation globally today, and we need to be especially attentive to how the industry (and particularly major corporations such as Monsanto) has worked to deflect regulation. Rob Wallace and colleagues have underlined instructively the ecological and pathological corollaries of unregulated agribusiness cutting further and further into the last wild forests for exotic food: ‘‘[f]ocusing on outbreak zones ignores the relations shared by global economic actors that shape epidemiologies [and] the capital interests backing development- and production-induced changes in land use and disease emergence’’ [<xref ref-type="bibr" rid="R53">53</xref>]. They detail how agribusiness has reconfigured its ‘‘extractivist operations into spatially discontinuous networks across territories’’, in which the new geography is ‘‘embodied by changes in company management structure, capitalization, subcontracting, supply chain substitutions, leasing, and transnational land pooling’’—all of which enables economic production that flexibly traverses ‘‘ecologies and political borders’’ but also generates ‘‘new epidemiologies along the way’’ [<xref ref-type="bibr" rid="R53">53</xref>]. And they incisively divulge how agribusiness’ major corporations have consistently worked ‘‘toward fewer government inspections of farms and processing plants, legislation <italic>against</italic> government surveillance and activist exposé, and legislation against even reporting on the specifics of deadly outbreaks in media outlets’’ [<xref ref-type="bibr" rid="R53">53</xref>]. This is critically important to expose in responding effectively to COVID-19, because the cause of the current global pandemic is not found ‘‘just in the object of any one infectious agent or its clinical course’’, but rather in ‘‘the field of ecosystemic relations that capital and other structural causes have pinned back to their own advantage’’ [<xref ref-type="bibr" rid="R53">53</xref>].</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Towards a Planetary Sense of Security</title>
+         <p>
+            <italic>‘‘Historically, pandemics have forced humans to break with the past and imagine their world anew. This one is no different. It is a portal, a gateway between one world and the next. We can choose to walk through it, dragging the carcasses of our prejudice and hatred, our avarice, our data banks and dead ideas, our dead rivers and smoky skies behind us. Or we can walk through lightly, with little luggage, ready to imagine another world’’</italic> [<xref ref-type="bibr" rid="R54">54</xref>].</p>
+         <p>Writer and political activist Arundhati Roy’s thoughtful reflection above centres on a core challenge of human transition throughout history. Imagining a new and better world involves, on the one hand, carefully documenting and understanding the dysfunctions of the old, and, on the other, creatively envisioning a greater sense of planetary security for the present and future. For the latter task, there are key questions to ponder in thinking through how we transition towards a more responsible living and governing of the planet. George Monbiot is one of many public commentators who have urged governments to respond bravely and ambitiously to the COVID-19 emergency by planning to build a different, greener economy [<xref ref-type="bibr" rid="R55">55</xref>]. And the evidence supports the payoff for investment. The health and well-being corollaries of less frenetic economic production are becoming clearer, for example, as the fog of excessive travel and consumption clears [<xref ref-type="bibr" rid="R56">56</xref>]. The improvement in air quality during the various lockdowns is one indicative index that can be drawn upon to prompt recognition of the positives for human and environmental health in shifting to cleaner modes of transport and energy production [<xref ref-type="bibr" rid="R57">57</xref>].</p>
+         <p>Rod Wallace and colleagues have argued that what we need in the world now is nothing short of a reintroduction into ‘‘Earth’s cycles of regeneration’, a ‘‘rediscovering of our sense of individuation in multitudes beyond capital and the state’’ [<xref ref-type="bibr" rid="R53">53</xref>]. This equates to a ‘‘disalienation’’ from capitalism’s excesses, which is necessary for what they term ‘‘the next great human transition’’ in which we must ‘‘navigate out’’ of capitalism’s global circuits of ecological destruction [<xref ref-type="bibr" rid="R53">53</xref>]. They point to immediate solutions: ‘‘[w]e protect the forest complexity that keeps deadly pathogens from lining up hosts for a straight shot onto the world’s travel network. We reintroduce livestock and crop diversities, and reintegrate animal and crop farming at scales that keep pathogens from ramping up in virulence and geographic extent. We allow our food animals to reproduce onsite, restarting the natural selection that allows immune evolution to track pathogens in real time’’ [<xref ref-type="bibr" rid="R53">53</xref>]. These are some of the ways in which we can regulate how we interact with the planet in a manner that does not see it as simply another commodity in an unconstrained economy.</p>
+         <p>Author of <italic>Against Extinction</italic>, geographer Bill Adams, recently pondered how the global lockdown offers a ‘‘window into an ecological past’’ and ‘‘a vision of a possible ecological future’’ [<xref ref-type="bibr" rid="R58">58</xref>]. He wonders whether our rediscovered ‘‘closeness to nature’’ and ‘‘new appreciation of each other’’ might lead us to ‘‘imagine a different future’’ [<xref ref-type="bibr" rid="R58">58</xref>]. Such hopes have been echoed at key nodes of global governance as the pandemic unfolds. UN Secretary General, António Guterres, for instance, has asserted that COVID-19 has reminded us of ‘‘the price we pay for weaknesses in health systems, social protections and public services’’, and that now is the time to ‘‘redouble our efforts to build more inclusive and sustainable economies and societies’’ [<xref ref-type="bibr" rid="R59">59</xref>]. For Guterres, the recovery must result in a different economy, and he points to the UN’s 2030 agenda and sustainable development goals as the roadmap. He stresses the import of protecting future generations through committed climate action and the need for human rights to feature centrally in responding to the crisis [<xref ref-type="bibr" rid="R60">60</xref>].
+</p>
+         <p>Inspiring declarations become simply rhetoric, of course, unless they are activated in tangible and legally binding ways. This requires strengthening and resourcing the global governance architecture of UN agencies such as the WHO with the necessary measures to effectively oversee states and corporations complying with global conventions. Originally dating from the WHO’s World Health Assembly in Boston in 1969, the concept and ambition of ‘global health security’ in the form of the International Health Regulations (IHR) was rejuvenated in the aftermath of the first SARS coronavirus outbreak in 2002, culminating in the revision of the IHR in 2005. The IHR is a legally binding instrument of international law that aims for international collaboration in combatting the global spread of disease, and empowers the WHO as the main global surveillance system. The IHR was designed to oversee cooperation between states, but ‘‘there has been widespread contravention’’, and the ‘‘WHO lacks enforcement power’’, as Adam Ferhani and Simon Ruston lament ([<xref ref-type="bibr" rid="R16">16</xref>], p. 472).</p>
+         <p>The COVID-19 pandemic has elicited rigorous debates about the role, responsibility and powers of the WHO [<xref ref-type="bibr" rid="R61">61</xref>, <xref ref-type="bibr" rid="R62">62</xref>]. During the Ebola outbreak in 2014, its reputation became ‘‘irrefutably damaged’’, with the ‘‘general consensus in the global health community that it fell short of its leadership responsibilities’’, as Clare Wenham observes, due largely to its shackling ‘‘financial and organizational constraints’’ ([<xref ref-type="bibr" rid="R63">63</xref>], p. 1). In the wake of further WHO failures during COVID-19, Tine Hanrieder has considered how the organization could be ‘‘strengthened beyond the pandemic’’ given the lack of ‘‘political commitment’’ for ‘‘an organization that has been weakened over decades’’ by a range of issues including primarily ‘‘underfunded mission creep’’ ([<xref ref-type="bibr" rid="R64">64</xref>], p. 534). As she notes, positive developments such as ‘‘priority setting’’ and ‘‘strategic budgeting’’ might well be consistent aspirations in the WHO but these are sought in the context of a now normative model of public-private partnerships championed by the WHO’s biggest shareholders, and so ‘‘without a new global social contract for public interest policy-making’’ the WHO’s ability to ‘‘further global public health will remain limited’’ ([<xref ref-type="bibr" rid="R64">64</xref>], p. 541). As we emerge from COVID-19, there seems no doubt that a key task lies in renewing the WHO and enabling a more effective global health governance architecture. In this endeavour, envisioning global health securitization is a key challenge.</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- More-than-human Security</title>
+         <p>The global health security crisis experienced in the wake of COVID-19 was guaranteed by a long-established hegemony of narrowly conceived statist security concerns. Dominant forms of statist securitization, focused on borders and territorial, military and police control, are typically bereft of broader ‘human security’ registers that could have been anticipatory of the holistic and people-centred security measures required to respond more effectually and cooperatively to a global pandemic [<xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>, <xref ref-type="bibr" rid="R68">68</xref>]. When COVID-19 hit, the impoverished understanding and functioning of what constitutes ‘security’ was frightfully exposed in the calamitous inadequacies of healthcare infrastructures globally. Health security—a core component of the United Nations Development Programme (UNDP) ‘human security’ concept—had not previously featured centrally on the security agenda [<xref ref-type="bibr" rid="R2">2</xref>]. It had not been prioritized, and crucially had not been invested in and resourced. Historicizing this fact is important. The failure to prepare for COVID-19 did not just start in December 2019, but was in fact ‘‘programmed decades ago as the shared commons of public health were simultaneously neglected and monetized’’ [<xref ref-type="bibr" rid="R53">53</xref>].</p>
+         <p>Mike Davis has argued that the now obvious absence of ‘‘a truly international public health infrastructure’’ has shown ‘‘capitalist globalization’’ to be ‘‘biologically unsustainable’’ [<xref ref-type="bibr" rid="R69">69</xref>]. And if capitalism cannot secure public health, then it is surely not fit for future-proofing the planet. In confronting COVID-19, furthermore, we have seen how healthcare systems exclude people’s access ‘‘on the basis of resources, employment and/or immigration status’’, which exposes ‘‘the pressing need for articulating systems that respect, protect and guarantee the universal human right of everyone’’, as Dorothy Estrada-Tanck observes [<xref ref-type="bibr" rid="R70">70</xref>]. And registering further the need to envisage security more broadly, Karin Brulliard remarks how COVID-19 ‘‘underscores the need for a more holistic ‘one health’ approach, which views human, animal and environmental health as interconnected’’ [<xref ref-type="bibr" rid="R49">49</xref>].</p>
+         <p>In seeking to secure a more sustainable planet for the future, Joel Makower asks can we ‘‘extend the ‘flatten the curve’ meme to climate change and make it as ubiquitously understood and accepted as it is for the coronavirus?’’ [<xref ref-type="bibr" rid="R71">71</xref>]. This, once again, is a challenge of envisioning securitization differently and more broadly. If we are to progressively tackle climate change, we need to frame an interlinked sense of human-environmental security, and mobilize more holistic critical knowledges, expertise and governing rationales on overlapping human-environmental precarities.</p>
+         <p>In communicating an interconnected sense of global precarity in progressive discourses of climate action and sustainability, considering how the UNDP’s 1994 concept of ‘human security’ might be constructively extended can aid us [<xref ref-type="bibr" rid="R2">2</xref>]. Despite its seven components, human security as a singular signifier is discursively centred on <italic>human security</italic>, which in turn misses a vital signalling of conjoined human and non-human precarity. In this sense, it may be useful to envisage a ‘more-than-human’ sense of security in setting out a planetary precarity that mirrors our overlapping human and more-than-human world. Envisioning a ‘more-than-human security’ enables an imagining of a post-COVID-19 world that refutes distinctions between human and non-human worlds, and instead frames a picture of interconnected human-environmental precarity on a global scale.</p>
+         <p>In the aftermath of COVID-19, there is a palpable need for framing and planning for a sense of ‘more-than-human security’, in which human security’s component elements of ‘health security’ and ‘environmental security’, in particular, are increasingly activated in a manner than holistically addresses the overlapping human-environmental precarities of our globally interconnected system. This challenge is broader than the need to reform and re-resource the WHO [<xref ref-type="bibr" rid="R72">72</xref>, <xref ref-type="bibr" rid="R73">73</xref>]. We have reached a point, as Kelley Lee and Julianne Piper have argued, where we need a ‘‘fundamental reimagining of global health governance’’, in which governance needs to be about “building societies’ resilience across a full range of threats, including climate change, pandemic diseases, and economic crises’’, and ‘global health security’ must be ‘‘conceptualized as part of a complex adaptive system’’ that poses ‘‘novel governance challenges because of higher connectivity, nonlinear dynamics, multidirectional patterns of change, and emergent properties’’ ([<xref ref-type="bibr" rid="R74">74</xref>], pp. 530-531). As we emerge from COVID-19, we face an urgent task of framing securitization for a more holistically understood and sustainable planet. This challenge centres on effecting a vision for a more-than-human sense of security that signals overlapping human and environmental concerns, stresses global interconnectedness and the need for global solidarity, and ultimately offers a framework for securitization that supersedes unilateralism and exceptionalism by seeing human and environmental precarity as conjoined and existing beyond borders.</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- Conclusion</title>
+         <p>In the midst of the COVID-19 pandemic, have we reached a tipping point in thinking productively and responsibly about planetary precarity? Up until now, we have been living a capitalist fable in many ways. It is clear now that the excessive consumerist conceit of late modern capitalism was always biologically unsustainable, and this has been shown to have been economically unstable too. Now is the time for brave and principled leadership, and not for environmental and political-economic denial, misinformation strategies, and tacit support for powerful corporate interests [<xref ref-type="bibr" rid="R75">75</xref>, <xref ref-type="bibr" rid="R76">76</xref>, <xref ref-type="bibr" rid="R77">77</xref>]. As Mike Davis imploringly reasons, we need ‘‘effective responses to present and future plagues, ones that mobilize popular courage, give leadership to science, and use the resources of a comprehensive system of universal health coverage and public medicine’’ [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+         <p>In different ways, like Vladimir and Estragon in Samuel Beckett’s <italic>Waiting for Godot</italic>, we are all waiting now, waiting and hoping for a safer world, and it is not just the destitute, the poor, the hungry, the marginalized, the out of view. While we wait, we must agitate for a deeper appreciation of planetary precarity and global interconnectedness to emerge from COVID-19. Global solidarity and collective responsibility for safeguarding the future is more important now than ever before. In strategizing for this critical task, convincingly framing a more-than-human sense of security is vital to establishing a path towards a healthier and more sustainable planet.</p>
+      </sec>
+      <sec id="s10">
+         <title>Acknowledgments</title>
+         <p>Thanks to Tim Eberth and David Nally for their discerning reading and thinking, to the two referees who generously offered thoughtful suggestions, and to Sabina Lautensach as Editor of JHS for her encouraging and passionate commitment to a more just and inspiring sense of security for all. My thanks too to Estefania de la Garza and José Monteiro at Librello.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Grove Press</publisher-name>
+               <year>1954</year>
+               <article-title>Waiting for Godot</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beckett</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.18356/213f0e70-en</pub-id>
+               <year>1994</year>
+               <publisher-name>United Nations</publisher-name>
+               <fpage>22</fpage>
+               <lpage>46</lpage>
+               <chapter-title>New Dimensions of Human Security</chapter-title>
+               <article-title>Human Development Report 1994</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/9780230245075</pub-id>
+               <year>2007</year>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Michel Senellart and Fran\ccois Ewald and Alessandro Fontana</surname>
+                  </name>
+               </person-group>
+               <article-title>Security, Territory, Population</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Risk Society: Towards a New Modernity</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beck</surname>
+                     <given-names>U.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ritter</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lash</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wynne</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9780803983465</isbn>
+               <year>1992</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dean</surname>
+                     <given-names>Mitchell</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Governmentality: Power and Rule in Modern Society</article-title>
+               <isbn>978-1-84787-384-2</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>O'Malley, Pat</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Risk, Uncertainty and Government</article-title>
+               <isbn>9781843146025</isbn>
+               <pub-id pub-id-type="doi">10.4324/9781843146025</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Security: A New Framework for Analysis</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>W\aever, O.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Waever</surname>
+                     <given-names>O.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Wilde, J.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Wilde, J.H.</surname>
+                  </name>
+               </person-group>
+               <isbn>9781555877842</isbn>
+               <year>1998</year>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+               <annotation>
+                  <p>Securitization, understood in the context of the influential constructivist Copenhagen School of International Relations theory, equates to a discourse in which security risks become discursively mobilized to legitimize the operation of interventionary power</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Culture and Security: Symbolic Power and the Politics of International Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781134315529</isbn>
+               <year>2007</year>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aradau</surname>
+                     <given-names>Claudia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van munster, Rens</surname>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Governing Terrorism Through Risk: Taking Precautions, (un)Knowing the Future</article-title>
+               <volume>13</volume>
+               <source>European Journal of International Relations</source>
+               <pub-id pub-id-type="doi">10.1177/1354066107074290</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Heng</surname>
+                     <given-names>Yee Kuang</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <fpage>1</fpage>
+               <lpage>214</lpage>
+               <article-title>War as Risk Management: Strategy and Conflict in an Age of Globalised Risks</article-title>
+               <isbn>9780203970072</isbn>
+               <pub-id pub-id-type="doi">10.4324/9780203970072</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Long War: CENTCOM, Grand Strategy, and Global Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Morrissey</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>University of Georgia Press</publisher-name>
+               <year>2017</year>
+               <isbn>978-0820351056</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Foucault</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Discipline and Punish: The Birth of the Prison (Translated, Sheridan A)</article-title>
+               <publisher-name>Penguin</publisher-name>
+               <year>1977</year>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315765716</pub-id>
+               <year>2015</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Mcinnes</surname>
+                     <given-names>Colin and Lee, Kelley</given-names>
+                  </name>
+               </person-group>
+               <article-title>Framing Global Health Governance</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davies</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kamradt-Scott, Adam</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rushton</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Disease Diplomacy: International norms and global health security</article-title>
+               <isbn>9781421416489</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Security and Public Health</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rushton</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781509515929</isbn>
+               <year>2019</year>
+               <publisher-name>Wiley</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13523260.2020.1771955</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>41</volume>
+               <issue>3</issue>
+               <fpage>458</fpage>
+               <lpage>477</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ferhani</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rushton</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <article-title>The International Health Regulations, COVID-19, and bordering practices: Who gets in, what gets out, and who gets rescued?</article-title>
+               <source>Contemporary Security Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/ia/iiaa135</pub-id>
+               <year>2020</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>96</volume>
+               <issue>5</issue>
+               <fpage>1227</fpage>
+               <lpage>1251</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davies</surname>
+                     <given-names>Sara E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wenham</surname>
+                     <given-names>Clare</given-names>
+                  </name>
+               </person-group>
+               <article-title>Why the COVID-19 Response Needs International Relations</article-title>
+               <source>International Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/j.ctt13x01rf</pub-id>
+               <year>2005</year>
+               <publisher-name>Fordham University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+               </person-group>
+               <article-title>Giving an Account of Oneself</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1068/d2506jb</pub-id>
+               <year>2007</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>25</volume>
+               <issue>6</issue>
+               <fpage>951</fpage>
+               <lpage>966</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+               </person-group>
+               <article-title>Torture and the Ethics of Photography</article-title>
+               <source>Environment and Planning D: Society and Space</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Precarious Life: The Powers of Mourning and Violence</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781844675449</isbn>
+               <year>2006</year>
+               <publisher-name>Verso</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Frames of War: When is Life Grievable?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781844673339</isbn>
+               <year>2009</year>
+               <publisher-name>New York</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/709608</pub-id>
+               <year>2020</year>
+               <publisher-name>Verso</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Force of Nonviolence: The Ethical in the Political</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Psychic Life of Power: Theories in Subjection</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Stanford University Press</publisher-name>
+               <year>1997</year>
+               <isbn>978-0804728126</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Regarding the Pain of Others</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sontag</surname>
+                     <given-names>Susan</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Farrar, Strauss and Giroux</publisher-name>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.versobooks.com/blogs/4603-capitalism-has-its-limits"
+                         xlink:type="simple">www.versobooks.com/blogs/4603-capitalism-has-its-limits</ext-link>
+               <year>2020</year>
+               <source>Verso</source>
+               <article-title>Capitalism has its Limits</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <month>Mar 31</month>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/commentisfree/2020/apr/07/lockdown-britain-victorian-class-divide"
+                         xlink:type="simple">www.theguardian.com/commentisfree/2020/apr/07/lockdown-britain-victorian-class-divide</ext-link>
+               <year>2020</year>
+               <article-title>Lockdown has Laid Bare Britain's Class Divide</article-title>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hanley</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <month>Apr 7</month>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">www.theguardian.com/commentisfree/2020/apr/07/lockdown-britain-victorian-class-divide</uri>.
+        </comment>
+               <year>2020</year>
+               <article-title>Covid-19: World in `For a Hell of a Ride' in Coming Months, Dr. Mike Ryan Says</article-title>
+               <source>Irish Times</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McGreevy</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <annotation>
+                  <p>Ryan also offers an insightful observation of working professionally with Western and African colleagues on various pandemics over the last twenty years. He notes the sequence of thinking—`technological', `medical' and then finally `social'—in terms of the logics of interventionary rationales in the West, as opposed to the reverse trajectory in the Global South.</p>
+               </annotation>
+               <year>Apr 7</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.twitter.com/ananyaUCLA/status/1249369189887832064"
+                         xlink:type="simple">www.twitter.com/ananyaUCLA/status/1249369189887832064</ext-link>
+               <year>2020</year>
+               <article-title>More on Covid-19 Vocabulary</article-title>
+               <source>Twitter</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roy</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <month>April 12</month>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.democracynow.org/2021/1/26/oxfam\_report\_pandemic\_inequality\_paul\_obrien"
+                         xlink:type="simple">www.democracynow.org/2021/1/26/oxfam\_report\_pandemic\_inequality\_paul\_obrien</ext-link>
+               <year>2021</year>
+               <article-title>Democracy Now! Inequality Virus: Pandemic Widens Wealth Gap for Women, People of Color as Billionaire Profits Soar</article-title>
+               <source>Democracy Now!</source>
+               <month>Jan 26</month>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/world/commentisfree/2021/jan/28/here-in-europes-poorest-country-we-have-no-vaccine-to-argue-over"
+                         xlink:type="simple">www.theguardian.com/world/commentisfree/2021/jan/28/here-in-europes-poorest-country-we-have-no-vaccine-to-argue-over</ext-link>
+               <year>2021</year>
+               <article-title>Here in Europe's Poorest Country We Have no Vaccine to Argue Over</article-title>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Erizanu</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <month>Jan 28</month>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17449855.2020.1786904</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>56</volume>
+               <issue>4</issue>
+               <fpage>439</fpage>
+               <lpage>446</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilson</surname>
+                     <given-names>Janet M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dwivedi</surname>
+                     <given-names>Om Prakash</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gámez-Fernández, Cristina M.</surname>
+                  </name>
+               </person-group>
+               <article-title>Planetary Precarity and the Pandemic</article-title>
+               <source>Journal of Postcolonial Writing</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Spell of the Sensuous: Perception and Language in a More-Than-Human World</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abram</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Pantheon Books</publisher-name>
+               <year>1996</year>
+               <annotation>
+                  <p>In drawing upon Abram and other writers in thinking through how to communicate effectively a planetary sense of precarity, I am indebted to conversations with David Nally, who uses the phrase ‘more-than-human precarity’ to capture the conjoined human and non-human planetary precarity I am setting out here (personal communication, 28 February 2021).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf"
+                         xlink:type="simple">http://www.igbp.net/download/18.316f18321323470177580001401/1376383088452/NL41.pdf</ext-link>
+               <year>2000</year>
+               <volume>41</volume>
+               <fpage>17</fpage>
+               <lpage>18</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Crutzen</surname>
+                     <given-names>P. J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stoermer</surname>
+                     <given-names>E. F.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The ``Anthropocene''</article-title>
+               <source>Global Change Newsletter</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Castree</surname>
+                     <given-names>Noel</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>66</fpage>
+               <lpage>75</lpage>
+               <article-title>The Anthropocene: A Primer for Geographers</article-title>
+               <volume>100</volume>
+               <source>Geography (Sheffield, England)</source>
+               <pub-id pub-id-type="doi">10.1080/00167487.2015.12093958</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Capitalism in the Web of Life: Ecology and the Accumulation of Capital</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>J.W.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781781689042</isbn>
+               <year>2015</year>
+               <publisher-name>Verso Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Jason</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+               <article-title>Anthropocene or Capitalocene? Nature, History, and the Crisis of Capitalism</article-title>
+               <isbn>1629631485</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dalby</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Anthropocene Formations: Environmental Security, Geopolitics and Disaster</article-title>
+               <volume>34</volume>
+               <source>Theory, Culture &amp; Society</source>
+               <pub-id pub-id-type="doi">10.1177/0263276415598629</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dalby</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Anthropocene Geopolitics: Globalization, Security, Sustainability</article-title>
+               <isbn>9780776631165</isbn>
+               <pub-id pub-id-type="doi">10.2307/j.ctvx5w8dk</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Governance and Sustainability Lab</publisher-name>
+               <year>2020</year>
+               <fpage>4</fpage>
+               <lpage>6</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bruns</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <source>Crises in the Anthropocene Through and Beyond Corona: Undisciplined Perspectives</source>
+               <chapter-title>The very Nature of the Pandemic is about Human-environment Relations</chapter-title>
+               <ext-link ext-link-type="uri"
+                  xlink:href="https://www.uni-trier.de/fileadmin/fb6/prof/RAU/Governance_and_Sustainability_Lab__Crises_in_the_Anthropocene_2020.pdf"
+                  xlink:type="simple">https://www.uni-trier.de/fileadmin/fb6/prof/RAU/Governance_and_Sustainability_Lab__Crises_in_the_Anthropocene_2020.pdf</ext-link>
+                               
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Climate Change &amp; Human Health: An Assessment</article-title>
+               <institution>Task Group on Behalf of World Health Organization</institution>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>McMichael</surname>
+                     <given-names>A. J. and Haines, A. and Slooff, R. and Kovats, S.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>World Health Organization</publisher-name>
+               <year>1996</year>
+               <isbn>978-9997778543</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Spillover: Animal Infections and the Next Human Pandemic</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Quammen</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9780393239225</isbn>
+               <year>2012</year>
+               <publisher-name>W. W. Norton</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Quammen</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Did Pangolin Trafficking Cause the Coronavirus Pandemic?</article-title>
+               <source>The New Yorker</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.newyorker.com/magazine/2020/08/31/did-pangolins-start-the-coronavirus-pandemic"
+                         xlink:type="simple">www.newyorker.com/magazine/2020/08/31/did-pangolins-start-the-coronavirus-pandemic</ext-link>
+               <month>Jan 31</month>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/tran.12389</pub-id>
+               <year>2020</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>45</volume>
+               <issue>3</issue>
+               <fpage>498</fpage>
+               <lpage>508</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sparke</surname>
+                     <given-names>Matthew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anguelov</surname>
+                     <given-names>Dimitar</given-names>
+                  </name>
+               </person-group>
+               <article-title>Contextualising Coronavirus Geographically</article-title>
+               <source>Transactions of the Institute of British Geographers</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/09692290.2019.1624382</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>48</fpage>
+               <lpage>74</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sparke</surname>
+                     <given-names>Matthew</given-names>
+                  </name>
+               </person-group>
+               <article-title>Neoliberal Regime Change and the Remaking of Global Health: From Rollback Disinvestment to Rollout Reinvestment and Reterritorialization</article-title>
+               <source>Review of International Political Economy</source>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/09692290.2019.1659842</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>25</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sell</surname>
+                     <given-names>Susan K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Owain D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Health under Capitalism: A Global Political Economy of Structural Pathogenesis</article-title>
+               <source>Review of International Political Economy</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Big Farms Make Big Flu: Dispatches on Influenza, Agribusiness, and the Nature of Science</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wallace</surname>
+                     <given-names>Rob</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Monthly Review Press</publisher-name>
+               <year>2016</year>
+               <isbn>978-1583675892</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Surely the Link between Abusing Animals and the World's Health is Now Clear</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <source>The Guardian</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/commentisfree/2020/apr/11/surely-the-link-between-abusing-animals-and-the-worlds-health-is-now-clear"
+                         xlink:type="simple">www.theguardian.com/commentisfree/2020/apr/11/surely-the-link-between-abusing-animals-and-the-worlds-health-is-now-clear</ext-link>
+               <month>Apr 11</month>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Industrial-sized Pig and Chicken Farming Continuing to Rise in UK</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Colley</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wasley</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <source>The Guardian</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/environment/2020/apr/07/industrial-sized-pig-and-chicken-farming-continuing-to-rise-in-uk"
+                         xlink:type="simple">www.theguardian.com/environment/2020/apr/07/industrial-sized-pig-and-chicken-farming-continuing-to-rise-in-uk</ext-link>
+               <month>Apr 7</month>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Next Pandemic is Already Coming, Unless Humans Change How We Interact with Wildlife.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brulliard</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <source>The Washington Post</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.washingtonpost.com/science/2020/04/03/coronavirus-wildlife-environment"
+                         xlink:type="simple">www.washingtonpost.com/science/2020/04/03/coronavirus-wildlife-environment</ext-link>
+               <month>Apr 3</month>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1073/pnas.2021133117</pub-id>
+               <year>2020</year>
+               <publisher-name>Proceedings of the National Academy of Sciences</publisher-name>
+               <volume>117</volume>
+               <issue>47</issue>
+               <fpage>29246</fpage>
+               <lpage>29248</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David A. Relman</surname>
+                  </name>
+               </person-group>
+               <article-title>Opinion: To stop the next pandemic, we need to unravel the origins of COVID-19</article-title>
+               <source>Proceedings of the National Academy of Sciences</source>
+               <annotation>
+                  <p>Professor of Medicine, Microbiology and Immunology at Stanford University, David Relman, has considered the various possible origins of SARS-CoV-2 in the Proceedings of the National Academy of Sciences. Although acknowledging the likely source as bat-to-human transition, he reasons convincingly for the possibility too of unintentional release of the virus from a laboratory setting. In either case, his conclusion is that ``COVID-19's origin story will help elucidate the nature of our very precarious coexistence within the biosphere'' (p. 29248)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Animal Viruses are Jumping to Humans. Forest Loss Makes it Easier</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Einhorn</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <source>The New York Times</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.nytimes.com/2020/04/09/climate/animals-humans-virus-covid.html"
+                         xlink:type="simple">www.nytimes.com/2020/04/09/climate/animals-humans-virus-covid.html</ext-link>
+               <month>Apr 9</month>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Coronavirus Outbreak Highlights Need to Address Threats to Ecosystems and Wildlife</article-title>
+               <year>2020</year>
+               <source>United Nations Environment Programme</source>
+               <month>Mar 3</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.unenvironment.org/news-and-stories/story/coronavirus-outbreak-highlights-need-address-threats-ecosystems-and-wildlife"
+                         xlink:type="simple">www.unenvironment.org/news-and-stories/story/coronavirus-outbreak-highlights-need-address-threats-ecosystems-and-wildlife</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wallace</surname>
+                     <given-names>Rob</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liebman</surname>
+                     <given-names>Alexander</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chaves</surname>
+                     <given-names>Luis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wallace</surname>
+                     <given-names>Rodrick</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <fpage>1</fpage>
+               <lpage>15</lpage>
+               <article-title>COVID-19 and Circuits of Capital</article-title>
+               <source>Monthly Review</source>
+               <pub-id pub-id-type="doi">10.14452/MR-072-01-2020-05\_1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Pandemic is a Portal</article-title>
+               <year>2020</year>
+               <source>Financial Times</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roy</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <month>Apr 3</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca"
+                         xlink:type="simple">www.ft.com/content/10d8f5e8-74eb-11ea-95fe-fcd274e920ca</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Airlines and Oil Giants are on the Brink. No Government should Offer them a Lifeline</article-title>
+               <year>2020</year>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Monbiot</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <month>Apr 29</month>
+               <comment>Available from:
+            <uri xlink:type="simple">www.theguardian.com/commentisfree/2020/apr/29/airlines-oil-giants-government-economy</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Air Pollution levels have Plummeted, but will we take Heed of the Lessons?</article-title>
+               <year>2020</year>
+               <source>RTÉ News</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fox</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <month>Mar 20</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.rte.ie/news/coronavirus/2020/0320/1124295-air-pollution-is-down-will-we-take-heed-of-lessons"
+                         xlink:type="simple">www.rte.ie/news/coronavirus/2020/0320/1124295-air-pollution-is-down-will-we-take-heed-of-lessons</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Clean Air in Europe during Lockdown `Leads to 11,000 fewer Deaths'</article-title>
+               <year>2020</year>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Watts</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <month>Apr 30</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/environment/2020/apr/30/clean-air-in-europe-during-lockdown-leads-to-11000-fewer-deaths"
+                         xlink:type="simple">www.theguardian.com/environment/2020/apr/30/clean-air-in-europe-during-lockdown-leads-to-11000-fewer-deaths</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Silent Spring. Thinking Like a Human Blog</article-title>
+               <year>2020</year>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Adams</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <month>Mai 8</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.thinkinglikeahuman.com/2020/05/08/silent-spring"
+                         xlink:type="simple">www.thinkinglikeahuman.com/2020/05/08/silent-spring</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Recovery from the Coronavirus Crisis must lead to a Better World</article-title>
+               <year>2020</year>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Guterres</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <month>Apr 2</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/commentisfree/2020/apr/02/un-secretary-general-coronavirus-crisis-world-pandemic-response"
+                         xlink:type="simple">www.theguardian.com/commentisfree/2020/apr/02/un-secretary-general-coronavirus-crisis-world-pandemic-response</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>We are All in this Together: Human Rights and COVID-19 Response and Recovery</article-title>
+               <year>2020</year>
+                <institution>United Nations</institution>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Guterres</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <month>Apr 23</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.un.org/en/un-coronavirus-communications-team/we-are-all-together-human-rights-and-covid-19-response-and"
+                         xlink:type="simple">www.un.org/en/un-coronavirus-communications-team/we-are-all-together-human-rights-and-covid-19-response-and</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hanrieder</surname>
+                     <given-names>Tine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kreuder-Sonnen, Christian</surname>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>331</fpage>
+               <lpage>348</lpage>
+               <article-title>WHO Decides on the Exception? Securitization and Emergency Governance in Global Health</article-title>
+               <volume>45</volume>
+               <source>Security Dialogue</source>
+               <pub-id pub-id-type="doi">10.1177/0967010614535833</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.thelancet.com/action/showPdf?pii=S0140-6736\%2820\%2930110-0"
+                         xlink:type="simple">https://www.thelancet.com/action/showPdf?pii=S0140-6736\%2820\%2930110-0</ext-link>
+               <year>2020</year>
+               <volume>395</volume>
+               <issue>10229</issue>
+               <fpage>1018</fpage>
+               <lpage>1020</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Herten-Crabb, A</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Davies</surname>
+                     <given-names>SE.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Why WHO Needs a Feminist Economic Agenda</article-title>
+               <source>The Lancet</source>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1098/rstb.2016.0307</pub-id>
+               <year>2017</year>
+               <publisher-name>The Royal Society</publisher-name>
+               <volume>372</volume>
+               <issue>1721</issue>
+               <fpage>20160307</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wenham</surname>
+                     <given-names>Clare</given-names>
+                  </name>
+               </person-group>
+               <article-title>What we Have Learnt about the World Health Organization from the Ebola Outbreak</article-title>
+               <source>Philosophical Transactions of the Royal Society B: Biological Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1163/19426720-02604008</pub-id>
+               <year>2020</year>
+               <publisher-name>Brill</publisher-name>
+               <volume>26</volume>
+               <issue>4</issue>
+               <fpage>534</fpage>
+               <lpage>543</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hanrieder</surname>
+                     <given-names>Tine</given-names>
+                  </name>
+               </person-group>
+               <article-title>Priorities, Partners, Politics</article-title>
+               <source>Global Governance: A Review of Multilateralism and International Organizations</source>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Global Security Cultures</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kaldor</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781509509218</isbn>
+               <year>2018</year>
+               <publisher-name>Wiley</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>More Military Spending won't Keep Britain Safe—but Boosting Overseas Aid Could</article-title>
+               <year>2020</year>
+               <source>The Guardian</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kaldor</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <month>Nov 26</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/commentisfree/2020/nov/26/military-spending-britain-safe-overseas-aid-defence"
+                         xlink:type="simple">www.theguardian.com/commentisfree/2020/nov/26/military-spending-britain-safe-overseas-aid-defence</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Morrissey</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <fpage>225</fpage>
+               <lpage>229</lpage>
+               <article-title>Envisioning Human Security—Commentary to Gill</article-title>
+               <volume>196</volume>
+               <source>Fennia - International Journal of Geography</source>
+               <pub-id pub-id-type="doi">10.11143/fennia.76029</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Morrissey</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <fpage>1</fpage>
+               <lpage>20</lpage>
+               <chapter-title>Intervening for Human Security</chapter-title>
+               <source>Haven: The Mediterranean Crisis and Human Security</source>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <isbn>9781788115483</isbn>
+               <pub-id pub-id-type="doi">10.4337/9781788115483.00008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>In a Plague Year</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <month>March 3</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.jacobinmag.com/2020/03/mike-davis-coronavirus-outbreak-capitalism-left-international-solidarity"
+                         xlink:type="simple">www.jacobinmag.com/2020/03/mike-davis-coronavirus-outbreak-capitalism-left-international-solidarity</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Reclaiming Universal Economic and Social Rights in a Convulsed Legal and Economic Order</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Estrada-Tanck, D.</surname>
+                  </name>
+               </person-group>
+                <institution>McGill University Centre for Human Rights &amp; Legal Pluralism Blog</institution>
+               <month>Mar 31</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.mcgill.ca/humanrights/article/universal-human-rights/reclaiming-universal-economic-and-social-rights-convulsed-legal-and-economic-order"
+                         xlink:type="simple">www.mcgill.ca/humanrights/article/universal-human-rights/reclaiming-universal-economic-and-social-rights-convulsed-legal-and-economic-order</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Can We Flatten the Curve on climate?</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Makower</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <source>GreenBiz</source>
+               <month>Apr 7</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.greenbiz.com/article/can-we-flatten-curve-climate"
+                         xlink:type="simple">www.greenbiz.com/article/can-we-flatten-curve-climate</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>Kelley</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <fpage>504</fpage>
+               <lpage>519</lpage>
+               <article-title>The World Health Organization (WHO)</article-title>
+               <isbn>9781781953167</isbn>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Managing Global Health Security: The World Health Organization and Disease Outbreak Control</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kamradt-Scott, A.</surname>
+                  </name>
+               </person-group>
+               <isbn>9781137520166</isbn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.com/books?id=qsqGDAAAQBAJ"
+                         xlink:type="simple">https://books.google.com/books?id=qsqGDAAAQBAJ</ext-link>
+               <year>2015</year>
+               <publisher-name>Palgrave Macmillan UK</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1163/19426720-02604005</pub-id>
+               <year>2020</year>
+               <publisher-name>Brill</publisher-name>
+               <volume>26</volume>
+               <issue>4</issue>
+               <fpage>523</fpage>
+               <lpage>533</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>Kelley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Piper</surname>
+                     <given-names>Julianne</given-names>
+                  </name>
+               </person-group>
+               <article-title>The WHO and the COVID-19 Pandemic</article-title>
+               <source>Global Governance: A Review of Multilateralism and International Organizations</source>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>New Zealand to Consider Climate in All Policy Decisions</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haines</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <source>Positive News</source>
+               <month>Feb 28</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.positive.news/environment/new-zealand-to-consider-climate-in-all-policy-decisions"
+                         xlink:type="simple">www.positive.news/environment/new-zealand-to-consider-climate-in-all-policy-decisions</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Our Politics isn't Designed to Protect the Public from Covid-19</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Monbiot</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <source>The Guardian</source>
+               <month>Mar 18</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.theguardian.com/commentisfree/2020/mar/18/politics-public-covid-19-tobacco-johnson"
+                         xlink:type="simple">www.theguardian.com/commentisfree/2020/mar/18/politics-public-covid-19-tobacco-johnson</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report\_final.pdf"
+                         xlink:type="simple">https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report\_final.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seger</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Avin</surname>
+                     <given-names>Shahar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearson</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Briers</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Heigeartaigh</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bacon H.</surname>
+                  </name>
+               </person-group>
+               <article-title>Tackling Threats to Informed Decision-Making in Democratic Societies: Promoting Epistemic Security in a Technologically-Advanced World</article-title>
+               <publisher-name>The Alan Turing Institute</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Lessons from Wuhan</article-title>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <source>The Nation</source>
+               <month>Mar 25</month>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.thenation.com/article/society/lessons-wuhan-coronavirus-recovery"
+                         xlink:type="simple">www.thenation.com/article/society/lessons-wuhan-coronavirus-recovery</ext-link>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
