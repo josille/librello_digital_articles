@@ -1,0 +1,1676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2021.16020149</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Police, Policing, and the Community: Community Policing in Theory and Practice in Gulu, Uganda</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Divon</surname>
+                  <given-names>Shai</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Department of International Environment and Development Studies (Noragric), Norwegian University of Life Sciences (NMBU), Ås, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>23</day>
+            <month>06</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>16</volume>
+         <issue>2</issue>
+         <fpage>149</fpage>
+         <lpage>164</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>In 2017 the Uganda Police Force (UPF) issued a Strategy for Community Policing (COP). The aim of the strategy is to provide a framework for the operationalisation of COP in the country. COP in Uganda is viewed both as a philosophy and an organisational strategy aiming at promoting new partnerships between the police and the community. This research examines how the UPF applies the COP strategy in Gulu Uganda to create new partnerships between the police and the community as part of the preparation for transforming Gulu into a city in Uganda. Anchored in qualitative research conducted in 2018–2019 in Gulu municipality, we examined COP in theory and practice. We fleshed out the different COP interventions installed by the police, observed how these applications of COP are perceived by the community and local leadership, and evaluated the extent to which these applications and perceptions contribute to creating new partnerships between the police and the public, as well as how these constitute an operationalisation of the UPF strategy for COP. There are several interventions labelled as COP in Gulu, including joint patrols, Mayumba Kumi, sensitisation activities, and partnerships with NGOs. Most of these applications are ‘old wine in new bottles’ and do not qualify as attempts to create new partnerships between the police and the public. In linkage to the mode of governance exercised by the Government of Uganda, the data collected indicates that the public at large still views the police as a corrupt, unpredictable, and a violent force that serves the interests of elites rather than a public service. As long as the police is viewed in such a way, it is difficult to create meaningful partnerships between the police and the public, and subsequently it becomes difficult to successfully apply the UPF COP strategy.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Community Policing</kwd>
+            <kwd>Uganda Police Force</kwd>
+            <kwd>Post Conflict</kwd>
+            <kwd>Police Reform</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>In January 2017 the Ugandan Police Force (UPF) issued a new Strategy for Community Policing [<xref ref-type="bibr" rid="R1">1</xref>]. The concept of Community Policing (COP) was formally recognised by the UPF in 1989, shortly after the Museveni’s National Resistance Movement (NRM) assumed power in 1986, and in 1993 COP was formally introduced as a national program in Uganda ([<xref ref-type="bibr" rid="R1">1</xref>], p. 2). Since then COP has been partially implemented in selective locations in Uganda [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>]. The new Strategy for Community Policing issued in 2017 is a comprehensive attempt to move the UPF towards embracing both the philosophy and practice of COP in the entire country ([<xref ref-type="bibr" rid="R1">1</xref>], p. 6).</p>
+         <p>The UPF defines COP based on Trojanowicz and Bucqueroux ([<xref ref-type="bibr" rid="R4">4</xref>], p. 2) as: <italic>…a philosophy and an organisational strategy that promotes a new partnership between the people and their police. It is premised on the principle that both the police and the community work together to identify, prioritise and solve contemporary problems such as crime, drugs, fear of crime, social disorder and overall neighbourhood decay, with the goal of improving the overall quality of life ([<xref ref-type="bibr" rid="R1">1</xref>], p. 3).</italic>
+         </p>
+         <p>The strategy document is based on the assertion that weak state institutions in transitional democracies in Africa lead to enhanced and organised criminal activities that challenge the capacity of the police to address issues without engaging and partnering with local communities ([<xref ref-type="bibr" rid="R1">1</xref>], p. 3). COP is thus flagged as the most prominent approach to work with communities to partner with- and assist -the police in addressing the root causes of crime and insecurity.</p>
+         <p>The stated objectives of the UPF Strategy for COP are ([<xref ref-type="bibr" rid="R1">1</xref>], p. 8):</p>
+         <list list-type="order">
+            <list-item>
+               <p>To enable the police to enhance and maintain its collaboration with the community, the public, community-based organisations, and other government departments.</p>
+            </list-item>
+            <list-item>
+               <p>Work with the community to support mediation programs to solve minor conflicts.</p>
+            </list-item>
+            <list-item>
+               <p>Encourage, enhance, and maintain the collaboration between the police and local residents for achieving public safety.</p>
+            </list-item>
+         </list>
+         <p>The UPF model for the operationalisation of COP aims at ([<xref ref-type="bibr" rid="R1">1</xref>], pp. 5-6) building partnership with the community; Empowering police officers and citizens in effective neighbourhood-based problem solving; Embracing the ideal of community service; Maintaining integrity through mutual accountability that recognises the responsibility of both the police and the citizens to neighbourhood quality of life; And developing management practices that recognise this philosophy of providing the flexibility needed to ensure its successful application.
+As the UPF strategy document suggests, policing is viewed as a practice undertaken by the state through the UPF, and COP is flagged as a police initiative that aims at incorporating the active involvement of citizens in policing efforts ([<xref ref-type="bibr" rid="R1">1</xref>], pp. 4-5). This paper is based on research conducted in Uganda between 2018-2019 aiming at examining how the UPF is operationalising the 2017 Strategy for Community Policing. The objective of this paper is to outline the application of COP in Gulu municipality in Uganda, focusing on success and challenges as highlighted both by the police and various communities. As such, this research is primarily focused on how the UPF as a state actor attempts to improve the provision of security, safety, and maintenance of order through the application of the COP strategy in Gulu.</p>
+         <p>Gulu district was chosen for the purpose of this research based on several reasons. The area represents a post-war context as it emerged from the civil war between the Lord’s Resistance Army (LRA) and the Ugandan People Defence Force (UPDF) between 1986-2006. As such it is a location where the relationships between the Ugandan state institutions and the Acholi people inhabiting the district are characterised by mistrust. As part of the post-conflict reconstruction efforts, the Government of Uganda (GoU) selected Gulu municipality as one of the potential candidates to receive a city status, eventually granted in June 2020, shortly after this research was completed. This research was conducted as the GoU and Gulu municipality were preparing the physical and institutional infrastructure for the transition of Gulu into a city. As such, this research examined the extent of the efforts by the UPF and the community in Gulu to apply the strategy for COP in relation to the context described above.</p>
+         <p>This article is structured as follows: we begin by situating this study in the broader literature on policing and COP in Africa and the subsequent discussions on security provision in Uganda. We then move to the context, beginning with a presentation of a brief historical background of policing in Uganda to highlight the country’s path towards COP as a national strategy. We follow by turning the discussion towards the application of the Uganda National Strategy for Community Policing in Gulu, starting with a presentation of the architecture and structure of this research, followed by a brief background highlighting the conflict/post-conflict context in Gulu, and the contemporary roots of crime and insecurity as viewed by the police and the community in the district. We then turn to the presentation and analysis of the empirical data collected for the purpose of this research, examining the content in relation to the aims of the UPF model for the operationalisation of community policing as highlighted above. And lastly, we finalise this paper with concluding remarks.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Police, Community, and the State</title>
+         <p>In recent years, COP has been flagged as a central model for police transformation, especially in ‘developing’ countries [<xref ref-type="bibr" rid="R5">5</xref>]. In Uganda, the new UPF Strategy for Community Policing underlines COP as a transformational approach aiming at remodelling the state policing style from an ‘authoritarian top-down approach to a consensual community policing approach’ ([<xref ref-type="bibr" rid="R1">1</xref>], p. 1). In several Western societies where the concept of COP has been conceived and operationalised, the history of formal state policing suggests a slow transformation of policing styles from a monopolised state approach, through empowering the police as a professional self-governing institution, towards community-oriented problem-solving policing [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>], leading to various examples of success and failure.</p>
+         <p>As the literature on policing indicates, COP was propagated and exported from Western countries mainly through aid mechanisms, and particularly to countries in post-conflict contexts [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R7">7</xref>]. In Africa, donors support and promote COP with the aim of improving security, rebuilding trust between the state institutions and the public, improving human rights, reducing criminal activity, and eliminating police abuse of their powers [<xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]. Studies of COP adoption and application in African contexts have consistently shown that the concept does not yield the intended results [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>]. Several scholars have linked the relative lack of success of COP applications in many African states to historical, conceptual, institutional, political, structural, economic, cultural, and implementation challenges [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. In recent years, several studies on human and state security have attempted to nuance the complex and fluid reality of security provision, highlighting the existence of multiple security providers consisting of formal/informal and state/non-state policing mechanisms across various contexts [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>].</p>
+         <p>Within a reality of multiple security providers, policing in Africa (and elsewhere) is better understood as a ‘set of practices that can be exercised, and governed, by various state, private and communal actors’ ([<xref ref-type="bibr" rid="R27">27</xref>], p. 2). Formal state policing is thus enacted as a part of complex assemblages [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>] where different actors and entities operate in overlapping spaces [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>]. As such, attempts to operationalise COP by the state are constituted alongside various other security providers that deliver a variety of policing and security related services. These entities claim various degrees of legitimacy based on various available repertoires ([<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R30">30</xref>] [<xref ref-type="bibr" rid="R32">32</xref>], pp. 693-694), leading to a reality of hybrid security structures ([<xref ref-type="bibr" rid="R24">24</xref>], p. 8). As indicated by Albrecht and Kyed ([<xref ref-type="bibr" rid="R27">27</xref>], p. 5) ‘state police and civilian policing groups draw on each other, and mix a variety of practices, to enact order’. These relationships often emerge in opposition and competition to one another, but also in cooperation and to bridge gaps (see examples in [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>]). Many significant challenges interact with effective and efficient state policing around the world. In Africa, scholars have highlighted multiple limitations of state policing, including the roles and policies of authoritarian regimes, the use of policing to advance the interests of elites, subdue opposition and extinguish dissidence, police corruption, violence and impunity, police complicity with criminals, abuse of human rights, and lack of resources dedicated to state policing to name a few [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>] . These limitations have been met with various attempts to improve security provision instigated by civil society, communities, groups, individuals and the state at different times and contexts, including vigilantism, informal policing, popular justice at different societal and organisational levels, private security, gated communities, and a plethora of security and security related services provided by local, national, and international organisations [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>].</p>
+         <p>While many non-state security providers do emerge to fill gaps where the state is weak, not present, or chooses to disregard insecurity, the state also establishes, sponsors, and/or co-opts alternative security providers at different times and for different reasons [<xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. Baker ([<xref ref-type="bibr" rid="R30">30</xref>], p. 23) notes that unlike many other contexts in Africa, in Museveni’s Uganda there was never a ‘law enforcement vacuum’ that could be filled by non-state policing agencies. Even though ‘fragmented and overlapping patterns of policing’ exist in Uganda, the state maintains degrees of influence and control over alternative security provision, from the village level and upwards [<xref ref-type="bibr" rid="R30">30</xref>]. There is also evidence that the state in Uganda makes conscious decisions about intervening or allowing illegal attempts to provide security such as mob justice and vigilante actions taken by citizens or local political leadership to address criminality [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>].</p>
+         <p>Some authors note that the Ugandan state maintains control over various forms of alternative security provision and acts ambiguously towards those, sometimes supporting them, at other times penalising them as it serves state interests or objectives [<xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R34">34</xref>]. Such strategies allow the state to exercise various forms of security governance and control over people directly and/or by proxy [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>].</p>
+         <p>Tapscott ([<xref ref-type="bibr" rid="R34">34</xref>], p. 265) suggests that the GoU in general, and in Gulu in particular, uses a mode of governance she dubs as institutionalized arbitrariness. Through this term, Tapscott describes how the state employs a strategy of ambiguity and unpredictability in the security sector ‘to prevent citizens from organizing independently from the state’. This mode of governance, as Tapscott [<xref ref-type="bibr" rid="R34">34</xref>] illustrates, is particularly effective in Gulu where most of the adult population have had first-hand experience with unpredictable violent measures exercised both by the LRA and by the state. By way of institutionalized arbitrariness, the state maintains both direct and decentralised control, balancing between priorities and resources, allowing actors to exercise various forms of security provision approved by the state, while interfering harshly and violently when the state has vested or political interests to do so. Consequently, the state is produced in the citizen’s imagination as hegemonic ([<xref ref-type="bibr" rid="R24">24</xref>], p. 268). This mode of governance also resonates with Baker ([<xref ref-type="bibr" rid="R30">30</xref>], p. 30) observations regarding state policing in Uganda, highlighting that Museveni’s regime has always ‘sought security partners who will work within the law and under its supervision’. Baker emphasises that security provision in Uganda, state/non-state, formal/informal, is almost always under the ‘state influence and approval’, if not initiated by the state ([<xref ref-type="bibr" rid="R30">30</xref>], p. 37). Keeping security actors under constant supervision allows state-controlled organisations such as the police to pull-back or intervene at will, leaving both alternative security providers and ordinary people under constant uncertainty concerning how, according to which rules, in which way, and to what extent the official state may intercede ([<xref ref-type="bibr" rid="R34">34</xref>], p. 282). In such a way the state produces the image of a strong, centralised, and if necessary, violent sovereign in the mind of the population, without the need to always invest the resources for daily security provision ([<xref ref-type="bibr" rid="R34">34</xref>], p. 282).</p>
+         <p>With this background in mind, this article focuses on COP as a formal policing initiative by the state. Considering the institutionalised forms of governance described above through which the state in Uganda projects power, we observe how COP is operationalised in Gulu under the main objective of the 2017 Strategy for Community Policing.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- A Brief History of Policing in Uganda</title>
+         <p>Like in many former British colonies, the history of policing in Uganda begins with the introduction of institutions designed to safeguard the interests of the colonial power [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>].</p>
+         <p>Uganda became a British protectorate in 1894, and shortly after, the Uganda Armed Constabulary was introduced (1899) as a paramilitary force tasked to forcibly supress conflicts between local tribes for the purpose of securing colonial interests ([<xref ref-type="bibr" rid="R50">50</xref>], p. 96). When the affairs of the Ugandan protectorate were transferred from the foreign office to the colonial office, the post of Inspector General of the Uganda Protectorate Police was established. Headed by a British officer and led by European inspectors, the force went through a re-organisation process aimed at professionalising the police and establishing clear systems of administration, records, files and statistics [<xref ref-type="bibr" rid="R51">51</xref>].</p>
+         <p>While the colonial police continued to focus mainly on a variety of tasks that secured the interests of the colonial society and economy, the gradual transition towards the system of indirect rule during 1920s–1930s, transferred a variety of powers to traditional rulers in the various kingdoms in the country, including establishing local police forces to maintain law and order ([<xref ref-type="bibr" rid="R1">1</xref>], p. 1). This allowed the colonial police to transform into a more professional law enforcement organisation and the introduction of new policing methods such as fingerprinting and forensics ([<xref ref-type="bibr" rid="R1">1</xref>], p. 1). Nevertheless, the police continued to serve as a tool of power on behalf of the colonial government and not as a service to the public at large. As the colonial powers began to experience enhanced pushback against colonial rule during the 1940s and onwards, the colonial police in Uganda had to increasingly deal with rebellions, strike suppression, tax evasion, riots, and general agitation of the public against colonial occupation [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R49">49</xref>].</p>
+         <p>In 1962 when Uganda gained independence, the first Ugandan Inspector General of Police (IGP) was appointed. The newly formed state was established upon the bureaucratic and administrative foundations inherited from the colonial regime. The initial Ugandan constitution from 1962 recognised the special status granted to traditional rulers under the system of indirect rule in the kingdoms of Buganda, Bunyoro, Toro and Ankole. By extension, these kingdoms maintained the local police forces established during the colonial period, though these were technically accountable to the IGP ([<xref ref-type="bibr" rid="R50">50</xref>], p. 98). When President Milton Obote abolished the special status granted to local rulers in 1967, the local police forces merged into the Uganda Police Force ([<xref ref-type="bibr" rid="R50">50</xref>], p. 98), and the UPF was increasingly used by the government to subdue political dissidence. In parallel some police powers were transferred to newly formed organisations such as the General Service Department (GSD) established to identify political disloyalty and dissidence against President Obote [<xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>]. The trend of relegating police powers and using the police alongside newly established agencies to brutally subdue political dissidence and disloyalty continued during the Amin regime [<xref ref-type="bibr" rid="R52">52</xref>]. During his rule, policing in Uganda became synonymous with government oppression, and the various ‘policing’ agencies used by Amin, namely the Military Police, the Public Safety Unit and the State Research Bureau were viewed as brutal death squads under the direct control of the President ([<xref ref-type="bibr" rid="R50">50</xref>], p. 99).</p>
+         <p>Following the Amin regime in the early 1980s and until Yoweri Museveni assumed power in 1986, the country went through a period of political turmoil. Following Amin, the institutions of the state were largely dysfunctional, corrupt, and exercised their authority with power and violence. An attempt to reform the police occurred in the early 1980s through recruitment and training of educated police officers as part of the conditionalities attached to the structural adjustment program of the International Monetary Fund [<xref ref-type="bibr" rid="R51">51</xref>]. During Milton Obote’s second regime, and before Yoweri Museveni assumed power, an internal security agency dubbed the National Security Agency (NASA) was established and given criminal investigation powers. Similarly to other such agencies established previously in Uganda, the role of the NASA was to locate and subdue political dissidence. NASA agents circumvented the police and prison system ([<xref ref-type="bibr" rid="R50">50</xref>], p. 99) and its agents conducted themselves above the law, arresting and torturing people suspected of disloyalty and conspiracy against Obote [<xref ref-type="bibr" rid="R52">52</xref>]. When he finally assumed power in 1986, Museveni began to reform government institutions to weed-out Obote loyalists. He then launched a plan to increase the size of the police to 30000, and upgrade training and equipment ([<xref ref-type="bibr" rid="R50">50</xref>], p. 100). In parallel, Museveni created a local government structure known today as the Local Councils, ranging from the village level, through the parish, sub-county, county, and district (LC1 to LC5 respectively). The local councils were invested with law-and-order responsibilities which included patrols and arrests of petty criminals on the community level, and as such provided important support to the UPF and other policing structures.</p>
+         <p>Since 1986 Uganda has been politically stable under the rule of Yoweri Museveni [<xref ref-type="bibr" rid="R53">53</xref>]. Between 1986 and 1989 the police force was re-built and restructured ([<xref ref-type="bibr" rid="R30">30</xref>], p. 27). In December 1989 the President announced that the Police is ready to assume responsibility for law and order in the country, except in some districts, especially in Northern Uganda where the civil war between the government and the LRA was ongoing ([<xref ref-type="bibr" rid="R50">50</xref>], p. 100). It is since 1989 that the police under Museveni began to shift, at least in rhetoric, towards public service, and the concept of community policing was introduced for the first time ([<xref ref-type="bibr" rid="R3">3</xref>], p. 642).</p>
+         <sec id="s3.1">
+            <title>3.1.- Community Policing in Uganda</title>
+            <p>The rationale for COP in Uganda stems from the brief historical overview outlined above. The UPF stresses that the history of policing in Uganda before 1989 has created a hierarchical top-down oppressive force, used by the government to control society ([<xref ref-type="bibr" rid="R1">1</xref>], p. 1), which led, as in many other cases in Africa [<xref ref-type="bibr" rid="R18">18</xref>] to a deep mistrust between the population at large and the police force. The need to adopt community policing is therefore a result of both external and internal pressures. The external pressures originate from the international community, and are essentially in relation to democratisation, liberalisation, security sector reform and post-conflict reconstruction processes, demands and conditionalities [<xref ref-type="bibr" rid="R10">10</xref>], while the internal pressures are instigated by the people of Uganda, as well as various advocacy groups, including civil and political, in relation to human security and rights ([<xref ref-type="bibr" rid="R1">1</xref>], p. 1). At the bottom of adopting COP approaches lies the need to transform the police (or at the very least, the public discourse and image of the police) from a top-down institution used by the state to enforce public order on behalf of elites, ([<xref ref-type="bibr" rid="R10">10</xref>], p. 74) to an institution that applies COP concepts to prevent crime and disorder by creating a partnership through cooperation with communities to identify contextual priorities and act as a public service [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R54">54</xref>].</p>
+            <p>In his assessment of COP in transitional societies, Brogden [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R10">10</xref>] examined the state of COP in Uganda in 2005 and labelled it as a failure. Linking his analysis to broader study on the application of COP around the world [<xref ref-type="bibr" rid="R5">5</xref>] and a more specific evaluation study of policing in Uganda conducted by DFID [<xref ref-type="bibr" rid="R2">2</xref>], Brogden [<xref ref-type="bibr" rid="R3">3</xref>] argues that first and foremost COP was introduced in Uganda as a Western-style policing scheme, detached from contextual, social and political realities [<xref ref-type="bibr" rid="R55">55</xref>]. The basis of COP in Uganda is linked to the introduction of the ideas of ‘sensitising the public’ through mobilisation by a British police training team who resided in the country between 1986 and 1990 and assisted in training and recruitment of police officers ([<xref ref-type="bibr" rid="R3">3</xref>], p. 642). This initiative was followed by a larger British assistance project which began in 1993 as a national program and included assistance to the UPF to train officers in COP [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R56">56</xref>]. Te project led to the training and introduction of Community Liaison Officers (CLOs) nationally [<xref ref-type="bibr" rid="R57">57</xref>]. But due to lack of resources and subsequent structural problems, the attempt to implement COP was regarded as a failure [<xref ref-type="bibr" rid="R2">2</xref>] for a number of reasons including: developing COP in tandem with crime intelligence gathering efforts which led to public distrust; applying COP through instruction of communities rather than cooperation with them; failure to distinguish between rural and urban contexts and needs of communities; and not dedicating adequate resources for the police and for officers to facilitate and motivate their work and competence [<xref ref-type="bibr" rid="R58">58</xref>].</p>
+            <p>Following the report, the ministry of internal affairs in Uganda relaunched the program with an emphasis on crime prevention panels and neighbourhood watch groups [<xref ref-type="bibr" rid="R59">59</xref>]. The initiative included concrete action such as community efforts to monitor and protect property assisted by the police, training of crime preventers, dissemination of information and sensitisation of the public with the assistance of the media, and continued relationship with the community through a CLO appointed to each district [<xref ref-type="bibr" rid="R56">56</xref>]. This initiative was evaluated in 2003 by Asan Kasingye, the Commissioner of Police for Community Affairs [<xref ref-type="bibr" rid="R60">60</xref>]. His conclusions were similar to the conclusions outlined in 1998 by the DFID evaluation project [<xref ref-type="bibr" rid="R2">2</xref>], namely that COP has had very little concrete impact on the ground ([<xref ref-type="bibr" rid="R50">50</xref>], pp. 108–109) ([<xref ref-type="bibr" rid="R56">56</xref>], p. 23) [<xref ref-type="bibr" rid="R60">60</xref>]. Kasingye suggested that to have an effective COP approach in Uganda, the UPF should better integrate the communities in the overly police-centred approach, including selecting and training community members, improve the integration of COP modules in police training; and selecting better qualified CLO’s for the programme [<xref ref-type="bibr" rid="R60">60</xref>]. The Commissioner also highlighted that one of the main obstacles to the application of effective COP in Uganda remains the deep mistrust of the public in the police, viewed as violent, corrupt, and serving state elites rather than the public.</p>
+            <p>In 2008 the minister of internal affairs relaunched COP once again, framing it as the core principle of policing in Uganda. COP programs became the responsibility of the Directorate of Political Commissariat which has the primary function <italic>‘to develop a patriotic, citizen centric police force through engagement in education and community policing’</italic> [<xref ref-type="bibr" rid="R61">61</xref>]. As the core principle of UPF policing, COP was embedded into the command structure of the UPF from the regional to the post level [<xref ref-type="bibr" rid="R59">59</xref>, <xref ref-type="bibr" rid="R62">62</xref>]. As a result, CLO’s were assigned to all districts and divisions, and nationwide neighbourhood watch schemes were implemented [<xref ref-type="bibr" rid="R62">62</xref>]. The police anticipated that the application of COP would enable them to rely on community resources to assist fighting crime and improve police intelligence gathering ([<xref ref-type="bibr" rid="R62">62</xref>], p. 12).</p>
+            <p>On the occasion of its one hundred-year celebrations held in 2014 [<xref ref-type="bibr" rid="R63">63</xref>], the UPF flagged once again COP as the core model of policing in Uganda. The six months celebrative activities were held under the theme: ‘From colonial policing to community policing: a century of challenges, achievements, and transformations’. On October 3<inline-formula>
+                  <mml:math id="S5.SS1.p5.m1"
+                            alttext="{}^{rd}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>r</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>d</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> 2014, marking the end of the celebrations, President Museveni outlined his vision for the future of the UPF under the flag of community policing [<xref ref-type="bibr" rid="R64">64</xref>]. Several senior police personnel interviewed during this research highlighted COP today considering the centenary celebrations and the President’s vision. This renewed commitment for COP as the central concept for the UPF prompted the articulation of a national strategy document for community policing published in January 2017 [<xref ref-type="bibr" rid="R1">1</xref>]. This comprehensive document provides a solid background and reasoning for the implementation of COP in Uganda, and spells out the strategic goals and implementation strategy as summarised in the introduction above. It is against this background that this research sought to investigate how- and the extent to which -COP is being implemented in Gulu.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Architecture and Structure of this Study</title>
+         <p>This study was conducted in 2018-2019 focusing on various urban and peri-urban contexts in Gulu municipality. It followed a qualitative design and included document analysis in the Gulu archives, semi-structured interviews, focus group discussions and participant observation through joining a police patrol. A total of forty-five semi structured interviews were conducted with key informants, including police officers on all levels (regional/district/station/post), local government officials in Gulu district (LC 1-3), community, cultural and religious leaders, members of the community, crime preventers, NGOs, and current/former members of criminal groups. In addition, we conducted four FGDs, two with members of the community in two randomly chosen divisions of Gulu municipality [<xref ref-type="bibr" rid="R65">65</xref>], and two FGD with current/former members of a criminal group [<xref ref-type="bibr" rid="R66">66</xref>]. Each FGD comprised of 5-7 participants.
+Since Gulu town was undergoing quick changes in preparation for receiving a city status, the working hypothesis was that the UPF was engaged in an effort to establish the appropriate infrastructure for this upcoming change, and therefore the Strategy for Community Policing would be applied to certain extents.</p>
+         <p>This research was subjected to several tiers of ethical approval, including by the EU commission as a pre-condition for the implementation of the project; an approval by a Research Ethics Committee accredited through the Uganda National Council for Science and Technology (UNCST) and by the Directorate of Research, Planning and Development of the Ugandan Police Force (UPF). All participants in this research gave an oral or written consent for their participation, and consented to the communication of the data gathered through academic articles. All participants were informed that their identity will be protected and will not be disclosed. Consequently, we do not reveal the names of participants, nor information that can lead to their identification.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Gulu, Crime and Insecurity</title>
+         <p>Before we outline how- and the extent to which -COP is applied in Gulu, we begin with a brief historical overview and the current sources of crime and insecurity as expressed by respondents.</p>
+         <p>As was often indicated during interviews, the current character of Gulu seems to be largely defined by the civil war that took place in Northern Uganda between 1986-2006. This conflict between the Lord’s Resistance Army (LRA) and the Ugandan People’s Defence Force (UPDF) led to a social-cultural crisis exacerbated by a large-scale displacement of the Acholi people who inhabit the region. Branch [<xref ref-type="bibr" rid="R67">67</xref>] describes how the conflict, displacement, aid, and reconstruction efforts, eventually transformed Gulu from a small provincial town to a main hub during and after the war [<xref ref-type="bibr" rid="R67">67</xref>]. While the conflict in Northern Uganda ended in 2006, the ripple effects of the war are still upsetting the Acholi people today. During our interviews, most respondents highlighted that post-conflict Gulu suffers from two major sources of insecurity, both directly linked, as they described, to the conflict. Firstly, many Acholi believe that they are frowned upon by the other ethnic groups inhabiting Uganda, not only because of historic, racial, and cultural tensions, but also because the leader of the LRA, Joseph Kony, is an Acholi. Despite the fact that the Acholi of Northern Uganda were the primary casualties of the LRA rebellion, people believe that the ethnic group as a collective is a victim of a lingering stigma based on Kony’s ethnic identity as Acholi. Secondly, many of the Acholi who fled during the conflict [<xref ref-type="bibr" rid="R67">67</xref>] left behind their lands, homes, and property. This is also the case for those who chose to remain behind, as they were forcibly displaced by the GoU, and gathered in camps during the conflict years [<xref ref-type="bibr" rid="R68">68</xref>]. The latter was carried out by the Ugandan security forces, and in an effort to ‘protect’ civilians from the conflict and flesh out LRA sympathisers to help cut-off Kony’s access to what was believed to be his support base and logistical lifeline ([<xref ref-type="bibr" rid="R69">69</xref>], p. 77). As a consequence, many Acholi lost access to their main sources of livelihood and security, their land. When the conflict subsided in 2006, the returning population encountered a series of difficulties regarding the lands they left behind. Some found that their lands had been settled by others. Many could not recall the exact demarcation and size of their plots; some were offspring of landowners that perished in the war and now their rights to land were not recognised. Yet others entered conflicts with other family members and neighbours about the ownership of plots. Coupled with poor parcel demarcations and no deeds, many Acholi could not at the time the conflict ended, and many still cannot today, reclaim their lost properties. Much has been written about land tenure in Northern Uganda as a result of the conflict and subsequent struggles and insecurity linked to land issues [<xref ref-type="bibr" rid="R70">70</xref>]. Re-visiting this content is beyond the scope of this paper, but it is important to emphasise here that disagreements about land ownership and access to land is considered today both by local authorities and the people inhabiting the Gulu district, as the most important source of insecurity, conflict and crime plaguing society today.</p>
+         <p>While land tenure issues are a civil matter and disagreements are handled by civil courts and traditional mechanisms, crime related to land conflicts is a police concern. The span of criminal acts that the UPF in Gulu and the local population link in their narratives to land conflicts and insecurity around land tenure issues is staggering. The accounts told by the UPF and respondents from the Gulu district, link land tenure to livelihood insecurities and subsequently to crime. In essence, these can be divided into two main categories: crimes directly linked to land conflicts, and crimes linked to lack of access to sustainable livelihoods due to loss of land rights. While not all crimes described below occurs in relation to land conflicts, nor stem from livelihood insecurity due to loss of land, most participants in this research, police as well as community, still relate crime in Gulu to the LRA insurgency and the subsequent loss of access to land experienced by many Acholi. It is clear though, that the UPF and the population in Gulu often point to the conflict in one way or another when they explain most contemporary causes of crime related challenges in the Gulu district. This understanding cuts across the levels of the UPF command hierarchy from the regional, through the district and down to the officer level at posts, and from the community side, from local government, through the cultural and religious leadership to individual members in the various communities.</p>
+         <p>Criminal acts directly related to land disputes include theft, assault, arson, and murder. These are carried out by the disputing parties, by the families and relatives of disputing parties, or by others hired by the disputing parties to exert pressure or revenge. Those hired by disputing parties are local street children or adults, individuals or organised in gangs, who are ready to conduct criminal acts in exchange for money [<xref ref-type="bibr" rid="R42">42</xref>]. Criminal acts related to lack of access to livelihood opportunities are described as connected to the need to survive (for example theft or prostitution) and/or activities people engage in to enter an alternate state of mind to forget their troubles for a short while, or due to boredom and despair (for example alcoholism, drug use, defilement, assault). One of the major concerns of both the UPF and the community is related to the use of illegal substances by youth, including chewing khat, smoking marihuana, and smoking opium. In addition, the consumption of alcohol and illegal betting are seen as major sources of concern. These are often viewed as activities linked to lack of abilities and/or opportunities to secure a livelihood, boredom, despair and laziness of the younger generation, and the underlying causes for assault, rape, defilement, and murder.</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- Community Policing in Gulu</title>
+         <p>As we interviewed several police officials in Gulu, from senior command on the regional level to officers in posts, it became evident that that there are significant gaps in the levels of education, knowledge, and familiarity with the concept of COP. While commanders and officers on the regional, district and station levels where familiar with the concept and history of COP in Uganda to various degrees, some officers on the lower ranks, and especially on the post levels where not so familiar with the concept nor with the UPF 2017 Strategy for Community Policing.
+As a point of departure, the senior command on the regional and district levels in Gulu indicated that the Strategy for Community Policing was not yet being applied systematically in Gulu. The main reasons given were lack of time and resources to engage in systematic planning to operationalise the strategy in Gulu. Nevertheless, the concept and its objectives as specified in the strategy were familiar to the senior command, and some levels of activity and specific measures where highlighted as COP interventions as discussed below.</p>
+         <p>COP is understood by the senior command as a measure for proactive intervention for crime prevention and the reduction of reactive policing measures explained as ‘fire extinguishing’ [<xref ref-type="bibr" rid="R71">71</xref>].</p>
+         <p>In order to engage in proactive prevention, as explained to us, it is essential for the police to come closer to the community, and most importantly, find ways to reduce the fear from the police that the public holds by initiating an ‘open communication channel and give the public information’ [<xref ref-type="bibr" rid="R71">71</xref>]. The main objectives of COP presented by senior command in Gulu included getting closer to the community, sensitise people, getting people used to the presence of- and encourage interaction with -the police, and being able to build trust with the community that would enable the police to access information about crime and criminal activities.</p>
+         <p>One senior police commander who conducted COP training in the UK told us that he is: <italic>aware that Uganda policing style is different from the European. Community engagement in Uganda is about addressing crime, while in other places [in the world] it is about solving any problem</italic> [<xref ref-type="bibr" rid="R71">71</xref>].</p>
+         <p>This official also explained that in Uganda, police officers are not trusted by the public and are not safe while conducting their work. The official clarified that police officers in Uganda are under constant risk of attack by local people, and therefore police and police officers never operate alone. One of the main challenges for the implementation of COP, according to the senior police official, is that the police in Uganda is primarily a top-down institution, and the main instructions and policies come from the police headquarters in Kampala where patterns are analysed and where training manuals and instructions for each police level, state/regional/district/post, are written. He explained that in essence, COP in Uganda is mostly about working and engaging with the community to solve crime. In its basic form, COP is cooperation work with the community where ‘the public is the police and the police is the public’ [<xref ref-type="bibr" rid="R72">72</xref>].</p>
+         <p>The police flagged several interactions with the community as COP related strategies that are currently applied to different extents in Gulu. These were described as: joint patrols, Mayumba Kumi, crime preventers, partnership with NGOs, public sensitisation, bylaws enforcement, and direct access to police command. In the following sections we outline these strategies as we observed them, incorporating both the police and the community inputs/perspectives on them.</p>
+         <sec id="s6.1">
+            <title>6.1.- Joint Patrols</title>
+            <p>The police leadership in Gulu flagged joint foot patrols with the community as one of the most significant manifestation of COP operationalisation in Gulu. Joint foot patrols are initiated by the police and incorporate community leadership at the LC1 level, and more specifically the holders of the title Secretary of Defence at the LC1 level. Holders of these titles are responsible for security in their community and are in close contact with the CLO at the district level. As part of this research we participated in a joint foot patrol in Gulu town. As such, the following account is based both on participant observations, as well as unstructured interviews with all other participants in the patrol. The six-hour patrol was initiated by the police and began at 20:00 at Gulu police station. It included three uniformed police officers armed with AK47s and three LC1 secretaries of defence. The patrol was led by a ranking police officer in civilian clothing. The patrol walked in a single file, headed by the LC1 secretaries of defence, followed by the police officer in charge, the research team, and the armed uniformed police officers. The purpose of the patrol as stated in the briefing, was to show presence, visit locations where potential issues may arise, interact with members of the community, and intervene if issues may arise. The police officer in charge explained that such patrols are common in Gulu town.</p>
+            <p>The patrol seemed to attract much attention in the street, perhaps due to the presence of the research team. There were three types of interventions during this specific patrol that illustrate community/police relations, bearing in mind that the joint patrol is considered a COP application by the police. The first type of interventions were random stops made by the officer in charge to interact with groups of individuals in the street. The second type of interventions were planned stops in ‘drinking joints’ where those present on location were ask to gather and listen to an ad-hoc sensitisation session led by the officer in charge. And the third intervention was an arrest made by the officer in charge.</p>
+            <sec id="s6.1.1">
+               <title>6.1.1.- Random interactions with people in the street</title>
+               <p>The ranking police officer made a couple random stops during the patrol to interact with groups of men sitting in street corners. He presented himself and explained that this is a joint police/community patrol where LC1 secretaries of defence accompany the police. The officer explained to the men that the patrol is conducted for the safety of the people and then asked them if they saw any suspicious or criminal activity. When there was no response, the officer encouraged people to report criminal and suspicious activities to the police. In those instances, there were no replies, other than head nodding on behalf of the men in the street, and there were no further interactions as the patrol proceeded.</p>
+            </sec>
+            <sec id="s6.1.2">
+               <title>6.1.2.- Stops in ‘drinking joints’</title>
+               <p>As indicated by the name, ‘drinking joints’ are locations where people can sit, buy alcoholic beverages and interact. Drinking joints often look like improvised localities, mainly outdoors, consisting of a counter or shed and a few tables and chairs. The three locations we visited during the patrol were located in the peri-urban areas of Gulu town, away from the town centre. The police and some members of the community consider ‘drinking joints’ as localities where trouble potentially arises. These places are popular and known for serving alcohol, betting, and smoking illegal substances. The LC1 defence secretaries who are familiar with the location of ‘drinking joints’ led the patrol to the specific sites we visited. The police officer in charge explained that most police personnel in Gulu are not locals and do not know the area well enough. It is therefore crucial to have joint patrols with community leadership such as the LC1 defence secretaries, as they can lead the police to potently problematic localities, help locate specific people, and inform the police of certain problematic activities taking place.</p>
+               <p>The stops the patrol made in ‘drinking joints’ can be characterised as ad-hoc sensitisation sessions. Upon arrival to the ‘drinking joint’, the armed police officers scattered around the perimeter, while the LC1 defence secretaries gathered around the people in the vicinity of the ‘drinking joint’. The armed police officers helped gather people who did not join the rest when the LC1 asked them to do so. The commanding officer of the patrol then proceeded with a speech to all those gathered. He began by presenting himself and specified that this was a joint police/community patrol with community leaders present. He then proceeded to talk about crimes that occur as a result of consumption of alcohol, drugs and betting away money in card games. He urged all those present not to engage in such activities and asked people to be vigilant and report crime when they are aware of it. He then distributed his phone number and told people that they could call him directly if they had information about crime and criminal activities, or if they needed help. While some people present seemed disinterested and bothered by this intervention, others took the opportunity to raise some issues with the police and LC1 present, and especially in relation to the local bylaws introduced by the LCs. As explained to us, each level of Local Council can introduce bylaws with the purpose of reducing risk for crime and disturbances. As part of the cooperation between the police and community leaders, the police help enforce local bylaws. Very often these bylaws revolve around noise and music playing after certain hours, serving alcohol after certain hours, and curfews. Such bylaws existed in the localities we visited, and people present, including owners of ‘drinking joints’ complained to the police against those bylaws, emphasising that these are not the laws of Uganda and therefore unacceptable. The commanding officer offered his sympathy and understanding to the complaints, but explained that these bylaws are in place for the benefit of the community, and they are in place in order to ensure the collective peace, reduce the potential for crime, and to ensure that people do not stay out late, stop drinking early, go home early, and be able to perform at work the next day. He also emphasised that ultimately, it is up to every person to learn how to manage him/herself.</p>
+            </sec>
+            <sec id="s6.1.3">
+               <title>6.1.3.- Arrest of youth suspected of crime during the patrol</title>
+               <p>During the patrol a spontaneous arrest of youth suspected of drug use was made by the commanding officer. As we observed this arrest, we noted a number of instances relevant to the community/police relations. The arrest was made when a group of three youth, two boys and one girl, passed the patrol. When they passed the commanding officer, he grabbed one of the boys by the arm, and ordered the other police officers to stop the two others. A few seconds later two more boys and three girls were also apprehended while they walked by the patrol. The commanding officer told the boy he grabbed that he could smell opium on his breath and proceeded to search the boy. The search uncovered a pack of opium. The officers conducted a search on the second boy and girl (who turned out to be underage) and found no drugs on them but could smell it on their breath. The officer then proceeded to question the two other groups of youth they detained. The three girls were released almost immediately, while the two boys were searched and detained further, though no substances were found on them. It is worth highlighting a number of elements we observed during this process. Firstly, the LC1 defences secretaries were actively involved in the detention (physically holding) of the youth, as well as with the searches done. Secondly, police officers and LC1 alike used intimidation, soft violence (grabbing arms and hands, shouting in their faces, waving fingers) and derogatory language towards the youth during the entire processes. The youth were called names, including ‘dangerous criminals’, ‘animals’, ‘gangsters’, and were told that they were all going to prison. In addition, one of the armed police officers pointed at several pieces of jewellery (chains and rings) worn by the person who owned the opium package and ordered him to remove the jewellery. The police officer then placed the jewellery in his own pocket. We were told that this was standard procedure, though there was no indication of registration, and as the events unfolded, the jewellery was not returned.</p>
+               <p>As we waited for the motorised patrol to join us for the purpose of taking the detained youth back to the police station, the commanding officer decided to release the two additional boys apprehended earlier. The LC1 then ordered the boys to lay down on the floor to be caned as punishment, but the commanding officer intervened and said, ‘there will be no caning here today, let them go’, and the boys ran away as fast as they could. The initial group of two boys and the underaged girl were taken by the motorised patrol escorted by the commanding officer to the Gulu police station. When the officer came back, approximately an hour later, we were told that the two boys escaped the vehicle while the girl remained in custody and would spend the night at the station jail.</p>
+            </sec>
+         </sec>
+         <sec id="s6.2">
+            <title>6.2.- Mayumba Kumi (also Referred to as Nyumba Kumi)</title>
+            <p>During our interviews with police officials, we were informed that a pilot Mayumba Kumi project was established in Gulu district as part of the application of the COP strategy. Mayumba Kumi literally means ‘ten households’ and it is a widespread concept in Africa [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>, <xref ref-type="bibr" rid="R75">75</xref>].</p>
+            <p>Mayumba Kumi is essentially a type of neighbourhood watch, where a group of households [<xref ref-type="bibr" rid="R76">76</xref>] establish a security watch scheme based on their intimate knowledge of the neighbourhood and the people who live and frequent it. The concept is anchored in the social connectedness that characterises many communities across the African continent, where social cohesion and interdependence is a key cultural aspect [<xref ref-type="bibr" rid="R77">77</xref>]. In recent years, Mayumba Kumi has become an explicit community policing strategy through which the police encourages the community to form clusters where neighbours observe and report suspicious activities, unknown people in the neighbourhood, and any unusual movements in their environments to each other and to the selected leader of the cluster ([<xref ref-type="bibr" rid="R12">12</xref>], p. 22).
+</p>
+            <p>In Gulu, police officials informed us that Mayumba Kumi is applied as a pilot project in one location. The current application as described by the police, was a grouping of ten households headed by a selected leader that respected the local LC1. This leader receives information from members of the group and informs the LC1 if issues arise. The LC1 (or LC1 defence secretary) attempts to solve issues, and if he is unable to do so, he involves the police. The organisation of this group, according to the police, began through a meeting between the CLO, the leader, and members of the group for sensitisation purposes. The group of households is intended to function as a monitoring team, perform local patrols and inform the police and LC1 defence secretaries about the patrol. The intention is that the LC1 defence secretaries and sometimes the police, join local patrols. Police officials explained to us that often the police do not have the resources to conduct or join local patrols, and in this way, the community patrols the neighbourhood and calls the police if there are issues that need intervention.</p>
+            <p>In practice, the Mayumba Kumi pilot does not fully function as described and intended, nor was it a recent pilot initiated by the police. As we spoke to members of the Mayumba Kumi, we were informed that the group comprises of fewer than ten neighbouring households that communicate and inform each other of any unusual issues in their area. If issues arise, the LC1 secretary of defence examines the situation and calls the police if necessary. There were no neighbourhood patrols, nor joint patrols. We were also informed that these household practiced this sort of communication before they were labelled as a Mayumba Kumi pilot project by the police. Indeed, Mayumba Kumi is a long-standing practice, and documents in the Gulu archive [<xref ref-type="bibr" rid="R78">78</xref>] indicate that Mayumba Kumi was practiced in the region since 1979. The practice of Myumba Kumi in Uganda dates back at least to the Godfrey Binaisa regime (June 1979-May 1980), when the temporary parliament, the National Consultative Council (NCC), established the Mayumba Kumi system to monitor rising crimes in neighbourhoods [<xref ref-type="bibr" rid="R79">79</xref>]. These historical groups, dubbed in Gulu as the ‘Mayumba Kumi vigilante groups’ [<xref ref-type="bibr" rid="R78">78</xref>], where supported by Tanzanian soldiers who helped overthrow the Amin regime [<xref ref-type="bibr" rid="R79">79</xref>]. But many Ugandans considered the activities of the Mayumba Kumi groups as harassment [<xref ref-type="bibr" rid="R78">78</xref>]. The current practice of Mayumba Kumi in Gulu is somewhat different than the original vigilante groups and includes mobile phone communication and reporting amongst the members of the group, communication with the police, and mobilisation and intervention if needed. Through this sort of communication practices in the region (though not by this Mayumba Kumi group), the presence, movement and location of the research team was repeatedly reported to officials in the region, including LCs on higher levels, the Resident District Commissioner, and senior police officials. This information was given to us during interviews with officials who told us that they were informed of visits we made to different locations.</p>
+         </sec>
+         <sec id="s6.3">
+            <title>6.3.- Crime Preventers</title>
+            <p>When we interviewed police officials in Gulu, the crime preventers scheme was not mentioned as a COP intervention. Nevertheless, issues related to the use of crime preventers by the police and local government officials were mentioned by community members in interviews and FGDs. We followed up this information with the police and subsequently interviewed crime preventers for this research. The recent manifestation of the crime preventers scheme was introduced by President Museveni as a community policing initiative in 2014 [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R80">80</xref>, <xref ref-type="bibr" rid="R81">81</xref>, <xref ref-type="bibr" rid="R82">82</xref>], but the most significant round of recruitment of crime preventers occurred before the 2016 general elections in Uganda ([<xref ref-type="bibr" rid="R80">80</xref>], p. 9). While flagged as a community policing initiative by the President, it became evident that crime preventers were recruited by the NRM to serve as a tool of power to secure the elections ([<xref ref-type="bibr" rid="R41">41</xref>], p. 699). As such, crime preventers assumed a partisan role and were seen and understood by the public at large as NRM agents ([<xref ref-type="bibr" rid="R80">80</xref>], p. 9)([<xref ref-type="bibr" rid="R41">41</xref>], p. 700). As a result, crime preventers were not really perceived as civilians recruited from the community to improve community/police relations and help the police provide a better service to the community, but rather as a group of people that could easily embed themselves in communities on behalf of the NRM and provide information to the authorities, including information about political dissidence, but also engage in coordinated action on behalf of the NRM when necessary. Tapscott ([<xref ref-type="bibr" rid="R41">41</xref>], p. 700) indicates that increasingly, the crime preventers were assigned controversial tasks by the police, including effectuating arrests.</p>
+            <p>Crime preventers were mentioned to us in the context of their unpopularity and in relation to tasks they still perform on behalf of the police. In 2018-2019 when we conducted this research, we were told that the status and role of crime preventers was officially abolished. They no longer functioned as a group, nor used by the NRM in an official capacity. Nevertheless, community members, local government officials, and later police officials told us that while crime preventers as an organised group were no longer functional, individuals trained and identified as crime preventers were occasionally used by the police and local government official to execute certain tasks. These tasks, which all seemed to potentially involve the use of force or violence, included effectuating arrests on behalf of the police, searching for wanted individuals for the police and local government officials, and sometimes guarding or conducting specific acts of violence on behalf of various individuals. One community member labelled them as ‘criminals with licenses’ that often resort to violence in their interactions on behalf of officials [<xref ref-type="bibr" rid="R83">83</xref>].</p>
+            <p>Police and local government officials explained that in certain situations it is better and safer to use crime preventers who are from the community and are familiar with local contexts rather than using police officers. An example given was in conjunction of arresting drunk individuals who behaved in a disorderly fashion in a pub. Uniformed police officers who were called to the scene were reluctant to enter the premises as they feared a mob reaction against them. In this case and similar cases, the police calls upon crime preventers and asks them effectuate arrests, stop the disorderly behaviour, and bring the drunk individuals out by force.</p>
+         </sec>
+         <sec id="s6.4">
+            <title>6.4.- Police-NGO Relationship as COP</title>
+            <p>Senior police officials described some of the police-NGO relationships as a form of application of the COP strategy. More specifically, such relationships are viewed as building partnerships with the community, participation in neighbourhood-based problem solving, embracing the ideal of community service, and securing resources for the provision of better services to the community.</p>
+            <p>There are several NGOs in Gulu who developed a close relationship with the police, including NGOs that work with rehabilitation of criminals, gender-based violence (GBV), trafficking etc.
+Both the police and the NGOs describe this relationship as mutually beneficial for a variety of reasons. Senior police officials explained that the NGOs provide both material benefits and access that helps the police to be more efficient in their work. Some examples of material benefits include NGOs providing the police with office materials, furniture (desks and benches), photocopy services including of police forms essential for police-public interactions, providing gasoline for police vehicles, direct support for offices of interests (e.g. office for child and family) etc. In terms of access, NGOs conduct regular public sensitisation activities, and invites police officials to speak directly to the community through such events.</p>
+            <p>The NGOs explained that providing the police with material benefits has a double effect. Firstly, they help the underfunded and under-resourced police with materials that are necessary in providing good services to the community. Fuel for vehicles is essential for police mobility, and often the cost of a resource such as fuel is transferred to plaintiffs who require police assistance. Secondly, as indicted clearly by the NGOs, assisting the police with material benefits leads to a closer relationship that enables NGOs to mobilise police resources to assist them in particular cases of interest. One example given was in cases of GBV when police intervention is needed, the NGOs contact the police directly and the police mobilises quickly and efficiently assisting the NGO due to the special relationship that exists. While this is certainly a <italic>quid pro quo</italic> relationship, it is an outcome of the reality on the ground, and the results of these practices which can be viewed as ethically challenging, are better and more efficient services to the community. In addition, NGOs view police participation in sensitisation events as an important measure for trust building and information sharing with the community.</p>
+         </sec>
+         <sec id="s6.5">
+            <title>6.5.- Sensitisation, Bylaws Enforcement and Direct Access</title>
+            <p>One of the most prominent application of COP in Gulu according to the police, is direct contact with the public through dissemination activities. There are several direct (face-to-face), and indirection (media) interaction between the police and the community. These interactions are explicitly designed to achieve a number of objectives, including:
+</p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Create a direct contact between the police and the public in casual circumstances to improve the police image and create personal relationships.</p>
+               </list-item>
+               <list-item>
+                  <p>To inform the public about the roles of the police and police community relationship.</p>
+               </list-item>
+               <list-item>
+                  <p>To inform the public about what is considered crime, violence, and rights, and how to seek help with the police and the justice system.</p>
+               </list-item>
+               <list-item>
+                  <p>Inform the public about upcoming events such as mass happenings, celebrations, festivities, or police activities that may influence public order.</p>
+               </list-item>
+               <list-item>
+                  <p>Provide support for NGOs, schools, local leaders, cultural and religious leaders in events where they would like the police to interact with the public.</p>
+               </list-item>
+               <list-item>
+                  <p>Inform the public about bylaws and their enforcement.</p>
+               </list-item>
+            </list>
+            <p>There are several planned and ad-hoc circumstances where the police meets the public for interaction and information sharing. These include planned police sensitisation activities, activities planned by others where the police are invited to contribute, meeting the public during patrols (as described above), radio time dedicated for the police, participation of police officials in other radio programs, and information through the written media, posters and announcements.
+Bylaws enforcement is an important service rendered by the police to the community leadership. As specified above, bylaws are local rules that community leadership installs to increase the peace, respect of rights and property, reduce the risk for criminal activities, minimise exposure of people, and especially youth, to potentially harmful substances such as drugs and alcohol, and respect cultural and religious norms. These bylaws include curfews such as time limits for noise, limits on selling of alcohol, or limits on being in certain areas at certain times. While the police is committed to assist the various communities in enforcing such bylaws, there are not always enough resources to do so. Very often it is the community leadership that attempts to enforce bylaws, and the police are called, and sometimes assist, in radical cases or if they happen to be in the area.</p>
+            <p>One common practice by police officers of all ranks, including senior leadership, is to provide their personal phone numbers to people at large. As such, many people have the ability to call a number of police officers directly and provide information, report crimes, or ask for assistance. Virtually all community leaders have direct access via mobile phones to senior police leadership in Gulu, especially the CLO. While senior leadership does not always answer calls from unknown individuals, they will eventually reply to community leadership, or assign another officer to contact the caller.</p>
+         </sec>
+      </sec>
+      <sec id="s7">
+         <title>7.- Assessing COP in Practice</title>
+         <p>In this section we assess the practice of COP in Gulu, bearing in mind Tapscott’s suggestion discussed above that the GoU applies institutionalised arbitrariness in its interactions with the citizens through security provision [<xref ref-type="bibr" rid="R34">34</xref>].</p>
+         <p>As the data indicates, in general, members of the community view the police as an agent of the government, and as outsiders to their communities. There is a fundamental distrust of police officers as they are regarded as corrupt, sometimes violent, and unpredictable [<xref ref-type="bibr" rid="R84">84</xref>]. The views of the police as an agent of the government acting on behalf of elites rather than providers of public service for the people of Uganda is not new [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R30">30</xref>], and it is anchored in years of experience of Ugandans with state security providers under various regimes. In this sense, it seems that COP has achieved very little since 1989 regarding building a partnership between the police and the public. Indeed, shifting this perception of the police as an agent of the government acting first and foremost to secure the interests of elites is difficult, especially when people frequently observe the role the police fulfils on behalf of the government in subduing political dissidence and opposition. During our stay in Gulu, for example, we observed police mobilisation to provide security for what people at large considered as a political harassment of the very popular opposition leader known as Bobi Wine [<xref ref-type="bibr" rid="R85">85</xref>]. The police in Gulu played a prominent role in these events and other similar subsequent events [<xref ref-type="bibr" rid="R85">85</xref>, <xref ref-type="bibr" rid="R86">86</xref>] as ordered by the government. During our interactions with community members, the example of Bobi Wine was given and discussed several times in the context of politicised policing in Uganda, highlighting the basic mistrust that exists between people and the UPF. In addition, people reported events where the police in Gulu used intimidation by shooting in the air and the use of tear gas to disperse gatherings and protests, as well as the use of live ammunition in riot control in Gulu [<xref ref-type="bibr" rid="R87">87</xref>].</p>
+         <p>Respondents also report that the police often extract money from citizens [<xref ref-type="bibr" rid="R88">88</xref>], especially around holidays through bogus fines. Local leaders also told us that in many cases they have personally informed the police about the location of criminals, and in several cases accompanied the police to effectuate arrests of known criminals, but then a few days later the criminals would be back in the streets. This happens, according to members of the community, due to bribery and corruption. As one local leader put it: ‘if you have money, you can buy your way out of any crime’. Another example of what is viewed by the community as extortion, is when the police requires from the plaintiffs to pay for fuel and other expenses as a condition to follow up on complaints that require police mobilisation.</p>
+         <p>As we observed during sensitisation stops in ‘drinking joints’ while on patrol, the uniformed police officers armed with AK47 scatter around the permitter and gather people, requiring their participation in the session. While the officer in charges highlights partnership with the community during his speech, armed police officers surround the permitter and force people to participate. This sends a double message to the public and conveys an aura of intimidation.</p>
+         <p>The arrest effectuated during the patrol also demonstrated how both the police and local leadership use intimidation, derogatory language and violence when interacting with the public. One prominent example was the second group of two boys and three girls detained by the police even though there was no apparent reason to do so. Even after the police established that two boys had done nothing wrong, they were still detained and there was an intention to punish them by canning before releasing them.</p>
+         <p>There are, however, nuances offered by some who presented this general critical view of the police. Some community members recognise that not all police officers are alike – ‘some are genuine, and some are not professional and tarnish the name of the force’. Another respondent added ‘some [police officers] are serious, analyse their environments and engage in professional work’. Interestingly, many members of the community recognise that the police is underfunded, under resourced, and acknowledge the difficulties police officers face in terms of performing their duties under these conditions. One local leader told us that despite these challenges, the Gulu police station work goes on. Other community members pointed to the poor living conditions for police officers and their families in police barracks, the poor salaries, and to the fact that sometimes salaries are paid late or not paid at all. Some community members expressed understanding for the corrupt practices as ‘necessary survival methods under these conditions’, thus blaming the GoU for creating the circumstances where police officers revert to misusing their powers to extract money from civilians.</p>
+         <p>Despite the entrenched mistrust, local leaders, especially on the LC1 level, are pleased with their ability to access the police directly. Many members of the public indicate that they have taken part in sensitisation activities with the police (and NGOs) and have learned important information about crime and police roles. In addition, many indicate that some useful information is conveyed, especially through the radio, and usually in relations to special activities or rules installed during festivities and special occasions.</p>
+         <p>While some of the measures discussed above can be viewed and analysed as COP interventions that address the objectives of the COP strategy to certain extents, it seems that none of these show significant success in improving the perception and image of the police with the public at large. Indeed, several documents in the Gulu archive indicate that some of the basic problems that the police in Gulu faces today, are the same problems that existed in the past [<xref ref-type="bibr" rid="R89">89</xref>, <xref ref-type="bibr" rid="R90">90</xref>, <xref ref-type="bibr" rid="R91">91</xref>, <xref ref-type="bibr" rid="R92">92</xref>, <xref ref-type="bibr" rid="R93">93</xref>]. These include first and foremost lack of trust between the community and the police, the perception of the police as a body that serves the interests of elites, lack of resources available to the police (such as transport, fuel, office materials, decent facilities etc), poor training and education of police officers, poor salaries, and the use of arbitrary violence when dealing with the public. Combined, these lead to a general public perception of the UPF as corrupt, violent, unpredictable, and untrustworthy.</p>
+         <p>As specified in the introduction, COP in Uganda is defined through the 2017 strategy document as both an ‘organisational strategy’ an a ‘new partnership between people and the police’. The Strategy document justifies COP by linking weak state institutions in transitional democracies in Africa to enhanced criminal activities, and subsequently to the need for the police to apply concepts such as COP to better address crime ([<xref ref-type="bibr" rid="R1">1</xref>], p. 3). The objectives of the strategy, namely enabling the police to enhance and maintain collaboration with the public, work with community to support conflict resolution, and achieve enhanced public safety, are to be attained through efforts aiming at partnership building, empowering the police to promote problem solving on the community level, maintaining integrity, and developing a management strategy that recognises and promotes COP and its application. The COP concept is framed in the strategy as a state led initiative.</p>
+         <p>There is no doubt that most police officers and senior police command in Gulu are aware of the COP strategy and its objectives. It is also clear that the UPF in Gulu has a consistent and sustained relationship, contact, and communication with community members in general, and local community leadership in particular. But while COP is acknowledged as the flagship strategy of the UPF, senior police command in Gulu admitted that they have not made concrete plans to operationalise the 2017 strategy in Gulu. This was explained both in terms of time (the strategy document was published in January 2017), and lack of resources to plan concrete measures for a wide scale implementation of the strategy. Nevertheless, the police did list the measures discussed above as COP interventions that are in place. But it is important to emphasise that these measures are not new, and not a result of an attempt to implement the 2017 strategy for community policing, nor were these measures implemented specifically as the operationalisation of this strategy. Most of the measures for security provision which feature degrees of collaboration between the community and the police are results of long-standing governance structures and actions that have been in place as a part of the NRM control system since 1989 (see for example [<xref ref-type="bibr" rid="R30">30</xref>]). Some of the interventions labelled by the police as COP were first installed by the state to enhance or exercise control over the public and collect information through collaborators rather than collaborate with communities as a service [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. The crime preventers scheme, for example, introduced in 2014 as a community policing initiative by the state, was received by the public as yet another government initiative to create and empower a group that serves the particular interests of the NRM [<xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R81">81</xref>]. As discussed above, individuals that were recruited as crime preventers are widely resented by the public and the occasional activation of crime preventers by the UPF in Gulu is not seen as a legitimate form of partnership between the police and the community. Individuals who were crime preventers are rather viewed as bullies used to carry out difficult tasks on behalf of the police. While the Mayumba Kumi in Gulu was originally introduced in the past as a vigilante group [<xref ref-type="bibr" rid="R78">78</xref>], the contemporary cluster in Gulu was flagged as a ‘pilot’ COP measure by the police. This specific ‘pilot’ was present and functioned as a community-initiated mechanism for neighbourhood watch through the LC1 mandate to preserve law and order in the community [<xref ref-type="bibr" rid="R30">30</xref>]. The current leader of the Mayumba Kumi cluster welcomes what he described as a closer contact the group currently shares with the police through the ability to directly access the CLO and the District Police Commander (DPC) by phone, but emphasised that the cluster does not rely on the police. The police described the general intention for a closer collaboration with the community through the Mayumba Kumi scheme, for example through local patrols, but in practice the current relationship between the police and this group does not include police participation in patrols initiated by the LC1.</p>
+         <p>The participation of LC1 in joint patrols initiated by the police, however, seem to represent a close collaboration between the police and local community leadership. These patrols function both as a measure that empower the community leadership as they participate in police enforcement (as exemplified by the arrest conducted during the patrol), as well as through police support to bylaws introduced by the community leadership. These joint patrols also enable the police to locate potential sources of disturbances and crime in the community and address them with the assistance of community leaders. As mentioned above, based on the information we collected, the police does not usually take part in patrols initiated by the community, but rather invites community leaders to participate in patrols initiated by the police. In other words, joint patrols remain a police initiative and are effectuated whenever the police decides to carry out a patrol.</p>
+         <p>As the data indicates, the police co-opts, intervenes, and when it wishes, exercises control over various measures to provide security in Gulu. The police chooses when and how to intervene, which measures it labels as COP, and the extent of collaboration and partnership it exercises with members of the community.</p>
+      </sec>
+      <sec id="s8">
+         <title>8.- Conclusion</title>
+         <p>COP as an official state concept of policing has been present in Uganda since 1989 and highlighted by the current regime as a core principle of policing since at least 2008. As of 2014, with another public endorsement by President Museveni during the one hundred-year celebrations of the police, the UPF has been operating under the banner of COP, highlighting the (desired) continuous transformation of the police from an oppressive force (‘colonial policing’) to a public service (‘community policing’). This renewed commitment led to the inception of a national strategy for community policing, which is the key document upon which the UPF attempts to operationalise COP in practice today.</p>
+         <p>While examining how this strategy has been operationalised in Gulu municipality between 2018-2019 as part of the preparations for the transformation of Gulu into a city, it became evident that there are still fundamental gaps between the theory and the practice of COP. It is also evident that while the discourse of COP is prominent amongst most police officers, there are significant hindering factors and structural handicaps that must be addressed if an Ugandan version of COP is to be implemented successfully, at least in Gulu.</p>
+         <p>Most of the interactions between the police and the community which are labelled as COP interventions today, are rooted in historical practices, most established as forms of public control by the state for political purposes, intelligence gathering, and for countering dissidence against the NRM regime. These interventions are not viewed by the public (and the police) as innovative COP measures established based on an operationalisation plan to apply the national strategy. Some of these interactions, such as the use of crime preventers to assist the police, Mayumba Kumi, joint patrols and sensitisation meetings are essentially ‘old-wine in new bottles’. The police co-opt or repackages existing schemes based on established governance structures to address crime and uses the COP framework to flag those as a partnership with community. In the examples presented here, it is essentially the police that initiates when and the extent to which they respond to needs of the community.</p>
+         <p>On the other hand, some of the new communication channels established between the police and the public, especially those based on readily available communication technologies such as mobile phones, allow new forms of direct access to senior police command. The willingness of many police officers and especially senior command to share their mobile phone numbers with members of the public is quite commendable. This allows for personalised contact and access (especially for local community leaders) to the police and seems to lead to better communication, enhanced trust, and sometimes to better police responses. Nevertheless, it is unclear according to which criteria the police responds to direct appeals for interventions by local leadership or community members when it concerns crime and insecurity in Gulu. It is clear that the police responds to appeals by NGOs that have a special <italic>quid quo pro</italic> relationship with the police. And as the data indicates, it is also clear to the community that the police responds to the priorities of the GoU and mobilises in substantial forms and with appropriate resources when it concerns protecting the interests of the government and elites, especially when it comes to public protests against the NRM or when dealing with political opposition.
+</p>
+         <p>If we consider the objectives of the 2017 Strategy for Community Policing, against the application of COP in Gulu and how the police is perceived and viewed by the community, it is evident that there are still significant hindrances to building meaningful partnerships between the police and community. There is evidence that elements of a partnership are being forged between the police and some community leaders, but most respondents in this research, including community leaders, still view the police as an agent of state elites, and police response to community needs as inconsistent and unpredictable. There is also sustained criticism of the integrity of the police as an organisation, and of individuals officers within its ranks. Examples of corruption, violence and abuse of power are ample. And finally, while the practice of COP is a recognised state philosophy, there were no concrete plans developed in Gulu to operationalise the strategy.</p>
+         <p>It is, however, practically impossible to achieve the COP objectives outlined in the strategy if the police, policing, and COP strategies are coupled with partisan politics, and measures recognised by the public from the past as actions to exercise control by the state to secure the interests of elites. In addition, as long as the resources needed to establish effective, efficient and nonpartisan COP are not invested in the UPF, there will be no prospects of creating a reliable and innovative service for the citizens of Uganda. The most basic hindrance to the aspiration of COP as defined by the UPF, is the basic mistrust that exists between citizens of Uganda and the UPF. This mistrust is anchored in the control the state exercises over security provision and the subsequent entrenched understanding by people that police interventions are not consistent, not reliable, and not concerned with the daily apprehensions of citizens. But even if the police would go through a de-politicization process, there will still be a need to consider the substantial lack of resources. Without these resources, the police will not be able to effectuate basic daily police work for the benefit of citizens. These include proper salary compensation, access to good living conditions for officers and their families in police barracks, and access to good support infrastructure such as facilities, vehicles, fuel, technology etc. As suggested by Tapscott [<xref ref-type="bibr" rid="R34">34</xref>], as long as the governance structure is focused on entrenching the state as hegemonic in the citizens’ mind, the only certainty the people have is that the state may intervene at any time, unpredictably, perhaps violently, and without impunity. Under such conditions, it will be difficult to create a meaningful partnership between the public and the UPF through COP.</p>
+      </sec>
+      <sec id="s11">
+         <title>Acknowledgments</title>
+         <p>This research was funded by the EU Horizon 2020 Project ICT4COP: Community-Based Policing and Post Conflict Polic Reform. I would like to thank the EU and the project coordinator Ingrid Nyborg for providing the assistance and funding to conduct this research. I would also like to express my gratitude to Alice Hills for providing valuable input and comments on the draft, to Arthur Owor for his assistance in the field, and my appreciation to two anonymous reviewers for their highly constructive comments.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Uganda Police Force</publisher-name>
+               <year>2017</year>
+               <article-title>Strategy for Community Policing</article-title>
+               <publisher-loc>Kampala, UG</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.jp2jpc.org/downloads/Strategy%20for%20Community%20Policing.pdf"
+                         xlink:type="simple">http://www.jp2jpc.org/downloads/Strategy%20for%20Community%20Policing.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raleigh</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Biddle</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Male</surname>
+                     <given-names>C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Neema</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Uganda Police Project Evaluation Report FV</article-title>
+               <comment>591</comment>
+                <institution>Department for International Development</institution>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+               </person-group>
+               <article-title>Commentary: Community Policing: a Panacea from the West</article-title>
+               <source>African Affairs</source>
+               <volume>103</volume>
+               <issue>413</issue>
+               <fpage>635</fpage>
+               <lpage>649</lpage>
+               <year>2004</year>
+               <issn>0001-9909</issn>
+               <pub-id pub-id-type="doi">10.1093/afraf/adh068</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Anderson Publishing Company</publisher-name>
+               <year>1998</year>
+               <edition>2nd</edition>
+               <article-title>Community Policing: How to Get Started</article-title>
+               <isbn>0870848755</isbn>
+               <publisher-loc>Cincinnati, OH, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Trojanowicz</surname>
+                     <given-names>Robert S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bucqueroux</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Willan Pub</publisher-name>
+               <isbn>1-134-00910-0</isbn>
+               <year>2005</year>
+               <article-title>Community Policing: National and International Models and Approaches</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nijhar</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17440572.2019.1583106</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>20</volume>
+               <issue>1</issue>
+               <fpage>45</fpage>
+               <lpage>64</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Christopher D. O'Connor</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Phillip C. Shon</surname>
+                  </name>
+               </person-group>
+               <article-title>Civilising the Police: Reconceptualising the Role of the State in Theories of American Policing</article-title>
+               <source>Global Crime</source>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Police Reform in Post-Conflict Societies: What We Know and What We Still Need to Know</article-title>
+               <publisher-name>International Peace Academy</publisher-name>
+               <publisher-loc>New York, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>O’Neill, W</surname>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ipinst.org/wp-content/uploads/publications/polreferpt.pdf"
+                         xlink:type="simple">https://www.ipinst.org/wp-content/uploads/publications/polreferpt.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <source>African Affairs</source>
+               <fpage>587</fpage>
+               <lpage>604</lpage>
+               <volume>102</volume>
+               <publisher-name>Oxford University Press</publisher-name>
+               <issue>409</issue>
+               <year>2003</year>
+               <article-title>Democratizing Security or Decentralizing Repression? The Ambiguities of Community Policing in Kenya</article-title>
+               <pub-id pub-id-type="doi">10.1093/afraf/adg065</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ruteere</surname>
+                     <given-names>Mutuma</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pommerolle</surname>
+                     <given-names>Marie‐Emmanuelle</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <issn>0144-932X</issn>
+               <source>The Liverpool law review</source>
+               <fpage>157</fpage>
+               <lpage>179</lpage>
+               <volume>24</volume>
+               <publisher-name>Kluwer Academic Publishers</publisher-name>
+               <issue>3</issue>
+               <year>2002</year>
+               <pub-id pub-id-type="doi">10.1023/A:1023937614261</pub-id>
+               <article-title>Implanting Community Policing in South Africa: A Failure of History, of Context, and of Theory</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Michael </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611104267328</pub-id>
+               <year>2005</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>64</fpage>
+               <lpage>98</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+               </person-group>
+               <article-title>``Horses for Courses'' and ``Thin Blue Lines'': Community Policing in Transitional Society</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0001972014000357</pub-id>
+               <year>2014</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>84</volume>
+               <issue>3</issue>
+               <fpage>444</fpage>
+               <lpage>465</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Di Nunzio, Marco</surname>
+                  </name>
+               </person-group>
+               <article-title>Thugs, Spies and Vigilantes: Community Policing and Street Politics in Inner City Addis Ababa</article-title>
+               <source>Africa</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020019</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gjelsvik</surname>
+                     <given-names>Ingvild M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform and Community Policing in Kenya: The Bumpy Road from Policy to Practice</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020044</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lid</surname>
+                     <given-names>Stian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Omondi O, Clifford C</surname>
+                  </name>
+               </person-group>
+               <article-title>Protecting the Citizenry—or an Instrument for Surveillance? The Development of Community-oriented Policing in Kenya</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5334/sta.491</pub-id>
+               <year>2017</year>
+               <publisher-name>Ubiquity Press</publisher-name>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>6</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alice Hills</surname>
+                  </name>
+               </person-group>
+               <article-title>Is There Anybody There? Police, Communities and Communications Technology in Hargeisa</article-title>
+               <source>Stability: International Journal of Security and Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10439460903375190</pub-id>
+               <year>2009</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>19</volume>
+               <issue>4</issue>
+               <fpage>354</fpage>
+               <lpage>371</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kyed</surname>
+                     <given-names>Helene Maria</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Post-war Mozambique</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/9781137010582\_1</pub-id>
+               <year>2012</year>
+               <publisher-name>Palgrave Macmillan US</publisher-name>
+               <fpage>3</fpage>
+               <lpage>36</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Francis</surname>
+                     <given-names>David J.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Introduction: Understanding Policing in Transition Societies in Africa</chapter-title>
+               <article-title>Policing in Africa</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17502970701810864</pub-id>
+               <year>2008</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>2</volume>
+               <issue>1</issue>
+               <fpage>23</fpage>
+               <lpage>42</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Freetown, Sierra Leone: Foreign Import or Local Solution?</article-title>
+               <source>Journal of Intervention and Statebuilding</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13600869.2011.594659</pub-id>
+               <year>2011</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>25</volume>
+               <issue>1-2</issue>
+               <fpage>69</fpage>
+               <lpage>77</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing Africa: Internal Security and the Limits of Liberalization</article-title>
+               <source>International Review of Law, Computers &amp; Technology</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315861487-1</pub-id>
+               <year>2018</year>
+               <publisher-name>Routledge</publisher-name>
+               <fpage>3</fpage>
+               <lpage>22</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marenin</surname>
+                     <given-names>Otwin</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Policing Change, Changing Police: Some Thematic Questions</chapter-title>
+               <article-title>Policing Change, Changing Police</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Kluwer Law and Taxation</publisher-name>
+               <isbn>9065447105</isbn>
+               <year>1993</year>
+               <article-title>Alternative Policing Styles: Cross-cultural Perspectives</article-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Findlay</surname>
+                     <given-names>M and Zvekić, U</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1075&amp;context=twls"
+                         xlink:type="simple">https://scholar.valpo.edu/cgi/viewcontent.cgi?article=1075&amp;context=twls</ext-link>
+               <year>1990</year>
+               <volume>9</volume>
+               <fpage>1</fpage>
+               <lpage>36</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Oloka-Onyango, J.</surname>
+                  </name>
+               </person-group>
+               <article-title>Police Powers, Human Rights, and the State in Kenya and Uganda: A Comparative Analysis</article-title>
+               <source>Third World Legal Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/096466390000900301</pub-id>
+               <year>2000</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>9</volume>
+               <issue>3</issue>
+               <fpage>323</fpage>
+               <lpage>345</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Loader</surname>
+                     <given-names>Ian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Plural Policing and Democratic Governance</article-title>
+               <source>Social &amp; Legal Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>National Institute of Justice</publisher-name>
+               <year>2001</year>
+               <article-title>The New Structure of Policing: Description, Conceptualization and Research Agenda</article-title>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shearing</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ojp.gov/pdffiles1/nij/187083.pdf"
+                         xlink:type="simple">https://www.ojp.gov/pdffiles1/nij/187083.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               
+               <publisher-name>Cambridge University Press</publisher-name>
+               <source>Security Beyond the State</source>
+               <isbn>0521764718</isbn>
+               <year>2010</year>
+               <chapter-title>Security Beyond the State: Private Security in International Politics</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abrahamsen</surname>
+                     <given-names>Rita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <issn>2034-760X</issn>
+               <year>2016</year>
+               <article-title>Police Reform and Power in Post Conflict Societies—A Conceptual Map for Analysis</article-title>
+               <source>European Journal of Policing Studies</source>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>269</fpage>
+               <lpage>298</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Divon</surname>
+                     <given-names>Shai André</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.maklu-online.eu/en/tijdschrift/ejps/volume-4/issue-3/police-reform-and-power-post-conflict-societies/"
+                         xlink:type="simple">http://www.maklu-online.eu/en/tijdschrift/ejps/volume-4/issue-3/police-reform-and-power-post-conflict-societies/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781350221987</pub-id>
+               <year>2017</year>
+               <publisher-name>Bloomsbury Academic</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Higate</surname>
+                     <given-names>Paul and Utas, Mats</given-names>
+                  </name>
+               </person-group>
+               <article-title>Private Security in Africa</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315813745</pub-id>
+               <year>2014</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Albrecht</surname>
+                     <given-names>Peter and Kyed, Helene Maria</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing and the Politics of Order-Making</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>University of Minnesota Press</publisher-name>
+               <isbn>0816614016</isbn>
+               <year>1987</year>
+               <article-title>A Thousand Plateaus: Capitalism and Schizophrenia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Deleuze</surname>
+                     <given-names>Gilles</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Guattari</surname>
+                     <given-names>Félix</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Continuum</publisher-name>
+               <isbn>9780826481702</isbn>
+               <year>2006</year>
+               <article-title>A New Philosophy of Society: Assemblage Theory and Social Complexity</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>De Landa, Manuel </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/1043946042000338913</pub-id>
+               <year>2005</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>15</volume>
+               <issue>1</issue>
+               <fpage>19</fpage>
+               <lpage>41</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+               </person-group>
+               <article-title>Multi-choice Policing in Uganda</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781843926269</pub-id>
+               <year>2013</year>
+               <publisher-name>Willan</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jennifer Wood</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clifford Shearing</surname>
+                  </name>
+               </person-group>
+               <article-title>Imagining Security</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/j.1467-7660.2006.00497.x</pub-id>
+               <year>2006</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>37</volume>
+               <issue>4</issue>
+               <fpage>685</fpage>
+               <lpage>705</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lund</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Twilight Institutions: Public Authority and Local Politics in Africa</article-title>
+               <source>Development and Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/00420980123185</pub-id>
+               <year>2001</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>38</volume>
+               <issue>5-6</issue>
+               <fpage>959</fpage>
+               <lpage>976</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Les Johnston</surname>
+                  </name>
+               </person-group>
+               <article-title>Crime, Fear and Civil Policing</article-title>
+               <source>Urban Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/dech.12294</pub-id>
+               <year>2017</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>48</volume>
+               <issue>2</issue>
+               <fpage>263</fpage>
+               <lpage>285</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tapscott</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Government Has Long Hands: Institutionalized Arbitrariness and Local Security Initiatives in Northern Uganda</article-title>
+               <source>Development and Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781350221987.ch-001</pub-id>
+               <year>2017</year>
+               <fpage>15</fpage>
+               <lpage>30</lpage>
+               <publisher-name>Bloomsbury Academic</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abrahamsen</surname>
+                     <given-names>Rita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Golden Assemblages: Security and Development in Tanzania's Gold Mines</chapter-title>
+               <source>Private Security in Africa</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Higate</surname>
+                     <given-names>P and Utas, M</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611108317820</pub-id>
+               <year>2008</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>11</volume>
+               <issue>4</issue>
+               <fpage>427</fpage>
+               <lpage>446</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wisler</surname>
+                     <given-names>Dominique</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Onwudiwe</surname>
+                     <given-names>Ihekwoaba D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Comparison</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/00020180412331318724</pub-id>
+               <year>2004</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>63</volume>
+               <issue>2</issue>
+               <fpage>139</fpage>
+               <lpage>152</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lars Buur</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steffen Jensen</surname>
+                  </name>
+               </person-group>
+               <article-title>Introduction: Vigilantism and the Policing of Everyday Life in South Africa</article-title>
+               <source>African Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/j.1759-5436.2001.mp32001009.x</pub-id>
+               <year>2001</year>
+               <publisher-name>Institute of Development Studies</publisher-name>
+               <volume>32</volume>
+               <issue>1</issue>
+               <fpage>74</fpage>
+               <lpage>82</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schärf</surname>
+                     <given-names>Wilfried</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Justice and Community Policing in Post-Apartheid South Africa</article-title>
+               <source>IDS Bulletin</source>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/afraf/adi089</pub-id>
+               <year>2006</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>105</volume>
+               <issue>419</issue>
+               <fpage>265</fpage>
+               <lpage>283</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Heald</surname>
+                     <given-names>Suzette</given-names>
+                  </name>
+               </person-group>
+               <article-title>State, Law, and Vigilantism in Northern Tanzania</article-title>
+               <source>African Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0022278x11000267</pub-id>
+               <year>2011</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>49</volume>
+               <issue>3</issue>
+               <fpage>409</fpage>
+               <lpage>428</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Debos</surname>
+                     <given-names>Marielle</given-names>
+                  </name>
+               </person-group>
+               <article-title>Living by the Gun in Chad: Armed Violence as a Practical Occupation</article-title>
+               <source>The Journal of Modern African Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17531055.2016.1272283</pub-id>
+               <year>2016</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>10</volume>
+               <issue>4</issue>
+               <fpage>693</fpage>
+               <lpage>712</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tapscott</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+               </person-group>
+               <article-title>Where the Wild Things are not: Crime Preventers and the 2016 Ugandan Elections</article-title>
+               <source>Journal of Eastern African Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020082</pub-id>
+               <year>2021</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Divon</surname>
+                     <given-names>Shai Andr\'e</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Owor</surname>
+                     <given-names>Arthur</given-names>
+                  </name>
+               </person-group>
+               <article-title>Aguu: From Acholi Post War Street Youth and Children to `Criminal Gangs' in Modern Day Gulu City, Uganda</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <isbn>9780521854092</isbn>
+               <year>2006</year>
+               <article-title>The Logic of Violence in Civil War</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kalyvas</surname>
+                     <given-names>Stathis N </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.24908/ss.v9i1/2.4102</pub-id>
+               <year>2011</year>
+               <publisher-name>Queen's University Library</publisher-name>
+               <volume>9</volume>
+               <issue>1/2</issue>
+               <fpage>93</fpage>
+               <lpage>113</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bozzini</surname>
+                     <given-names>David M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Low-tech Surveillance and the Despotic State in Eritrea</article-title>
+               <source>Surveillance &amp; Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.polgeo.2011.12.004</pub-id>
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>31</volume>
+               <issue>4</issue>
+               <fpage>205</fpage>
+               <lpage>214</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hagmann</surname>
+                     <given-names>Tobias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Korf</surname>
+                     <given-names>Benedikt</given-names>
+                  </name>
+               </person-group>
+               <article-title>Agamben in the Ogaden: Violence and Sovereignty in the Ethiopian-Somali Frontier</article-title>
+               <source>Political Geography</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jeffries</surname>
+                     <given-names>Charles Joseph</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Colonial Police / Sir Charles Jeffries</article-title>
+               <publisher-name>Max Parrish London</publisher-name>
+               <fpage>1</fpage>
+               <lpage>232</lpage>
+               <year>1952</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nla.gov.au/nla.cat-vn191641"
+                         xlink:type="simple">https://nla.gov.au/nla.cat-vn191641</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Killingray</surname>
+                     <given-names>David.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing the Empire: Government, Authority and control, 1830-1940</article-title>
+               <isbn>0719030358</isbn>
+               <publisher-name>Manchester University Press</publisher-name>
+               <year>1991</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nla.gov.au/nla.cat-vn1539645"
+                         xlink:type="simple">https://nla.gov.au/nla.cat-vn1539645</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clayton</surname>
+                     <given-names>Anthony</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Killingray</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>Khaki and Blue: Military and Police in British Colonial Africa</article-title>
+               <isbn>0896801470</isbn>
+               <publisher-name>Ohio University Center for International Studies Athens</publisher-name>
+               <year>1989</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nla.gov.au/nla.cat-vn611343"
+                         xlink:type="simple">https://nla.gov.au/nla.cat-vn611343</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>At the End of the Line: Colonial Policing and the Imperial Endgame 1945-80</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sinclair</surname>
+                     <given-names>Georgina</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Manchester University Press</publisher-name>
+               <year>2010</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://oro.open.ac.uk/55461/"
+                         xlink:type="simple">http://oro.open.ac.uk/55461/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/9781137010582\_5</pub-id>
+               <year>2012</year>
+               <publisher-name>Palgrave Macmillan</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <fpage>95</fpage>
+               <lpage>122</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Musiime</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Francis</surname>
+                     <given-names>D. J.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>From Repressive to Community Policing in Uganda</chapter-title>
+               <source>Policing in Africa</source>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>About Uganda Police</article-title>
+               <institution>Uganda Police Force</institution>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.upf.go.ug/history-of-upf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Intelligence Sector Reform in Uganda; Dynamics Challenges and Prospects</chapter-title>
+               <source>Changing Intelligence Dynamics in Africa</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Agaba</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://gsdrc.org/wp-content/uploads/2013/02/Changing-Intelligence-Dynamics-in-Africa.pdf"
+                         xlink:type="simple">https://gsdrc.org/wp-content/uploads/2013/02/Changing-Intelligence-Dynamics-in-Africa.pdf</ext-link>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Africa</surname>
+                     <given-names>S and Kwadjo, J</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>GFN-SSR</publisher-name>
+               <fpage>95</fpage>
+               <lpage>124</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This is not to say that President Museveni's rule has been in consensus, only to indicate that the country has been consistently politically stable under his rule.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://rcmss.com/2014/IJPCS-VOl2-No2/CONCEPTUALIZATION\%20OF\%20COMMUNITY\%20POLICING\%20IN\%20THE\%20UGANDA\%20POLICE\%20FORCE\%20IJPCS\%20October\%202014.pdf"
+                         xlink:type="simple">http://rcmss.com/2014/IJPCS-VOl2-No2/CONCEPTUALIZATION\%20OF\%20COMMUNITY\%20POLICING\%20IN\%20THE\%20UGANDA\%20POLICE\%20FORCE\%20IJPCS\%20October\%202014.pdf</ext-link>
+               <year>2014</year>
+               <volume>2</volume>
+               <issue>2</issue>
+               <fpage>58</fpage>
+               <lpage>65</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bitaliwo</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Conceptualization of Community Policing in the Uganda Police Force</article-title>
+               <source>International Journal of Peace and Conflict Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>And other countries.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Commonwealth and Human Rights Initiative</publisher-name>
+               <year>2006</year>
+               <article-title>The Police, the People, the Politics; Police Accountability in Uganda</article-title>
+               <publisher-loc>New Delhi, India</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.humanrightsinitiative.org/publications/police/uganda\_country\_report\_2006.pdf"
+                         xlink:type="simple">https://www.humanrightsinitiative.org/publications/police/uganda\_country\_report\_2006.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Quoted in Brogden 2004 (\citepR3</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Brogden's (\citepR3) list is based on Raleigh, et al. (\citepR2)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ochola</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing in Uganda</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://nanopdf.com/download/community-policing-in-uganda\_pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kasingye</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>International Police Executive Symposium, Tenth Annual Meeting</publisher-name>
+               <year>2003</year>
+               <article-title>Implementing Community Policing: Uganda's Experience</article-title>
+               <publisher-loc>Bahrain</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="webpage" xlink:type="simple">
+                <institution>Uganda Police Force</institution>
+               <article-title>Uganda Police Directorate</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://ugfacts.net/uganda-police-directorates/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>``It's Katogo Out There'': Community Voices on Crime Prevention and Security</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kamya</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Community Policing: Good Cops, Trust and Democracy</chapter-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://library.fes.de/pdf-files/bueros/uganda/14148.pdf"
+                         xlink:type="simple">http://library.fes.de/pdf-files/bueros/uganda/14148.pdf</ext-link>
+               <isbn>978-9970-535-04-0</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The one-hundred years celebration of the UPF were six years delayed. Originally the celebrations should have taken place in 2008.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>An actual centenary flag to be flown alongside the Uganda police flag was introduced during the celebrations.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Before the status of Gulu changed from Municipality to City in June 2020, there were four divisions in Gulu municipality. After July 1$^st$, these division were merged into two: Gulu West and Gulu East.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>For a thorough discussion of the youth criminal group in Gulu see: Divon, SA, Owor, A. \citepR42.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0042098013487777</pub-id>
+               <year>2013</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>50</volume>
+               <issue>15</issue>
+               <fpage>3152</fpage>
+               <lpage>3167</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Branch</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gulu in War and Peace? The Town as Camp in Northern Uganda</article-title>
+               <source>Urban Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781350223240</pub-id>
+               <year>2010</year>
+               <publisher-name>Zed Books Ltd</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Allen</surname>
+                     <given-names>Tim and Vlassenroot, Koen</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Lord's Resistance Army</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://etheses.lse.ac.uk/832/1/Dolan\_Understanding\_war\_and\_its\_continuation.pdf"
+                         xlink:type="simple">http://etheses.lse.ac.uk/832/1/Dolan\_Understanding\_war\_and\_its\_continuation.pdf</ext-link>
+               <year>2005</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dolan</surname>
+                     <given-names>CG</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>London School of Economics &amp; Political Science, University of London</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <source>Understanding War and its Continuation: the Case of Northern Uganda</source>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>See for example: Acholi Religious Leaders Peace Initiative. Mitigating Land Based Conflicts in Northern Uganda. Kampala Uganda: URI &amp; ARLPI; 2012. Chelimo, GA. Land Rights in the Context of Post-War Northern Uganda: the Case of Amuru District, Uganda. in Hintjens, H, Maguru JM, Nyakaisiki F, Odong J, editors. Challenging Social Exclusion: Multi Sectoral Approaches to Realising Social Justice in East Africa. Kampala, Uganda: Fountain Publishers; 2015.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with senior police officer in Gulu.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with senior police officer in Gulu, obviously quoting one of Sir Robert Peel's principles of policing.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Changing Images of Nyumba Kumi in Tanzania: Implications for Youth Engagement in Countering Violence at Community Level</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sambaiga</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <source>The African Review</source>
+               <volume>45</volume>
+               <fpage>49</fpage>
+               <lpage>74</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://pdfs.semanticscholar.org/848f/75d131c0bb649edcc2bbd1b0b1ac73af523e.pdf"
+                         xlink:type="simple">https://pdfs.semanticscholar.org/848f/75d131c0bb649edcc2bbd1b0b1ac73af523e.pdf</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1163/187502308784048573</pub-id>
+               <year>2008</year>
+               <publisher-name>Brill</publisher-name>
+               <volume>19</volume>
+               <issue>1</issue>
+               <fpage>45</fpage>
+               <lpage>53</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>van Puijenbroek, Joost</surname>
+                  </name>
+               </person-group>
+               <article-title>Human Security from Below, a Case Study from the Ituri District, Democratic Republic of Congo</article-title>
+               <source>Security and Human Rights</source>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+               </person-group>
+               <article-title>Reconstructing a Policing System Out of the Ashes: Rwanda's Solution</article-title>
+               <source>Policing and Society</source>
+               <volume>17</volume>
+               <issue>4</issue>
+               <fpage>344</fpage>
+               <lpage>366</lpage>
+               <year>2007</year>
+               <publisher-name>Routledge</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/10439460701717924</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Originally 10 households are clustered in this model, but in practice the number of participating households can vary.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effectiveness of the Nyumba Kumi Community Policing Initiative in Kenya</article-title>
+               <volume>1</volume>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://jsep.uonbi.ac.ke/ojs/index.php/jsep/article/view/203"
+                         xlink:type="simple">http://jsep.uonbi.ac.ke/ojs/index.php/jsep/article/view/203</ext-link>
+               <issue>2</issue>
+               <source>Journal of Sustainability, Environment and Peace</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ndono</surname>
+                     <given-names>Phyllis</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Muthama</surname>
+                     <given-names>Nzioka</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Muigua</surname>
+                     <given-names>Kariuki</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <fpage>63</fpage>
+               <lpage>67</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document dated October 4$^th$, 1979 titled: RE. ``Mayumba Kumi'' Vigilante Groups. Authored by D. Wadad Nabudere, Uganda National Liberation Front, Political and Diplomatic Commission.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780429502781</pub-id>
+               <year>2018</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ofcansky</surname>
+                     <given-names>Thomas P.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Uganda: Tarnished Pearl of Africa</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17502977.2018.1501982</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>41</fpage>
+               <lpage>56</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kagoro</surname>
+                     <given-names>Jude</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Crime Preventers Scheme: A Community Policing Initiative for Regime Security in Uganda</article-title>
+               <source>Journal of Intervention and Statebuilding</source>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The crime preventers scheme can be related to long established practices by President Museveni of creating civilian militias, and especially in Northern Uganda during the conflict between the LRA and UPDF. Such groups included the home guard, Local Defence Units (LDU) and the vigilantes. See for example: Tapscott, R. \citepR41 and Janmyr, M. \citepR82</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/18918131.2014.937203</pub-id>
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>32</volume>
+               <issue>3</issue>
+               <fpage>199</fpage>
+               <lpage>219</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Janmyr</surname>
+                     <given-names>Maja</given-names>
+                  </name>
+               </person-group>
+               <article-title>Recruiting Internally Displaced Persons into Civil Militias: The Case of Northern Uganda</article-title>
+               <source>Nordic Journal of Human Rights</source>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Community member in FGD.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interviews with members of communities, local leaders (LC1-3) and FGD.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>see for example: Uganda's Bobi Wine: Pop Star MP Charged with Treason. In BBC News; 2018. Available at: \urlhttps://www.bbc.com/news/world-africa-45282125; Kizza, J. Bobi Wine Charged with treason, remanded to Gulu Prison. Newsvision; 2018 . Available at: \url=https://www.newvision.co.ug/news/1484195/charged-treason-bobi-wine-remanded-gulu-prison</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>See for example: Adebayo, G, Busari, S, Cardovillis, A. Uganda Pop Star MP `Violently Arrested After Being Freed on Bail. CNN; 2019. Available at: \url=https://edition.cnn.com/2018/08/30/africa/popstar-mp-bobi-wine-abducted-intl/index.html; Kasasira, R. 3 Dead in Protests in Uganda's Capital as Bobi Wine Arrested. AP; 2020. Available at: \url=https://apnews.com/article/arrests-kampala-uganda-bobi-wine-341ecaf4afa9d9ef03933f282c96e6d1; Fisayo-Bambi, J. Uganda: Deadly Protest After Bob Wine’s Arrest Leave 7 Dead. Africanews; 2020. Available at: \url=https://www.africanews.com/2020/11/19/deadly-protests-after-bobi-wine-s-arrest-leaves-7-dead//</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>FGD with community members; FGD with members of a criminal group.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R88">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>As my research team and myself experienced personally while stopped along the Kampala-Gulu road by traffic police.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R89">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document dated 14$^th$ October 1983 titled: Transport Problem: Police. Authored by the District Police Headquarters, Gulu District.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R90">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document dated 21$^st$ October 1983 titled: Transport Problem: Police. Authored by S. Charles Alai, Administrative Secretary, Gulu District.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R91">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document dated 27$^th$ January 1983 titled: Beats/Partol Duties. Authored by S.E. Obongowyinge, Regional Police Commander, Northern Region.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R92">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document dated 7$^th$ July, 1998 titled: Community Policing and Crime Prevention Lecture. Authored by the Community Liaison Officer, District Police Headquarters, Gulu District.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R93">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Gulu archive document: dated 8$^th$ February, 1999 titled: Re: Community Policing Lecture. Authored by Kilama Johnson, Community Liaison Officer, Gulu Police Station.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
