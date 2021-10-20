@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2021.17010057</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Theorising Mothers’ Everyday Security in the Context of Irregular Migration</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Cochrane</surname>
+                  <given-names>Brandy</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Wolff</surname>
+                  <given-names>Lotte</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>College of Law and Justice, Victoria University, Melbourne, Australia</aff>
+         <pub-date pub-type="ppub">
+            <day>07</day>
+            <month>10</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue>1</issue>
+         <fpage>57</fpage>
+         <lpage>65</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This paper explores the everyday security of refugee and asylum-seeking mothers before, during and after irregular migration. Based on narrative interviews with mothers residing in Melbourne, we analyse how their needs both do and do not fall into Nussbaum’s capabilities list. We argue that Nussbaum’s framework is not sufficient to capture the gendered aspects of everyday security related to carework. Based on this analysis, we suggest a new framework to understand carework and everyday security in the context of refugee and asylum-seeking women. Centring carework in the discussion of the everyday security of people seeking asylum is a significant step away from traditional security literature and allows mothers’ voices to be highlighted in a unique way. </p>
+         </abstract>
+         <kwd-group>
+            <kwd>asylum seekers</kwd>
+            <kwd>capabilities</kwd>
+            <kwd>everyday security</kwd>
+            <kwd>migration</kwd>
+            <kwd>motherhood</kwd>
+            <kwd>refugees</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Some refugee and asylum-seeking women make dangerous irregular journeys to pursue security for themselves and their children that they are denied in their home countries. The carework mothers perform during these extreme states of insecurity are an exercise of agency that academia often overlooks in literature around irregular migration.</p>
+         <p>Security is a term traditionally associated with, and for, state conduct [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>]. More recently, security of the individual has come into common parlance in the literature in the form of human security. However, feminist critique of human security contends that this perspective is masculine and individualistic in nature [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>]. Feminist security studies argues that security needs to be understood in terms of emancipation, justice and the everyday experiences of human beings [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R5">5</xref>]. This article applies this understanding of security to the experiences of refugee and asylum-seeking mothers which is gendered in nature and is intertwined with the multifaceted nature of motherhood itself.</p>
+         <p>In this paper, we use ‘‘everyday security’’ as a comprehensive term that evokes freedom from, or resilience against, harm in daily life [<xref ref-type="bibr" rid="R6">6</xref>]. It is used in a broad sense within this paper to reorient traditional notions of security away from state actors and gender-neutral, albeit largely masculine notions of individuality, to examine how security projects affect the lived experiences of people. In relation to marginalised gendered experiences, exploring the everyday does not connote normality or evoke comfort, but instead intends to frame an understanding of the risks and issues people face on a daily basis in a changing environment where security concerns are constantly shifting.</p>
+         <p>Understanding everyday security, including how mothers augment and resist state power and its practicalities, is crucial in examining how refugee and asylum-seeking mothers navigate constant insecurity due to state security projects that directly affect their daily lives. In examining everyday security, this paper does not discuss how mothers might obtain a predictable and stable life, but instead highlights the volatility of everyday concerns that refugee and asylum-seeking mothers must navigate for themselves, and how their own security is intertwined with their children. While everyday security is a concern central to all mothers’ lives, the everyday before, during, and after irregular journeys of refugee and asylum-seeking mothers is particularly complicated.</p>
+         <p>Carework is marginalised within mainstream scholarly work, often framed as a ‘‘private’’ rather than public issue [<xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>]. In recent work around family violence, there has been a renewed focus on private household as an area of public concern. For example, literature suggests the effects of family violence need to be viewed with the same level of public outrage as terrorism, given the harm family violence causes to society. The lens of the private as public validates the importance of mothers’ carework as a public issue and a concern of the state, instead of being relegated to the private, domestic sphere.</p>
+         <p>This paper firstly shows how dimensions of gendered carework are components of mothers’ everyday security at all stages of the migration process. It then draws on Nussbaum’s capabilities framework, which goes beyond the idea of a basic human rights framework to show what is needed to gain everyday security, to analyse refugee and asylum-seeking women’s experiences of carework and security.</p>
+         <p>Through this analysis, this paper posits that Nussbaum’s framework is not sufficient to capture mothers’ experience of security in the context of the migratory process. While capabilities are individualistic in nature, the paper examines how security is not always individualistic. This highlights that it is impossible to universalise experiences of oppression to encapsulate all women. Analysis often does not take into account class, racial, cultural, and ethnic diversity, and how these factors contribute to women’s experiences [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>]. A universalist feminist approach is problematic, as it does not account for the gendered specifics of what security looks like for women [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. These issues are central to the narratives of refugee and asylum-seeking mothers whose life experiences do not reflect the same needs of all women.</p>
+         <p>Much of the literature on refugee and asylum-seeking women emphasises their immediate needs for critical assistance at various points of crisis. Carework is often ignored using human rights crisis framework. However, motherhood and carework span these two categories as mothers navigate crisis while attempting to perform everyday mothering work in varying state of precariousness. Both Nussbaum’s framework and much of the literature on refugee and asylum-seeking women do not take into account the dimensions of carework. This calls for a new framework for understanding the role of carework in everyday security for refugee and asylum-seeking mothers.</p>
+         <sec id="s1.1">
+            <title>1.1.- Everyday Gendered Security and The Capabilities Framework</title>
+            <p>The absence of gendered concepts such as carework and women’s mobility within the security literature makes current approaches ill-equipped to deal with the daily issues associated with security that apply to refugee and asylum-seeking mothers. In other words, security operates from a statist and masculine frame that cannot account for the everyday experiences faced by mothers that are agentic in nature, and not a just a series of victimisations at specific crisis points. To encompass fluctuating experiences and performances of agency, it is necessary to reach beyond a simplistic understanding of a mother’s basic needs.</p>
+            <p>The human capabilities framework can assist in examining the everyday security of mothers, which emphasises fundamental human entitlements that extend past the mere naming of rights of individuals to identify whether those rights can in fact be secured [<xref ref-type="bibr" rid="R17">17</xref>]. The capabilities literature makes the connection between rights and what is necessary to address needs regarding everyday security [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]. The capabilities framework emphasises whether or not individuals have the capacity to achieve their own needs rather than relying on others for their provision [<xref ref-type="bibr" rid="R20">20</xref>].</p>
+            <p>The concept of capabilities has evolved the idea of needs from basic survival requirements, such as food and shelter, to a more complex list of social and civic necessities and the ability for the individual to achieve them. Additionally, capabilities bridge some of the gaps experienced by women at the public and private divide by including emotional attachment free of fear, reproductive choices and security against assault.
+</p>
+            <p>Appendix  <xref ref-type="table" rid="TabA1">A1</xref> lists various central human functional capabilities, which invites analysis into how and why these are important in a gendered context [<xref ref-type="bibr" rid="R21">21</xref>]. Nussbaum (2011) [<xref ref-type="bibr" rid="R20">20</xref>] explains this list as fluctuating and evolving. The value of this list, compared to human rights, is that it provides a framework to analyse insecurity that exists despite protection guaranteed by law. An example is places where access to the political process is guaranteed by law, yet women remain harassed, threated, or attacked if they attempt this participation [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. The capabilities framework has also been applied to a number of other populations, including marginalised rural Chinese schoolgirls who later became internally migrating women [<xref ref-type="bibr" rid="R20">20</xref>]. However, this framework has not been specifically explored using stateless mothers as a population group that is involved in irregular migration.</p>
+            <p>Considering the capabilities framework in regards to refugee and asylum-seeking mothers will help reconcile and incorporate understanding of the universal need for individual security as it applies to these specific gendered and geographically fluctuating lived experiences.</p>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methods and Participants</title>
+         <p>The data in this paper is derived from narrative interviews conducted over a one-year period (2016) with refugee and asylum-seeking mothers from Afghanistan and Iran who resided in Melbourne, Australia. Although the data was collected five years ago, the precarity of the situation for people seeking asylum in Australia has remained largely unchanged. This leads us to believe that the aspects of insecurity discussed by the participants about their experiences before, during and after the migratory processes remain relevant today.</p>
+         <p>Interviewees were identified using a snowball sampling technique [<xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>], which resulted in interviews being conducted with 19 mothers from Afghanistan and Iran who were asylum seekers or had refugee status and were living in the Melbourne metropolitan area. We spoke with eight Iranian women and eleven Afghan women in total, mostly with the assistance of an interpreter, although two Iranian women communicated in English. Interviewees ranged between 24 to 50 years-of-age and had from one to seven children whose ages ranged from under one year to 21 years. The majority of the women (18) arrived in Australia between 2011 and 2016, except one Afghan woman who arrived in 2007.</p>
+         <p>Nine women entered Australia by boat, while ten entered by plane. The sample also included women who had spent time in onshore and/or offshore detention centres reopened in 2010 by the Gillard government (9). Fifteen women travelled only with their children, while four travelled with their children and partner. Three were pregnant during their journeys. We have created pseudonyms for participants and their children to protect anonymity.</p>
+         <p>The criteria for participation were flexible regarding the visa type and status of each woman’s refugee application. Some mothers had already received refugee status before arriving while others were awaiting determination on their permanent residency status in Australia. All women undertook an irregular journey into transit countries to the host country, or both. We recruited women from Afghanistan and Iran as they were the most likely to have been involved in irregular travel into Australia via boat according to government statistics [<xref ref-type="bibr" rid="R23">23</xref>]. For example, between 2008 and 2013, the total number of asylum seekers from these countries who arrived in Australia by boat was 11,513 and 7,708 respectively [<xref ref-type="bibr" rid="R23">23</xref>], although available government reports do not provide information about the sex of those leaving specific countries. We chose 2007 as a commencement date for arrival because of substantial changes to asylum-seeker and refugee policies during this year, including the closure of Australia’s offshore detention centres [<xref ref-type="bibr" rid="R24">24</xref>].</p>
+         <p>The women with whom we spoke were delineated by mode of entry and country of origin. The majority of mothers we spoke to from Afghanistan spent significant time in transit countries, mainly Pakistan, after they fled their home country. Afghan mothers who spent extended periods in Pakistan identified poverty and a lack of legal status as major stressors on their carework roles. Many had no saved money before fleeing Afghanistan. In most cases, their husbands attempted the boat journey to Australia, so mothers were responsible for all carework and providing household income.</p>
+         <p>Pakistan is also not a signatory of the United Nations (UN) Refugee Convention, so the UN High Council on Refugees conducts the refugee status determination, which is a lengthy and complex process. All bar one of the Afghan women we spoke to had arrived in Australia by plane on a partner’s humanitarian visa after spending years in Pakistan. However, the humanitarian visa provided these women with permanent visa status, access to welfare benefits and the right to work upon arrival. This was not the case for the Iranian women with whom we spoke, as all were living in the community on temporary or bridging visas after undertaking the journey through transit countries and by boat to Australia.</p>
+         <p>During the interviews, we prompted women to reflect on their roles as mothers before, during, and after their irregular border crossings. The narrative interview was used to promote everyday conversational interaction, by way of story-telling and listening, to produce data [<xref ref-type="bibr" rid="R21">21</xref>] about the things that mattered in these women’s lives [<xref ref-type="bibr" rid="R25">25</xref>] and to develop an understanding of how each participant constructs their identity [<xref ref-type="bibr" rid="R26">26</xref>]. This approach centres on discovering marginalised voices to challenge normalised or silenced discourses of the accounts of everyday security for women as mothers and carers, rather than focusing on victimisation that women may have experienced during their journeys. In other words, the emphasis on motherhood created a space of agency for mothers to guide the interviews around experiences of security, self, and children. The semi-structured narratives driven by the participants allowed the interviews to be placed within mothers’ comfort zones, and provided the opportunity to explore themes and discuss experiences that were most important for them [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>].</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Analysis and Discussion</title>
+         <p>Using Nussbaum’s framework, four core themes emerged from mothers’ narratives under which a myriad of other everyday security needs fell. These were 1. Basic Needs; 2. Bodily Security; 3. Isolation/Separation; and 4. Increased Carework. While other related needs existed, these four categories of everyday security allow for a discussion of mothers’ agency during their journeys to manage a variety of interrelated needs. These needs were experienced to various extents in their home country, transit country, during the boat journey, in detention centres and in their host country.</p>
+         <p>Nussbaum’s (2011) [<xref ref-type="bibr" rid="R20">20</xref>] capabilities list aids in incorporating some of the gendered security issues that emerge for refugee and asylum-seeking mothers, especially in regards to basic needs and bodily security. These will be briefly discussed in turn below to show refugee mothers’ needs in light of the capabilities framework in ways that address their everyday security, before exploring how other needs fall outside of this frame.</p>
+         <sec id="s3.1">
+            <title>3.1.- Basic Needs</title>
+            <p>Basic needs mainly fall under the second capability: bodily health. This capability focuses specifically on having good health, which includes reproductive health and shelter. The basic need is expanded in the host country to include capability number 10, which is control over one’s own environment. The capability addresses both the right to the political realm and material realm, including the ability to hold property and seek employment.</p>
+            <p>Basic needs were a thread that wound through home, transit and host countries. Many Afghan mothers spent significant time in transit countries, such as Pakistan.</p>
+            <p>One example is Mina, an Afghan mother of four. She describes the several years she spent trying to make ends meet while in Pakistan while her husband was attempting the boat journey to Australia.</p>
+            <p>
+               <italic>And so I was able to take my smallest daughter with me to work cleaning houses, but I had to lock the other children at home. When I was cleaning in that place, I used to leave my second daughter at home to look after the other two boys. And sometimes the other one who would stay at home when she found small jobs for work. Mostly she had to sew scarves and she got some money for that.</italic>
+            </p>
+            <p>Natkai, an Afghan mother of three, states that even in Australia her family was struggling to attain basic needs.</p>
+            <p>
+               <italic>We are very low income people in here because the government don’t buy us that much. And we are not allowed to work as well. The thing is the money I receive from government is only little—not even enough for the bills and house rent. They cannot buy clothes for my children, my children cannot have proper food. Nothing like that. I say the government could provide better opportunity.</italic>
+            </p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Bodily Security</title>
+            <p>Bodily security falls under several needs (1, 2 and 3) before, during, and after migration. The first capability is life and encompasses the right to normal life expectancy for an individual. The second is bodily health. The third is bodily integrity which addresses movement of self, as well as security against assault, including sexual assault and family violence. The opportunity for sexual satisfaction and choices regarding reproduction is also part of this category. Bodily security is not included in the host country, as this capability did not come up in mothers’ narratives about their Australian experience. The fact that it did not emerge is likely indicative of increased security for women within Australia in comparison with their home or transit countries.</p>
+            <p>In home countries, mothers expressed major concerns regarding fears for the lives of their children. Kashmala, an Afghan mother of five, describes how her baby daughter died after a nearby bombing.</p>
+            <p>
+               <italic>I have no clue what happened. First there was a big explosion, a bomb right near my home. The baby was inside with me in my home when the bomb exploded. But then two days later she died… My baby died. I knew we had to leave then. I could not keep the other children safe.</italic>
+            </p>
+            <p>Another example is from Adan, Iranian mother of one child, who explains why she left her home country:
+</p>
+            <p>
+               <italic>In Iran my family, everyone, tells me to marry this man I did not love. But then I get pregnant with the man I love. For the Iranian government, the young boy and girl, they cannot go come together in this way. That is a crime—the couple can be put in prison, the government can slash them, they can stone them. We had to run away from Iran.</italic>
+            </p>
+            <p>Bodily security during transit was an issue for all mothers. Whether undertaking dangerous boat journeys or spending years in Pakistan or months in Malaysia, every mother talked about fear, with most fears involving the safety of their children.</p>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Isolation and Separation</title>
+            <p>Mothers’ isolation and separation from family members, children, and partners can also be identified under the capabilities framework. We have categorised these issues under capability number five that speaks to emotional attachments not affected by fear. This capability helps to encompass what mothers described in relation to the fear they felt when separated from partners for months or years and the concern that they held for children and parents who remained behind in the home country.</p>
+            <p>For example, Sabine, an Iranian mother of three, describes having to leave her two sons behind in Iran with her mother-in-law, because she could not afford to bring all of her children on the boat.</p>
+            <p>
+               <italic>There is no choice because when you escape from the war and you are not stable, there is no choice. I cannot take them all. The boys, they cannot settle down somewhere new right now … They study in Iran, it’s easy for them to study. Not so for my daughter and she is so young. We three go and then the boys can come when we are stable. When we are permanent…For now we send back everything we can for books and things they need.</italic>
+            </p>
+            <p>Breshna, mother of seven, describes how she is separated from her unwell mother after Australia denied the application for family reunification with her mother’s name on it.</p>
+            <p>
+               <italic>My mother was very ill, I put her in to sponsor her with us, but Australia did not accept her. And because of her, we couldn’t come, so we had to get rid of her name. Even though she didn’t have anyone else close by. I had to send her to my other relative who were very far, not a close friend, but I sent her to live with them because there was no choice. And monthly, a small amount of money I send, but even I cannot do that always. But she is living with some other people. I worry because it is not safe for her to be there.</italic>
+            </p>
+            <p>Kashmala, a mother of five from Afghanistan, has access to full refugee benefits and her husband is trying to find a job to help them financially. However, while he is searching for a job, she is isolated with her children in a hotel room.</p>
+            <p>
+               <italic>The difficulty that I had when I first arrived was because we are very low income. My husband don’t know the language. I don’t know the language. My husband can’t find job. I have to stay with kids in a bad hotel for months to try to save for house.</italic>
+            </p>
+            <p>Themes of isolation and separation emerge in many of the women’s narratives. The capabilities framework aids in understanding how these circumstances expand past straightforward understandings of essentials, past the more easily identifiable bodily security and basic needs.</p>
+         </sec>
+         <sec id="s3.4">
+            <title>3.4.- Carework</title>
+            <p>However, the gendered analysis of narratives from refugee and asylum-seeking mothers using a capabilities framework does not encompass some of the basic aspects of motherhood that are inherently complicated. How mothers navigate the increasing complexity of carework are less visible. Capability number nine contains an asterisk to connote that carework is briefly touched on in regards to play.</p>
+            <p>Nussbaum ([<xref ref-type="bibr" rid="R20">20</xref>], p. 220) briefly talks about the ‘‘double duty’’ of employment and care that means women ‘‘lack opportunity for play and the cultivation of their imaginative and cognitive facilities’’.</p>
+            <p>However, this brief acknowledgement does not encompass the daily insecurity of mothers during the time of conflict and migration. A typical example of experiences of carework during irregular journeys is Jelveh, a 37-year-old mother of two children. In this quote, she describes trying to take care of two sick children and herself during the four-day journey from Indonesia to Christmas Island.</p>
+            <p>
+               <italic>I was really bad and sick at the time and I couldn’t really—my kids were vomiting all the time. I was like a dead person because I was so sick. One of the Iranian men that I stayed with in Jakarta used to mind my son, who is like a few years old. They were like sitting on the edge of the boat for hours and my son was just vomiting all the time. Also because my daughter has asthma, and I didn’t want her to get asthma attack or get sick, I used to like take off my clothes to take her against my chest, put on the clothes again and then the rain jacket over us and hope she wouldn’t get sick.</italic>
+            </p>
+            <p>Another example that falls outside of the realm of capabilities is shared carework among mothers, or in this example, mothers caring for those without mothers. Returning to Sabine’s narrative, she discussed caring for the unaccompanied minor boys who were also on the boat during her journey.</p>
+            <p>
+               <italic>We became like one big family together. There are all these boys and all of them I was the mother of on the boat, in detention, now even here. They are 15, 16, 17 and 18 year-old-boys. All the time they need something—because it’s very hard for kids far away from their mothers. They came alone and we were a good family together now… They are good boys. They tell me their stories—everyone tells me their stories of what they saw before. The boys came without any father and mother… I am a mother to all them now.</italic>
+            </p>
+            <p>While we realise that capabilities are a call for basic human rights, the narratives of the women whom we spoke to, deprioritised things like play and cultivation at the expense of more pressing issues regarding everyday security and the performance of carework roles that also fall outside of ‘‘basic needs’’.</p>
+            <p>Even with Nussbaum’s more basic rights, it is difficult to situate factors such as economic insecurity, increased carework, and personal responsibility, especially in an unstable state or during migration when erratic eruptions of violence and uncertainty are experienced by mothers. To simply categorise this as ‘‘life’’ or ‘‘bodily health’’ is too simple. As Natkai, an Afghan mother, reminds us in her narrative:</p>
+            <p>
+               <italic>If I had advice to other mothers who migrate with children, I would say whatever is their destiny is their destiny, I don’t want to say that much. But, all I want to say is that it is not easy to come and there will be many difficulties that they have to face. But they will be safe here, even when it all seems so hard to find the things you need.</italic>
+            </p>
+            <p>Nussbaum’s capabilities are also an issue as she consistently uses the term ‘‘citizen’’ which marginalises the needs, experiences, and agency of refugee and asylum-seeking mothers [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. This term is not inclusive of those who do not have citizenship status, are stateless, or are only on temporary visas. An asylum-seeking mother of two from Iran, Naji’s, expressed the lack of legal status within Australia, which is not accounted for in capabilities, as her biggest concern.</p>
+            <p>
+               <italic>I can go wherever I want here and there is lots of support from doctors and people. I have done everything to make a good way for my kids and the only thing I worry is that they deport me back to my country. And with all I have been through and to do something for my kids and—the only thing I don’t want to ever have happen to me, like they send me back to my home and then I am filled with dread. I have worked so hard to get this safety for my son.</italic>
+            </p>
+            <p>This discussion is not intended to inexorably link women only to the ‘mother/children’ category, but rather to create space for the role of motherhood within the discussion of women’s security in the context of migration. Mina, a mother of four, describes how the agency she exerted to leave Afghanistan is felt by other mothers, but they may not have the same chance to find security for themselves and their children.</p>
+            <p>
+               <italic>I wanted to come to Australia because I feel like if you come to Australia that something is good there. That it feels happy to go. There are other people who are like me—they are scared their children will not live. If it was up to me, I would have said come to them. But I cannot and they are still waiting for their chance. I hope that they would come, but I am not the only one who is like this. Many people are the same. They just want to live well with their children and be happy.</italic>
+            </p>
+            <p>The capabilities framework is both useful, yet not fully able to address specific security needs of stateless mothers based on the narratives of their everyday experiences. We do not suggest we should simply ignore the important work that capabilities can bring to these everyday security discourses. Rather, in attempting to universalise a capabilities list for all people, the differing gendered consequences simply fade, as do the lives of children who are intertwined with a mother’s experience. Instead of a universalised understanding of rights that still remains gender neutral and static, we reconceptualise refugee and asylum-seeking mothers’ security based on their own narratives. The next section places carework at the centre of a model that assists in creating a cohesive theoretical structure of security at the confluence of motherhood, irregular migration, and asylum.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Reconceptualisation</title>
+         <p>Issues regarding carework and precarious security identified by refugee and asylum-seeking mothers that are present in the transnational and migration mothering literature (see [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>]) are rare in security discourse. The capabilities list assists in discussing agency and security for the individual, but ignores factors associated with migration and motherhood. With this understanding, this section reconceptualises a model of everyday security that reflects the concerns of refugee and asylum-seeking mothers based on their narratives, which privileges their self-identified needs. The data directs attention towards centering carework and its performance by mothers. The concept of carework, therefore, is central to reconceptualizing security.</p>
+         <p>Talking specifically about economics, Mehrotra (2014) [<xref ref-type="bibr" rid="R8">8</xref>] makes the point about centring women’s voices in theoretical frameworks.</p>
+         <p>
+            <italic>…a capability-driven theoretical framework—which explicitly recognises the centrality of women’s agency—must inform the policy framework in order to trigger the synergies between economic growth, income-poverty reduction and health/education improvements that presumably are the goal of development theorists and practitioners of all persuasions. This alternative theoretical framework also tries to establish why the capabilities and agency of women … are far more central to this transformation than mainstream economists care to recognise, partly because of mainstream economics’ inability to recognise the gender dimensions of intra-household dynamics</italic> ([<xref ref-type="bibr" rid="R8">8</xref>], p. 275).</p>
+         <p>She highlights how the important gendered structures that occur at the household level are necessary to understand the agency of mothers. Focusing on the complications to mothers’ everyday security due to irregular migration, and liminal gendered citizenship, we conceptualise a framework to understand everyday security in a gendered migratory context.</p>
+         <p>States and international actors do not address basic needs, bodily safety, insecure citizenship, and isolation before, during, and after irregular journeys. The states of Afghanistan, Iran, and Australia all fail in varying ways to meet needs of care for mothers [<xref ref-type="bibr" rid="R2">2</xref>]. Viewing carework as a public issue that is affected by states and their power structures allows examination of the everyday security of refugee and asylum-seeking mothers as a state issue, not a private one.</p>
+         <p>Carework needs to be situated at the centre of our understanding of everyday security for women. Figure one can be thought of as the twisting of three dials that all affect the centrepoint of carework. The diagram indicates how spatial, temporal, and other factors identfied by the participants put pressure onto carework. The outer ring represents state spatialities, the middle ring temporal ‘‘inbetween’’ spaces, and the inner ring encompasses the specific pressures identified by mothers. The diagram is circular to show the flux of relationships and bring clearer understanding of how these three distinct components interlock and affect the everyday performance of carework. The circle does not remain in a perfect shape as factors place pressure on the centre during different stages of migration. The retheorisation captures not only the gendered nuances of security but also the factors of mobility and temporality.</p>
+         <p>Citizenship for women is compromised throughout the world’s geographic locations. The theme of place is necessary in discussing security as women’s citizenship fluctuates based on reproduction rights, practices and laws in regards to violence against women, and the practices of motherhood and carework. The outer ring identifies the spaces that mothers discussed in their narratives, which reflect specific pressures in the home country, transit country, and host country. These pressures vary in transit from home to destination countries due to uncertainty in the forms of citizenship (or lack thereof), incarceration, repatriatation, and deportation.</p>
+         <p>Refugee and asylum-seeking mothers have shown immense resilience towards their insecurity throughout their journeys despite complicated and intersecting pressures. The carework mothers perform in these circumstances illuminates the processes of agency that mothers build to obtain everyday security for themselves and their children. The depiction of these factors in diagram one involves neither temporal points on a line, nor a cycle of causes and effects. Instead, there is a relationship that shifts over time that mothers must navigate as it changes form. We have depicted this by placing a transparent circle over the needs to show how they interact with carework.</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label> Figure 1</label>
+            <caption>
+              
+               <title>Dial of Carework Pressures.</title>
+            </caption>
+            <graphic xlink:href="Fig1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>The last ring at the centre represents carework, which is the most significant theme identified by refugee and asylum-seeking mothers in regards to everyday security. The four catgories that surround and place pressure on carework come from mothers’ narratives: Bodily Security, Structrual Inequalities, Basic Needs, and Gendered Citizenship. These categories assist in grounding and streamlining the needs identified by refugee and asylum seeking mothers throughout their narratives. These needs are not meant to connote a single pressure, but rather an interrelated set of complexities that affect carework.</p>
+         <p>Throughout the migratory process, different needs intensify and compress upon everyday carework. The spinning dials allow a visual understanding of the factors associated with increased carework in distinct spaces, at distinct times, and in varying circumstances.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>This conceptaulisation of everyday security that centres carework can be applied in a number of other realms such as family violence, reproductive rights, and other issues where women are or should be at the heart of discussions around security. In a recent report by Zufferey et al. (2016) they describe how family violence affected women’s everyday security in various ways. Mothers who were victims of family violence were found to have decreased work hours and lower positions in their jobs, less stable housing after leaving a partner, high instances of diagnosed mental illness during or after family violence, and lower social participation during instances of family violence [<xref ref-type="bibr" rid="R9">9</xref>]. Women described how the increased responsibility of caring for children due to family violence affected their ability to work and socialise. A security frame that incorporates these consequences identifies what is at stake for mothers in situations of violence and liminal citizenship in the everyday.</p>
+         <p>By addressing pressures on carework, we also identify the issues that can be addressed to aid mothers in obtaining everyday security. State action and inaction in regarding the needs of refugees and asylum seekers has lead directly to pressures discussed by mothers in their narratives [<xref ref-type="bibr" rid="R2">2</xref>]. In fact, there are circumstances where the mother must act in lieu of state, as the needs associated with having children and undertaking carework go unaddressed. The centring of carework also highlights the inadequencies of Australia’s onshore and offshore detention systems. Australian detention centres are not mother- and child-sensitive [<xref ref-type="bibr" rid="R2">2</xref>]. For example, children are born on mainland Australia without citizenship because pregnant women are brought from offshore detention centres that have no capability for pre- and post-natal care [<xref ref-type="bibr" rid="R23">23</xref>].</p>
+         <p>It is essential to recognise that our conclusions intend to privilege the voices and needs of the refugee and asylum-seeking mothers. In creating this diagram, we are attempting to address the lack of security focus of these mothers. We acknowledge there are many barriers to achieving change, and some will most certainly receive more political resistance than others, while others are not likely to be politically achievable at all given the current worldwide stance on sovereign control of borders.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgments</title>
+         <p>Thank you to the amazing mothers who shared their stories by participating in this project and to their wonderful children for the joy they brought to every interview.</p>
+      </sec>
+      <sec id="s9">
+         <title>Appendix</title>
+         <table-wrap id="TabA1" position="float" orientation="portrait">
+            <label>Table A1</label>
+            <caption>
+               <title>Capabilities List.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>1. Life</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Right to normal life expectancy
+            </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>2. Bodily Health</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Focuses specifically on having good health, including reproductive health, and shelter
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>3. Bodily Integrity</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Refers to movement of self and security against assault, including sexual assault and family violence; In this same category is the opportunity for sexual satisfaction and choices regarding reproduction
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>4. Senses/Imagination/Thought</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Encompasses things like access to education, religious freedom, and right to political/artistic expression
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>5. Emotions</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Speak to attachment and not having emotional attachments affected by fear
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>6. Practical Reason</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Explores conceptions of good and being able to reflect on one’s life
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>7. Affiliation</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Two parts that hold up ideas of justice, compassion, friendship and self-respect, including equal rights and political assembly
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>8. Other Species</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Examines being able to interact with other species and the world of nature
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>9. Play</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Focuses on enjoying leisure activities
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>10. Control over One’s Own Environment</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Looks at both the political realm and the material realm, including holding property and seeking employment
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Barkawi</surname>
+                     <given-names>Tarak</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Laffey</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1017/S0260210506007054</pub-id>
+               <source>Review of International Studies</source>
+               <issue>2</issue>
+               <fpage>329</fpage>
+               <lpage>352</lpage>
+               <publisher-name>Victoria University</publisher-name>
+               <article-title>The Postcolonial Moment in Security Studies</article-title>
+               <volume>32</volume>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cochrane</surname>
+                     <given-names>Brandy</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1093/jrs/fey056</pub-id>
+               <source>Journal of Refugee Studies</source>
+               <fpage>1</fpage>
+               <lpage>21</lpage>
+               <article-title>Harms at the Crossroads of Carework and Irregular Migration</article-title>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huysmans</surname>
+                     <given-names>Jef</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Routledge</publisher-name>
+               <article-title>Security Unbound: Enacting Democratic Limits</article-title>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Women's Empowerment in the Context of Human Security: A Discussion Paper: Background Document for the Joint Workshop of the UN Inter-Agency Committee on Women and Gender Equality and the OECD/DAC Working Party on Gender Equality on Women's Empowerment in the Context of Human Security</article-title>
+               <conf-loc>Bangkok, TH</conf-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Woronik</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <month>December 7-8</month>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Blanchard</surname>
+                     <given-names>Eric M</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <fpage>1289</fpage>
+               <lpage>1312</lpage>
+               <article-title>Gender, International Relations, and the Development of Feminist Security Theory</article-title>
+               <volume>28</volume>
+               <source>Signs: Journal of Women in Culture and Society</source>
+               <pub-id pub-id-type="doi">10.1086/368328</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Crawford</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hutchinson</surname>
+                     <given-names>Steven</given-names>
+                  </name>
+               </person-group>
+               <source>British Journal of Criminology</source>
+               <issue>6</issue>
+               <fpage>1184</fpage>
+               <lpage>1202</lpage>
+               <article-title>Mapping the Contours of `Everyday Security': Time, Space and Emotion</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/profile/Adam\_Crawford/publication/288455353\_Mapping\_the\_Contours\_of\_'Everyday_Security'\_Time\_Space\_and\_Emotion/links/56814b5608ae051f9aec3b08.pdf"
+                         xlink:type="simple">https://www.researchgate.net/profile/Adam\_Crawford/publication/288455353\_Mapping\_the\_Contours\_of\_'Everyday_Security'\_Time\_Space\_and\_Emotion/links/56814b5608ae051f9aec3b08.pdf</ext-link>
+               <volume>56</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Elias</surname>
+                     <given-names>Juanita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rai</surname>
+                     <given-names>Shirin</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1017/S1743923X15000148</pub-id>
+               <source>Politics &amp; Gender</source>
+               <issue>02</issue>
+               <fpage>424</fpage>
+               <lpage>429</lpage>
+               <article-title>The Everyday Gendered Political Economy of Violence</article-title>
+               <volume>11</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mehrotra</surname>
+                     <given-names>Santosh</given-names>
+                  </name>
+               </person-group>
+               <source>Capabilities, Gender, Equality: Towards Fundamental Entitlements</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Comim</surname>
+                     <given-names>Flavio and Nussbaum, Martha C.</given-names>
+                  </name>
+               </person-group>
+               <fpage>274</fpage>
+               <lpage>307</lpage>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <article-title>The Capabilities of Women: Towards an Alternative Framework for Developement</article-title>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zufferey</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chung</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Franzway</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wendt</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moulding</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0886109915626213</pub-id>
+               <source>Affilia</source>
+               <issue>4</issue>
+               <fpage>463</fpage>
+               <lpage>478</lpage>
+               <article-title>Intimate Partner Violence and Housing: Eroding Womens Citizenship</article-title>
+               <volume>31</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <publisher-loc>Cheltenham, EN</publisher-loc>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hobson</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lister</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+               </person-group>
+               <article-title>Contested Concepts in Gender and Social Politics</article-title>
+               <fpage>23</fpage>
+               <lpage>54</lpage>
+               <publisher-name>Edward Elgar</publisher-name>
+               <chapter-title>Citizenship</chapter-title>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hudson</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0967010605054642</pub-id>
+               <source>Security Dialogue</source>
+               <issue>2</issue>
+               <fpage>155</fpage>
+               <lpage>174</lpage>
+               <article-title>`Doing' Security As Though Humans Matter: A Feminist Perspective on Gender and the Politics of Human Security</article-title>
+               <volume>36</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilcock</surname>
+                     <given-names>Scarlet</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>113</fpage>
+               <article-title>Policing Welfare: Risk, Gender and Criminality</article-title>
+               <volume>5</volume>
+               <source>International Journal for Crime, Justice and Social Democracy</source>
+               <pub-id pub-id-type="doi">10.5204/ijcjsd.v5i1.296</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoogensen</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0967010606066436</pub-id>
+               <issn>0967-0106</issn>
+               <source>Security Dialogue</source>
+               <issue>2</issue>
+               <fpage>207</fpage>
+               <lpage>228</lpage>
+               <article-title>Gender, Resistance and Human Security</article-title>
+               <volume>37</volume>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Svensson</surname>
+                     <given-names>Katja</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/10246029.2007.9627412</pub-id>
+               <issn>1024-6029</issn>
+               <source>African Security Review</source>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>13</lpage>
+               <article-title>Human Security as Inclusive Security—Gender, Epistemology and Equality</article-title>
+               <volume>16</volume>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tripp</surname>
+                     <given-names>Ali Mari</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ferree</surname>
+                     <given-names>Myra-Marx</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ewig</surname>
+                     <given-names>Christina</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>New York University Press</publisher-name>
+               <article-title>Gender, Violence, and Human Security: Critical Feminist Perspectives</article-title>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>True</surname>
+                     <given-names>Jacqui</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Columbia University Press</publisher-name>
+               <article-title>Gender, Globalization, and Postsocialism: The Czech Republic after Communism</article-title>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Amartya</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Human Development</source>
+               <issue>2</issue>
+               <fpage>151</fpage>
+               <lpage>166</lpage>
+               <article-title>Human Rights and Capabilities</article-title>
+               <volume>6</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nussbaum</surname>
+                     <given-names>Martha C.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1080/19452829.2014.983890</pub-id>
+               <source>Journal of Human Development and Capabilities</source>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>14</lpage>
+               <article-title>Philosophy and Economics in the Capabilities Approach: An Essential Dialogue</article-title>
+               <volume>16</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nussbaum</surname>
+                     <given-names>Martha C.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <article-title>Women and Human Development: The Capabilities Approach</article-title>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nussbaum</surname>
+                     <given-names>Martha C.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Harvard University Press</publisher-name>
+               <article-title>Creating Capabilities</article-title>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Meter, K. M.</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/075910630006800126</pub-id>
+               <issn>0759-1063</issn>
+               <source>Bulletin de M\'ethodologie Sociologique</source>
+               <fpage>59</fpage>
+               <lpage>78</lpage>
+               <publisher-name>SAGE Publications</publisher-name>
+               <article-title>Sensitive Topics - Sensitive Questions: Overview of the Sociological Research Literature</article-title>
+               <volume>68</volume>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Noy</surname>
+                     <given-names>Chaim</given-names>
+                  </name>
+               </person-group>
+               <source>International Journal of Social Research Methodology</source>
+               <issue>4</issue>
+               <fpage>327</fpage>
+               <lpage>344</lpage>
+               <article-title>Sampling Knowledge: The Hermeneutics of Snowball Sampling in Qualitative Research</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://nbn-resolving.de/urn:nbn:de:0168-ssoar-53861"
+                         xlink:type="simple">http://nbn-resolving.de/urn:nbn:de:0168-ssoar-53861</ext-link>
+               <volume>11</volume>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Department of Immigration and Citizenship (DIAC) in Australia</publisher-name>
+               <article-title>Asylum Trends 2011-12 Annual Publication</article-title>
+               <year>2012</year>
+               <publisher-loc>Belconnen, AUS</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.homeaffairs.gov.au/research-and-stats/files/asylum-trends-aus-annual-2011-12.pdf"
+                         xlink:type="simple">https://www.homeaffairs.gov.au/research-and-stats/files/asylum-trends-aus-annual-2011-12.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pickering</surname>
+                     <given-names>Sharon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weber</surname>
+                     <given-names>Leanne</given-names>
+                  </name>
+               </person-group>
+               <article-title>Borders, Mobility and Technologies of Control</article-title>
+               <fpage>1</fpage>
+               <lpage>19</lpage>
+               <publisher-name>Springer Netherlands</publisher-name>
+               <chapter-title>Borders, Mobility and Technologies of Control</chapter-title>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mason</surname>
+                     <given-names>Jennifer</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1111/j.1467-954X.2004.00463.x</pub-id>
+               <source>The Sociological Review</source>
+               <issue>2</issue>
+               <fpage>162</fpage>
+               <lpage>179</lpage>
+               <publisher-name>Blackwell Publishing Ltd</publisher-name>
+               <article-title>Personal Narratives, Relational Selves: Residential Histories in the Living and Telling</article-title>
+               <volume>52</volume>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bamberg</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/0959354309355852</pub-id>
+               <source>Article Theory &amp; Psychology</source>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>22</lpage>
+               <article-title>Who am I? Narration and its Contribution to Self and Identity</article-title>
+               <volume>21</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bauer</surname>
+                     <given-names>Martin W</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gaskell</surname>
+                     <given-names>G</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Sage</publisher-name>
+               <article-title>Qualitative Researching with Text, Image and Sound: A Practical Handbook</article-title>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nussbaum</surname>
+                     <given-names>Martha C.</given-names>
+                  </name>
+               </person-group>
+               <source>International Labour Review</source>
+               <issue>3</issue>
+               <pub-id pub-id-type="doi">10.1111/j.1564-913X.1999.tb00386.x</pub-id>
+               <fpage>227</fpage>
+               <lpage>245</lpage>
+               <article-title>Women and Equality: The Capabilities Approach</article-title>
+               <volume>138</volume>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Parre\ nas, Rhacel Salazar</surname>
+                  </name>
+               </person-group>
+               <source>Feminist studies</source>
+               <issue>2</issue>
+               <fpage>361</fpage>
+               <lpage>390</lpage>
+               <article-title>Mothering from a Distance: Emotions, Gender, and Intergenerational Relations in Filipino Transnational Families</article-title>
+               <volume>27</volume>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hondagneu-Sotelo, Pierrette</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Avila</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <source>Gender &amp; Society</source>
+               <issue>5</issue>
+               <fpage>548</fpage>
+               <lpage>571</lpage>
+               <article-title>``I'm Here, but I'm There'' the Meanings of Latina Transnational Motherhood</article-title>
+               <volume>11</volume>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huang</surname>
+                     <given-names>Shirlena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yeoh</surname>
+                     <given-names>Brenda</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <fpage>379</fpage>
+               <lpage>400</lpage>
+               <article-title>Transnational Families and their Children's Education: China's `study mothers' in Singapore</article-title>
+               <volume>5</volume>
+               <source>Global Networks</source>
+               <pub-id pub-id-type="doi">10.1111/j.1471-0374.2005.00125.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zimmerman</surname>
+                     <given-names>Mary K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Litt</surname>
+                     <given-names>Jacquelyn S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bose</surname>
+                     <given-names>Christine E</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Stanford University Press</publisher-name>
+               <article-title>Global Dimensions of Gender and Carework</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://books.google.com.au/books?hl=en&amp;lr=&amp;id=fwITH\_QLXWUC&amp;oi=fnd&amp;pg=PP15&amp;dq=zimmerman+transnational+mothering&amp;ots=395WpgT2aO&amp;sig=Er46eYJS-jxIUccMVYarFLvF1jI\#v=onepage&amp;q=zimmerman transnational mothering&amp;f=false"
+                         xlink:type="simple">https://books.google.com.au/books?hl=en&amp;lr=&amp;id=fwITH\_QLXWUC&amp;oi=fnd&amp;pg=PP15&amp;dq=zimmerman+transnational+mothering&amp;ots=395WpgT2aO&amp;sig=Er46eYJS-jxIUccMVYarFLvF1jI\#v=onepage&amp;q=zimmerman transnational mothering&amp;f=false</ext-link>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
