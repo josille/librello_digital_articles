@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formulas xmlns:xlink="http://www.w3.org/1999/xlink">
+   <Math xmlns="http://dlmf.nist.gov/LaTeXML"
+         xmlns:m="http://www.w3.org/1998/Math/MathML"
+         mode="inline"
+         xml:id="S2.SS2.p4.m1"
+         tex="\mid"
+         text="mid"
+         fragid="S2.SS2.p4.m1">
+      <m:math alttext="\mid" display="inline">
+         <m:mo>∣</m:mo>
+      </m:math>
+   </Math>
+   <Math xmlns="http://dlmf.nist.gov/LaTeXML"
+         xmlns:m="http://www.w3.org/1998/Math/MathML"
+         mode="inline"
+         xml:id="S2.SS2.p4.m2"
+         tex="\mid"
+         text="mid"
+         fragid="S2.SS2.p4.m2">
+      <m:math alttext="\mid" display="inline">
+         <m:mo>∣</m:mo>
+      </m:math>
+   </Math>
+   <Math xmlns="http://dlmf.nist.gov/LaTeXML"
+         xmlns:m="http://www.w3.org/1998/Math/MathML"
+         mode="inline"
+         xml:id="S2.SS2.p4.m3"
+         tex="\mid"
+         text="mid"
+         fragid="S2.SS2.p4.m3">
+      <m:math alttext="\mid" display="inline">
+         <m:mo>∣</m:mo>
+      </m:math>
+   </Math>
+</formulas>
