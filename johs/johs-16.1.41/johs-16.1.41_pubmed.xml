@@ -245,61 +245,41 @@ In the second stage, the author conducted a survey among the residents of the la
             <label> Figure 1</label>
             <caption>
                <title>Major air pollutants in Europe, clustered according to impacts on human health, ecosystems, and climate
-                  [<xref ref-type="bibr" rid="R32">32</xref>]. Pollutants, from left to right: sulfur dioxide (SO <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
-                     xmlns:m="http://www.w3.org/1998/Math/MathML"
-                     mode="inline"
-                     xml:id="S6.p8.m1"
-                     tex="{}_{2}"
-                     text="_2"
-                     fragid="S6.p8.m1">
-                     <mml:math alttext="{}_{2}" display="inline">
+                  [<xref ref-type="bibr" rid="R32">32</xref>]. Pollutants, from left to right: sulfur dioxide (SO <inline-formula>
+                     
+                        <mml:math id="S6.p8.m1" alttext="{}_{2}" display="inline">
                         <mml:msub>
                            <mml:mi/>
                            <mml:mn>2</mml:mn>
                         </mml:msub>
                      </mml:math>
-                  </Math></inline-formula> ), nitrogen oxides (NO <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
-                     xmlns:m="http://www.w3.org/1998/Math/MathML"
-                     mode="inline"
-                     xml:id="S6.p8.m2"
-                     tex="{}_{x}"
-                     text="_x"
-                     fragid="S6.p8.m2">
-                     <mml:math alttext="{}_{x}" display="inline">
+                  </inline-formula> ), nitrogen oxides (NO <inline-formula>
+                     
+                        <mml:math id="S6.p8.m2" alttext="{}_{x}" display="inline">
                         <mml:msub>
                            <mml:mi/>
                            <mml:mi>x</mml:mi>
                         </mml:msub>
                      </mml:math>
-                  </Math></inline-formula> ), carbon monoxide (CO), ammonia (NH <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
-                     xmlns:m="http://www.w3.org/1998/Math/MathML"
-                     mode="inline"
-                     xml:id="S6.p8.m3"
-                     tex="{}_{3}"
-                     text="_3"
-                     fragid="S6.p8.m3">
-                     <mml:math alttext="{}_{3}" display="inline">
+                  </inline-formula> ), carbon monoxide (CO), ammonia (NH <inline-formula>
+                     
+                        <mml:math id="S6.p8.m3" alttext="{}_{3}" display="inline">
                         <mml:msub>
                            <mml:mi/>
                            <mml:mn>3</mml:mn>
                         </mml:msub>
                      </mml:math>
-                  </Math></inline-formula> ),
+                  </inline-formula> ),
                   particulate matter (PM), non-methane volatile organic compounds (NMVOC), polycyclic aromatic hydrocarbons (PAH),
-                  methane (CH <inline-formula><Math xmlns="http://dlmf.nist.gov/LaTeXML"
-                     xmlns:m="http://www.w3.org/1998/Math/MathML"
-                     mode="inline"
-                     xml:id="S6.p8.m4"
-                     tex="{}_{4}"
-                     text="_4"
-                     fragid="S6.p8.m4">
-                     <mml:math alttext="{}_{4}" display="inline">
+                  methane (CH <inline-formula>
+                     
+                        <mml:math id="S6.p8.m4" alttext="{}_{4}" display="inline">
                         <mml:msub>
                            <mml:mi/>
                            <mml:mn>4</mml:mn>
                         </mml:msub>
                      </mml:math>
-                  </Math></inline-formula> ), heavy metals (HM).</title>
+                  </inline-formula> ), heavy metals (HM).</title>
             </caption>
             <graphic xlink:href="Fig1.jpg"
                      position="float"
@@ -1313,7 +1293,6 @@ In the second stage, the author conducted a survey among the residents of the la
             <element-citation publication-type="journal" xlink:type="simple">
                <article-title>Zielona infrastruktura jako wielozadaniowe narzędzie zrównoważonego rozwoju [Green infrastructure as a multifunctional tool of sustainable development]</article-title>
                <issn>2082-4793</issn>
-               <pub-id pub-id-type="doi">10.25167</pub-id>
                <issue>27</issue>
                <source>Studia Miejskie [Urban Studies]</source>
                <person-group person-group-type="author">
@@ -1356,7 +1335,6 @@ In the second stage, the author conducted a survey among the residents of the la
             <element-citation publication-type="journal" xlink:type="simple">
                <article-title>System transportu miejskiego wobec zrównoważonego rozwoju [System of city transport towards sustainable development]</article-title>
                <issn>2082-4793</issn>
-               <pub-id pub-id-type="doi">10.25167</pub-id>
                <issue>30</issue>
                <source>Urban Studies</source>
                <person-group person-group-type="author">
