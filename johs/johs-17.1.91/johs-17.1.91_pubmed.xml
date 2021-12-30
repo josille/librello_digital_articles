@@ -1,0 +1,2991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2021.17010091</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Systematic Literature Review of Gendered Human Security Approaches</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ammann</surname>
+                  <given-names>Theresa</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Kool</surname>
+                  <given-names>Tamara</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Department of Anthropology, Aarhus University, Højbjerg, Denmark</aff>
+         <aff id="A3">
+            <label>2</label>Maastricht Graduate School of Governance, Maastricht University, Maastricht, The Netherlands</aff>
+         <aff id="A4">
+            <label>3</label>Maastricht Economic and Social Research Institute on Innovation and Technology, United Nations University, Maastricht, The Netherlands</aff>
+         <pub-date pub-type="ppub">
+            <day>23</day>
+            <month>12</month>
+            <year>2021</year>
+         </pub-date>
+         <volume>17</volume>
+         <issue>1</issue>
+         <fpage>91</fpage>
+         <lpage>105</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>While many have argued for Human Security to integrate a gendered perspective, there is a lack of a consistent approach which hampers the transformative potential that otherwise could be achieved.  To better understand how gender has been incorporated in relation to gender, we therefore conducted a systematic review of the literature that combined feminist approaches and Human Security from 1994 (Human Security's inception) to June 2018. In exploring this literature, the following questions were addressed: (a) How is criticism and support of Human Security framed in feminist research? (b) How are gender and feminist research (values) defined in relation to Human Security? (c) Which feminist approaches to Human Security are taken? (d) How do these feminist approaches dismiss or support Human Security and which trends emerge? We found that most studies solely focus on integrating women in the Human Security debate, while men, masculinities, and/or causes of structural inequalities and insecurities remain unaddressed. Studies that address structural inequalities and discuss both men and women come from critical feminist and intersectional backgrounds. We conclude that most gendered approaches to Human Security still need to fully incorporate feminist approaches to be able to truly challenge global gendered inequalities and insecurities.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>feminist studies</kwd>
+            <kwd>gender</kwd>
+            <kwd>human security</kwd>
+            <kwd>security studies</kwd>
+            <kwd>systematic review</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>In a widely cited special issue on Human Security in 2004, the editors argued that Human Security (HS) [<xref ref-type="bibr" rid="R1">1</xref>] had come to a halt before it had even realized its potential [<xref ref-type="bibr" rid="R2">2</xref>]. Challenging this debate, Hoogensen and Stuvøj [<xref ref-type="bibr" rid="R3">3</xref>] argued that taking a gendered perspective would allow HS to realize its potential. Both seek to challenge the notions of power and identity. By recognizing gender dynamics, the ‘‘relational and power positions of various identities’’ ([<xref ref-type="bibr" rid="R3">3</xref>], p. 225) can be unfolded by bringing in a critical bottom-up perspective. By including a gendered perspective, context, relationality and intersubjectivity which affect insecurities can be further explored [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>]. In turn, this would allow for a move to an equitable and inclusive society where all are included. Nonetheless, literature continues to take diverging perspective towards its understanding gender and its integration into human security. Inspired by Hoogensen and Stuvøj’s argument [<xref ref-type="bibr" rid="R3">3</xref>], this article therefore sets out to examine how gender has been used in conjunction to HS. To this end, we reviewed the literature on gender and HS since HS’ emergence in 1994 until June 2018 with the following two research questions in mind: Which feminist approaches to Human Security are taken? And to what extent has the literature developed a (uniform) gendered HS approach? By understanding how the debate on gender and human security has developed over time, we aim to contribute to a more nuanced discussion that allows human security to be truly inclusive of the different experience of the individuals.</p>
+         <p>To answer these research questions, we employed a systematic literature review to assess and synthesize the existing literature on HS and gender in a consistent and as objective possible manner. Through the review we address the following sub-questions: a) How is Human Security framed in feminist research? b) How are gender and feminist research (values) defined in relation to Human Security? c) Which feminist approaches to Human Security are taken? d) How do these feminist approaches dismiss or support Human Security and which trends emerge? By asking these questions we seek to establish to what extent scholars have formulated a uniform gendered HS approach and if any trends can be discerned. We conclude by outlining possible implications of our findings for a gendered HS approach. Before setting out the analysis, we set out an overview of the methodological approach taken as well as a brief summary on the studies that comprised our dataset.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methodology</title>
+         <p>To assess how scholars have combined Human Security and gender (research), we adopted a systematic literature review approach, which is a qualitative approach that allows us to analyze a large amount of studies and map them alongside various categories. It adopts a systematic approach to addressing the literature that seeks to limit the bias on the side of the author that otherwise may influence reviews [<xref ref-type="bibr" rid="R5">5</xref>]. In our study, we seek to understand firstly, which approaches to human security have been taken, and secondly, how gender has been conceptualized in the studies, and lastly, how the gendered HS approach is informed by the feminist approaches and approaches towards HS [<xref ref-type="bibr" rid="R6">6</xref>]. To date, we have not come across a similar systematic literature review on this topic. This section first sets out the protocol for the systematic literature review based on the guidelines outlined by Petticrew and Roberts [<xref ref-type="bibr" rid="R5">5</xref>] (see <bold>Appendix A</bold>  for a flow diagram). Next, it discusses the methodological approach taken before briefly describing the sample of studies.</p>
+         <sec id="s2.1">
+            <title>2.1.- A Step-Wise Approach to the Systematic Literature Review</title>
+            <p>Since we sought to identify the general feminist/gendered approach to HS, we firstly determined search strings to find the literature in various repositories. We searched for studies that featured a combination of ‘‘human security’’ and a gender-related idiom in their title, which included any of the following terms: gender, gendering, engendering, gendered, women, woman, men, man, feminism, feminist, femininity, masculinity. The underlying assumption is that a study that features these keywords in the title is more likely to focus on these topics in detail and seek to contribute to the specific discussion. We would like to recognize that this may result in a potential bias as the author may perceive human security as a relevant topic for study and thus may not necessarily take a critical approach towards human security. Further,we realize that this search query may have excluded studies that actually address HS and gender but do not indicate this in their title. Nonetheless, we posit that the search criteria are warranted as we focus on studies that dealt with these topics explicitly rather than merely peripherally.</p>
+            <p>Secondly, only studies written in English, categorized as grey and peer-reviewed literature (e.g., articles, books, edited volumes, chapters from editorial books), and published between 1994 and 2018 were included. This cut-off point was chosen as UNDP first introduced Human Security in their 1994 <italic>Human Development Report</italic> [<xref ref-type="bibr" rid="R7">7</xref>].
+</p>
+            <p>With these inclusion criteria in mind, we searched the following databases: Google Scholar, Google Books, Web of Science, Scopus and JStore. As each database is constructed differently, we need to recognize that the compiled literature is by no means exhaustive, and studies may have been left out. Also, by using multiple search strings and various databases, sources may come up several times. These searches were conducted at two moments in time: first, between October 7 and November 4, 2016, and the second search was conducted on July 5, 2018 [<xref ref-type="bibr" rid="R8">8</xref>]. In total, 429 entries were identified.</p>
+            <p>Following this search, we checked the results <italic>within</italic> each database and identified double entry sources. This were subsequently removed. Consequently, 108 studies were excluded during this step. We then inspected the studies more closely and removed studies that did not feature our inclusion keywords in the title (N = 14) or were written in a foreign language although their title and abstract were written in English (N = 9). Furthermore, we only included peer-reviewed articles, books, chapters, working papers and PhD theses that were available in print or online. Accordingly, we removed book reviews, I/NGO reports, flyers, conference papers, op-eds and unavailable studies (N = 110). Lastly, eight edited volumes and single chapters came up in the search engine. To avoid double counting, we included the individual chapters and excluded the edited volume. Consequently, we were left with a total of 180 studies.</p>
+            <p>Following the first stage exclusion, we compiled the remaining studies and again removed double-entries (N = 52). This left us with a total of 128 studies that remained subject to the inclusion/exclusion criteria as part of the second stage exclusion.</p>
+            <p>The inclusion and exclusion criteria part of the second stage were defined according to the theoretical considerations underpinning the research design set out above, as well as quality assurance. In terms of quality assurance, this led to the exclusion of three articles due to their poor English academic standard. As for the theoretical considerations, we are interested in he usage of Human Security as a paradigm and approach that was conceived by the UN in 1994, rather than a general description of the security of humans that is not linked to the HS paradigm as outlined by the UN in 1994.Therefore, we distinguished between <italic>Human Security</italic> the paradigm (we referred to this as <italic>‘‘HS’’</italic>) and human security as denoting the security of humans (we referred to this as <italic>‘‘hs’’</italic>). This resulted in the exclusion of twenty-three sources. Further, if the article only includes HS or gender as a byline and do not discuss these in further detail, the study was also excluded (N = 10). In total, thirty-six studies were excluded during this phase.</p>
+            <p>As we came across three chapters in the previously identified edited volumes which fulfilled our selection criteria that had not been identified during the initial searches, we decided to included them as well. This left us with a total of ninety-five articles to be reviewed for a complete reference list of the sample.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Methodological Approach</title>
+            <p>This study employs a narrative analysis [<xref ref-type="bibr" rid="R5">5</xref>] to determine to what extent heterogeneity is present within the literature when it comes to gender and HS. Each study was analyzed according to the following categories: definitions of gender; understanding of gender/feminist research; definitions of HS; stance on HS; and gendered HS approach taken.—<bold>Appendix B</bold>  illustrates a sample analysis for three articles.</p>
+            <p>Next, we further analyzed the classifications to be able to answer the identified sub-questions. This phase consists of three stages. Firstly, each category was coded according to its definitions. These codes were next grouped together to identify emerging patters. Secondly, ‘‘gender’’ and ‘‘gender or feminist research’’ were compared as this additional layer of clustering allowed for an in-depth understanding of emerging trends. Lastly, the category identified as ‘‘Approach to Human Security and gender’’ assessed how studies’ definitions of gender and gender research overlapped with their understanding of HS.</p>
+            <p>Through the analysis, similarities and differences in the literature became apparent. The systematic literature review firstly, allows for a closer examination on how HS has been envisioned by various authors. Secondly, it sets out the approaches taken towards gender and how this reflects different strands of feminist approaches. Lastly, it allows us to relate the conceptualization of gendered HS or lack thereof, back to the underlying theoretical foundations.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Describing the Sample</title>
+            <p>Our sample comprised a diverse dataset, although some characteristics were more prevalent than others (see <bold>Appendix B</bold>  for an overview of all sample characteristics). The majority of studies were chapters and articles that based their research on theoretical data sources, and secondary and primary qualitative data, in the form of informants. If based on qualitative data, the sample size was often not mentioned. As most studies applied a universal level of analysis, it is not surprising that most studies did not specify their geographical focus. Those with a more specific geographical focus tended to focus on Sub-Saharan Africa and Southeast Asia by either taking a regional or national level of analysis. Our dataset therefore largely originates from academic circles, is largely theoretical and qualitative, and takes a more universal perspective.</p>
+            <p>In terms of distribution over time, most studies were published between 2004 and 2014 (see Figure <xref ref-type="fig" rid="Fig1">1</xref>). Due to the limited sample size and the general academic publication climate (e.g., slow publication processes, academic pressures), it is difficult to hypothesize what caused this peak and what led to its decline. Nonetheless, the United Nations Security Council Resolution 1325, passed in 2000, resulted in an increased attention to women-peace-and-security-related issues in academic and policy circles, which may explain part of the increase in publications.</p>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                  <title>Publications over the years.</title>
+               </caption>
+               <graphic xlink:href="Fig1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Approaches to HS 1994 to 2018</title>
+         <sec id="s3.1">
+            <title>3.1.- Identified HS Definitions</title>
+            <p>In line with Alkire [<xref ref-type="bibr" rid="R9">9</xref>], we found no prevalent definition of HS, instead multiple definitions of HS prevailed. So while we were able to identify numerous overarching characteristics, we found it impossible to pinpoint one definition that could be representative of HS within the academic debate. Generally, HS is used to refer to a variety of components that are generally linked to political, economic, and social structures that consequently ensure the achievement of human security with some arguing the need to go beyond these securities and include all threats to human security (see [<xref ref-type="bibr" rid="R10">10</xref>]). Without understanding the complexity and the various facets that are referred to when conceptualizing HS, it is difficult to contextualize the term. To do so, two elements are worthwhile to discuss in more detail, namely the role of the state and the transnational nature of human security.</p>
+            <p>Firstly, the role of the state in bringing about human security should be considered. While a holistic definition of HS recognizes a bottom-up approach alongside the state’s responsibility to ensure human security, only a small number of articles explicitly address this. While HS may be seen as an alternative, addition or impediment to national security, the state has the main responsibility to bring about human security. Again, this aspect may relate back to the human rights angle as well as the security discourse in general. Thus, by never fully embracing the bottom-up perspective and the inclusion of civil society, it seemingly fails to disentangle itself from a more narrow approach to HS.</p>
+            <p>This brings to the foreground a more general challenge, namely the underlying transnational character of human security. While HS concerns the security of the individual and its community, many issues that affect the human go beyond borders, e.g., pandemics, environmental disasters, conflicts. To address these issues, one often looks towards the international community and state actors. Subsequently, the importance of considering power dynamics and holding patriarchal institution accountable should be underlined if one wants to achieve human security [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>]. This in turn links back to the local-global dynamics and interconnected dynamics, all of which makes feminist approaches more valuable as they address the underlying (unequal) structures of human security.</p>
+            <p>To analyze the identified HS definitions more systematically, each study was assigned an overarching HS-definition category. In this, we followed Tadjbakhsh and Chenoy ([<xref ref-type="bibr" rid="R13">13</xref>], p. 121) who argue that HS definitions fall on a scale that increasingly becomes more holistic. That is, definitions can be placed on a scale that becomes increasingly more holistic as the definitions move—from left to right—from solely advancing the (a) freedom from critical fear to include (b) freedom of <italic>critical want</italic> to include (c) freedom to <italic>enlarged want</italic> to finally include (d) the freedom to live life in dignity, which is the most <italic>holistic</italic> definition of HS. HS definitions that focus on <italic>critical fear</italic> are therefore most closely related to more narrow traditional national security definitions that place more emphasis on the role of the state; e.g. Canada’s HS understanding or studies that focus on the Responsibility to Protect. HS definitions that focus on critical want and enlarged want straddle the center of the scale and are increasingly broader, more holistic, and human rights focused ([<xref ref-type="bibr" rid="R13">13</xref>], p. 47).<italic>Critical want</italic> seeks to ensure people’s basic needs, while <italic>enlarged want</italic> takes this one step further by ensuring access to choices and therefore enables one’s capabilities. The broadest HS definitions are most <italic>holistic</italic> and as such do not only advance all freedoms of want and fear but call for the freedom to achieve these in dignity; e.g., the <italic>HS Now</italic> report and the 1994 UNDP report promote HS as a people-centered approach that ensures human development and promotes human rights and a life in dignity.
+</p>
+            <p>Accordingly, we found that the studies’ HS definitions were distributed along this scale as follows: 3 studies called for <italic>Critical fear</italic> HS definitions, 8 for <italic>Critical want</italic>, 34 for <italic>Enlarged want</italic>, and 50 called for <italic>Holistic</italic> definitions. When examining the distribution over the years (see Figure <xref ref-type="fig" rid="Fig2">2</xref>), we found that <italic>Critical fear</italic> and <italic>Critical want</italic> definitions had marginally decreased, <italic>Enlarged want</italic> definitions had significantly decreased, and <italic>Holistic</italic> definitions had significantly increased. Thus, it emerges that there is a general trend towards a more holistic understandings of HS in the literature.</p>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                Figure 2</label>
+               <caption>
+                  <title>Distribution of overarching HS definitions over the years.</title>
+               </caption>
+               <graphic xlink:href="Fig2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Nuancing Human Security</title>
+            <p>Human Security has the potential to account for a ‘‘cosmopolitan formulation of security and as theoretical and practical tool for peace’’ ([<xref ref-type="bibr" rid="R14">14</xref>], p. 87). It has the potential to bridge different strands of security scholars (such as feminists security studies, critical theory and the Copenhagen School) in ‘‘new and potentially transformative ways’’ due to their common normative assumptions ([<xref ref-type="bibr" rid="R15">15</xref>], p. 37). Though this is not necessarily agreed upon by all as another argued that HS was no novel contribution to security studies (see [<xref ref-type="bibr" rid="R16">16</xref>]) and may even perpetuate a neoliberal perspective (see [<xref ref-type="bibr" rid="R17">17</xref>]).</p>
+            <p>In their discussion on Human Security the majority of authors place critical notes alongside HS. These notes pertain to primarily to the inclusion of a gendered or feminist perspective (N = 41) (e.g. [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]) and to a lesser extent recognition of ethics of care [<xref ref-type="bibr" rid="R22">22</xref>], and power and empowerment (see [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>]). Additionally, some call for HS studies to be grounded in ethnography that clarified the position of the researcher to avoid overlooking research subjectivities [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>].</p>
+            <p>Importantly, three articles that criticize the conceptualization of Human Security argue that women’s security is not equal to people’s security, a discussion that can be linked back to early feminist debates on ‘‘who counts as human.’’ They question whose perspective is included and who is excluded [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. This feminist discussion of who is included in discussions relating to human security is taken up in several studies. As Marhia [<xref ref-type="bibr" rid="R4">4</xref>] states, ‘‘human’’ implies a referent object of security, provided subjectivity, exclusion and social status are sufficiently considered. Ellen Lammers [<xref ref-type="bibr" rid="R10">10</xref>] draws out another often excluded security perspective, namely the security of refugees. Unlike national security, HS has the possible ability to advance gendered security dimensions and make audible the voices of those marginalized or most vulnerable, as well non-citizens. Only one article specifically refers to the human security of citizens [<xref ref-type="bibr" rid="R14">14</xref>], whereas several others refer to those affected by conflict and displacement [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R29">29</xref>].</p>
+            <p>HS furthermore needs to be cognizant on the role of the state. Some even indicate that if HS is co-opted by the state, this may result in further polarization of civil society which would in turn prevent the attainment of a gender equal society [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R30">30</xref>, <xref ref-type="bibr" rid="R31">31</xref>].</p>
+            <p>The above analysis showcases that most studies call for a more detailed discussion of themes such as power, empowerment, women, gender dimensions, the role of the state and a more detailed account of researcher’s positionality. Their definitions of HS, however, are not uniform within the reviewed literature. Since certain components of power, gendered structures, patriarchy and neoliberal perspectives can perpetuate human <italic>insecurity</italic>, it is essential to explore HS in relation to gender to establish the various gendered HS approaches that studies have taken over the years. Therefore, we next set out to examine the respective feminist studies approaches taken and the conceptualization of gender, and how these relate to each other.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Gendered Approaches from 1994 to 2018</title>
+         <sec id="s4.1">
+            <title>4.1.- Identified Feminist Studies Subcategories</title>
+            <p>In this section, we identified the studies’ feminist subcategories either based on their explicit self-identified subcategory (N = 40) or by assigning them a subcategory that they drew upon most in their study, if the authors did not explicitly self-identify themselves. The more critically and directly the studies were engaged with feminist literature, the more likely they were to self-identify with a feminist subcategory. For example, the most critically and radically engaged form of feminism, Postmodern Feminism, was self-identified (N = 5), whereas for the least critical form of feminist research, Mainstream Feminism, only 1 author self-identified.</p>
+            <p>Before we provide a more detailed account of the distribution of these feminist subcategories, a clearer explanation of our understanding of these subcategories is warranted. In total, we identified eight such subcategories: <italic>Mainstream Feminism, Mainstream Feminism drawing on Feminist Security Studies (FSS), Critical Feminism, Postcolonial Feminism, Third World Feminism, Poststructural Feminism, Postmodern Feminism, and Ecofeminism.</italic>
+            </p>
+            <p>The least critical approach of them is <italic>Mainstream Feminism</italic>, which seeks the equality of men and women by focusing on the plight of women, e.g., Gender-Based Violence (GBV). Mainstream Feminism does not integrate established, critical feminist approaches and scholars, and does not integrate social categories such as race and class [<xref ref-type="bibr" rid="R32">32</xref>]. <italic>Mainstream Feminism—FSS</italic> is similar to Mainstream Feminism’s focus but differs in that it has its analytical base in Feminist Security Studies. <italic>Mainstream Feminism</italic>—FSS does not engage with feminist research and often only focuses on the UNSCR 1325, which addresses the need to protect women and seeks to integrate women in peacebuilding processes based on their assumed inherent mothering peacefulness. The focus on the dichotomy between men and women is precisely where Mainstream Feminist approaches (i.e., both <italic>Mainstream Feminism</italic> and <italic>Mainstream Feminism—FSS</italic>) differ from more critical feminist approaches that places a larger importance on the differences <italic>within</italic> male and female groups. Therefore, many Mainstream Feminists draw on gender stereotypes that in turn are rejected by critical approaches.</p>
+            <p>
+               <italic>Critical Feminism</italic>, on the other hand, draws on intersectionality and thereby addresses inequalities that are results of power-imbalances along the lines of identities, such as gender, ethnicity, race, religion, sexuality, etc. As such, Critical Feminist approaches often align with the understandings and approaches of <italic>Postmodern</italic> and/or <italic>Poststructural Feminism</italic>. It regards feminism as an issue of not only gender but other identities of oppression. <italic>Postcolonial Feminism</italic> is similar to Critical Feminism’s approach (i.e., intersectionality) but it focuses on the needs of indigenous people (often women) who have been marginalized. It is therefore heavily engaged with issues of racism and colonialism. <italic>Third World Feminism</italic> is similar to Postcolonial Feminism’s focus but differs in that it insists on indigenously defined understandings of feminism. <italic>Poststructural Feminism</italic> is heavily inspired by Judith Butler’s work and regards gender as a social construct of an interplay of language, sociology, subjectivity and power-relations. Poststructural Feminism often engages in literary analyses as it tends to focus on discourses. <italic>Postmodern Feminism’s</italic> understanding of gender is the same as Poststructural Feminism’s although Postmodern Feminism is more radical in its approach and goals. It seeks to undo society’s patriarchal norms by rejecting all gender essentialism, falsifying gendered dichotomies, and promoting subjectivities to highlight diversity and difference within groups of men and within groups of women, rather than solely looking at differences between these groups.</p>
+            <p>Finally, <italic>Ecofeminism</italic> sees the historic abuse and domination of women and the environment as comparable as both have been exploited and regarded as helpless. As such, ecofeminists argue that true equality cannot be achieved for as long as someone/something is treated as subordinate, including the environment. This category can be seen as separate from critical and mainstream approaches.</p>
+            <p>Interestingly, the studies are evenly split into two overarching feminist camps: critical and mainstream feminist approaches (both comprise 46 studies). Only 3 studies were classified as <italic>Ecofeminism</italic>. When examining the classifications in more depth, we conclude that most studies draw on an intersectional approach in their analysis (<italic>Critical Feminism</italic>, N = 27) or take a more mainstream feminist approach that is rooted in FSS (N = 26), with the remaining twenty drawing on <italic>Mainstream Feminism</italic>. On the other hand, we find that more critical approaches are taken more rarely: <italic>Postcolonial Feminism</italic> (N = 8), <italic>Postmodern Feminism</italic> (N = 5), <italic>Poststructural Feminism</italic> (N = 3), and <italic>Third World Feminism</italic> (N = 3).</p>
+            <p>Over time, studies drawing on <italic>Critical Feminism</italic> and <italic>Mainstream Feminism drawing on FSS</italic> have steadily increased, whereas studies from Mainstream Feminist backgrounds have slightly decreased. Finally, studies from all other branches have remained static and minimal over the years. This indicates an increased interest in drawing on established critical feminist approaches and/or mainstream feminist security studies.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Identified Understandings of Gender</title>
+            <p>When analyzing the author’s understanding of gender, we applied the same principles as we did for analyzing the studies’ subcategory of feminist studies. In about half of the studies, the authors’ understanding of gender was explicitly defined. For the other half, we assigned understandings of gender based on their application of the word gender. When looking at all studies, we found that the majority of studies used gender to refer to and focus solely on women; thirty-four studies used gender to refer to both women and men, and only two studies focus on men. Both studies that focus on men and masculinity either do so in the context of displacement in Tanzania [<xref ref-type="bibr" rid="R29">29</xref>] or in Iraqi conflict [<xref ref-type="bibr" rid="R17">17</xref>] and its effect on perceived masculinity.
+</p>
+            <p>When we examined the how the understanding and focus of ‘‘gender’’ developed over time, we observed that in general the focus on women increased over the years, whereas a focus on both men and women decreased slightly. This increase in the focus on women is likely related to the fact that Mainstream Feminism drawing on FSS (which largely uses ‘‘gender’’ to focus on women) has continued to increase over the years.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- How Feminist Studies Subcategories Understand Gender</title>
+            <p>The more a study engages with critical feminist approaches, the more its usage of gender moves from ‘‘women’’ to ‘‘both genders.’’ Similarly, the majority of critical feminist studies reflects on the gender stereotypes and roles of both women and men; with the exception of studies drawing on Postcolonial and Third World Feminisms where the majority focuses on women (see [<xref ref-type="bibr" rid="R33">33</xref>]). We assume that a study’s focus on women when referring to gender can largely be attributed to that study’s respective wider field continuing to struggle to include women. For example, <italic>Mainstream FSS</italic> focuses on women because the wider security studies field continues to neglect women in its analyses; for example, Chenoy [<xref ref-type="bibr" rid="R34">34</xref>] argues that national security (studies) is a patriarchal construct that needs to be challenged by focusing on the security of women. Critical feminist approaches (i.e., <italic>Critical Feminism, Poststructural Feminism</italic>, and <italic>Postmodern Feminism</italic>) on the other hand, have gone beyond the inclusion of women and instead focus on both genders to investigate how gender is enacted. For example, Natalie Hudson [<xref ref-type="bibr" rid="R21">21</xref>] categorically challenges and rejects the widespread misuse of ‘‘gender’’ as ‘‘women’’ and Heidi Hudson [<xref ref-type="bibr" rid="R22">22</xref>] shows that this misuse blurs out not only the importance of masculinities but also the vast varieties of in-group differences amongst women and men. Accordingly, studies drawing on the most critical approach, <italic>Postmodern Feminism</italic>, exclusively focus on both genders. Lastly, <italic>Critical Feminism</italic> is the only approach that includes studies focusing solely on men. This can be seen as a counterbalance to the persistence of less critical feminist approaches that focus on women alone. The next section seeks to understand how the feminist studies subcategories relate back to the different gendered HS approaches taken in the literature.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Gendered HS Approaches from 1994 to 2018</title>
+         <sec id="s5.1">
+            <title>5.1.- Overview of Approaches</title>
+            <p>Having examined all studies, we identified six overarching gendered HS approaches which the studies had taken: thirty-seven studies called for a gendering of the HS paradigm by providing a <italic>Gender Approach to HS</italic>, twenty called for a <italic>Gender as an Add-on</italic> to HS analyses, sixteen percent were interested in the <italic>HS of Women</italic>, thirteen regarded <italic>Gender as inherent to HS</italic>, eight provided a <italic>Feminist Critique of HS</italic>, and only one article believed <italic>HS was a tool to advance feminist agendas</italic>.</p>
+            <p>In general, we found that the identified gendered HS approaches fell into two overarching categories: (a) approaches that were more gender-aware (i.e., <italic>Gender Approach to HS, Gender as an Add-on</italic>, and <italic>Feminist Critique of HS</italic>), and (b) approaches that were less gender-aware (i.e., <italic>HS as a tool to advance feminist agendas, HS of Women, and Gender as inherent to HS</italic>). More gender-aware approaches drew on feminist themes, issues, principles, guidelines and/or theories; while their less gender-aware counterparts tended to focus on women’s issues alone without drawing on feminist theories to make their argument.</p>
+            <p>Studies that advocate for a <italic>Gender Approach to HS</italic> do so in numerous ways: a gendering of HS to avoid a perpetuation of existing gendered structures (see [<xref ref-type="bibr" rid="R28">28</xref>]), an inclusion of intersectional theories in HS analyses (see [<xref ref-type="bibr" rid="R35">35</xref>]), a feminist perspective that investigates ‘‘who’’ is included when politicians and scholars speak of ‘‘humans’’ (see [<xref ref-type="bibr" rid="R20">20</xref>]), a revival of HS from a postmodern feminist perspective (see [<xref ref-type="bibr" rid="R36">36</xref>]), and the inclusion of discussions about masculinities as well as femininities to account for victimized men and agentic women [<xref ref-type="bibr" rid="R17">17</xref>]. Although these studies call on different means or particular aspects of feminist research, all of them do so to bring about a more specific and systematic <italic>Gender Approach to HS</italic>. To exemplify, the analysis on homeworkers in Thailand by Sasaki et al. [<xref ref-type="bibr" rid="R37">37</xref>] recognizes that the lived economic experiences for men and women differ. In the absence of formal protection by the State, relational networks are employed to mitigate insecurities. Nonetheless, these networks may perpetuate the patriarchal structures in turn. A <italic>Gender Approach to HS</italic> thus contributes to capturing how gendered structures should be unfolded to understand the experiences of human insecurity.</p>
+            <p>Studies that advocate <italic>Gender as an Add-on to HS</italic> distinguish themselves from the previously described approach in that they do not call on feminist theories and instead call for a more schematic inclusion of gender issues. As long as patriarchy persists, women are seen as responsible for the wellbeing and HS of families and communities. Unless ‘‘gender equality and authentic democracy in all spheres of social organization’’ ([<xref ref-type="bibr" rid="R38">38</xref>], p. 30) are not recognized, human security is difficult to achieve. Or to put it in other words, an analysis that considers the specific gender issues is thus beneficial to understand ‘‘the complex interplay between different dimensions of security as well as short- and long-term consequences and their impact on gender relations’’ ([<xref ref-type="bibr" rid="R39">39</xref>], p. 22). Under this categorization, studies therefore call for an awareness of gender issues in relation to HS (see [<xref ref-type="bibr" rid="R25">25</xref>]), a recognition that men and women experience different insecurities (see [<xref ref-type="bibr" rid="R24">24</xref>]), an inclusion of gender equality measures in HS analyses (see [<xref ref-type="bibr" rid="R40">40</xref>]) and a close attention to GBV [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R41">41</xref>].</p>
+            <p>Other studies undertake a <italic>Feminist Critique of HS</italic> to argue that HS’ focus on the ‘‘human’’ blinds it from recognizing the ‘‘other’’ and perpetuates a masculinist discourse (see [<xref ref-type="bibr" rid="R42">42</xref>]). Marhia [<xref ref-type="bibr" rid="R4">4</xref>] therefore argues that a critical feminist perspective to human security is important to address this power imbalance and to avoid ‘‘reproduction of such structural inequalities, violences and insecurities’’ ([<xref ref-type="bibr" rid="R4">4</xref>], p. 32). Others state highlight how a feminist analysis of HS reveals that HS is part of the wider global capitalist system and therefore complicit in perpetuating inequality (see [<xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R43">43</xref>]). Unless the global economic system is restructured, so Randriamaro [<xref ref-type="bibr" rid="R43">43</xref>] argues, women in Sub-Sahara Africa will continue to face challenges in ensuring their rights, economic justice, and environmental integrity. Yet, some even go to the extent stating that HS provides no new contribution that feminist security studies has not already made (see [<xref ref-type="bibr" rid="R16">16</xref>]).</p>
+            <p>One study argues that HS, unlike traditional national security paradigms, is uniquely suited to advancing feminist agendas (see [<xref ref-type="bibr" rid="R44">44</xref>]). This approach to regard <italic>HS as a tool to advance feminist agendas</italic> is therefore a unique and optimistic outlier in this dataset. However, this article does not provide clear feminist theories or guidelines as to how this could be accomplished. We, therefore, grouped this approach into the overarching category of less-gender aware gendered HS approaches.</p>
+            <p>Studies that are interested in the <italic>HS of Women</italic> investigate a variety of human insecurities. It argues that if women are not taken as a separate category, it risks that the vulnerabilities and threat that women face, such as violence against women and girls or the Human Rights of women, are sidelined (e.g. [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R45">45</xref>]). This approach varies from the <italic>Gender as an Add-on Approach</italic> in that this approach focuses on females and their insecurities. In addition, it allows for capturing the needs of specific groups of women such as: the increasing human insecurities of indigenous women in the Arctic through the current politicization of institutions [<xref ref-type="bibr" rid="R46">46</xref>] or the environmental challenges [<xref ref-type="bibr" rid="R47">47</xref>], or disempowerment of the tribal women in the Odisha region in India (see [<xref ref-type="bibr" rid="R48">48</xref>]). It can next call attention to specific policy challenges such as the failure of the international community to reintegrate girl soldiers into society [<xref ref-type="bibr" rid="R49">49</xref>].</p>
+            <p>Finally, studies arguing that <italic>Gender is inherent to HS</italic> see the holistic nature of HS as valuable to recognizing the position of women [<xref ref-type="bibr" rid="R50">50</xref>]. For example, in the case of migrant women in the UK, Jayaweera argues that through a HS lens the unveiled gendered vulnerabilities reflect women’s experiences of entitlement and access to health care (see [<xref ref-type="bibr" rid="R51">51</xref>]). Some state that the UNDP’s work and documents are gender-inclusive (see [<xref ref-type="bibr" rid="R20">20</xref>]) and others see it is as gender-neutral [<xref ref-type="bibr" rid="R52">52</xref>]. A case study by Isike and Owusu-Ampomah [<xref ref-type="bibr" rid="R53">53</xref>] on the human security of girls and young women in KwaZulu-Natal, South Africa for example argues that HS ‘‘opens space for a more inclusive discourse where not only women participate directly, but can also demand and give effect to their HR to life, work, good health, involvement in decision-making and remedy through active political participation’’ ([<xref ref-type="bibr" rid="R53">53</xref>], p. 3182).</p>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Localisation of Gendered Approaches</title>
+            <p>When we compared the studies’ HS-gender approaches in relation to their level of analysis, we found that both favored a Gender Approach to HS. We did however, find three minor differences that reflected disciplinary trends and differences. Studies that focus on the community and local level tend to take a more ethnographic or anthropological approach. In doing so, we found that these local level studies are more interested in the HS of Women. For example, based on ethnographic observations and interviews, Drysdale Walsh [<xref ref-type="bibr" rid="R54">54</xref>] highlights how women’s police stations in Nicaragua are marginalized and underfunded can only fully embody HS principles and thereby secure vulnerable women when they are integrated into other broader programs and institutional mandates.</p>
+            <p>Global level analyses, on the other hand, tended to be of a more theoretical nature and often came from a Political Science or Gender Research. These disciplinary differences resulted in global level analyses that either treated Gender as an add-on to HS or they engaged in a more serious Feminist Critique of HS. One such example of a study that calls for Gender as an add-on to HS is Radu [<xref ref-type="bibr" rid="R55">55</xref>] who, based on a political analysis of UN and EU legal frameworks and Romanian legislation, argues that HS needs to integrate gender and equal opportunities as a new dimension to be able to fully understand and ensure the security of all humans. Clough and Willse [<xref ref-type="bibr" rid="R56">56</xref>], on the other hand, take a Feminist Critique of HS and—inspired by feminist affect theory and Foucault’s biopolitics—critique HS for reproducing national security discourses.</p>
+         </sec>
+         <sec id="s5.3">
+            <title>5.3.- HS Definitions and Stances Taking Gendered HS Approaches</title>
+            <p>When we compared the various HS definitions against the particular gendered HS approach taken, we found that <italic>Holistic, Enlarged want,</italic> and <italic>Critical want</italic> definitions became more prevalent on average amongst more gender-aware approaches. <italic>Critical fear</italic> definitions, on the other hand, were more prevalent amongst less gender-aware gendered HS approaches. Consequently, broader HS definitions are more prevalent across more gender-aware gendered HS approaches, while more narrow HS definitions are more prevalent across less gender-aware gendered HS approaches (see Figure <xref ref-type="fig" rid="Fig3">3</xref>).</p>
+            <fig id="Fig3" position="float" orientation="portrait">
+               <label>
+                Figure 3</label>
+               <caption>
+                  <title>Percentage of HS Definitions Taking Particular Gendered HS approach.</title>
+               </caption>
+               <graphic xlink:href="Fig3.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s5.4">
+            <title>5.4.- Approaches’ Definitions of Gender and Gender Research</title>
+            <p>The predominant understanding of ‘‘gender’’ by any given feminist studies subcategory indicates their predominantly favored approach to HS and gender. For example, feminist study subcategories that focus on ‘‘both’’ genders all tend to favor a <italic>Gender Approach to HS</italic>, This corresponds to <italic>Postmodern</italic>, <italic>Poststructural</italic>, and <italic>Critical Feminism</italic> in particular.</p>
+            <p>On the other hand, feminist studies subcategories focusing on ‘‘women’’ are more scattered in their predominantly chosen approach although they favor approaches that seek <italic>Gender as an Add-on</italic> and a <italic>HS Analysis of Women</italic>. Studies categorized as either <italic>Mainstream</italic>, <italic>Mainstream FSS</italic> tend to favor both approaches equally. Only a minority of studies categorized as <italic>Critical Feminism</italic> followed either approach which is in line with the recognition of power imbalances affecting the realization of human security, which would not be addressed by solely looking at women or adding the insecurities of women as an add-on to Human Security.</p>
+            <p>Though only three studies place themselves in the field of <italic>Ecofeminism</italic>, the approach taken to both their conceptualization of gender as well their approaches show a much more diverse picture. Due to the limited sample size, we can therefore not assign any interpretation to this.</p>
+            <p>We therefore argue that the understanding of ‘‘gender’’ is essential to the studies’ chosen gendered HS approach. Those feminist subcategories that focus on both genders in order to ask ‘‘what does gender do?’’ are largely interested in <italic>Gender Approach to HS</italic> and thus, take a more radical rethinking of HS. Whereas those feminist subcategories that use ‘‘gender’’ to focus on women to promote the inclusion of women in their respective fields do so in order to investigate the <italic>HS of Women</italic> or to promote <italic>Gender as an Add-on to HS</italic>. This understanding is critical to be able to position oneself in the field of gender and human security.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Conclusion</title>
+         <p>In conclusion, four overarching HS definitions were prominent within the literature: freedom from <italic>critical fear</italic>, freedom of <italic>critical want</italic>, freedom to <italic>enlarged want</italic> and a <italic>holistic</italic> definition that calls for freedom to live life in dignity. Over the years, there has been a clear trend to increasingly move towards more holistic understandings of HS. However, when looking at their stances to Human Security in more detail, we established that most studies call for necessary additions to HS, such as power, empowerment, women, gender dimensions, the role of the state, and a more detailed discussion of the researcher’s positionality. Thus, highlighting the need for a more critical look towards how gender is incorporated when studying Human Security.</p>
+         <p>When investigating the studies’ used feminist studies subcategories, we identified two overarching feminist studies camps, namely, the more critical feminist approaches (i.e., <italic>Critical Feminism, Postcolonial Feminism, Postmodern Feminism</italic>, and to a lesser extent <italic>Poststructural Feminism</italic> and <italic>Third World Feminism</italic>), the mainstream feminist approaches (i.e., <italic>Mainstream Feminism drawing on FSS</italic>, and <italic>Mainstream Feminism</italic>) and an outlier (i.e., <italic>Ecofeminism</italic>). When assessing these feminist studies subcategories over the years, three trends emerged: (a) <italic>Critical Feminism</italic> and <italic>Mainstream Feminism drawing on FSS</italic> studies have steadily increased over the years, (b) <italic>Mainstream Feminist</italic> studies have slightly decreased, and (c) studies from all other branches have remained static and minimal over the years.</p>
+         <p>When investigating studies’ definitions of gender, the majority of studies used gender to refer to and focus solely on women, although a great number used gender to refer to both women and men. Only two out of ninety-five reviewed articles focused solely on men. The focus on women has increased over the years, whereas a focus on both genders decreased slightly. When relating the feminist studies subcategories back to their definition, we established that the more a study relied on critical feminist approaches, the more its usage of ‘‘gender’’ moves from ‘‘women’’ to ‘‘both genders.’’</p>
+         <p>Out of the six different gendered HS approaches identified, the majority of studies call for a gendering of the HS paradigm by providing a <italic>Gender Approach to HS</italic>, followed by <italic>Gender as an Add-on to HS</italic> analyses, <italic>HS of Women</italic>, and <italic>Gender as inherent to HS</italic> respectively. Only a minor part of the examined literature employs a <italic>Feminist Critique of HS</italic>, or regards <italic>HS as a tool to advance feminist agendas</italic>.</p>
+         <p>All HS stances largely favored more gender-aware approaches, while broader HS definitions were more prevalent across more gender-aware gendered HS approaches. Those feminist studies subcategories that focus on both genders in order to ask ‘‘what does gender do?’’ were largely interested in a <italic>Gender Approach to HS</italic> and thus a more radical rethinking of HS. Those feminist subcategories that used ‘‘gender’’ to focus on women to promote the inclusion of women in their respective fields did so in order to investigate the <italic>HS of Women</italic> or to promote <italic>Gender as an Add-on to HS</italic>. Thus, the findings indicate that the appropriation of ‘‘gender’’ by a study is thus heavily entangled with its chosen gendered HS approach.</p>
+         <p>This study is therefore indicative of the relevance of a critical feminist approach to address the underlying causes of human insecurity. Thus, a gendered HS approach can only challenge global (gendered) inequalities and insecurities if it fully incorporates feminist values, as proposed by critical feminist and intersectional scholars.</p>
+         <p>To further develop a critical understanding of how a gendered HS approach can enable the fulfillment of human security, we recommend a further analysis of how human security can be realized incorporating a gendered HS approach. Future research should also examine how the usage of certain sources (e.g., policy reports, studies) shapes a study’s analytical focus and how this results in a consequent framing of gender and HS. Ideally, future study would relate this back to ongoing political and policy developments to understand how these may or may not affect the thinking in the field. Further, as our study identifies changing trends in the field of gender and HS, we suggest to periodically undertake a systematic review of this research field’s development to ensure a representative portrayal.</p>
+      </sec>
+      <sec id="s9">
+         <title>Acknowledgements</title>
+         <p>The authors would like to thank the reviewers for their valuable comments, and the participants at the Human Development and Capabilities Association at the London Conference and at WO=MEN, Dutch Gender Platform where parts of this work were presented, for their thoughtful input and discussion.</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- Appendix</title>
+         <sec id="s7.1">
+            <title>7.1.- Appendix A</title>
+            <fig id="FigA1" position="float" orientation="portrait">
+               <label>
+                Figure A1</label>
+               <caption>
+                  <title>Step-by-Step Flow-Diagram (Combining 2016 and 2018 Search).</title>
+               </caption>
+               <graphic xlink:href="FigA1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+         <sec id="s7.2">
+            <title>7.2.- Appendix B</title>
+            <table-wrap id="TabA1" position="float" orientation="portrait">
+               <label>Table A1</label>
+               <caption>
+                  <title>Overview of Sample Characteristics</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;background-color: grey;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Sample Characteristics</bold>
+                        </td>
+                        <td align="justify"
+                           style="border-top:1px solid black;background-color: grey;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Count</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Level of Analysis</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Type of Study</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Community: Regional
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Book
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                National; Regional
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                PhD Thesis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Regional; Global
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Working Paper
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Community
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Journal
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                National
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Article
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                33
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Regional
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Chapter
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                38
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Global
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                51
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Data Sources</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Methodology</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Statistical quant
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Quantitative
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Primary qual + descriptive quant
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Mixed
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Primary qual + statistical quant
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Theory
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                39
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Primary + secondary qual
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                7
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Qualitative
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                51
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Primary qual
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                15
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Type of Analysis</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Secondary qual
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                29
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Action research
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Theory/LR
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                39
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Comparative analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Type of Data</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Descriptive statistical analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Archival research
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Discourse analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Demographic registry
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Discourse analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Policies
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                HS analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Observations
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Narrative analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Laws
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                6
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Case study analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1"/>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Reports
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                21
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Statistical analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Informants
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                23
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Discourse analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Studies/lit
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                39
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Legal analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                4
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Sample Sizes</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Ethnographic analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                5
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                6-50
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Feminist analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                6
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                229-600
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Policy analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                6
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1000
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Feminist HS analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Not specified
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                79
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Theoretical analysis
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                41
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Geographical Focus</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Western Europe
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Central Asia
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                1
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Arctic
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Eastern Europe
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                3
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Central and South America
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                5
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                North America
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                5
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Middle East (incl. North Africa)
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Southeast Asia
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                10
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Sub-Sahara Africa
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                18
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                N/A
+              </td>
+                        <td align="justify"
+                            style="border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                45
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+         <sec id="s7.3">
+            <title>7.3.- Appendix C</title>
+            <table-wrap id="TabA2" position="float" orientation="portrait">
+               <label>Table A2</label>
+               <caption>
+                  <title>Sample Overview of Three Articles</title>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Theoretical Category</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Alexander 2010</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Baines (2005)</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Basch (2004)</bold>
+                        </td>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Gender</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Women</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Women</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Women</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Definition</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Uses the word gender, yet at same states that in this case it means women. Need to consider the more invisible groups, such as the women as peacemaker
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                ‘‘Women’s agency or relative victimization often is defined solely in relation to their gender roles and so homogenizes women’s contrasting experiences of conflict where class, ethnicities, sexuality and other relations shape this experience profoundly’’ (p. 8). Gender is socially constructed and subject to power dimensions. See gender equality as essential to be at peace. Her assumptions are: 1) women are more peaceful but warns that placing men solely as aggressor is not helpful, 2) women as representation of other women, 3) women both as passive victim and active subjects, 4) tends to reproduce men-women stereotypes.
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Not defined clearly but focus on impact on women mainly.
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Stance on Human Security</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Ambivalent</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Supportive but include gender</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Critical due to its reliance on the role of the state</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Assessment</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                HS is a positive development although it grapples with finding solutions that are not state dependent.
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                It allows for a feminist approach to security but it is critical on the assumptions on gender underlying gender. While UNSCR 1325 is placed within the HS policy agenda, the article is critical on the extent it is incorporated.
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                It recognises the intimate connection to state security. Whose interest is really served? Who determines vital interests?
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>HS-gender approach</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Gendering HS/gender approach to HS</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>Gender as add-on</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>HS of women analysed</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Approach to HS and Gender</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                HS ‘‘through the intersection of militarization, gender violence and resistance in its gendered and militarized spaces’’ (p. 198). To be truly successfully need to avoid conflation of gender with women as it does not allow gendered! violence to be addressed and to be truly transformative. An analysis that rejects patriarchy, racism and militarism, and allows for the transformation of ‘gender’ is needed. It is key to accept both a range of sexualities and micro-biologies.
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                A feminist perspective provides new insight into the nexus between individual and structure of violence at various levels. Following Beth Woroniuk argues key issues in relation to women are missing and lack of discussion on power relations. Some assumptions privilege gender and yet fail to address neither the larger socio-economic conditions nor the political context. More research is needed to address binary thinking, and the agenda should be situated in larger global political, economic and humanitarian regime. It needs to go beyond ‘add women and stir’.
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Links security and empowerment in which victimisation is recognised as 2 parts of the same coin. Concern is that women are not treated as separate categories but gender issues are mainstreamed alongside all categories.
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+         </sec>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>As we explain later, we distinguish between the paradigm \textitHuman Security (HS) and \textitthe security of humans (human security) in this article.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Burgess</surname>
+                     <given-names>J Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Owen</surname>
+                     <given-names>Taylor</given-names>
+                  </name>
+               </person-group>
+               <article-title>Editors' Note</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010604047569</pub-id>
+               <source>Security Dialogue</source>
+               <year>2004</year>
+               <volume>35</volume>
+               <issue>3</issue>
+               <fpage>345</fpage>
+               <lpage>371</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoogensen Gjørv, Gunhild</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stuvøy</surname>
+                     <given-names>Kirsti</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender, Resistance and Human Security</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010606066436</pub-id>
+               <source>Security Dialogue</source>
+               <year>2006</year>
+               <volume>37</volume>
+               <issue>2</issue>
+               <fpage>207</fpage>
+               <lpage>228</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marhia</surname>
+                     <given-names>Natasha</given-names>
+                  </name>
+               </person-group>
+               <article-title>Some Humans Are More Human than Others: Troubling the ``Human'' in Human Security From a Critical Feminist Perspective</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010612470293</pub-id>
+               <source>Security Dialogue</source>
+               <year>2013</year>
+               <volume>44</volume>
+               <issue>1</issue>
+               <fpage>19</fpage>
+               <lpage>35</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Petticrew</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>Helen</given-names>
+                  </name>
+               </person-group>
+               <article-title>Systematic Reviews in the Social Sciences: A Practical Guide</article-title>
+               <publisher-name>Blackwell Publishing</publisher-name>
+               <year>2006</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Specific questions that guided the various categories of the systematic literature review include: (a) How do these studies define HS?, (b) Are any critical notes placed alongside Human Security?, (c) How do these studies define gender?, (d) Which feminist studies subcategories do these studies draw on?, (e) Which gender definitions draw on which feminist studies subcategories?, (f) Which gendered HS approach do these HS definitions draw on?, and (g) Which gendered HS approach do these feminist studies subcategories draw on?</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations Development Programme (UNDP)</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <article-title>Human Development Report 1994</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf"
+                         xlink:type="simple">http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf</ext-link>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>During the first search, 404 sources were identified. An additional 25 sources were identified during the second search.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alkire</surname>
+                     <given-names>Sabine</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Conceptual Framework for Human Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.580.2805&amp;rep=rep1&amp;type=pdf"
+                         xlink:type="simple">https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.580.2805&amp;rep=rep1&amp;type=pdf</ext-link>
+               <publisher-name>Centre for Research on Inequality, Human Security and Ethnicity (CRISE), University of Oxford</publisher-name>
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <year>2003</year>
+               <comment>2</comment>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Refugees, Gender and Human Security: A Theoretical Introduction and Annotated Bibliography</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lammers</surname>
+                     <given-names>Ellen</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>International Books</publisher-name>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Basch</surname>
+                     <given-names>Linda</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security, Globalization, and Feminist Visions</article-title>
+               <pub-id pub-id-type="doi">10.1080/1040265042000210085</pub-id>
+               <source>Peace Review</source>
+               <year>2004</year>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>12</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rubio-Marin, Ruth</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Estrada-Tanck, Dorothy</surname>
+                  </name>
+               </person-group>
+               <chapter-title>Violence against Women, Human Security, and Human Rights of Women and Girls: Reinforced Obligations in the Context of Structural Vulnerability</chapter-title>
+               <source>Gender, Violence, and Human Security: Critical Feminist Perspectives</source>
+               <year>2013</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Tripp</surname>
+                     <given-names>Aili Mari and Ferree, Myra Marx and Ewig, Christina</given-names>
+                  </name>
+               </person-group>
+               <fpage>238</fpage>
+               <lpage>259</lpage>
+               <publisher-name>New York University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tadjbakhsh</surname>
+                     <given-names>Shahrbanou</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chenoy</surname>
+                     <given-names>Anuradha</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security: Concepts &amp; Implications</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gibson</surname>
+                     <given-names>Ian R</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security: A Framework for Peace Constructs, Gendered Perspectives and Cosmopolitan Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bradford.ac.uk/library/find-materials/journal-of-peace-conflict-and-development/human-security.pdf"
+                         xlink:type="simple">https://www.bradford.ac.uk/library/find-materials/journal-of-peace-conflict-and-development/human-security.pdf</ext-link>
+               <source>Journal of Peace, Conflict and Development</source>
+               <year>2011</year>
+               <issue>17</issue>
+               <fpage>84</fpage>
+               <lpage>101</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hudson</surname>
+                     <given-names>Heidi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Inhabitants of Interstices? Feminist Analysis at the Intersection of Peace Studies, Critical Security Studies and Human Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://link.gale.com/apps/doc/A287181664/AONE?u=anon bfe3bdfb&amp;sid=googleScholar&amp;xid=96e3175b"
+                         xlink:type="simple">https://link.gale.com/apps/doc/A287181664/AONE?u=anon bfe3bdfb&amp;sid=googleScholar&amp;xid=96e3175b</ext-link>
+               <source>Strategic Review for Southern Africa</source>
+               <year>2011</year>
+               <volume>33</volume>
+               <issue>2</issue>
+               <fpage>26</fpage>
+               <lpage>50</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nuruzzaman</surname>
+                     <given-names>Mohammed</given-names>
+                  </name>
+               </person-group>
+               <article-title>Paradigms in Conflict: The Contested Claims of Human Security, Critical Theory and Feminism</article-title>
+               <pub-id pub-id-type="doi">10.1177/0010836706066560</pub-id>
+               <source>Cooperation and Conflict</source>
+               <year>2006</year>
+               <volume>41</volume>
+               <issue>3</issue>
+               <fpage>285</fpage>
+               <lpage>303</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Youssef</surname>
+                     <given-names>Maisaa</given-names>
+                  </name>
+               </person-group>
+               <article-title>Suffering Men of Empire: Human Security and the War on Iraq</article-title>
+               <pub-id pub-id-type="doi">10.1177/0921374008094286</pub-id>
+               <source>Cultural Dynamics</source>
+               <year>2008</year>
+               <volume>20</volume>
+               <issue>2</issue>
+               <fpage>149</fpage>
+               <lpage>166</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gupta</surname>
+                     <given-names>Sanju</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security, Conflict and Women: Rwanda in Retrospect</article-title>
+               <pub-id pub-id-type="doi">10.18848/1833-1882/CGP/v06i10/52175</pub-id>
+               <source>International Journal of Interdisciplinary Social Sciences</source>
+               <year>2012</year>
+               <volume>6</volume>
+               <issue>10</issue>
+               <fpage>191</fpage>
+               <lpage>201</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoogensen Gjørv, Gunhild</surname>
+                  </name>
+               </person-group>
+               <chapter-title>Gender, Human Security and Northern Fisheries</chapter-title>
+               <source>Gender, Culture and Northern Fisheries</source>
+               <year>2009</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kafarowski</surname>
+                     <given-names>Joanna</given-names>
+                  </name>
+               </person-group>
+               <fpage>219</fpage>
+               <lpage>234</lpage>
+               <publisher-name>Canadian Circumpolar Institute Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hudson</surname>
+                     <given-names>Heidi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security and Peacebuilding Through a Gender Lens: Challenges of Implementation in Africa</article-title>
+               <publisher-loc>Copenhagen, Denmark</publisher-loc>
+               <publisher-name>Danish Institute for International Studies</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.econstor.eu/bitstream/10419/84545/1/DIIS2006-37.pdf"
+                         xlink:type="simple">https://www.econstor.eu/bitstream/10419/84545/1/DIIS2006-37.pdf</ext-link>
+               <year>2006</year>
+               <comment>37</comment>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hudson</surname>
+                     <given-names>Natalie F</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender, Human Security and the United Nations: Security Language as a Political Framework for Women</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Truong</surname>
+                     <given-names>Thanh-Dam</given-names>
+                  </name>
+               </person-group>
+               <article-title>Feminist Knowledge and Human Security: Bridging Rifts through the Epistemology of Care</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://repub.eur.nl/pub/18712/wp481.pdf"
+                         xlink:type="simple">https://repub.eur.nl/pub/18712/wp481.pdf</ext-link>
+               <year>2009</year>
+               <comment>481</comment>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Grant</surname>
+                     <given-names>J Andrew</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Human Security and the G-8 Action Plan: What Provisions for Women and Children in Post-Conflict Communities?</chapter-title>
+               <source>The Search for Lasting Peace: Critical Perspectives on Gender-Responsive Human Security</source>
+               <year>2014</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Boyd</surname>
+                     <given-names>Rosalind</given-names>
+                  </name>
+               </person-group>
+               <fpage>151</fpage>
+               <lpage>168</lpage>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Groves</surname>
+                     <given-names>Gabrielle Eva Carol</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bernadette</surname>
+                     <given-names>P Resurreccion</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Doneys</surname>
+                     <given-names>Philippe</given-names>
+                  </name>
+               </person-group>
+               <article-title>Keeping the Peace is Not Enough: Human Security and Gender-based Violence during the Transitional Period of Timor-Leste</article-title>
+               <source>Journal of Social Issues in Southeast Asia</source>
+               <pub-id pub-id-type="doi">10.1355/sj24-2b</pub-id>
+               <year>2009</year>
+               <volume>24</volume>
+               <issue>2</issue>
+               <fpage>186</fpage>
+               <lpage>210</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Des</surname>
+                     <given-names>Gasper</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Truong</surname>
+                     <given-names>Thanh-Dam</given-names>
+                  </name>
+               </person-group>
+               <article-title>Development Ethics Through the Lenses of Caring, Gender, and Human Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ideas.repec.org/p/ems/euriss/18734.html"
+                         xlink:type="simple">https://ideas.repec.org/p/ems/euriss/18734.html</ext-link>
+               <publisher-loc>The Hague, Netherlands</publisher-loc>
+               <year>2008</year>
+               <comment>459</comment>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stuvøy</surname>
+                     <given-names>Kirsti</given-names>
+                  </name>
+               </person-group>
+               <source>Human Security and Women's Security Reality in Northwest Russia</source>
+               <source>Environmental and Human Security in the Arctic</source>
+               <year>2014</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Hoogensen Gjørv, Gunhild and Bazely, Dawn R and Goloviznina, Marina and Tanentzap, Andrew J</surname>
+                  </name>
+               </person-group>
+               <fpage>231</fpage>
+               <lpage>249</lpage>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Svensson</surname>
+                     <given-names>Katja</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security as Inclusive Security - Gender, Epistemology and Equality</article-title>
+               <pub-id pub-id-type="doi">10.1080/10246029.2007.9627412</pub-id>
+               <source>African Security Review</source>
+               <year>2010</year>
+               <volume>16</volume>
+               <issue>2</issue>
+               <fpage>1</fpage>
+               <lpage>13</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chenoy</surname>
+                     <given-names>Anuradha M</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Plea for Engendering Human Security</article-title>
+               <pub-id pub-id-type="doi">10.1177/002088170404200204</pub-id>
+               <source>International Studies</source>
+               <year>2005</year>
+               <volume>42</volume>
+               <issue>2</issue>
+               <fpage>167</fpage>
+               <lpage>179</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lukunka</surname>
+                     <given-names>Barbra</given-names>
+                  </name>
+               </person-group>
+               <article-title>New Big Men: Refugee Emasculation as a Human Security Issue</article-title>
+               <pub-id pub-id-type="doi">10.1111/j.1468-2435.2010.00670.x</pub-id>
+               <source>International Migration</source>
+               <year>2011</year>
+               <volume>50</volume>
+               <issue>5</issue>
+               <fpage>130</fpage>
+               <lpage>141</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gupta</surname>
+                     <given-names>Sonika</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Human Security, Economic Development and Gender</chapter-title>
+               <source>Human Security in South Asia: Energy, Gender, Migration, and Globalisation</source>
+               <year>2003</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Chari</surname>
+                     <given-names>P R and Gupta, Sonika</given-names>
+                  </name>
+               </person-group>
+               <fpage>52</fpage>
+               <lpage>66</lpage>
+               <publisher-name>Social Science Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kinney</surname>
+                     <given-names>Edith</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Securitizing Sex, Bodies, and Borders: the Resonance of Human Security Frames in Thailand's `War Against Human Trafficking'</chapter-title>
+               <source>Gender, Violence, and Human Security: Critical Feminist Perspectives</source>
+               <year>2013</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Tripp</surname>
+                     <given-names>Aili Mari and Ferree, Myra Marx and Ewig, Christina</given-names>
+                  </name>
+               </person-group>
+               <fpage>79</fpage>
+               <lpage>108</lpage>
+               <publisher-name>New York University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Phipps</surname>
+                     <given-names>Alison</given-names>
+                  </name>
+               </person-group>
+               <article-title>Me, Not You: The Trouble with Mainstream Feminism</article-title>
+               <publisher-name>Manchester University Press</publisher-name>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Deiter</surname>
+                     <given-names>Connie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rude</surname>
+                     <given-names>Darlene</given-names>
+                  </name>
+               </person-group>
+               <article-title>Human Security and Aboriginal Women in Canada</article-title>
+               <publisher-loc>Ottawa, Canada</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.publicsafety.gc.ca/lbrr/archives/cn000032204761-eng.pdf"
+                         xlink:type="simple">https://www.publicsafety.gc.ca/lbrr/archives/cn000032204761-eng.pdf</ext-link>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chenoy</surname>
+                     <given-names>Anuradha M</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Gender and Human Security Debate</article-title>
+               <pub-id pub-id-type="doi">10.1111/j.1759-5436.2009.00021.x</pub-id>
+               <source>IDS Bulletin</source>
+               <year>2009</year>
+               <volume>40</volume>
+               <issue>2</issue>
+               <fpage>44</fpage>
+               <lpage>49</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ferree</surname>
+                     <given-names>Myra Marx</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>The Discursive Politics of Gendering Human Security: Beyond the Binaries</chapter-title>
+               <source>Gender, Violence, and Human Security: Critical Feminist Perspectives</source>
+               <year>2013</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Tripp</surname>
+                     <given-names>Aili Mari and Ferree, Myra Marx and Ewig, Christina</given-names>
+                  </name>
+               </person-group>
+               <fpage>285</fpage>
+               <lpage>308</lpage>
+               <publisher-name>New York University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Valasek</surname>
+                     <given-names>Kristin</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Please Leave Your Weapons at the Door: Re-Gendering Human Security from Human Security Now to Disarmament</chapter-title>
+               <source>The Search for Lasting Peace: Critical Perspectives on Gender-Responsive Human Security</source>
+               <year>2014</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Boyd</surname>
+                     <given-names>Rosalind</given-names>
+                  </name>
+               </person-group>
+               <fpage>21</fpage>
+               <lpage>28</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sasaki</surname>
+                     <given-names>Shinobu</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kusakabe</surname>
+                     <given-names>Kyoko</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Doneys</surname>
+                     <given-names>Philippe</given-names>
+                  </name>
+               </person-group>
+               <article-title>Exploring Human (in-)Security From a Gender Perspective: A Case Study of Subcontracted Workers in Thailand</article-title>
+               <pub-id pub-id-type="doi">10.1108/IJSSP-03-2015-0036</pub-id>
+               <source>International Journal of Sociology and Social Policy</source>
+               <year>2015</year>
+               <volume>36</volume>
+               <issue>5/6</issue>
+               <fpage>304</fpage>
+               <lpage>318</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reardon</surname>
+                     <given-names>Betty A</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Women and Human Security: a Feminist Framework and Critique of the Prevailing Patriarchal Security System</chapter-title>
+               <source>The Gender Imperative: Human Security vs State Security</source>
+               <year>2010</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Reardon</surname>
+                     <given-names>Betty A and Hans, Asha</given-names>
+                  </name>
+               </person-group>
+               <fpage>7</fpage>
+               <lpage>36</lpage>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rosenow-Williams, Kerstin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Behmer</surname>
+                     <given-names>Katharina</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Gendered Human Security Perspective on Humanitarian Action in IDP and Refugee Protection</article-title>
+               <pub-id pub-id-type="doi">10.1093/rsq/hdv006</pub-id>
+               <source>Refugee Survey Quarterly</source>
+               <year>2015</year>
+               <volume>34</volume>
+               <issue>3</issue>
+               <fpage>1</fpage>
+               <lpage>23</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moussa</surname>
+                     <given-names>Ghada</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender Aspects of Human Security</article-title>
+               <pub-id pub-id-type="doi">10.1111/j.1468-2451.2008.00633.x</pub-id>
+               <source>International Social Science Journal</source>
+               <year>2008</year>
+               <volume>59</volume>
+               <issue>1</issue>
+               <fpage>81</fpage>
+               <lpage>100</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reardon</surname>
+                     <given-names>Betty A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Snauwaert</surname>
+                     <given-names>Dale T</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Women and Human Security: a Feminist Framework and Critique of the Prevailing Patriarchal Security System</chapter-title>
+               <source>Betty A. Reardon Key Texts in Gender and Peace</source>
+               <year>2015</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Reardon</surname>
+                     <given-names>Betty A and Snauwaert, Dale T</given-names>
+                  </name>
+               </person-group>
+               <fpage>109</fpage>
+               <lpage>128</lpage>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bromley</surname>
+                     <given-names>Victoria</given-names>
+                  </name>
+               </person-group>
+               <source>Human Security, Gendered Violence, and Women's Rights: Lives on the Line in the US-Mexican Borderlands</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bac-lac.gc.ca/eng/services/theses/Pages/item.aspx?idNumber=56370509"
+                         xlink:type="simple">https://www.bac-lac.gc.ca/eng/services/theses/Pages/item.aspx?idNumber=56370509</ext-link>
+               <publisher-name>Carleton University</publisher-name>
+               <year>2002</year>
+               <publisher-loc>Department of Political Science</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Randriamaro</surname>
+                     <given-names>Zo</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Whose Human Security? Gender, Neoliberalism and the Informal Economy of Sub-Saharan African</chapter-title>
+               <source>Gendered Insecurities, Health and Development in Africa</source>
+               <year>2012</year>
+               <fpage>72</fpage>
+               <lpage>97</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bunch</surname>
+                     <given-names>Charlotte</given-names>
+                  </name>
+               </person-group>
+               <article-title>Feminism, Peace, Human Rights and Human Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.proquest.com/docview/217455004"
+                         xlink:type="simple">https://www.proquest.com/docview/217455004</ext-link>
+               <source>Canadian Women Studies</source>
+               <year>2003</year>
+               <volume>22</volume>
+               <issue>2</issue>
+               <fpage>6</fpage>
+               <lpage>11</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Panda</surname>
+                     <given-names>Snehalata</given-names>
+                  </name>
+               </person-group>
+               <article-title>Disempowerment of Tribal Women: A Human Security Perspective</article-title>
+               <source>Local Government Quaterly</source>
+               <year>2015</year>
+               <volume>85</volume>
+               <issue>1</issue>
+               <fpage>27</fpage>
+               <lpage>39</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Irlbacher-Fox, Stephanie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Price</surname>
+                     <given-names>Jackie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rowe</surname>
+                     <given-names>Elana Wilson</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Women's Participation in Decision Making: Human Security in the Canadian Arctic</chapter-title>
+               <source>Environmental and Human Security in the Arctic</source>
+               <year>2014</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Hoogensen Gjørv, Gunhild and Bazely, Dawn R and Goloviznina, Marina and Tanentzap, Andrew J</surname>
+                  </name>
+               </person-group>
+               <fpage>203</fpage>
+               <lpage>230</lpage>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sweet</surname>
+                     <given-names>Victoria</given-names>
+                  </name>
+               </person-group>
+               <article-title>Extracting More Than Resources: Human Security and Arctic Indigenous Women</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ssrn.com/abstract=2533164"
+                         xlink:type="simple">https://ssrn.com/abstract=2533164</ext-link>
+               <source>Seattle University Law Review</source>
+               <year>2014</year>
+               <volume>37</volume>
+               <fpage>1221</fpage>
+               <lpage>1243</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Khattak</surname>
+                     <given-names>Saba Gul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Habib</surname>
+                     <given-names>Kiran</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Khan</surname>
+                     <given-names>Foqia Sadiq</given-names>
+                  </name>
+               </person-group>
+               <article-title>Women and Human Security in South Asia: The Cases of Bangladesh and Pakistan</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.uplbooks.com/book/women-and-human-security-south-asia-cases-bangladesh-and-pakistan"
+                         xlink:type="simple">http://www.uplbooks.com/book/women-and-human-security-south-asia-cases-bangladesh-and-pakistan</ext-link>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fox</surname>
+                     <given-names>Mary-Jane</given-names>
+                  </name>
+               </person-group>
+               <article-title>Girl Soldiers: Human Security and Gendered Insecurity</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010604049523</pub-id>
+               <source>Security Dialogue</source>
+               <year>2004</year>
+               <volume>35</volume>
+               <issue>4</issue>
+               <fpage>465</fpage>
+               <lpage>479</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fukuda-Parr, Sakiko</surname>
+                  </name>
+               </person-group>
+               <article-title>Gender, Globalization and New Threats to Human Security</article-title>
+               <pub-id pub-id-type="doi">10.1080/1040265042000210139</pub-id>
+               <source>Peace Review</source>
+               <year>2004</year>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>35</fpage>
+               <lpage>42</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jayaweera</surname>
+                     <given-names>Hiranthi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Access to Healthcare for Vulnerable Migrant Women in England: a Human Security Approach</article-title>
+               <pub-id pub-id-type="doi">10.1177/0011392117736307</pub-id>
+               <source>Current Sociology</source>
+               <year>2017</year>
+               <issue>66</issue>
+               <fpage>273</fpage>
+               <lpage>285</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Okotie</surname>
+                     <given-names>Henry V</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender, Conflict and Human Security in Nigeria: Challenges and Prospects</article-title>
+               <source>Gender and Behaviour</source>
+               <pub-id pub-id-type="doi">10.4314/gab.v5i2.23397</pub-id>
+               <year>2007</year>
+               <volume>5</volume>
+               <issue>2</issue>
+               <fpage>1421</fpage>
+               <lpage>1433</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Isike</surname>
+                     <given-names>Christopher</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Owusu-Ampomah, Kwame</surname>
+                  </name>
+               </person-group>
+               <article-title>A Human Security Analysis of the Situation of Girls and Young Women in Kwazu-Natal, South Africa</article-title>
+               <pub-id pub-id-type="doi">10.11564/31-1-952</pub-id>
+               <source>African Population Studies</source>
+               <year>2017</year>
+               <volume>31</volume>
+               <issue>1</issue>
+               <fpage>3179</fpage>
+               <lpage>3193</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Drysdale-Walsh, Shannon</surname>
+                  </name>
+               </person-group>
+               <chapter-title>Advances &amp; Limits of Policing and Human Security for Women: Nicaragua in Comparative Perspective</chapter-title>
+               <source>Gender Violence in Peace and War</source>
+               <year>2016</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Sanford</surname>
+                     <given-names>Victoria and Stefatos, Katerina and Salvi, Cecilia M</given-names>
+                  </name>
+               </person-group>
+               <fpage>133</fpage>
+               <lpage>145</lpage>
+               <publisher-name>Rutgers University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Radu</surname>
+                     <given-names>Mihaela</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender Equality: A Condition for Achieving Human Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.proquest.com/docview/1731537091"
+                         xlink:type="simple">https://www.proquest.com/docview/1731537091</ext-link>
+               <source>Strategic Impact</source>
+               <year>2015</year>
+               <issue>2</issue>
+               <fpage>104</fpage>
+               <lpage>111</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clough</surname>
+                     <given-names>Patricia Ticineto</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Willse</surname>
+                     <given-names>Craig</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Human Security/National Security: Gender Branding and Population Racism</chapter-title>
+               <source>Beyond Biopolitics: Essays on the Governance of Life and Death</source>
+               <year>2011</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Clough</surname>
+                     <given-names>Patricia Ticineto and Willse, Craig</given-names>
+                  </name>
+               </person-group>
+               <fpage>46</fpage>
+               <lpage>64</lpage>
+               <publisher-name>Duke University Press</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
