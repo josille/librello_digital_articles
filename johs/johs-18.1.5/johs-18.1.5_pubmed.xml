@@ -1,0 +1,1658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article 
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2022.18010005</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Health versus Economic Security: An Ambivalence of Anti-Tobacco Norm Internalisation in Indonesia</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Indriastuti</surname>
+                  <given-names>Suyani</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Hara</surname>
+                  <given-names>Abubakar</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Patriadi</surname>
+                  <given-names>Himawan</given-names>
+               </name>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Trihartono</surname>
+                  <given-names>Agus</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Sunarko</surname>
+                  <given-names>Bagus</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Centre for Sustainable Human Security, University of Jember, Jember, Indonesia</aff>
+         <aff id="A3">
+            <label>2</label>Department of International Relations, University of Jember, Jember, Indonesia</aff>
+         <aff id="A4">
+            <label>3</label>Centre for Reseach in Social Sciences and Humanities (C-RiSSH), University of Jember, Jember, Indonesia</aff>
+         <pub-date pub-type="ppub">
+            <day>09</day>
+            <month>02</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>1</issue>
+         <fpage>5</fpage>
+         <lpage>17</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>It is widely accepted that tobacco is a threat to public health security. Anti-tobacco norms are intensively campaigned by international agencies, such as World Health Organisation (WHO) and non-government organisations (NGOs). Indonesia has not signed and ratified the WHO Framework Convention on Tobacco Control (FCTC); however, Indonesian legislation obligates government agencies such as ministries, universities, and the local government to control tobacco use. Meanwhile, tobacco remains one of the central sources of income for Indonesia's state and local economies, a reality that is especially salient for tobacco farmers and labourers. This study aims to examine the extent to which Indonesia internalises the anti-tobacco norm. We focused our investigation on features including norm internalisation and human security, with specific attention to economic and health security. Our study revealed notable ambivalence in the internalisation of tobacco norms in Indonesia. This ambivalence reflects conflictual interests over economic and health security and ambiguity in policymaking concerning tobacco control. Using a qualitative approach, the authors of this study gathered primary data via in-depth interviews and FGD with knowledgeable stakeholders, such as government officials, NGO representatives, health agency workers, farmers, smokers, and academics, and integrated this data with support from the relevant literature. The findings of the present study enrich the existing discussion on norm internalisation, particularly as it relates to tobacco control and other controversial norms.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>anti-tobacco</kwd>
+            <kwd>economic security</kwd>
+            <kwd>global norms</kwd>
+            <kwd>health</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Tobacco is part of the global health security agenda because tobacco threatens health security which causes quite many deaths. According to the WHO, tobacco kills more than 7 million active smokers and 1.2 million passive smokers per year [<xref ref-type="bibr" rid="R1">1</xref>]. Moreover, tobacco exposes smokers and non-smokers to toxic emissions that cause health issues such as high blood pressure, heart attacks, blood clots, lung disease, and cancer [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>]. The nicotine in tobacco has also addictive effects on users, making it difficult to cease tobacco consumption [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>].</p>
+         <p>Due to the adverse health impacts of tobacco use, many activists have promoted anti-tobacco norms, which generally means benchmarks, guidelines, or basic rules regarding the use of tobacco. Although the norms are not binding, they become standards for judging good and bad behaviour. These actors include scientists, national governments, international governmental organizations (IGOs), and non-government organisations. They spearheaded the birth of anti-tobacco movements in various countries. Through their struggle, the danger of tobacco use to human life has become a global norm imposed by government as well as a "social and moral norm" upheld by society [<xref ref-type="bibr" rid="R4">4</xref>]. This norm is the product of these agents’ combined efforts in campaigning to raise awareness of the dangers of tobacco use and promoting anti-tobacco perspectives.</p>
+         <p>The WHO formally supported the global anti-tobacco movement by issuing the World Health Assembly Resolutions WHA40.38 in 1987 about "World No-Smoking Day" and WHA42.19 in 1988 on WHO program on tobacco for health. "World No-Smoking Day" campaigns commemorated on May 13rd each year thereafter [<xref ref-type="bibr" rid="R5">5</xref>]. To further combat smoking, several academics from UCLA who were later supported by several countries such as Canada, Mexico, Finland and Tanzania [<xref ref-type="bibr" rid="R6">6</xref>] proposed the need for an anti-tobacco convention. This proposal received wide acceptance and prompted WHO to establish the international "Framework Convention on Tobacco Control" (FCTC) in 2003 before fully establishing it in 2005. Like many UN conventions, the FCTC is also non-binding and dependent on the will of the state to accede to it. However, it contains a strong appeal to prevent the increase in consumption of tobacco and cigarettes. As of 2019, the FCTC has been ratified by 187 countries [<xref ref-type="bibr" rid="R7">7</xref>]. This anti-tobacco initiative is also supported by NGOs, such as Framework Convention Alliance and Globalink, The Framework Convention Alliance and the South-East Asia Tobacco Control Alliance which actively encourage states to ratify the FCTC and educate people about tobacco use dangers [<xref ref-type="bibr" rid="R8">8</xref>]. Tandilittin and Luetge have suggested optimising the role of civil society in implementing tobacco control in Indonesia [<xref ref-type="bibr" rid="R9">9</xref>].</p>
+         <p>Yet there exists a significant conflict of interest issue that must be addressed. Amidst the intensive campaigns against tobacco consumption due to its health risks, many people – particularly tobacco farmers, labourers, and small tobacco sellers – depend on tobacco and its products. For these individuals, tobacco is the primary source of income for meeting their daily needs. This reality poses a conundrum for governments, tasked with deciding between health security and economic security. On one side, tobacco threatens the health security of the community, while on the other side, tobacco supports the economic security of those whose lives depend upon it as a critical resource.</p>
+         <p>Both health security and economic security are part of human security which is a global concern. Human security is an international norm that aims to guarantee the security of the individual. It focuses on the ability of individuals or households to meet their most essential needs in daily life and maintain security from direct violence and conflict. According to the United Nations Development Program (UNDP), human security can be understood as "first, safety from such chronic threats as hunger, disease, and repression. And second, it means protection from sudden and hurtful disruptions in the patterns of daily life—whether in homes, in jobs or in communities" ([<xref ref-type="bibr" rid="R10">10</xref>], p. 23). As social norms, human security provides guidance on the basis that every person has the right to "live in freedom and dignity, free from poverty and despair" [<xref ref-type="bibr" rid="R11">11</xref>]. Thus, human security consists of protecting the right to live in dignity without want or fear [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>The dilemma of health security and economic security is exemplified by the case of tobacco in Indonesia. Indonesia is one of the world’s main tobacco producers. In 2019, Statista noted that Indonesia ranked 6th among the world’s tobacco producers after China (mainland), India, Brazil, Zimbabwe, and the United States [<xref ref-type="bibr" rid="R13">13</xref>]. Of these countries, however, Indonesia and the US have not ratified the FCTC [<xref ref-type="bibr" rid="R14">14</xref>]. The Indonesian government contends that tobacco contributes to national and regional incomes at the domestic level. According to the Ministry of Industry of the Republic of Indonesia, in 2016, 96.5% of Indonesian excise was sourced from tobacco which is about Rp. 139.82 Trillion Rupiah [<xref ref-type="bibr" rid="R15">15</xref>]. Moreover, tobacco-related industries bring job opportunities, employing 4.28 million people in the production and distribution sectors and 1.7 million on tobacco plantations [<xref ref-type="bibr" rid="R16">16</xref>].</p>
+         <p>Although it has many advantages, Indonesia government also carries out anti-tobacco campaigns which resulted in broad support in the community. It can be said that anti-tobacco views and attitudes have started to become the norms unwritten in society. The anti-tobacco norm has been accepted generally in Indonesia by both society and the government. The government has passed legislation such as Government Regulation (PP) 109/2012 concerning the Safety of Materials Containing Addictive Substances in the Form of Tobacco Products for Health to implement the movement [<xref ref-type="bibr" rid="R17">17</xref>]. Although the regulation is still in the form of Government Regulation and not at the level of Law, its implementation is quite broad because each local government or district is encouraged to have an anti-smoking Regional Regulation. Several Indonesian prominent figures such as Bogor City Mayor Arya Bima now serves as co-chair of the Asia Pacific Cities Alliance for Tobacco Control (AP-CAT) [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+         <p>Building on these facts, the authors of this paper argue that the contradictory nature of anti-tobacco norm internalisation in Indonesia is problematic. The Indonesian government and the majority of its people agree that tobacco endangers community health security. However, material and psychological obstacles hinder the comprehensive adoption of anti-tobacco norms in Indonesia, leading to ambivalence towards internalisation both in government and within certain sectors of society. This ambivalence can be seen, among other, from the attitude of the government that does not want to ratify the FCTC but it encourages local governments to implement various anti-smoking regulations. This attitude departs from the government’s need for income from a fairly large cigarette tax, which is represented by the Ministry of Finance. However, the Ministry of Health always pushes for regulations that restrict people from smoking.</p>
+         <p>This ambiguity is growing quite widely because the wider community also understands the importance of protecting tobacco farmers who depend on tobacco products for their lives. Many elements in society see that health is important, but the safety of the people’s economic life is also important. This situation in turn makes the internalisation of anti-smoking norms unable to develop properly, which gives birth to tolerant attitudes towards those who smoke. In the implementation of anti-smoking regulations in society, for example, although there has been bans on smoking in some public facilities, the government also provides special smoking zones for smokers.</p>
+         <p>This study offers contributions academically and empirically. The academic contribution is the enrichment of knowledge on norm internalisation, particularly as it relates to anti-tobacco norms in Indonesia. Previous studies have suggested an optimistic view of the role of norm internalisation in anti-tobacco campaigns. Durkin, et. al., for example, stated that social norms greatly contribute to changing people’s behavior and persuading them to quit smoking [<xref ref-type="bibr" rid="R19">19</xref>]. Similarly, Hohman, et al. emphasised the important roles of social norms in reducing smokers’ ambivalence. Accordingly, clear attitudinal prescriptions defined by social norms have the potential to combat ambivalence [<xref ref-type="bibr" rid="R20">20</xref>]. Mead, et al. explained that such norms are conveyed to smokers through social exposure in their social, physical, and symbolic environments [<xref ref-type="bibr" rid="R21">21</xref>]. Informed by and expanding upon past research, the present study approaches this issue.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Conceptual Framework</title>
+         <p>To determine the extent to which Indonesia has internalised anti-tobacco norms, the authors of this study designed their research on the basis of the following concepts: 1) norm internalisation and contestation, 2) human security, health security, and economic security.</p>
+         <sec id="s2.1">
+            <title>2.1.- Norm Internationalisation and Norm Contestation</title>
+            <p>Norms can be understood as "standard[s] of appropriate behavior of actors with a given identity" ([<xref ref-type="bibr" rid="R22">22</xref>], p. 891); norms therefore prescribe guidance for people’s actions. The majority of a given population accepts norms as "either rules of expected behaviour in a society or as behaviour that is common in a society" [<xref ref-type="bibr" rid="R4">4</xref>]. The anti-tobacco view can be considered an international norm, as it is generally embraced in most of the world. Non-smoking regulations have become common in settings such as airplanes, trains, schools, hospitals, and other public spaces. Indeed, more than 95% of states worldwide have ratified the FTCT as an instrument of tobacco control [<xref ref-type="bibr" rid="R7">7</xref>].</p>
+            <p>To examine anti-tobacco norm internalisation in Indonesia, it is essential to understand the norm life cycle. Finnemore and Sikkink explain that the norm life cycle has three stages: norm emergence, norm cascade, and norm internalisation [<xref ref-type="bibr" rid="R22">22</xref>]. First, "norm emergence" refers to norm making or norm invention by a "norms entrepreneur" through a persuasive mechanism. This process involves cognitive framing construction, through which norm entrepreneurs seek to convince "norm leaders" to adopt a new norm. Norms entrepreneurs must have the ability to achieve securitisation; that is, they must effectively persuade their audience to recognise formerly non-politicised subjects as politicised issues, often even as matters of national security [<xref ref-type="bibr" rid="R23">23</xref>]. In the case of tobacco control, anti-tobacco norm entrepreneurs work to convince authoritative agencies such as the WHO that tobacco is hazardous and poses a critical risk to human life.</p>
+            <p>Second, once norm leaders embrace a new norm, the following step is socialising the new norm to others and promoting its broader acceptance known as "norm cascade". WHO is actively and consistently socialising anti-tobacco norms by campaigning about the dangers of tobacco use, an effort supported by its member states and NGOs. The international organisation network encourages targeted agents to ratify the new norms and adopt them in their domestic legislation.</p>
+            <p>The third and final stage is "norm internalisation", within which the new norm is widely accepted formally and practically at the state and society levels. Once states ratify an international norm, they have to make domestic adjustments to integrate the new standard. Therefore, norm internalisation is primarily reflected in domestic legislation that enforces the newly adopted norm. Moreover, norms can be categorised as either "rule norms or social norms". According to Tuomela [<xref ref-type="bibr" rid="R24">24</xref>], rule norms are the formalized norms imposed by authoritative agencies, such as national and local governments, based on written law or sanctioned regulations. In this respect, as a rule norm, the anti-tobacco stance appears in official legislation issued by government bodies. States that ratify the FCTC have an obligation to comply by issuing relevant tobacco-control laws and regulations. Social norms, on the other hand, <italic>are de facto</italic> standards developed based on a common belief, custom, or convention. As such, social norms commonly are not written and instead are imposed through verbal communication – they are socially rather than formally sanctioned [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R24">24</xref>]. As a social norm, the anti-tobacco standard appears as a societal convention evident in daily life. For instance, it is common in Indonesian society that smoking is unacceptable in public area such as hospitals, public transports, schools, and others public spaces. This has become a generally accepted norm in Indonesian society.</p>
+            <p>Although Finnemore and Sikkink’s concept of the norm life-cycle is persuasive in explaining norm internalisation, it should not necessarily to be seen the only available path to adoption of new norms. This is evidenced by the context of anti-tobacco norm establishment in Indonesia, where norm internalisation does not appear to follow the model proposed by Finnemore and Sikkink.</p>
+            <p>"Norm contestation" refers to the fact that every new norm is subject to diverse interpretation among actors, with some actors rejecting or at least disregarding the norm [<xref ref-type="bibr" rid="R25">25</xref>]. In more extreme cases, norm contestation within social practices leads to norm disapproval [<xref ref-type="bibr" rid="R26">26</xref>]. The implementation of norms is influenced by time, place, and social context. Each norm is shaped by "historical and cultural circumstances" in which actors develop their understanding of the norm ([<xref ref-type="bibr" rid="R27">27</xref>], p. 33). Thus, while a norm is "a shared understanding" or intersubjective agreement among stakeholders ([<xref ref-type="bibr" rid="R28">28</xref>], p. 30), such agreement is dynamically shaped by actors’ backgrounds and their local contexts. Different actors have different backgrounds, information, and social contexts that affect their interpretation of a norm and affect intersubjective agreement. As a result, norm ambiguity occurs due to plurality of norm interpretation.</p>
+            <p>According to Antje Wiener [<xref ref-type="bibr" rid="R26">26</xref>], modes of contestation consist of arbitration, deliberation, justification, and contention, which are related to the subjects in "law, political sciences, political theory, and political sociology, respectively" [<xref ref-type="bibr" rid="R26">26</xref>]. A norm contestation typically occurs due to norm ambiguity and the weak power of norm enforcers [<xref ref-type="bibr" rid="R29">29</xref>]. In this sense, a norm contestation framework is useful for explaining the variation of behaviors observed with regard to anti-tobacco norms. The framework scrutinises actors’ behaviour and their understanding of normative obligations, whether formal at the governmental level or semi-formal/informal at the societal level.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Human Security, Health Security, and Economic Security</title>
+            <p>Human security is a holistic concept. According to the UNDP, it consists of seven dimensions: economic, food, health, environment, political, personal, and community security [<xref ref-type="bibr" rid="R10">10</xref>]. These dimensions are interrelated, so changes within one dimension might affect the others. Overemphasising one element might hinder the development of another element; such is the case between health and economic security in Indonesia, where an anti-tobacco norm which seeks to ensure health security might threaten the economic security of those whose lives are dependent upon tobacco production.
+</p>
+            <p>Health security means freedom from disease and sufficient resources to support a healthy life, such as food, shelter, and clothing [<xref ref-type="bibr" rid="R30">30</xref>]. Meanwhile, economic security is a condition in which individuals or households have assured basic income from their work or social safety nets. Building on the notion of norm contestation, individuals might have different interpretations of these notions of security and their relative importance. One might emphasise the importance of economic security sources such as income, jobs, and basic needs fulfillment, while others might focus on health issues when defining security, especially if disease has played a more prominent role in their lives.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Methodology</title>
+         <p>This study is a qualitative research that employs process tracing methods. A qualitative approach is useful for understanding participant experiences, perceptions, or opinions [<xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>]. Qualitative methods are suitable for this study as they enable more thorough examination of the ambivalent attitudes and policies regarding the internalisation of the anti-tobacco norm. As opposed to quantitative research, which emphasises the outcome in the form of data, qualitative research focuses on analysing the process and truly understanding the meaning or essence of a phenomenon [<xref ref-type="bibr" rid="R33">33</xref>]. Thus, qualitative research will help this study understand the process of norm internalisation at the governmental and societal level and their perception about the meaning of security.</p>
+         <p>This study is a case study in East Java, Indonesia especially in Jember, Situbondo, and Bondowoso regencies. The decision to use Indonesia as the case study is based on reasons that Indonesia is one of the world’s largest tobacco producers and has not ratified FCTC. Indeed, East Java province, including Jember, Situbondo, and Bondowoso regencies are tobacco centers in Indonesia.</p>
+         <p>The data used in this study are both primary and secondary. This study uses desk study methods to gather secondary data such as government reports, statistical data, legislation, and policies. Meanwhile, this study employs in-depth interview methods for collecting primary data. Participants in the in-depth interview are national governments, local governments, NGOs, tobacco farmers, and the community, including smoking and non-smoking people. <italic>First</italic>, at the national government level, we gather data from the Ministry of Finance and Ministry of Health. Ministry of Finance represented by Directorate General of Custom and Excise provides data about revenue obtained from tobacco production and revenue allocation. Meanwhile, the Ministry of Health represented by the Health Office of Jember, Bondowoso, and Situbondo regency provides data on the adoption and implementation of anti-tobacco norms and the impacts of tobacco on health.</p>
+         <p><italic>Second</italic>, at the regional government level, this study gathers data from three regencies of Jember, Bondowoso, and Situbondo. We interview several offices such as Regional Development Planning Agency, Regional Revenue Offices, and Head of Subdistrict in each regency. Data gathered from the regencies are as follows: the implementation of tobacco control at the regional level, regional revenue obtained from tobacco production, the contribution of tobacco to regional development, and the allocation of tobacco revenue.</p>
+         <p>
+            <italic>Third</italic>, at the societal level, this research interviews local leaders, tobacco farmers, smokers, and non-smokers. We gather data about the perception about security, the implementation of tobacco control at the societal level, societies’ response to the anti-tobacco norm, and tobacco’s contribution to local communities’ income, especially tobacco farmers and tobacco labours.</p>
+         <p>This research follows process tracing methods for analysing the data. It examines Indonesia’s norm internalisation process and the debate between economic and health security related to the anti-tobacco norm. According to Collier [<xref ref-type="bibr" rid="R34">34</xref>] and Beach &amp; Pederson [<xref ref-type="bibr" rid="R35">35</xref>], process tracing is useful for tracing the detail of a phenomenon and analysing causal mechanisms between independent and dependent variables. The stages in the data analysis are as follows. <italic>Firstly</italic>, this study describes in detail the emergence of the anti-tobacco norm at the global level. It also explains the internalisation and implementation of anti-tobacco norms based on a chronological order in Indonesia. <italic>Secondly</italic>, interpretation about causal mechanism based on the detailed description in the first stage. <italic>Lastly</italic>, this study concludes that an ambivalent attitude regarding the anti-tobacco norm internalisation occurs in Indonesia, whether prioritising economic or health security.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Result and Discussion</title>
+         <p>Building on the conceptual framework and methodology, this section traces the emergence of anti-tobacco norm and its internalisation in the Indonesian context. Indeed, it provides a detailed description and analysis of Indonesia’s tobacco industries and its economic and health impacts. It analyses the ambivalence of anti-tobacco nom internalisation at governmental and societal levels.</p>
+         <sec id="s4.1">
+            <title>4.1.- Tracing the Emergence of Global Anti-Tobacco Norms</title>
+            <p>The idea about the danger of tobacco has been found since 1950s. It can be traced back to when Sir (William) Richard Shaboe Doll collaborated with Bradford Hill found that smoking causes lung cancer and other diseases [<xref ref-type="bibr" rid="R36">36</xref>]. Doll and Hill’s finding is evidence-based on scientific research about the danger of tobacco. They published the invention in the <italic>Journal of the American Medical Association</italic> in 1950 and the BMJ in 1954. Moreover, they also conduct academic activities such as research and lecture within which they meet other academicians and scientists to deliver their findings of the danger of tobacco. However, the findings of the relation between smoke and lung cancer were not easily accepted by the government, industries, and society [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+            <p>Building on the idea of Finnemore and Sikkink [<xref ref-type="bibr" rid="R22">22</xref>], the invention of the danger of tobacco can be categorised as the early stage of the norm emergence. Nevertheless, in order to the invention becomes a norm in the phase of norm emergence, it needs a framing or securitisation by which a non-politicised issue becomes politicised and securitised issue [<xref ref-type="bibr" rid="R38">38</xref>]. In this stage, norm entrepreneurs of anti-tobacco have to convince the political leader to adopt anti-tobacco ideas. The norm entrepreneurs consist of intergovernmental organisations (IGOs), NGOs, states, academicians, community leaders, and individuals. They work using persuasive methods such as a campaign to promote the anti-tobacco norms.</p>
+            <p>In the mid-1960s and 1970s, there were formal meetings such as international conferences and workshops to socialise the invention about tobacco’s danger. It is an effort to raise public awareness and government and politicians’ will to concern this issue. From the securitisation theory point of view, this is the phase when the norm entrepreneurs blow up and framing the issue. The meeting series mainly initiated by the Western scientists and governments were conducted in New York, London, and New York in 1967, 1971, 1975, respectively. It is followed by the other series of international conferences hosted by Australia, United Kingdom, Norway, Canada, and the USA [<xref ref-type="bibr" rid="R39">39</xref>].</p>
+            <p>While the Western countries initiated tobacco control, it is started to be globalised in the decade of 1970s-1990s. The idea about tobacco control has been spread in cross nationals, including the third world. It is a phase of consolidation as well as intensification within which the anti-tobacco norm is accepted globally. In the 1990s, many countries start to issue legislation on tobacco control, for instance, "Tobacco Smoking (Control) Act" No. 2/1990 [<xref ref-type="bibr" rid="R40">40</xref>], "Tobacco Control Act 1990" of Western Australia [<xref ref-type="bibr" rid="R41">41</xref>], "S.1883-Tobacco Product Education and Health Protection Act of 1990" issued by the USA [<xref ref-type="bibr" rid="R42">42</xref>], "Smoke-Free Environments ACT 1990" of New Zealand [<xref ref-type="bibr" rid="R43">43</xref>], and others.</p>
+            <p>IGOs such as WHO also actively persuade global community about the danger of tobacco. In its 1988 publication entitled "From Alma-Ata to the Year 2000: reflections at the midpoint", WHO recognises that tobacco has threatened community health. However, the book has not formulated strategies to control tobacco use [<xref ref-type="bibr" rid="R44">44</xref>]. Most WHO member states consider that tobacco danger is a small issue as there are many important health cases such as malaria, cancer, and family planning which need WHO’s attention and priority [<xref ref-type="bibr" rid="R39">39</xref>].</p>
+            <p>WHO started to concern tobacco as global pandemic since the late 1999 and early 2000s. WHO manages to promote an international agreement to combat tobacco danger as well as controlling the use of tobacco. As a result, WHO supported by the UN and NGOs initiates FCTC which was signed in 2003 and came into force in 2005. FCTC is a global norm or guiding principles for raising global awareness and also political will to provide measures for controlling tobacco smoke. Moreover, the anti-tobacco norm is supported by academic publications through which academicians seek to influence the community to prevent the use of tobacco. Several journal articles such as "Tobacco Prevention and Cessation" [<xref ref-type="bibr" rid="R45">45</xref>], "Tobacco Control" [<xref ref-type="bibr" rid="R46">46</xref>] are purposively published for supporting the campaign of anti-tobacco control. They work together in a norm cascade within which these actors socialise anti-tobacco ideas.</p>
+            <p>Norm cascade can be seen in the socialisation of FCTC guiding principles. As the most prominent global anti-tobacco norm, FCTC seeks to propose a comprehensive cooperation and mechanism to control the use of tobacco in all over the world. In part III, FCTC regulates several measures to control tobacco suggested as follows: (1) increasing price and tax; (2) issuing and implementing effective policies, legislation, or regulation on tobacco control including protection from smoke exposure especially in public space; (3) prohibiting misleading information about tobacco or smoke such as in its labelling and its packaging; (4) banning advertisement, promotion, sponsorship of smoke; (5) provides social education, training, communication, psychological support, and other means to raise public awareness about the danger of tobacco [<xref ref-type="bibr" rid="R47">47</xref>].</p>
+            <p>Norm life cycle model proposed by Finnemore and Sikkink [<xref ref-type="bibr" rid="R22">22</xref>] argues that once norm entrepreneurs have socialised the norm, the process is followed by norm internalisation. Norm internalisation is about norm acceptance by the major of population. More specifically, it contains norm adoption and implementation at the domestic level. At the global level, as mentioned earlier FCTC has been ratified by more than 90% member states. It reflects that almost all WHO member states accept the anti-tobacco norm. Nevertheless, special cases occur in Indonesia since Indonesia has not ratified FCTC but seeks to implement anti-tobacco control, as discussed in the following sections.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- The Ambivalence of Anti-tobacco Norm Internalisation in Indonesia</title>
+            <p>In the Indonesian context, at least as of 2020, the government has not signed and ratified the FCTC, but to some extent, Indonesia has issued many similar regulations regarding tobacco control. Seeing this phenomenon, Indonesia seems to be starting to internalize universal anti-tobacco values. However, as will be discussed further, the internalization was neither complete nor smooth. This means that there is still a reservation because of the government’s great need for tax income from the cigarette industry. This becomes more complex because of the widespread view that tobacco farmers and cigarette factory workers are highly dependent on tobacco agriculture and the cigarette industry.</p>
+            <p>In other words, debates about anti-tobacco norms are widespread, especially between contenders of the economic security and health security arguments. Building on Wiener [<xref ref-type="bibr" rid="R48">48</xref>], the debate shows norm contestation influenced by the cultural and social contexts of tobacco stakeholders in Indonesia. The following section examines norm internalisation in Indonesia, including norm formal validity or reference frameworks in legislation and government policies [<xref ref-type="bibr" rid="R26">26</xref>]. The frameworks affect the degree of compliance with anti-tobacco norms.</p>
+            <p>At the empirical level, it can be seen from several interviews both at the government official level and at the farmer level. Government officials say that they cannot do much to limit the use of cigarette as they encounter a dilemma between advocating tobacco control and worrying about tobacco farmers losing income. In one of the interviews, a sub-district head said:</p>
+            <p>
+               <italic>"We are well aware that smoking is unhealthy and even dangerous. However, we are as the the government officials aware of the farmers’ difficulties who do not have alternative sources of income other than tobacco. Moreover, the government does not have sufficient capacity to provide economically profitable alternatives to farmers"</italic> (Interview with the Sub-district Head of Maesan, September 16, 2020).</p>
+            <p>
+               <italic>In a similar vein, the Pakusari sub-district head in Jember believed that: "the community’s dependence on tobacco and tobacco industries is very high. Around 90 percent of Pakusari employees work as tobacco farmers and tobacco warehouse workers". So if tobacco or cigarettes are banned, it can threaten the livelihood of the people"</italic> (Interview, September 25, 2020).
+</p>
+            <p>
+               <italic>In addition, at the farmer level, there is also an ambivalent attitude. Farmers know about the anti-smoking campaign, which can easily be found on cigarette packs or banners that are widely spread around them. However, farmers continue to produce tobacco for economic reasons. Farmers also, at the same time, consume cigarettes for reasons of psychological, addicted and part of the culture. Based on interviews with local farmers regarding the economic reasons, the farmers underlined, "being a tobacco farmer is the only skill they have because the land is only suitable for tobacco plants … we cannot farm other than tobacco". While the cultural aspect is also unavoidable in the farmers’ point of view on tobacco: "tobacco farming symbolises people who dare to take risks; meaning that tobacco farmers are manly."</italic> (Interview, September 17, 2020)</p>
+            <sec id="s4.2.1">
+               <title>4.2.1.- Tobacco industries in Indonesia</title>
+               <p>In order to see the size of the government’s income from the tobacco industry, this section tries to see further the development of Indonesia’s income from the tobacco industry. Tobacco is one of the primary commodities grown on Indonesian plantations. Tobacco plantations are distinguished by ownership; that is, there are government estates, which belong to the government (<italic>Perkebunan Besar Negara</italic>/PBN) and smallholder estates, which belong to the people (<italic>Perkebunan Rakyat</italic>/PR). Currently, the area covered by tobacco plantations in Indonesia is approximately 204,509 ha overseen by PBN (84 ha or 0.04%) and PR (204,425 ha or 99.96%). This data reflects the fact that tobacco in Indonesia represents the people’s business and livelihood as opposed to being a government-run industry.</p>
+               <p>There is an increasing trend of tobacco production in Indonesia. Between 2014 and 2020, the total production of tobacco increased by about 0.7% per year, except in 2016 as shown in Figure <xref ref-type="fig" rid="Fig1">1</xref>. The centres of tobacco plantations in Indonesia are Central Java, East Java, and Nusa Tenggara Barat provinces. Among the three provinces, East Java has produced the highest amount of tobacco. The contribution of East Java to the total Indonesian tobacco production is about 43.45%.</p>
+               <fig id="Fig1" position="float" orientation="portrait">
+                  <label>
+                Figure 1</label>
+                  <caption>
+                     <title>Tobacco production in Indonesia (2015-2020) [<xref ref-type="bibr" rid="R49">49</xref>].</title>
+                  </caption>
+                  <graphic xlink:href="Fig1.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <fig id="Fig2" position="float" orientation="portrait">
+                  <label>
+                Figure 2</label>
+                  <caption>
+                     <title>Tobacco Export and Import (2010-2018) [<xref ref-type="bibr" rid="R49">49</xref>].</title>
+                  </caption>
+                  <graphic xlink:href="Fig2.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <fig id="Fig3" position="float" orientation="portrait">
+                  <label>
+                Figure 3</label>
+                  <caption>
+                     <title>Domestic Cigarette Consumption.</title>
+                  </caption>
+                  <graphic xlink:href="Fig3.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <p>Figure <xref ref-type="fig" rid="Fig1">1</xref> shows that tobacco production only decreased in 2016 before stabilising and remaining relatively steady through 2020. As mentioned earlier, most tobacco estates in Indonesia are organised in community-run smallholders that use traditional farming methods. Hence, it is likely that the decline in production in 2016 was due to bad climate changes.</p>
+               <p>Indonesia has long been known as one of the major tobacco producers in the world [<xref ref-type="bibr" rid="R13">13</xref>]. Nevertheless, there is a declining trend in Indonesian tobacco exports. Exports have decreased because the demand for tobacco for cigarette production in the domestic market is very high. According to the Directorate General of Estate Crops, Ministry of Agriculture Republic of Indonesia, during the years 2010-2018, total exports of tobacco declined by approximately 0.15%, though the exports did slightly recover in 2017 and 2018. In addition, Indonesia exports raw as opposed to processed tobacco [<xref ref-type="bibr" rid="R49">49</xref>] However, Indonesia continues to import tobacco, especially for cigarette industries, as shown in Figure <xref ref-type="fig" rid="Fig2">2</xref>.</p>
+               <p>Figure <xref ref-type="fig" rid="Fig2">2</xref> shows a deficit in the balance of trade in tobacco commodities where Indonesia imports more tobacco than its exports. In Indonesia, tobacco estates grow multiple variants of tobacco, namely <italic>Voor-Oogst</italic> (VO), Na-Oogst (NO), virginia, burley, and oriental. The variant of VO and NO planted in Jember, East Java, yields cigar materials exported to Germany, Denmark, Italy, Poland, Switzerland, China, and Singapore [<xref ref-type="bibr" rid="R50">50</xref>]. On the other hand, tobacco import is allowed under Law No. 3/2014, which regulates the obligation of the government to guarantee the availability of raw materials for domestic industries. Hence, since domestic tobacco plantations do not meet the cigarrete industries’ needs, tobacco import is permitted. As a result, Indonesia imports Virginia, Burley, and oriental tobacco from China, India, the United States, Brazil, Turkey, and Zimbabwe to provide raw materials for cigarette industries [<xref ref-type="bibr" rid="R51">51</xref>]. As opposed to the cigar as an export commodity, cigarette products are marketed in domestic areas. In this sense, the high level of tobacco import parallels the high domestic consumption of tobacco in Indonesia [<xref ref-type="bibr" rid="R52">52</xref>], as shown in Figure 3 below. The table records the percentage of smokers in Indonesia above the age of 15; most of the smokers are men. Indeed, despite there has been a declining trend since 2010, before 2013 half of Indonesian men are smokers.</p>
+               <p>The picture above shows that despite the anti-tobacco campaign, the demand for tobacco in Indonesia continues, although it does not increase sharply. Indonesia continues imports tobacco for the needs of the cigarette industry. Not all of this cigarette production is, of course, for domestic consumption. But the above developments show that, despite the awareness of anti-smoking, domestic demand for cigarettes is relatively stable except for the period 2007 to 2013, for men and it remains stable among women.</p>
+            </sec>
+            <sec id="s4.2.2">
+               <title>4.2.2.- Tracing Indonesian tobacco control legislation</title>
+               <p>It is difficult to ascertain that the stability of Indonesia’s tobacco industry and consumption is related to the success or failure of anti-tobacco campaigns. The explanation of this is related to the ambiguous attitude both among the government and the public regarding the anti-tobacco campaign itself which will be explained later in the next section. However, in this section it is important to first look at how Indonesia government tries to internalize anti-smoking norms at the global level into various regulations. In general, it will be seen that the anti-tobacco regulations tend to tighten tobacco consumption, but they also tend to provide flexibility for the survival, if not the expansion of the cigarette industries.</p>
+               <p>Indonesia has not signed and ratified FCTC, but Indonesia’s legislation and policies on tobacco control can be traced back to the 1990s. Unlike other countries such as New Zealand, Nigeria, the USA, and Western Australia that explicitly regulate tobacco control, Indonesia uses a comparatively moderate approach to implement anti-tobacco norms. In 1992, under President Soeharto, Indonesia issued Law No. 23 of 1992 on Health, wherein Article 44 regulates addictive substances. Accordingly, the use of addictive substances must not endanger the health of individuals, households, communities, or the environment. Nevertheless, the law does not explain further rules regarding addictive substances. Therefore, several government regulations (GR) were provided to implement the law, including tobacco control [<xref ref-type="bibr" rid="R53">53</xref>].</p>
+               <p>Seven years later, in 1999, Indonesia issued GR No. 81 of 1999 on the "Safety of Smoking for Health" as a follow-up to Law No. 23 of 1992. GR No. 81 of 1999 was the first piece of Indonesian legislation that clearly mentioned tobacco’s dangers. Accordingly, it identified smoking as one of the addictive substances that endangers individuals and societies; hence, the legislation conveyed that it was necessary to implement government oversight of smoking. The original legislation regulated four crucial aspects of tobacco control: nicotine and tar content, cigarette production and sales, cigarette promotion and advertisement, and smoking-free areas. Nevertheless, GR No. 81 of 1999 has been amended twice by GR No. 38 of 2000 and GR No. 19 of 2003, amendments that relaxed the aforementioned legislation and again weakened the internalisation of anti-tobacco norms in Indonesia.</p>
+               <p>According to GR No. 81 of 1999, the maximum level of nicotine and tar contained in one cigarette (i.e., 1.5 mg and 20 mg, respectively) must be written on the package. The allocated period of adjustment to nicotine regulation and tar is five years for large companies and ten years for small companies. The GR also emphasised that any activities of cigarette production and sales must be conducted only with a permit from the government. Moreover, cigarette advertisements and promotions are allowed as long as they are limited to print media or outdoor areas. The GR also obliged tobacco companies to inform consumers of the dangers of tobacco use in their advertisements. Lastly, GR No. 81 of 1999 encouraged the designation of public areas such as public transports, prayer rooms, and children’s areas (e.g., playgrounds) as smoking-free zones [<xref ref-type="bibr" rid="R54">54</xref>].</p>
+               <p>GR No. 81 of 1999 was first amended by GR No. 38 of 2000. Several crucial elements were changed, especially those related to regulations on nicotine and tar content and also regarding the maximum adjustment period to conform to such regulations. While GR No. 81 of 1999 obligated large cigarette companies to adjust with the regulation on nicotine and tar maximum in five years, GR No. 38 of 2000 prolonged the time of adjustment to up to seven years. It could be said that the amendment was profitable to large cigarette companies. Moreover, diverging from GR No. 81 of 1999, GR No. 38 of 2000 allows for promotions and advertisements to be delivered not only in print media and outdoor areas but also via electronic media from 9.30 p.m. to 05.00 a.m. [<xref ref-type="bibr" rid="R55">55</xref>].</p>
+               <p>The second amendment of GR No. 81 of 1999 was GR No. 19 of 2003. The amendment provides rule flexibility for tobacco industries since the GR eliminates the regulations limiting the maximum amount of nicotine and tar in cigarettes and removes the deadline to adjust nicotine and tar regulations. The amendments have gradually created a setback in anti-tobacco norm implementation in Indonesia. As a result, tobacco industries enjoy flexibilities and facilities for their production, promotion or advertisement, and sales [<xref ref-type="bibr" rid="R56">56</xref>].</p>
+               <p>Differences in views among the government agencies, resulted in the formulation of inconsistent regulations. GR No. 81 of 1999 showed the nation’s high willingness to implement smoking control. However, it was then amended by GR No. 38 of 2000 and GR No. 19 of 2003, both of which weakened anti-tobacco norm implementation. In contrast, recent legislation on health, namely Law No. 36 of 2009, seeks to increase anti-tobacco norm internalisation by clearly regulating tobacco consumption. Article 113 of the law regulates tobacco as an addictive substance that poses dangers individuals, households, communities, and the environment. Therefore, the use of tobacco products is now under the control and license of the government. At the local level, the law also obligates local governments to regulate smoking-free areas, including public health facilities, schools, playgrounds, places of worship, public transport, workspaces, and other spaces [<xref ref-type="bibr" rid="R57">57</xref>]. Compared to the previous legislation, Law No. 36 of 2009 reflects a serious effort to internalise anti-tobacco norms in Indonesian legislation. It is supported by the issuance of Law No. 32 of 2010 on Smoking Prohibition. According to the law, there is a penalty fine of up to IDR 200,000,000 (two hundred million rupiah) for those who violate smoking prohibitions in public spaces.</p>
+               <p>In addition, tobacco control is directly implemented by raising cigarette prices and taxes such as the excise and cigarette tax. According to Law No. 39 of 2007 concerning Amendment to Law No. 11 of 1995, excise is a state levy imposed on certain goods such as alcohol and tobacco products, including cigarettes, cigars, sliced tobacco, and tobacco leaves. The increase in tobacco product taxes and prices is governed under Ministry of Finance Regulation (<italic>Peraturan Menteri Keuangan</italic>/ PMK). Table <xref ref-type="table" rid="Tab1">1</xref> shows tobacco product excises in the period of 2012-2020.</p>
+               <p>The increase of taxes and prices shapes the final cost of tobacco products at the sales level. Thus, this approach aims to dissuade consumers from buying tobacco products. However, the increase of tobacco product excise for controlling tobacco consumption has led to an increase in illegal cigarette production. According to an interviewee from the Directorate General of Custom and Excise, many small home cigarette industries go bankrupt since they cannot maintain the operational costs of cigarette production and associated taxes. As a result, some of them turn to producing illegal cigarettes. Indeed, since cigarette prices are relatively high, local people make their own smoking goods using tobacco leaves and other ingredients. It is clear that Indonesia remains in need of more comprehensive, serious law enforcement of tobacco control.</p>
+               <table-wrap id="Tab1" position="float" orientation="portrait">
+                  <label>Table 1</label>
+                  <caption>
+                     <title>Tobacco Product Excises (2012-2020) [<xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>, <xref ref-type="bibr" rid="R60">60</xref>, <xref ref-type="bibr" rid="R61">61</xref>, <xref ref-type="bibr" rid="R62">62</xref>]</title>
+                  </caption>
+                  <table>
+                     <thead>
+                        <tr>
+                           <td align="justify"
+                               style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                              <bold>Year</bold>
+                           </td>
+                           <td align="justify"
+                               style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                              <bold>Excise</bold>
+                           </td>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td align="justify"
+                               style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2012
+                </td>
+                           <td align="justify"
+                               style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  12.2%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2013
+                </td>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  8.5%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2015
+                </td>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  8.72%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2016
+                </td>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  11.19%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2017
+                </td>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  10.54%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2018
+                </td>
+                           <td align="justify"
+                               style="padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  10.04%
+                </td>
+                        </tr>
+                        <tr>
+                           <td align="justify"
+                               style="border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  2020
+                </td>
+                           <td align="justify"
+                               style="border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                               rowspan="1"
+                               colspan="1">
+                  
+                  23%
+                </td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+               <p>Tobacco control, moreover, is not only implemented by the national government but also local governments. It is a mandate of Law No. 36 of 2009 that obligates regional governments to issue their own smoking-free area regulations. For instance, the Jakarta Special Region issued regulation on smoking-free zones in 2010 and was soon followed by other local governments. As a result, by 2020, approximately 77.2% or 397 regencies and cities had issued local regulations on smoke-free areas [<xref ref-type="bibr" rid="R63">63</xref>].</p>
+               <p>Indonesian legislation on tobacco control, including local regulation, has been relatively effective in reducing the use of tobacco. A survey conducted by the Ministry of Health show that increasing percentage of smokers from 2007 to 2010 experienced a gradually decline from 2010 to 2018, as shown in Figure <xref ref-type="fig" rid="Fig4">4</xref> [<xref ref-type="bibr" rid="R64">64</xref>, <xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>]. This suggests that under the new laws, Indonesia has made progress in the implementation of tobacco control. Nevertheless, the survey also found that the smokers in Indonesia are not only people of working age, as shown in Figure <xref ref-type="fig" rid="Fig4">4</xref>, but also children around the age of 10 and the elderly. Furthermore, despite the fact that the number of smokers is less than that of non-smokers, the dangers of tobacco also affect non-smoking people and passive smokers [<xref ref-type="bibr" rid="R64">64</xref>, <xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>]. Therefore, the Indonesian Ministry of Health has made attempts to increase tobacco control through regulations of tax and price mechanisms.</p>
+               <p>The optimism surrounding the efficacy of social norms as deterrents to tobacco use becomes difficult to maintain in the Indonesian context. Astuti, et al. argue that tobacco control in Indonesia has shown slow progress due to the country’s political structure and policy hierarchy. Indeed, lack of state effectiveness, a result of unclear powers and responsibilities of governance and corruption, delay the widespread adoption of tobacco control and anti-tobacco culture covering anti-tobacco attitudes and norms [<xref ref-type="bibr" rid="R68">68</xref>].</p>
+               <p>The above picture presents a confusing picture of Indonesia’s anti-tobacco regulations. Although recently, with the 2009 government regulation, there were more vigorous efforts to limit tobacco consumption starting from the national level to local government, the cigarette industry in Indonesia is still protected. The government has indeed stepped up its anti-smoking campaign with various regulations including advertising restrictions, but at the same time it has allowed, if not protected, the cigarette industry.</p>
+            </sec>
+            <sec id="s4.2.3">
+               <title>4.2.3.- Tobacco for promoting economic and health security: an ambivalent policy</title>
+               <p>The increase of tobacco excises in Indonesia reflects Janus-faced interests for promoting health security on the one hand and economic security on the other hand. While Indonesia seeks to control tobacco through tax and price measures, at the same time, Indonesia also demands funds obtained from tobacco for supporting economic development such as tourism, infrastructures, and the environment. Currently, tobacco has the highest contribution to total excise in Indonesia. There are three elements of taxes in tobacco products, namely excises tax, cigarette tax, and value-added tax (VAT). The cigarette companies pay tobacco products excise to the Directorate General of Custom and Excise based on its number of production, its group, and its type of production, whether machine or hand made. The national government allocates the taxes for funding national development and also supporting regional governments.</p>
+               <p>Meanwhile, regional governments manage cigarette tax and other taxes such as the advertisement and promotion of cigarettes. Based on Law No. 28 of 2009, the amount of cigarette tax is 10% of the excise. Moreover, regional governments also receive funds allocated from tobacco products excise by the national government under the scheme of "Revenue Sharing Fund of Tobacco Products Excises" (<italic>Dana Bagi Hasil Cukai Hasil Tembakau</italic>/ DBHCHT). The Ministry of Finance transfers DBHCHT to all Indonesian provinces, regencies, and cities, including tobacco-producing provinces, tobacco-producing regencies or cities, and non-producer provinces/regencies/cities. From 2010 to 2020, there is an increasing trend of DBHCHT, as shown in Figure <xref ref-type="fig" rid="Fig5">5</xref> is due to the increase in excise and tax. East Java which is the biggest producer of tobacco products in Indonesia receives the highest amount of DBHCHT which increase annually [<xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>, <xref ref-type="bibr" rid="R72">72</xref>, <xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>, <xref ref-type="bibr" rid="R75">75</xref>, <xref ref-type="bibr" rid="R76">76</xref>, <xref ref-type="bibr" rid="R77">77</xref>, <xref ref-type="bibr" rid="R78">78</xref>, <xref ref-type="bibr" rid="R79">79</xref>].</p>
+               <fig id="Fig4" position="float" orientation="portrait">
+                  <label>
+                Figure 4</label>
+                  <caption>
+                     <title>The trend of Smoking in Indonesia.</title>
+                  </caption>
+                  <graphic xlink:href="Fig4.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <fig id="Fig5" position="float" orientation="portrait">
+                  <label>
+                Figure 5</label>
+                  <caption>
+                     <title>The trend of Revenue Sharing Fund of Tobacco Products Excises (DBHCHT) from 2010 to 2020.</title>
+                  </caption>
+                  <graphic xlink:href="Fig5.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+               <p>The Indonesian government also uses funds obtained from tobacco products to support health security. PMK concerning DBHCHT obligates regional governments to allocate at least 50% of the funds to helping the poor access health facilities, promoting health services, upgrading health facilities and equipment, and training medical workers. According to the interviews with officials at the Health Office of Jember, Bondowoso, and Situbondo regencies, DBHCHT supports hospital facilities by buying medical equipment, beds, room facilities, and medicines, and by helping poor people to more easily access health services.</p>
+               <p>Furthermore, the allocation of DBHCHT is also for facilitating regional governments to issue regional regulations on smoking-free zones as well as educating people about the danger of tobacco. Nevertheless, despite many regional government’s issuance of regulations on smoking-free zone, the negotiation process is quite hard. According to government officials of Situbondo, Jember, and Bondowoso regencies in the interview session held on September 2020, there are psychological and cultural obstacles to controlling tobacco either at the government or parliament and at the society level. Many parliament and government members who have responsibilities to establish the norm of tobacco control are themselves addicted to smoking. Indeed, at the society level, besides smoking habits being linked to addiction, it is also a part of local culture. As argued by tobacco farmers in these areas, planting tobacco and smoking reflects masculinity and high status. Tobacco in these regencies is part of people’s lives; therefore, it needs a comprehensive approach to convince people to control tobacco use.</p>
+               <p>On the other hand, the government also allocates the rest of DBHCHT to promote development, and economic progress relating to job creation, toward which tobacco industries are major contributors [<xref ref-type="bibr" rid="R80">80</xref>]. It also uses the taxes to promoting good tobacco farm practices, improving infrastructures such as road, market, clean water, sanitation, irrigation, supporting tourism, and improving the environment through waste management [<xref ref-type="bibr" rid="R81">81</xref>].</p>
+               <p>Nevertheless, the data of DBHCT shows that government provides a higher amount of DBHCHT to regencies or cities wherein cigarette companies operate instead of tobacco-farming regencies. For instance, in East Java province, the regencies of Jember, Situbondo, and Bondowoso are the center of tobacco farming; meanwhile, Pasuruan regency does not develop tobacco farming but has cigarette companies in its territory [<xref ref-type="bibr" rid="R82">82</xref>]. In this context, Pasuruan regency receives a very high amount of DBHCHT compared to Jember, Bondowoso, and Situbondo as shown in Figure <xref ref-type="fig" rid="Fig5">5</xref> [<xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R70">70</xref>, <xref ref-type="bibr" rid="R71">71</xref>, <xref ref-type="bibr" rid="R72">72</xref>, <xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>, <xref ref-type="bibr" rid="R75">75</xref>, <xref ref-type="bibr" rid="R76">76</xref>, <xref ref-type="bibr" rid="R77">77</xref>, <xref ref-type="bibr" rid="R78">78</xref>, <xref ref-type="bibr" rid="R79">79</xref>].</p>
+               <p>Figure <xref ref-type="fig" rid="Fig6">6</xref> below reflects the fact that even though the farmers make contributions to national tobacco industries, tobacco-farming regions receive lower DBHCHT than cigarette-producing regions. In other words, tobacco farmers receive little government support. This is in line with information learned from tobacco farmers in the interview session conducted in September 2020. Accordingly, although there are efforts dedicated to improving tobacco quality as the raw material for tobacco industries, such government programs do not really help the farmers themselves; hence, these efforts do not directly affect tobacco farmers’ welfare. However, farmers continue to grow tobacco because of human resources, experience and traditions of tobacco farming that have been passed down from generation to generation. It is very rare for tobacco farmers to switch to other farms. If the price of tobacco falls, they still have hope that the price of tobacco will improve if demand from abroad increases. Thus, they continue to grow tobacco as the source of support for their livelihoods. Indeed, as summarized by the head of the Pakusari Jember subdistrict, tobacco-growing areas are fully dependent on tobacco, either as farmers or labourers.</p>
+               <fig id="Fig6" position="float" orientation="portrait">
+                  <label>
+                Figure 6</label>
+                  <caption>
+                     <title>Comparing DBHCHT for regencies.</title>
+                  </caption>
+                  <graphic xlink:href="Fig6.png"
+                           position="float"
+                           orientation="portrait"
+                           xlink:type="simple"/>
+               </fig>
+            </sec>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusion</title>
+         <p>The description of the results of the research above shows the difficulties faced in internalizing anti-tobacco norms in Indonesia. In essence, the government is aware of the dangers of tobacco to society which has become part of the global health threat. It also carries out various regulations, campaigns, and actions to limit tobacco consumption. However, the internalization and socialization of these various regulations is not an easy thing. The government itself, in addition to providing anti-tobacco awareness, wants to ensure that the cigarette industry continues to run. The government enjoys a somewhat increasing income every year from cigarette excise which is really needed for development in various fields including health.</p>
+         <p>The government indeed encourages anti-smoking campaigns to reach all regions, pushes local governments to make anti-tobacco regulations and continues to campaign for the dangers of smoking to the public. But the action was not followed by strict implementations of the rules and regulations, even officials tolerate smokers in many places or provide special zones if the place is smoke-free.</p>
+         <p>In various observations and research interviews in the field, the above phenomena are widely recognized in the community and interpreted almost uniformly. The public generally understands the government’s difficulties and also the difficulties that tobacco farmers and tobacco industry workers will face if the anti-smoking campaign is carried out consistently. This is coupled with the assumption that tobacco has been a farmer’s traditional crop since the colonial era, which make people keep thinking that if tobacco is banned, then these farmers will suffer. This kind of meaning gives birth to an attitude that tolerates government regulations and policies that seem ambiguous, weak, and inconsistent.</p>
+         <p>Thus, although awareness of the dangers of tobacco uses is widespread in Indonesia, the internalization of global anti-tobacco norms will still encounter significant obstacles. The widely accepted view about tobacco consumption is certainly not entirely true, because tobacco farmers can look for other sources of income. Their economic security does not depend only on tobacco farming. Indeed, in certain areas where this research was conducted, tobacco is still one of the drivers of the economy. However, in the long term, the fate of these farmers is unclear. They do not get significant support from the government even though they have contributed to the tobacco industry. Their number does not increase, if not decrease. Many farmers depend on tobacco for their livelihood because tobacco has become their farming tradition. To increase their income, majority of these farmers need to grow crops other than tobacco on their lands at different planting times. This can indeed be a solution for the economic security of tobacco farmers.</p>
+         <p>Thus, it is the persistence of the ambivalence view of tobacco that has strengthened ambiguity not only among the government but also in society in viewing the smoking ban campaigns. As long as this view exists, the anti-tobacco campaigns in Indonesia will not be effective because it will meet the fickle attitude of the government and society that tolerates smokers. Internalization of anti-smoking norms in such situations requires greater government commitment to strengthen anti-smoking campaigns and to convince the public that tobacco farmers have other options for making a living.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgments</title>
+         <p>We would like to thank LP2M University of Jember, Indonesia for funding this research. Many thanks are also extended to the two anonymous reviewers who have provided many inputs to this paper.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>World No Tobacco Day 2020</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/campaigns/world-no-tobacco-day/world-no-tobacco-day-2020"
+                         xlink:type="simple">https://www.who.int/campaigns/world-no-tobacco-day/world-no-tobacco-day-2020</ext-link>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>Tobacco</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/health-topics/tobacco\#tab=tab\_1"
+                         xlink:type="simple">https://www.who.int/health-topics/tobacco\#tab=tab\_1</ext-link>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <institution>Risks of Tobacco. MedlinePlus Medical Encyclopedia</institution>
+               <comment>Available from:
+            <uri xlink:type="simple">https://medlineplus.gov/ency/article/002032.htm</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s10458-019-09422-0</pub-id>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://doi.org/10.1007%2Fs10458-019-09422-0"
+                         xlink:type="simple">https://doi.org/10.1007%2Fs10458-019-09422-0</ext-link>
+               <year>2019</year>
+               <month>sep</month>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>33</volume>
+               <issue>6</issue>
+               <fpage>706</fpage>
+               <lpage>749</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andreasa Morris-Martin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marina De Vos</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Julian Padget</surname>
+                  </name>
+               </person-group>
+               <article-title>Norm emergence in multiagent systems: a viewpoint paper</article-title>
+               <source>Autonomous Agents and Multi-Agent Systems</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kapoor</surname>
+                     <given-names>Vinod</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.4103/0975-962x.157264</pub-id>
+               <issn>0975-962X</issn>
+               <source>Indian Journal of Dentistry</source>
+               <issue>2</issue>
+               <fpage>59</fpage>
+               <publisher-name>Medknow</publisher-name>
+               <article-title>Anti-tobacco Campaign: Together We can...</article-title>
+               <volume>6</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roemer</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Taylor</surname>
+                     <given-names>Allyn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lariviere</surname>
+                     <given-names>Jean</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.2105/AJPH.2003.025908</pub-id>
+               <issn>00900036</issn>
+               <source>American Journal of Public Health</source>
+               <issue>6</issue>
+               <fpage>936</fpage>
+               <lpage>946</lpage>
+               <pub-id pub-id-type="pmid">15914812</pub-id>
+               <publisher-name>American Public Health Association</publisher-name>
+               <article-title>Origins of the WHO Framework Convention on Tobacco Control</article-title>
+               <volume>95</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization</publisher-name>
+               <article-title>Parties to the WHO Framework Convention on Tobacco Control</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/fctc/cop/en/"
+                         xlink:type="simple">https://www.who.int/fctc/cop/en/</ext-link>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sparks</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1177/1757975909358350</pub-id>
+               <source>Global Health Promotion</source>
+               <issue>1</issue>
+               <fpage>68</fpage>
+               <lpage>72</lpage>
+               <article-title>Governance beyond Governments: The Role of NGOs in the Implementation of the FCTC</article-title>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tandilittin</surname>
+                     <given-names>Harsman</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.2174/1874761201307010011</pub-id>
+               <issn>18747612</issn>
+               <source>The Open Ethics Journal</source>
+               <fpage>11</fpage>
+               <lpage>18</lpage>
+               <article-title>Civil Society and Tobacco Control in Indonesia: The Last Resort</article-title>
+               <volume>7</volume>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <publisher-name>United Nations Development Programme (UNDP)</publisher-name>
+               <article-title>Human Development Report 1994</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf"
+                         xlink:type="simple">http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf</ext-link>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations (UN)</publisher-name>
+               <article-title>Resolution Adopted by the General Assembly 66/290</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://documents-dds-ny.un.org/doc/UNDOC/GEN/N11/476/22/PDF/N1147622.pdf?OpenElement"
+                         xlink:type="simple">https://documents-dds-ny.un.org/doc/UNDOC/GEN/N11/476/22/PDF/N1147622.pdf?OpenElement</ext-link>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Amartya</given-names>
+                  </name>
+               </person-group>
+               <article-title>Routledge Handbook of Human Security</article-title>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Martin</surname>
+                     <given-names>Mary and Owen, Taylor</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781134619733</isbn>
+               <chapter-title>Birth of a Discourse</chapter-title>
+               <year>2013</year>
+               <fpage>17</fpage>
+               <lpage>27</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shahbandeh</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Statista. World Tobacco Production by Country</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.statista.com/statistics/261173/leading-countries-in-tobacco-production/</uri>.
+        </comment>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-name>United Nations Treaty Collection</publisher-name>
+               <article-title>United Nations Treaty Collection. WHO Framework Convention on Tobacco Control</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&amp;mtdsg\_no=IX-4&amp;chapter=9&amp;clang=\_en"
+                         xlink:type="simple">https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&amp;mtdsg\_no=IX-4&amp;chapter=9&amp;clang=\_en</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Jakarta,ID</publisher-loc>
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Kebijakan Tarif Cukai Hasil Tembakau Tahun 2016</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.kemenkeu.go.id/publikasi/siaran-pers-lama/kebijakan-tarif-cukai-hasil-tembakau-tahun-2016/"
+                         xlink:type="simple">https://www.kemenkeu.go.id/publikasi/siaran-pers-lama/kebijakan-tarif-cukai-hasil-tembakau-tahun-2016/</ext-link>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Jakarta,ID</publisher-loc>
+               <publisher-name>Kementerian Perindustrian Republik Indonesia</publisher-name>
+               <article-title>Kemenperin: Kontribusi Besar Industri Hasil Tembakau Bagi Ekonomi Nasional</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://kemenperin.go.id/artikel/17257/Kontribusi-Besar-Industri-Hasil-Tembakau-Bagi-Ekonomi-Nasional"
+                         xlink:type="simple">https://kemenperin.go.id/artikel/17257/Kontribusi-Besar-Industri-Hasil-Tembakau-Bagi-Ekonomi-Nasional</ext-link>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Jakarta, ID</publisher-loc>
+               <publisher-name>Lembaran Negara Republik Indonesia</publisher-name>
+               <article-title>Pengamanan Bahan Yang Mengandung Zat Adiktif Berupa Produk Tembakau Bagi Kesehatan</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="www.djpp.kemenkumham.go.id"
+                         xlink:type="simple">www.djpp.kemenkumham.go.id</ext-link>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Karapan</surname>
+                     <given-names>Sabita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Singh Bam</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.18332/tid/83903</pub-id>
+               <issn>1617-9625</issn>
+               <source>Tobacco Induced Diseases</source>
+               <issue>1</issue>
+               <publisher-name>E.U. European Publishing</publisher-name>
+               <article-title>Asia Pacific Mayors Alliance for Tobacco Control (AP-CAT): A Breakthrough to Gain Political Will</article-title>
+               <volume>16</volume>
+               <year>2018</year>
+               <fpage>57</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Durkin</surname>
+                     <given-names>Sarah J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schoenaker</surname>
+                     <given-names>Danielle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brennan</surname>
+                     <given-names>Emily</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bayly</surname>
+                     <given-names>Megan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wakefield</surname>
+                     <given-names>Melanie A.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1136/tobaccocontrol-2019-055325</pub-id>
+               <issn>14683318</issn>
+               <source>Tobacco Control</source>
+               <issue>2</issue>
+               <fpage>177</fpage>
+               <lpage>184</lpage>
+               <article-title>Are Anti-smoking Social Norms Associated with Tobacco Control Mass Media Campaigns, Tax and Policy Changes? Findings from an Australian Serial Cross-sectional Population Study of Smokers</article-title>
+               <volume>30</volume>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hohman</surname>
+                     <given-names>Zachary P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Crano</surname>
+                     <given-names>William D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Niedbala</surname>
+                     <given-names>Elizabeth M.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1037/adb0000126</pub-id>
+               <issn>19391501</issn>
+               <source>Psychology of Addictive Behaviors</source>
+               <issue>02</issue>
+               <fpage>209</fpage>
+               <lpage>219</lpage>
+               <pub-id pub-id-type="pmid">26460476</pub-id>
+               <article-title>Attitude Ambivalence, Social Norms, and Behavioral Intentions: Developing Effective Antitobacco Persuasive Communications</article-title>
+               <volume>30</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mead</surname>
+                     <given-names>Erin L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rimal</surname>
+                     <given-names>Rajiv N.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ferrence</surname>
+                     <given-names>Roberta</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>Joanna E.</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.socscimed.2014.05.030</pub-id>
+               <issn>18735347</issn>
+               <source>Social Science and Medicine</source>
+               <issue>August</issue>
+               <fpage>139</fpage>
+               <lpage>143</lpage>
+               <pub-id pub-id-type="pmid">24910005</pub-id>
+               <article-title>Understanding the sSources of Normative Influence on Behavior: The Example of Tobacco</article-title>
+               <volume>115</volume>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Finnemore</surname>
+                     <given-names>Martha</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sikkink</surname>
+                     <given-names>Kathryn</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1162/002081898550789</pub-id>
+               <issn>15315088</issn>
+               <source>International Organization</source>
+               <issue>4</issue>
+               <fpage>887</fpage>
+               <lpage>917</lpage>
+               <article-title>International Norm Dynamics and Political Change</article-title>
+               <volume>52</volume>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Balzacq</surname>
+                     <given-names>Thierry</given-names>
+                  </name>
+               </person-group>
+               <source>Securitization Theory: How Security Problems Emerge and Dissolve</source>
+               <pub-id pub-id-type="doi">10.4324/9780203868508</pub-id>
+               <isbn>0203868501</isbn>
+               <fpage>272</fpage>
+               <publisher-name>Routledge</publisher-name>
+               <chapter-title>Securitization Theory: How Security Problems Emerge and Dissolve</chapter-title>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tuomela</surname>
+                     <given-names>R., Bonnevier-Tuomela</given-names>
+                  </name>
+               </person-group>
+               <source>Social Ontology in the Making</source>
+               <pub-id pub-id-type="doi">10.1515/9783110618204-010</pub-id>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Tuomela</surname>
+                     <given-names>Raimo and Hakli, Raul and Mäkelä</given-names>
+                  </name>
+               </person-group>
+               <fpage>283</fpage>
+               <lpage>292</lpage>
+               <publisher-name>De Gruyter</publisher-name>
+               <chapter-title>Norms and Agreement</chapter-title>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Garc\'ia Iommi</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1017/S2045381719000285</pub-id>
+               <issn>20453825</issn>
+               <source>Global Constitutionalism</source>
+               <issue>1</issue>
+               <fpage>76</fpage>
+               <lpage>116</lpage>
+               <article-title>Norm Internalisation Revisited: Norm Contestation and the Life of Norms at the Extreme of the Norm Cascade</article-title>
+               <volume>9</volume>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiener</surname>
+                     <given-names>Antje</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>1</fpage>
+               <lpage>15</lpage>
+               <source>A Theory of Contestation</source>
+               <chapter-title>Introduction: Contestation as a Norm-Generative Social Practice</chapter-title>
+               <isbn>978-3-642-55234-2</isbn>
+               <pub-id pub-id-type="doi">10.1007/978-3-642-55235-9\_1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Harre</surname>
+                     <given-names>Rom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gillett</surname>
+                     <given-names>Grant</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>SAGE Publications</publisher-name>
+               <article-title>The Discurive Mind</article-title>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contestation `All the Way Down'? The Grammar of Contestation in Norm Research</article-title>
+               <volume>43</volume>
+               <pub-id pub-id-type="doi">10.1017/S0260210516000188</pub-id>
+               <issue>1</issue>
+               <source>Review of International Studies</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Niemann</surname>
+                     <given-names>Holger</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schillinger</surname>
+                     <given-names>Henrik</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>29</fpage>
+               <fpage>49</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Betcy</surname>
+                     <given-names>Jose</given-names>
+                  </name>
+               </person-group>
+               <isbn>978-3-319-69323-1</isbn>
+               <publisher-name>Springer</publisher-name>
+               <article-title>Norm Contestation, Insights into Non-Conformity with Armed Conflict Norms</article-title>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Butler</surname>
+                     <given-names>Colin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Plagues, Pandemics, Health Security, and the War on Nature</article-title>
+               <source>Journal of Human Security</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <year>2020</year>
+               <issn>1835-3800</issn>
+               <pub-id pub-id-type="doi">10.12924/johs2020.16010053</pub-id>
+               <fpage>53</fpage>
+               <lpage>57</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hammarberg</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kirkman</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>De Lacey</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1093/humrep/dev334</pub-id>
+               <issn>14602350</issn>
+               <source>Human Reproduction</source>
+               <issue>3</issue>
+               <fpage>498</fpage>
+               <lpage>501</lpage>
+               <pub-id pub-id-type="pmid">26759142</pub-id>
+               <article-title>Qualitative Research Methods: When to use them and How to Judge them</article-title>
+               <volume>31</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>King</surname>
+                     <given-names>Gary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keohane</surname>
+                     <given-names>Robert O.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Verba</surname>
+                     <given-names>Sidney</given-names>
+                  </name>
+               </person-group>
+               <source>Designing Social Inquiry</source>
+               <pub-id pub-id-type="doi">10.1515/9781400821211</pub-id>
+               <publisher-name>Princeton University Press</publisher-name>
+               <article-title>Designing Social Inquiry</article-title>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ryan</surname>
+                     <given-names>Gemma</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <fpage>14</fpage>
+               <lpage>20</lpage>
+               <article-title>Introduction to Positivism, Interpretivism and Critical Theory</article-title>
+               <volume>25</volume>
+               <source>Nurse Researcher</source>
+               <pub-id pub-id-type="doi">10.7748/nr.2018.e1466</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Understanding Process Tracing</article-title>
+               <volume>44</volume>
+               <pub-id pub-id-type="doi">10.1017/S1049096511001429</pub-id>
+               <issue>4</issue>
+               <source>Political Science</source>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Collier</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>823</fpage>
+               <fpage>830</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beach</surname>
+                     <given-names>Derek</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pedersen</surname>
+                     <given-names>Rasmus</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Process-Tracing Methods: Foundations and Guidelines</article-title>
+               <isbn>978-0-472-05189-2</isbn>
+               <source>Process-tracing Methods: Foundations and Guidelines</source>
+               <pub-id pub-id-type="doi">10.3998/mpub.10072208</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mackay</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.2471/blt.09.075325</pub-id>
+               <issn>0042-9686</issn>
+               <source>Bulletin of the World Health Organization</source>
+               <issue>7</issue>
+               <fpage>560</fpage>
+               <article-title>Smoking Kills: The Revolutionary Life of Richard Doll</article-title>
+               <volume>88</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Richmond</surname>
+                     <given-names>Caroline</given-names>
+                  </name>
+               </person-group>
+               <source>The BMJ</source>
+               <issue>7511</issue>
+               <fpage>295</fpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1181278/"
+                         xlink:type="simple">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1181278/</ext-link>
+               <publisher-name>BMJ Publishing Group</publisher-name>
+               <article-title>Sir Richard Doll</article-title>
+               <volume>331</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <source>Security : A New Framework for Analysis</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>Barry and W\aever, Ole and de Wilde, Jaap</given-names>
+                  </name>
+               </person-group>
+               <isbn>1555877842</isbn>
+               <fpage>21</fpage>
+               <lpage>48</lpage>
+               <publisher-name>Lynne Rienner Pub</publisher-name>
+               <chapter-title>Security Analysis: Conceptual Apparatus</chapter-title>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reubi</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berridge</surname>
+                     <given-names>Virginia</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1017/mdh.2016.97</pub-id>
+               <issn>20488343</issn>
+               <source>Medical History</source>
+               <issue>4</issue>
+               <fpage>453</fpage>
+               <lpage>472</lpage>
+               <pub-id pub-id-type="pmid">27628857</pub-id>
+               <article-title>The internationalisation of tobacco control, 1950-2010</article-title>
+               <volume>60</volume>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>The Government of Nigeria</publisher-name>
+               <article-title>Tobacco smoking (control) act</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.tobaccocontrollaws.org/files/live/Nigeria/Nigeria\%20-\%20Ch.\%20T6\%2C\%20Tobacco\%20Smoking\%20\%28Control\%29\%20Act\%20-\%20national.pdf"
+                         xlink:type="simple">https://www.tobaccocontrollaws.org/files/live/Nigeria/Nigeria\%20-\%20Ch.\%20T6\%2C\%20Tobacco\%20Smoking\%20\%28Control\%29\%20Act\%20-\%20national.pdf</ext-link>
+               <publisher-loc>Abuja, NRA</publisher-loc>
+               <year>1990</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>The Government of Western Australia</publisher-name>
+               <article-title>Tobacco Control Act 1990</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc\_2281.pdf/\$FILE/Tobacco Control Act 1990 - \%5B01-f0-07\%5D.pdf?OpenElement"
+                         xlink:type="simple">https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc\_2281.pdf/\$FILE/Tobacco Control Act 1990 - \%5B01-f0-07\%5D.pdf?OpenElement</ext-link>
+               <publisher-loc>Perth, WA</publisher-loc>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kennedy</surname>
+                     <given-names>E. M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>S.1883 - 101st Congress (1989-1990): Tobacco Product Education and Health Protection Act of 1990</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.congress.gov/bill/101st-congress/senate-bill/1883</uri>.
+        </comment>
+               <year>1990</year>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <institution>The Ministry of Health New Zealand</institution>
+               <source>The Ministry of Health, New Zealand. Smoke-free Environments Act 1990</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.smokefree.org.nz/smokefree-environments/legislation"
+                         xlink:type="simple">https://www.smokefree.org.nz/smokefree-environments/legislation</ext-link>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization (WHO)</publisher-name>
+               <article-title>From Alma-Ata to the Year 2000: Reflections at the Midpoint</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://apps.who.int/iris/bitstream/handle/10665/39323/9241561246\_eng.pdf?sequence=1&amp;isAllowed=y"
+                         xlink:type="simple">https://apps.who.int/iris/bitstream/handle/10665/39323/9241561246\_eng.pdf?sequence=1&amp;isAllowed=y</ext-link>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <year>1988</year>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Romero</surname>
+                     <given-names>Yannick</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.18332/tpc/132803</pub-id>
+               <issn>2459-3087</issn>
+               <source>Tobacco Prevention &amp; Cessation</source>
+               <fpage>1</fpage>
+               <lpage>3</lpage>
+               <article-title>World Cancer Day 2021: Prevention, Awareness and Accountability in Tobacco Control</article-title>
+               <volume>7</volume>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goodchild</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nargis</surname>
+                     <given-names>Nigar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>D'Espaignet, Edouard Tursan</surname>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1136/tobaccocontrol-2016-053305</pub-id>
+               <issn>14683318</issn>
+               <source>Tobacco Control</source>
+               <issue>1</issue>
+               <fpage>58</fpage>
+               <lpage>64</lpage>
+               <pub-id pub-id-type="pmid">28138063</pub-id>
+               <publisher-name>BMJ Publishing Group</publisher-name>
+               <article-title>Global Economic Cost of Smoking-Attributable Diseases</article-title>
+               <volume>27</volume>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>World Health Organization (WHO)</publisher-name>
+               <article-title>The WHO Framework Convention on Tobacco Control: an overview Background</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.who.int/fctc/about/WHO\_FCTC\_summary\_January2015.pdf"
+                         xlink:type="simple">https://www.who.int/fctc/about/WHO\_FCTC\_summary\_January2015.pdf</ext-link>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiener</surname>
+                     <given-names>Antje</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1086/690100</pub-id>
+               <issn>17441684</issn>
+               <source>Polity</source>
+               <issue>1</issue>
+               <article-title>A Theory of Contestation - A Concise Summary of its Argument and Concepts</article-title>
+               <volume>49</volume>
+               <year>2017</year>
+               <fpage>109</fpage>
+               <lpage>125</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <publisher-name>Directorate General of Estate Crops</publisher-name>
+               <article-title>Tree Crop Statistics of Indonesia 2018-2020</article-title>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Tembakau Cerutu Jember, Emas Hijau yang Tetap Perkasa | Indonesia.go.id</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://indonesia.go.id/kategori/kuliner/1447/tembakau-cerutu-jember-emas-hijau-yang-tetap-perkasa</uri>.
+        </comment>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Statistics Indonesia</source>
+               <chapter-title>Imports of Tobacco by Major Countries of Origin, 2010-2019</chapter-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.statista.com/statistics/681264/tobacco-import-value-indonesia-by-country/"
+                         xlink:type="simple">https://www.statista.com/statistics/681264/tobacco-import-value-indonesia-by-country/</ext-link>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ahsan</surname>
+                     <given-names>A., Wiyono, N.H., Veruswati</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Universitas Indonesia Publishing</publisher-name>
+               <article-title>Kajian Impor Tembakau di Indonesia: Kondisi, Tantangan, dan Kebijakan</article-title>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Republic of Indonesia</publisher-name>
+               <article-title>Law 23 of 1999: Research and Development Agency, The Ministry of Law and Human Rights, Indonesia</article-title>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Republic of Indonesia</publisher-name>
+               <article-title>The Audit Broad of Indonesia: PP No. 81 Tahun 1999 tentang Pengamanan Rokok Bagi Kesehatan [JDIH BPK RI]</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/44000/PP%20No.%2081%20th%201999.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/44000/PP%20No.%2081%20th%201999.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Republic of Indonesia</publisher-name>
+               <article-title>The Audit Broad of Indonesia: PP No. 38 Tahun 2000 tentang Perubahan Atas Peraturan Pemerintah Nomor 81 Tahun 1999 Tentang Pengamanan Rokok Bagi Kesehatan [JDIH BPK RI]</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/42624/PP\%20No.38\%20TH\%202000.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/42624/PP\%20No.38\%20TH\%202000.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Republic of Indonesia</publisher-name>
+               <article-title>The Audit Broad of Indonesia: PP No. 19 Tahun 2003 tentang Pengamanan Rokok Bagi Kesehatan [JDIH BPK RI]</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/41489/PP\%20No.19\%20TH\%202003.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/41489/PP\%20No.19\%20TH\%202003.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Republic of Indonesia</publisher-name>
+               <article-title>The Audit Broad of Indonesia: UU No. 36 Tahun 2009 tentang Kesehatan [JDIH BPK RI]</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/28107/UU\%20Nomor\%2036\%20Tahun\%202009.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/28107/UU\%20Nomor\%2036\%20Tahun\%202009.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 198/PMK.010/2015</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.apbi-icma.org/uploads/files/old/2015/04/1-81-631-chrs-815-pages-Ministerial-Decree-of-Finance-No-107-PMI-010-2015.pdf"
+                         xlink:type="simple">http://www.apbi-icma.org/uploads/files/old/2015/04/1-81-631-chrs-815-pages-Ministerial-Decree-of-Finance-No-107-PMI-010-2015.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 147/PMK.010/2016</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://jdih.kemenkeu.go.id/fulltext/2016/147 PMK.010 2016Per.pdf"
+                         xlink:type="simple">http://jdih.kemenkeu.go.id/fulltext/2016/147 PMK.010 2016Per.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finace Regulation No. 146/PMK.010/2017</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jdih.kemenkeu.go.id/fullText/2017/146 PMK.010 2017Per.pdf"
+                         xlink:type="simple">https://jdih.kemenkeu.go.id/fullText/2017/146 PMK.010 2017Per.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 156 /PMK.010/2018</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jdih.kemenkeu.go.id/fullText/2018/156 PMK.010 2018Per.pdf"
+                         xlink:type="simple">https://jdih.kemenkeu.go.id/fullText/2018/156 PMK.010 2018Per.pdf</ext-link>
+               <publisher-loc>Jakarta, Indonesia</publisher-loc>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 152 /PMK.010/2019</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jdih.kemenkeu.go.id/fullText/2019/152 PMK.010 2019Per.pdf"
+                         xlink:type="simple">https://jdih.kemenkeu.go.id/fullText/2019/152 PMK.010 2019Per.pdf</ext-link>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Saptiyulda</surname>
+                     <given-names>Erafzon</given-names>
+                  </name>
+               </person-group>
+               <article-title>ANTARA News</article-title>
+               <chapter-title>Kemenkes: 397 kabupaten/kota sudah miliki Perda Kawasan Tanpa Rokok</chapter-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.antaranews.com/berita/1595498/kemenkes-397-kabupaten-kota-sudah-miliki-perda-kawasan-tanpa-rokok</uri>.
+        </comment>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Health Republic of Indonesia</publisher-name>
+               <article-title>Basic Health Research (RISKESDAS) 2018</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://ghdx.healthdata.org/record/indonesia-basic-health-research-2018"
+                         xlink:type="simple">http://ghdx.healthdata.org/record/indonesia-basic-health-research-2018</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Health Republic of Indonesia</publisher-name>
+               <article-title>Basic Health Research (RISKESDAS) 2010</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Health Republic of Indonesia</publisher-name>
+               <article-title>Basic Health Research (RISKESDAS) 2007</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://ghdx.healthdata.org/record/indonesia-basic-health-research-2007-2008"
+                         xlink:type="simple">http://ghdx.healthdata.org/record/indonesia-basic-health-research-2007-2008</ext-link>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Health Republic of Indonesia</publisher-name>
+               <article-title>Basic Health Research (RISKESDAS) 2013</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://ghdx.healthdata.org/record/indonesia-basic-health-research-2013"
+                         xlink:type="simple">http://ghdx.healthdata.org/record/indonesia-basic-health-research-2013</ext-link>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Astuti</surname>
+                     <given-names>Putu Ayu Swandewi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Assunta</surname>
+                     <given-names>Mary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Freeman</surname>
+                     <given-names>Becky</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1186/s12889-020-08640-6</pub-id>
+               <issn>14712458</issn>
+               <source>BMC Public Health</source>
+               <pub-id pub-id-type="pmid">32306928</pub-id>
+               <article-title>Why is Tobacco Control Progress in Indonesia Stalled? - A Qualitative Analysis of Interviews with Tobacco Control Experts</article-title>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 243/PMK.07/2010</article-title>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 195/PMK.07/2011</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/118201/2011\%20PMK\%20195.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/118201/2011\%20PMK\%20195.pdf</ext-link>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 46 /PMK.07/2012</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jdih.kemenkeu.go.id/fullText/2012/46 PMK.07 2012Per.htm"
+                         xlink:type="simple">https://jdih.kemenkeu.go.id/fullText/2012/46 PMK.07 2012Per.htm</ext-link>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 181/PMK.07/2013</article-title>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 106/PMK.07/2014</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/140654/PMK\%20Nomor\%20106\%20Tahun\%202014.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/140654/PMK\%20Nomor\%20106\%20Tahun\%202014.pdf</ext-link>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 135/PMK.07/2015</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/106571/135 PMK.07 2015Per.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/106571/135 PMK.07 2015Per.pdf</ext-link>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 178/PMK.07/2016</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/112053/PMK\%20Nomor\%20178\%20Tahun\%202016.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/112053/PMK\%20Nomor\%20178\%20Tahun\%202016.pdf</ext-link>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finanace Regulation No. 192/PMK.07/2017</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/103891/PMK\%20Nomor\%20192\%20Tahun\%202017.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/103891/PMK\%20Nomor\%20192\%20Tahun\%202017.pdf</ext-link>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. PMK 30/PMK.07/2018</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/103003/PMK\%20Nomor\%2030\%20Tahun\%202018.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/103003/PMK\%20Nomor\%2030\%20Tahun\%202018.pdf</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finanace Regulation No. 12/PMK 07/2019</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/118996/12 PMK.07 2019Per.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/118996/12 PMK.07 2019Per.pdf</ext-link>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 7/PMK07/2020</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peraturan.bpk.go.id/Home/Download/127614/7\_PMK.07\_2020Per.pdf"
+                         xlink:type="simple">https://peraturan.bpk.go.id/Home/Download/127614/7\_PMK.07\_2020Per.pdf</ext-link>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Achadi</surname>
+                     <given-names>Anhari</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Soerojo</surname>
+                     <given-names>Widyastuti</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barber</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.healthpol.2004.09.009</pub-id>
+               <issn>01688510</issn>
+               <source>Health Policy</source>
+               <issue>3</issue>
+               <fpage>333</fpage>
+               <lpage>349</lpage>
+               <pub-id pub-id-type="pmid">15862641</pub-id>
+               <article-title>The Relevance and Prospects of Advancing Tobacco Control in Indonesia</article-title>
+               <volume>72</volume>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Ministry of Finance Republic of Indonesia</publisher-name>
+               <article-title>Ministry of Finance Regulation No. 07 of 2020</article-title>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Statistics Indonesia</publisher-name>
+               <article-title>Area of Tobacco Farming in East Java</article-title>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
