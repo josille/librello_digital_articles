@@ -1,0 +1,2041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2022.18010018</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Citizens’ Perceptions of Security Issues: New and Old Actors in the National Security Framework</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Valla</surname>
+                  <given-names>Luca Guido</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Department of Cognitive Science, Faculty of Media and Knowledge Sciences, University of Malta, Msida, Malta</aff>
+         <aff id="A3">
+            <label>2</label>“Mihai Viteazul” National Intelligence Academy, Bucharest, Romania</aff>
+         <pub-date pub-type="ppub">
+            <day>31</day>
+            <month>03</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>1</issue>
+         <fpage>18</fpage>
+         <lpage>28</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>In the last few decades, the classical concept of national security as related predominantly to military aspects has given way to new elements of analysis. New sectors and actors in the framework of national security took the stage. Starting from the evolution of the concept of national security, this article presents the modalities through which citizens’ perceptions of security issues have been studied to date. Moreover, it proposes a new approach for the exploration of this subject, which could take into account dimensions such as emotional responses to national security threats, which have been rarely systematically investigated.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>citizens</kwd>
+            <kwd>emotions</kwd>
+            <kwd>national security</kwd>
+            <kwd>perceptions</kwd>
+            <kwd>threats</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Security is a dimension inherent to human beings [<xref ref-type="bibr" rid="R1">1</xref>]. It involves the protection of an asset, which could be personal safety, belongings, wealth or more immaterial elements such as sets of values, identity and traditions.</p>
+         <p>The perception of security implicates personal constructs and beliefs [<xref ref-type="bibr" rid="R2">2</xref>] associated with the protection or with the undermining of such elements. It has been mostly studied at the individual level, but there are important consequences even on the social sphere [<xref ref-type="bibr" rid="R3">3</xref>]. This article is built upon the concept that individual experiences are largely dependent on—and, in turn, influence—social constructs and dynamics. Oftentimes, personal experiences are fused into group practices, and the boundaries between the self and the other are frequently blurred. In a context such as a nation, the dual nature of security, individual and collectivistic, is even more pronounced and complex. Indeed, we can understand the preservation of national assets as guaranteeing the welfare of its constituents, the citizens. In turn, citizens are called upon to contribute whenever possible to the maintenance of a condition of national security.</p>
+         <p>Starting with a historical overview of how the political sector has taken into consideration citizens’ perceptions and attitudes, the article will focus on how security studies have addressed this subject over the last decades. It will highlight how the academic sector and policymakers have increasingly taken into consideration the public dimension of measures and decisions aimed at protecting national security. Indeed, in the last twenty years, both the academic and political sectors redefined the importance of citizens’ perceptions and attitudes in the matter of national security. On the one hand, there has been a change of focus in security studies, which, at their birth, sought to tackle the analysis of security issues from a perspective almost uniquely centred around military aspects. More recently, they have started to account for the societal dimension. On the other hand, there has been a growing interest of the political sector in understanding what citizens perceive and think of issues related to national security, particularly since the Cold War and even more since the terrorist attacks occurred on 11/09/2001 in the US.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- A Change of Paradigm: From Military Security to Multidimensional Security</title>
+         <sec id="s2.1">
+            <title>2.1.- Citizens and National Security: An Overview</title>
+            <p>We can trace the concept of citizenry as it is understood nowadays in Western society back to the Ancient Greece period. At that time, citizens actively contributed to the life of the ‘‘polis’’ (city), and politics (the affairs of the city) consisted of making decisions for the good of it. The mixture of the individual and political sphere was indissoluble, and since the debate about security was and still is one of the priorities of politics [<xref ref-type="bibr" rid="R4">4</xref>], citizens’ voices are crucial in this matter.</p>
+            <p>Overall, national security consists of the laws, decisions and behaviours aimed at protecting the fundamental assets of a nation. It is a concept which has been debated in the academic, security and political sectors for a long time and for which scholars have provided different definitions [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>]. Although most of them rely on the protection of the state against external invasions, success in war and defence of borders, others include the human security of citizens [<xref ref-type="bibr" rid="R8">8</xref>].</p>
+            <p>For different reasons, over the centuries, the involvement of citizens in national security strategies was scarce. Nevertheless, history has presented cases when citizens actively participated in decision-making processes for the good of the security of the political government in force. For example, in Ancient Rome, young citizens were enrolled in the military to defend the Empire [<xref ref-type="bibr" rid="R9">9</xref>] and earning trust from the populations of lands just conquered was considered an asset to protect the security of the borders [<xref ref-type="bibr" rid="R10">10</xref>]. Other activities carried out by Roman citizens would now be referred to as ‘‘human intelligence’’ (HUMINT): they acquired information on potential security threats and reported them to the authorities [<xref ref-type="bibr" rid="R11">11</xref>]. The city-states in the Italian peninsula make another historical example of the role of citizens for security during the late Middle Ages. All citizens were entitled to participate in the so-called assembly [<xref ref-type="bibr" rid="R12">12</xref>], the primary institution where political decisions were taken. In modern times, only a few cases of direct democracy of this kind exist; more often, citizens exercise their right to participate in decisions regarding national security vicariously through voting in elections. The effective representation of citizens’ will in representative democracies is debated [<xref ref-type="bibr" rid="R13">13</xref>], but formally citizenry still has decision-making power via its political representatives. The role of citizens in national security has historically also taken other forms. For instance, during the dictatorships of the 20<inline-formula>
+                  <mml:math id="S4.SS1.p3.m1"
+                            alttext="{}^{th}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>t</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>h</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> century, citizens have been literally used by political leaders to reinforce the idea of the strength of the nation’s security apparatuses. Indeed, oftentimes, citizens were shown in the regime propaganda as cheerfully supporting military parades and displays of military equipment [<xref ref-type="bibr" rid="R14">14</xref>], and were particularly keen in listening to political leaders while they were showing off new measures to defend national security.</p>
+            <p>In more recent times, not only the way citizens actively participate in matters related to national security has been studied. More than that, the modalities through which they perceive security issues have come into play in the political realm and in academic investigation [<xref ref-type="bibr" rid="R15">15</xref>]. The present research is positioned in this thematic area. One of its objectives is demonstrating how the analysis of citizens’ perceptions of security issues can modulate the drafting, implementation or termination of national security programs. In this regard, one of the most emblematic examples is the Total Information Awareness (TIA) program in the US, aimed at preventing terrorist attacks by collecting and analysing information from US citizens. In 2003 the US Congress cut the funding of this program because of US citizens’ negative perceptions of it. Another emblematic example is the Israeli National Security and Public Opinion Project, which aims at studying the public opinion concerning security issues involving Israel and, most importantly, their implications for Israeli national security.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- The Copenhagen School and New Security Threats</title>
+            <p>Many of the works in the current literature on perceptions of security issues investigate how people perceive security threats [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. This occurrence is interesting for different reasons: why are most of the researchers particularly keen in studying the perceptions of security threats and not, for example, citizens’ attitudes towards security services or citizens’ perceptions of security programs in times of peace? Why did such a significant number of studies on the perceptions of threats to national security flourish after terrorist attacks in the last two decades? The perception of the imminence of a security issue might have played a role, but I here advance another hypothesis. Although security threats have always been a significant topic in security studies, there was a period when the concept of threat started to be extended to domains other than the military and possibly closer to every citizen’s life. We can identify this period with the emergence of critical security studies, and, more specifically, with the Copenhagen School of security studies. By highlighting the relevance of threats undermining social dynamics, the economy and the environment, I hypothesize that the Copenhagen School influenced subsequent research, which not only aimed to study how people perceive national security issues per se but also the implications for their lives. Therefore, the Copenhagen School might have had the merit of initiating the process of democratization of security studies by putting citizens’ experiences at the centre of the investigation.</p>
+            <p>With the birth of critical security studies and, in particular, with the contribution of the Copenhagen School, the definition of national security has grown to encompass dimensions other than the military and has highlighted the concept of multidimensional threats. Security was referred to as the situation in which a referent object survives when a threat undermines its existence [<xref ref-type="bibr" rid="R18">18</xref>]. A referent object was conceptualized as an entity which could take various forms depending on the sector which has been chosen as the subject of the investigation (e.g., economic security, environmental security, political security, etc.). Even the United Nations (UN) proposed a new concept of security, which shifted from exclusive stress to territorial security to greater attention put on the people’s security. The idea of security introduced by the UN encompassed seven main categories, namely economic, food, health, environmental, personal, community and political security [<xref ref-type="bibr" rid="R19">19</xref>].</p>
+            <p>This new definition of security is revolutionary in itself: it does not make explicit reference to military security, the state or external aggressors. However, it does not remove it from the discussion either: the classical concept of security could still be implemented in this theoretical approach. It is now not the only one but one of many sectors which could be analysed. Moreover, independence and sovereignty are only two of the many referent objects that should be defended to preserve national security.</p>
+            <p>The Copenhagen School redefined the objective of security studies, whose novel aim was to analyse the origins and consequences of threats to referent objects. Another dimension brought into the discourse of security was securitization, which might be considered an extreme version of politicization [<xref ref-type="bibr" rid="R18">18</xref>]. It is the process according to which an event is transformed into the object of political debate. Securitization can be thought of as a step forward, not only an alternative version of politicization. It encompasses the political discussion of potential security threats but also transforms the debate into practical actions to protect national security.</p>
+            <p>The Copenhagen School’s analysis can be considered ground-breaking even from another angle: it not only proposed the exploration of sectors relevant for security different from the military but also introduced different levels of investigation—that is, global, national, regional, etc. [<xref ref-type="bibr" rid="R20">20</xref>]. Moreover, it stressed the dual nature of the investigation, which could be top-down or bottom-up. In particular, the latter explores the influence of human nature and individual differences on the functioning of collective entities such as regions, nations and states. The crucial aspect is understanding the characteristics of each level and identifying the best-suited methods of analysis to investigate them. In light of a bottom-up process of investigation, this theorization is justified: smaller entities constitute the founding pillars of more prominent structures (e.g., nations). Nevertheless, in a top-down process, the analysis of the dynamics at different levels might be perceived as unnecessary. Since the measures taken to preserve security are imposed on citizens, behaviours are constrained by these impositions, and their analysis is likely to produce distorted results.</p>
+            <p>The differentiation of levels, and implicitly the legitimization of studying the individual-level dynamics, is justified for another reason. According to Buzan and colleagues, a securitizing move is accomplished only when the audience accepts it as such [<xref ref-type="bibr" rid="R18">18</xref>]. An essential aspect to note is that the success of a securitizing move is decided not by the securitizing actor but by the audience of the securitizing move. Therefore, as proposed by Waever [<xref ref-type="bibr" rid="R21">21</xref>], security exists not within the object of security itself but rather among the subjects which contributed to make an issue a security issue.</p>
+            <p>In a nutshell, one of the most significant contributions of the Copenhagen School was moving from the classical conception of security studies as military security studies and including new sectors and security actors. They will be presented in the next section.</p>
+         </sec>
+         <sec id="s2.3">
+            <title>2.3.- Security is Multifaceted: Different Threats, Different Actors</title>
+            <p>An innovative aspect brought by critical security studies is the introduction of sectors not strictly related to the classical conception of security studies, and therefore not exclusively linked to the military sector. Indeed, the Copenhagen School identified new sectors vital for a nation’s life; it specified their assets, the securitizing moves to protect them and the actors involved. These dimensions will be further analysed in this section. The process of ‘‘democratization’’ of security studies, mentioned earlier, finds application in the theorization of the Copenhagen School. Indeed, most of the recent studies which analysed people’s perceptions of threats to national security had their focus on threats to the economy [<xref ref-type="bibr" rid="R22">22</xref>], social dynamics [<xref ref-type="bibr" rid="R23">23</xref>] and everyday life [<xref ref-type="bibr" rid="R24">24</xref>], and rarely on military threats not directly involving citizens.</p>
+            <p>The introduction of different sectors into the analysis of security studies puts forward the necessity to investigate the dimensions which, in their totality, define security: these are the referent objects, the securitizing actors and the functional actors. The referent objects are those entities that are threatened and whose survival justifies the securitizing move. The securitizing actors are those actors who define an entity as a referent object and who propose its securitization. The functional actors are those actors who, without being securitizing actors, influence the process by affecting its dynamics. The referent objects are specific to each sector. Traditionally, the securitizing actors are stakeholders and often politicians. This concept has been implemented even by the Copenhagen School, and it is in line with the classical theorization of critical security studies. Nevertheless, if we consider the claim about citizens as security stakeholders valid [<xref ref-type="bibr" rid="R25">25</xref>], we cannot help but include citizens in the group of securitizing actors. Indeed, through the exercise of their voting right, through the participation in governmental initiatives such as those organised by Denmark to inform people on radicalisation issues [<xref ref-type="bibr" rid="R26">26</xref>] and through protests against security policies that they do not endorse, citizens actively contribute to the securitizing process of an issue. The functional actors are nonetheless important since they influence the decisions in the field of security [<xref ref-type="bibr" rid="R27">27</xref>]. Traditionally, citizens have been included in this group, but the studies mentioned earlier demonstrated that they can be legitimately considered as both securitizing and functional actors.</p>
+            <p>The analysis of the sectors identified by Buzan and colleagues reflects the innovative theorization provided by the Copenhagen School. Interestingly, in each sector, citizens play important roles since they are actors or even referent objects of national security programs. All of the sectors will be touched upon in the next sub-sections. Particular emphasis will be put on the component of the citizenry, which is central to this work.</p>
+            <sec id="s2.3.1">
+               <title>2.3.1.- The military sector</title>
+               <p>The military sector has been, for a long time, the only sector present in national security strategies [<xref ref-type="bibr" rid="R28">28</xref>]. Although critical security studies transformed the view on national security, the military sector, given its nature, is the sector most institutionalized and with a traditionally more rigid sectorization of roles and functions. The referent object has conventionally been the state, although it is not the only one. In other terms, the state’s diverse constituents, such as sovereignty, independence and wealth, represent referent objects per se.</p>
+               <p>The threats posed to the referent objects in the military sectors might be internal or external military threats. They might be even non-military [<xref ref-type="bibr" rid="R18">18</xref>], such as immigration, ideologies and values. In this sense, individuals may be involved not only in the securitizing process but may also constitute the source of a threat. With regard to the securitizing actors, politicians and military officials are often considered the only responsible for a securitizing move. Moreover, intelligence services often consider themselves as the guardians of national security [<xref ref-type="bibr" rid="R18">18</xref>]. Nevertheless, if we consider the intricate process of acquisition of information from human intelligence, the military sector cannot ignore the involvement of citizens in this process. Moreover, in some states, the influence of tribes and ethnic groups are so influential in national security issues that they cannot be disregarded as securitizing actors. For example, as Cordesman pointed out, the tribal—or Fouji forces—in Saudi Arabia conduct operations vital to national security, such as border patrols [<xref ref-type="bibr" rid="R29">29</xref>]. On the other hand, ethnic militant groups may be responsible for escalating national security crises, as it happened in Nigeria since the mid-2000s [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+               <p>Although their role might be perceived as not strictly relevant to the military sector, some functional actors can influence the decisions made by the military apparatuses. For example, the governments are those entities which could massively influence the securitizing process despite, in many cases, having interests different from national security, such as the retention of power [<xref ref-type="bibr" rid="R31">31</xref>]. The population can be considered a functional actor in the sense that it can oppose security measures in the name of the lack of respect for human rights. Some characteristics may play an essential role in influencing the dynamics of a securitizing move and thus can be considered functional actors. For instance, geographic factors are crucial in altering the perception of a threat which could be close or far in space, imminent or distant in time. More specifically, distance and terrain may change how a threat perpetrated by an external agent is perceived. Another element highly relevant for perception of threats in the military sector is history: a recent history of wars and clashes makes it easier to trigger the perception of an imminent threat in the population as well as in the political and military representatives.</p>
+               <p>In a nutshell, the military sector, while being traditionally conceived as rigid and with fixed roles, is subject to the fluid dynamics highlighted by the critical security studies.</p>
+            </sec>
+            <sec id="s2.3.2">
+               <title>2.3.2.- The political sector</title>
+               <p>Major differences exist for what concerns the conception of security for the political and the military sector. The only shared referent object between these two sectors is state sovereignty, but its securitization follows a different pathway in the political realm.</p>
+               <p>Security could be considered political since all security threats and security responses could be the object of a politicizing discourse. Nevertheless, political security has a distinctive feature from politics as it is commonly understood: it deals with threats to the internal legitimacy of political units and with the external recognition of the state.</p>
+               <p>By definition, the referent object of political security is the territorial state [<xref ref-type="bibr" rid="R32">32</xref>]. However, other entities might acquire the status of referent objects, such as groups of people established on the basis of religious or ethnic reasons [<xref ref-type="bibr" rid="R33">33</xref>]. This aspect is crucially important because the objective of the political security discourse is not only the defence of the territorial state, as it might appear in the classical conception of national security, but it includes the citizens who form the nation in their totality.</p>
+               <p>Concerning the actors involved in political security, the government is the securitizing actor par excellence. In democracies, the government has its legitimacy based on the vote received by citizens, who are therefore vicariously crucial.</p>
+               <p>The functional actors are all those actors, such as firms, companies and individuals, who influence the definition of referent objects and the securitizing of modalities in the political sector.</p>
+            </sec>
+            <sec id="s2.3.3">
+               <title>2.3.3.- The societal sector</title>
+               <p>The societal sector is central to the present investigation. Counter intuitively, when talking about national security, the nation has often received less attention than its political counterpart—the state. Consequently, its constitutive elements—the people—have been repeatedly excluded from national security discourses. With the emergence of critical security studies, the social dimension acquired a new interest in academic research.</p>
+               <p>In the societal sector, identity is a crucial element: it defines the expectations and rights of the individuals in relation to society [<xref ref-type="bibr" rid="R34">34</xref>]. When a group of individuals recognizes a common identity and shared values, a societal group exists. Although societies can be discovered at regional, national and international levels, my focus here is on the national level. When a threat undermines group identity, the entire societal group is threatened. For this reason, some scholars in international relations use the concept of identity when referring to this type of security [<xref ref-type="bibr" rid="R35">35</xref>]. Therefore, group identity can be considered the main referent object of societal security. At the same time, we can consider the nation as the referent object of societal security [<xref ref-type="bibr" rid="R36">36</xref>]. This concept is relevant for this study if we consider that what keeps nations together is national identity, which is characterized by religious or ethnic factors. Generally, the nation corresponds to its political counterpart, the state. For this reason, the object of societal security is often the state.</p>
+               <p>Some threats could undermine group identity and, consequently, the nation. For example, migration may lead to a shift in the composition of the population. This may happen by altering the cultural and linguistic identity of a nation. It can also happen that a superordinate program aims to integrate different national groups (e.g., the European Union) or separate one national group (e.g., secessionist movements). It is worth noting that all of these issues have implications, even at the individual level, and the sum of personal experiences makes them issues for societal security.
+</p>
+               <p>According to Buzan and colleagues, society can respond to threats in two ways: via activities conducted by the community itself or by shifting the problem to the political and military sector [<xref ref-type="bibr" rid="R18">18</xref>]. The latter option, which has often occurred, explains why the societal, political and military sectors are so interdependent and why society and, consequently, citizens, although overlooked in classical security studies, are a determinant of national security.</p>
+               <p>Where nations and states coincide, generally, the state is the main securitizing actor. Where they do not, sub-national groups may define an object to securitize.</p>
+               <p>Among the many functional actors in the societal sector, a special mention is due to the media. They influence how a situation related to national security is defined; they shape the way through which citizens perceive a security issue, and they direct the focus of attention on specific aspects of the national response to a security threat [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+               <p>In conclusion, the societal sector is the one in which the highest interdependency exists among different actors who could take the form of political institutions, military institutions and the citizens.</p>
+            </sec>
+            <sec id="s2.3.4">
+               <title>2.3.4.- The economic sector</title>
+               <p>The economic sector is highly dependent on the political model followed by a nation. Therefore, there would be very different assumptions for a liberal-capitalistic society compared to a nation where the control of the economy is centralized. While for the liberals the economy comes first and the societal dynamics are its direct consequences, for socialists and communists the control of the economy is a precursor of social transformation [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+               <p>This conceptual heterogeneity is reflected in the heterogeneity of referent objects, which range from individuals and firms, crucial for liberal societies, to social classes and the state itself for nations with centralized power.</p>
+               <p>Accordingly, the securitizing actors may be firms who declare the presence of an existential threat to their assets as a consequence of national security issues. For example, a country’s restrictiveness in exports for the sake of national security may lead to the erosion of competitiveness of such firms in the long term [<xref ref-type="bibr" rid="R38">38</xref>].</p>
+               <p>More than in other sectors citizens can be considered functional actors in the economic sector since they can be actively involved as workers or they can be part of organizations such as trade unions, which can have a significant influence on the economy [<xref ref-type="bibr" rid="R39">39</xref>].</p>
+            </sec>
+            <sec id="s2.3.5">
+               <title>2.3.5.- The environmental sector</title>
+               <p>Even if the environmental sector has a relatively short history in the security domain [<xref ref-type="bibr" rid="R18">18</xref>], since its inception in 1972, the United Nations Environment Programme (UNEP) has addressed issues that have consequences on national and global security. For example, one of the thematic areas explored by the UNEP deals with disasters and conflicts [<xref ref-type="bibr" rid="R40">40</xref>]. In particular, the UNEP works to diminish the environmental causes and consequences of national and international crises. Furthermore, the UNEP highlights that the environmental crises pose severe threats to human security [<xref ref-type="bibr" rid="R41">41</xref>]. Other key issues addressed by the UNEP include climate change, environmental governance and resource efficiency.</p>
+               <p>One of its distinguishing features is the overlap and sometimes conflict between the scientific and political agendas [<xref ref-type="bibr" rid="R42">42</xref>]: while from the scientific perspective the preservation of the environment is the ultimate objective, in the political agenda that is sometimes functional to the pursuit of other objectives.</p>
+               <p>While in both the scientific and political domain the environment is the referent object, significant differences exist in terms of the securitizing actors: the scientific agenda generally follows academic studies and scientific findings, while the political agenda can be dictated by the government, the public, the media, etc. However, in both cases, the media and the population play a vital role as functional actors: the first in making scientific findings understandable by the laymen and in elucidating political programs; the latter in supporting or opposing decisions on the matter of environmental security, via more or less organized movements (e.g., environmentalist groups). Note that the United Nations Development Programme (UNDP) referred to environmental threats as a mixture of the ruin of local ecosystems and degradation of the global system [<xref ref-type="bibr" rid="R19">19</xref>]. Therefore, the decisions regarding environmental security have effects on both the local and international contexts.</p>
+               <p>The citizens, who are so central in many sectors, might influence national security programs by endorsing or opposing security policies, by collaborating or not with security services and by other ways. Their attitudes and behaviours are in large part determined by a fundamental first step, that is, how security issues are perceived.</p>
+            </sec>
+         </sec>
+         <sec id="s2.4">
+            <title>2.4.- The Evolution of Security Studies throughout the Decades: From Military Security to the Analysis of Public Perceptions of Security Issues</title>
+            <p>The early years of the 21<inline-formula>
+                  <mml:math id="S4.SS4.p1.m1"
+                            alttext="{}^{st}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>s</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> century saw another change of focus in security studies. Along with classical theories and the new concepts introduced by critical security studies, greater attention was paid to the consequences that security issues have on individuals’ lives. Even this theoretical leap might have had its roots in the historical events that took place in those years. The terrorist events that disrupted the lives of thousands of people highlighted the necessity to investigate the consequences of national security events in citizens’ lives. This necessity triggered the flourishing of studies on how citizens felt during security incidents and how those events would affect their future behaviours. This section explores how security studies evolved from being a discipline almost entirely focused on military security aspects to comprise, in more recent times, the study of citizens’ perceptions of security issues.</p>
+            <p>Security studies were born as a sub-field of International Relations discipline, after World War II [<xref ref-type="bibr" rid="R43">43</xref>]. The subject of investigation of classical security studies as they were conceived in the Cold War era was the state’s security and military security. At the same time, the space given to citizens was minimal: researchers and politicians saw national security as the defence of national borders [<xref ref-type="bibr" rid="R44">44</xref>] and military preparedness in the case of an external attack. Consequently, citizens’ experiences were not at the centre of academic investigation. However, if we consider a nation as a group of citizens who share the same feeling of identity [<xref ref-type="bibr" rid="R45">45</xref>], limiting the investigative horizon only to military aspects might constitute an oversimplification of the elaborate matrix of variables at stake. Only with the advent of academic works that we now identify as ‘‘critical security studies’’ [<xref ref-type="bibr" rid="R46">46</xref>], dimensions other than the military began to be taken into consideration and analysed in the context of national security.</p>
+            <p>Still, one major limitation has affected the literature until recent times. This limitation has consisted in the predominant analysis of group behaviour at the expense of sub-societal and interindividual differences. At the beginning of the 21<inline-formula>
+                  <mml:math id="S4.SS4.p3.m1"
+                            alttext="{}^{st}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mrow>
+                           <mml:mi>s</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mi>t</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> century, this shortcoming in security studies was partially solved: the human component became an essential factor in security studies [<xref ref-type="bibr" rid="R47">47</xref>] and individual experiences were frequently put at the centre of the research in this area. The input given by the 9/11 terrorist attacks played a crucial role. It made people in general, and researchers in particular, more aware of how individual factors shape the experience of security issues [<xref ref-type="bibr" rid="R37">37</xref>]. Indeed, since 9/11, several studies emerged, investigating how people subjectively felt during the events which undermined US national security [<xref ref-type="bibr" rid="R48">48</xref>]. This shift of investigative focus can be considered as important as the emergence of critical security studies. Within the space of a few decades, security studies changed considerably. It started with being almost exclusively focused on military aspects, then encompassed new dimensions of security, such as immigration, transnational crimes and societal intra-state dynamics. In the last two decades, the literature has included extensive research on the individual experiences of people who have been involved in events related to national security. The academic research on this topic narrowed down the breadth of the issues investigated. Indeed, the individual experiences which recently have acquired so much interest form in their totality the societal dimension which the Copenhagen School proposed in its innovative writings [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R49">49</xref>].</p>
+            <p>The shift of research focus from critical to contemporary security studies went hand in hand with a greater awareness of the importance of citizens within the political sector [<xref ref-type="bibr" rid="R50">50</xref>]. There were examples of national security programs halted because of the lack of public consensus [<xref ref-type="bibr" rid="R51">51</xref>]. Moreover, some programs aimed at investigating what people think of security measures were introduced by governments [<xref ref-type="bibr" rid="R52">52</xref>]. Additionally, calls for participation of citizens in the definition of security strategies [<xref ref-type="bibr" rid="R53">53</xref>] were put in place. Previously, politicians rarely took into consideration the public dimension of security issues; one of the few examples is the outburst of research investigating public opinion towards the Vietnam War [<xref ref-type="bibr" rid="R54">54</xref>]. Particularly in Western society, the emergence of academic works providing evidence of differential individual experiences associated with security threats stimulated an interest in the political sector for better understanding of what citizens feel and think of national security.</p>
+            <p>The dimension of citizens’ perceptions of security issues, which characterizes contemporary security studies, will be further explored in the next section.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Investigating Public Perceptions of Security Issues: The Contribution from Psychological Research</title>
+         <sec id="s3.1">
+            <title>3.1.- Research on Perception of National Threats: The Need of Interdisciplinary Research</title>
+            <p>Citizens’ perceptions of threats to national security have been studied in different fields [<xref ref-type="bibr" rid="R55">55</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>]. However, a lack of combination of research designs, methods and topics explored still affects the current literature. The fact that critical security studies are a new discipline should, on the contrary, stimulate a greater integration of methods and results, thus favouring the applicability of findings.</p>
+            <p>As stated earlier, the research in this field received a massive boost following the 9/11 terrorist attacks. In the subsequent years, much of the literature on threat perception in security studies has been centred around threats posed by international terrorism [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R58">58</xref>]. This focus on only one type of threat is probably due to a methodological bias: as illustrated by Lupia and Menning [<xref ref-type="bibr" rid="R59">59</xref>] and taken up by Stevens and Vaughan-Williams [<xref ref-type="bibr" rid="R60">60</xref>], researchers have the habit of asking about events that they think have elicited reactions in the population. This occurrence brings a series of consequences such as not considering that this might not have been the case or that other factors may have had an influence. Moreover, most of the investigations of this kind took place in the immediate aftermath or only a few months after the terrorist event. This might bias the results by making people’s responses stronger because the event is close in time. The new stream of security studies widened the discussion to topics and situations not directly related to conflicts, terrorism and imminent threats, by including actors, situations and habits that constitute the nation’s security sector. For this reason, the analysis of event-related reactions might be only partly informative. In fact, Huddy and colleagues [<xref ref-type="bibr" rid="R22">22</xref>] stated that Americans were concerned about terrorism well before the 9/11 attacks. A study conducted by the Rand Corporation in 1988 and 1989 [<xref ref-type="bibr" rid="R61">61</xref>] showed that a large part of Americans considered terrorism a severe issue in the US. In particular, this study showed that 98% of respondents considered terrorism a serious problem. Other survey studies conducted in the following years showed the same type of results. Specifically, the research carried out by Sönmez and Graefe highlighted that 57% of respondents that the possibility of terrorist events would discourage them from travelling internationally [<xref ref-type="bibr" rid="R62">62</xref>]. Despite the evidence of this concern about terrorism in the population, it took years before terrorism was recognized as a major concern for the population [<xref ref-type="bibr" rid="R22">22</xref>]. For example, Nacos and colleagues reported that in July 2005, shortly after the terrorist attacks occurred in London, 75% of Americans reckoned that another terrorist event was very likely or somewhat likely to happen. This value was 4 percent more than the percentage of Americans expressing this feeling shortly after the 9/11 events [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+            <p>Only in more recent years has research broadened to include those topics not strictly connected to terrorism. Among others, the most analysed cases have been immigration [<xref ref-type="bibr" rid="R63">63</xref>], ethnic issues [<xref ref-type="bibr" rid="R64">64</xref>], cyber-security [<xref ref-type="bibr" rid="R65">65</xref>] and natural disasters [<xref ref-type="bibr" rid="R66">66</xref>]. A specific stream of research in the psychology literature on perception of threats to national security examines the psychological predispositions to certain types of reactions. For example, people with a diagnosis of one or more anxiety disorders tend to show stronger responses to threats compared to controls [<xref ref-type="bibr" rid="R67">67</xref>]. Similarly, other variables come into play when investigating the modulation of reactions to threats: the literature abounds with studies about differences in threat perception based on gender [<xref ref-type="bibr" rid="R58">58</xref>], age [<xref ref-type="bibr" rid="R68">68</xref>] and values [<xref ref-type="bibr" rid="R58">58</xref>]. Some other works analysed the different behavioural outcomes of citizens in response to threats [<xref ref-type="bibr" rid="R22">22</xref>]. However, it is essential to note that all effects are at least partly mediated by innate predispositions or contextual situations.
+</p>
+            <p>In terms of its usefulness for the security services and political sector, the analysis of citizens’ perceptions of security threats is essential for different reasons. Firstly, perceived threats to national security have, as existing research suggests [<xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R70">70</xref>], negative impact on political tolerance. Secondly, the perception of existential threats may result in intergroup fairness and endorsement of pacifism and less aggression toward outgroups (e.g., foreigners and people of other religions) [<xref ref-type="bibr" rid="R71">71</xref>]. Moreover, as mentioned earlier, a public who feels threatened is more likely to accept security measures and interventions that might not be accepted in ordinary conditions; as such, it is crucial to understand the time and the modalities through which those policies should be presented. Thirdly, since by definition power pertains to citizens in democracies, the political sector should take into account what citizens feel, what they think and how they react to issues related to such a crucial element as national security. Incidentally, previous studies have highlighted that the political sector is not immune from being affected by these mechanisms [<xref ref-type="bibr" rid="R72">72</xref>]; instead public opinion may influence the political elites and vice versa. This process would necessitate an analysis of the perception of threats at the community and individual level.</p>
+            <p>Moreover, from a methodological perspective, the importance of the national context in studying the perception of security threats has been demonstrated [<xref ref-type="bibr" rid="R73">73</xref>]. Most of the current knowledge derives from studies conducted in the US or the UK. Hence, most of the theories and inferences on this topic originated from results of studies conducted in just two countries. For this reason, the need for less generalized and more contextualized works has been identified [<xref ref-type="bibr" rid="R60">60</xref>].</p>
+            <p>The lack of integration among the disciplines involved will hopefully be alleviated in future research. This interdisciplinary approach is applied to the exploration of a crucial topic, emotional responses to security threats, which is undertaken below.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- What Do Emotions Tell Us about Threat Perception in National Security?</title>
+            <p>As is the case with other constructs in scientific research, the term ‘‘perception’’ encompasses different dimensions such as social [<xref ref-type="bibr" rid="R74">74</xref>], cognitive [<xref ref-type="bibr" rid="R75">75</xref>] and affective [<xref ref-type="bibr" rid="R76">76</xref>]. Until the 1980s, the focus of research in threat perception was on cognitive aspects, probably mirroring what has happened in the realm of experimental psychology. With the advent of affective science and neuroscience in the 1980s, more attention was put on emotional processes. Moreover, previous evidence demonstrated that some emotional experiences can have a great influence on future behaviour [<xref ref-type="bibr" rid="R77">77</xref>, <xref ref-type="bibr" rid="R78">78</xref>, <xref ref-type="bibr" rid="R79">79</xref>]. Even political discourses on national security targeted at citizens often aim to trigger emotional reactions in the audience, with the hope that this could influence their political views. Nevertheless, there is still significant uncertainty regarding which emotions play a role when a threat is perceived. Common sense would suggest that fear is the most probable reaction to such stimuli. In fact, the picture could be more complex and diverse emotional experiences could take place, leading to very different consequences in terms of future behaviour. This section’s objective is to provide a brief overview of one of the main topics of the present research, that is, the importance of emotional responses to national security threats.</p>
+            <p>As mentioned above, threat perception has been studied in a wide range of disciplines, but mostly in psychology. In the literature on threat perception, the phenomenon has been analysed in relation to clinical conditions [<xref ref-type="bibr" rid="R80">80</xref>] and threatening stimuli depicting animals [<xref ref-type="bibr" rid="R81">81</xref>]. Until the 1980s, most of it was centred around cognitive biases originating from the perception of threats. In the 1980s, the academic world witnessed the advent of affective neuroscience, which has the objective of studying neural correlates of emotions. From that period onwards, research on threat perception took the emotional dimensions of the phenomenon more into account. The focus on cognitive aspects which characterized the research until that point is understandable if we take into account that it was commonplace in psychology to consider cognitive processes—usually referred to as ‘‘superior processes’’—as overriding and independent from phenomena of different nature. In more recent years, scientific findings highlighted the link between emotions and cognition [<xref ref-type="bibr" rid="R82">82</xref>]. These findings boosted new research on the affective correlates of psychological processes.</p>
+            <p>The investigation of threat perception in national security has been biased to a lesser extent by this misconception on the importance of the emotions. The relevant studies on threat perception in national security emerged mostly in the last two decades, and the acceptance of the role of emotions within the scientific community was by then already established. Indeed, it is not infrequent to find questions on how a person felt during an event related to national security, which emotions were prevalent and how that person would behave in the future following those feelings [<xref ref-type="bibr" rid="R22">22</xref>].</p>
+            <p>Nevertheless, for a long time, there has not been agreement on which emotions come into play when a person perceives the existence of a security threat. Indeed, one of the emotions which has been more frequently associated with the perception of threat is fear. Fear is mainly present in individual experiences of threat, but existing studies have shown that it is not the only emotion involved. For example, in 2009 Huddy proposed what has been one of the most detailed reviews on emotional correlates on threat perception in the context of national security [<xref ref-type="bibr" rid="R72">72</xref>]. She started from an examination of the antecedents of threat perception before analysing the two dimensions which she considered prevalently associated with the perception of security threats: anxiety and anger. In doing so, she showed that diverse emotional responses occur when different dimensions come into play. For example, realistic and symbolic threats are likely to induce very different reactions in the perceiver. The same is valid for collective and individual threats. These variables have been associated with two basic motivational systems: the approach system and the avoidance system [<xref ref-type="bibr" rid="R83">83</xref>]. As Huddy noted, till the 2000s, the approach of scholars on this topic was to combine anxiety, anger and other emotional responses as a unique reaction to threats. More recently, the literature has included anxiety as a response to threats undermining individual security or the security of people who are close in social relationship. At the same time, anger has been connected to the perception of threats towards the group to which the perceiver belongs or threats posed by events seen as unjust. According to recent literature, fear is generally one of the most common responses to the perception of threats to individual security, while anxiety characterizes specific clinical and sub-clinical conditions. However, it is interesting to note how fear and anxiety share some biological underpinnings. For example, both of them have been associated with activity in the hypothalamus and midbrain periaqueductal regions [<xref ref-type="bibr" rid="R84">84</xref>]. Huddy highlighted how anxiety and anger show different patterns of effects on the processing of stimuli: anxiety is characterized by higher vigilance and augmented sensitivity to threats while anger is connoted by a more superficial analysis of the stimuli and risk-orientated decisions and behaviours [<xref ref-type="bibr" rid="R72">72</xref>]. These varied responses may partly explain the different behavioural outcomes of threat perception mentioned before: fear of a threat is more likely to induce people to endorse and vote for more conservative security policies. At the same time, anger probably encourages people to support more aggressive policies and more authoritarian leaders. This occurrence could have important implications for the political sector. In particular, if the objective of politicians is to receive public support for policies which in ordinary times might be seen as aggressive, they might try to make citizens feel angry towards the source of the threat the nation has to face. Otherwise, citizens could feel afraid that their response might be in total contrast to what politicians aim to achieve.</p>
+            <p>There could be noteworthy implications of different affective responses to foreign policies. For example, anger is likely to make people see possible aggression toward identified enemies as more acceptable. However, a topic that has not been fully explored and that is relevant for national security strategies is how the emotional processing of threats modulates acceptance or opposition to homeland security policies. Some research provided insightful evidence of differential responses [<xref ref-type="bibr" rid="R52">52</xref>]. Still, from both a scientific and practical application perspective, it would be interesting to investigate which emotions are involved, and to what extent they come into play when dealing with threats towards the individual or the nation, and how they direct behaviours as opposing or endorsing homeland security controls. Such an investigation would be coherent with the theory of securitization presented earlier, which stresses the importance of the societal sector not only for international relations but even within a single nation. Another element in common with the securitization theory concerns national identity. As explained in previous sections, national identity can be considered a referent object and, therefore, something that must be securitized. Moreover, it seems that higher levels of anger are perceived by those people who have a strong sense of national identity [<xref ref-type="bibr" rid="R72">72</xref>]. Consequently, investigating the level of national identity among citizens might provide useful information on how they react to threats to national security.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Conclusions</title>
+         <p>This article presented the fundamental theoretical shift in security studies in the last fifty years: the focus of investigation passed from an analysis encompassing almost uniquely military aspects to a broader focus, one that comprised new elements of security, such as new security actors, new security sectors and new securitizing objects. This shift has elevated social actors such as citizens to the status of security actors. In this respect, the Copenhagen School of security studies elaborated an innovative theory according to which citizens could be identified as referent objects, securitizing actors, and functional actors. In fact, they concurrently are recipients of security measures, security stakeholders [<xref ref-type="bibr" rid="R25">25</xref>] and part of the society capable of influencing decisions in the field of security. More recently, citizens’ perceptions of issues related to national security began to be systematically investigated. Since the beginning of the 21<inline-formula>
+               <mml:math id="S6.p1.m1"
+                         alttext="{}^{st}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>s</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>t</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> Century this topic has been thoroughly explored in empirical studies, with a particular focus on the cognitive and emotional dimensions.</p>
+         <p>This new stream of research put the citizens at the centre of the investigation. As a consequence, citizens’ perceptions, attitudes, and behaviours became a focal point of security studies.</p>
+         <p>The element of novelty of the present research resides in the analysis of the literature on citizens’ perceptions of issues related to national security studies over the last few decades. The main conclusion of such an analysis is that citizens’ perceptions of security issues have become a crucial topic within the security studies literature. Although this stream of research has received a great deal of attention in the last few decades, this paper pointed out that several areas of enquiry still need to be systematically covered by academic research. One emblematic example of this areas is the emotional responses of citizens to national security threats. The analysis of this topic might have direct effects on the implementation or termination of measures aimed at protecting national security (e.g. TIA).</p>
+         <p>Moreover, the analysis of citizens’ perceptions of security issues may elucidate a rather unexplored area of investigation: the relationship between intelligence services and citizens. By exploring this topic, issues such as citizens’ trust in intelligence services, attitudes towards intelligence operations and the effects of historical and cultural elements on citizens’ perceptions of intelligence issues may be systematically investigated. Recent influential research highlighted that citizens’ can be considered beneficiaries, producers and generally actors of intelligence [<xref ref-type="bibr" rid="R85">85</xref>]. In addition, citizens’ perceptions, opinions, attitudes and behaviours represent elements of the idea of intelligence culture [<xref ref-type="bibr" rid="R86">86</xref>]. Thus, the analysis of citizens’ perceptions can be a crucial topic even in the intelligence studies literature.
+Overall, the analysis of citizens’ perception of security issues may shed light on urgent matters such as the public acceptance or opposition to measures aimed at protecting national security, the attitudes towards intelligence services and the psychological and behavioural antecedents and consequences of national security incidents.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Human Security and Global Governance: Putting People First</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/27800284"
+                         xlink:type="simple">https://www.jstor.org/stable/27800284</ext-link>
+               <volume>7</volume>
+               <issue>1</issue>
+               <source>Global Governance</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Axworthy</surname>
+                     <given-names>Lloyd</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <fpage>19</fpage>
+               <fpage>23</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The National Security Doctrine, Military threat Perception, and the ``Dirty War'' in Argentina</article-title>
+               <volume>21</volume>
+               <isbn>0010414088</isbn>
+               <issn>15523829</issn>
+               <pub-id pub-id-type="doi">10.1177/0010414088021003004</pub-id>
+               <issue>3</issue>
+               <source>Comparative Political Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pion-Berlin, David</surname>
+                  </name>
+               </person-group>
+               <year>1988</year>
+               <fpage>382</fpage>
+               <fpage>407</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Risk Communication, Risk Perception and Behavior as Foundations of Effective National Security Practices</article-title>
+               <isbn>9780124071919</isbn>
+               <pub-id pub-id-type="doi">10.1016/b978-0-12-407191-9.00006-5</pub-id>
+               <source>Strategic Intelligence Management: National Security Imperatives and Information and Communications Technologies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rogers</surname>
+                     <given-names>M. Brooke</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>Julia M.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Broadening the Agenda of Security Studies: Politics and Methods</article-title>
+               <pub-id pub-id-type="doi">10.2307/222776</pub-id>
+               <volume>40</volume>
+               <source>Mershon International Studies Review</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Keith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C.</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <fpage>229</fpage>
+               <fpage>254</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>National Security Strategies: Security from What, for Whom, and by What Means</article-title>
+               <pub-id pub-id-type="doi">10.2202/1547-7355.1526</pub-id>
+               <volume>6</volume>
+               <issue>1</issue>
+               <source>Journal of Homeland Security and Emergency Management</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Caudle</surname>
+                     <given-names>Sharon L.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>US Foreign Policy: Shield of the Republic</article-title>
+               <publisher-name>Little, Brown and Company</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lippmann</surname>
+                     <given-names>Walter</given-names>
+                  </name>
+               </person-group>
+               <year>1943</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>``National Security'' as an Ambiguous Symbol</article-title>
+               <pub-id pub-id-type="doi">10.2307/2145138</pub-id>
+               <volume>67</volume>
+               <issue>4</issue>
+               <source>Political Science Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wolfers</surname>
+                     <given-names>Arnold</given-names>
+                  </name>
+               </person-group>
+               <year>1952</year>
+               <fpage>481</fpage>
+               <fpage>502</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Human and National Security: Understanding Transnational Challenges</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reveron</surname>
+                     <given-names>Derek S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mahoney-Norris, Kathleen A.</surname>
+                  </name>
+               </person-group>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Roman Manpower and Recruitment during the Middle Republic</chapter-title>
+               <source>A Companion to the Roman Army</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>De Ligt, Luuk</surname>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>114</fpage>
+               <fpage>131</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Frontiers of the Roman Empire</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Elton</surname>
+                     <given-names>Hugh</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Intelligence Activities in Ancient Rome: Trust in the Gods but Verify</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sheldon</surname>
+                     <given-names>Rose Mary</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A Democratic Dilemma: System Effectiveness versus Citizen Participation</article-title>
+               <pub-id pub-id-type="doi">10.2307/2151659</pub-id>
+               <volume>109</volume>
+               <issue>1</issue>
+               <source>Political Science Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dahl</surname>
+                     <given-names>Robert A.</given-names>
+                  </name>
+               </person-group>
+               <year>1994</year>
+               <fpage>23</fpage>
+               <fpage>34</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Politics with the People: Building a Directly Representative Democracy</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Neblo</surname>
+                     <given-names>Michael A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Esterling</surname>
+                     <given-names>Kevin M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lazer</surname>
+                     <given-names>David MJ</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Rallying the Nation: Sport and Spectacle serving the Greek Dictatorships</article-title>
+               <pub-id pub-id-type="doi">10.1080/09523367.2010.495226</pub-id>
+               <volume>27</volume>
+               <issue>12</issue>
+               <source>The International Journal of the History of Sport</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van Steen, Gonda</surname>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>2121</fpage>
+               <fpage>2154</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <chapter-title>A Big Data Analytics System to Analyze Citizens' Perception of Security</chapter-title>
+               <article-title>2016 IEEE International Smart Cities Conference</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Camargo</surname>
+                     <given-names>Jorge E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Torres</surname>
+                     <given-names>Carlos A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martínez</surname>
+                     <given-names>Oscar H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gómez</surname>
+                     <given-names>Francisco A.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>1</fpage>
+               <fpage>5</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Immigration, Threat Perception, and National Identity: Evidence from South Korea</article-title>
+               <pub-id pub-id-type="doi">10.1016/j.ijintrel.2014.12.001</pub-id>
+               <volume>44</volume>
+               <source>International Journal of Intercultural Relations</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ha</surname>
+                     <given-names>Shang E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jang</surname>
+                     <given-names>Seung-Jin</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>53</fpage>
+               <fpage>62</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Identity, Power, and Threat Perception: A Cross-national Experimental Study</article-title>
+               <pub-id pub-id-type="doi">10.1177/0022002707304813</pub-id>
+               <volume>51</volume>
+               <issue>5</issue>
+               <source>Journal of Conflict Resolution</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rousseau</surname>
+                     <given-names>David L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Garcia-Retamero, Rocio</surname>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>744</fpage>
+               <fpage>771</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Security: a New Framework for Analysis</article-title>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Waever</surname>
+                     <given-names>Ole</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>De Wilde, Jaap</surname>
+                  </name>
+               </person-group>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Human Development Report</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>United Nations Development Programme</surname>
+                  </name>
+               </person-group>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Copenhagen School on Tour in Kyrgyzstan: Is Securitization Theory Useable Outside Europe?</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010607075964</pub-id>
+               <volume>38</volume>
+               <issue>1</issue>
+               <source>Security Dialogue</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wilkinson</surname>
+                     <given-names>Claire</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>5</fpage>
+               <fpage>25</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Politics, Security, Theory</article-title>
+               <pub-id pub-id-type="doi">10.1177/0967010611418718</pub-id>
+               <volume>42</volume>
+               <issue>4–5</issue>
+               <source>Security Dialogue</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waever</surname>
+                     <given-names>Ole</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>465</fpage>
+               <fpage>480</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Consequences of Terrorism: Disentangling the Effects of Personal and National Threat</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/3792589"
+                         xlink:type="simple">https://www.jstor.org/stable/3792589</ext-link>
+               <volume>23</volume>
+               <issue>3</issue>
+               <source>Political Psychology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huddy</surname>
+                     <given-names>Leonie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Feldman</surname>
+                     <given-names>Stanley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Capelos</surname>
+                     <given-names>Theresa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Provost</surname>
+                     <given-names>Colin</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <fpage>485</fpage>
+               <fpage>509</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Israeli Adolescents Exposed to Community and Terror Violence: The Protective Role of Social Support</article-title>
+               <volume>31</volume>
+               <issn>02724316</issn>
+               <pub-id pub-id-type="doi">10.1177/0272431610366247</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brookmeyer</surname>
+                     <given-names>Kathryn A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Henrich</surname>
+                     <given-names>Christopher C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>Guina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shahar</surname>
+                     <given-names>Golan</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>577</fpage>
+               <fpage>603</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effects of Fear and Anger on Perceived Risks of Terrorism: A National Field Experiment</article-title>
+               <pub-id pub-id-type="doi">10.1111/1467-9280.01433</pub-id>
+               <volume>14</volume>
+               <issue>2</issue>
+               <source>Psychological Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lerner</surname>
+                     <given-names>Jennifer S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gonzalez</surname>
+                     <given-names>Roxana M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Small</surname>
+                     <given-names>Deborah A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fischhoff</surname>
+                     <given-names>Baruch</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <fpage>144</fpage>
+               <fpage>150</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Stakeholder Security: The New Western Way of Counter-terrorism?</article-title>
+               <pub-id pub-id-type="doi">10.1080/13569771003783943</pub-id>
+               <volume>16</volume>
+               <issue>2</issue>
+               <source>Contemporary Politics</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jarvis</surname>
+                     <given-names>Lee</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lister</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>173</fpage>
+               <fpage>188</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Explaining the Cultures of Intelligence</article-title>
+               <volume>32</volume>
+               <issn>0885-0607</issn>
+               <pub-id pub-id-type="doi">10.1080/08850607.2018.1524250</pub-id>
+               <issue>1</issue>
+               <source>International Journal of Intelligence and CounterIntelligence</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rietjens</surname>
+                     <given-names>Sebastiaan</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <fpage>202</fpage>
+               <fpage>207</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Securitisation of Food Security in Colombia, 1970–2010</article-title>
+               <pub-id pub-id-type="doi">10.1017/S0022216X1300117X</pub-id>
+               <source>Journal of Latin American Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nussio</surname>
+                     <given-names>Enzo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pernet</surname>
+                     <given-names>Corinne A.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>641</fpage>
+               <fpage>668</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Soldiers and Civilians: The Civil-military Gap and American National Security</article-title>
+               <publisher-name>MIT Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Feaver</surname>
+                     <given-names>Peter Douglas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kohn</surname>
+                     <given-names>Richard H.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Saudi Arabia: National Security in a Troubled Region</article-title>
+               <publisher-name>ABC-CLIO</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cordesman</surname>
+                     <given-names>Anthony H.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ethnic and Regional Violence in Nigeria: Implications for National Security</article-title>
+               <pub-id pub-id-type="doi">10.5539/jpl.v7n3p20</pub-id>
+               <volume>7</volume>
+               <issue>3</issue>
+               <source>Journal of Politics and Law</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Adams</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ogbonnaya</surname>
+                     <given-names>Ufiem Maurice</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>20</fpage>
+               <fpage>34</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Role of Constitutional Courts in the Establishment and Maintenance of Democratic Systems of Government</article-title>
+               <pub-id pub-id-type="doi">10.2307/3185388</pub-id>
+               <source>Law and Society Review</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Epstein</surname>
+                     <given-names>Lee</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Knight</surname>
+                     <given-names>Jack</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shvetsova</surname>
+                     <given-names>Olga</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <fpage>117</fpage>
+               <fpage>164</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Territorial State Revisited: Reflections on the Future of the Nation-state</article-title>
+               <pub-id pub-id-type="doi">10.2307/3233974</pub-id>
+               <volume>1</volume>
+               <issue>1</issue>
+               <source>Polity</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Herz</surname>
+                     <given-names>John H.</given-names>
+                  </name>
+               </person-group>
+               <year>1968</year>
+               <fpage>11</fpage>
+               <fpage>34</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Security Dilemma and Ethnic Conflict</article-title>
+               <pub-id pub-id-type="doi">10.1080/00396339308442672</pub-id>
+               <volume>35</volume>
+               <issue>1</issue>
+               <source>Survival</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Posen</surname>
+                     <given-names>Barry R.</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+               <fpage>27</fpage>
+               <fpage>47</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Broadening the Concept of Security: Identity and Societal Security</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://eprints.lancs.ac.uk/id/eprint/88393"
+                         xlink:type="simple">https://eprints.lancs.ac.uk/id/eprint/88393</ext-link>
+               <volume>6</volume>
+               <issue>4</issue>
+               <source>Geopolitics Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Saleh</surname>
+                     <given-names>Alam</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>228</fpage>
+               <fpage>241</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Trauma and the Politics of Emotions: Constituting Identity, Security and Community after the Bali Bombing</article-title>
+               <volume>24</volume>
+               <isbn>0047117809348</isbn>
+               <issn>00471178</issn>
+               <pub-id pub-id-type="doi">10.1177/0047117809348712</pub-id>
+               <issue>1</issue>
+               <source>International Relations</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hutchison</surname>
+                     <given-names>Emma</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>65</fpage>
+               <fpage>86</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>The Changing Agenda of Societal Security</chapter-title>
+               <source>Globalization and Environmental Challenges</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Waever</surname>
+                     <given-names>Ole</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <fpage>581</fpage>
+               <fpage>593</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Post-9 / 11 Terrorism Threats, News Coverage, and Public Perceptions in the United States Post-9 / 11 Terrorism Threats, News Coverage, and Public Perceptions in the United States</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ijcv.org/index.php/ijcv/article/download/2748/2509"
+                         xlink:type="simple">https://www.ijcv.org/index.php/ijcv/article/download/2748/2509</ext-link>
+               <volume>1</volume>
+               <issue>2</issue>
+               <source>International Journal of Conflict and Violence (IJCV)</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nacos</surname>
+                     <given-names>Brigitte L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bloch-Elkon, Yaeli</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shapiro</surname>
+                     <given-names>Robert Y.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>105</fpage>
+               <fpage>126</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>US National Security Export Controls: Implications for Global Competitiveness of US High‐tech Firms</article-title>
+               <pub-id pub-id-type="doi">10.1002/smj.4250130105</pub-id>
+               <volume>13</volume>
+               <issue>1</issue>
+               <source>Strategic Management Journal</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Parkhe</surname>
+                     <given-names>Arvind</given-names>
+                  </name>
+               </person-group>
+               <year>1992</year>
+               <fpage>47</fpage>
+               <fpage>66</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Wage Determination in an Economy with Many Trade Unions</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/2662821"
+                         xlink:type="simple">https://www.jstor.org/stable/2662821</ext-link>
+               <volume>31</volume>
+               <issue>3</issue>
+               <source>Oxford Economic Papers</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Oswald</surname>
+                     <given-names>Andrew J.</given-names>
+                  </name>
+               </person-group>
+               <year>1979</year>
+               <fpage>369</fpage>
+               <fpage>385</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>About UN Environment Programme</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.unep.org/about-un-environment</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>United Nations Environment Programme </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>About Disasters and Conflicts</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.unep.org/explore-topics/disasters-conflicts/about-disasters-conflicts</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>United Nations Environment Programme </surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Reality of Hackers</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://go.gale.com/ps/i.do?id=GALE\%7CA76728048&amp;sid=googleScholar&amp;v=2.1&amp;it=r&amp;linkaccess=abs&amp;issn=00355593&amp;p=AONE&amp;sw=w&amp;userGroupName=anon\%7Efb1da94a"
+                         xlink:type="simple">https://go.gale.com/ps/i.do?id=GALE\%7CA76728048&amp;sid=googleScholar&amp;v=2.1&amp;it=r&amp;linkaccess=abs&amp;issn=00355593&amp;p=AONE&amp;sw=w&amp;userGroupName=anon\%7Efb1da94a</ext-link>
+               <volume>48</volume>
+               <issue>7</issue>
+               <source>Risk Management</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nickson</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kates</surname>
+                     <given-names>Jim</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <fpage>50</fpage>
+               <fpage>57</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Evolution of International Security Studies</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Lene</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>From Defending Borders towards Managing Geographical Risks? Security in a Globalised World</article-title>
+               <pub-id pub-id-type="doi">10.1080/14650040008407667</pub-id>
+               <volume>5</volume>
+               <issue>1</issue>
+               <source>Geopolitics</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Albert</surname>
+                     <given-names>Mathias</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <fpage>57</fpage>
+               <fpage>80</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Anthony D. Smith on Nations and National Identity: A Critical Assessment</article-title>
+               <pub-id pub-id-type="doi">10.1111/j.1354-5078.2004.00159.x</pub-id>
+               <volume>10</volume>
+               <issue>1–2</issue>
+               <source>Nations and Nationalism</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Guibernau</surname>
+                     <given-names>Montserrat</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <fpage>125</fpage>
+               <fpage>141</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Critical Security Studies: Concepts and Strategies</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krause</surname>
+                     <given-names>Keith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Michael C.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Globalization of Insecurity. How the International Economic Order Undermines Human and National Security on a World Scale</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://dialnet.unirioja.es/descarga/articulo/996076.pdf"
+                         xlink:type="simple">https://dialnet.unirioja.es/descarga/articulo/996076.pdf</ext-link>
+               <source>Historia Actual Online</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ahmed</surname>
+                     <given-names>Nafeez Mosaddeq</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Americans Respond Politically to 9/11: Understanding the Impact of the Terrorist Attacks and their Aftermath</article-title>
+               <pub-id pub-id-type="doi">10.1037/a0024894</pub-id>
+               <volume>66</volume>
+               <issue>6</issue>
+               <source>American Psychologist</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huddy</surname>
+                     <given-names>Leonie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Feldman</surname>
+                     <given-names>Stanley</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>455</fpage>
+               <fpage>467</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>People, States, and Fear: The National Security Problem in International Relations</article-title>
+               <publisher-name>Wheatsheaf Books</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Buzan</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+               </person-group>
+               <year>1983</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Self-interest, Social Security, and the Distinctive Participation Patterns of Senior Citizens</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/3117930"
+                         xlink:type="simple">https://www.jstor.org/stable/3117930</ext-link>
+               <source>American Political Science Review</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Campbell</surname>
+                     <given-names>Andrea Louise</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <fpage>565</fpage>
+               <fpage>574</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Building Intelligence to Fight Terrorism</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steinberg</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>Mary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eggers</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>An Exploratory Risk Perception Study of Attitudes toward Homeland Security Systems</article-title>
+               <volume>28</volume>
+               <isbn>0272-4332</isbn>
+               <issn>02724332</issn>
+               <pub-id pub-id-type="doi">10.1111/j.1539-6924.2008.01069.x</pub-id>
+               <issue>4</issue>
+               <source>Risk Analysis</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sanquist</surname>
+                     <given-names>Thomas F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mahy</surname>
+                     <given-names>Heidi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Morris</surname>
+                     <given-names>Frederic</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <fpage>1125</fpage>
+               <fpage>1133</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>States, Citizens and the Privatisation of Security</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Krahmann</surname>
+                     <given-names>Elke</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Self-interest and Civilians' Attitudes toward the Vietnam War</article-title>
+               <pub-id pub-id-type="doi">10.1086/268474</pub-id>
+               <volume>42</volume>
+               <issue>4</issue>
+               <source>Public Opinion Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lau</surname>
+                     <given-names>Richard R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>Thad A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sears</surname>
+                     <given-names>David O.</given-names>
+                  </name>
+               </person-group>
+               <year>1978</year>
+               <fpage>464</fpage>
+               <fpage>482</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Explaining Opposition to Refugee Resettlement: The Role of NIMBYism and Perceived Threats</article-title>
+               <volume>3</volume>
+               <issn>23752548</issn>
+               <pub-id pub-id-type="doi">10.1126/sciadv.1700812</pub-id>
+               <issue>9</issue>
+               <source>Science Advances</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ferwerda</surname>
+                     <given-names>Jeremy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Flynn</surname>
+                     <given-names>D. J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Horiuchi</surname>
+                     <given-names>Yusaku</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Why Do Citizens want to Keep Refugees out? Threats, Fairness and Hostile Norms in the Treatment of Asylum Seekers</article-title>
+               <volume>37</volume>
+               <issn>00462772</issn>
+               <pub-id pub-id-type="doi">10.1002/ejsp.329</pub-id>
+               <issue>1</issue>
+               <source>European Journal of Social Psychology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Louis</surname>
+                     <given-names>Winnifred R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Duck</surname>
+                     <given-names>Julie M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Terry</surname>
+                     <given-names>Deborah J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schuller</surname>
+                     <given-names>Regina A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lalonde</surname>
+                     <given-names>Richard N.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>53</fpage>
+               <fpage>73</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Perception of Power, Threat, and Conflict Intensity in Asymmetric Intergroup Conflict: Arab and Jewish Citizens of Israel</article-title>
+               <volume>39</volume>
+               <issn>15528766</issn>
+               <pub-id pub-id-type="doi">10.1177/0022002795039001003</pub-id>
+               <issue>1</issue>
+               <source>Journal of Conflict Resolution</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rouhana</surname>
+                     <given-names>Nadim N.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fiske</surname>
+                     <given-names>Susan T.</given-names>
+                  </name>
+               </person-group>
+               <year>1995</year>
+               <fpage>49</fpage>
+               <fpage>81</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Terror Threat Perception and its Consequences in Contemporary Britain</article-title>
+               <volume>96</volume>
+               <issn>20448295</issn>
+               <pub-id pub-id-type="doi">10.1348/000712605X62786</pub-id>
+               <issue>4</issue>
+               <source>British Journal of Psychology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goodwin</surname>
+                     <given-names>Robin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Willson</surname>
+                     <given-names>Michelle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stanley</surname>
+                     <given-names>Gaines</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <fpage>389</fpage>
+               <fpage>406</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>When can Politicians Scare Citizens into Supporting Bad Policies?</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/25193869"
+                         xlink:type="simple">https://www.jstor.org/stable/25193869</ext-link>
+               <volume>53</volume>
+               <issue>1</issue>
+               <source>American Journal of Political Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lupia</surname>
+                     <given-names>Arthur</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Menning</surname>
+                     <given-names>Jesse O.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>90</fpage>
+               <fpage>106</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Citizens and Security Threats: Issues, Perceptions and Consequences beyond the National Frame</article-title>
+               <pub-id pub-id-type="doi">10.1017/S0007123414000143</pub-id>
+               <volume>46</volume>
+               <issue>1</issue>
+               <source>British Journal of Political Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stevens</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vaughan-Williams, Nick</surname>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>149</fpage>
+               <fpage>175</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Impact of Terrorism on Public Opinion, 1988 to 1989</article-title>
+               <publisher-name>Rand Corporation</publisher-name>
+               <publisher-loc>California, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rand.org/content/dam/rand/pubs/monograph\_reports/2006/MR225.pdf"
+                         xlink:type="simple">https://www.rand.org/content/dam/rand/pubs/monograph\_reports/2006/MR225.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Downes-Le Guin, Theodore</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hoffman</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+               </person-group>
+               <year>1993</year>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Influence of Terrorism Risk on Foreign Tourism Decisions</article-title>
+               <pub-id pub-id-type="doi">10.1016/S0160-7383(97)00072-8</pub-id>
+               <volume>25</volume>
+               <issue>1</issue>
+               <source>Annals of Tourism Research</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sönmez</surname>
+                     <given-names>Sevil F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Graefe</surname>
+                     <given-names>Alan R.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <fpage>112</fpage>
+               <fpage>144</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Group Size versus Change? Assessing Americans' Perception of Local Immigration</article-title>
+               <pub-id pub-id-type="doi">10.1177/1065912913517303</pub-id>
+               <volume>67</volume>
+               <issue>2</issue>
+               <source>Political Research Quarterly</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Newman</surname>
+                     <given-names>Benjamin J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Velez</surname>
+                     <given-names>Yamil</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>293</fpage>
+               <fpage>303</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Fruits of Perception:`Ethnic Politics' and the Case of Kenya's Constitutional Referendum</article-title>
+               <pub-id pub-id-type="doi">10.1080/00020180601035674</pub-id>
+               <volume>65</volume>
+               <issue>2</issue>
+               <source>African Studies</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lynch</surname>
+                     <given-names>Gabrielle</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <fpage>233</fpage>
+               <fpage>270</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Risk Perceptions of Cyber-security and Precautionary Behaviour</article-title>
+               <pub-id pub-id-type="doi">10.1016/j.chb.2017.05.038</pub-id>
+               <volume>75</volume>
+               <source>Computers in Human Behavior</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>van Schaik, Paul</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jeske</surname>
+                     <given-names>Debora</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Onibokun</surname>
+                     <given-names>Joseph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Coventry</surname>
+                     <given-names>Lynne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jansen</surname>
+                     <given-names>Jurjen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kusev</surname>
+                     <given-names>Petko</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>547</fpage>
+               <fpage>559</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Public Risk Perceptions, Understandings, and Responses to Climate Change and Natural Disasters in Australia and Great Britain</article-title>
+               <publisher-name>National Climate Change Adaptation Research Facility</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reser</surname>
+                     <given-names>Joseph P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bradley</surname>
+                     <given-names>Graham L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Glendon</surname>
+                     <given-names>A. Ian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ellul</surname>
+                     <given-names>Michelle C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Callaghan</surname>
+                     <given-names>Rochelle</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>It's All in the Anticipation: How Perception of Threat is Enhanced in Anxiety</article-title>
+               <pub-id pub-id-type="doi">10.1037/emo0000098</pub-id>
+               <volume>16</volume>
+               <issue>3</issue>
+               <source>Emotion</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sussman</surname>
+                     <given-names>Tamara J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Szekely</surname>
+                     <given-names>Akos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hajcak</surname>
+                     <given-names>Greg</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mohanty</surname>
+                     <given-names>Aprajita</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <fpage>320</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Coping Strategies, Multidimensional Competitive Anxiety and Cognitive Threat Appraisal: Differences across Sex, Age and Type of Sport</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.semanticscholar.org/paper/Coping-strategies\%2C-multidimensional-competitive-and-Dias-Cruz/dc31e89a396c354b2d683c8c543a0ce5f6d034d3"
+                         xlink:type="simple">https://www.semanticscholar.org/paper/Coping-strategies\%2C-multidimensional-competitive-and-Dias-Cruz/dc31e89a396c354b2d683c8c543a0ce5f6d034d3</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dias</surname>
+                     <given-names>Cláudia S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cruz</surname>
+                     <given-names>José Fernando A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fonseca</surname>
+                     <given-names>António Manuel</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Political Tolerance of Demobilizing Armed Actors: The Case of FARC in Colombia</article-title>
+               <pub-id pub-id-type="doi">10.1177/1750635219874734</pub-id>
+               <volume>14</volume>
+               <issue>2</issue>
+               <source>Media, War &amp; Conflict</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mun</surname>
+                     <given-names>Kwansik</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rojas</surname>
+                     <given-names>Hernando</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Coppini</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cho</surname>
+                     <given-names>Helen</given-names>
+                  </name>
+               </person-group>
+               <year>2021</year>
+               <fpage>221</fpage>
+               <fpage>238</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Civil Liberties vs. Security: Public Opinion in the Context of the Terrorist Attacks on America</article-title>
+               <pub-id pub-id-type="doi">10.2307/1519895</pub-id>
+               <volume>48</volume>
+               <isbn>9780833058744</isbn>
+               <issue>1</issue>
+               <source>American Journal of Political Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>Darren W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Silver</surname>
+                     <given-names>Brian D</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <fpage>28</fpage>
+               <fpage>46</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Destined to Die but not to Wage War: How Existential Threat Can Contribute to Escalation or De-escalation of Violent Intergroup Conflict</article-title>
+               <pub-id pub-id-type="doi">10.1037/a0033052</pub-id>
+               <volume>68</volume>
+               <issue>7</issue>
+               <source>American Psychologist</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jonas</surname>
+                     <given-names>Eva</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fritsche</surname>
+                     <given-names>Immo</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>543</fpage>
+               <fpage>558</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <chapter-title>Diverse Emotional Reactions to Threat</chapter-title>
+               <article-title>APSA 2009 Toronto Meeting Paper</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Huddy</surname>
+                     <given-names>Leonie</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>No One Will Scratch my Back: Iranian Security Perceptions in Historical Context</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/4330125"
+                         xlink:type="simple">https://www.jstor.org/stable/4330125</ext-link>
+               <volume>59</volume>
+               <issue>2</issue>
+               <source>The Middle East Journal</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mokhtari</surname>
+                     <given-names>Fariborz</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <fpage>209</fpage>
+               <fpage>229</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Perception-behavior Expressway: Automatic Effects of Social Perception on Social Behavior</article-title>
+               <volume>33</volume>
+               <isbn>0120152339</isbn>
+               <issn>00652601</issn>
+               <pub-id pub-id-type="doi">10.1016/s0065-2601(01)80003-4</pub-id>
+               <source>Advances in Experimental Social Psychology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dijksterhuis</surname>
+                     <given-names>Ap</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bargh</surname>
+                     <given-names>John A.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <fpage>1</fpage>
+               <fpage>40</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Perception without Awareness: Perspectives from Cognitive Psychology</article-title>
+               <volume>79</volume>
+               <issn>00100277</issn>
+               <pub-id pub-id-type="doi">10.1016/S0010-0277(00)00126-8</pub-id>
+               <issue>1–2</issue>
+               <source>Cognition</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Merikle</surname>
+                     <given-names>Philip M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Smilek</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eastwood</surname>
+                     <given-names>John D.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <fpage>115</fpage>
+               <fpage>134</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A Multi-process Account of Startle Modulation during Affective Perception</article-title>
+               <volume>43</volume>
+               <issn>14698986</issn>
+               <pub-id pub-id-type="doi">10.1111/j.1469-8986.2006.00412.x</pub-id>
+               <issue>5</issue>
+               <source>Psychophysiology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bradley</surname>
+                     <given-names>Margaret M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Codispoti</surname>
+                     <given-names>Maurizio</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lang</surname>
+                     <given-names>Peter J.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <fpage>486</fpage>
+               <fpage>497</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Role of Emotions and Physiological arousal in Modulating Impulsive Behaviour</article-title>
+               <pub-id pub-id-type="doi">10.1016/j.biopsycho.2018.01.014</pub-id>
+               <volume>133</volume>
+               <source>Biological Psychology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Herman</surname>
+                     <given-names>Aleksandra M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Critchley</surname>
+                     <given-names>Hugo D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Duka</surname>
+                     <given-names>Theodora</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <fpage>30</fpage>
+               <fpage>43</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Emotions Drive Attention: Effects on Driver's Behaviour</article-title>
+               <pub-id pub-id-type="doi">10.1016/j.ssci.2009.03.011</pub-id>
+               <volume>47</volume>
+               <issue>9</issue>
+               <source>Safety Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pêcher</surname>
+                     <given-names>Christelle</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lemercier</surname>
+                     <given-names>Céline</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cellier</surname>
+                     <given-names>Jean-Marie</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>1254</fpage>
+               <fpage>1259</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Causes and Consequences of Emotions on Consumer Behaviour</article-title>
+               <pub-id pub-id-type="doi">10.1108/03090560710737570</pub-id>
+               <source>European Journal of Marketing</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Watson</surname>
+                     <given-names>Lisa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spence</surname>
+                     <given-names>Mark T.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Social Threat Perception and the Evolution of Paranoia</article-title>
+               <volume>28</volume>
+               <isbn>0149-7634 (Print)r0149-7634 (Linking)</isbn>
+               <issn>01497634</issn>
+               <pub-id pub-id-type="doi">10.1016/j.neubiorev.2004.03.006</pub-id>
+               <issue>3</issue>
+               <source>Neuroscience and Biobehavioral Reviews</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Green</surname>
+                     <given-names>Melissa J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Phillips</surname>
+                     <given-names>Mary L.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <fpage>333</fpage>
+               <fpage>342</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Threat Perception across the Life Span: Evidence for Multiple Converging Pathways</article-title>
+               <pub-id pub-id-type="doi">10.1177/0963721410388801</pub-id>
+               <volume>19</volume>
+               <issue>6</issue>
+               <source>Current Directions in Psychological Science</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>LoBue</surname>
+                     <given-names>Vanessa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rakison</surname>
+                     <given-names>David H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>DeLoache</surname>
+                     <given-names>Judy S.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>375</fpage>
+               <fpage>379</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>On the Interdependence of Cognition and Emotion</article-title>
+               <pub-id pub-id-type="doi">10.1080/02699930701438020</pub-id>
+               <volume>21</volume>
+               <issue>6</issue>
+               <source>Cognition and Emotion</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Storbeck</surname>
+                     <given-names>Justin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clore</surname>
+                     <given-names>Gerald L.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <fpage>1212</fpage>
+               <fpage>1237</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Responses to Self‐threat: Linking Self and Relational Constructs with Approach and Avoidance Motivation</article-title>
+               <pub-id pub-id-type="doi">10.1111/j.1751-9004.2009.00247.x</pub-id>
+               <volume>4</volume>
+               <issue>3</issue>
+               <source>Social and Personality Psychology Compass</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Park</surname>
+                     <given-names>Lora E.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>201</fpage>
+               <fpage>221</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Effects of Substance P in the Amygdala, Ventromedial Hypothalamus, and Periaqueductal Gray on Fear-potentiated Startle</article-title>
+               <pub-id pub-id-type="doi">10.1038/npp.2008.55</pub-id>
+               <volume>34</volume>
+               <issue>2</issue>
+               <source>Neuropsychopharmacology</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zhao</surname>
+                     <given-names>Zuowei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yang</surname>
+                     <given-names>Yong</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Walker</surname>
+                     <given-names>David L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>331</fpage>
+               <fpage>340</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Building an Intelligence Culture from within: The SRI and Romanian Society</article-title>
+               <pub-id pub-id-type="doi">10.1080/08850607.2014.900298</pub-id>
+               <volume>27</volume>
+               <issue>3</issue>
+               <source>International Journal of Intelligence and CounterIntelligence</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dumitru</surname>
+                     <given-names>Irena</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>569</fpage>
+               <fpage>589</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Chilean Intelligence after Pinochet: Painstaking Reform of an Inauspicious Legacy</article-title>
+               <pub-id pub-id-type="doi">10.1080/08850607.2017.1263530</pub-id>
+               <volume>30</volume>
+               <issue>2</issue>
+               <source>International Journal of Intelligence and CounterIntelligence</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Matei</surname>
+                     <given-names>Florina Cristiana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Castro García, Andrés</surname>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>340</fpage>
+               <fpage>367</fpage>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
