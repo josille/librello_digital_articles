@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2022.18020023</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Patterns of Similarities and Differences in Post-Conflict Community-Oriented Policing—A Matter of Trust</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Osland</surname>
+                  <given-names>Kari</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Røysamb</surname>
+                  <given-names>Maria</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Norwegian Institute of International Affairs, Oslo, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>13</day>
+            <month>09</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>2</issue>
+         <fpage>23</fpage>
+         <lpage>34</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>An analysis of Community-Oriented Policing (COP) in 12 post-conflict cases suggests that while the concept of COP holds promise of representing a more sustainable approach to conventional post-conflict police reform, among our cases, there are limited examples of successful COP. Rather, our cases reveal that COP is often perceived as much as a surveillance tool to legitimise harsh policing tactics, as promoting human security or serious reforms. The more robust finding, unsurprisningly, is that the levels of trust between the police and communities, and thus the viability of COP, is closely linked to whether the police act more as a service or a force. While the principles of COP are connected to a police service, in the ideal-typical sense, the post-conflict cases we have analysed are closer to the ideal-typical police force. A number of challenges and what seem to make COP more viable across cases are identified, which should be taken into account when COP is implemented in societies where a police force is the predominiant way of policing.  </p>
+         </abstract>
+         <kwd-group>
+            <kwd>Community-oriented policing</kwd>
+            <kwd>comparative analysis</kwd>
+            <kwd>human security</kwd>
+            <kwd>post-conflict</kwd>
+            <kwd>trust</kwd>
+            <kwd>power</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Substantial resources have been allocated to international police reform in fragile and post-conflict states [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>]. The theory of change underlying this, has been an understanding that for social and economic change to occur, the rule of law must also change, and that reforming the police to become more accountable and transparent is a step in that direction [<xref ref-type="bibr" rid="R10">10</xref>]. These contexts are extremely challenging and conventional police-reform approaches have proven difficult and, in some cases, unsustainable [<xref ref-type="bibr" rid="R11">11</xref>]. In response, community-oriented policing (COP) is lauded as an alternative approach, perceived to enhance the sustainability and effectiveness of policing, emerging from a realization that the police cannot work alone. Compared to conventional policing, COP is more attentive to local communities; focussing on joint problem-solving, partnerships and prevention; and is more in accord with the concept of human security. In its 1994 Human Development Report, the United Nations Development Programme (UNDP) identified seven core elements that together constitute the concept of human security: economic security; food security; health security; environmental security; personal security; community security; and political security [<xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>COP is defined and practiced differently by various stakeholders within and between countries. Whereas some treat it as a surveillance mechanism, enabling the police to gather information about community members, others see it as a philosophy or a method whereby the police and community cooperate with the aim of increasing the latter’s security [<xref ref-type="bibr" rid="R13">13</xref>]. Based on an understanding that community problems require community-engaged solutions and support, the UN defines COP as <italic>‘‘A strategy for encouraging the public to act as partners with the police in preventing and managing crime as well as other aspects of security and order based on the needs of the community.’’</italic> [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>The UN has set out four cornerstones of COP: 1) consulting with communities; 2) responding to communities; 3) mobilising communities; and 4) solving recurring problems. The UN has also identified several benefits of COP in conflict or post-conflict settings. Most importantly, it is suggested that a more consultative approach to policing will allow the community to have more trust in the police, which in turn will lead to crime prevention, information sharing, advance warning and build community resilience [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>In line with much of the thinking on international policing ‘‘abroad’’, COP emerged in the US in the 1970s. The concept gained traction from the early 1990s onwards, in parallel with an increase in security studies critical of the state-centric, militarised national security paradigm that was then hegemonic in policy and academic circles ([<xref ref-type="bibr" rid="R15">15</xref>], p. 79). A realization that local knowledge was a neglected resource in policing, formed the basis for COP ([<xref ref-type="bibr" rid="R16">16</xref>], pp. 25-26). However, also COP has been subject to much of the same criticism as other types of police reform initiated by external actors (such as the UN, the EU, the OSCE or the AU), and in particular that it ignores existing local practices, legal pluralism and proves to be irrelevant for the communities in question ([<xref ref-type="bibr" rid="R10">10</xref>], p. 88). Nontheless, while national and international police reform processes have mainly focused on capital and larger cities, and hence ignored local communities, there are a number of places where community-initiated security arrangements are in evidence. These local practices are either supplementing the work of the police as part of formal COP initiatives or offering an alternative to state dysfunction. There is, however, little research on how COP is understood and practiced across post-conflict countries, which makes it more difficult to detect whether or when COP works.</p>
+         <p>In this article, we aim to contribute with knowledge that can support future police reform and the implementation of COP intitiatives, by providing an analysis of patterns of similarities and differences across 12 post-conflict cases, allowing for identification of practices that both challenge and render COP more viable. In doing so, we draw on findings from Afghanistan, Bosnia and Herzegovina, El Salvador, Guatemala, Kenya, Kosovo, Nicaragua, Pakistan, Serbia, Somalia, Somaliland and Uganda. The methodology of this article echos the methodological approach in the research project, from which this article presents findings across cases. The main focus of the project was to understand whether and how community-oriented policing could provide a way forward to improve human security in post-conflict areas. The cases were selected according to a number of criteria: relevance to the international engagement in police missions; relevance of the cases to the history and development of COP, reflecting both success stories and worst-case scenarios; in addition to these cases spanning across four regions and encompass countries at varying stages of conflict and reform.</p>
+         <p>The around 35 researchers involved in the project come from various scholarly disciplines, including anthropology, development studies, law, criminology, political science, and technology. A qualitative approach was applied, including in-depth interviews, focus groups and participant observations to study various community-oriented policing practices. The data were gathered between 2016 and 2019. Interviewees and focus group participants came from national, regional, and local government authorities, state and local police units, national and international non-governmental organisations (NGOs), representatives from the UN and EU, and local communities in case countries. Within communities, particular emphasis was placed on including representatives of varying ages and genders, from different socio-economic standings, rural and urban areas. The project also included a Policing Experts Network (PEN) of around 40 police officers and police experts, whose role was to support research planning and the dissemination of findings, as well as to ensure the research was grounded in police practice. Researchers and PEN members met at least once a year over a period of five, in order to discuss preliminary findings in each case and across-cases analysis.</p>
+         <p>Research involving qualitative data, collected by a number of researchers from several different disciplines, can represent a challenge for cohesive analysis [<xref ref-type="bibr" rid="R17">17</xref>]. Combining in-depth case studies with comparative research is also a potential challenge [<xref ref-type="bibr" rid="R18">18</xref>]. To overcome these methodological challenges, several strategies were applied. First of all, based on discussions among researchers, Quality Control and Coherence Reports were written, where all researchers were asked to contribute with reflections on how to overcome this, which in itself was a way to increase attention [<xref ref-type="bibr" rid="R18">18</xref>]. Second, following fieldwork and desk research, findings were systematised and gathered into a ‘‘matrix’’, whereby responses to nine main research questions and a number of sub-questions were sorted according to cases and with particular emphasis given to youth and gender. The purpose of the matrix was two-fold: to serve as a tool to discuss emerging findings within and between cases, and to compare and contrast findings. It was a living document, updated continually as more and better data was obtained. A guideline for how to use the matrix was developed. The matrix as well as annual meetings provided a framework in which project members could identify commonalities and discontinuities, between and within cases. Finally, when the researchers gathered regularily to discuss similarities and differences between cases, we used the anthropological concepts of <italic>emic</italic> and <italic>etic</italic>, as an analytical starting point [<xref ref-type="bibr" rid="R19">19</xref>]. While <italic>emic</italic> refers to the uniqueness of a particular case, for instance how family is organized in a particular society, <italic>etic</italic> refers to the concept of family, without contextualization. By using <italic>emic</italic> lenses, we discussed the complexity of each case, while by using the <italic>etic</italic> lenses, we discovered how practices, challenges and vulnerabilities had similarities across cases [<xref ref-type="bibr" rid="R18">18</xref>].</p>
+         <p>This article is based on the matrix, discussions in workshops, interviews with individual researchers as well as the published articles of the project. Given the contextual differences between the cases, is not feasible to <italic>strictly</italic> compare the cases to one another in the sense of reaching generalizable findings. Rather, our aim is to look for <italic>patterns of similarities</italic> and differences in the etic understanding, treating COP as a category of practice.</p>
+         <p>The structure of the article is as follows. First, we present an ideal-typical model of policing, which will serve as an analytical framework in the first part. Here, we apply a deductive methodology, exploring the historical trajectories of each case, including perceptions of policing and trust between the community and police. We then turn to a more inductive approach, when we zoom in and examine first challenges facing practices of COP, before analysing case study examples of what appears to make COP more viable. Finally, we offer some concluding remarks.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- An Analytical Framework on Policing</title>
+         <p>While a number of definitions on policing exist, their core is on public order, including preventing and detecting crime [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>]. In looking at ideal-typical extremes on a continuum, in the Weberian understanding of ideal-types [<xref ref-type="bibr" rid="R25">25</xref>], the police can be sorted into those that are seen to serve the people (a police <italic>service</italic>) and those that protect the interests of the state (a police <italic>force</italic>) [<xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>]. These two types can be ascribed a number of characteristics, as seen in Figure <xref ref-type="fig" rid="Fig1">1</xref>.</p>
+         <p>The police can also be perceived as a <italic>projector</italic> of power and/or a tool of power [<xref ref-type="bibr" rid="R8">8</xref>]. As a projector of power, the police – through its practices – empowers groups and individuals, with intended and unintended consequences. As such, police reform is a highly political process, interfering with and challenging the state’s instrument of power ([<xref ref-type="bibr" rid="R11">11</xref>], p. 14).
+</p>
+         <p>Similarly, power forms part of the equation when external actors assist in reforming the police in post-conflict settings, which may have the (unintended) consequence of strengthening a corrupt, illegitimate regime. If the police are viewed as protector of the regime and provider of unjust treatment, grievances within the community are more likely to translate into violent action [<xref ref-type="bibr" rid="R28">28</xref>], or the community may seek protection from alternative security providers [<xref ref-type="bibr" rid="R29">29</xref>]. Thus, while the intention of actors such as the UN and the EU is to facilitate reform that result in a more accountable, transparent and civilian police, the effect may in such situations be the opposite. Another point of caution in this regard is that even in cases where citizen priorities are promoted, one might end up promoting only the interests of the socio-economic elite rather than the wider community ([<xref ref-type="bibr" rid="R30">30</xref>], p. 636). Within criminology, a growing body of critical literature has focused on how what was originally a US approach to crime fighting has influenced international police reform approaches in contexts that are very different to the intended landscape [<xref ref-type="bibr" rid="R31">31</xref>, <xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>]. This ‘‘exported’’ understanding of crimefighting, which lacks sensitivity and adaptation towards local context, is probably one of the main reasons behind the challenges of sustainability when it comes to international police reform. Another main reason that may explain why police reform is difficult when it comes to community–police relations, is lack of trust.</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label> Figure 1</label>
+            <caption>
+               <title>Ideal typical policing models.</title>
+            </caption>
+            <graphic xlink:href="Fig1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>Previous studies indicate that people’s trust in the police is closely related to whether they perceive the police as legitimate and accountable [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>]; in particular downwards to the public [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R43">43</xref>]; and as efficient [<xref ref-type="bibr" rid="R44">44</xref>]. While recognizing this, in the following we focus more narrowly on the concept of trust and how it is intertwined with the sense of the social contract between a state and its citizens [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R45">45</xref>]. Trust in the police correlates with people’s trust in government [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>]. In many post-conflict countries, the relationship between the police and communities is characterised by deep distrust. The literature indicates that this is primarily because the police are serving the interests of the ruling elite, and in doing so oppressing the population through its practices [<xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>]. Hence, people’s trust in the police cannot be understood without looking at both historical and contemporary practices [<xref ref-type="bibr" rid="R51">51</xref>]. Additionally, it is important to remember that not only may people lack trust in the police – the police in turn may feel threatened by or suspicious of communities, undermining community–police cooperation. Discussing the advantages of a community-oriented approach to policing in Western countries, Bayley ([<xref ref-type="bibr" rid="R52">52</xref>], p. 15) argues that, ‘‘community-oriented policing is the only strategy that begins to meet the major fear that is in the minds of the police … namely collective violence by disadvantaged groups’’, as it ‘‘allows the police to reach into those communities and to do something ameliorative and helpful, to build bridges before the only response these people have to conditions of modern life is violence’’. However, the police are seldom the main provider of security in fragile and post-conflict states: ‘‘Local gangs, militias and criminal networks, neighbourhood strongmen, insurgency groups, elderly councils, chiefs and religious leaders and institutions all contribute to make the field of security messier and can both be those that represent insecurity for people and or play the role as non-state security providers’’ [<xref ref-type="bibr" rid="R53">53</xref>]. Non-state security providers and institutions may be deemed legitimate based on tradition or custom, and as such, may be regarded as more legitimate than the police. In addition, while institutions may be perceived as legitimate, they may not be trusted.</p>
+         <p>In the next section we will explore the historical trajectories of each case, including perceptions of policing, as well as of trust between the community and the police.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Police Force or Service? Context, Practices and Understandings of COP</title>
+         <p>The South East European cases – Bosnia and Herzegovina, Serbia and Kosovo – share similar histories, having been part of communist Yugoslavia before experiencing ethnic conflict in the wake of the country’s dissolution in the early 1990s. Under Yugoslavia’s communist leader Josef Broz Tito, these states had experienced elements of community policing in the form of the concept of self-protection [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>]. During this era, the police focused on fostering joint police–public activities. However, with the outbreak of violent conflict in 1991 and 1992, the police protected the regime, resulting in a more repressive form of policing [<xref ref-type="bibr" rid="R54">54</xref>]. In Bosnia and Herzegovina, which gained independence under the Dayton Agreement of 1995, the international community – led by the UN Mission in Bosnia and Herzegovinian (UNMBiH) – had a significant impact on police and security sector reform [<xref ref-type="bibr" rid="R55">55</xref>]. COP initiatives were an important element of the reform process, with the International Police Task Force (IPTF) organising relevant training courses. COP was further formalised in 2007 when Bosnia and Herzegovina’s Ministry of Security adopted the Strategy for Community-Based Policing [<xref ref-type="bibr" rid="R55">55</xref>]. In 1999, following NATO’s bombing campaign, Kosovo was placed under UN administration (UNSC Resolution 1244). Since then, the Organization for Security and Cooperation in Europe (OSCE) Mission to Kosovo has been the main international actor engaged in police reform in the country. Consequently, understandings of COP accord with the OSCE’s understanding of the concept. In 2008, Kosovo unilaterally declared independence from Serbia, and the following year, Municipal Community Councils were established. These aimed at addressing community security by involving mayors, police, religious and ethnic communities, and civil society [<xref ref-type="bibr" rid="R54">54</xref>]. COP was further formalised through a set of handbooks, strategies and action plans, such as the Community Policing Strategy and Action Plan of 2012–2016 [<xref ref-type="bibr" rid="R54">54</xref>].</p>
+         <p>The Central American cases – Nicaragua, Guatemala and El Salvador – follow a different historical trajectory [<xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>]. In Nicaragua, a socialist revolution (1978–1979) eventually led to civil war from 1981 to 1990; in Guatemala, dictatorship, military violence and civil war traumatised the country from the 1960s onwards; while in El Salvador, civil war raged from 1979 to 1992 following the fall of the dictatorship ([<xref ref-type="bibr" rid="R60">60</xref>], p. 2). In Nicaragua, a COP model had already been established in 1979 following the socialist Sandinista revolution. The national police have, in part through the Integrated Police–Community Policy in place since 2001, enhanced this focus by introducing a range of initiatives aimed at strengthening community–police relations [<xref ref-type="bibr" rid="R57">57</xref>]. In order to maintain links between the police and the community, personnel are trained in a number of issues, including the legal code for children and youth; intra-family violence; gender; and citizen security. Moreover, home visits are common ([<xref ref-type="bibr" rid="R57">57</xref>], p. 10). Despite Nicaragua being the second poorest state in the region, crime rates have been relatively low, and community–police trust has been characterised as high. Following the authoritarian shift in government in 2018, Nicaragua has experienced more widespread violence, which it may be assumed has been accompanied by a decrease in the level of trust between the police and communities [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R61">61</xref>]. As part of the return to democratic rule in El Salvador and Guatemala, and the signing of peace accords in, respectively, 1993 and 1996, new civilian police forces were established [<xref ref-type="bibr" rid="R57">57</xref>]. In El Salvador, Community Police Intervention Patrols (PIP-COM) operated between 1994-2004, with the aim of reducing crime through community integration and consultation, yet with limited success ([<xref ref-type="bibr" rid="R58">58</xref>], p. 75). Official documents issued by the government and the National Civil Police (PNC) identifies community policing as the central model for police activity, and a majority of police officers have been trained in community policing philosophy. Moreover, in 2015, El Salvador’s National Council on Citizen Security launched a comprehensive ten-year plan aimed at strengthening institutions responsible for human security [<xref ref-type="bibr" rid="R62">62</xref>]. Despite these efforts, a grounded community approach has not been realised, with El Salvador remaining one of the most violent countries in the world, leading in turn to a militarised and brutalising police approach [<xref ref-type="bibr" rid="R58">58</xref>]. Finally, Guatemala has made efforts towards a COP model, as evidenced by the establishment of the Community Security Police Model (MOPSIC) in 2014 [<xref ref-type="bibr" rid="R63">63</xref>]. MOPSIC is designed to promote a community philosophy among the police, thereby improving police services and building trust with communities. While the MOPSIC is well-established in Guatemala, there are several barriers to its success, including a lack of clarity on the fundamental concepts of COP [<xref ref-type="bibr" rid="R63">63</xref>].</p>
+         <p>As for the African cases, Kenya has faced decades of ethnic violence and, more recently, terrorist attacks ([<xref ref-type="bibr" rid="R60">60</xref>], p. 2); Somalia’s federal government only formed in 2012 and the country continues to struggle with domestic terrorism; while until 2008 Uganda experienced conflict in the Acholi districts in the country’s north [<xref ref-type="bibr" rid="R64">64</xref>, <xref ref-type="bibr" rid="R65">65</xref>]. Though COP was not a new concept in Kenya, with several state and non-state actors having introduced related programmes over the years, community-oriented policing was formally introduced in 2005 [<xref ref-type="bibr" rid="R66">66</xref>]. With the constitutional reform in 2010, the concept of COP was further developed and the objectives of COP are stated in a number of key documents, including the National Police Act and the National Police Service Standing Order (IMG Police Reform) [<xref ref-type="bibr" rid="R66">66</xref>]. Two parallel and contested COP models have been developed: Nyumba Kumi (‘‘Ten Households’’), led by the President’s Office; and the National Police Services (NPS) Community Policing Structure (CPC) structure [<xref ref-type="bibr" rid="R66">66</xref>]. In the Nyumba Kumi COP model, ten households are represented by a single individual, who serves as a liaison between the police and the community [<xref ref-type="bibr" rid="R66">66</xref>]. In Somalia, there are locally developed versions of COP, but these typically have more in common with widespread, locally-based neighbourhood watch schemes, and are usually clan based [<xref ref-type="bibr" rid="R67">67</xref>]. Nonetheless, the African Union Mission on Somalia (AMISOM) and donors in Jubaland have made attempts at introducing community policing initiatives [<xref ref-type="bibr" rid="R64">64</xref>]. In Uganda, community policing was imported in the 1990s by the UK’s Department for International Development (DFID), in an effort to bring police officers and the community closer together [<xref ref-type="bibr" rid="R68">68</xref>]. Community policing is today a formal policy, its latest iteration introduced by President Museveni in 2014. While a COP-like policing has existed in some form since Uganda’s independent, ‘‘there have been few modern innovations’’, but rather a continuation of the past concepts and with a focus on creating awareness about law and order [<xref ref-type="bibr" rid="R65">65</xref>].</p>
+         <p>Finally, in the South Asian cases, Pakistan has experienced armed conflict in the Swat Valley (2009) and unrest in the border areas with Afghanistan; while Afghanistan experienced civil war in 1978–1979 as well as several foreign occupations and interventions ([<xref ref-type="bibr" rid="R60">60</xref>], p. 2). When the international community intervened in Afghanistan in 2001, trust between the community and the police were largely non-existent. Interest in COP increased in 2009, with pilot projects introduced to Afghanistan’s Ministry of Interior Affairs (MoIA) by European Union Police Mission in Afghanistan (EUPOL) and United Nations Office for Project Service (UNOPS) ([<xref ref-type="bibr" rid="R69">69</xref>], p. 58). However, a number of years prior to this, enormous external resources had been put into efforts such as training police officers and changing curricula in order to promote more civilian and service-oriented police. These resources were provided by, among other countries, Canada, Germany and Norway, through bilateral agreements and coordinating mechanisms such as the International Police Coordinating Board (IPCB) [<xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R70">70</xref>]. In 2012, the Police e Mardumi (community policing) Secretariat was officially inaugurated in the MoIA. This focus is emphasised in the MoIA’s Ten-Year Vision for Afghan National Police (2014–2024). COP efforts are also visible at the provincial and district level, where police have been trained in and have implemented various COP initiatives [<xref ref-type="bibr" rid="R69">69</xref>]. Despite the challenging context, the Afghan police have come a long way in moving beyond policy and speech to practice. Furthermore, while there was an external push towards implementing a COP approach, Nyborg, Ganapathy and Nimruzi [<xref ref-type="bibr" rid="R69">69</xref>], argue that how ‘‘COP was implemented through linking with local institutions and civil society actors went a long way in making COP a locally-owned process addressing the diverse and complex needs of Afghan women and men’’. In Pakistan, as in other case countries, there is no single definition of community policing. While COP has formally been implemented in many regions, different models have been adopted ([<xref ref-type="bibr" rid="R71">71</xref>], p. 25). Following periods of conflict, a number of hybrid ‘‘institutions have emerged, initiated by both government and communities, with varying degrees of success in building trust and addressing peoples’ fears that militants may return’’ [<xref ref-type="bibr" rid="R72">72</xref>]. There are, however, several promising COP initiatives at the regional level, for instance in Khyber Pakhtunkhwa, which was the worst-affected province in Pakistan post 9/11, with terrorism, kidnappings and threats of violence leading to high levels of fear among the public ([<xref ref-type="bibr" rid="R73">73</xref>], p. 41). There, Public Liaison Committees (PLCs) were established, aimed at fostering improved community–police relations. Another initiative in the same region is the Dispute Resolution Councils (DRCs) [<xref ref-type="bibr" rid="R74">74</xref>]. Despite slow progress, several reform efforts have been undertaken to improve law enforcement agencies. According to a study by Nawab et al. ([<xref ref-type="bibr" rid="R73">73</xref>], p. 41), most of the Khyber Pakhtunkhwa government’s more recent initiatives ‘‘are in the spirit of community-oriented policing, and community members see visible improvement in policing and community–police relations’’.</p>
+         <p>Here we have learned that while there are examples of a more service-oriented police historically, most of our post-conflict cases fall within a force-oriented police force (according to Figure <xref ref-type="fig" rid="Fig1">1</xref>). In the following sections, we turn to a more inductive methodological approach, first exploring perceived challenges to COP in our cases, then exploring good practices of COP.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Challenges to COP</title>
+         <p>Findings from the 12 cases suggest that the absence of trust between communities and the police – an inherent challenge to effective community policing – is often ascribed to the former’s perception of the latter as a force, set up to serve a small ruling elite and protect the government and politicians, rather than provide citizens with security. Widespread corruption and nepotism aimed at facilitating personal gain by police officers are also reported as critical concerns across cases, though it is recognised in several case countries that the police are poorly paid (if, indeed, they are paid at all).</p>
+         <p>Field research in Bosnia and Herzegovina in 2016 and 2018, as well as in Kosovo in 2018, reveals that the perception of the police as a force is reinforced by a belief that they lack the capability and capacity to detect/deter crime, and by a perception that politicians lack interest in citizen’s needs [<xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R75">75</xref>]. By way of illustration, during a focus group study of youth in Kosovo, one respondent stated that ‘‘If I heard about more cases where the police succeeded, and they’d done their job, then I’d be more trustful. But that’s not the case’’ ([<xref ref-type="bibr" rid="R75">75</xref>], p. 2). Similarly, in Bosnia, lack of vertical accountability and the politicised nature of the police, coupled with a lack of resources, stand out as major challenges [<xref ref-type="bibr" rid="R56">56</xref>]. Similar challenges and perceptions of the police were found during fieldwork conducted in Kenya by Gjelsvik in January 2016 and May 2018 [<xref ref-type="bibr" rid="R66">66</xref>]. A common view among Kenyans is that the police protect the government and politicians, rather than citizens [<xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R76">76</xref>]. In fact, Gjelsvik ([<xref ref-type="bibr" rid="R66">66</xref>], p. 28) notes that ‘‘Powerholders have little to gain if the police forces are transformed into a truly people-centred, democratic and accountable system’’, thus hampering the implementation of COP. Lack of trust in the police also stems from the justice system’s limited response and unreliable nature, as well as a lack of police confidentiality, meaning that many Kenyans are reluctant to share information [<xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R77">77</xref>]. This in turn contributes to less effective policing, illustrated by the lack of willingness of citizens to testify in courts [<xref ref-type="bibr" rid="R66">66</xref>].</p>
+         <p>Across our cases, another identified challenge to effective community policing is the often-militarised nature of the police [<xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R76">76</xref>, <xref ref-type="bibr" rid="R77">77</xref>]. In some instances, a more militarised policing style is tied to the presence of non-state armed fractions, such as al-Shabaab in Somalia [<xref ref-type="bibr" rid="R64">64</xref>]. In Somalia, this has led to the prioritization of physical security rather than human security concerns, if the police is present at all [<xref ref-type="bibr" rid="R64">64</xref>]. In a related manner, Lid and Okwany [<xref ref-type="bibr" rid="R77">77</xref>] find that while ‘‘people-centred policing’’ is a buzzword for Kenyan police reform the threat of terrorism and violent extremism has led the Kenyan government to apply COP more as a surveillance and intelligence-gathering tool, rather than focusing on partnership, problem solving and people-centred policing [<xref ref-type="bibr" rid="R77">77</xref>]. Notably, the COP model Nyumba Kumi (‘‘Ten Households’’), was initiated by the government shortly after the terrorisk attack at Nairobis Westgate Centre in 2013 [<xref ref-type="bibr" rid="R77">77</xref>]. Hence, the implementation of the Nyumba Kumi intitative was motivated by the need to strenghten community-police communcation and intelligence gathering ([<xref ref-type="bibr" rid="R77">77</xref>], p. 49). The governments focus on intelligence gathering rather than community concerns, affected how the community viewed the Nyumba Kumi, and partly explains the resistance towards the initiative [<xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R77">77</xref>]. Gjelsvik ([<xref ref-type="bibr" rid="R66">66</xref>], p. 23) finds that many Kenyans are sceptical of this set-up, with a representative of a Mombasa human rights organisation explaining, ‘‘They created a new structure that was very foreign to people. For many it felt like spying on your neighbours … it rather needs to be a community-driven initiative and owned by the community. It also needs to be based on the need of the community and the community demands’’.</p>
+         <p>Importantly, the case study demonstrates that levels of trust between the community and the police, as well as the perceptions of COP, differ according to who you ask [<xref ref-type="bibr" rid="R78">78</xref>]. With regard to the Nyumba Kumi initiative, Lid and Okwany ([<xref ref-type="bibr" rid="R77">77</xref>], p. 51) find that, ‘‘persons of other ethnic and/or political affiliation than the ruling party are particularly skeptical to NK, which they see as an instrument for intelligence gathering’’, suggesting that COP in Kenya tends to reproduce existing power structures. Similarly, Gjelsvik [<xref ref-type="bibr" rid="R78">78</xref>] found that in Muslim-dominated and economically less well-established, community-members – especially youth- report that they are unlawfully targeted. This has contributed to more resentment among groups that were already neglected by the government [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+         <p>In El Salvador, heavy-handed and repressive policing has become the norm rather than the exception, partly due to increasing crime levels and partly due to a right-wing dominated executive branch of government [<xref ref-type="bibr" rid="R58">58</xref>]. The militarized nature of the police was further enhanced in 2016, with the formation of a Special Force division, enabling the police to conduct joint operations alongside military forces to fight criminal gangs [<xref ref-type="bibr" rid="R62">62</xref>]. Following the formation of the Special Force division, there was an increase in extra-judicial killings of alleged gang members and an increase in the number of women killed [<xref ref-type="bibr" rid="R58">58</xref>]. Notably, in El Salvador, repressive police strategies are not related solely to the threat of violent extremism or the fight against criminal gangs, but are a structural issue. Field research in El Salvador indicated that there is a cultural resistance against the COP model within the police [<xref ref-type="bibr" rid="R58">58</xref>]. By way of illustration, during interviews undertaken by Rojas Ospina in San Salvador, a police officer noted that COP ‘‘often render as something negative within the police and is perceived as a form of ‘sissy’ or soft policing’’ ([<xref ref-type="bibr" rid="R58">58</xref>], p. 76). In another interview conducted by Rojas Ospina, a police agent stated that ‘‘what you learn in the academy is theoretical and there is no use for it in the streets’’, indicating that effective policing is not aligned with community-oriented policing ([<xref ref-type="bibr" rid="R58">58</xref>], p. 76). Hence, as the police continue to use repression to fight crime COP is not rooted locally [<xref ref-type="bibr" rid="R58">58</xref>]. The tendency towards brutal, top-down policing found in El Salvador and Kenya is also becoming a challenge to COP and good community–police relations in Nicaragua.</p>
+         <p>Among the cases examined here, Nicaragua is reported as one of the more successful cases when it comes to local ownership of COP [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>, <xref ref-type="bibr" rid="R59">59</xref>, <xref ref-type="bibr" rid="R60">60</xref>]. Levels of trust between the police and communities have been characterised as high compared to other countries in Central America, including El Salvador and Guatemala. This is largely attributed to the country’s well-regarded police force, which utilises a grassroots (bottom-up) approach to policing [<xref ref-type="bibr" rid="R57">57</xref>]. This approach has been described as friendlier and less repressive than that employed by other countries in the region, and the police have attached great importance to the pillars of ‘‘outreach, accessibility and accountability’’ ([<xref ref-type="bibr" rid="R57">57</xref>], p. 8). Despite these positive developments, increasing violence and a more authoritarian shift in the government since 2018 have hurt community–police relations [<xref ref-type="bibr" rid="R57">57</xref>]. On top of this, there has been a shift to a more centralised policing model and COP system, which includes responsibility for youth programmes and community sports programmes being transferred from the police to other government institutions. Interview respondents, including ex-police chiefs, commented that ‘‘this move was short-sighted given its effect on community policing and the effective flow of information regarding local conditions of insecurity’’ ([<xref ref-type="bibr" rid="R57">57</xref>], p. 25). Moreover, in interviews carried out in 2017, analysts and ex-officials pointed to falling confidence in the police as a consequence of the more centralised policing model ([<xref ref-type="bibr" rid="R57">57</xref>], p. 24). A similar challenge was noted in the case of Kenya. During fieldwork (2018–2019), Gjelsvik found that local stakeholders, communities and citizens appear to have had little influence in developing COP structures, and many consider it a top-down model forced on them by the state. Added to this is the way in which COP is commonly understood and practiced at the local level, which in several places equates to ‘‘vigilantism, coercion or extortion, a replacement for village elders, spy rings, a parallel security system, political forums, and other outfit that contravenes the law’’ ([<xref ref-type="bibr" rid="R66">66</xref>], p. 23). This form of ‘‘high-jacking’’ is yet another challenge to COP, also identified in El Salvador [<xref ref-type="bibr" rid="R62">62</xref>].</p>
+         <p>Looking at COP across cases, it appears that meaningful implementation is challenged by the police’s failure to act as a service to the community. In several instances, this tendency is reinforced by repressive and brutal police tactics, as can be seen in El Salvador, and community perceptions of COP as being externally enforced, as can be seen in Kenya. Meaningful implementation of COP is also challenged by the various (state and non-state) security providers present, whether they are perceived as legitimate or not. Examples of this can be seen across cases, including respondents expressing a fear of retaliation from gang members (for instance, in El Salvador and Colombia) or insurgency groups (for instance, in Afghanistan and Somalia), with cooperation with police regarded as an act of disloyalty or an admission that an individual is an ‘‘enemy of the gangs’’. Being labelled a ‘‘police informer’’ can have lethal consequences. Police also contribute to this fear by taking bribes in return for revealing the identity of individuals who report cases, putting them at risk of reprisals. Making complaints against the police or advocating for police accountability in COP forums may be equally risky. As one former member of the Nyumba Kumi initiative in Kenya noted, ‘‘you are not allowed to say anything against the police. They are ‘small Gods’. If you complain they give out your details, and it becomes a risk for you’’ ([<xref ref-type="bibr" rid="R66">66</xref>], p. 23).</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Exploring Good Practices of COP</title>
+         <p>Despite the challenges associated with community policing, our cases also demonstrate what can be achieved by a more people-centred policing strategy, and the conditions under which this is feasible. As the Nicaraguan case illustrates, the decentralised nature of the Nicaraguan National Police (PNN) has, until recently, been key to its success [<xref ref-type="bibr" rid="R57">57</xref>]. Relatedly, another important factor – identified by Hills [<xref ref-type="bibr" rid="R79">79</xref>] in the Kenya case study – is the attitude and behaviour of local police, which is crucial when it comes to how communities perceive or welcome COP initiatives. Conducting field research on three Nairobi police stations, Hills [<xref ref-type="bibr" rid="R79">79</xref>] found that station commanders had proactively sought improved relations between officers and the local community. As part of an annual police competition conducted by the Kenyan Independent Policing Oversight Authority (IPOA), a station at Athi River, south of Nairobi, won best operational community policing initiative, as ‘‘It fulfilled the competitions criteria by providing evidence of a thoughtful and structured approach to community policing, careful record keeping, and most importantly the commanders’ provision of leadership to both police and the community’’ ([<xref ref-type="bibr" rid="R79">79</xref>], p. 1). This example lends supports to one respondent’s argument that the place to effect change should be at the station, bearing in mind that it is the point at which the public meets the police [<xref ref-type="bibr" rid="R79">79</xref>]. Importantly, these findings are not unique to Kenya, but point to a lesson applicable across cases.</p>
+         <p>In El Salvador, a major challenge to COP comes from within the police force, as well as the fact that many people are reluctant to cooperate with the police [<xref ref-type="bibr" rid="R58">58</xref>]. A recent study on perceptions of police in El Salvador [<xref ref-type="bibr" rid="R80">80</xref>] found that those in neighbourhoods with a systematic implementation of COP are more afraid of the police compared to those in neighbourhoods where COP is not implemented. Yet, the same study also found that ‘‘people are more inclined to trust the police officer that is present in the neighbourhood and conducts constant patrols and thereby interacts with the community’’ ([<xref ref-type="bibr" rid="R80">80</xref>], p. 84). These contradictory findings highlight that it is the quality of the presence and interaction with the community that is important, and moreover, that trust in the police is linked to the spirit of their work within the community. Perhaps, as Hills [<xref ref-type="bibr" rid="R79">79</xref>] describes, in some instances it is the police officers themselves who matter more than the policing model. A clear example of this was identified by Rojas Ospina [<xref ref-type="bibr" rid="R58">58</xref>] during a March 2018 field visit to a rural community in Cabanas. The visit took place following the eruption of a spiral of violence, which had prompted the police to interfere in order to maintain order and stabilise the situation. The police’s initial strategy was to go from door to door to gain information, but they faced mistrust from the community. The police then approached youth and kids at the local football field and provided them with support by guarding their games and football tournaments, thereby earning their trust ([<xref ref-type="bibr" rid="R58">58</xref>], p. 78). Eventually, the police also gained the trust of the youth’s parents and the wider community. According to community members, this was possible because ‘‘the police stayed in the community and got to know the people that lived there, especially the youth’’ ([<xref ref-type="bibr" rid="R58">58</xref>], p. 78).</p>
+         <p>The importance of police officers’ presence in a community was also observed by McNeish, Martinez Prado and Frühling Ehrlich [<xref ref-type="bibr" rid="R57">57</xref>] in the case of Nicaragua. They argue that a critical element explaining good community–police relations is that community police officers (<italic>jefes de sector</italic>) often live in and patrol the same community. By participating in meetings with residents, police officers have created close ties with community members ([<xref ref-type="bibr" rid="R57">57</xref>], p. 12). Another example from Nicaragua is the Social Prevention of Crime Committees, which organises assemblies and works with local institutions to solve security issues. These assemblies have given the police, at least until recently, a profound insight into the drivers of insecurity [<xref ref-type="bibr" rid="R57">57</xref>]. Conversely, in Somaliland, Hills [<xref ref-type="bibr" rid="R81">81</xref>] found that even residents living near a police station value neighbourhood watch groups and community groups over the police. One reason for this is that these groups are ‘‘integral parts of their communities in a way that that police are not; the youths, women, elders and businessmen contributing to the groups are known through the districts in which they operate, and people trust them’’. Importantly, while these examples point to the significance of police officers having a presence in the community, distanced community–police relations may have some advantages [<xref ref-type="bibr" rid="R82">82</xref>]. Based on interviews with community-based organisations, NGOs, community members and police officers in rural and urban parts of Kenya, Gjelsvik [<xref ref-type="bibr" rid="R82">82</xref>] finds that too-close bonds with local communities may hinder police impartiality and neutrality, as officers feel obliged to support certain groups or segments of the population based on tribal affiliation. This perception is also reflected in the organization of the police in Kenya, in which police officers are to rotate between different stations [<xref ref-type="bibr" rid="R82">82</xref>].</p>
+         <p>Finally, while several cases indicate that the presence of non-state security providers can challenge community–police relations, in some instances, informal and non-state security providers may render COP more viable. One such example is identified by Nyborg, Ganapathy and Nimruzi [<xref ref-type="bibr" rid="R69">69</xref>] in Afghanistan, where COP has successfully linked local communities, institutions and the police in a manner that ensures people’s security and trust. Conducing field research in both Kabul and the southwest, Nyborg, Ganapathy and Nimruzi ([<xref ref-type="bibr" rid="R69">69</xref>], p. 67) found that ‘‘COP pilot projects often introduced with the assistance of the international community were innovative in creating relations between the police and communities, including local <italic>shura</italic>, with the added advantage of supporting gender, youth and minority inclusion’’. This was confirmed during interviews with the head of one <italic>shura</italic> in Nimruz, consisting of several clergymen and elders. Here, the leader explained that the establishment of the <italic>shura</italic> had reduced crime rates in the city considerably ([<xref ref-type="bibr" rid="R83">83</xref>], p. 64). In itself, the shura contributes to safety and security, and is known for handling land and famility disputes. Moreover, the shura enables the community to have a unified voice when communicating with the police ([<xref ref-type="bibr" rid="R69">69</xref>], p. 63). As such, <italic>shuras</italic> can serve as a bridge between the police and the community [<xref ref-type="bibr" rid="R69">69</xref>]. One such example identified by Nyborg, Ganapathy and Nimruzi [<xref ref-type="bibr" rid="R69">69</xref>], was the establishment of the Peoples Shura of Khaja Karim in the North-East of the Nimruz province. Following the decision to set up weekly meetings with the police and community members, and the establishment of direct phone line to the police, the security situation was significantly improved ([<xref ref-type="bibr" rid="R69">69</xref>], p. 63). Based on field research in Afghanistan, Coyne and Nyborg [<xref ref-type="bibr" rid="R83">83</xref>] nonetheless argue that while a civil society driven, grassroots community policing approach is favourable, it is more likely to succeed if supported and promoted at a ministry level.</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- Concluding Remarks</title>
+         <p>We have seen that there is no uniform model of COP when we analyse how this is practiced in our cases: we observe wide variations not only between regions and countries but also within countries. Thus, local adaptations and nuances are essential for external actors such as the EU or the UN when becoming involved in any reform ‘‘abroad’’, which is a point also noted by others elsewhere (see for instance [<xref ref-type="bibr" rid="R84">84</xref>]). Furthermore, in the cases examined, more often than not, multiple security providers, often competing, can be discerned – mixing old and new, customary and formal law – in short, legal pluralism. Also relevant on a more specific level is the training provided to police officers and whether the police receive sufficient pay to make a living without corruption.</p>
+         <p>We have identified a number of challenges to COP in our cases. First, and most crucially, while a reciprocal trust-based relationship between citizens and the police is an aim of COP as seen from the UN [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R85">85</xref>], the absence of even basic trust in citizen–police relationships in post-conflict states acts as a significant barrier to meaningful implementation or progress. This is partly due to historical grievances and abuse experienced at the hands of law enforcement, and partly due to the state and its police neither working in the interests of communities nor being present in parts of the country. On a more fundamental level, this is related to a divergence between the regime’s understanding of what constitutes security and insecurity and that of the communities – while the government’s perception of insecurity favours militarized strategies, in the communities people experience a broader set of insecurities – more in line with the concept of human security, which also differs between men and women, young and old; the majority and marginalized groups. Reinforcing this divergence, cooperation with communities is in some cases used by the police as a surveillance and intelligence-gathering tool. A heavy-handed strategy by the police, combined with the police trying to recruite informants, result in fear, resentment and mistrust towards the police at local levels. This type of police approach also seems to ignore other insecurities that may be more pressing for local populations, such as food, health and livelihood insecurities, where crime fighting is only one aspect of ensuring human security.</p>
+         <p>Introducing COP in such settings is particularly challenging, as reform implies a change in power relations, and hence resistance is to be expected. Another observed challenge is that where the police turn to a militarised approach – as can be seen in the cases of El Salvador, parts of Kenya, and increasingly in Nicaragua – COP initiatives are doomed to failure or regression. Widespread corruption and nepotism, cited as a critical concern among respondents in the three Eastern European cases, also hamper progress, as does insufficient capacity to detect and prevent crime. Furthermore, a major obstacle identified in several cases is the lack of knowledge and established practice on how a community is expected to interact with the police. Finally, community–police relations are not solely affected by the behaviour of the police or community, but also by a variety of non-state (in)security providers often present in post-conflict states. Several cases indicate that community members fear retaliation from gang members if they are seen to cooperate with the police, or conversely, they fear that the police are corrupt and will share information with gangs or others who pose a risk to the community.</p>
+         <p>However, our cases also reveal examples where COP appears to be working. Above all, COP practices must be locally rooted and supported. A thread running through the cases of good practice is that the police are not perceived as being foreign or external, but rather an integral part of the community. Moving beyond the community and grassroots level, initiative and support at the state level can also be seen to make the conditions for COP more favourable. In this regard, people’s perception of the police’s inclusiveness is important. Moreover, the cases illustrate that it is the quality of the police’s presence and their interactions with the community that matters. Here, local police and station commanders have a critical role, as it is their attitude and behaviours that have the most impact. Findings suggest that, rather than merely transplanting technical skills, the focus should be on reflection and learning around police culture and behaviour. Lastly, some non-state security providers may actually make COP more viable, either because the police do not have a presence in particular areas, or by acting as a bridge linking the police with the community. Challenges and good practices of COP from our cases can be summarized in Figure <xref ref-type="fig" rid="Fig2">2</xref>.</p>
+         <fig id="Fig2" position="float" orientation="portrait">
+            <label> Figure 2</label>
+            <caption>
+               <title>Challenges and good practices of COP.</title>
+            </caption>
+            <graphic xlink:href="Fig2.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>As a philosophy, COP holds promise of increasing communities’ sense of security. This is first and foremost because COP implies more community involvement, with the community playing a central role in defining what constitute security and insecurity. This is also connected to a point valid for several of the places examined namely the widespread presence of legitimate customary order at the village level. This may call into question assumptions of an institutional and organizational tabula rasa, which seem to have driven initial institutional choices by national governments and the international community when police reforms are introduced [<xref ref-type="bibr" rid="R86">86</xref>]. However, there is no inherent causality between introducing COP and increased human security. Indeed, our studies – as well as those by others – show that COP has been used as a surveillance tool or to legitimise harsh policing tactics just as much as it has been used to promote human security or undertake serious reforms [<xref ref-type="bibr" rid="R87">87</xref>]. Hence, there is a divergence between the origins and principles of COP and the reality on the ground in places where external actors are assisting in implementation. While the historical origins and its principles are connected to a police <italic>service</italic>, in the ideal-typical sense, most of the post-conflict cases we have analysed have more of a police <italic>force</italic>. This insight should be taken into account in order to provide more realistic expectations for what can be achieved when implementing future police reforms and COP initiatives. Finally, we have seen that context matters, and hence, context-sensitivity is essential when implementing COP. Our cases display greater differences than they do similarities, with one notable exception: the role of trust.</p>
+      </sec>
+      <sec id="s9">
+         <title>Acknowledgments</title>
+         <p>We would like to thank all researchers and project participants for sharing their knowledge and insight with us. We would also like to thank the Editor and anonymous reviewers for constructive comments. Any errors or omissions remain the authors’ responsibility.</p>
+         <p>Funding: This work was supported by the European Commission’s Horizon 2020 Research and Innovation Programme [grant number 653909].</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/15614260801969938</pub-id>
+               <year>2008</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>9</volume>
+               <issue>1</issue>
+               <fpage>59</fpage>
+               <lpage>69</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Peake</surname>
+                     <given-names>Gordon</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marenin</surname>
+                     <given-names>Otwin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Their Reports are not Read and their Recommendations are Resisted: The Challenge for the Global Police Policy Community</article-title>
+               <source>Police Practice and Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>United Nations Security Council Resolution 2185</article-title>
+               <year>2014</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://digitallibrary.un.org/record/783462/files/S\_RES\_2185\%282014\%29-EN.pdf"
+                         xlink:type="simple">https://digitallibrary.un.org/record/783462/files/S\_RES\_2185\%282014\%29-EN.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>DPKO/DFS Policy on United Nations Police in Peacekeeping Operations and Special Political Missions</article-title>
+               <year>2014</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://peacekeeping.un.org/sites/default/files/4.\_rule\_of\_law\_-\_5\_policy\_on_police\_in_pkos\_and\_spms.pdf"
+                         xlink:type="simple">https://peacekeeping.un.org/sites/default/files/4.\_rule\_of\_law\_-\_5\_policy\_on_police\_in_pkos\_and\_spms.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>Report of the High-Level Independent Panel on Peace Operations on Uniting Our Strengths for Peace: Politics, Partnership and People</article-title>
+               <year>2015</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.globalr2p.org/wp-content/uploads/2020/01/2015-UNGA-HIPPO-Report.pdf"
+                         xlink:type="simple">https://www.globalr2p.org/wp-content/uploads/2020/01/2015-UNGA-HIPPO-Report.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>The Future of UN Peace Operations: Implementation of the Recommendations of the High-Level Independent Panel on Peace Operations</article-title>
+               <year>2015</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://digitallibrary.un.org/record/802167/files/A\_70\_357-S\_2015\_682-EN.pdf"
+                         xlink:type="simple">https://digitallibrary.un.org/record/802167/files/A\_70\_357-S\_2015\_682-EN.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>External Review of the Functions, Structure and Capacity of the UN Police Division</article-title>
+               <year>2016</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/external-review-2016\_0.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/external-review-2016\_0.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>Report of the Secretary-General on United Nations Police</article-title>
+               <year>2016</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/sg\_report\_on-un-policing\_2016.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/sg\_report\_on-un-policing\_2016.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Divon</surname>
+                     <given-names>Shai</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/handle/11250/2490053/Divon\_police\%2breform\_2016.pdf?sequence=1&amp;isAllowed=y"
+                         xlink:type="simple">https://nmbu.brage.unit.no/nmbu-xmlui/bitstream/handle/11250/2490053/Divon\_police\%2breform\_2016.pdf?sequence=1&amp;isAllowed=y</ext-link>
+               <article-title>Police Reform and Power in Post Conflict Societies A Conceptual Map for Analysis</article-title>
+               <source>European Journal of Policing Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10357718.2019.1685936</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>73</volume>
+               <issue>6</issue>
+               <fpage>609</fpage>
+               <lpage>627</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hunt</surname>
+                     <given-names>Charles T.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Rhetoric Versus Reality in the Rise of Policing in UN Peace Operations: `More Blue, Less Green'?</article-title>
+               <source>Australian Journal of International Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1098611104267328</pub-id>
+               <year>2005</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>64</fpage>
+               <lpage>98</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+               </person-group>
+               <article-title>``Horses for Courses'' and ``Thin Blue Lines'': Community Policing in Transitional Society</article-title>
+               <source>Police Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>University of Oslo</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K.M.</given-names>
+                  </name>
+               </person-group>
+               <source>Much Ado About Nothing? The Impact of International Assistance to Police Reform in Afghanistan, Bosnia and Herzegovina, Kosovo, Serbia and South Sudan</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations Development Programme (UNDP)</publisher-name>
+               <article-title>Human Development Report: Annual Report</article-title>
+               <year>1994</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf"
+                         xlink:type="simple">http://hdr.undp.org/sites/default/files/reports/255/hdr\_1994\_en\_complete\_nostats.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Defining Community-Oriented Policing</article-title>
+               <source>ICT4COP Policy Brief</source>
+               <issue>14</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/media/pdfs/14.-defining-cop.pdf"
+                         xlink:type="simple">https://www.communitypolicing.eu/media/pdfs/14.-defining-cop.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>United Nations</publisher-name>
+               <article-title>Manual: Community-Oriented Policing in United Nations Peace Operations</article-title>
+               <year>2018</year>
+               <publisher-loc>New York, USA</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/manual-community-oriented-poliicing.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/manual-community-oriented-poliicing.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0260210509990519</pub-id>
+               <year>2010</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>36</volume>
+               <issue>1</issue>
+               <fpage>77</fpage>
+               <lpage>94</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Newman</surname>
+                     <given-names>Edward</given-names>
+                  </name>
+               </person-group>
+               <article-title>Critical Human Security Studies</article-title>
+               <source>Review of International Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shearing</surname>
+                     <given-names>C.D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The New Structure of Policing. Description, Conceptualization and Research Agenda</article-title>
+               <publisher-loc>Washington (DC), USA</publisher-loc>
+               <year>2001</year>
+               <publisher-name>The National Institute of Justice</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ojp.gov/pdffiles1/nij/187083.pdf"
+                         xlink:type="simple">https://www.ojp.gov/pdffiles1/nij/187083.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1609406919880692</pub-id>
+               <year>2019</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>18</volume>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brower</surname>
+                     <given-names>Rebecca L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bertrand-Jones, Tamara</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Osborne-Lampkin, La'Tara</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hu</surname>
+                     <given-names>Shouping</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Park-Gaghan, Toby J.</surname>
+                  </name>
+               </person-group>
+               <article-title>Big Qual: Defining and Debating Qualitative Inquiry for Large Data Sets</article-title>
+               <source>International Journal of Qualitative Methods</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/media/pdfs/16.-interdisciplinary.pdf"
+                         xlink:type="simple">https://www.communitypolicing.eu/media/pdfs/16.-interdisciplinary.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               <article-title>Comparative and Interdisciplinary Research in Post-Conflict Settings – Lessons Identified</article-title>
+               <source>ICT4COP Policy Brief</source>
+               <issue>6</issue>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1037/14786-000</pub-id>
+               <year>1967</year>
+               <publisher-name>Mouton &amp; Co.</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pike</surname>
+                     <given-names>Kenneth L.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Language in Relation to a Unified Theory of the Structure of Human Behavior</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>The Functions of the Police in Modern Society: A Review of Background Factors, Current Practices, and Possible Role Models</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bittner</surname>
+                     <given-names>Egon</given-names>
+                  </name>
+               </person-group>
+               <institution>National Institute of Mental Health, Center for Studies of Crime and Delinquency</institution>
+               <year>1970</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Police and Society</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.H.</given-names>
+                  </name>
+               </person-group>
+               <year>1977</year>
+               <publisher-name>Sage</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>What Works in Policing</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.H.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Changing the Guard. Developing Democratic Police Abroad</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.H.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Policing: Key Readings</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Newburn</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Wilan</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203995808</pub-id>
+               <year>2005</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weber</surname>
+                     <given-names>Max</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Protestant Ethic and the Spirit of Capitalism</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203118238.ch2</pub-id>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mawby</surname>
+                     <given-names>R.I.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Models of Policing</chapter-title>
+               <year>2008</year>
+               <fpage>17</fpage>
+               <lpage>46</lpage>
+               <publisher-name>Willan Publishing</publisher-name>
+               <article-title>Handbook of Policing</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-3-319-99106-1\_10</pub-id>
+               <year>2018</year>
+               <publisher-name>Springer International Publishing</publisher-name>
+               <fpage>191</fpage>
+               <lpage>209</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>Kari M.</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>UN Policing: The Security-Trust Challenge</chapter-title>
+               <article-title>United Nations Peace Operations in a Changing Global Order</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/cbo9781139084161</pub-id>
+               <year>2013</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cederman</surname>
+                     <given-names>Lars-Erik</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Skrede-Gleditsch, Kristian</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buhaug</surname>
+                     <given-names>Halvard</given-names>
+                  </name>
+               </person-group>
+               <article-title>Inequality, Grievances, and Civil War</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/684366</pub-id>
+               <year>2016</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <volume>78</volume>
+               <issue>2</issue>
+               <fpage>512</fpage>
+               <lpage>526</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gates</surname>
+                     <given-names>Scott</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>Benjamin A. T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lupu</surname>
+                     <given-names>Yonatan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strand</surname>
+                     <given-names>H\aavard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strøm</surname>
+                     <given-names>Kaare W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Power Sharing, Protection, and Peace</article-title>
+               <source>The Journal of Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2004</year>
+               <publisher-name>Willan Publishers</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brogden</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing: International Perspectives</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>When Two Become One: Internal and External Securitisations in Europe</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bigo</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kelstrup</surname>
+                     <given-names>M. and Williams, M.</given-names>
+                  </name>
+               </person-group>
+               <source>International Relations Theory and The Politics of European Integration. Power, Security and Community</source>
+               <pub-id pub-id-type="doi">10.4324/9780203187807</pub-id>
+               <publisher-name>Routledge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/1521-9488.00243</pub-id>
+               <year>2001</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>3</volume>
+               <issue>3</issue>
+               <fpage>31</fpage>
+               <lpage>52</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andreas</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Price</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+               </person-group>
+               <article-title>From War Fighting to Crime Fighting: Transforming the American National Security State</article-title>
+               <source>International Studies Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2006</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Andreas</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nadelmann</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Policing the Globe: Criminalization and Crime Control in International Relation</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781472564108</pub-id>
+               <year>2007</year>
+               <publisher-name>Hart Publishing</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goldsmith</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sheptycki</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Crafting Transnational Policing : Police Capacity-Building and Global Policing Reform</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2139/ssrn.2262711</pub-id>
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ellison</surname>
+                     <given-names>Graham</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pino</surname>
+                     <given-names>Nathan W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Globalization, Police Reform and Development: Doing it the Western Way?</article-title>
+               <source>SSRN Electronic Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Sage</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aas</surname>
+                     <given-names>K.F.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Globalization &amp; Crime</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stambøl</surname>
+                     <given-names>Eva</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <fpage>287</fpage>
+               <lpage>308</lpage>
+               <article-title>The Rise of Crimefare Europe: Fighting Migrant Smuggling in West Africa</article-title>
+               <volume>24</volume>
+               <source>European Foreign Affairs Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/1540-5893.3703002</pub-id>
+               <year>2003</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>37</volume>
+               <issue>3</issue>
+               <fpage>513</fpage>
+               <lpage>548</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sunshine</surname>
+                     <given-names>Jason</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tyler</surname>
+                     <given-names>Tom R.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Role of Procedural Justice and Legitimacy in Shaping Public Support for Policing</article-title>
+               <source>Law &amp; Society Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2139/ssrn.887737</pub-id>
+               <year>2006</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tyler</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fagan</surname>
+                     <given-names>Jeffrey</given-names>
+                  </name>
+               </person-group>
+               <article-title>Legitimacy and Cooperation: Why Do People Help the Police Fight Crime in Their Communities?</article-title>
+               <source>SSRN Electronic Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1108/pijpsm-05-2017-0058</pub-id>
+               <year>2017</year>
+               <publisher-name>Emerald</publisher-name>
+               <volume>40</volume>
+               <issue>3</issue>
+               <fpage>474</fpage>
+               <lpage>479</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Noppe</surname>
+                     <given-names>Jannie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Verhage</surname>
+                     <given-names>Antoinette</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Damme, Anjuli</surname>
+                  </name>
+               </person-group>
+               <article-title>Police Legitimacy: An Introduction</article-title>
+               <source>Policing: An International Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4073/csr.2013.1</pub-id>
+               <year>2013</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>9</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mazerolle</surname>
+                     <given-names>Lorraine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bennett</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>Jacqueline</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sargeant</surname>
+                     <given-names>Elise</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Manning</surname>
+                     <given-names>Matthew</given-names>
+                  </name>
+               </person-group>
+               <article-title>Legitimacy in Policing: A Systematic Review</article-title>
+               <source>Campbell Systematic Reviews</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11292-014-9215-6</pub-id>
+               <year>2014</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>10</volume>
+               <issue>4</issue>
+               <fpage>429</fpage>
+               <lpage>457</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Higginson</surname>
+                     <given-names>Angela</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mazerolle</surname>
+                     <given-names>Lorraine</given-names>
+                  </name>
+               </person-group>
+               <article-title>Legitimacy Policing of Places: The Impact on Crime and Disorder</article-title>
+               <source>Journal of Experimental Criminology</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/1190933</pub-id>
+               <year>1971</year>
+               <publisher-name>JSTOR</publisher-name>
+               <volume>36</volume>
+               <issue>4</issue>
+               <fpage>515</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hudson</surname>
+                     <given-names>James R.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Review Boards and Police Accountability</article-title>
+               <source>Law and Contemporary Problems</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2001</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Robertshaw</surname>
+                     <given-names>R., Louw, A.,</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mtani</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Crime in Dar es Salaam-Pretoria, South Africa</article-title>
+               <publisher-name>Institute for Security Studies</publisher-name>
+               <publisher-loc>Canberra, AU</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/police/paq020</pub-id>
+               <year>2010</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>241</fpage>
+               <lpage>248</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jackson</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bradford</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <article-title>What is Trust and Confidence in the Police?</article-title>
+               <source>Policing</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Collapsed States: The Disintegration and Restoration of Legitimate Authority</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zartman</surname>
+                     <given-names>I.W.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781555875602</isbn>
+               <year>1995</year>
+               <publisher-name>Lynne Rienner Publishers</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>State Failure and State Weakness in a Time of Terror</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rotberg</surname>
+                     <given-names>R.I.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9780815775737</isbn>
+               <year>2003</year>
+               <publisher-name>Brookings Institution Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1515/9781400835799</pub-id>
+               <year>2004</year>
+               <publisher-name>Princeton University Press</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Rotberg</surname>
+                     <given-names>Robert I.</given-names>
+                  </name>
+               </person-group>
+               <article-title>When States Fail</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Victims of Crime in the Developing Countries</article-title>
+               <publisher-name>United Nations Interregional Crime and Justice Research Institute (UNICRI)</publisher-name>
+               <year>1998</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://digitallibrary.un.org/record/1492417?ln=en"
+                         xlink:type="simple">https://digitallibrary.un.org/record/1492417?ln=en</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alvazzi del Frate, A.</surname>
+                  </name>
+               </person-group>
+               <comment>57</comment>
+               <publisher-loc>Rome, IT</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Trust in Untrustworthy Institutions: Culture and Institutional Performance in Post-communist Societies</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mishler</surname>
+                     <given-names>W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rose</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <publisher-name>Centre for the Study of Public Policy, University of Stratchlyde</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Familiarity, Confidence, Trust: Problems and Alternatives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Luhmann</surname>
+                     <given-names>Niklas</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.8075&amp;rep=rep1&amp;type=pdf"
+                         xlink:type="simple">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.8075&amp;rep=rep1&amp;type=pdf</ext-link>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <chapter-title>The State of Art in Community Policing: An International Perspective</chapter-title>
+               <article-title>The Police and the Community</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bayley</surname>
+                     <given-names>D.H.</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ojp.gov/ncjrs/virtual-library/abstracts/state-art-community-policing-international-perspective-police-and"
+                         xlink:type="simple">https://www.ojp.gov/ncjrs/virtual-library/abstracts/state-art-community-policing-international-perspective-police-and</ext-link>
+               <year>1992</year>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Community-Oriented Policing and Different Models of Order</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K.M.,</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Røysamb</surname>
+                     <given-names>M.G.</given-names>
+                  </name>
+               </person-group>
+               <annotation>
+                  <p>Forthcoming</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Serbia</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/serbia/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/serbia/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Kosovo</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/kosovo/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/kosovo/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Bosnia and Herzegovina</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/bosnia-and-herzegovina/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/south-east-europe/bosnia-and-herzegovina/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020007</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McNeish</surname>
+                     <given-names>John-Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martinez-Prado, Skarlleth</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frühling-Ehrlich, Hugo</surname>
+                  </name>
+               </person-group>
+               <article-title>Community-Based Policing in Nicaragua: Do the Claims of Communitarian, Proactive and Preventative Hold True?</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020070</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rojas-Ospina, Erika Julieta</surname>
+                  </name>
+               </person-group>
+               <article-title>The Gendered Nature of Security in El Salvador: Challenges for Community-Oriented Policing</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Matute</surname>
+                     <given-names>Arturo</given-names>
+                  </name>
+               </person-group>
+               <article-title>Possibilities of Advancing Police Reform in Guatemala through Community -Oriented Policing</article-title>
+               <source>Journal of Human Security</source>
+               <volume>16</volume>
+               <issue>2</issue>
+               <year>2021</year>
+               <issn>1835-3800</issn>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.librelloph.com/journalofhumansecurity/article/view/johs-16.2.97"
+                         xlink:type="simple">http://www.librelloph.com/journalofhumansecurity/article/view/johs-16.2.97</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020001</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Emerging Perspectives on Post-Conflict Police-Community Relations</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Nicaragua</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/nicaragua/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/nicaragua/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information El Salvador</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/el-salvador/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/el-salvador/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Guatemala</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/guatemala/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/central-america/guatemala/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Somalia</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/africa/somalia/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/africa/somalia/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Uganda</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/africa/uganda/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/africa/uganda/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020019</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gjelsvik</surname>
+                     <given-names>Ingvild Magn\aes</given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform and Community Policing in Kenya: The Bumpy Road from Policy to Practice</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with Alice Hills 29.01.2020.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/media/pdfs/10.-invisibility.pdf"
+                         xlink:type="simple">https://www.communitypolicing.eu/media/pdfs/10.-invisibility.pdf</ext-link>
+               <year>2020</year>
+               <publisher-name>ICT4COP</publisher-name>
+               <issue>10</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Biecker</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>(In)visibility: Women and Community Policing in Northern Uganda</article-title>
+               <source>Policy Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020054</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid L.P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ganapathy</surname>
+                     <given-names>Jaishankar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nimruzi</surname>
+                     <given-names>Ajmal</given-names>
+                  </name>
+               </person-group>
+               <article-title>From Guns to Roses: Understanding Community-Oriented Policing in Afghanistan</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hartz</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Høgseth</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Osland</surname>
+                     <given-names>K.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>NORAF – l\aerdommer og anbefalinger. En uavhengig vurdering p\ra oppdrag for Politidirektoratet</article-title>
+               <comment>7</comment>
+               <publisher-name>Norsk Utenrikspolitisk Institutt (NUPI)</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nupi.no/Publikasjoner/CRIStin-Pub/NORAF-laerdommer-og-anbefalinger.-En-uavhengig-vurdering-paa-oppdrag-for-Politidirektoratet"
+                         xlink:type="simple">https://www.nupi.no/Publikasjoner/CRIStin-Pub/NORAF-laerdommer-og-anbefalinger.-En-uavhengig-vurdering-paa-oppdrag-for-Politidirektoratet</ext-link>
+               <publisher-loc>Oslo, NO</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020021</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maqsood</surname>
+                     <given-names>Tahir</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Madani</surname>
+                     <given-names>Sajjad A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>Bahadar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ullah</surname>
+                     <given-names>Shakir</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Role of ICT in Community-Oriented Policing in South Asia: Challenges and Opportunities</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020134</pub-id>
+               <year>2021</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid L.P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nawab</surname>
+                     <given-names>Bahadar</given-names>
+                  </name>
+               </person-group>
+               <article-title>Civil Security in the Wake of Crisis-Renegotiating Police-Community Relations in Post-Crisis Development in Swat, Pakistan</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2019.15020041</pub-id>
+               <year>2019</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bahadar</surname>
+                     <given-names>Nawab</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ullah</surname>
+                     <given-names>Shakir</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Maqsood</surname>
+                     <given-names>Tahir</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community-Oriented Policing: Political, Institutional and Technical Reforms in Khyber Pakhtunkhwa (KP) Police</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Contextual information Pakistan</article-title>
+               <publisher-name>ICT4COP</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/ehandbook/country-specific-information/south-asia/pakistan/"
+                         xlink:type="simple">https://www.communitypolicing.eu/ehandbook/country-specific-information/south-asia/pakistan/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ict4copmagazine.files.wordpress.com/2020/02/6.-there-is-nothing-here-policy-brief-1.pdf"
+                         xlink:type="simple">https://ict4copmagazine.files.wordpress.com/2020/02/6.-there-is-nothing-here-policy-brief-1.pdf</ext-link>
+               <year>2019</year>
+               <publisher-name>ICT4COP</publisher-name>
+               <issue>6</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coenders</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <article-title>There is Nothing Here. Growing Up in Post-Conflict Kosovo</article-title>
+               <source>Policy Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020019</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gjelsvik</surname>
+                     <given-names>Ingvild Magn\aes </given-names>
+                  </name>
+               </person-group>
+               <article-title>Police Reform and Community Policing in Kenya: The Bumpy Road from Policy to Practice</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020044</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lid</surname>
+                     <given-names>Stian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Omondi-Okwany, Clifford Collins</surname>
+                  </name>
+               </person-group>
+               <article-title>Protecting the Citizenry-or an Instrument for Surveillance? The Development of Community-oriented Policing in Kenya</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/media/pdfs/3.-work-with-the-community-not-weapons-policy-brief-2.pdf"
+                         xlink:type="simple">https://www.communitypolicing.eu/media/pdfs/3.-work-with-the-community-not-weapons-policy-brief-2.pdf</ext-link>
+               <year>2017</year>
+               <publisher-name>ICT4COP</publisher-name>
+               <issue>3</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gjelsvik</surname>
+                     <given-names>I.M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Work with the Communities, Not with your Weapons</article-title>
+               <source>Policy Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ict4copmagazine.files.wordpress.com/2019/05/pride-of-place\_ict4cop-policy-brief\_alice-hills.pdf"
+                         xlink:type="simple">https://ict4copmagazine.files.wordpress.com/2019/05/pride-of-place\_ict4cop-policy-brief\_alice-hills.pdf</ext-link>
+               <year>2020</year>
+               <publisher-name>ICT4COP</publisher-name>
+               <issue>4</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>Pride of Place: Building Kenyan Policing from the Bottom Up</article-title>
+               <source>Policy Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.uca.edu.sv/iudop/wp-content/uploads/Legitimidad-y-confianza.pdf"
+                         xlink:type="simple">https://www.uca.edu.sv/iudop/wp-content/uploads/Legitimidad-y-confianza.pdf</ext-link>
+               <year>2017</year>
+               <publisher-name>Instituto Universitario de Opinión Pública and Universidad Centroamericana José Simeón Ca\ nas</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cruz</surname>
+                     <given-names>J.M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aguilar</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vorobyera</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Legitimidad y Confianza Pública de la Policía en El Salvador</article-title>
+               <publisher-loc>San Salvador, ELSL</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Is There Anybody There? Police, Communities and Communications Technology in Hargeisa</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hills</surname>
+                     <given-names>Alice E.</given-names>
+                  </name>
+               </person-group>
+               <source>Stability: International Journal of Security and Development</source>
+               <year>2017</year>
+               <volume>6</volume>
+               <fpage>6</fpage>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.communitypolicing.eu/media/pdfs/11.-closeness-versus-distance.pdf"
+                         xlink:type="simple">https://www.communitypolicing.eu/media/pdfs/11.-closeness-versus-distance.pdf</ext-link>
+               <year>2020</year>
+               <publisher-name>ICT4COP</publisher-name>
+               <issue>11</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gjelsvik</surname>
+                     <given-names>I. M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Closeness Versus Distance: Relational Aspects of Community Policing</article-title>
+               <source>Policy Brief</source>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.12924/johs2020.16020031</pub-id>
+               <year>2020</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coyne</surname>
+                     <given-names>A. Heather</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nyborg</surname>
+                     <given-names>Ingrid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Pushing on a String? An Argument for Civil Society-driven Community Policing as Alternative to Ministry-centric Approach in Conflict-affected States</article-title>
+               <source>Journal of Human Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/1561426032000113870</pub-id>
+               <year>2003</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>285</fpage>
+               <lpage>300</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Henderson</surname>
+                     <given-names>Nicole</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Merrick</surname>
+                     <given-names>Cybele</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Policing: Variations on the Western Model in the Developing World</article-title>
+               <source>Police Practice and Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://police.un.org/sites/default/files/sgf-guidelines\_police\_operations-2015.pdf"
+                         xlink:type="simple">https://police.un.org/sites/default/files/sgf-guidelines\_police\_operations-2015.pdf</ext-link>
+               <publisher-name>United Nations (UN)</publisher-name>
+               <year>2018</year>
+               <article-title>DPKO/DFS Guidelines on Police Operations in United Nations Peacekeeping Operations and Special Political Missions</article-title>
+               <publisher-loc>New York, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Murtazashvili</surname>
+                     <given-names>Jennifer</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Informal Order and the State in Afghanistan</article-title>
+               <isbn>1107113997</isbn>
+               <source>Informal Order and the State in Afghanistan</source>
+               <pub-id pub-id-type="doi">10.1017/CBO9781316286890</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10439463.2020.1776280</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <fpage>1</fpage>
+               <lpage>9</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dias-Felix, Annabelle</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hilgers</surname>
+                     <given-names>Tina</given-names>
+                  </name>
+               </person-group>
+               <article-title>Community Oriented Policing Theory and Practice: Global Policy Diffusion or Local Appropriation?</article-title>
+               <source>Policing and Society</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
