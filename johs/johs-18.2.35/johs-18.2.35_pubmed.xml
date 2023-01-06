@@ -1,0 +1,1785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2022.18020035</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Gender, Populism and Collective Identity: a Feminist Analysis of the Maoist Movement in Nepal</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Riley</surname>
+                  <given-names>Heidi</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ketola</surname>
+                  <given-names>Hanna</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Yadav</surname>
+                  <given-names>Punam</given-names>
+               </name>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>School of Politics and International Relations, University College Dublin, Dublin, Ireland</aff>
+         <aff id="A3">
+            <label>2</label>Department of Politics and International Relations, University of Sheffield, Sheffield, England</aff>
+         <aff id="A4">
+            <label>3</label>Institute for Risk and Disaster Reduction, University College London, London, England</aff>
+         <pub-date pub-type="ppub">
+            <day>28</day>
+            <month>10</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>18</volume>
+         <issue>2</issue>
+         <fpage>35</fpage>
+         <lpage>46</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This article examines the construction of gender agendas in left-wing populist movements that mobilise for armed struggle, by focusing on the case of the Maoist movement in Nepal. Feminist scholarship has highlighted how left-wing populism, when appealing to a generalized “people”, tend to produce homogenizing discourses that erase inequalities and difference, even when such movements integrate a gender dimension. Examining the trajectory of the Maoist movement over time, we argue that this ‘sameness’ may become contested and utilized by women participating in the lower echelons of the movement, as the political reality shifts from conflict to post-conflict context. As our main contribution, we develop a bi-directional approach that employs the concept of collective identity and allows us to examine the construction of populist agendas as a two-way interaction between the leadership of a movement and its grass roots supporters. Through this approach we show how the gender dimension was not merely a bi-product but central to both the construction of the Maoist movement’s war time ‘progressive’ identity, and the fragmentation of this identity and the movement’s populist appeal in the post-conflict context.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Conflict</kwd>
+            <kwd>Feminism</kwd>
+            <kwd>Ex-combatant</kwd>
+            <kwd>Gender</kwd>
+            <kwd>Identity</kwd>
+            <kwd>Nepal</kwd>
+            <kwd>Populism</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>With the rise in right-wing populist movements globally, there is increasing scholarly interest in this area. However, less attention has been paid to left-wing populist movements that contribute to the mobilization of marginalized groups for armed struggle, and within the existing scholarship, left-wing populism in South Asia remains particularly under-explored [<xref ref-type="bibr" rid="R1">1</xref>]. Left-wing populist movements that propagate armed violence tend to rely on ideologies constructed on radical agendas of social and progressive transformation to make sense of and justify their means, frequently including a gender dimension [<xref ref-type="bibr" rid="R2">2</xref>]. Building on critical feminist scholarship on populism, we explore this gender dimension not as an ‘add-on’ to the ideologies of left-wing, violent populist movements, but as a key factor in defining a populist movement in its left-wing or ‘progressive’ orientation (see for example: [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>]). We argue that the gender dimension plays a crucial role in both constructing the identity of a populist movement and determining the support it can garner and retain over time.</p>
+         <p>Concurring with feminist scholarship on left-wing populism we recognize how populist movements rely on a position of ‘sameness’ when appealing to a generalized ‘people’, resulting in erasing differences and inequalities <italic>within</italic> the ‘in-group’ [<xref ref-type="bibr" rid="R9">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]. However, our innovation in adding to this scholarship is to question how women contribute to, as well as contest, the gender agendas of such movements, including a movement’s potentially homogenizing rhetoric? In addressing this question, we develop a bi-directional approach that examines the construction of populist agendas as a two-way interaction between the leadership of a movement and its grass roots supporters. Taking this approach, we draw on the concept of ‘collective identity’ in understanding the construction and fragmentation of a populist movement over time, centring on the transition from conflict to post-conflict [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R12">12</xref>]. A bi-directional approach allows us then to examine how women both contribute to the development of the gender agenda and contest rhetorical homogenization at different stages of the conflict, affecting the movement’s populist appeal over time [<xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>].</p>
+         <p>To address these questions, our empirical analysis is focused on the Maoist movement in Nepal during the People’s War (1996-2006) and the period of post-war transition. The People’s War was initiated by the Communist Party of Nepal (Maoist) (CPN(M)) who led the armed uprising against what they defined as the ‘exclusionary’ state [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]. The party and its military wing, the People’s Liberation Army (PLA), secured widespread support from large sectors of the population, especially from the economically marginalized, ethnic minorities, and those from deprived areas away from the capital. The movement also garnered strong support from women, and many joined the ranks of the PLA. Part of the CPN(M)’s success was its progressive appeal, which promised a radical change, including eradication of all forms of discriminations based on gender, caste, class, ethnicity and religion [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>].</p>
+         <p>In framing the Maoist movement as a populist movement, we draw on Laclau’s conceptualization of populism as a discursive construct that has a particular form: it is organized around a dichotomy between ‘us the people’ and ‘the other’ [<xref ref-type="bibr" rid="R24">24</xref>]. We then show how the Maoist agenda of class-struggle, constructed around the dichotomy between the ‘oppressed’ and the ‘elite’, relied on a specific gender agenda. Whilst the gender agenda was constructed in ways that produced sameness—homogenizing women as a category within the broader oppressed ‘people’- we argue that during the time of war this gender agenda was largely successful. That is, it contributed to the legitimization of the movement’s ‘progressive’ appeal and reinforced a sense of collective identity that crossed gendered and hierarchical lines amongst cadre and supporters [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R12">12</xref>].</p>
+         <p>However, in the post-conflict context, when the Maoist party grappled with maintaining political power as it entered mainstream politics, the sense of collective identity amongst supporters began to fragment, and although the party still maintained significant political support, it was unable to retain its populist appeal. We argue that one of the key factors in this fragmentation, is the way in which the Maoist agenda shifted to no longer being relatable to many of the women that supported the movement during the war. This led to some women withdrawing from the movement or finding new ways to seize the legacy of the Maoist rhetoric of gender equality [<xref ref-type="bibr" rid="R25">25</xref>]. We argue that taken together, these ways in which women have enacted upon the legacy of the Maoist movement has contributed to the deconstruction of the wartime collective identity and its ‘progressive’ identity, and ultimately the demise of the movement as populist.</p>
+         <p>After providing insight into the methodology, the article proceeds by first constructing an analytical framework situated in the literature on populism and collective identity, before integrating feminist literature on populism, conflict and post-conflict transitions. Following our theoretical discussion, we embark on an empirical analysis of how the Maoist gender agenda was constructed and relied upon to claim a ‘progressive’ identity, during the period of conflict in Nepal. Taking a bi-directional approach, we reveal how this agenda was not purely constructed by the leadership, but how grassroots women also played a crucial role in shaping the agenda; an agenda that relied on both the homogenization of women as a group, and ‘sameness’ in terms of women taking on ‘masculine roles’ as a measure of emancipation. In the second empirical section, we shift to a discussion of the post conflict context. We explore the role that women play in the fragmentation of the wartime collective identity, by examining how ex-PLA women in the lower echelons of the movement started to withdraw their support and contest the wartime homogenizing discourses. We show how this contributes to the decline of the movement’s populist appeal, thus exposing the crucial role of gender in the construction and fragmentation of left-wing populist movements.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methodology</title>
+         <p>To examine shifts and tensions in Maoist populism across the temporalities of conflict and post-conflict this article takes a collaborative approach, synthesizing empirical research from the three author’s complimentary research projects carried out between 2011-2018. This allows us to draw from a combined bank of over 100 in-depth interviews with women and men ex-combatants, civil society members and Maoist female politicians. Besides allowing us to cover specific timeframes, our collaborative approach produces nuanced insights into how the wartime populist discourses are experienced by the lower echelons [<xref ref-type="bibr" rid="R26">26</xref>] of the movement. To examine the discourses of the Maoist leadership we also draw on secondary sources. Our two main sources include <italic>The Worker</italic>, an English-language publication disseminated by the CPN(M) and a Maoist Nepali-language publication <italic>Janadesh</italic>, more widely read across Nepal [<xref ref-type="bibr" rid="R27">27</xref>]. These sources, combined with interviews with female Maoist politicians, allow us to examine the forms of femininities and masculinities that were constructed and employed to mobilize Nepal’s rural population, and to highlight how the official discourses construct the dichotomy between ‘people’ and the ‘elite’ over time.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Populism and Collective Identity</title>
+         <p>Although conceptualizations of populism remain contested, more broadly there is general agreement that it refers to a political endeavour that is built around the dichotomy of ‘us—the people’ versus ‘them—the elite’ (E.g. [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>]). A prominent approach in the literature conceptualizes populism through an ideational perspective. This approach understands populism as a ‘thin-centred ideology’ that can be attached to other ‘more complete’ ideologies that range across the political spectrum [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. Another prominent approach frames populism as a specific form of political strategy, paying close attention to how strategies differ and evolve over time [<xref ref-type="bibr" rid="R31">31</xref>]. However, the most relevant conceptualization for our analysis is the understanding of populism as a discursive style, drawn from Laclau’s work [<xref ref-type="bibr" rid="R24">24</xref>]. This approach understands populism as a discursive construct that has a particular form: it is organized around a dichotomy between ‘us the people’ and ‘the other’ [<xref ref-type="bibr" rid="R24">24</xref>]. Rather than being a substantive ideology populism is understood to contain an empty core. What therefore characterizes populist rhetoric is a chain of relational ‘empty signifiers’ through which the collective ‘us’ is delineated and gains its meaning [<xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R32">32</xref>]. In the context of Nepal, the Maoist leadership used ‘empty signifiers’ such as defining themselves as ‘progressive’ or ‘humane’, representing a shift from the ‘backward’ or ‘semi-feudal elite oppressors’ [<xref ref-type="bibr" rid="R33">33</xref>]. This gave meaning to the Maoist populist agenda that constructed a vision of a ‘<italic>Naya</italic> (New) Nepal’, promising equality and dignity to its supporters.</p>
+         <p>Within the burgeoning literature on populism, the main focus of analyses tends to be political parties or their leaders; much attention has been paid to Hugo Chavez and the United Socialist Party of Venezuela, or La Pen and her French National Front. However, top-down approaches may overlook the important role that grassroots organizations play in institutionalizing populist movements and constructing populist agendas [<xref ref-type="bibr" rid="R34">34</xref>, <xref ref-type="bibr" rid="R35">35</xref>]. Given that party-led populism may emerge as a ‘corollary of its bottom-up incarnation’, Aslandis argues that a more complete understanding of populist movements can be developed through also engaging with the interactions between a populist leadership and their grassroots support base [<xref ref-type="bibr" rid="R35">35</xref>]. For example, previously ‘expressed grievances, or ‘demands’ at the grassroots level may be adopted and articulated through a populist leadership that ‘infuses them with political importance, cultivating an appetite for action’ [<xref ref-type="bibr" rid="R35">35</xref>].
+</p>
+         <p>Panizza argues that populism can be understood as a mode of political identification; that populist movements give meaning to ‘the people’ as a political actor, which is set in opposition to the antagonistic identity of the ‘elite’ or ‘other’ [<xref ref-type="bibr" rid="R34">34</xref>]. Despite the diversity of identities encompassed within understandings of ‘the people’, the populist project aims at constructing a ‘single, homogenous identity’ [<xref ref-type="bibr" rid="R36">36</xref>] that tends to revolve around the nodal point of the anti-elite. Laclau has termed this as the ‘politics of equivalence’ [<xref ref-type="bibr" rid="R24">24</xref>]. It draws ‘dispersed elements (agents, ideas, practices, demands) into a discourse by reinforcing what they have in common (their ‘‘equivalence’’ or sameness),’ [<xref ref-type="bibr" rid="R34">34</xref>] and thus simplifies the political space between the two antagonistic camps [<xref ref-type="bibr" rid="R24">24</xref>]. Taking account of constructions of ‘sameness’ within populist discourse highlights how the reformulation of these constructions may contribute to breaking down traditional societal divisions between disparate identity groups, in order to place them within the sphere of ‘the people’. In doing so, this has the potential to elevate the demands or grievances of varying identity groups within the broader antagonisms pitted as the ‘anti–people’ or elite. As part of this agenda, gendered grievances may be included. However, what is problematic is that women’s grievances are often defined in terms of sameness, leading to a conceptualization of ‘women’ as a homogeneous group [<xref ref-type="bibr" rid="R6">6</xref>].</p>
+         <p>In Nepal, the core of Maoist populist appeal was their claim to be supporting ‘the people’ who were ‘oppressed’ by the elite as a result of varying identity markers such as caste, ethnicity, gender, as well as the exclusion of these groups from the urban centre or positions of influence. Within their populist ambitions, the Maoist leadership was successful in bringing the grievances of multiple ‘oppressed’ identity groups under one ‘class’ banner, through which to justify violent action against the so-called ‘elite’. Those defined as ‘oppressed groups’ were those from marginalized castes or indigenous populations [<xref ref-type="bibr" rid="R37">37</xref>, <xref ref-type="bibr" rid="R38">38</xref>], rural populations not aligned to the elite, as well as women. Operationalized together ‘the oppressed’ became the ‘us’, ‘the people’ that need to be emancipated, versus the ‘oppressive state’.</p>
+         <p>The salience of the ‘us’ and ‘them’ rhetoric was also key to the development of a salient sense of collective identity amongst supporters and particularly amongst members of the People’s Liberation Army. In social movement literature, collective identity is understood as the critical link between ‘social identity (at the individual and group level) and collective action’ [<xref ref-type="bibr" rid="R39">39</xref>]. Collective identity stems from the development of a common identity associated with a particular social group, in such a way that identity of ‘I myself’ is merged into the group ‘we’ [<xref ref-type="bibr" rid="R40">40</xref>]. In social movements, the group identity is constructed on collective action, which also incorporates group goals, ideology, norms and values. Group members engage with this identity and seek to uphold it via an ‘active process of shaping and forging an image of what the group stands for’, what it wishes to achieve, and ‘how it wishes to be viewed by others’ [<xref ref-type="bibr" rid="R39">39</xref>].</p>
+         <p>Constructing collective identity is a crucial function of ‘social movement entrepreneurship and populism constitutes an exemplary case of identity mobilization under the inclusive banner of ‘the people’ [<xref ref-type="bibr" rid="R35">35</xref>]. Key to this is the ability of leaders to identify with ‘the people’ and their realities—or ‘flaunt the low’ as termed by Ostiguy [<xref ref-type="bibr" rid="R41">41</xref>]. In the CPN(M), the leadership was particularly effective in its ability to appear attuned to the grievances of specific groups, which was key to gaining trust amongst a variety of groups and constructing a collective identity that was inclusive of both ‘the people’ and the leadership. In interviews carried out by author 1 with both male and female ex-PLA, interviewees frequently expressed how, during the war, they felt like the leadership had the people’s interests as a priority and ‘could be trusted’, also commenting on how all cadre were encouraged to speak out and criticize in group discussions. As expressed by a male ex-PLA,</p>
+         <p><italic>If a commander made a mistake we could raise that issue and ask for clarification. Everyone was allowed to point out the weaknesses of a commander. Even the commanders used to encourage us to figure out the weakness so that the person could improve themselves. It was a vice versa process, members could criticize commanders, and commanders too could point out the mistakes of members</italic> [<xref ref-type="bibr" rid="R42">42</xref>].</p>
+         <p>Similarly, as written elsewhere, the level of commitment to the Maoist ideology amongst cadre from diverse backgrounds was instrumental in constructing a sense of collective identity that crossed caste, ethnic, gendered and hierarchical boundaries [<xref ref-type="bibr" rid="R10">10</xref>]. In referring to the idelogy as a bonding mechanism, another ex-PLA member noted that,</p>
+         <p>
+            <italic>After being a part of the organization (PLA), there was no chance of dividing each other into the categories of various social groups such as Dalits or women. Women and Dalits both fulfilled their responsibilities and what made the organization strong was the criticism and review done at the end of each day</italic> [<xref ref-type="bibr" rid="R43">43</xref>].</p>
+         <p>This sense of equality, therefore, was aided by a belief that the leadership were themselves participating in the same struggle and both furthered a sense ‘equivalence’ amongst recruits, and also facilitated the bi-directional relationship between the lower and upper echelons in the construction of the progressive identity.</p>
+         <p>Yet in post-conflict, the question remains as to what happens to the collective identity of ‘the people’ in the transition of a populist movement into a position of government. Panizza has argued that ‘the people’ takes on a different meaning when a populist leader, initially situated outside the government, enters mainstream politics, previously constructed as the realm of ‘the elite’ [<xref ref-type="bibr" rid="R34">34</xref>]. The leadership is no longer seen as ‘flaunting the low’, in Ostiguy’s terms, and thus becomes disconnected from the identity of ‘the people’; instead merges with what was once portrayed as ‘the elite other’ [<xref ref-type="bibr" rid="R41">41</xref>]. This has implications for the multiple identities that were previously included in ‘the people’ and may lead to the re-orientation of inclusions and exclusions. It also has implications for the sense of collective identity experienced by participants to the movement during the conflict. This is particularly important in the case of Nepal where the shift from conflict to the post-conflict context led to a change in the positioning of Maoists from a revolutionary warring party, fighting on behalf of the people, to a mainstream political party, with an ambition to stay in power. As such, we pay close attention to how ‘the people’ are portrayed within the post-conflict political goals of the leadership and juxtapose this with the way the ‘collective’ is experienced and contested by women ex-PLA as new hierarchies and needs emerge. This allows us to expose the role that the gender positive agenda plays in the fragmentation and redefining of the movement away from its populist origin in post-conflict.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Gender, Violence and Populism: Feminist Lens</title>
+         <p>The analysis of the relationship between gender and populism in political science literature tends to approach gender as a demographic factor or as a variable that can be measured. For example, gender has been invoked to study the ‘gender gap’ in electoral support for Right Wing Political Parties (E.g. [<xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>]) or as a variable in accounts that seek to establish regional comparisons and/or comparisons between left and right populism [<xref ref-type="bibr" rid="R46">46</xref>]. Whilst such deployment of gender has its merits, what goes missing is the gendered nature of populism <italic>per se</italic> (when stripped of its ‘host’ ideology and the national culture in which it operates) [<xref ref-type="bibr" rid="R4">4</xref>]. In contrast, an emerging field of feminist scholarship reveals how constructions of masculinity and femininity and framings of gendered hierarchies are at the core of how populism as an ideological construct operates (E.g. [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R47">47</xref>, <xref ref-type="bibr" rid="R48">48</xref>]). Maiguascha argues that ‘[i]n a totalising politics of ‘us’ vs ‘them’ there is no space or incentive to inquire into the internal conflicts or hierarchies that shape each camp or the way that gender might differentially impact on the lives of women and men in material ways as lived experience’ [<xref ref-type="bibr" rid="R4">4</xref>]. Whilst the existing feminist contributions differ in their conceptualizations of populism, there is a broad agreement that the opposition between ‘us’ and ‘them’ requires feminist scrutiny of how gendered power relations are implicated—entrenched, mobilized or possibly navigated—in such a construction and in the politics it enables [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R49">49</xref>]. The strengthening of the populist right in Europe and in the US and the emergence of right populist parties touting explicitly anti-feminist agendas has generated urgent scholarly engagement [<xref ref-type="bibr" rid="R49">49</xref>, <xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>]. Crucially, there is also an emerging strand of feminist analysis that addresses right populism in the context of South Asia [<xref ref-type="bibr" rid="R7">7</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R52">52</xref>]. In contrast, the role of gender in left populism, and the relation between left populism and feminism specifically, is scarcely researched. The few existing studies reveal a complex picture. In a comparative study of left populism in Spain (Podemos) and right populism in Finland (The Finns), Kantola and Lombardo argue that political ideology matters. They suggest that ‘left-wing parties, though populist, are still better allies of feminist politics than right-wing parties both in terms of empowerment and transformation’ [<xref ref-type="bibr" rid="R6">6</xref>]. Yet, their multi-dimensional analysis also shows that the ‘ethos of hegemonic masculinity’ endures in left populism, apparent in ‘informal gendered institutions’ (such as gender norms) and in the bellicose and confrontational style of politics that both of the populist parties under scrutiny articulate. Moving beyond the context of political parties, Emejulu reveals a problematic relation between left populism and feminism also in grass root organizing [<xref ref-type="bibr" rid="R3">3</xref>]. Examining left and right populism in the US, she shows how in the progressive populist discourse feminist claims are reconstructed from ‘social justice’ to ‘special interest’ claims, a move which labels feminism as an ‘unrepresentative expression of elite partisan interests’ [<xref ref-type="bibr" rid="R3">3</xref>].</p>
+         <p>What appears clear from the feminist analysis is that left populism, when appealing to a generalized ‘people’, is not exempt from the charge of erasing differences and inequalities, with potentially divisive issues such as gender and race being silenced for the sake of unity or numerical majority [<xref ref-type="bibr" rid="R6">6</xref>]. To examine how this gendered character of left populism, specifically it’s tendency to homogenize, evolves through war to post-war transitions, we build on feminist scholarship on peace and conflict.</p>
+         <p>Feminist peace and conflict scholarship offers crucial insights into conceptualizing both the contested question of women’s agency within violent populist movements and the temporality of the post-war context. At the core of feminist scholarship on war is the acknowledgement that gendered discourses are invoked to legitimize war—to make war intelligible [<xref ref-type="bibr" rid="R53">53</xref>]. For example, in Nepal mobilization for violence was underpinned by the production of specific femininities and masculinities—for instance representations of women as an oppressed group ready to stand up and fight against their oppressor, or defining men as ‘brave warriors’ dedicated to fight for a new and more progressive nation [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>]. Building on this, rich feminist scholarship explores how women who participate in non-state armed groups engage with such gendered discourses, whether in context of ethno-nationalism or class struggle (E.g. [<xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R58">58</xref>]). The question of instrumentalization emerges as central, as the feminist analyses have exposed the ways in which agendas of gender equality and indeed women’s participation are often strategically promoted by the leadership of such movements to broaden their recruitment pool and to garner popular appeal [<xref ref-type="bibr" rid="R59">59</xref>, <xref ref-type="bibr" rid="R60">60</xref>]. We build specifically on feminist work that has examined how women interpret these militant agendas and conceive of their own contribution, including how the agenda of ‘sameness’ constructed during conflict period may provide a platform for women to contest the populist agenda in the post-conflict context [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R61">61</xref>, <xref ref-type="bibr" rid="R62">62</xref>, <xref ref-type="bibr" rid="R63">63</xref>].</p>
+         <p>A prominent strand of feminist literature conceptualizes the ‘postwar moment’ [<xref ref-type="bibr" rid="R64">64</xref>] as one of fragile opportunity. In this interpretation the myriad roles in which women engage in war, including as fighters and political organizers, may instantiate reconfigurations of gender norms, and therefore create possibilities for transforming gendered relations of power, leading to various ‘ambivalent gains’ [<xref ref-type="bibr" rid="R65">65</xref>]. A crucial theme in the literature is the prevalent threat of a post-conflict ‘backlash’, a dynamic that involves a violent reinstating of regulatory gender norms (E.g. [<xref ref-type="bibr" rid="R66">66</xref>, <xref ref-type="bibr" rid="R67">67</xref>]). What remains less explored, are the complex legacies that women’s participation in a militant movement generates, and how these legacies may be enacted upon when the armed struggle is over [<xref ref-type="bibr" rid="R57">57</xref>, <xref ref-type="bibr" rid="R68">68</xref>]. We explore how women who are in various ways positioned within the Maoist movement navigate and contest exclusions and hierarchies that start to emerge in the post-war context. Such negotiations result in both, a withdrawing a way from the movement, as well as finding new ways to seize the legacy of the Maoist populist rhetoric of gender equality in the realm of parliamentary politics. We argue that taken together, these ways in which women have enacted upon the legacy of the Maoist movement in the post-war context significantly contribute to the deconstruction of the movement’s populist appeal.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Gender and Identity Construction in Maoist Populism</title>
+         <p>This section examines gender as central to the ways in which ‘the people’ was constructed and delineated in the Maoist populist rhetoric during war. We argue that the way gender equality was framed as a key demand of the ‘people’ within the rhetoric of the high-level leadership, and the way women were portrayed as a specific oppressed group amongst others, was significant in defining the movement as progressive and representing the aspirations of a <italic>Naya</italic> Nepal. What is crucially highlighted in this section is that the portrayal of women in the populist agenda was built around ‘sameness’; both amongst women, and in terms of the way women were celebrated as taking on masculine roles ‘within PLA’. However, while problematic in terms of recognizing intersectionality and the diverse needs of women [<xref ref-type="bibr" rid="R14">14</xref>] in the extraordinary circumstances of conflict, this position of sameness actually facilitated the construction of a collective identity that transcended gendered boundaries and contributed to the success of the movements’ populist appeal during the war. Importantly, however, we highlight that the way women’s emancipation was incorporated into the Maoist agenda was not purely driven by leadership ambition or instrumentalization but was the product of a bi-directional relationship between the leadership and grassroots women.</p>
+         <p>The Maoist position on women’s emancipation was framed within the overarching focus on ‘class-struggle’, which facilitated the use of ‘the oppressed’ as the nodal point on which ‘the people’ were conceptualized [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R69">69</xref>]. The rhetoric from the leadership constructed a narrative of ‘women as an oppressed group’ in which women’s emancipation became part of the defining identity of the movement as ‘progressive’. This was contrasted with backward and ‘semi-feudal’ framing of the state who were portrayed as responsible for women’s oppression. In an article written in 2003 by the head of the women’s department, Comrade Parvati, she defines women as ‘doubly oppressed’ [<xref ref-type="bibr" rid="R70">70</xref>], by both the semi-feudal political system and patriarchy, the latter of which was understood as a product of the former (Also see [<xref ref-type="bibr" rid="R54">54</xref>]). Maoist rhetoric would make reference to how women’s oppression is rooted in patrilineal ‘relations of land-ownership’, and social norms around marriage and the family that renders women subject to widespread economic, social and political marginalization [<xref ref-type="bibr" rid="R71">71</xref>]. In an earlier article from 1999 Comrade Parvati explains how certain women have contributed to multiple nationalist struggles in the history of the Nepali state, but notes that ‘[I]t was only after CPN (Maoist) started the People’s War that women from grassroots, mainly rural women, started getting mobilized [<xref ref-type="bibr" rid="R71">71</xref>]’. In this statement it portrays the CPN(M) as the ‘progressive’ platform for women’s emancipation via the vision of a <italic>Naya</italic> Nepal in which all women would be freed from their oppressed status. In <italic>Reports from the Battlefield</italic> from the 1998 Worker magazine, it stated that, ‘The heroic exploits of hundreds of women who have joined the guerrilla squads and defence groups have been a source of inspiration and favourable anecdotes throughout the country [<xref ref-type="bibr" rid="R72">72</xref>]’. In emphasizing how the party was attuned to the needs of women, they claimed that ‘The fact that women are the most inspired group emerging in the last 2 years of People’s War itself indicates a definite victory for the Nepalese revolution’ (cited in [<xref ref-type="bibr" rid="R73">73</xref>]). This position did not address the differences in women’s needs or status as it intersects with caste of ethnicity, which has rightfully been a key critique of the ostensibly gender positive agenda of the CPN(M) [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R74">74</xref>]. Nevertheless, the ‘sameness’ position as invoked in the ‘women as an oppressed group’ narrative, was crucial in defining the movement’s ‘progressive’ populist appeal. It served to invoke a discourse through which the party was portrayed as speaking on behalf of the ‘downtrodden’ and was a key link in ‘the chain of equivalence’ that pitted the ‘people’ as represented by the CPN(M) versus the so-called ‘exclusionary state.’</p>
+         <p>Yet although it was the leadership through which the gender agenda and its homogenizing position was articulated, it is important to also recognize the role of grassroots women in constructing and reifying the agenda. The All Nepal Women’s Association (Revolutionary) (ANWA(R)), who were aligned to the party and whose membership included grassroots women, were key in ensuring that the multiple harms and discriminations against women were recognized, exposed, and challenged by the party. In the early years (ANWA(R)) were involved in campaigning in the villages against alcohol abuse, which they identified as one of the key drivers of domestic violence in the rural areas [<xref ref-type="bibr" rid="R69">69</xref>, <xref ref-type="bibr" rid="R75">75</xref>, <xref ref-type="bibr" rid="R76">76</xref>]. As a result, an alcohol ban was implemented in the Maoists heartlands, and later became policy in other areas under Maoist control, as well as being imposed as policy amongst Maoist personnel [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R77">77</xref>]. ANWA(R) were also involved in pushing for policies banning polygamy, child marriage and dowry. They rejected the norms of son preference and encouraged village women not to participate in festivals such as <italic>Teej</italic>, where women are expected to fast in honour of their husbands. In the Maoist publication <italic>Janadesh</italic>, an article from 1997 written by member of ANWA(R) exemplifies their advocacy on this issue,</p>
+         <p>
+            <italic>The concept of the Teej festival is that women are to be kept as a slave for men and for his house. Women are kept as childbearing machines, toys for men that they can play with her physically or emotionally. This festival is about keeping women as objects. Because of our efforts, Teej now becomes the day of exposing how married women are treated in her own house</italic> [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+         <p>Beyond ANWA(R), other grassroots women and student groups were also involved in defining Maoist approaches to challenging gender discriminations. In an interview with a former leader of one of the Women’s Fronts, author 1 was told how grassroots women contributed to the reformulation of Maoist policy to combat the harmful practice of <italic>Chhaupadi</italic> in the Far West region [<xref ref-type="bibr" rid="R79">79</xref>]. This practice banishes women and girls from the home during menstruation and they are forced to sleep in a small hut, leaving them exposed to multiple harms [<xref ref-type="bibr" rid="R80">80</xref>]. She described how the Maoists first used to destroy the huts, but were informed by local women that this had a detrimental impact as girls were then made to sleep outside. Instead, the Women’s Front, together with local women, participated in a 15-day protest against the practice, marching through numerous villages, under the slogan of ‘we have to open your minds and break down the hut’.</p>
+         <p>Women also contributed to shaping the agenda purely by joining the movement and legitimizing the way the ideology was perceived as addressing their needs. As explained by one former PLA women, ‘I joined the Maoist movement when I was a student. I had seen women’s sufferings due to violence, poverty, dowry, polygamy and so on. I wanted to do something about it so I joined the Maoist party’ [<xref ref-type="bibr" rid="R81">81</xref>]. This was a position found in multiple interviews with ex-PLA women carried out by all three authors, where women expressed that gender-based violence and gender discriminatory norms had been important reasons for them to join the Maoist moment. Thus, although the leadership may have been the mouthpiece for articulating the oppression of women, women at the grassroots level also contributed to shaping both the rhetorical agenda and, in some cases, the manner in which actions for women’s emancipation were implemented.</p>
+         <p>Recruitment campaigns became more targeted towards women after the second year of the war, and although there is no exact data available, it is estimated that by the end of the conflict between 33%- 40% of the ranks were populated by women. Key to understanding the success of the movement is recognizing the ability of the leadership to create a sense of collective identity within the ranks that crossed both gender, caste, ethnic or hierarchical boundaries. Recruits were instructed to refer to each other as ‘comrade’ or address each using respectful language regardless of gender, caste or status in the institution [<xref ref-type="bibr" rid="R82">82</xref>]. In memories of quotidian life described in interviews with author 1, former combatants reminisced how cooking and cleaning were done on ‘rotation’. As noted by one ex-PLA woman, ‘work division was equal among both men and women. There was no discrimination’ [<xref ref-type="bibr" rid="R83">83</xref>]. In narratives of training and ‘battle’ both men and women ex-PLA spoke of how this was done ‘with both men and women together’ [<xref ref-type="bibr" rid="R84">84</xref>]. For men this meant they experienced women carrying out activities what would normally only be associated with men and masculinity, which, at times was met with surprise at the physical capabilities of women [<xref ref-type="bibr" rid="R82">82</xref>]. For male members of the PLA, it has been written that participation in the PLA produced a sense of being the ‘progressive’ man [<xref ref-type="bibr" rid="R10">10</xref>], and is exemplified in how PLA compared themselves with the state forces. In interviews with ex-PLA men, it was found that, the collective identity of ‘us’—the forward-thinking protectors of ‘the people’—was frequently compared dichotomously with the ‘feudal’ and ‘backward’ state forces, made up of the police and army. The state forces’ treatment of women was often cited as evidence of their backwardness and contrasted with PLA men’s own stories of respect for their female comrades and narratives of punishing villagers for the maltreatment of women [<xref ref-type="bibr" rid="R82">82</xref>].</p>
+         <p>Thus the role that gender played in defining the sense of ‘us’ (the collective) as ‘progressive’ was experienced by both men and women recruits. In turn, the group identity associated with what was perceived as a reformist agenda in which recruits felt they had agency within, was instrumental in the maintaining cohesion and restricting defection in the PLA.</p>
+         <p>There have been multiple critiques of the way in which women were defined by the Maoists in terms of a homogenous group [<xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R74">74</xref>], however, ‘sameness’ in the PLA also meant justifying women’s emancipation through demonstrating sameness (as men) in capabilities. Maoist propaganda tended to begin with addressing cadre as ‘the brave men and women of the People’s Liberation Army’ [<xref ref-type="bibr" rid="R85">85</xref>] emphasizing how a women’s capabilities were of no less than men and celebrating those who became ‘martyrs’ for the movement. Although this is problematic in terms of women’s realities, the ‘sameness’ position played a crucial role during the war in creating a sense of collective identity that was constructed around empowerment of the ‘oppressed’ and that fed into the populist ambition. This was a collective identity that may have been facilitated by the leadership, but women of the PLA also played a key role in its survival through their participation and through their visibility, willingly, taking on such roles. Here again it shows the contribution of women in the construction of a gender positive agenda espoused by the leadership, and which was instrumental in defining the Maoist identity as ‘progressive’ in how it represented ‘the people’.</p>
+         <p>In examining the Maoist movement in Nepal in populist terms, this case is by no means exempt from feminist critiques of left-wing populism that expose the ‘ethos of hegemonic masculinity’ within them [<xref ref-type="bibr" rid="R6">6</xref>]. Despite claiming a progressive agenda the Maoist leadership was predominantly populated by men who led in a style associated with stereotypical masculine norms, celebrating traits such as warriorhood, power and bravery [<xref ref-type="bibr" rid="R10">10</xref>]. Moreover, it is well documented that some women both inside and outside of the movement were faced with harms or discriminations at the hands of the Maoists [<xref ref-type="bibr" rid="R86">86</xref>]. However, this does not overshadow the platform it provided for women to contribute to the progressive agenda and the movement towards change, despite this agenda being constructed around ‘sameness’. The narrative of women as a ‘single oppressed group’ that is guilty of erasing differences and inequalities between women, and places maleness as a measure of emancipation, may have worked during the period of conflict when there was a clear goal of overthrowing the state in order to institute a more progressive agenda. However, this narrative that is constructed around ‘sameness’ becomes no longer tenable in the post-conflict context. It is this shift that we now turn to.
+</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- From Peace Agreement to Gender Gains and Fragmentation</title>
+         <p>In this section we examine how the movement’s gender agenda is constructed differently in the post-conflict context as the CPN-M enters parliamentary politics and the movement’s emphasis shifts from military to political goals. Our focus is explicitly on the bi-directional relationship between the leadership and the grassroots supporters through which the agenda is constructed, and how this relationship transforms in the post-conflict context. Through focusing on the contribution of the women ex-PLA combatants, engaged in the lower echelons of the movement, we show how the wartime collective identity starts to fragment as new hierarchies emerge along the lines of rank, including between women ex-PLA combatants. We argue that the way in which the women lower level cadres start to contest the wartime homogenizing discourses and to withdraw their support from the movement in crucial ways, contributes to the movement’s loss of its populist appeal.</p>
+         <p>After the signing of the peace agreement in 2006 the Maoists joined mainstream politics and went on to win a landslide victory in the 2008 Constituent Assembly election. This resulted in Prachanda, the chairman of the CPN(M), shifting position from clandestine populist revolutionary to Prime Minister of the world’s youngest Republic. The rallying call of ‘us’ the new ‘progressive’ elite of the ‘people’, against ‘them’, the old elite, was instrumental in the election success. Election success can also be attributed to a wartime rhetoric of inclusion, taking account of a legacy of political exclusion along gender and caste/ethnic lines. The significant shift towards greater inclusion of women and marginalized caste/ethnic groups in formal politics in crucial ways resonated with the Maoist leadership’s wartime populist rhetoric of fighting ‘for the people’, including with the agenda of women’s liberation. As such, in entering the mainstream political process the party leadership was able to retain -at least on the surface- its populist discourse of inclusion, and the ways in which ‘the people’ was constructed in the populist rhetoric (See [<xref ref-type="bibr" rid="R87">87</xref>]).</p>
+         <p>The gains made regarding women’s entry into formal politics and broader women’s rights contrast with the prominent emphasis on backlash in feminist analysis of post-conflict contexts, in particular when women have contributed to militant movements [<xref ref-type="bibr" rid="R66">66</xref>]. However, although the Maoist agenda brought more women into the political fora, inconsistencies in the agenda also began to emerge. For example, the CPN(M) included no women in the peace negotiations and in the development of a six-member committee founded to draft the Interim Constitution, there was initially no women nominated for inclusion. The women in the party, in particular ex-PLA high-level commanders who had entered parliamentary politics after the peace agreement, sought to hold the party leadership accountable regarding their wartime promises. This pressure was combined with protests by women’s rights organizations and broader coalitions of women politicians, that led to the inclusion of a 33% quote in the Constituent Assembly.</p>
+         <p>Whilst crucial ‘gains’ [<xref ref-type="bibr" rid="R65">65</xref>] were made with regard to including women’s increased participation in formal politics, what is striking, is the emerging disconnect between the political leadership and the agendas of the lower echelons of the movement, of which we take the women lower level cadres as an example. This disconnect led to the fragmentation of the collective identity that had upheld the party’s populist appeal and contributed to many women in the lower echelons stepping away from the movement and disengaging from party activities. This tendency to ‘withdraw’ [<xref ref-type="bibr" rid="R25">25</xref>] from the movement emerged strongly in interviews that author 2 conducted in 2013, with women who had fought in the PLA as low-level commanders and foot soldiers. All the interview narratives were peppered with passionate critiques of the leadership of the party, with an emphasis on the non-recognition of the contribution of the lower level cadres (See [<xref ref-type="bibr" rid="R88">88</xref>]).</p>
+         <p>What was particularly striking, was how these critiques were directed also at the ‘women leaders’, women who had fought in the PLA as high-level commanders and had since the peace agreement entered parliamentary politics, becoming members of the CA. Ambika who had been a low level commander during the war expressed her thoughts about the ‘women leaders’ in this way,</p>
+         <p>
+            <italic>What else changed for women? We have women leaders in the parliament [gives a list of names of female politicians who had been high-level commanders in the PLA] and all, what did they do? … They used to shout saying ‘women are not only made for household chores, they can fight and handle bombs, bullets as well’, and ‘women are not slaves’ and many other things. At the end, everything remained same … What did they do? They became rich, got luxury life, nobody bothered to care about us. Any republic or whatever has come for the rich, nothing around for the poor</italic> [<xref ref-type="bibr" rid="R89">89</xref>].</p>
+         <p>What we argue is that these reflections demonstrate how the collective ‘we’ has started to fragment in the post-conflict context. First, new identifications start to emerge along the lines of rank, distinctions being made between the ‘lower level’ and ‘commanders’ or the ‘lower level’ and the ‘leaders’. Second, whilst the wartime collective identity was organized around the notion of equality, in the post-conflict context the leadership’s commitment to this core principle becomes increasingly questioned. To us, Ambika’s reflections resonate with Panizza’s argument that ‘the people’ takes on a different meaning when a populist leader, initially situated outside the government, enters mainstream politics, previously constructed as the realm of ‘the elite’ [<xref ref-type="bibr" rid="R34">34</xref>]. The leadership is no longer seen as ‘flaunting the low’ and thus becomes disconnected from their own constructed identity of ‘the people’ and instead merges with what was once portrayed as ‘the elite other’ [<xref ref-type="bibr" rid="R41">41</xref>]. In intriguing ways Ambika’s reflections also highlight how the war time discourse that positioned ‘women’ as a homogenous group, based on their shared oppression, becomes contested when new hierarchies between women ex-PLA combatants start to emerge.</p>
+         <p>The shifts in the relationship between the leadership and the lower echelons of the movement we seek to capture, are certainly entangled with broader changes in gendered power relations and norms that the post-conflict context generates [<xref ref-type="bibr" rid="R68">68</xref>]. For example, in the context of Nepal, norms around motherhood became central to how the position of women ex-combatants was constructed in both discourses of the Maoist leadership and in the international discourses around peacebuilding [<xref ref-type="bibr" rid="R90">90</xref>, <xref ref-type="bibr" rid="R91">91</xref>]. As many of the PLA fighters who had married during the war or soon after the peace agreement, had children in the immediate aftermath of the war, the norms around childcare were debated and contested at different levels of the movement [<xref ref-type="bibr" rid="R92">92</xref>]. It would be tempting then to connect women’s tendency to withdraw from the movement and party activities primarily with the restrengthening of gender norms in the post-conflict context, and specifically, how women ex-PLAs were positioned as primarily responsible for childcare. However, we argue that there is value in taking a step back and examining how the women ex-combatants understood their relation to the party in the post-conflict context, and how they conceived of their own contribution and the withdrawal of it. To do so it is illustrative to examine some of the concrete practices through which the women ex-PLA combatants were withdrawing their support.</p>
+         <p>The fragmentation we examine had begun to translate into concrete practices through which lower level cadres were withdrawing their support to the party, including for election activities. A crucial election was held in 2013 for a second CA, after the first CA was dissolved in 2012, having failed to deliver a new constitution despite four extensions. The Maoists had held the majority of seats in the first CA and also held the premiership position for half of the term [<xref ref-type="bibr" rid="R93">93</xref>], however, the election of the 2nd CA saw a major drop in seats to third place [<xref ref-type="bibr" rid="R93">93</xref>]. An important factor [<xref ref-type="bibr" rid="R94">94</xref>] impacting the election result was a greater number of voter abstentions from within the former Maoist cadre and reduced efforts within this cohort to mobilize grassroots voters to rally around the former populist leadership. The crucial role of women cadres in the reduction of Maoist votes emerged in author 2’s interviews.</p>
+         <p>Renuka, who described herself as a ‘seasoned cadre’ explained that she had not voted and had refused to contribute to election activities in her home village, where she could have mobilized ‘100-150 people’ to vote. In reflecting upon her decision, she noted how the party no longer respected the contribution of the seasoned cadre—pointing out the party’s failure to offer economic support for her to travel to conduct election activities: ‘we cannot sit like beggars’. Yet, what was striking about Renuka’s narrative was how this refusal to contribute was combined with a continuing commitment to the ‘fight for the country’ and ‘fight for the people’,</p>
+         <p>
+            <italic>We are still hopeful towards the party, the only thing is that we are still watching and observing which politicians will do what… Who will raise the issues that were of concern yesterday? Who is going to organize everyone together, we are going to follow that leader. We are not going to leave it. … We have already brought changes according to our capacity. Now we need to see what they will do</italic> [<xref ref-type="bibr" rid="R94">94</xref>].</p>
+         <p>Extending from Panizza, we argue that the kind of commitments and energies that the Maoist movement mobilized are not simply shaken off when the collective identity fragments and the movement starts to lose its populist appeal. Instead, they may take on new forms that do not necessarily resonate with the shifts in the discourses of the leadership. As Parashar amongst others highlight, what needs to be centred is how women active in militant movements interpret and contest agendas, including discourses of gender equality, and how these interpretations may shift in post-war contexts [<xref ref-type="bibr" rid="R57">57</xref>]. In critiquing the leaders and in withdrawing their support, both Ambika and Renuka draw on their capacities as ex-fighters -and position themselves as those who had contributed to the struggle as part of the collective ‘we’. It is in her capacity as a seasoned cadre and as someone who has ‘brought changes’ that Renuka evaluates ‘who are the right leaders’ deserving of her support. Similarly, Ambika articulates her critique of the leadership in a language that directly draws on the specific discourses of women’s liberation propagated through the Maoist publications, simultaneously demonstrating fluency in this language and using it against the ‘women leaders’. With such a positioning she is able to question the sincerity of the leaders’ commitment to the struggle and to the women lower level cadres whom they had encouraged to fight.</p>
+         <p>It is by centring the bi-directional relationship through which the populist discourse is constructed and deconstructed [<xref ref-type="bibr" rid="R35">35</xref>], that we are able to highlight how the femininities produced in the war-time discourses are negotiated and contested by women in the lower echelons of the movement, and to point to the fractures in the collective identity as the leadership pursues parliamentary politics [<xref ref-type="bibr" rid="R34">34</xref>]. In a context in which these fractures emerge along the lines of rank also between women ex-combatants, the homogenizing war time discourses that portray women as a group with shared interests and experiences of oppression becomes increasingly untenable. We argue that examining these contestations that target the leadership’s adherence to its own principle of equality—and the micro-level practices through which the lower level cadres withdraw support—is crucial in understanding how the movement starts to lose its populist appeal.</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- Conclusion</title>
+         <p>In this article we have illustrated the key role that gender agendas play in defining left-wing populist movements in their progressive orientation, examining the case of the Maoist movement in Nepal. We have framed the Maoist movement as a populist movement that produced and relied on a dichotomous construct of the people as the ‘oppressed’ versus ‘the elite’, and that propagated armed violence as a means of transformation. Our aim was to capture the central role that gender ideology played in defining the trajectory of the movement—in how the movement’s populist agenda was constructed, retained and fragmented—and to examine this trajectory across conflict and into a post-conflict context. As our main theoretical move, we have centred the bi-directional relationship between the leadership of populist movements and their grassroots supporters, by operationalizing the concept of collective identity. This has allowed us to offer the following key insights.</p>
+         <p>First, we show how the populist agenda of the Maoist movement produced a homogenizing discourse of ‘sameness’ in two specific ways, first, in terms of how ‘women’ were integrated into the broader category of the ‘oppressed’ as a homogenous group, and second, how women were celebrated as taking on masculine roles within the PLA—as having the same capacities as men. We argue that unpacking this gendered, homogenizing discourse is central to understanding the trajectory of the movement across conflict to post-conflict stages. We illustrate how during the extraordinary circumstances of armed struggle, such homogenizing discourse had certain uptake and resonance amongst the grassroot supporters, and how it enabled the construction of a cohesive collective identity, especially within the PLA. We argue then that the movement’s populist appeal and its ability to retain support during the conflict was intricately linked to its gender agenda, and specifically, enabled by the way this agenda overwrote multiple forms of difference—both between women as well as within the PLA.</p>
+         <p>Second, we demonstrate the importance of examining the construction of gender agendas of populist movements over time, by revealing the way in which the collective, progressive identity of the Maoist movement fragments in the post-conflict context. Centring the experiences of the women ex-PLA cadres, we are able to illustrate how new identifications start to emerge along the lines of rank as well as the concrete practices through which the women start to withdraw their support for the movement. These new identifications directly contest the homogenizing discourses that position ‘women’ as an oppressed group, with new hierarchies being are articulated between the ‘women leaders’, entering the realm of formal politics, and the lower level cadres.</p>
+         <p>Our argument contributes to the feminist and critical approaches to populism by offering a more nuanced understanding of how gender agendas of left-wing populist movements are constructed and deconstructed through the participation of grassroot supporters over time. First, feminist approaches to populism have argued that left-wing populism—both at the level of political parties and grassroot movements—tend to silence feminist agendas and women’s lived experience to construct and retain the unity of the ‘people’. Whilst such analysis has crucial merit, it tells us less about how and why women may actively participate in the construction of such homogenizing agendas <italic>and</italic> as circumstances shift, contribute to their deconstruction. Second, whilst strands of the broader populism literature argue for centring the interactions between leadership and grassroot supporters to examine evolvement of populist movements, these accounts rarely focus on constructions of femininities and masculinities as central to the movement’s trajectory. By centring the gender ideology of the Maoist movement in our analysis, we are able to show how the construction of homogenizing discourse of ‘sameness’, was central to the movements success during war as well as its failure to retain populist appeal in the post-conflict context.</p>
+      </sec>
+      <sec id="s10">
+         <title>Acknowledgments</title>
+         <p>We would like to thank Gunhild Hoogensen Gjørv for all her work in putting this special issue together and the two anonymous reviewers for their generous engagement. We are also grateful to Sweta Singh and Swati Parashar for their insightful comments on an earlier draft. We would also like to thank two individuals for their invaluable contribution to the field research that this paper draws from. Hanna would like to thank Pramila Devkota and Heidi would like to thank Chiran Manandhar.</p>
+      </sec>
+      <sec id="s11">
+         <title>Funding</title>
+         <p>The author(s) disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: Heidi’s research was supported by the Irish Research Council.</p>
+         <p>Hanna’s research was supported by the Economic and Social Research Council (Grant references: 1104860, ES/S011188/1) and the UK Research and Innovation Future Leaders Fellowship (Grant Reference: MR/T040653/1).</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10402659.2021.2043009</pub-id>
+               <annotation>
+                  <p>For an exception see for example Subedi, D. B. Rethinking Peacebuilding in the Age of Populism 2022; 33 (4): 495-505. Subedi discusses both right and left populism in terms of how populist movements challenge dominant approaches to liberal peacebuilding in the South Asian context.</p>
+               </annotation>
+               <year>2021</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>33</volume>
+               <issue>4</issue>
+               <fpage>495</fpage>
+               <lpage>505</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Subedi</surname>
+                     <given-names>D. B.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Rethinking Peacebuilding in the Age of Populism</article-title>
+               <source>Peace Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Gender and Populism in Latin America: Passionate Politics</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kampwirth</surname>
+                     <given-names>Karen</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Penn State Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Can ``the people'' be Feminists? Analysing the Fate of Feminist Justice Claims in Populist Grassroots Movements in the United States</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.interfacejournal.net/wordpress/wp-content/uploads/2011/12/Interface-3-2-Emejulu.pdf"
+                         xlink:type="simple">http://www.interfacejournal.net/wordpress/wp-content/uploads/2011/12/Interface-3-2-Emejulu.pdf</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Emejulu</surname>
+                     <given-names>Akwugo</given-names>
+                  </name>
+               </person-group>
+               <source>Interface: Special Issue on Feminism, Women's Movements and Women in Movements</source>
+               <volume>3</volume>
+               <issue>2</issue>
+               <fpage>123</fpage>
+               <lpage>151</lpage>
+               <year>2011</year>
+               <publisher-name>Citeseer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0260210519000299</pub-id>
+               <year>2019</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>45</volume>
+               <issue>5</issue>
+               <fpage>768</fpage>
+               <lpage>785</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maiguashca</surname>
+                     <given-names>Bice</given-names>
+                  </name>
+               </person-group>
+               <article-title>Resisting the `Populist Hype': A Feminist Critique of a Globalising Concept</article-title>
+               <source>Review of International Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4135/9781446270073</pub-id>
+               <year>2015</year>
+               <publisher-name>SAGE Publications Ltd</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wodak</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Politics of Fear: What Right-Wing Populist Discourses Mean</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/1475-6765.12333</pub-id>
+               <year>2019</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>58</volume>
+               <issue>4</issue>
+               <fpage>1108</fpage>
+               <lpage>1128</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kantola</surname>
+                     <given-names>Johanna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lombardo</surname>
+                     <given-names>Emanuela</given-names>
+                  </name>
+               </person-group>
+               <article-title>Populism and Feminist Politics: The Cases of Finland and Spain</article-title>
+               <source>European Journal of Political Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14672715.2020.1711789</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>52</volume>
+               <issue>2</issue>
+               <fpage>204</fpage>
+               <lpage>225</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chacko</surname>
+                     <given-names>Priya</given-names>
+                  </name>
+               </person-group>
+               <article-title>Gender and Authoritarian Populism: Empowerment, Protection, and the Politics of Resentful Aspiration in India</article-title>
+               <source>Critical Asian Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13569775.2021.1917164</pub-id>
+               <year>2021</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>27</volume>
+               <issue>5</issue>
+               <fpage>528</fpage>
+               <lpage>549</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Singh</surname>
+                     <given-names>Shweta</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>F\'eron, \'Elise</surname>
+                  </name>
+               </person-group>
+               <article-title>Towards an Intersectional Approach to Populism: Comparative Perspectives from Finland and India</article-title>
+               <source>Contemporary Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>This is the idea that, `us' the `in-group' become the collective `we' and have a sense of commonality</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Rethinking Masculinities: Ideology, Identity and Change in the People's War in Nepal and Its Aftermath</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Riley</surname>
+                     <given-names>Heidi</given-names>
+                  </name>
+               </person-group>
+               <year>2022</year>
+               <publisher-name>Rowman &amp; Littlefield</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s1537592706060440</pub-id>
+               <year>2006</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>4</volume>
+               <issue>04</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abdelal</surname>
+                     <given-names>Rawi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Herrera</surname>
+                     <given-names>Yoshiko M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnston</surname>
+                     <given-names>Alastair Iain</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McDermott</surname>
+                     <given-names>Rose</given-names>
+                  </name>
+               </person-group>
+               <article-title>Identity as a Variable</article-title>
+               <source>Perspectives on Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Militant Collectivity: Building Solidarities in the Maoist Movement in Nepal</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hirslund</surname>
+                     <given-names>Dan V</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://go.gale.com/ps/i.do?id=GALE\%7CA421626646&amp;sid=googleScholar&amp;v=2.1&amp;it=r&amp;linkaccess=abs&amp;issn=09201297&amp;p=AONE&amp;sw=w&amp;userGroupName=anon\%7Eb4cf811d"
+                         xlink:type="simple">https://go.gale.com/ps/i.do?id=GALE\%7CA421626646&amp;sid=googleScholar&amp;v=2.1&amp;it=r&amp;linkaccess=abs&amp;issn=09201297&amp;p=AONE&amp;sw=w&amp;userGroupName=anon\%7Eb4cf811d</ext-link>
+               <source>Focaal</source>
+               <volume>2015</volume>
+               <issue>72</issue>
+               <fpage>37</fpage>
+               <lpage>50</lpage>
+               <year>2015</year>
+               <publisher-name>Berghahn Journals</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0022343320905619</pub-id>
+               <year>2020</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>58</volume>
+               <issue>3</issue>
+               <fpage>449</fpage>
+               <lpage>461</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yadav</surname>
+                     <given-names>Punam</given-names>
+                  </name>
+               </person-group>
+               <article-title>Can Women Benefit from War? Women's Agency in Conflict and Post-conflict Societies</article-title>
+               <source>Journal of Peace Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/isagsq/ksab004</pub-id>
+               <year>2021</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>1</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Giri</surname>
+                     <given-names>Keshab</given-names>
+                  </name>
+               </person-group>
+               <article-title>Do All Women Combatants Experience War and Peace Uniformly? Intersectionality and Women Combatants</article-title>
+               <source>Global Studies Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Making New Nepal: From Student Activism to Mainstream Politics</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Snellinger</surname>
+                     <given-names>A.T.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9780295743097</isbn>
+               <year>2018</year>
+               <publisher-name>University of Washington Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Maoist People's War and the Revolution of Everyday Life in Nepal</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zharkevich</surname>
+                     <given-names>I.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9781108600385</isbn>
+               <comment>South Asia in the Social Sciences</comment>
+               <year>2019</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nightingale</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rankin</surname>
+                     <given-names>K.N.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>105</fpage>
+               <lpage>117</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://digitalcommons.macalester.edu/himalaya/vol34/iss1/15?utm\_source=digitalcommons.macalester.edu\%2Fhimalaya\%2Fvol34\%2Fiss1\%2F15&amp;utm\_medium=PDF&amp;utm\_campaign=PDFCoverPages"
+                         xlink:type="simple">https://digitalcommons.macalester.edu/himalaya/vol34/iss1/15?utm\_source=digitalcommons.macalester.edu\%2Fhimalaya\%2Fvol34\%2Fiss1\%2F15&amp;utm\_medium=PDF&amp;utm\_campaign=PDFCoverPages</ext-link>
+               <article-title>Political Transformations: Collaborative Feminist Scholarship in Nepal</article-title>
+               <volume>34</volume>
+               <source>Himalaya</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Himalayan People's War: Nepal's Maoist Rebellion</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hutt</surname>
+                     <given-names>Michael J</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <publisher-name>Indiana University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Bullet and the Ballot Box: The Story of Nepal's Maoist Revolution</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Adhikari</surname>
+                     <given-names>Aditya</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Verso Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Political Geographies of Urban Demarcation: Learning from Nepal's State-restructuring Process</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Agergaard</surname>
+                     <given-names>Jytte</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Subedi</surname>
+                     <given-names>Bhim Prasad</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brøgger</surname>
+                     <given-names>Ditte</given-names>
+                  </name>
+               </person-group>
+               <pub-id pub-id-type="doi">10.1016/j.polgeo.2022.102605</pub-id>
+               <source>Political Geography</source>
+               <volume>96</volume>
+               <fpage>102605</fpage>
+               <year>2022</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A New Way of Being Young in Nepal: The Idea of Maoist Youth and Dreams of a New Man</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Zharkevich</surname>
+                     <given-names>Ina</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.academia.edu/3242219/A\_New\_Way\_of\_Being\_Young\_in\_Nepal\_the\_Idea\_of\_Maoist\_Youth\_and\_Birth\_of\_a\_New\_Man"
+                         xlink:type="simple">https://www.academia.edu/3242219/A\_New\_Way\_of\_Being\_Young\_in\_Nepal\_the\_Idea\_of\_Maoist\_Youth\_and\_Birth\_of\_a\_New\_Man</ext-link>
+               <source>Studies in Nepali History and Society</source>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>67</fpage>
+               <lpage>105</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s10624-009-9129-2</pub-id>
+               <year>2009</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>33</volume>
+               <issue>3-4</issue>
+               <fpage>287</fpage>
+               <lpage>308</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shneiderman</surname>
+                     <given-names>Sara Beth</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Formation of Political Consciousness in Rural Nepal</article-title>
+               <source>Dialectical Anthropology</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/09718524.2020.1766187</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>24</volume>
+               <issue>2</issue>
+               <fpage>194</fpage>
+               <lpage>214</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yadav</surname>
+                     <given-names>Punam</given-names>
+                  </name>
+               </person-group>
+               <article-title>When the Personal is International: Implementation of the National Action Plan on Resolutions 1325 and 1820 in Nepal</article-title>
+               <source>Gender, Technology and Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>On Populist Reason</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Laclau</surname>
+                     <given-names>Ernesto</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Verso</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0967010620906322</pub-id>
+               <year>2020</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>51</volume>
+               <issue>6</issue>
+               <fpage>519</fpage>
+               <lpage>536</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ketola</surname>
+                     <given-names>Hanna</given-names>
+                  </name>
+               </person-group>
+               <article-title>Withdrawing from Politics? Gender, Agency and Women Ex-fighters in Nepal</article-title>
+               <source>Security Dialogue</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>The term lower echelons here signifies rank, specifically foot soldiers and low level commanders.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Publications between 1995-2005 were accessed via the Nepal Media Council, and specific articles were selected for translation.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/cbo9780511492037.015</pub-id>
+               <year>2007</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <fpage>305</fpage>
+               <lpage>308</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mudde</surname>
+                     <given-names>Cas</given-names>
+                  </name>
+               </person-group>
+               <article-title>Populist Radical Right Parties in Europe</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14782804.2018.1498776</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>26</volume>
+               <issue>3</issue>
+               <fpage>308</fpage>
+               <lpage>321</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Palonen</surname>
+                     <given-names>Emilia</given-names>
+                  </name>
+               </person-group>
+               <article-title>Performing the Nation: The Janus-faced Populist Foundations of Illiberalism in Hungary</article-title>
+               <source>Journal of Contemporary European Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/j.1477-7053.2004.00135.x</pub-id>
+               <year>2004</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>39</volume>
+               <issue>4</issue>
+               <fpage>541</fpage>
+               <lpage>563</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mudde</surname>
+                     <given-names>Cas</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Populist Zeitgeist</article-title>
+               <source>Government and Opposition</source>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>A Political-strategic Approach</chapter-title>
+               <source>The Oxford Handbook of Populism</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weyland</surname>
+                     <given-names>Kurt</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kaltwasser</surname>
+                     <given-names>CR and Taggart, P and Ochoa Espejo, P and Ostiguy, P</given-names>
+                  </name>
+               </person-group>
+               <fpage>48</fpage>
+               <lpage>72</lpage>
+               <year>2018</year>
+               <publisher-name>Oxford University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/2041905818796577</pub-id>
+               <year>2018</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>9</volume>
+               <issue>3</issue>
+               <fpage>33</fpage>
+               <lpage>35</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stavrakakis</surname>
+                     <given-names>Yannis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Populism, Anti-Populism and Democracy</article-title>
+               <source>Political Insight</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <publisher-name>The Worker</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bannedthought.net/Nepal/Worker/Worker-01/PoliticalLine-CPN-UC-W01.htm"
+                         xlink:type="simple">http://www.bannedthought.net/Nepal/Worker/Worker-01/PoliticalLine-CPN-UC-W01.htm</ext-link>
+               <article-title>Communist Party of Nepal (Maoist) Publicity. Political Line Of CPN (Unity Centre): Significance Of The Three Instruments Of Revolution</article-title>
+               <year>1993</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/oxfordhb/9780198803560.013.19</pub-id>
+               <year>2017</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Panizza</surname>
+                     <given-names>Francisco</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Crist\'obal Rovira Kaltwasser and Paul Taggart and Paulina Ochoa Espejo and Pierre Ostiguy</surname>
+                  </name>
+               </person-group>
+               <article-title>Populism and Identification</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/oxfordhb/9780198803560.013.23</pub-id>
+               <year>2017</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aslanidis</surname>
+                     <given-names>Paris</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Crist\'obal Rovira Kaltwasser and Paul Taggart and Paulina Ochoa Espejo and Pierre Ostiguy</surname>
+                  </name>
+               </person-group>
+               <article-title>Populism and Social Movements</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/oxfordhb/9780198803560.013.8</pub-id>
+               <year>2017</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>de la Torre, Carlos</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Crist\'obal Rovira Kaltwasser and Paul Taggart and Paulina Ochoa Espejo and Pierre Ostiguy</surname>
+                  </name>
+               </person-group>
+               <article-title>Populism in Latin America</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Nepal is a multi-ethnic multi-lingual country with 125 castes/ethnic groups who speak 123 languages, caste is one of the principal systems of social stratification with those in the lower castes typically facing exclusions and marginalization.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315666037</pub-id>
+               <year>2016</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yadav</surname>
+                     <given-names>Punam</given-names>
+                  </name>
+               </person-group>
+               <article-title>Social Transformation in Post-conflict Nepal</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/0162-895x.00229</pub-id>
+               <year>2001</year>
+               <month>mar</month>
+               <publisher-name>Wiley</publisher-name>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>115</fpage>
+               <lpage>125</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brewer</surname>
+                     <given-names>Marilynn B.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Many Faces of Social Identity: Implications for Political Psychology</article-title>
+               <source>Political Psychology</source>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1146/annurev.ps.33.020182.000245</pub-id>
+               <year>1982</year>
+               <publisher-name>Annual Reviews</publisher-name>
+               <volume>33</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>39</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tajfel</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <article-title>Social Psychology of Intergroup Relations</article-title>
+               <source>Annual Review of Psychology</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>A Socio-cultural Approach</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ostiguy</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kaltwasser</surname>
+                     <given-names>C Rovira and Taggart, P and Espejo, PO</given-names>
+                  </name>
+               </person-group>
+               <source>Oxford Handbook of Populism</source>
+               <publisher-name>Oxford University Press</publisher-name>
+               <fpage>74</fpage>
+               <lpage>96</lpage>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 1, Surkhet, November 2015</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 1, Kailali, November 2015</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/0031322x.2015.1023642</pub-id>
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>49</volume>
+               <issue>1-2</issue>
+               <fpage>3</fpage>
+               <lpage>15</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Spierings</surname>
+                     <given-names>Niels</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zaslove</surname>
+                     <given-names>Andrej</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mügge</surname>
+                     <given-names>Liza M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Lange, Sarah L.</surname>
+                  </name>
+               </person-group>
+               <article-title>Gender and Populist Radical-right Politics: An Introduction</article-title>
+               <source>Patterns of Prejudice</source>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1057/cep.2013.20</pub-id>
+               <year>2013</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>13</volume>
+               <issue>2</issue>
+               <fpage>263</fpage>
+               <lpage>286</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Immerzeel</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Coff\'e</surname>
+                  </name>
+               </person-group>
+               <article-title>Explaining the Gender Gap in Radical Right Voting: A Cross-national Investigation in 12 Western European Countries</article-title>
+               <source>Comparative European Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/0031322x.2015.1014197</pub-id>
+               <year>2015</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>49</volume>
+               <issue>1-2</issue>
+               <fpage>16</fpage>
+               <lpage>36</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mudde</surname>
+                     <given-names>Cas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kaltwasser</surname>
+                     <given-names>Crist\'obal Rovira</given-names>
+                  </name>
+               </person-group>
+               <article-title>Vox Populi or Vox Masculini? Populism and gender in Northern Europe and South America</article-title>
+               <source>Patterns of Prejudice</source>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Populism on the Loose: Seminal Preflections on the Condition of Differentiality</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kovala</surname>
+                     <given-names>Urpo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Palonen</surname>
+                     <given-names>Emilia</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.researchgate.net/profile/Emilia-Palonen/publication/336148298\_POPULISM\_ON\_THE\_LOOSE\_SEMINAL\_PREFLECTIONS\_ON\_THE\_CONDITION\_OF\_DIFFERENTIALITY/links/5d92eea692851c33e94b4548/POPULISM-ON-THE-LOOSE-SEMINAL-PREFLECTIONS-ON-THE-CONDITION-OF-DIFFERENTIALITY.pdf"
+                         xlink:type="simple">https://www.researchgate.net/profile/Emilia-Palonen/publication/336148298\_POPULISM\_ON\_THE\_LOOSE\_SEMINAL\_PREFLECTIONS\_ON\_THE\_CONDITION\_OF\_DIFFERENTIALITY/links/5d92eea692851c33e94b4548/POPULISM-ON-THE-LOOSE-SEMINAL-PREFLECTIONS-ON-THE-CONDITION-OF-DIFFERENTIALITY.pdf</ext-link>
+               <source>Nykykulttuurin Tutkimuskeskuksen Julkaisuja</source>
+               <issue>122</issue>
+               <year>2018</year>
+               <publisher-name>Jyväskylän yliopisto</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/sp/jxy039</pub-id>
+               <year>2018</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Geva</surname>
+                     <given-names>Dorit</given-names>
+                  </name>
+               </person-group>
+               <article-title>Daughter, Mother, Captain: Marine Le Pen, Gender, and Populism in the French National Front</article-title>
+               <source>Social Politics: International Studies in Gender, State &amp; Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/701152</pub-id>
+               <year>2019</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <volume>44</volume>
+               <issue>3</issue>
+               <fpage>541</fpage>
+               <lpage>560</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Graff</surname>
+                     <given-names>Agnieszka</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kapur</surname>
+                     <given-names>Ratna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Walters</surname>
+                     <given-names>Suzanna Danuta</given-names>
+                  </name>
+               </person-group>
+               <article-title>Introduction: Gender and the Rise of the Global Right</article-title>
+               <source>Signs: Journal of Women in Culture and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2478/njmr-2013-0015</pub-id>
+               <year>2013</year>
+               <publisher-name>Helsinki University Press</publisher-name>
+               <volume>3</volume>
+               <issue>4</issue>
+               <fpage>225</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Keskinen</surname>
+                     <given-names>Suvi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Antifeminism and White Identity Politics: Political Antagonisms in Radical Right-wing Populist and Anti-immigration Rhetoric in Finland</article-title>
+               <source>Nordic Journal of Migration Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/701171</pub-id>
+               <year>2019</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <volume>44</volume>
+               <issue>3</issue>
+               <fpage>613</fpage>
+               <lpage>638</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Corredor</surname>
+                     <given-names>Elizabeth S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Unpacking \textquotedblleftGender Ideology\textquotedblright and the Global Right's Antigender Countermovement</article-title>
+               <source>Signs: Journal of Women in Culture and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1086/701159</pub-id>
+               <year>2019</year>
+               <publisher-name>University of Chicago Press</publisher-name>
+               <volume>44</volume>
+               <issue>3</issue>
+               <fpage>743</fpage>
+               <lpage>770</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Atreyee</given-names>
+                  </name>
+               </person-group>
+               <article-title>\textquotedblleftTeach Your Girls to Stab, Not Sing\textquotedblright: Right-Wing Activism, Public Knife Distribution, and the Politics of Gendered Self-Defense in Mumbai, India</article-title>
+               <source>Signs: Journal of Women in Culture and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1097184x07306740</pub-id>
+               <year>2007</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>10</volume>
+               <issue>4</issue>
+               <fpage>389</fpage>
+               <lpage>404</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hutchings</surname>
+                     <given-names>Kimberly</given-names>
+                  </name>
+               </person-group>
+               <article-title>Making Sense of Masculinity and War</article-title>
+               <source>Men and Masculinities</source>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>People's War and Women's Liberation in Nepal</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yami</surname>
+                     <given-names>Hisila</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <publisher-name>Janadhwani Publication</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Fighting with Ideas: Maoist and Popular Conceptions of the Nepalese People's War</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lecomte-Tilouine, Marie</surname>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.academia.edu/9746707/Fighting\_with\_ideas\_Maoist\_and\_popular\_conceptions\_of\_the\_People\_s\_war\_in\_Nepal\_In\_Armed\_Militias\_of\_South_Asia\_Fundamentalists\_Maoists\_and\_Separatists\_C\_Jaffrelot\_and\_L\_Gayer\_eds\_London\_Hurst\_New\_York\_Columbia\_University\_Press\_2010\_p\_65\_90"
+                         xlink:type="simple">https://www.academia.edu/9746707/Fighting\_with\_ideas\_Maoist\_and\_popular\_conceptions\_of\_the\_People\_s\_war\_in\_Nepal\_In\_Armed\_Militias\_of\_South_Asia\_Fundamentalists\_Maoists\_and\_Separatists\_C\_Jaffrelot\_and\_L\_Gayer\_eds\_London\_Hurst\_New\_York\_Columbia\_University\_Press\_2010\_p\_65\_90</ext-link>
+               <source>Armed Militias of South Asia: Fundamentalists, Maoists, and Separatists</source>
+               <fpage>65</fpage>
+               <lpage>90</lpage>
+               <year>2009</year>
+               <publisher-name>Hurst and Co London</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0921374004047741</pub-id>
+               <year>2004</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>16</volume>
+               <issue>2-3</issue>
+               <fpage>141</fpage>
+               <lpage>168</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rajasingham-Senanayake, Darini</surname>
+                  </name>
+               </person-group>
+               <article-title>Between Reality and Representation</article-title>
+               <source>Cultural Dynamics</source>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203628669</pub-id>
+               <year>2014</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Parashar</surname>
+                     <given-names>Swati</given-names>
+                  </name>
+               </person-group>
+               <article-title>Women and Militant Wars</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780198081722.001.0001</pub-id>
+               <year>2012</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roy</surname>
+                     <given-names>Srila</given-names>
+                  </name>
+               </person-group>
+               <article-title>Remembering Revolution</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780199843633.003.0003</pub-id>
+               <year>2013</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <fpage>40</fpage>
+               <lpage>62</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Viterna</surname>
+                     <given-names>Jocelyn</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Micro-Level Processes of Mobilization</chapter-title>
+               <article-title>Women in War</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/23337486.2020.1715056</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>8</volume>
+               <issue>1</issue>
+               <fpage>58</fpage>
+               <lpage>76</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hedström</surname>
+                     <given-names>Jenny</given-names>
+                  </name>
+               </person-group>
+               <article-title>Militarized Social Reproduction: Women's Labour and Parastate Armed Conflict</article-title>
+               <source>Critical Military Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9781315227696</pub-id>
+               <year>2018</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gilmartin</surname>
+                     <given-names>Niall</given-names>
+                  </name>
+               </person-group>
+               <article-title>Female Combatants After Armed Struggle</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>War, Women, and Power: From Violence to Mobilization in Rwanda and Bosnia-Herzegovina</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Berry</surname>
+                     <given-names>Marie E</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>Militarized Nationalism as a Platform for Feminist Mobilization? The Case of the Exiled Burmese Women's Movement</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Olivius</surname>
+                     <given-names>Elisabeth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hedström</surname>
+                     <given-names>Jenny</given-names>
+                  </name>
+               </person-group>
+               <source>Women's Studies International Forum</source>
+               <volume>76</volume>
+               <fpage>102263</fpage>
+               <year>2019</year>
+               <conf-name>Elsevier</conf-name>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Postwar Moment: Militaries, Masculinities and International Peacekeeping</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cockburn</surname>
+                     <given-names>Cynthia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>\vZarkov, Dubravka</surname>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <publisher-name>London: Lawrence &amp; Wishart</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Ambivalent Gains in Conflicts in South Asia</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Manchanda</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Meintjes</surname>
+                     <given-names>S and Pillay, A and Turshen, M,</given-names>
+                  </name>
+               </person-group>
+               <source>Aftermath: Women in post-conflict Transformation</source>
+               <year>2001</year>
+               <publisher-name>Zed Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0967010604049521</pub-id>
+               <year>2004</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>35</volume>
+               <issue>4</issue>
+               <fpage>429</fpage>
+               <lpage>445</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Handrahan</surname>
+                     <given-names>Lori</given-names>
+                  </name>
+               </person-group>
+               <article-title>Conflict, Gender, Ethnicity and Post-Conflict Reconstruction</article-title>
+               <source>Security Dialogue</source>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/09614520302949</pub-id>
+               <year>2003</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>13</volume>
+               <issue>2-3</issue>
+               <fpage>178</fpage>
+               <lpage>188</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Afshar</surname>
+                     <given-names>Haleh</given-names>
+                  </name>
+               </person-group>
+               <article-title>Women and Wars: Some Trajectories towards a Feminist Peace</article-title>
+               <source>Development in Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/isq/sqy019</pub-id>
+               <year>2018</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>62</volume>
+               <issue>3</issue>
+               <fpage>632</fpage>
+               <lpage>642</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Friedman</surname>
+                     <given-names>Rebekka</given-names>
+                  </name>
+               </person-group>
+               <article-title>Remnants of a Checkered Past: Female LTTE and Social Reintegration in Post-War Sri Lanka</article-title>
+               <source>International Studies Quarterly</source>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Women and the Maobadi: Ideology and Agency in Nepal's Maoist Movement</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pettigrew</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shneiderman</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ulir.ul.ie/bitstream/handle/10344/3868/Pettigrew\_2004\_women.pdf?sequence=2"
+                         xlink:type="simple">https://ulir.ul.ie/bitstream/handle/10344/3868/Pettigrew\_2004\_women.pdf?sequence=2</ext-link>
+               <year>2004</year>
+               <publisher-name>The Southasia Trust</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Question of Women's Leadership in People's War in Nepal</article-title>
+               <source>The Worker</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Comrade</surname>
+                     <given-names>Parvati</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <issue>8</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bannedthought.net/Nepal/Worker/Worker-08/WomensLeadershipInPW-Parvati-W08.htm"
+                         xlink:type="simple">http://www.bannedthought.net/Nepal/Worker/Worker-08/WomensLeadershipInPW-Parvati-W08.htm</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Women's Participation in the People’s War in Nepal</article-title>
+               <source>The Worker</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Comrade</surname>
+                     <given-names>Parvati</given-names>
+                  </name>
+               </person-group>
+               <year>1999</year>
+               <issue>5</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.bannedthought.net/Nepal/Worker/Worker-05/WomenInPW-Parvati-W05.htm"
+                         xlink:type="simple">http://www.bannedthought.net/Nepal/Worker/Worker-05/WomenInPW-Parvati-W05.htm</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Communist Party of Nepal (Maoist) Publicity. Reports from the Battlefield</article-title>
+               <source>The Worker</source>
+               <year>1998</year>
+               <issue>4</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bannedthought.net/Nepal/Worker/Worker-04/ReportsFromBattlefield-W04.htm"
+                         xlink:type="simple">https://www.bannedthought.net/Nepal/Worker/Worker-04/ReportsFromBattlefield-W04.htm</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The People's War in Nepal: Left Perspectives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Karki</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Seddon</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9788187392385</isbn>
+               <year>2003</year>
+               <publisher-name>Adroit Publishers</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Politics of Conflict and Difference or the Difference of Conflict in Politics: The Women's Movement in Nepal</article-title>
+               <pub-id pub-id-type="doi">10.1057/fr.2008.50</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tamang</surname>
+                     <given-names>Seira</given-names>
+                  </name>
+               </person-group>
+               <source>Feminist Review</source>
+               <volume>91</volume>
+               <issue>1</issue>
+               <fpage>61</fpage>
+               <lpage>80</lpage>
+               <year>2009</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Women and Gender in the Maoist People's War in Nepal: Militarism and Dislocation</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lohani-Chase, Rama S</surname>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://rucore.libraries.rutgers.edu/rutgers-lib/24422/PDF/1/play/"
+                         xlink:type="simple">https://rucore.libraries.rutgers.edu/rutgers-lib/24422/PDF/1/play/</ext-link>
+               <year>2008</year>
+               <publisher-name>Rutgers The State University of New Jersey-New Brunswick</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Gender Dimensions of the People's War: Some Reflections on the Experiences of Rural Women</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sharma</surname>
+                     <given-names>Mandira</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Prasain</surname>
+                     <given-names>Dinesh</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hutt</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <source>Himalayan people's War: Nepal's Maoist Rebellion</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Hutt</surname>
+                     <given-names>M.J.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Indiana University Press</publisher-name>
+               <fpage>152</fpage>
+               <lpage>165</lpage>
+               <year>2004</year>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Maoist Insurgency in Nepal: Radicalizing Gendered Narratives</article-title>
+               <pub-id pub-id-type="doi">10.1177/0921374004047750</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Manchanda</surname>
+                     <given-names>Rita</given-names>
+                  </name>
+               </person-group>
+               <source>Cultural Dynamics</source>
+               <volume>16</volume>
+               <issue>2-3</issue>
+               <fpage>237</fpage>
+               <lpage>258</lpage>
+               <year>2004</year>
+               <publisher-name>Sage Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Janadesh (A CPN(M) Magazine)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Subedi</surname>
+                     <given-names>Yesoda</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 1, Kathmandu, 25$^th$ November 2015</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0208260</pub-id>
+               <year>2018</year>
+               <publisher-name>Public Library of Science (PLoS)</publisher-name>
+               <volume>13</volume>
+               <issue>12</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Amatya</surname>
+                     <given-names>Prabisha</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ghimire</surname>
+                     <given-names>Saruna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Callahan</surname>
+                     <given-names>Karen E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kumar Baral, Binaya</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Poudel</surname>
+                     <given-names>Krishna C.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Dreibelbis</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+               </person-group>
+               <article-title>Practice and Lived Experience of Menstrual Exiles (Chhaupadi) among Adolescent Girls in Far-western Nepal</article-title>
+               <source>PLOS ONE</source>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 3, Kathmandu, May 2012</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14616742.2019.1577153</pub-id>
+               <year>2019</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>21</volume>
+               <issue>4</issue>
+               <fpage>544</fpage>
+               <lpage>565</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Riley</surname>
+                     <given-names>Heidi</given-names>
+                  </name>
+               </person-group>
+               <article-title>Male Collective Identity in the People's Liberation Army of Nepal</article-title>
+               <source>International Feminist Journal of Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 1, Kailai, November 2015</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 1, Sindhuli, January 2016</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Red Flag Flying on the Roof of the World: Inside the Revolution in Nepal: Interview with Comrade Prachanda</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Onesto</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Revolution Books</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Human Rights Watch</publisher-name>
+               <article-title>`Silenced and Forgotten: Survivors of Nepal's Conflict-Era Sexual Violence'</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.hrw.org/report/2014/09/23/silenced-and-forgotten/survivors-nepals-conflict-era-sexual-violence"
+                         xlink:type="simple">https://www.hrw.org/report/2014/09/23/silenced-and-forgotten/survivors-nepals-conflict-era-sexual-violence</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Identity, Society, and State: Citizenship and Inclusion in Nepal Over Time</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rai</surname>
+                     <given-names>Janak</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shneiderman</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+               </person-group>
+               <source>The Politics of Change: Reflections on Contemporary Nepal, Kathmandu: Himal Books</source>
+               <fpage>83</fpage>
+               <lpage>108</lpage>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R88">
+            <element-citation publication-type="report" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Post-war Reconstruction and Development Unit, Berghof Foundation and National Network of Families of Disappeared &amp; Missing Nepal</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Robins</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bhandari</surname>
+                     <given-names>RK.</given-names>
+                  </name>
+               </person-group>
+               <article-title>From Victims to Actors: Mobilising Victims to Drive Transitional Justice Process</article-title>
+               <publisher-loc>Kathmandu, NP</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.hrw.org/report/2014/09/23/silenced-and-forgotten/survivors-nepals-conflict-era-sexual-violence"
+                         xlink:type="simple">https://www.hrw.org/report/2014/09/23/silenced-and-forgotten/survivors-nepals-conflict-era-sexual-violence</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R89">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>Interview with author 2 in Nawalparasi, 23$^rd$ May 2013.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R90">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Motherhood Containers: Cantonments and the Media Framing of Female Ex-combatants in Nepal's Transition</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.cambridge.org/core/books/abs/political-change-and-public-culture-in-post1990-nepal/motherhood-containers-cantonments-and-the-media-framing-of-female-excombatants-in-nepals-transition/BA7294427FC5C4AB784A035AE28CD06B"
+                         xlink:type="simple">https://www.cambridge.org/core/books/abs/political-change-and-public-culture-in-post1990-nepal/motherhood-containers-cantonments-and-the-media-framing-of-female-excombatants-in-nepals-transition/BA7294427FC5C4AB784A035AE28CD06B</ext-link>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tamang</surname>
+                     <given-names>Seira</given-names>
+                  </name>
+               </person-group>
+               <source>Political Change and Public Culture in Post-1990 Nepal</source>
+               <fpage>223</fpage>
+               <lpage>252</lpage>
+               <year>2017</year>
+               <publisher-name>Cambridge University Press Cambridge</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R91">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14616742.2018.1521296</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>21</volume>
+               <issue>3</issue>
+               <fpage>434</fpage>
+               <lpage>453</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>K.C., Luna</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Der Haar, Gemma</surname>
+                  </name>
+               </person-group>
+               <article-title>Living Maoist Gender Ideology: Experiences of Women Ex-combatants in Nepal</article-title>
+               <source>International Feminist Journal of Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R92">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/acprof:oso/9780198089384.003.0011</pub-id>
+               <year>2013</year>
+               <publisher-name>Oxford University Press</publisher-name>
+               <fpage>333</fpage>
+               <lpage>362</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Laurent Gayer</surname>
+                  </name>
+               </person-group>
+               <chapter-title>`Love\textendashMarriage\textendashSex' in the People's Liberation Army</chapter-title>
+               <article-title>Revolution in Nepal</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R93">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/03068374.2014.909627</pub-id>
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>45</volume>
+               <issue>2</issue>
+               <fpage>243</fpage>
+               <lpage>261</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gellner</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>The 2013 Eelections in Nepal</article-title>
+               <source>Asian Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R94">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>There were various reasons for being defeated in the second CA, such as dissatisfaction within the party leading to several splits which divided their supporters, unmet people's expectations, failure in dealing with conflict related grievances and so on.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
