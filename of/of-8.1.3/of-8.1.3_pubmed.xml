@@ -1,0 +1,2508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">of</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Organic Farming</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6485</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/of2022.08010003</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Growth and Yield Responses of Leafy Vegetables Grown in Organic and Conventional Agriculture Systems</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nandwani</surname>
+                  <given-names>Dilip</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dhakal</surname>
+                  <given-names>Kripa</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Department of Agriculture and Environmental Science, College of Agriculture, Tennessee State University, Nashville, TN, USA</aff>
+         <pub-date pub-type="ppub">
+            <day>16</day>
+            <month>12</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue>1</issue>
+         <fpage>3</fpage>
+         <lpage>9</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Several scientific reports indicate lower as well as higher relative yield stability in organic and conventional (chemical) agriculture systems.   This study present results of on-farm trials conducted on leafy vegetables grown in in organic and conventional management systems. Four leafy vegetables collard green (Brassica oleracea cv. acephala), kale (Brassica oleracea cv. sabellica), lettuce (Lactuca sativa) and swiss chard (Beta vulgaris L. cv. cicla) were grown in organic and conventionally managed plots in the spring 2018 and 2020. United States Department of Agriculture (USDA), National Organic Program (NOP) standards were followed for cultural and management practices in organically managed experimental field plots. Synthetic chemical inputs (seeds and fertilizer) were applied in the experimental field plots managed in conventional production system. Data on plant height, leaf number and total fresh weight of leafy vegetables were measured at the end of the experiment. Results showed that maximum fresh weight per plant was obtained from conventionally grown kale and the lowest was recorded in conventionally grown lettuce. The fresh weight of collard (344.1 g/plant) and kale (475.6 g/plant) was significantly higher in conventional system relative to the organic management system in collar (184.9 g/plant) and kale (242.3 g/plant). In contrast, for lettuce, significantly greater fresh weight was obtained in the organic (266.5 g/plant) compared to conventional (189.3 g/plant). No difference recorded in fresh weight of swiss chard grown in organic (222.0 g/plant) and conventional (263.7 g/plant) production systems. No difference observed in plant height and number of leaf count between the two production systems. Findings suggest that growth and yield responses in organic and conventional production systems can vary with the individual crop species. Results presented could be helpful to growers in planning for the organic production of leafy greens vegetables.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>conventional agriculture, fresh weight, leafy greens, organic agriculture, yield</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Scientific reports suggest that organic agriculture is less or higher productive than a conventional system that heavily relies on the use of synthetic chemicals. However, knowledge on how yields are in organic versus conventional systems is not vastly available in many crops, and growers’ interest to know responses on relative yields in crops grown in organic and conventional management systems [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>]. The majority of the earlier studies as well as meta-analyses have confirmed organic yield lower than the conventional. For instance, meta-analyses have shown that organic production system produce 19-25% lower crop yield than conventional [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>]. Likewise, based on the data collected from 10,000 organic farmers representing 800,000 ha land, the study in the United States (US), found that organic system can produce about 80% of the conventional system [<xref ref-type="bibr" rid="R7">7</xref>]. Although yield is lower, it is possible that the yield gap can be compensated by the higher price of organic foods, and the cost involved in maintaining a healthy environment and good human health. These yield gaps can also be reduced by implementing effective agronomic practices, nutrient management and pest control strategies, and thus would create a more sustainable system [<xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>].</p>
+         <p>Collard (<italic>Brassica oleracea</italic> cv. acephala), kale (<italic>Brassica oleracea</italic> cv. sabellica), lettuce (<italic>Lactuca sativa</italic>) and swiss chard (<italic>Beta vulgaris</italic> L. cv. cicla) are some of the most commonly grown and consumed leafy greens in the US. In the US, lettuce is grown in 15,590 hectares of certified organic land [<xref ref-type="bibr" rid="R10">10</xref>], while area and production for other leafy green vegetables such as kale, collard and swiss chard are not included in the United States Department of Agriculture census report. The higher demand for leafy greens is due to their positive association with trace minerals, omega fatty acids, antioxidants and vitamins A, C, K, and E, among others [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>]. Since leafy greens are mostly consumed uncooked, consumers may like to purchase organic products if they are sufficiently produced and available locally. The information of how much yield one can produce from the organic production system compared to conventional systems would be helpful to the grower in making the decision to start organic production of leafy greens. As such, extensive comparative studies are needed. Therefore, we aim to evaluate the growth and yield responses of different leafy green vegetables grown in organic and conventional management systems.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Materials and Methods</title>
+         <sec id="s2.1">
+            <title>2.1.- Experimental Design</title>
+            <p>Field experiments were conducted in spring 2018 and 2020 at the Tennessee State University (TSU) organic and conventional research farm, Nashville, TN (Latitude 36<inline-formula>
+                  <mml:math id="S4.SS1.p1.m1"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> 10’ N Longitude 86<inline-formula>
+                  <mml:math id="S4.SS1.p1.m2"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> 49’ W). The organic research farm is the certified organic field and conventional production practices are followed in conventional research farm. In the organic field, during the fallow periods in the late fall, cover crops such as winter rye (<italic>Secale cereale</italic>) and hairy vetch (<italic>Vicia villosa</italic>) mixture were grown and allowed to senescence and decomposition. Chemical fertilizers were applied in conventional field. Pre-crops in the organic field were sweet potato and leafy greens (lettuce, kale, swiss chard, collard, mustard green and amaranth) in 2016, and sweet potato and leafy greens (lettuce, kale, swiss chard and collard) in 2017. The chemical field was fallow for one growing season, before it was used for the current research. The soil texture was sandy loam with a pH of 6.5 in organic and 6.0 in the conventional field. The soil carbon, total nitrogen, C: N ratios were 1.64%, 0.16% and 10.21, respectively in the organic field and 1.75%, 0.17% and 10.05, respectively in the conventional field. The mean monthly temperatures within the growing season (February to May) ranged from 50.15 <inline-formula>
+                  <mml:math id="S4.SS1.p1.m3"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>F to 75.55 <inline-formula>
+                  <mml:math id="S4.SS1.p1.m4"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula> in 2018 and 42 <inline-formula>
+                  <mml:math id="S4.SS1.p1.m5"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>F to 67.50<inline-formula>
+                  <mml:math id="S4.SS1.p1.m6"
+                            alttext="{}^{\circ}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msup>
+                        <mml:mi/>
+                        <mml:mo>∘</mml:mo>
+                     </mml:msup>
+                  </mml:math>
+               </inline-formula>F in 2020. The total precipitation of the growing season was 6.68 inch and 4.39 inch in 2018 and 2020, respectively.</p>
+            <p>As one of the experimental factors, four leafy vegetables including collard (var. Champion), kale (var. Red Russian), lettuce (var. Coastal star) and swiss chard (var. Ford hook Giant) were used for this comparative study between organic and conventional management systems. Organic seeds and compost was purchased from High Mowing Organic Seeds (Vermont, USA) and Waypoint Analytical (Memphis, TN, USA), respectively for the organic production system. Seeds and chemical fertilizer for the conventional management system were purchased from Johnny Selected Seeds (Maine, USA). Seedlings were raised in a greenhouse in the spring 2018 and 2020 (February-March). Seeds of leafy vegetables were manually seeded on 11 March (2018) and on 4 February (2020) into 72-cell seedling trays (two seeds per cell) filled with an organic potting mix (Harvest organics, OMRI Listed). Seedlings were manually irrigated on alternative days to maintain the soil moisture.</p>
+            <p>Four leafy green vegetables were arranged in a completely randomized design in organic and conventional systems both in 2018 and 2020 and replicated three times. Therefore, treatments included crop (collard, kale, lettuce and swiss chard), production system (organic and conventional) and the year (2018 and 2020). Both organic and conventional fields were cultivated on 2 April (trial 2018) and 5 March (trial 2020) using a rotary tiller machine (John Deere, Franklin, TN, USA). Black plastic mulch (Hummert’s International, MO, USA) of 0.5 mm thickness was laid using a mulch layer tractor attachment on 8 April (trial 2018) and on 6 March (Trial 2020) along with drip tape for irrigation (Berry Hill Irrigation Inc., VA, USA). After laying the mulch, small holes were manually made for each plant at 1 feet distance. Each plot was 55 feet long by 5 feet wide and each plot was divided into four subplots along the length, one for each of the four vegetable crops. Ten plants of each crop were planted in each subplot of 10 feet long. Leafy greens were transplanted manually on 10 April (trial 2018) and on 10 March (trial 2020) into subplots. Plants were fertilized immediately after transplanting in conventional and during transplanting (mixed in the soil) in organic management system. The calculated amount of fertilizer was applied directly around the individual plant. The rate of the compost and chemical fertilizer was calculated and applied based on required nutrients to leafy greens, nutrient composition of compost and soil test report. Tested plants were applied with NPK fertilizer of 5 g/plant and compost 100 g/plant. The composition of compost applied in the organic system was 0.46% total nitrogen, 46.8% moisture, 7.93 pH, 1580 mg/kg total phosphorus and 4290 mg/kg total potassium. Chemical fertilizer has Nitrogen (N) Phosphorus(P) and Potassium (K) of 8:2:12, respectively. Plants were irrigated on alternative days for 15 minutes using a drip irrigation system. Weeding was done manually and mechanically. No pesticides were applied in organic and conventional trials. At the commercial stage of maturity, vegetables in each plot were harvested from both organic and conventional on 21 May (trial 2018) and on 5 May (trial 2020). Plant height (inch) was measured for all plants, leaf count of kale, collard and swiss chard was counted and fresh weight of plants (g/plant) was measured.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Statistical Analysis</title>
+            <p>A three-way analysis of variance (ANOVA) test was performed to examine the main and interactive effects of the year (2018 and 2020), production system (organic and conventional) and crop type (collard, kale, lettuce and swiss chard) on plant height, leaf number and total fresh weight using PROC GLM in SAS software 9.4 (SAS Inc., Cary, NC, USA). When the interactive effects were significant, means were separated using Fisher’s least significant difference (LSD) test at a significance level set at P <inline-formula>
+                  <mml:math id="S4.SS2.p1.m1"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05. When there are no three-way interactions but have lower-term interactions, means were pooled across them and presented by tables or figures.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <sec id="s3.1">
+            <title>3.1.- Plant Growth and Morphological Data</title>
+            <p>Results of ANOVA showed that there were significant interactive effects of year, production system and the crop type on plant height (P <inline-formula>
+                  <mml:math id="S5.SS1.p1.m1"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05; Table <xref ref-type="table" rid="Tab1">1</xref>). In both the years collard had a significantly higher plant height compared to other crops in organic production whereas kale had significantly higher plant height in 2018 and collard had higher plant height in 2020 in conventional production system (Table <xref ref-type="table" rid="Tab2">2</xref>). In both the years lettuce was the shortest in both the production systems.</p>
+            <p>There were significant interactive effects of year, production system and the crop type on leaf number (P <inline-formula>
+                  <mml:math id="S5.SS1.p2.m1"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05; Table <xref ref-type="table" rid="Tab1">1</xref>). In 2018, kale grown in the organic system had the highest number of leaves (27.38) compared to other leafy greens in both the systems (Table <xref ref-type="table" rid="Tab3">3</xref>). Collard and swiss chard had the same number of leaves in both production systems and in both years.</p>
+            <table-wrap id="Tab1" position="float" orientation="portrait">
+               <label>Table 1</label>
+               <caption>
+                  <title>P-values of the three-way ANOVA tests for the main and interactive effects of the year (2018 and 2020), production system (organic and conventional) and crop (collard, kale, lettuce, swiss chard) on fresh weight, plant height and leaf number. Significant treatment effects at P <inline-formula>
+                        <mml:math id="S5.T1.m2" alttext="\leq" display="inline" overflow="scroll">
+                           <mml:mo mathsize="142%" stretchy="false">≤</mml:mo>
+                        </mml:math>
+                     </inline-formula> 0.05 in bold letters.</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Factor</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Fresh weight (g/plant)</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Plant height (inch)</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Leaf number</italic>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Year (Y)
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m3"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.7456
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0068</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Production system (S)
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m4"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.7716
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.1148
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Crop (C)
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m5"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m6"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0004</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Y × C
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.5001
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0004</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0027</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Y × S
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.5596
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.3166
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0016</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                S × C
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m7"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0011</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0116</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Y × S × C
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                0.1598
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <bold>0.0017</bold>
+                        </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <inline-formula>
+                              <mml:math id="S5.T1.m8"
+                                        alttext="\bm{&lt;}"
+                                        class="ltx_align_left ltx_centering"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo mathvariant="bold">&lt;</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                           <bold>0.0001</bold>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1">
+                Note: leaf numbers were counted only for collard, kale and swiss chard.
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab2" position="float" orientation="portrait">
+               <label>Table 2</label>
+               <caption>
+                  <title>Mean (<inline-formula>
+                        <mml:math id="S5.T2.m2" alttext="\pm" display="inline" overflow="scroll">
+                           <mml:mo mathsize="142%" stretchy="false">±</mml:mo>
+                        </mml:math>
+                     </inline-formula>standard error) plant height of leafy greens (collard, kale, lettuce, swiss chard) grown in the year (2018 and 2020) in two production systems (organic and conventional).</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Year</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Production system</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Crop</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Plant height (inch)</italic>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2018
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Conventional
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                11.23
+                <inline-formula>
+                              <mml:math id="S5.T2.m3"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.61fgh
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                19.23
+                <inline-formula>
+                              <mml:math id="S5.T2.m4"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.21a
+                
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Lettuce
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                8.59
+                <inline-formula>
+                              <mml:math id="S5.T2.m5"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.21h
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.17
+                <inline-formula>
+                              <mml:math id="S5.T2.m6"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.63cdef
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Organic
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                17.12
+                <inline-formula>
+                              <mml:math id="S5.T2.m7"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.38ab
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.90
+                <inline-formula>
+                              <mml:math id="S5.T2.m8"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.16cde
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Lettuce
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                8.60
+                <inline-formula>
+                              <mml:math id="S5.T2.m9"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.51h
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                11.26
+                <inline-formula>
+                              <mml:math id="S5.T2.m10"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                2.04efg
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2020
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Conventional
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                14.23
+                <inline-formula>
+                              <mml:math id="S5.T2.m11"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.54cd
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12.46
+                <inline-formula>
+                              <mml:math id="S5.T2.m12"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.73defg
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Lettuce
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                10.19
+                <inline-formula>
+                              <mml:math id="S5.T2.m13"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.28gh
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                14.06
+                <inline-formula>
+                              <mml:math id="S5.T2.m14"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.04cd
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Organic
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                15.11
+                <inline-formula>
+                              <mml:math id="S5.T2.m15"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.56bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.36
+                <inline-formula>
+                              <mml:math id="S5.T2.m16"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.63cdef
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Lettuce
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                10.92
+                <inline-formula>
+                              <mml:math id="S5.T2.m17"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.07fgh
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.96
+                <inline-formula>
+                              <mml:math id="S5.T2.m18"
+                                        alttext="\pm"
+                                        class="ltx_align_left ltx_centering"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.19cd
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1">
+                Different lowercase letters in the column denote significant differences at
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1">
+                P 
+                <inline-formula>
+                              <mml:math id="S5.T2.m19"
+                                        alttext="\leq"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>≤</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                 0.05.
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <table-wrap id="Tab3" position="float" orientation="portrait">
+               <label>Table 3</label>
+               <caption>
+                  <title>Mean (<inline-formula>
+                        <mml:math id="S5.T3.m2" alttext="\pm" display="inline" overflow="scroll">
+                           <mml:mo mathsize="142%" stretchy="false">±</mml:mo>
+                        </mml:math>
+                     </inline-formula> standard error) leaf number of leafy greens (collard, kale, swiss chard) grown in the year (2018 and 2020) in two production systems (organic and conventional).</title>
+               </caption>
+               <table>
+                  <tbody>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Year</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Production system</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Crop</italic>
+                        </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                           <italic>Leafy number</italic>
+                        </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2018
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Conventional
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.14
+                <inline-formula>
+                              <mml:math id="S5.T3.m3"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.70bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12.43
+                <inline-formula>
+                              <mml:math id="S5.T3.m4"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.22bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                11.10
+                <inline-formula>
+                              <mml:math id="S5.T3.m5"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.05bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Organic
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9.29
+                <inline-formula>
+                              <mml:math id="S5.T3.m6"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.68c
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                27.38
+                <inline-formula>
+                              <mml:math id="S5.T3.m7"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                3.57a
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.95
+                <inline-formula>
+                              <mml:math id="S5.T3.m8"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.77b
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                2020
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Conventional
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                10.84
+                <inline-formula>
+                              <mml:math id="S5.T3.m9"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.63bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                14.28
+                <inline-formula>
+                              <mml:math id="S5.T3.m10"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                2.71b
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                13.17
+                <inline-formula>
+                              <mml:math id="S5.T3.m11"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.61bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Organic
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Collard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                12.67
+                <inline-formula>
+                              <mml:math id="S5.T3.m12"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                1.67bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Kale
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                10.50
+                <inline-formula>
+                              <mml:math id="S5.T3.m13"
+                                        alttext="\pm"
+                                        class="ltx_align_left"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.29bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                Swiss chard
+              </td>
+                        <td align="justify"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1"
+                            colspan="1">
+                
+                9.94
+                <inline-formula>
+                              <mml:math id="S5.T3.m14"
+                                        alttext="\pm"
+                                        class="ltx_align_left ltx_centering"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>±</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                0.31bc
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                            rowspan="1">
+                Different lowercase letters in the column denote significant differences at
+              </td>
+                     </tr>
+                     <tr>
+                        <td align="justify"
+                            colspan="4"
+                            style="padding: 0px 20px 10px 0px;"
+                            rowspan="1">
+                P 
+                <inline-formula>
+                              <mml:math id="S5.T3.m15"
+                                        alttext="\leq"
+                                        display="inline"
+                                        overflow="scroll">
+                                 <mml:mo>≤</mml:mo>
+                              </mml:math>
+                           </inline-formula>
+                 0.05.
+              </td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
+            <fig id="Fig1" position="float" orientation="portrait">
+               <label>
+                Figure 1</label>
+               <caption>
+                  <title>Mean ( ± standard error) of fresh weight of leafy greens (collard, kale, lettuce, swiss chard) grown under two
+                     production systems (organic and conventional) in two years (2018 and 2020).</title>
+               </caption>
+               <graphic xlink:href="Fig1.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+            <p>The interactive effects of year, production system and crop type on plant fresh weight were not significant (Table <xref ref-type="table" rid="Tab1">1</xref>). Plant fresh weight was significantly affected by the lower-term interaction of the production system and crop type (P <inline-formula>
+                  <mml:math id="S5.SS1.p4.m1"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05; Table <xref ref-type="table" rid="Tab1">1</xref>). Moreover, plant fresh weight was significantly different between two years (P <inline-formula>
+                  <mml:math id="S5.SS1.p4.m2"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05; Table <xref ref-type="table" rid="Tab1">1</xref>). The maximum fresh weight was obtained from the conventionally grown kale (475.57 g) and the lowest fresh weight was recorded for conventionally grown lettuce (189.30 g) (Figure <xref ref-type="fig" rid="Fig1">1</xref>). In organic production, lettuce fresh weight was significantly higher compared to collard but similar to other crops, while in conventional production, fresh weight of kale was significantly higher followed by collard, swiss chard and lettuce. Swiss chard and lettuce had similar production in the conventional system. So, in organic farming the crop with the highest market price is the best choice for growers. The fresh weight of kale and collard was significantly higher in the conventional production system, of 475.57 g and 344.08 g, respectively compared to fresh weight obtained for them from the organic system. Lettuce grown in an organic system produced significantly higher fresh weight (266.47 g) than the conventional (189.30 g). Moreover, there was no significant difference in the fresh weight between organic (221.98 g) and conventional (263.75 g) production systems for swiss chard. The maximum fresh weight was obtained in the year 2020 compared to 2018.</p>
+            <p>There were no interactive effects of year, system and crop, so means were pooled across the production system and crop. Different lowercase letters on the top of the bar denote significant differences at P <inline-formula>
+                  <mml:math id="S5.SS1.p5.m1"
+                            alttext="\leq"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>≤</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.05.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <p>Fresh weight of collard and kale was significantly higher in a conventionally managed field than the organic. Lettuce fresh weight was higher in the organic management field while there was no difference in fresh weight of swiss chard between organic and conventionally managed fields. Moreover, we received a significantly higher yield in the year 2020 than the year 2018. There were no differences in plant height and leaf number between two production systems. Leaf size than the leaf number and plant height was the contributing factor for higher fresh weight in the current study anticipated. Higher yield in current report in agreement with earlier reviews and meta-analyses in general that have confirmed lower crop yield in the organic management system [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>]. The yield difference might range from 5% (rain-fed legumes and perennials on weak acidic to weak-alkaline soils) to 34% lower yields (when the conventional and organic systems are most comparable) in the organic system [<xref ref-type="bibr" rid="R4">4</xref>].</p>
+         <p>Since the conventional production system relies on the use of synthetic fertilizers and pesticides, plants can immediately uptake nutrients from chemical fertilizers and pest control is much easier with the use of pesticides. As a result, plants can grow faster, and thus can result in a higher crop yield. This supports higher fresh weight of kale and collard in conventional than organic production in this study. In contrast, in organic system, nutrient management and pest control are the major challenges [<xref ref-type="bibr" rid="R7">7</xref>]. Since organic manures are the major source of plant nutrients in the organic management system, nutrients released from manures may not meet the nutrient requirement during the high-demanding stage of crop growth [<xref ref-type="bibr" rid="R13">13</xref>]. Moreover, manures added in organic production need to be mineralized from organic to inorganic forms of nitrogen before they are available to plants. The microbial decomposition and mineralization of soil organic matter is a slow process and also dependent on optimum soil temperature and moisture [<xref ref-type="bibr" rid="R14">14</xref>, <xref ref-type="bibr" rid="R15">15</xref>]. As the growing period of leafy greens is rather short, nutrients from compost might not be ready to be used by plants in that short time period and low N availability from compost was made evident for lower yield [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>]. As pesticides are restricted for use in organic production, higher yield gaps may also be associated with the crop losses in the organic management system caused by diseases, insects and weeds [<xref ref-type="bibr" rid="R4">4</xref>, <xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R18">18</xref>].</p>
+         <p>In contrast to the general trend, lettuce yield was significantly higher in the organic management system than the conventional and there was no difference in yield between organic and conventional production of swiss chard. Although the exact mechanism behind this response is lacking, it is possible that the nutrients released from compost are enough to gain the full potential yield of lettuce and swiss chard. A 10-year field experiment reported that crop yield response was very low in the beginning of compost application and yield increased slightly with the duration of the experiment [<xref ref-type="bibr" rid="R19">19</xref>]. Furthermore, we speculate that the nutrient demand for kale and collard is higher as they are heavy nutrient feeders and require large amounts of fertilizers whereas lettuce and swiss chard are medium to light feeder and thus the required nutrients might have been acquired from compost [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. The nutrient availability of organic fertilizer is less initially, which limits the early growth of leafy vegetables, but if leaf picking time is extended, the growth and yield can be similar or higher than conventional system [<xref ref-type="bibr" rid="R22">22</xref>].</p>
+         <p>Organic system can nearly match conventional yields under certain conditions, that is, with good management practices, particular crop types and growing conditions. If compost is analyzed prior to use and provided with approximately the same amount of essential nutrients from compost as from inorganic fertilizers, the yield gap can be lower [<xref ref-type="bibr" rid="R23">23</xref>]. As such, growers can compensate for the little yield gap from cheaper inputs, higher and more stable prices and risk diversification [<xref ref-type="bibr" rid="R24">24</xref>]. Organic farmers rely on animal manures and compost and practice crop rotation, adjust the timing of planting and harvesting, the use of cover crops and natural pest control can reduce the risk in the longer term [<xref ref-type="bibr" rid="R25">25</xref>]. Alternatively, organic liquid fertilizers that have been developed by different manufacturers can be incorporated as an important nutrient source for short-duration crops like leafy greens. The homogeneity and the even distribution can be achieved when liquid fertilizers are applied to the soil and are easier to transport, handle and apply compared to solid fertilizers [<xref ref-type="bibr" rid="R26">26</xref>]. Some liquid fertilizers are evaluated during the growing season which are top-dressed and reported increased organic matter content, microorganism populations in the soil and stable soil pH [<xref ref-type="bibr" rid="R27">27</xref>]. Liquid fertilizer is a prerequisite to ensure optimal nutrient supply for growing crops and on the other hand to avoid environmental problems caused by over fertilization [<xref ref-type="bibr" rid="R28">28</xref>].</p>
+         <p>We observed a higher crop yield in 2020 than in 2018. We transplanted seedlings of leafy greens into the main field one month earlier in the year 2020 than the year 2018. Plant growth was better when planted one month earlier in 2020 likely due to the suitable temperature and lower pest attack. When crops were transplanted in April 2018, the temperature during the active crop growing period was higher than the optimum temperature requirement, thus the condition resulted in poor crop growth. Plants stressed with temperature and probably with soil moisture are at great risk of pest attack. These might be the reasons for higher crop yield in 2020 compared to 2018.</p>
+         <p>Nutrients and pest management are challenging in the organic system and also the difficulties in getting sufficient organic certified seeds, fertilizers and compost in bulk amount. Government incentive programs on organic agriculture farming and certification would help to increase area and production. Although organic agriculture is considered an environmentally friendly and sustainable alternative, there is also an argument that it would increase greenhouse gas emissions from the related land use changes [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R30">30</xref>]. This is especially because organic agriculture requires higher land to get the same amount of production as conventional system. Likewise, organic farmers often lay down sheets of black plastic mulch over the soil to control pests and weeds, covering huge areas of land with single-use plastic would create an enormous amount of waste material in the soil. Therefore, while adopting organic agriculture, it is important to properly manage the negative impacts that might arise on the environment and human health.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusions</title>
+         <p>Lettuce fresh weight was higher in the organic management system and collard and kale yield was higher in the conventional production system. There was no difference in fresh weight of swiss chard between organic and conventional systems. Lettuce and swiss chard may be preferred leafy greens for organic production system though market price may have influence on the choice. Kale and collard performed well in conventional production system.</p>
+      </sec>
+      <sec id="s8">
+         <title>Acknowledgements</title>
+         <p>This study was supported by the Tennessee State University (TSU) Cooperative System to DN. Authors thank the research program team and farm manager for the field assistance provided.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/0304-3746(83)90003-3</pub-id>
+               <year>1983</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>8</volume>
+               <issue>3-4</issue>
+               <fpage>183</fpage>
+               <lpage>201</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Parr</surname>
+                     <given-names>J.F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Papendick</surname>
+                     <given-names>R.I.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Youngberg</surname>
+                     <given-names>I.G.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Organic Farming in the United States: Principles and Perspectives</article-title>
+               <source>Agro-Ecosystems</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1300/j064v21n04\_06</pub-id>
+               <year>2003</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>21</volume>
+               <issue>4</issue>
+               <fpage>59</fpage>
+               <lpage>128</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lotter</surname>
+                     <given-names>Donald W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Organic Agriculture</article-title>
+               <source>Journal of Sustainable Agriculture</source>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.21608/ejar.2021.68612.1096</pub-id>
+               <year>2021</year>
+               <publisher-name>Egypts Presidential Specialized Council for Education and Scientific Research</publisher-name>
+               <volume>99</volume>
+               <issue>2</issue>
+               <fpage>136</fpage>
+               <lpage>141</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sareban</surname>
+                     <given-names>Hadi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Madani</surname>
+                     <given-names>Ahad</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vazin</surname>
+                     <given-names>Farshid</given-names>
+                  </name>
+               </person-group>
+               <article-title>Encourage Farmers to Adopt Sustainable Water and Nutrient Management in Arid Agroecosystems: Problems, Solutions and Future Studies</article-title>
+               <source>Egyptian Journal of Agricultural Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/nature11069</pub-id>
+               <year>2012</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>485</volume>
+               <issue>7397</issue>
+               <fpage>229</fpage>
+               <lpage>232</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seufert</surname>
+                     <given-names>Verena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramankutty</surname>
+                     <given-names>Navin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Foley</surname>
+                     <given-names>Jonathan A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Comparing the Yields of Organic and Conventional Agriculture</article-title>
+               <source>Nature</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.agsy.2011.12.004</pub-id>
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>108</volume>
+               <fpage>1</fpage>
+               <lpage>9</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>de Ponti, Tomek</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rijk</surname>
+                     <given-names>Bert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Ittersum, Martin K.</surname>
+                  </name>
+               </person-group>
+               <article-title>The Crop Yield Gap between Organic and Conventional Agriculture</article-title>
+               <source>Agricultural Systems</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1098/rspb.2014.1396</pub-id>
+               <year>2015</year>
+               <publisher-name>The Royal Society</publisher-name>
+               <volume>282</volume>
+               <issue>1799</issue>
+               <fpage>20141396</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ponisio</surname>
+                     <given-names>Lauren C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>M'Gonigle, Leithen K.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mace</surname>
+                     <given-names>Kevi C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Palomino</surname>
+                     <given-names>Jenny</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Valpine, Perry</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kremen</surname>
+                     <given-names>Claire</given-names>
+                  </name>
+               </person-group>
+               <article-title>Diversification Practices Reduce Organic to Conventional Yield Gap</article-title>
+               <source>Proceedings of the Royal Society B: Biological Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0161673</pub-id>
+               <year>2016</year>
+               <publisher-name>Public Library of Science (PLoS)</publisher-name>
+               <volume>11</volume>
+               <issue>8</issue>
+               <fpage>0161673</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kniss</surname>
+                     <given-names>Andrew R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Savage</surname>
+                     <given-names>Steven D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jabbour</surname>
+                     <given-names>Randa</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Shrestha</surname>
+                     <given-names>Anil</given-names>
+                  </name>
+               </person-group>
+               <article-title>Commercial Crop Yields Reveal Strengths and Weaknesses for Organic Agriculture in the United States</article-title>
+               <source>PLOS ONE</source>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s13165-020-00298-z</pub-id>
+               <year>2020</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>10</volume>
+               <issue>S1</issue>
+               <fpage>27</fpage>
+               <lpage>33</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dhakal</surname>
+                     <given-names>Kripa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nandwani</surname>
+                     <given-names>Dilip</given-names>
+                  </name>
+               </person-group>
+               <article-title>Evaluation of Row Covers for Yield Performance of the Leafy Green Vegetables in Organic Management System</article-title>
+               <source>Organic Agriculture</source>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1017/s0029665114001438</pub-id>
+               <year>2014</year>
+               <publisher-name>Cambridge University Press (CUP)</publisher-name>
+               <volume>74</volume>
+               <issue>1</issue>
+               <fpage>83</fpage>
+               <lpage>88</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Niggli</surname>
+                     <given-names>Urs</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainability of Organic Food Production: Challenges and Innovations</article-title>
+               <source>Proceedings of the Nutrition Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nass.usda.gov/Publications/AgCensus/2017/Online\_Resources/Organics/ORGANICS.pdf"
+                         xlink:type="simple">https://www.nass.usda.gov/Publications/AgCensus/2017/Online\_Resources/Organics/ORGANICS.pdf</ext-link>
+               <publisher-name>United States Department of Agriculture, National Agricultural Statistics Service (NASS)</publisher-name>
+               <article-title>2017 Census of Agriculture. 2019 Organic Survey</article-title>
+               <volume>3</volume>
+               <year>2019</year>
+               <publisher-loc>Washington D.C., US</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1081/pln-200026431</pub-id>
+               <year>2005</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>27</volume>
+               <issue>10</issue>
+               <fpage>1813</fpage>
+               <lpage>1826</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kopsell</surname>
+                     <given-names>David E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kopsell</surname>
+                     <given-names>Dean A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lefsrud</surname>
+                     <given-names>Mark G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Curran-Celentano, Joanne</surname>
+                  </name>
+               </person-group>
+               <article-title>Variability in Elemental Accumulations Among Leafy \textitBrassica oleracea Cultivars and Selections</article-title>
+               <source>Journal of Plant Nutrition</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/s41598-019-46847-9</pub-id>
+               <year>2019</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>9</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Thavarajah</surname>
+                     <given-names>Dil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Siva</surname>
+                     <given-names>Niroshan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>Nathan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McGee</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thavarajah</surname>
+                     <given-names>Pushparajah</given-names>
+                  </name>
+               </person-group>
+               <article-title>Effect of Cover Crops on the Yield and Nutrient Concentration of Organic Kale (\textitBrassica oleracea L. var. acephala)</article-title>
+               <source>Scientific Reports</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1146/annurev-resource-100517-023252</pub-id>
+               <year>2018</year>
+               <publisher-name>Annual Reviews</publisher-name>
+               <volume>10</volume>
+               <issue>1</issue>
+               <fpage>39</fpage>
+               <lpage>63</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meemken</surname>
+                     <given-names>Eva-Marie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Qaim</surname>
+                     <given-names>Matin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Organic Agriculture, Food Security, and the Environment</article-title>
+               <source>Annual Review of Resource Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.15406/apar.2018.08.00288</pub-id>
+               <year>2018</year>
+               <publisher-name>MedCrave Group, LLC</publisher-name>
+               <volume>8</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Onwuka</surname>
+                     <given-names>Brown Mang</given-names>
+                  </name>
+               </person-group>
+               <article-title>Effects of Soil Temperature on Some Soil Properties and Plant Growth</article-title>
+               <source>Advances in Plants &amp; Agriculture Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.3390/agronomy10121951</pub-id>
+               <year>2020</year>
+               <publisher-name>MDPI AG</publisher-name>
+               <volume>10</volume>
+               <issue>12</issue>
+               <fpage>1951</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Grzyb</surname>
+                     <given-names>Aleksandra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wolna-Maruwka, Agnieszka</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Niewiadomska</surname>
+                     <given-names>Alicja</given-names>
+                  </name>
+               </person-group>
+               <article-title>Environmental Factors Affecting the Mineralization of Crop Residues</article-title>
+               <source>Agronomy</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Jen-Hshuan</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>The Combined Use of Chemical and Organic Fertilizers and/or Biofertilizer for Crop Growth and Soil Fertility</article-title>
+               <volume>16</volume>
+               <issue>20</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.fftc.org.tw/htmlarea\_file/activities/20110719102200/7.pdf"
+                         xlink:type="simple">https://www.fftc.org.tw/htmlarea\_file/activities/20110719102200/7.pdf</ext-link>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.eja.2012.09.003</pub-id>
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>45</volume>
+               <fpage>114</fpage>
+               <lpage>123</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alluvione</surname>
+                     <given-names>Francesco</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fiorentino</surname>
+                     <given-names>Nunzio</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bertora</surname>
+                     <given-names>Chiara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zavattaro</surname>
+                     <given-names>Laura</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fagnano</surname>
+                     <given-names>Massimo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Quaglietta-Chiarand\`a</surname>
+                  </name>
+               </person-group>
+               <article-title>Short-term Crop and Soil Response to C-Friendly Strategies in Two Contrasting Environments</article-title>
+               <source>European Journal of Agronomy</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Polat</surname>
+                     <given-names>Ersin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Demir</surname>
+                     <given-names>Halil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Onus</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Comparison of Some Yield and Quality Criteria in Organically and Conventionally-grown Lettuce</article-title>
+               <volume>7</volume>
+               <issue>9</issue>
+               <source>African Journal of Biotechnology</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.eja.2005.01.002</pub-id>
+               <year>2005</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>23</volume>
+               <issue>3</issue>
+               <fpage>305</fpage>
+               <lpage>314</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Erhart</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hartl</surname>
+                     <given-names>W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Putz</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Biowaste Compost Affects Yield, Nitrogen Supply During the Vegetation Period and Crop Quality of Agricultural Crops</article-title>
+               <source>European Journal of Agronomy</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-name>Virginia Polytechnic Institute and State University</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pubs.ext.vt.edu/content/dam/pubs\_ext\_vt\_edu/426/426-408/SPES-253.pdf"
+                         xlink:type="simple">https://www.pubs.ext.vt.edu/content/dam/pubs\_ext\_vt\_edu/426/426-408/SPES-253.pdf</ext-link>
+               <article-title>Leafy Green Vegetables</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Relf</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McDaniel</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Virginia, USA</publisher-loc>
+               <year>2009</year>
+               <annotation>
+                  <p>VT/0920/426-408(SPES-253P)</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Vegetable Production</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nonnecke</surname>
+                     <given-names>I.L.</given-names>
+                  </name>
+               </person-group>
+               <isbn>9780442267216</isbn>
+               <year>1989</year>
+               <publisher-name>Springer US</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.17660/actahortic.2003.627.2</pub-id>
+               <year>2003</year>
+               <publisher-name>International Society for Horticultural Science (ISHS)</publisher-name>
+               <issue>627</issue>
+               <fpage>25</fpage>
+               <lpage>33</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Xu</surname>
+                     <given-names>H.L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wang</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Xu</surname>
+                     <given-names>R.Y.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mridha</surname>
+                     <given-names>M.A.U.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goyal</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Yield and Quality of Leafy Vegetables Grown with Organic Fertilizations</article-title>
+               <source>Acta Horticulturae</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Warman</surname>
+                     <given-names>Phil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Havard</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Yield, Vitamin and Mineral Content of Four Vegetables Grown with Either Composted Manure or Conventional Fertilizer</article-title>
+               <volume>2</volume>
+               <source>Journal of Vegetable Crop Production</source>
+               <pub-id pub-id-type="doi">10.1300/J068v02n01\_03</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Organic Agriculture, Environment and Food Security</article-title>
+               <publisher-name>Food and Agriculture Organization of the United Nations</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Scialabba</surname>
+                     <given-names>N</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hattam</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1079/rafs200482</pub-id>
+               <year>2004</year>
+               <publisher-name>CABI Publishing</publisher-name>
+               <volume>19</volume>
+               <issue>4</issue>
+               <fpage>218</fpage>
+               <lpage>227</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hanson</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dismukes</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chambers</surname>
+                     <given-names>William</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Greene</surname>
+                     <given-names>Catherine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kremen</surname>
+                     <given-names>Amy</given-names>
+                  </name>
+               </person-group>
+               <article-title>Risk and Risk Management in Organic Agriculture: Views of Organic Farmers</article-title>
+               <source>Renewable Agriculture and Food Systems</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-94-010-1009-2</pub-id>
+               <year>2001</year>
+               <publisher-name>Springer Netherlands</publisher-name>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Mengel</surname>
+                     <given-names>Konrad and Kirkby, Ernest A. and Kosegarten, Harald and Appel, Thomas</given-names>
+                  </name>
+               </person-group>
+               <article-title>Principles of Plant Nutrition</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.scienta.2010.01.004</pub-id>
+               <year>2010</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>124</volume>
+               <issue>3</issue>
+               <fpage>299</fpage>
+               <lpage>305</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>Jongtae</given-names>
+                  </name>
+               </person-group>
+               <article-title>Effect of Application Methods of Organic Fertilizer on Growth, Soil Chemical Properties and Microbial Densities in Organic Bulb Onion Production</article-title>
+               <source>Scientia Horticulturae</source>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.3390/agronomy12020514</pub-id>
+               <year>2022</year>
+               <publisher-name>MDPI AG</publisher-name>
+               <volume>12</volume>
+               <issue>2</issue>
+               <fpage>514</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Horf</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vogel</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Drücker</surname>
+                     <given-names>Harm</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gebbers</surname>
+                     <given-names>Robin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olfs</surname>
+                     <given-names>Hans-Werner</given-names>
+                  </name>
+               </person-group>
+               <article-title>Optical Spectrometry to Determine Nutrient Concentrations and other Physicochemical Parameters in Liquid Organic Manures: A Review</article-title>
+               <source>Agronomy</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/s41467-019-12622-7</pub-id>
+               <year>2019</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>10</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smith</surname>
+                     <given-names>Laurence G.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kirk</surname>
+                     <given-names>Guy J. D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jones</surname>
+                     <given-names>Philip J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Adrian G.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Greenhouse Gas Impacts of Converting Food Production in England and Wales to Organic Methods</article-title>
+               <source>Nature Communications</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1126/sciadv.1602638</pub-id>
+               <year>2017</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>3</volume>
+               <issue>3</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seufert</surname>
+                     <given-names>Verena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramankutty</surname>
+                     <given-names>Navin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Many Shades of Gray-The Context-Dependent Performance of Organic Agriculture</article-title>
+               <source>Science Advances</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
