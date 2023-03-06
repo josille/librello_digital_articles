@@ -1,0 +1,1611 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">johs</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Journal of Human Security</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">1835-3800</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/johs2023.19010001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Review</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>A Flying Reign of Terror? The Who, Where, When, What, and How of Non-state Actors and Armed Drones</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Haugstvedt</surname>
+                  <given-names>Håvard</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>C-REX Center for research on extremism, University of Oslo, Oslo, Norway</aff>
+         <pub-date pub-type="ppub">
+            <day>17</day>
+            <month>02</month>
+            <year>2023</year>
+         </pub-date>
+         <volume>19</volume>
+         <issue>1</issue>
+         <fpage>1</fpage>
+         <lpage>7</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Over the last five years, violent non-state actors have acquired armed unmanned aerial vehicles (UAVs) and have been using them extensively. This paper presents the main non-state actors involved and the areas in which they have used this tool, as well as how UAVs are used and procured. To date, armed UAVs have mainly been used by non-state actors in the Middle East and Central Asia. They have also been used in the conflict zones of Ukraine, Myanmar, Mexico, and Ecuador. While this is worrisome, limited evidence suggests that violent non-state actors use armed UAVs intentionally in areas where mostly civilians are present. The paper details the state of UAV usage by non-state actors and develops a thesis of cyclic adaptation between state and non-state actors. Not only do non-state actors learn from state actors, so does state and state-backed actors learn from non-state actors in conflict zones.  This process have been visible on the battlefield in Ukraine, where state-backed actors on both sides have incorporated smaller consumer style UAVs into their repertoire. As the use of armed UAVs developed substantially following Hezbollah’s early UAV operations in 2004 and spread to many regions of the world, the adaptation of non-state cleverness and ingenuity can be harnessed by state actors in times of poor or limited access to weaponry and support systems.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>actors</kwd>
+            <kwd>drones</kwd>
+            <kwd>militants</kwd>
+            <kwd>non-state</kwd>
+            <kwd>UAVs</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Nation-states have air superiority over their non-state counterparts, within and outside conflict areas. While the difference between the first’s and latter’s air capabilities remains substantial, during the last decade, non-state actors have taken advantage of the increased availability of consumer-style drones to take some of their fight to the skies. Armed unmanned aerial vehicles (UAVs) in the hands of state actors have long been debated, and there are concerns regarding legal issues, technological constraints, and operational efficiency [<xref ref-type="bibr" rid="R1">1</xref>]. Now, in the hands of non-state actors, armed UAVs have forced security forces to also keep a keen eye on the skies while fighting on the ground.</p>
+         <p>Access to UAVs has raised the concerns of national security professionals about terrorist attacks in Western countries and outside of conflict zones [<xref ref-type="bibr" rid="R2">2</xref>, <xref ref-type="bibr" rid="R3">3</xref>] and those of intelligence services and security forces [<xref ref-type="bibr" rid="R4">4</xref>]. One such concern is a number of or, even worse, a swarm of armed UAVs approaching a civilian-populated area, targeting them. A swarm of UAVs, as opposed to merely multiple UAVs, is defined by their ability to communicate and coordinate their positions and actions to accomplish a shared goal [<xref ref-type="bibr" rid="R5">5</xref>]. To date, no non-state actor has used a UAV swarm to attack civilian or military targets. However, a Russian base in Syria was attacked on several occasions by multiple armed UAVs. In one incident, up to 13 armed UAVs engaged the Russian base [<xref ref-type="bibr" rid="R6">6</xref>]. Importantly, no evidence of communication and coordination between the UAVs was found.</p>
+         <p>Another critical scenario is if those UAVs have autonomous capabilities. In the near-future short movie ‘‘Slaughterbots,’’ terrifying scenes showed how flying robots autonomously select and engage human targets. The movie made the headlines in 2017 and later again in 2021. However, those following the UAV and lethal autonomous weapons system (LAWS) field were closely aware that something similar had already happened in real life. A UN report from 2021 describes an incident from March 2020 in Libya, where a Kargu loitering munition UAV apparently identified and engaged a target on its own. If the news is factual, this is the first publicly known incident where aerial LAWS acted on its own and inflicted potentially lethal violence upon humans [<xref ref-type="bibr" rid="R7">7</xref>].</p>
+         <p>The question arises: What if that autonomous UAV was launched by a non-state actor, such as a militant or terrorist group, toward a crowded area with civilians gathered? It is a terrifying thought with a possibly horrific outcome in terms of human loss. This then begs the question: How likely are these scenarios, especially the ones describing mass attacks against civilians? The future is unknown, and no crystal ball has been invented to foresee it yet. Therefore, our best chance of predicting future developments is by looking at what we already know under the current circumstances and applying that knowledge to future scenarios. So, what do we know about non-state actors and armed UAVs? Who has used them in what region of the world and when and against what kinds of targets? Furthermore, how have non-state actors procured armed UAVs?</p>
+         <p>Past research has focused, among other things, on the technological development of UAVs by violent non-state actors [<xref ref-type="bibr" rid="R8">8</xref>, <xref ref-type="bibr" rid="R9">9</xref>], tactical use and human harm [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R12">12</xref>], UAVs as a means to communicate and present violent non-state actors as sovereign legitimate actors [<xref ref-type="bibr" rid="R13">13</xref>], and on the proliferation of UAVs [<xref ref-type="bibr" rid="R14">14</xref>]. However, none of these covered or aimed to cover, more broadly, the field of violent non-state actors and armed UAVs. Using prior case studies, scholarly writing, and reports, this article seeks to summarize and present what we know now (as of late-2022). This research is relevant for both civilian governments in or close to areas where non-state actors have used armed UAVs to help them plan and maintain contingency plans and security policies and prepare themselves and their citizens for the possibility of a violent non-state actor’s UAV attack. The research is also relevant for intelligence and security services, as it maps out relevant actors and their historical capabilities in taking their fights to the skies.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Methodology</title>
+         <p>This article relies on a snowball procedure to identify relevant sources, both academic and gray literature, as proposed by Wohlin [<xref ref-type="bibr" rid="R15">15</xref>]. This approach has, in contrast to a traditional systematic or scoping review, its point of departure in several publications on the current topic and not keyword searches in academic databases. The reason for having a broader, yet less systematic, approach is to capture the wide range of publications from among other NGOs and high-quality journalism often left out of rigorous systematic reviews. It also transparently utilizes important publications and their references. Moreover, while the database searching systematic review approach with its published research protocols and search strings is highly valued as a means to synthesize extant research [<xref ref-type="bibr" rid="R16">16</xref>], few studies have addressed the reliability of systematic literature studies [<xref ref-type="bibr" rid="R15">15</xref>]. Peer-reviewed academic work is also, in this study, considered a main target for snowball searching. However, leaving out reports and publications from research institutions, NGOs, and high-quality journalism will leave the study with a less up-to-date overview of the UAV field. Inclusion criteria, relating to both academic and non-academic publications, are that the publication provides either detail, general insights, or analysis on general non-state actors and UAVs, specific non-state actors, or geographical regions or issues related to violent non-state actors and UAVs. The publications used as starting points in this process are presented in Table <xref ref-type="table" rid="Tab1">1</xref> below.</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Initial publications.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Author(s)</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Title</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Publication and date</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Bunker 
+              [<xref ref-type="bibr" rid="R8">8</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Terrorist and insurgent unmanned aerial vehicles: Use, potentials, and military applications.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Strategic Studies Institute; 2015
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Kallenborn &amp; Bleek 
+              [<xref ref-type="bibr" rid="R5">5</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Swarming destruction: Drone swarms and chemical, biological, radiological, and nuclear weapons.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Nonproliferation Review. 2018 Sep 2;25(5–6):523–43.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Rassler 
+              [<xref ref-type="bibr" rid="R17">17</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              The Islamic State and drones. Supply, scale and future threats.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              New York: Combating Terrorism Center at West Point. United States Military Academy; 2018.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Archambault &amp; Veilleux-Lepage 
+              [<xref ref-type="bibr" rid="R13">13</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Drone imagery in Islamic State propaganda: flying like a state.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              International Affairs. 2020 Mar 30;1-19.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Haugstvedt &amp; Jacobsen 
+              [<xref ref-type="bibr" rid="R10">10</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Taking fourth-generation warfare to the skies? An empirical exploration of non-state actors’ use of weaponised unmanned aerial vehicles (UAVs – ‘drones’).
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Perspectives on Terrorism. 2020;14(5):26–40.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Doctor &amp; Walsh 
+              [<xref ref-type="bibr" rid="R11">11</xref>]
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              The coercive logic of militant drone use.
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;padding: 0px 20px 10px 0px;"
+                         rowspan="1"
+                         colspan="1">
+              
+              Parameters. 2021 May 18;51(2).
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <p>The snowballing search for literature departs from these publications and produce, either via direct reference or through yet another publication, several relevant scholarly/grey literature and other relevant sources. This process involves both forward and backward snowballing, indicating that papers cited by the selected publications and papers citing the selected publications are explored for relevance. Moreover, the study will include news reports on incidents where necessary, as these are rarely directly cited in academic work.</p>
+         <p>This research relies solely on sources in the English language, thereby leaving out potential sources in other languages. This limitation has implications for the breadth of sources, potentially skewing the focus toward a Western-centric approach. Furthermore, the research has a state-centric position, which is in line with traditional terrorism and conflict studies traditions. Such a research position often revolves around understanding a potential threat from violent non-state actors, the consequences of terror attacks, and how nation-states can prepare and respond to such threats [<xref ref-type="bibr" rid="R18">18</xref>]. While there is increased concern from critical terrorism scholars that this position may fail to recognize the potentially normative and state problem-solving consequences of its position and methodologies [<xref ref-type="bibr" rid="R19">19</xref>], such criticism can be found within more traditionally oriented terrorism scholars as well [<xref ref-type="bibr" rid="R20">20</xref>]. The state-centric position, as well as the language, timeframe, and type of publications, should be recognized by those reading this paper.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Results</title>
+         <p>Including the six publications used as starting points, a total of 21 publications were identified in the first step of data collection, either directly in the references section of the selected starting publications or through secondary reference sections. Furthermore, 20 publications reporting on actual UAV attacks from different regions of the world, as well as several from the author’s own extensive collection of such sources, are included in the base of this article.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Who?</title>
+         <p>UAVs, both armed and unarmed, have been a part of Hezbollah’s and Hamas’ repertoire for over 15 years [<xref ref-type="bibr" rid="R21">21</xref>]. Supplied or otherwise supported by Iran, these two non-state actors pioneered what we in recent years have seen in Iraq, Syria, Yemen, Saudi Arabia, and Afghanistan. In Iraq and Syria, both the so-called Islamic State of Iraq and al-Sham (ISIS) and Hayat Tahrir al-Sham (HTS) have inflicted attacks on local government and US-led forces using locally developed UAVs as well as modified quadcopter UAVs with grenade dropping capabilities [<xref ref-type="bibr" rid="R22">22</xref>, <xref ref-type="bibr" rid="R23">23</xref>]. In Yemen and Saudi Arabia, the Houthis are fighting both Yemen’s legitimate government and a Saudi-led coalition backing them using a vast repertoire of missiles and armed UAVs [<xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>].</p>
+         <p>The Taliban has, like many other non-state actors, used unarmed UAVs to conduct surveillance of security forces for at least six years [<xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>]. However, Taliban forces in 2020, while still fighting Afghan security forces and international forces, did drop grenades or mortar shells from quadcopter-style UAVs on some occasions [<xref ref-type="bibr" rid="R28">28</xref>]. These attacks resemble how ISIS used armed UAVs in Iraq and Syria in 2016 and 2017. The Kurdistan Workers’ Party (PKK) has used armed drones against Turkish forces in a similar manner [<xref ref-type="bibr" rid="R29">29</xref>], and later, the same has been observed by researchers following anti-government forces against Myanmar’s military [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Where?</title>
+         <p>The examples above are by far gathered mostly from the Middle East (Iraq, Syria, and Yemen) and Central Asia (Afghanistan). Armed non-state actors in the Sahel and East Africa have also used UAVs for reconnaissance and media purposes, much like similar groups in the areas mentioned above. However, UAV attacks conducted by non-state actors in the Sahel and East Africa are yet to happen according to open sources [<xref ref-type="bibr" rid="R31">31</xref>]. In addition to these areas and Myanmar, armed UAVs have, to a lesser extent, been used in other regions by non-state actors. In South and North America, armed UAVs have been used by criminal cartels in Mexico to attack police forces [<xref ref-type="bibr" rid="R32">32</xref>], an Ecuadorian prison [<xref ref-type="bibr" rid="R33">33</xref>], and President Maduro of Venezuela [<xref ref-type="bibr" rid="R34">34</xref>]. Moreover, a UAV fitted with a copper wire was apparently used to target a US power station in Pennsylvania [<xref ref-type="bibr" rid="R35">35</xref>]. Armed UAVs have also been used by non-state actors on both sides of the conflict in Ukraine, whereby armed groups loyal to Ukraine for several years have engaged pro-Russian militants [<xref ref-type="bibr" rid="R36">36</xref>].</p>
+      </sec>
+      <sec id="s6">
+         <title>6.- What?</title>
+         <p>There are two main types of UAVs used by both state and non-state actors: the fixed wing UAV with a vertically positioned rotor and the quadcopter-type UAV with four or more rotors positioned horizontally [<xref ref-type="bibr" rid="R37">37</xref>]. The Houthis in Yemen present a good example of dual use, depending on the range to target. When the Houthis engage targets inside Saudi Arabia, they appear to mostly use fixed-wing UAVs with explosives that either detonate on targets or close to them. In combat against government-supported forces in Yemen, examples of both fixed-wing UAVs and quadcopter-style UAVs have been found [<xref ref-type="bibr" rid="R38">38</xref>]. This is similar to how ISIS used armed UAVs in 2016 and 2017, by dropping explosives or placing explosives in rigged UAVs on the ground [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R39">39</xref>, <xref ref-type="bibr" rid="R40">40</xref>]. The quadcopter-style UAV is also used by groups fighting government forces in Myanmar, by the Taliban in 2020, by PKK fighting Turkish forces, and by criminal cartels in Mexico and Ecuador, as well as by pro-Russian militia in eastern Ukraine. While the fixed-wing UAV in general has a greater range, the quadcopter UAV possesses the characteristic advantage of being able to hover over a designated target area [<xref ref-type="bibr" rid="R41">41</xref>] before dropping grenades or other explosives on its below target.</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- When?</title>
+         <p>In terms of when non-state actors have used armed UAVs, with a few exemptions, most incidents have occurred from 2016 until the end of 2021. Prior to that, Hezbollah was recorded to use them with a few flights into Israel in 2004 [<xref ref-type="bibr" rid="R42">42</xref>] and attacks in 2006 and 2014 [<xref ref-type="bibr" rid="R31">31</xref>]. ISIS developed and used its armed UAV program extensively in 2016 and 2017. As seen above, ISIS’s creative use of consumer quadcopters modified to drop grenades may have inspired the Mexican cartels, Taliban, PKK, and anti-government forces in Myanmar to do the same in the following years. Needless to say, UAVs have become more easily available, less expensive, and more well-known to the public than they were at the onset of Hezbollah’s development of UAVs over 15 years ago.</p>
+      </sec>
+      <sec id="s8">
+         <title>8.- How?</title>
+         <p>The question of how is divided into two sections: one about how non-state actors use armed UAVs, such as target selection, and the second about how they procure UAVs to the extent that it is known.</p>
+         <sec id="s8.1">
+            <title>8.1.- How Armed UAVs are Used by Non-state Actors</title>
+            <p>Armed UAVs have the potential to overwhelm a civilian area, inflict distress, and cause severe injuries [<xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>]. However, research on non-state actors shows that they do not select targets randomly and tend to focus on hard targets, such as armed forces or security forces, rather than soft targets where unprepared civilians are present. They also do not cause mass casualties or mass injuries [<xref ref-type="bibr" rid="R10">10</xref>], and in a comparison with US UAV attacks, non-state actors’ UAV attacks were found to be less lethal than US UAV attacks, but they caused slightly greater injuries to civilians [<xref ref-type="bibr" rid="R12">12</xref>]. This finding should however be revised following investigative journalism by the New York Times, which uncovered thousands of civilian deaths from US drone strikes compared to what was formerly known [<xref ref-type="bibr" rid="R45">45</xref>]. Two separate studies have also examined the extent to which non-state actors use armed UAVs as a tool to conduct strategic bombing according to available data. Both studies failed to find evidence to support this. Rather, non-state actors use armed UAVs tactically against armed forces [<xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>] and for theatrical and media purposes [<xref ref-type="bibr" rid="R11">11</xref>, <xref ref-type="bibr" rid="R13">13</xref>]. However, some important exceptions to these patterns are well known, such as the Houthi attacks on Saudi airports [<xref ref-type="bibr" rid="R46">46</xref>]. Other examples are the UAV attacks against Iraqi Prime Minister al-Kadhimi in late 2021 [<xref ref-type="bibr" rid="R47">47</xref>] or Venezuelan President Maduro in 2018 [<xref ref-type="bibr" rid="R34">34</xref>].</p>
+         </sec>
+         <sec id="s8.2">
+            <title>8.2.- Procurement of UAVs</title>
+            <p>Non-state actors procure armed UAVs in different ways. In the case of Hezbollah, which was responsible for pioneering this tool for non-state actors, evidence suggests that support was provided by Iran, as both the Ayoub and Shahed model UAVs were reportedly used by Hezbollah [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>]. Additionally, consumer-grade quadcopter UAVs, such as the DJI Phantom, have also been used by Hezbollah, indicating procurement through commercial channels via third parties [<xref ref-type="bibr" rid="R50">50</xref>]. Hamas has also used several versions of the Iranian Ababil UAV model, which gave them a platform to conduct reconnaissance and carry out attacks [<xref ref-type="bibr" rid="R51">51</xref>]. Hamas’ UAV capabilities are also linked to the work of an in-house Tunisian UAV engineer. Since he was killed in a 2016 assassination [<xref ref-type="bibr" rid="R52">52</xref>], Hamas’ UAVs, such as balloons and kites, have clearly been far less sophisticated [<xref ref-type="bibr" rid="R53">53</xref>]. Notably, a recent development, albeit beyond the non-state sphere, is that Iran is supplying Russia with various types of armed UAVs that are used in attacks against civilian-populated areas, such as Kyiv in Ukraine [<xref ref-type="bibr" rid="R54">54</xref>]. While this does not constitute terrorism in the traditional sense, Russia is inflicting fear, uncertainty, and terror upon Ukraine’s civilians as well as harming Ukraine’s energy infrastructure through the use of such UAVs [<xref ref-type="bibr" rid="R55">55</xref>].</p>
+            <p>ISIS’s procurement of armed UAVs has been extensively researched by both scholars and journalists [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R56">56</xref>, <xref ref-type="bibr" rid="R57">57</xref>]. A Danish investigation effort by a collective of journalists and researchers found that a Danish–Lebanese engineer played a key role in procuring ISIS drone parts through an intricate network spanning from Denmark to Syria [<xref ref-type="bibr" rid="R57">57</xref>]. However, ISIS also had other supply routes, as there was no overlap between retailers used to buy drones in the case mentioned above and findings from another investigation of ISIS drone procurement [<xref ref-type="bibr" rid="R17">17</xref>].</p>
+            <p>In addition to Hezbollah, Hamas, and ISIS, the Houthis in Yemen have frequently used armed UAVs against targets in Yemen and Saudi Arabia [<xref ref-type="bibr" rid="R10">10</xref>]. Research into Houthi UAVs has found that important components are similar to those used in improvised explosive devices by other non-state actors in Yemen and Bahrain. Others are similar to those in Iranian UAVs [<xref ref-type="bibr" rid="R25">25</xref>].</p>
+            <p>After Hezbollah pioneered this field, many others followed suit. ISIS has had a massive influence on the use of commercial-grade UAVs among non-state actors, and their modification of easily obtainable models such as the DJI Phantom has inspired others to mimic their operations. Parallel to ISIS’s loss of land, Mexican cartels started using quadcopter UAVs with explosives, following their example [<xref ref-type="bibr" rid="R58">58</xref>]. Researchers following Mexican criminal cartels have observed this repeatedly after 2017 [<xref ref-type="bibr" rid="R32">32</xref>, <xref ref-type="bibr" rid="R59">59</xref>]. The Taliban’s use of armed UAVs is also similar to that of ISIS’s use of quadcopters [<xref ref-type="bibr" rid="R28">28</xref>]. A similar use can be found among the People’s Defense Force in Myanmar, in combat with the government’s forces [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+            <p>Violent non-state actors operating within and outside active conflict zones are typically less technologically sophisticated compared to their government-led counterparts [<xref ref-type="bibr" rid="R60">60</xref>]. Past research has shown that non-state actors learn from and adopt tools and tactics from their state counterparts and that they evolve and adapt because they believe that something can be gained by the innovation [<xref ref-type="bibr" rid="R61">61</xref>]. An important development in the use of UAVs in 2022 is how Ukrainian forces, supported financially and logistically by other nations, organizations, and private individuals, have used UAVs in the same manner as non-state actors have been doing in conflict zones. Imagery provided by ISIS, the Houthis, and militants fighting in Myanmar, to name a few, has shown how commercially available quadcopter UAVs are re-designed and fitted with various munitions, such as modified grenades and mortar shells. Images of the same have been coming from the Ukrainian battlefield for several months in 2022: a UAV hovering over a Russian armored vehicle and dropping explosives on the target [<xref ref-type="bibr" rid="R62">62</xref>]. In the summer of 2022, these images also featured larger UAVs, such as the DJI Matrice, dropping up to eight explosives on their target below.</p>
+            <p>Armed UAVs are, as this paper has shown, not only being used in the Middle East but also in South and North America, Central Asia, and South East Asia. This development—now going from non-state actors to state actors—indicates a cyclic adaptation of new tools and tactics. In this cyclic adaptation, both actors appear open to the idea of incorporating the success of their counterparts’ trials and errors. This may be particularly relevant in conflict zones where state actors, much like non-state actors, may struggle at times with gaining access to their preferred weaponry and support systems for military operations. Their counterparts’ ability to adapt and their overall creativity and cleverness may therefore be harnessed if propaganda videos are actively gathered and researched by intelligence and research communities.</p>
+         </sec>
+      </sec>
+      <sec id="s9">
+         <title>9.- What Does All this Tell us About Future UAV Threats from Non-state Actors?</title>
+         <p>The previous sections inform us of the following: Armed UAVs are mostly used in the Middle East and Central Asia by violent non-state actors engaged in conflict zones. Non-state actors mainly targeted government security forces or their international allies, with some exceptions. Given the development until now, this is likely to continue to some degree. However, as the modification of commercially available UAVs continues in Mexico, Ecuador, Afghanistan, Yemen, and Myanmar following ISIS’s example from 2016 and 2017, such inspiration and transfer of tools and tactics are also likely to continue. This spread may exponentially increase the risk of non-state actors or lone actors using armed UAVs against civilians.</p>
+         <p>As Iran is identified as a provider and supporter of the Houthis in Yemen—often through shipments [<xref ref-type="bibr" rid="R63">63</xref>]–continued control of naval traffic in the region is of great importance. Further, as commercially available quadcopters are and will continue to be accessible in the open market, their role in the actions of more non-state actors will most likely become greater than what it is currently. In line with the development of 3D-printed gun or gun parts [<xref ref-type="bibr" rid="R64">64</xref>], it is also possible that 3D printing will be used more extensively to produce parts essential to modifying off-the-shelf commercial quadcopters with mechanisms to drop or place explosives on targets. In addition to UAV parts, such as the UAV’s body, rotors, or release mechanisms, 3D-printed weapons can also be fitted onto a UAV. In the early days of 3D-printed guns, they were assessed and discussed as unreliable [<xref ref-type="bibr" rid="R64">64</xref>]. However, 3D-printed guns have evolved, and more reliable, fully homemade, semi-automatic rifles are now well known [<xref ref-type="bibr" rid="R65">65</xref>]. There is no reason to believe that the future will not see a merger of partially modified UAVs and partially or fully homemade 3D-printed weapons fitted onto them.</p>
+         <p>These potential developments, possibly advanced locally developed or modified UAVs, are worrisome. Considering the potential of autonomous capabilities, the possible scenarios appear even worse. Fortunately, to date, there is no indication of non-state actors having launched UAVs with autonomous capabilities. However, artificial intelligence (AI) is no longer an exclusive resource for nation-states. It is less expensive and more available than it was merely a few years ago [<xref ref-type="bibr" rid="R66">66</xref>]. Like commercial UAVs and 3D printing, it is likely that AI will assist non-state actors in future actions. However, at present, if lethal autonomous weapon systems are launched and used, a nation-state is likelier responsible. As disturbing as that is, it is slightly more encouraging as a nation-state has to answer for their actions to a larger extent than a non-state actor and may be subjected to sanctions from the international community.</p>
+      </sec>
+      <sec id="s10">
+         <title>10.- Concluding Remarks</title>
+         <p>This research utilized a snowballing procedure to identify relevant academic and non-academic literature on non-state actors and armed UAVs. In doing so, it has a state-centric position, aimed at establishing an overview of the presence and threat of armed UAVs in non-state actors’ hands. Over 15 years ago, Hezbollah pioneered non-state actors’ use of UAVs and armed UAVs. Recent years have shown that many and vastly different non-state actors have adopted the ‘‘ISIS version’’ of modified armed commercial UAVs. As the use of armed UAVs spreads through social media in particular [<xref ref-type="bibr" rid="R67">67</xref>, <xref ref-type="bibr" rid="R68">68</xref>], it is likely that the spread of technology and know-how will continue. This may inspire new and emerging players in the field to adopt armed UAVs in their repertoire. As recommended in past scholarly work [<xref ref-type="bibr" rid="R69">69</xref>], intelligence and security services should pay attention to violent non-state actors showing interest in and procurement of UAV parts or bodies, particularly those who have members with aviation and/or engineering expertise. Research and reporting on violent non-state actors’ use of armed UAVs from the last decade have shown that the development, to some extent, has come full circle in the sense that state actors or state-backed actors are using commercial UAVs in the same manner as violent non-state actors have been for several years. Presently and to the best of the authors’ knowledge, this can be seen in the Ukrainian forces. However, with trade agreements and sanctions limiting the sale of more advanced UAVs to some states, commercial tools developed by non-state actors may also be more broadly used by other state actors in the future.
+</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5038/1944-0472.7.4.8</pub-id>
+               <year>2014</year>
+               <publisher-name>University of South Florida Libraries</publisher-name>
+               <volume>7</volume>
+               <issue>4</issue>
+               <fpage>108</fpage>
+               <lpage>119</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fowler</surname>
+                     <given-names>Mike</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Strategy of Drone Warfare</article-title>
+               <source>Journal of Strategic Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nbcnews.com/politics/national-security/terrorists-likely-attack-u-s-drones-says-fbi-director-n918586"
+                         xlink:type="simple">https://www.nbcnews.com/politics/national-security/terrorists-likely-attack-u-s-drones-says-fbi-director-n918586</ext-link>
+               <year>2018</year>
+               <source>NBC (Broadcasting Television Network) News</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schapiro</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Capra</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Terrorists likely to use Drones to Attack the U.S., says FBI Director</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://eeradicalization.com/experts-radicals-may-soon-be-able-to-use-drones-for-terrorist-attacks-on-the-west/"
+                         xlink:type="simple">https://eeradicalization.com/experts-radicals-may-soon-be-able-to-use-drones-for-terrorist-attacks-on-the-west/</ext-link>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Iddon</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Experts: Radicals May Soon Be Able to Use Drones for Terrorist Attacks on the West</article-title>
+               <source>EER (European Eye on Radicalization)</source>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14751798.2018.1478183</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>34</volume>
+               <issue>2</issue>
+               <fpage>113</fpage>
+               <lpage>126</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rossiter</surname>
+                     <given-names>Ash</given-names>
+                  </name>
+               </person-group>
+               <article-title>Drone Usage by Militant Groups: Exploring Variation in Adoption</article-title>
+               <source>Defense and Security Analysis</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10736700.2018.1546902</pub-id>
+               <year>2018</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>25</volume>
+               <issue>5-6</issue>
+               <fpage>523</fpage>
+               <lpage>543</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kallenborn</surname>
+                     <given-names>Zachary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bleek</surname>
+                     <given-names>Philipp C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Swarming Destruction: Drone Swarms and Chemical, Biological, Radiological, and Nuclear Weapons</article-title>
+               <source>The Nonproliferation Review</source>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.911security.com/news/russia-says-a-swarm-of-armed-drones-attacked-its-military-base-in-syria"
+                         xlink:type="simple">https://www.911security.com/news/russia-says-a-swarm-of-armed-drones-attacked-its-military-base-in-syria</ext-link>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Miller</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Russia Says a Swarm of Armed Drones Attacked its Military base in Syria</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/?sh=525d75207238"
+                         xlink:type="simple">https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/?sh=525d75207238</ext-link>
+               <year>2021</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hambling</surname>
+                     <given-names>D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>`If Human, Kill': Video Warns Of Need For Legal Controls On Killer Robots</article-title>
+               <source>Forbes</source>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://scholarship.claremont.edu/cgu\_facbooks/50/"
+                         xlink:type="simple">https://scholarship.claremont.edu/cgu\_facbooks/50/</ext-link>
+               <year>2015</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bunker</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+               </person-group>
+               <article-title>Terrorist and Insurgent Unmanned Aerial Vehicles: Use, Potentials, and Military Applications</article-title>
+               <source>United States Army War College Press</source>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ctc.usma.edu/remotely-piloted-innovation-terrorism-drones-and-supportive-technology/"
+                         xlink:type="simple">https://ctc.usma.edu/remotely-piloted-innovation-terrorism-drones-and-supportive-technology/</ext-link>
+               <year>2016</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rassler</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Remotely Piloted Innovation: Terrorism, Drones and Supportive Technology. Combating Terrorism Center at West Point</article-title>
+               <source>United States Military Academy</source>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.2307/26940037</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haugstvedt</surname>
+                     <given-names>Håvard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jacobsen</surname>
+                     <given-names>Jan Otto</given-names>
+                  </name>
+               </person-group>
+               <source>Perspectives on Terrorism</source>
+               <issue>5</issue>
+               <fpage>26</fpage>
+               <lpage>40</lpage>
+               <publisher-name>Terrorism Research Initiative</publisher-name>
+               <article-title>Taking Fourth-Generation Warfare to the Skies? An Empirical Exploration of Non-State Actors’ Use of Weaponized Unmanned Aerial Vehicles (UAVs—`Drones')</article-title>
+               <volume>14</volume>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.55540/0031-1723.3069</pub-id>
+               <year>2021</year>
+               <publisher-name>United States Army War College Press</publisher-name>
+               <volume>51</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Doctor</surname>
+                     <given-names>Austin C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Walsh</surname>
+                     <given-names>James I.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Coercive Logic of Militant Drone Use</article-title>
+               <source>The US Army War College Quarterly: Parameters</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17467586.2021.1983853</pub-id>
+               <year>2021</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>15</volume>
+               <issue>2</issue>
+               <fpage>153</fpage>
+               <lpage>164</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haugstvedt</surname>
+                     <given-names>H\aavard</given-names>
+                  </name>
+               </person-group>
+               <article-title>Wounding Local Hearts? Evidence from an Empirical Study of UAV Attacks by State and Non-state Actors Harming Civilian Populations</article-title>
+               <source>Dynamics of Asymmetric Conflict</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/ia/iiaa014</pub-id>
+               <year>2020</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>96</volume>
+               <issue>4</issue>
+               <fpage>955</fpage>
+               <lpage>973</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Archambault</surname>
+                     <given-names>Emil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Veilleux-Lepage, Yannick</surname>
+                  </name>
+               </person-group>
+               <article-title>Drone Imagery in Islamic State Propaganda: Flying like a State</article-title>
+               <source>International Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/14702436.2020.1848426</pub-id>
+               <year>2020</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>21</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>24</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chávez</surname>
+                     <given-names>Kerry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Swed</surname>
+                     <given-names>Ori</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Proliferation of Drones to Violent Nonstate Actors</article-title>
+               <source>Defence Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wohlin</surname>
+                     <given-names>Claes</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <chapter-title>Guidelines for Snowballing in Systematic Literature Studies and a Replication in Software Engineering</chapter-title>
+               <article-title>Proceedings of the 18$^th$ International Conference on Evaluation and Assessment in Software Engineering</article-title>
+               <isbn>978-1-4503-2476-2</isbn>
+               <source>ACM International Conference Proceeding Series</source>
+               <pub-id pub-id-type="doi">10.1145/2601248.2601268</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1186/s12874-017-0468-4</pub-id>
+               <year>2018</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>18</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Munn</surname>
+                     <given-names>Zachary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stern</surname>
+                     <given-names>Cindy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aromataris</surname>
+                     <given-names>Edoardo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lockwood</surname>
+                     <given-names>Craig</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jordan</surname>
+                     <given-names>Zoe</given-names>
+                  </name>
+               </person-group>
+               <article-title>What Kind of Systematic Review should I Conduct? A Proposed Typology and Guidance for Systematic Reviewers in the Medical and Health Sciences</article-title>
+               <source>BMC Medical Research Methodology</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Islamic State and Drones. Supply, Scale and Future Threats</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rassler</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ctc.usma.edu/wp-content/uploads/2018/07/Islamic-State-and-Drones-Release-Version.pdf"
+                         xlink:type="simple">https://ctc.usma.edu/wp-content/uploads/2018/07/Islamic-State-and-Drones-Release-Version.pdf</ext-link>
+               <publisher-name>Combating Terrorism Center at West Point</publisher-name>
+               <publisher-name>United States Military Academy</publisher-name>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/0022343313491277</pub-id>
+               <year>2013</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>51</volume>
+               <issue>2</issue>
+               <fpage>257</fpage>
+               <lpage>271</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sandler</surname>
+                     <given-names>Todd</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Analytical Study of Terrorism</article-title>
+               <source>Journal of Peace Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780203880227-7</pub-id>
+               <year>2009</year>
+               <publisher-name>Routledge</publisher-name>
+               <fpage>15</fpage>
+               <lpage>24</lpage>
+               <chapter-title>Introduction: The Case for Critical Terrorism Studies</chapter-title>
+               <source>Critical Terrorism Studies</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/17539150701848225</pub-id>
+               <year>2008</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>51</fpage>
+               <lpage>64</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Horgan</surname>
+                     <given-names>John</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boyle</surname>
+                     <given-names>Michael J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Case against `Critical Terrorism Studies'</article-title>
+               <source>Critical Studies on Terrorism</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://dronecenter.bard.edu/hezbollah-hamas-drones/"
+                         xlink:type="simple">https://dronecenter.bard.edu/hezbollah-hamas-drones/</ext-link>
+               <year>2014</year>
+               <source>The Center for the Study of the Drone at Bard College</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gettinger</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Michel</surname>
+                     <given-names>AH</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Brief History of Hamas and Hezbollah's Drones</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.lawfareblog.com/look-who-else-has-drones-isis-and-al-nusra"
+                         xlink:type="simple">https://www.lawfareblog.com/look-who-else-has-drones-isis-and-al-nusra</ext-link>
+               <year>2014</year>
+               <source>Lawfare</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Poplin</surname>
+                     <given-names>CM</given-names>
+                  </name>
+               </person-group>
+               <article-title>Look Who Else Has Drones: ISIS and Al Nusra</article-title>
+               <source>Psychiatry Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ctc.usma.edu/ctc-perspectives-the-islamic-states-drone-documents-management-acquisitions-and-diy-tradecraft/"
+                         xlink:type="simple">https://ctc.usma.edu/ctc-perspectives-the-islamic-states-drone-documents-management-acquisitions-and-diy-tradecraft/</ext-link>
+               <year>2017</year>
+               <source>Combating Terrorism Center at West Point</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rassler</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Al-Ubaydi, M</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mironova</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Islamic State's Drone Documents: Management, Acquisitions, and DIY Tradecraft</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.aljazeera.com/news/2019/08/yemen-houthi-rebels-target-military-parade-aden-190801065146809.html"
+                         xlink:type="simple">https://www.aljazeera.com/news/2019/08/yemen-houthi-rebels-target-military-parade-aden-190801065146809.html</ext-link>
+               <year>2019</year>
+               <source>AlJazeera</source>
+               <article-title>Yemen: Dozens Killed in Houthi Attack on Aden Military Parade</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.conflictarm.com/download-file/?report\_id=3185&amp;file\_id=3189"
+                         xlink:type="simple">https://www.conflictarm.com/download-file/?report\_id=3185&amp;file\_id=3189</ext-link>
+               <year>2020</year>
+               <publisher-loc>London, UK</publisher-loc>
+               <publisher-name>Conflict Armament Research</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rassler</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Al-Ubaydi, M</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mironova</surname>
+                     <given-names>V</given-names>
+                  </name>
+               </person-group>
+               <article-title>Dispatch from the Field: Evolution of UAVs employed by Houthi forces in Yemen</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://thediplomat.com/2016/11/here-come-the-taliban-drones/"
+                         xlink:type="simple">https://thediplomat.com/2016/11/here-come-the-taliban-drones/</ext-link>
+               <year>2016</year>
+               <source>The Diplomat</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bodetti</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barakzai</surname>
+                     <given-names>H</given-names>
+                  </name>
+               </person-group>
+               <article-title>Here Come the Taliban Drones</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.businessinsider.com/taliban-use-drones-to-watch-us-troops-247-in-afghanistan-2018-12"
+                         xlink:type="simple">https://www.businessinsider.com/taliban-use-drones-to-watch-us-troops-247-in-afghanistan-2018-12</ext-link>
+               <year>2018</year>
+               <source>Business Insider</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Keller</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Taliban have been using drones to watch US troops ``24/7'' in Afghanistan</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://thediplomat.com/2020/12/fire-from-the-sky-the-afghan-talibans-drones/"
+                         xlink:type="simple">https://thediplomat.com/2020/12/fire-from-the-sky-the-afghan-talibans-drones/</ext-link>
+               <year>2020</year>
+               <source>The Diplomat</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Marty</surname>
+                     <given-names>FJ</given-names>
+                  </name>
+               </person-group>
+               <article-title>Fire From the Sky: The Afghan Taliban's Drones</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.forbes.com/sites/davidhambling/2020/08/27/pkk-terror-group-steps-up-improvised-drone-bomb-attacks/"
+                         xlink:type="simple">https://www.forbes.com/sites/davidhambling/2020/08/27/pkk-terror-group-steps-up-improvised-drone-bomb-attacks/</ext-link>
+               <year>2020</year>
+               <source>Forbes</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hambling</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Kurdish PKK Terror Group Steps Up Improvised Drone Bomb Attacks</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://twitter.com/CalibreObscura/status/1477606834022322179"
+                         xlink:type="simple">https://twitter.com/CalibreObscura/status/1477606834022322179</ext-link>
+               <year>2022</year>
+               <source>CalibreObscura</source>
+               <publisher-name>Twitter</publisher-name>
+               <article-title>\#Burma \#Myanmar Aung San PDF released a video showing 6 drone dropped munitions in \#Sagaing region. Unfortunately unclear precisely how they're made (Crude PD fuze?) or how effective they are, but incredibly reminiscent of similar footage from MENA. \#Proliferation h/t</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5038/1944-0472.14.1.1848</pub-id>
+               <year>2021</year>
+               <publisher-name>University of South Florida Libraries</publisher-name>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>92</fpage>
+               <lpage>105</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>H\aavard, Haugstvedt</surname>
+                  </name>
+               </person-group>
+               <article-title>A Flying Threat Coming to Sahel and East Africa? A Brief Review</article-title>
+               <source>Journal of Strategic Security</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Mexican Cartel Tactical Note \#46: Weaponized Drones (Aerial Improvised Explosive Devices) Deployed by CJNG in Tepalcatepec, Michoacán</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bunker</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kuhn</surname>
+                     <given-names>DA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keshavarz</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <source>Small Wars Journal</source>
+               <year>2020</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://smallwarsjournal.com/jrnl/art/mexican-cartel-tactical-note-46-weaponized-drones-aerial-improvised-explosive-devices"
+                         xlink:type="simple">https://smallwarsjournal.com/jrnl/art/mexican-cartel-tactical-note-46-weaponized-drones-aerial-improvised-explosive-devices</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Mexican Cartels Are Embracing Aerial Drones and They’re Spreading</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bunker</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kuhn</surname>
+                  </name>
+               </person-group>
+               <source>War on the Rocks</source>
+               <year>2021</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://warontherocks.com/2021/11/mexican-cartels-are-embracing-aerial-drones-and-theyre-spreading/"
+                         xlink:type="simple">https://warontherocks.com/2021/11/mexican-cartels-are-embracing-aerial-drones-and-theyre-spreading/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Approaching a ``New Normal'': What the Drone Attack in Venezuela Portends</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clarke</surname>
+                     <given-names>CP</given-names>
+                  </name>
+               </person-group>
+               <source>The Rand Blog</source>
+               <year>2018</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rand.org/blog/2018/08/approaching-a-new-normal-what-the-drone-attack-in-venezuela.html"
+                         xlink:type="simple">https://www.rand.org/blog/2018/08/approaching-a-new-normal-what-the-drone-attack-in-venezuela.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Likely Drone Attack On U.S. Power Grid Revealed In New Intelligence Report (Updated)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Trevithick</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <source>The Drive</source>
+               <year>2021</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.thedrive.com/the-war-zone/43015/likely-drone-attack-on-u-s-power-grid-revealed-in-new-intelligence-report"
+                         xlink:type="simple">https://www.thedrive.com/the-war-zone/43015/likely-drone-attack-on-u-s-power-grid-revealed-in-new-intelligence-report</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Ragtag Drone Air Force Ukraine Built to Fight Russia</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hambling</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <source>Popular Mechanics</source>
+               <year>2017</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.popularmechanics.com/flight/drones/a25281/ukraine-makeshift-drones/"
+                         xlink:type="simple">https://www.popularmechanics.com/flight/drones/a25281/ukraine-makeshift-drones/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Drone Types: Multi-Rotor Vs Fixed-Wing Vs Single Rotor Vs Hybrid VTOL</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chapman</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <source>AUAV</source>
+               <year>2016</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.auav.com.au/articles/drone-types/"
+                         xlink:type="simple">https://www.auav.com.au/articles/drone-types/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Houthi Rebels Unveil Host of Weaponry, Compounding Drone and Missile Threat</article-title>
+               <source>Oryx</source>
+               <year>2021</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.oryxspioenkop.com/2021/03/houthi-rebels-unveil-host-of-weaponry.html"
+                         xlink:type="simple">https://www.oryxspioenkop.com/2021/03/houthi-rebels-unveil-host-of-weaponry.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>ISIL ramps up Fight with Weaponised Drones</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beck</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.aljazeera.com/indepth/features/2016/12/isil-ramps-fight-weaponised-drones-161231130818470.html"
+                         xlink:type="simple">https://www.aljazeera.com/indepth/features/2016/12/isil-ramps-fight-weaponised-drones-161231130818470.html</ext-link>
+               <source>Al Jazeera</source>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tønnessen</surname>
+                     <given-names>T.H.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <fpage>101</fpage>
+               <lpage>111</lpage>
+               <article-title>Islamic State and Technology - A Literature Review</article-title>
+               <pub-id pub-id-type="doi">10.2307/26295959</pub-id>
+               <volume>11</volume>
+               <source>Perspectives on Terrorism</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="10.5194/isprs-archives-XLII-2-W6-47-2017"
+                         xlink:type="simple">10.5194/isprs-archives-XLII-2-W6-47-2017</ext-link>
+               <year>2017</year>
+               <publisher-name>Copernicus Publications</publisher-name>
+               <fpage>47</fpage>
+               <lpage>54</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boon</surname>
+                     <given-names>MA</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Drijfhout</surname>
+                     <given-names>AP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tesfamichael</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <source>International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</source>
+               <chapter-title>Comparison of a Fixed-wing and Multi-rotor UAV for Environmental Mapping Applications: A Case Study</chapter-title>
+               <source>ISPRS, International Society for Photogrammetry and Remote Sensing</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Plaw</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Santoro</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Hezbollah's Drone Program Sets Precedents for Non-State Actors</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://jamestown.org/program/hezbollahs-drone-program-sets-precedents-non-state-actors/"
+                         xlink:type="simple">https://jamestown.org/program/hezbollahs-drone-program-sets-precedents-non-state-actors/</ext-link>
+               <source>The Jamestown Foundation</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cavallaro</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sonnenberg</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Knuckey</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Living Under Drones: Death, Injury, and Trauma to Civilians From US Drone Practices in Pakistan</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://referenceworks.brillonline.com/entries/the-shafr-guide-online/*-SIM260090013"
+                         xlink:type="simple">https://referenceworks.brillonline.com/entries/the-shafr-guide-online/*-SIM260090013</ext-link>
+               <source>Stanford Law School</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/s2542-5196(18)30265-1</pub-id>
+               <year>2019</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>3</volume>
+               <issue>1</issue>
+               <fpage>40</fpage>
+               <fpage>47</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Heszlein-Lossius, Hanne</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Al-Borno, Yahya</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shaqqoura</surname>
+                     <given-names>Samar</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Skaik</surname>
+                     <given-names>Nashwa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Melvaer Giil, Lasse</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gilbert</surname>
+                     <given-names>Mads F</given-names>
+                  </name>
+               </person-group>
+               <article-title>Traumatic Amputations Caused by Drone Attacks in the Local Population in Gaza: A Retrospective Cross-sectional Study</article-title>
+               <source>The Lancet Planetary Health</source>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html"
+                         xlink:type="simple">https://www.nytimes.com/interactive/2021/12/18/us/airstrikes-pentagon-records-civilian-deaths.html</ext-link>
+               <year>2021</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Khan</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>Hidden Pentagon Records Reveal Patterns of Failure in Deadly Airstrikes</article-title>
+               <source>The New York Times</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-houthi-drone-targeting-abha-airport-2021-08-30/"
+                         xlink:type="simple">https://www.reuters.com/world/middle-east/saudi-led-coalition-intercepts-houthi-drone-targeting-abha-airport-2021-08-30/</ext-link>
+               <year>2021</year>
+               <article-title>Eight Wounded in Houthi Drone Strikes on Saudi Abha Airport</article-title>
+               <source>Reuters</source>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.aljazeera.com/news/2021/11/29/iraq-presents-investigation-development-on-pm-attack"
+                         xlink:type="simple">https://www.aljazeera.com/news/2021/11/29/iraq-presents-investigation-development-on-pm-attack</ext-link>
+               <year>2021</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yuan</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Probe in Drone Attack on Iraq PM yet to Identify Attackers</article-title>
+               <source>Al Jazeera</source>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5040/9781350986169.0008</pub-id>
+               <year>2018</year>
+               <publisher-name>I.B.Tauris</publisher-name>
+               <article-title>Notes</article-title>
+               <chapter-title>Drones and Terrorism</chapter-title>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.middleeasteye.net/news/analysis-hezbollah-enters-drone-age-bombing-raids-syria"
+                         xlink:type="simple">http://www.middleeasteye.net/news/analysis-hezbollah-enters-drone-age-bombing-raids-syria</ext-link>
+               <year>2017</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alami</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Analysis: Hezbollah enters drone age with bombing raids in Syria</article-title>
+               <source>Middle East Eye</source>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.thetimes.co.uk/article/hezbollah-uses-drone-to-drop-bombs-on-syrian-rebels-675wqcdx2"
+                         xlink:type="simple">https://www.thetimes.co.uk/article/hezbollah-uses-drone-to-drop-bombs-on-syrian-rebels-675wqcdx2</ext-link>
+               <year>2016</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coghlan</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <article-title>Hezbollah uses Drone to Drop Bombs on Syrian Rebels</article-title>
+               <source>The Times</source>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://dronecenter.bard.edu/hezbollah-hamas-drones/"
+                         xlink:type="simple">https://dronecenter.bard.edu/hezbollah-hamas-drones/</ext-link>
+               <year>2014</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gettinger</surname>
+                     <given-names>D</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Michel</surname>
+                     <given-names>AH</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Brief History of Hamas and Hezbollah’s Drones</article-title>
+               <source>Dron Center</source>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.aljazeera.com/program/al-jazeera-world/2018/12/12/who-killed-tunisian-drone-expert-mohammed-al-zawari"
+                         xlink:type="simple">https://www.aljazeera.com/program/al-jazeera-world/2018/12/12/who-killed-tunisian-drone-expert-mohammed-al-zawari</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mashharawi</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>Who Killed Tunisian Drone Expert Mohammed Al-Zawari?</article-title>
+               <source>Al Jazeera</source>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ynetnews.com/articles/0,7340,L-5318598,00.html"
+                         xlink:type="simple">https://www.ynetnews.com/articles/0,7340,L-5318598,00.html</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fishman</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>The New Explosive Drone Threat from Gaza</article-title>
+               <source>Ynetnews</source>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.forbes.com/sites/pauliddon/2022/10/13/why-iran-arming-russia-with-drones-is-utterly-cynical/"
+                         xlink:type="simple">https://www.forbes.com/sites/pauliddon/2022/10/13/why-iran-arming-russia-with-drones-is-utterly-cynical/</ext-link>
+               <year>2022</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Iddon</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <article-title>Why Iran Arming Russia With Drones For Ukraine War Is Utterly Cynical</article-title>
+               <source>Forbes</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://abcnews.go.com/International/iranian-drones-russia-attack-ukraine/story?id=91620223"
+                         xlink:type="simple">https://abcnews.go.com/International/iranian-drones-russia-attack-ukraine/story?id=91620223</ext-link>
+               <year>2022</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reevel</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <article-title>What to Know about the Iranian Kamikaze drones Russia is using to attack Ukraine</article-title>
+               <source>ABC News</source>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.icsve.org/isis-drones-evolution-leadership-bases-operations-and-logistics/"
+                         xlink:type="simple">https://www.icsve.org/isis-drones-evolution-leadership-bases-operations-and-logistics/</ext-link>
+               <year>2017</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Almohammad</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Speckhard</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>ISIS Drones: Evolution, Leadership, Bases, Operations and Logistics</article-title>
+               <source>International Center for the Study of Violent Extremism</source>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ctc.usma.edu/wp-content/uploads/2020/05/CTC-SENTINEL-052020.pdf"
+                         xlink:type="simple">https://ctc.usma.edu/wp-content/uploads/2020/05/CTC-SENTINEL-052020.pdf</ext-link>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Albæk</surname>
+                     <given-names>MM</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Damsgård</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ibrahim</surname>
+                     <given-names>MS</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kingo</surname>
+                     <given-names>T</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vithner</surname>
+                     <given-names>J</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Controller: How Basil Hassan Launched Islamic State Terror into the Skies</article-title>
+               <source>CTC Sentin</source>
+               <volume>5</volume>
+               <issue>13</issue>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.popularmechanics.com/military/weapons/a28874/drug-cartels-drones-into-bombers/"
+                         xlink:type="simple">https://www.popularmechanics.com/military/weapons/a28874/drug-cartels-drones-into-bombers/</ext-link>
+               <year>2017</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mizokami</surname>
+                     <given-names>K</given-names>
+                  </name>
+               </person-group>
+               <article-title>Mexican Drug Cartels Are Turning Drones Into Flying Bombers</article-title>
+               <source>Popular Mechanics</source>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://smallwarsjournal.com/index.php/jrnl/art/mexican-cartel-tactical-note-38-armed-drone-targets-baja-california-public-safety"
+                         xlink:type="simple">https://smallwarsjournal.com/index.php/jrnl/art/mexican-cartel-tactical-note-38-armed-drone-targets-baja-california-public-safety</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sullivan</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bunker</surname>
+                     <given-names>RJ</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kuhn</surname>
+                     <given-names>DA</given-names>
+                  </name>
+               </person-group>
+               <article-title>Mexican Cartel Tactical Note \#38: Armed Drone Targets the Baja California Public Safety Secretary's Residence in Tecate, Mexico</article-title>
+               <source>Small Wars Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/978-94-6265-419-8</pub-id>
+               <year>2020</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Shamir</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Osinga</surname>
+                     <given-names>F and Sweijs, T</given-names>
+                  </name>
+               </person-group>
+               <source>NL ARMS Netherlands Annual Review of Military Studies 2020: Deterrence in the 21$^st$ Century—Insights from Theory and Practice</source>
+               <chapter-title>Deterring Violent Non-state Actors</chapter-title>
+               <publisher-name>T.M.C. Asser Press</publisher-name>
+               <source>The Hague</source>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/10576100151130270</pub-id>
+               <year>2001</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>24</volume>
+               <issue>3</issue>
+               <fpage>183</fpage>
+               <lpage>213</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jackson</surname>
+                     <given-names>Brian A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Technology Acquisition by Terrorist Groups: Threat Assessment Informed by Lessons from Private Sector Technology Adoption</article-title>
+               <source>Studies in Conflict and Terrorism</source>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.forbes.com/sites/davidhambling/2022/07/07/ukrainan-drop-drone-bomb-through-open-hatch-to-score-first-kill-on-russias-oldest-tank/"
+                         xlink:type="simple">https://www.forbes.com/sites/davidhambling/2022/07/07/ukrainan-drop-drone-bomb-through-open-hatch-to-score-first-kill-on-russias-oldest-tank/</ext-link>
+               <year>2022</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hambling</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Ukrainian Drone Drops Bomb Through Open Hatch To Score First Kill On Russia's Oldest Tank (Updated)</article-title>
+               <source>Forbes</source>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.wsj.com/articles/irans-armed-drone-prowess-reshapes-security-in-middle-east-11633530266"
+                         xlink:type="simple">https://www.wsj.com/articles/irans-armed-drone-prowess-reshapes-security-in-middle-east-11633530266</ext-link>
+               <year>2021</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Faucon</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nissenbaum</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Iran's Armed-Drone Prowess Reshapes Security in Middle East</article-title>
+               <source>Wall Street Journal</source>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.rand.org/blog/articles/2018/05/four-ways-3d-printing-may-threaten-security.html"
+                         xlink:type="simple">https://www.rand.org/blog/articles/2018/05/four-ways-3d-printing-may-threaten-security.html</ext-link>
+               <year>2018</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Irving</surname>
+                     <given-names>D</given-names>
+                  </name>
+               </person-group>
+               <article-title>Four Ways 3D Printing May Threaten Security</article-title>
+               <source>RAND</source>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://slate.com/technology/2021/02/3d-printed-semi-automatic-rifle-fgc-9.html"
+                         xlink:type="simple">https://slate.com/technology/2021/02/3d-printed-semi-automatic-rifle-fgc-9.html</ext-link>
+               <year>2021</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schneider</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <article-title>3D-Printed Guns Are Getting More Capable and Accessible</article-title>
+               <source>Slate</source>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.brookings.edu/blog/order-from-chaos/2022/02/01/cascading-chaos-nonstate-actors-and-ai-on-the-battlefield/"
+                         xlink:type="simple">https://www.brookings.edu/blog/order-from-chaos/2022/02/01/cascading-chaos-nonstate-actors-and-ai-on-the-battlefield/</ext-link>
+               <year>2022</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kreps</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Li</surname>
+                     <given-names>R</given-names>
+                  </name>
+               </person-group>
+               <article-title>Cascading Chaos: Nonstate Actors and AI on the Battlefield</article-title>
+               <source>Brookings</source>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://observers.france24.com/en/europe/20220808-ukraine-russia-modified-commercial-drones-battlefield-donations-weapons"
+                         xlink:type="simple">https://observers.france24.com/en/europe/20220808-ukraine-russia-modified-commercial-drones-battlefield-donations-weapons</ext-link>
+               <year>2022</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ayad</surname>
+                     <given-names>P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Young</surname>
+                     <given-names>P</given-names>
+                  </name>
+               </person-group>
+               <article-title>Ukrainian Soldiers are Turning Consumer Drones into Formidable Weapons of War</article-title>
+               <source>The Observers - France 24</source>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1093/ia/iiaa014</pub-id>
+               <year>2020</year>
+               <publisher-name>Oxford University Press (OUP)</publisher-name>
+               <volume>96</volume>
+               <issue>4</issue>
+               <fpage>955</fpage>
+               <lpage>973</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Archambault</surname>
+                     <given-names>Emil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Veilleux-Lepage, Yannick</surname>
+                  </name>
+               </person-group>
+               <article-title>Drone imagery in Islamic State propaganda: flying like a state</article-title>
+               <source>International Affairs</source>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/03071847.2021.1906161</pub-id>
+               <year>2021</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>166</volume>
+               <issue>1</issue>
+               <fpage>22</fpage>
+               <lpage>31</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haugstvedt</surname>
+                     <given-names>H\aavard</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Right's Time to Fly?</article-title>
+               <source>The RUSI Journal</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
