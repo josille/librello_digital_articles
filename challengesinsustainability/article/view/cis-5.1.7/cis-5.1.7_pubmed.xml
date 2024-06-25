@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2017.05010007</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Alternative Perspectives on Sustainability: Indigenous Knowledge and Methodologies</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Parsons</surname>
+                  <given-names>Meg</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Nalau</surname>
+                  <given-names>Johanna</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Fisher</surname>
+                  <given-names>Karen</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>School of Environment, University of Auckland, Auckland, New Zealand</aff>
+         <aff id="A3">
+            <label>2</label>Griffith Climate Change Response Program (GCCRP), Griffith University, Nathan, Australia</aff>
+         <aff id="A4">
+            <label>3</label>Griffith Institute for Tourism (GIFT), Griffith University, Nathan, Australia</aff>
+         <pub-date pub-type="ppub">
+            <day>22</day>
+            <month>02</month>
+            <year>2017</year>
+         </pub-date>
+         <volume>5</volume>
+         <issue>1</issue>
+         <fpage>7</fpage>
+         <lpage>14</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Indigenous knowledge (IK) is now recognized as being critical to the development of effective, equitable and meaningful strategies to address socio-ecological crises. However efforts to integrate IK and Western science frequently encounter difficulties due to different systems of knowledge production and underlying worldviews. New approaches are needed so that sustainability can progress on the terms that matter the most for the people involved. In this paper we discuss a case study from Aotearoa New Zealand where an indigenous community is in the process of renegotiating and enacting new indigenous-led approaches to address coupled socio-ecological crises. We reflect on novel methodological approaches that highlight the ways in which projects/knowledge are co-produced by a multiplicity of human and non-human actors. To this end we draw on conceptualizations of environmental ethics offered by indigenous scholars and propose alternative bodies of thought, methods, and practices that can support the wider sustainability agenda.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Aotearoa New Zealand</kwd>
+            <kwd>climate adaptation</kwd>
+            <kwd>colonialism</kwd>
+            <kwd>culture</kwd>
+            <kwd>Indigenous Knowledge</kwd>
+            <kwd>sustainability science</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Globally, researchers and policy makers are increasingly recognizing the importance of Indigenous Knowledge (IK) in the development and implementation of policies and management approaches 
+        [
+        <xref ref-type="bibr" rid="R01">1</xref>
+        ]
+     . The recent Intergovernmental Panel on Climate Change's (IPCC) Fifth Assessment Report signals this importance of IK as a building block of human security in stating that there is a high likelihood and robust evidence to demonstrate that “indigenous, local and traditional forms of knowledge are a major resource for adapting to climate change” (
+        [
+        <xref ref-type="bibr" rid="R02">2</xref>
+        ]
+    , p. 758). The integration of such bottom-up place-based knowledge with science is hoped to promote more robust approaches in increasing community resilience, adaptation, sustainability, and disaster preparedness 
+        [
+        <xref ref-type="bibr" rid="R03">3</xref>
+        ]
+    . This is based on the premise that the integration of scientific and other knowledge systems can “lead to a more effective interface between science, policy and society” (
+        [
+        <xref ref-type="bibr" rid="R04">4</xref>
+        ]
+    , p. 4). We argue that the transdisciplinary nature of sustainability science has the potential to examine the world through a more holistic approach, something that is often associated with indigenous groups' way of viewing the world. In this paper, our main aim is to discuss the range of challenges regarding integration, the ways IK is currently understood and researched, and the need for recognition of historical ideologies and processes, particularly in relation to matters of equity, accountability and fairness in indigenous- related research.</p>
+         <p>The interest in IK has partly emerged through decades of `failed' development and the recognition that participatory, locally-led and locally-informed processes are more attuned to indigenous groups' priorities and aspirations  
+        [
+        <xref ref-type="bibr" rid="R01">1</xref>
+        ]
+    . Attempts to integrate IK with Western scientific knowledge often struggle, however, due to the problematic treatment of IK by scholars. The dominant framing of IK is as a complementary source of knowledge to (Western) science, which can be used to augment empirical data on local environmental conditions including the status of biodiversity 
+        [
+        <xref ref-type="bibr" rid="R05">5</xref>
+        ]
+    , impacts of climate variability and change 
+        [
+        <xref ref-type="bibr" rid="R06">6</xref>, <xref ref-type="bibr" rid="R07">7</xref>
+        ]
+    , and frequency of hazards 
+        [
+        <xref ref-type="bibr" rid="R08">8</xref>, <xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>
+        ]
+    . This is problematic because it positions scientific knowledge as objective, rational, and universal and IK as highly situated, specific, embedded, and subjective. Thus scholars criticize Indigenous Knowledge-holders for having “inaccurate and poor conception…of past ecosystems and the changes undergone in their surrounding environment” (
+        [
+        <xref ref-type="bibr" rid="R05">5</xref>
+        ]
+    , p. 279), without acknowledging, for instance, the impacts of colonization and globalization on IK traditions. There is also little appreciation or questioning of the knowledge base/roots where Western science and colonialism originated from, with their conceptual roots in European local histories that have became globally applied 
+        [
+        <xref ref-type="bibr" rid="R11">11</xref>
+        ]
+    .
+</p>
+         <p>Instead of direct comparisons with Western scientific knowledge, IK systems should be viewed as different but nevertheless equally valid ways of understanding the world 
+        [
+        <xref ref-type="bibr" rid="R12">12</xref>
+        ]
+    . IK systems can be defined as “the combination of knowledge systems encompassing technology, social, economic, and philosophical learning, or education, legal and governance systems” (
+        [
+        <xref ref-type="bibr" rid="R13">13</xref>
+        ]
+    , p. 8). Indigenous approaches therefore use, for example, reciprocity as part of the process in responding to social problems and perceive themselves as “respectful partners in genealogical relationships of interconnected humans, non-human beings, entities and collectives who have reciprocal responsibilities to one another” (
+        [
+        <xref ref-type="bibr" rid="R14">14</xref>
+        ]
+    , p. 25; Figure <xref ref-type="fig" rid="Fig01">1</xref>). Greater appreciation and consideration of IK is crucial if sustainability science is to encapsulate and build upon people’s values and worldviews in a meaningful manner 
+        [
+        <xref ref-type="bibr" rid="R02">2</xref>, <xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>
+        ]
+    .</p>
+         <fig id="Fig01" position="float" orientation="portrait">
+            <label>
+                Figure 1.</label>
+            <caption>
+               <title>The different dimensions of Indigenous Knowledge and its basis.</title>
+            </caption>
+            <graphic xlink:href="cis-5.1.7/Fig01.jpeg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         
+         <p>While it is outside the scope of this paper to provide a review of the definitional differences, sustainability is broadly defined by scholars in terms of the themes of interconnection of the social, economic, and environmental domains and intergenerational resource usage and requirements. Cutter (
+        [
+        <xref ref-type="bibr" rid="R17">17</xref>
+        ]
+    , p. 73) defines sustainability as “the potential to maintain the long term well-being of communities based on social, economic, and environmental requirements of present and future generations” (
+        [
+        <xref ref-type="bibr" rid="R17">17</xref>
+        ]
+    , p. 73). One of the challenges for sustainability science is to diversify the meaning of sustainability and well-being, which so far have been reliant on measures such as GDP. The incorporation of indigenous conceptualizations of well-being and sustainability, and their inclusion as driving values in policy and research, potentially offer a more inclusive platform for an enriched conversation as to what the goals and outcomes should be and why. This is crucial given that issues of equity and fairness are at the core of any discussion on sustainability 
+        [
+        <xref ref-type="bibr" rid="R18">18</xref>
+        ]
+    . Moreover, an increase in `reflexive science' 
+        [
+        <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>
+        ]
+     is helpful for enhancing the validity of, and accountability in, sustainability science. Reflexive approaches which call for a greater recognition of both of our personal norms and values and those at work in processes where knowledge is generated and assessed could offer an avenue for a broader acknowledgement of indigenous perspectives and ways of being.</p>
+         <p>The paper is organized in the following manner: the next section examines the role of IK in sustainability science and the range of issues that arise in conducting indigenous-related research. The third section presents the case study of indigenous sustainability research from Aotearoa New Zealand where a new innovative knowledge integration methodology is used to provide a more inclusive and holistic approach to the notion of sustainability. This example is used to demonstrate the underlying different worldviews that IK holders and scientists often have and to highlight the necessity of considering the differences and similarities of different types of knowledges in knowledge production processes. This, we argue, does not mean only considering IK but finding innovative ways to understand and consider the multiplicity of meanings that exist in each context and influence what `sustainability' can and should look like. The last section summarizes the main points of the paper and also provides some suggestions how to move forward in this area of research.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Synthesis of IK Methodologies and Sustainability</title>
+         <p>Sustainability science has been critiqued for not giving indigenous issues and knowledge a prominent place in its investigations 
+        [
+        <xref ref-type="bibr" rid="R21">21</xref>
+        ]
+    . For example, the proposed Sustainability Science research agenda 
+        [
+        <xref ref-type="bibr" rid="R22">22</xref>
+        ]
+     that sought to define the domain of sustainability science makes no mention of indigenous groups or differential vulnerabilities across particular groups in society. While many of the proposed research themes can certainly be applied to indigenous sustainability research, the agenda treats `society', to some extent, as a somewhat uniform collective, with agreed processes of knowledge production. Yet, recently some sustainability scientists are starting to recognize IK as an integral part of sustainability science and draw attention to the ways IK can contribute to the research agenda 
+        [
+        <xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R14">14</xref>
+        ]
+    .</p>
+         <p>It is important to recognize the colonial histories and origins of many of the social sciences, and the ways in which research was used to justify colonial rule over indigenous and non-white (non- indigenous) populations 
+        [
+        <xref ref-type="bibr" rid="R23">23</xref>
+        ]
+    .  In particular geographical knowledge about environment, race, and health were intricately bound up with the emergent systems of governance in colonial societies 
+        [
+        <xref ref-type="bibr" rid="R23">23</xref>
+        ]
+    . Theories of environmental determinism sought to explain indigenous populations' `primitivism' as a consequence of environmental constraints and racial deficits, which in turn informed colonial policies that sought to exclude or marginalize indigenous and other non-white (non-indigenous) populations 
+        [
+        <xref ref-type="bibr" rid="R24">24</xref>, <xref ref-type="bibr" rid="R25">25</xref>
+        ]
+    .</p>
+         <p>Coombes et al. (
+        [
+        <xref ref-type="bibr" rid="R26">26</xref>
+        ]
+    , p. 846) argue that place-based ethnographies, a popular approach in global environmental research, all too frequently …frame Indigenous peoples as eco-friendly denizens of particular localities…which seek to lock Indigenous peoples into pre-modern development, perpetuate gender bias, or invalidate national-scale activism”. Cameron 
+        [
+        <xref ref-type="bibr" rid="R27">27</xref>
+        ]
+    , Watson and Huntington 
+        [
+        <xref ref-type="bibr" rid="R28">28</xref>
+        ]
+    , and Parsons 
+        [
+        <xref ref-type="bibr" rid="R25">25</xref>
+        ]
+     critique in turn how indigenous experiences in a diversity of contexts (the North America Arctic, Australia) are narrated in the climate change scholarship as either passive victims or heroic resistance to external forces, which subtly works towards reinforcing a disabling social pathology 
+        [
+        <xref ref-type="bibr" rid="R29">29</xref>
+        ]
+    .</p>
+         <p>One of the most frequent objections to research pertains to intellectual property rights, and the appropriation of IK by researchers and the use of this knowledge for economic purposes (such as
+the commercialization and copyrighting of IK about biological agents).Akom 
+        [
+        <xref ref-type="bibr" rid="R30">30</xref>
+        ]
+     and Coombes et al. 
+        [
+        <xref ref-type="bibr" rid="R26">26</xref>
+        ]
+     draw on Freie's ideas of liberatory praxis as a way to address indigenous peoples’ objections to research through a deliberate shift away from neocolonial representations of the indigenous Other towards indigenous social science research centered on advocacy, activism and collective problem-solving. In an indigenous context, how knowledge is created and transferred, and the kinds of social relationships that are built, are an important part of the `engagement' that determines the extent to which knowledge is considered useful for communities. Participation and dialogue should therefore be at the heart of this engagement to ensure the research and policy initiatives address and fit within the communities' priorities 
+        [
+        <xref ref-type="bibr" rid="R31">31</xref>
+        ]
+    .</p>
+         <p>Understanding power relations and rights to knowledge dissemination is equally important. A research project examining indigenous weather forecasts in Vanuatu considered these dimensions and enabled the indigenous participants to first agree on the kind of information that could be reported for the general public and was not considered sacred or owned by particular bloodline or role in the community 
+        [
+        <xref ref-type="bibr" rid="R32">32</xref>
+        ]
+    . Indeed this shift, we suggest, should be at the heart of emergent Indigenous co-design research projects that aim to understand the indigenous socio- political transformations to more sustainable futures. Next, we present a case study that looks at how Indigenous values and perceptions can provide the basis for a more inclusive multi-value management approach and one of the bases for sustainability research and policy formulation.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Case Study: Rethinking the Future of Freshwater Systems in Aotearoa New Zealand</title>
+         <p>InAotearoa New Zealand, freshwater systems are affected by persistent degradation due to human activities. Some of the most immediate problems include nutrient contamination, heavy metals, flooding, biodiversity loss, invasive species, and over extraction. These problems present ongoing threats to the health and well-being of both ecological and human communities. Researchers at the University of Auckland are undertaking a transdisciplinary research project that investigates attempts to accommodate mātauranga Māori (Māori IK) and scientific knowledge in river co- governance and co-management. The three-year project (2016–2018) investigates the ways in which Ngāti Maniapoto (a Māori iwi or tribe in the central North Island) are asserting mātauranga and kaitiakitanga (Māori stewardship according to iwi aspirations and practices) in relation to the co-governance and co-management of the Waipā River.</p>
+         <p>The Waipā River is the major tributary of the Waikato River, New Zealand's longest river, and has been identified as one of the most degraded freshwater systems in Aotearoa New Zealand 
+        [
+        <xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>
+        ]
+    . The Waipā River and its tributaries flow through environments that have been radically changed by human activities over the last 180 years. The consequences of radical environmental changes within the river catchment now present challenges for local communities and institutions (including local iwi). Co-governance and co-management of the Waipā River are formalized through legislation passed in 2012 (Nga wai o Maniapoto (Waipā River) Act 2012) following the settlement of a Treaty of Waitangi claim. The Treaty settlement was enabled by right to redress for grievances under the Treaty of Waitangi, which was signed by representatives of the British Crown and Māori Chiefs on 6 February 1840. The starting point for the Maniapoto co-governance and co-management arrangements was the settlement between the Crown and Waikato-Tainui in 2008 in respect of the Waikato River. The current research examines the histories of the Waipā River and the close links between Māori dispossession and environmental change from the 1860s to the 1900s; contemporary governance arrangements and institutional changes that emphasize collaboration between Ngāti Maniapoto and the Crown; and, the ways in which expectations about uses of rivers and aspirations for river futures are evolving and being translated into restoration actions.</p>
+         <p>The formal project was preceded by a six-year engagement between one of the researchers and Ngāti Maniapoto. As well as enabling a personal relationship (connecting with the researcher's
+own iwi) and professional relationship (participating in various projects and taking roles on various iwi environmental boards) the enactive and performative nature of these entanglements provided the foundation for research premised on co-production 
+        [
+        <xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R36">36</xref>
+        ]
+    . Enactive research and performative methods provide a means by which to address the criticisms leveled at ethnographic research and the tendency to essentialize indigenous peoples and communities, and extractive research approaches that perpetuate colonizing technologies and subjugate IK and practices. Moreover, the intersubjective nature of this research entanglement 
+        [
+        <xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>
+        ]
+     and the time spent interacting with various iwi members in a range of forums enabled trust to be built. This period of interaction was accompanied by ongoing critical reflection to make sense of the researcher's changing subjectivities and positionality as iwi member (insider), academic researcher (outsider), professional `expert' (outsider), and expert for <italic>iwi</italic> (insider) 
+        [
+        <xref ref-type="bibr" rid="R38">38</xref>, <xref ref-type="bibr" rid="R39">39</xref>
+        ]
+    .</p>
+         <p>First-hand experiences and reflections were complemented by secondary data sources; specifically, plans designed to manage the Waipā River and to inform restoration efforts. These data provided a platform for the “Rethinking the future of freshwater systems in Aotearoa New Zealand” project. The project was designed as an intrinsic case study 
+        [
+        <xref ref-type="bibr" rid="R40">40</xref>
+        ]
+     and adopts a mixed method approach that utilizes both quantitative and qualitative data 
+        [
+        <xref ref-type="bibr" rid="R41">41</xref>
+        ]
+    . Explicit to the research is the need to adopt an approach that is sensitive to the cultural requirements of Ngāti Maniapoto. This means respecting cultural traditions and customs with regard to engagement, interaction, and knowledge sharing and conducting research in a culturally appropriate manner. Qualitative research techniques include: semi-structured interviews with key stakeholders, including local <italic>iwi</italic>, local governments, industry and civil society groups; workshops with diverse stakeholders to explore people's lived experiences of the Waipā River; observations of changing environmental conditions in specific locations; and the use of Photovoice to document people's experiences in particular places 
+        [
+        <xref ref-type="bibr" rid="R42">42</xref>
+        ]
+    . These techniques are supported by quantitative data obtained from surveys, census data and other statistical datasets, and maps.</p>
+         <p>The research findings to date indicate that progress in freshwater restoration and management of the Waipā River, as with other rivers in Aotearoa New Zealand, depends on building a better understanding of the multiple ways through which the biophysical, socio-cultural and economic dimensions of freshwater have been experienced, understood and narrated over time. For Waikato Regional Council (WRC), the regional government body responsible for the planning and management of the Waipā River, river management and, thus, water quality concerns focus on sedimentation, nutrient levels as a consequence of agricultural intensification, and microbial contamination (Waikato Regional Council 2014). In response, the WRC developed the Waipā Catchment Plan in collaboration with the Waipā Zone Liaison Subcommittee, Maniaipoto Māori Trust Board and representatives of other <italic>iwi</italic> groups with an interest in the Waikato River (Waikato- Tainui Te Kauhanganui Incorporated, Raukawa Charitable Trust, Ngāti Mahanga and Ngāti Koroki Kahukura). The Catchment Plan adopts a catchment approach and the WRC seeks to address water quality problems through the use of models to identify highly erodible land, pressure points and sediment yields. In addition, monitoring stations are located along the Waipā and its tributary to measure changes in water quality. While this conventional scientific approach to estimating sediment losses and levels of nitrogen and phosphorous in waterways is useful for addressing the physical dimensions and characteristics of H2O 
+        [
+        <xref ref-type="bibr" rid="R43">43</xref>
+        ]
+    , the social, cultural, spiritual and metaphysical characteristics of the <italic>awa</italic> (river) are absent from such calculative practices.
+</p>
+         <p>For Ngāti Maniapoto the Waipā River is identified as being at the heart of Maniapoto spiritual and physical well-being and tribal identity and culture. The Waipā is considered a <italic>taonga</italic> (treasure) and the <italic>mauri</italic> (life force) of the <italic>iwi</italic>.  As such, decisions on how to manage the Waipā necessarily include attending to Waiwaia, a taniwha and kaitiaki (guardian) of the Waipā River and the Ngāti Maniapoto people. <italic>Taniwha</italic> are supernatural creatures that inhabit rivers, lakes, or caves, and may be seen as symbols of the mythical and metaphorical embodiment of the relations between Māori and their rivers. To Maniapoto, Waiwaia is held to be the essence and well-being of the Waipā. This relationship is explicitly acknowledged in Nga wai o Maniapoto (Waipā River) Act 2012. Following the passing of this legislation, Ngāti Maniapoto have engaged in a number of projects that focus on managing and restoring the Waipā. The <italic>Maniapoto Upper Waipā Fisheries Plan 2015</italic> provides for the protection, restoration and enhancement of the fisheries resources of the Waipā River catchment (Watene-Rawiri, Kukutai and Maniapoto Māori Trust Board, 2015). In developing the <italic>Fisheries Plan</italic>, the Fisheries Reference Group adopted a <italic>mātauranga</italic> framework to convey the ontological and epistemological commitment by the group to acknowledging the multiple dimensions constituting the Waipā River (Kukutai, Watene-Rawiri and Maniapoto Māori Trust Board, 2015. Not only is Waiwaia explicitly identified and acknowledged within the <italic>Fisheries Plan</italic>; he was ever present at the meetings undertaken to develop the <italic>Fisheries Plan</italic> through recollections and stories shared by members of the <italic>iwi</italic> (Watene-Rawiri, Kukutai and Maniapoto Māori Trust Board, 2015). Ensuring the continuation of the reciprocal relationship between Waiwaia and Ngāti Maniapoto is at the forefront of the <italic>Fisheries Plan</italic>.</p>
+         <p>These plans speak to the challenges of reconciling different knowledge traditions and ways of knowing rivers that characterize western science and Indigenous knowledge. In acknowledging that transforming freshwater management requires a broader appreciation of the diversity of communities, knowledges, and future planning needs, there is currently no consensus about how best to accommodate these different dimensions or how they can be used to build a freshwater management system able to halt environmental decline and enhance river health for future generations. For WRC, while the <italic>Waipā Catchment Plan</italic> acknowledges the special relationship between Ngāti Maniapoto, Waiwaia and the Waipā, an explicit <italic>mātauranga</italic> approach is absent.
+Rather than a lack of care or disregard for Waiwaia and <italic>mātauranga</italic> Māori, the care and protection
+of a supernatural creature and the spiritual dimensions of the river are not the traditional purview of a management organization utilizing western science. The <italic>Maniapoto Upper Waipā Fisheries Plan 2015</italic> can be seen as an attempt to incorporate scientific information into a <italic>mātauranga</italic> framework. While there is potential for this plan to precipitate changes in how fisheries (and river) management is imagined and practiced, the possibility also exists that a dual system is perpetuated in which Ngāti Maniapoto concerns are essentialized as simply `cultural' and Western science retains its privileged position in determining river futures. New, innovative, transdisciplinary approaches that move beyond the reliance on conventional scientific knowledge as the sole basis for thinking about freshwater management and restoration are needed (Figure <xref ref-type="fig" rid="Fig02">2</xref>).</p>
+         <p>The overall goal of the “Rethinking Freshwater” project is to co-produce knowledge about freshwater with Māori, particularly Ngāti Maniapoto, and stakeholders in the Waipā River catchment. Stakeholders include local and regional governments, scientists, individual farmers, recreational users of the Waipā River, as well as a range of private sector and industry organisations. Understanding how IK can be accommodated in river restoration to enable the expression of cultural and spiritual values provides an opportunity to enhance ecological restoration scholarship and practice and to rethink how water resource management practices are done. By considering different knowledges and values (social, cultural and spiritual, in addition to economic and ecological) that are attached to the Waipā River, this project seeks to shift conceptual thinking away from narrowly delineated scientific measures of river value to a more inclusive approach.</p>
+         <fig id="Fig02" position="float" orientation="portrait">
+            <label>
+                Figure 2.</label>
+            <caption>
+               <title>The different kinds of knowledge creating a hybrid knowledge space in the context of the Waipā River catchment and its management.</title>
+            </caption>
+            <graphic xlink:href="cis-5.1.7/Fig02.jpeg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         
+      </sec>
+      <sec id="s4">
+         <title>4.- Way Forward</title>
+         <p>In this paper we have discussed the role of IK in sustainability science and the challenges associated with the inclusion and consideration of IK in scientific discourse in general. We discussed the rationale for considering scientific knowledge and IK as mutually inclusive and useful sources of knowledge in reaching a fuller understanding of sustainability. Our Waipā River case study demonstrates attempts by conventional resource managers and indigenous peoples to utilize different knowledges to inform river management practices. In both cases, we found that the existence of different interpretations of river degradation and identifying possible solutions in a more holistic manner was recognized; however, the extent to which these different knowledges were translated into management plans (and practices) varied.</p>
+         <p>We argue that there is a need to recognize the influence that environmental determinism and colonialism have in shaping the sustainability research agenda as is the need to pay closer attention
+to how research is designed, to what ends, and how communities are framed in research. All too often who is included in ‘society’ and the assessment of desired outcomes is exclusive of indigenous groups and represents mainstream ideologies that have become manifested overtime through visions which in turn have guided modifications of landscapes 
+        [
+        <xref ref-type="bibr" rid="R44">44</xref>
+        ]
+    . We suggest that scholars need to adopt innovative methodologies that take into account both the historical legacies and present day concerns of indigenous communities about research, which includes confronting the “lingering imperialism…embedded in self-proclaimed critical methodologies” 
+        [
+        <xref ref-type="bibr" rid="R26">26</xref>
+        ]
+    . In our research, we examined the historical records on governance decisions on New Zealand’s landscape modifications 
+        [
+        <xref ref-type="bibr" rid="R44">44</xref>
+        ]
+    . For the Waipā, we are constructing narratives of river knowledges and practices through historical analyses, interviews with diverse stakeholders, workshops run according to Māori tradition and cultural practices, and other ethnographic techniques that facilitate the sharing of stories to gain deeper insights into the diverse ideologies and sources of knowledge embedded across time and space.</p>
+         <p>We further propose four key principles that should be applied especially in indigenous-related sustainability research:</p>
+         <list list-type="order">
+            <list-item>
+               <p>
+                  <italic>Acceptance and advocacy of Indigenous Knowledge systems:</italic> Accepting and adequately representing knowledge systems that do not conform to Western scientific standards. For Indigenous communities, their narratives, oral histories, and cultural practices are essential avenues for knowledge transmission. Hence, approaches that view knowledge systems as contextually-based and located in specific places and times is necessary while also recognizing the broader insights that place-specific IK has.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Positionality in research:</italic> Critical awareness of how research is shaped by power, relationships, and ethics. This approach views people as collaborators and partners in co- design of research and production of knowledge, rather than merely as informants.</p>
+            </list-item>
+            <list-item>
+               <p>
+                  <italic>Co-designing research agenda:</italic> Research agenda needs to be co-designed by Indigenous communities and fit with their priorities.</p>
+            </list-item>
+            <list-item>
+               <p><italic>Two-way knowledge sharing:</italic> Since academic research is about searching for `new' knowledge or `new' ways of thinking, researchers rarely consider sharing their research. Sharing knowledge needs to be an ongoing and two-way process. Giving indigenous communities access to all copies of research documents and engaging them in the analysis process will ensure that the results are participatory and representative.</p>
+            </list-item>
+         </list>
+         <p>We encourage approaches that are explicit about the kind of knowledge each stakeholder group holds as most `valid' to guide the development of solutions to achieving sustainability. In our opinion, such an approach enables a deeper understanding of the diversity of perceptions needed for more holistic approaches to sustainability. This is, however, not always straight forward particularly when ideas embedded in IK and/or policy discourse conflict with researchers' own ideas and values. IK is not a homogeneous body of knowledge and claims of the need to promote a particular traditional practice and way of being can be contested within a cultural group. To respect the diversity found within IK, we as researchers must work with different segments of the communities (e.g. women, younger people, people with disabilities), to ensure appropriate protocols concerning the sharing and representation of IK are accepted across the group.</p>
+         <p>In such cases a normative and ethical challenge emerges that requires unpacking how researchers and the groups we work with conceptualize `sustainability', what expectations we share and do not share in terms of how sustainability could be achieved, and what goals and values are ultimately driving these aspirations. While this necessitates the integration of different knowledge systems 
+        [
+        <xref ref-type="bibr" rid="R45">45</xref>
+        ]
+     and finding ways to accommodate spiritual, material and technical views embedded in natural resource management, it also calls for closer introspection of our own biases, values, and preferences. Creating such diverse yet shared visions of sustainability 
+        [
+        <xref ref-type="bibr" rid="R46">46</xref>
+        ]
+     can lead to richer and more inclusive ways to tackle solutions.</p>
+        
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R02">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Adger</surname>
+                     <given-names>W.N. AND J.M. Pulhin AND J. Barnett AND G.D. Dabelko AND G.K. Hovelsrud AND M. Levy AND Oswald Spring AND C.H. Vogel</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Field</surname>
+                     <given-names>C.B. AND V.R. Barros AND D.J. Dokken AND K.J. Mach AND M.D. Mastrandrea AND T.E. Bilir AND M. Chatterjee AND K.L. Ebi AND Y.O. Estrada AND R.C. Genova AND B. Girma AND E.S. Kissel AND A.N. Levy AND S. MacCracken AND P.R. Mastrandrea AMD and L.L. White</given-names>
+                  </name>
+               </person-group>
+               <source>Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</source>
+               <chapter-title>Human security</chapter-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <year>2014</year>
+               <publisher-loc>Cambridge, UK and New York, NY, USA</publisher-loc>
+               <fpage>755</fpage>
+               <lpage>791</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R01">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>1995</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>26</volume>
+               <issue>3</issue>
+               <fpage>413</fpage>
+               <lpage>439</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Arun Agrawal</surname>
+                  </name>
+               </person-group>
+               <article-title>Dismantling the Divide Between Indigenous and Scientific Knowledge</article-title>
+               <source>Development and Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2011</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>113</fpage>
+               <lpage>131</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Antwi A.A. Akom</surname>
+                  </name>
+               </person-group>
+               <article-title>Black emancipatory action research: integrating a theory of structural racialisation into ethnographic and participatory action research methods</article-title>
+               <source>Ethnography and Education</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anderson</surname>
+                     <given-names>W. </given-names>
+                  </name>
+               </person-group>
+               <source>The Cultivation of Whiteness: Science, Health and Racial Destiny in Australia</source>
+               <publisher-name>Melbourne University Press</publisher-name>
+               <year>2002</year>
+               <publisher-loc>Melbourne, Australia</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Johns Hopkins University Press</publisher-name>
+               <volume>86</volume>
+               <issue>4</issue>
+               <fpage>596</fpage>
+               <lpage>626</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Alison Bashford</surname>
+                  </name>
+               </person-group>
+               <article-title>Anticolonial Climates: Physiology, Ecology, and Global Population, 1920s-1950s</article-title>
+               <source>Bulletin of the History of Medicine</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>335</volume>
+               <issue>6074</issue>
+               <fpage>1306</fpage>
+               <lpage>1307</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>F. Biermann</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>K. Abbott</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Andresen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>K. Backstrand</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Bernstein</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>M. M. Betsill</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H. Bulkeley</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>B. Cashore</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Clapp</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Folke</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Gupta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Gupta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. M. Haas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Jordan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>N. Kanie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>T. Kluvankova-Oravska</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>L. Lebel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>D. Liverman</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Meadowcroft</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. B. Mitchell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. Newell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Oberthur</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>L. Olsson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>P. Pattberg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. Sanchez-Rodriguez</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>H. Schroeder</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Underdal</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. C. Vieira</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Vogel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>O. R. Young</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A. Brock</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. Zondervan</surname>
+                  </name>
+               </person-group>
+               <article-title>Navigating the Anthropocene: Improving Earth System Governance</article-title>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Michael S. Carolan</surname>
+                  </name>
+               </person-group>
+               <article-title>The Wild Side of Agro-food Studies: On Co-experimentation, Politics, Change, and Hope</article-title>
+               <source>Sociologia Ruralis</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2003</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>25</volume>
+               <issue>2</issue>
+               <fpage>193</fpage>
+               <lpage>204</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>M. Callon</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>V. Rabeharisoa</surname>
+                  </name>
+               </person-group>
+               <article-title>Research \textquotedblleftin the wild\textquotedblright and the shaping of new social identities</article-title>
+               <source>Technology in Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>22</volume>
+               <issue>1</issue>
+               <fpage>103</fpage>
+               <lpage>114</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Emilie S. Cameron</surname>
+                  </name>
+               </person-group>
+               <article-title>Securing Indigenous politics: A critique of the vulnerability and adaptation approach to the human dimensions of climate change in the Canadian Arctic</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2003</year>
+               <publisher-name>Proceedings of the National Academy of Sciences</publisher-name>
+               <volume>100</volume>
+               <issue>14</issue>
+               <fpage>8086</fpage>
+               <lpage>8091</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>D. W. Cash</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>W. C. Clark</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>F. Alcock</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>N. M. Dickson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>N. Eckley</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>D. H. Guston</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. Jager</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. B. Mitchell</surname>
+                  </name>
+               </person-group>
+               <article-title>Knowledge systems for sustainable development</article-title>
+               <source>Proceedings of the National Academy of Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>American Meteorological Society</publisher-name>
+               <volume>6</volume>
+               <issue>4</issue>
+               <fpage>445</fpage>
+               <lpage>450</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Savin S. Chand</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lynda E. Chambers</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mike Waiwai</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Philip Malsale</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Elisabeth Thompson</surname>
+                  </name>
+               </person-group>
+               <article-title>Indigenous Knowledge for Environmental Prediction in the Pacific Island Countries</article-title>
+               <source>Weather, Climate, and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>4</volume>
+               <issue>5</issue>
+               <fpage>339</fpage>
+               <lpage>342</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Declan Conway</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johanna Mustelin</surname>
+                  </name>
+               </person-group>
+               <article-title>Strategies for improving adaptation practice in developing countries</article-title>
+               <source>Nature Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>38</volume>
+               <issue>6</issue>
+               <fpage>845</fpage>
+               <lpage>854</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>B. Coombes</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. T. Johnson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>R. Howitt</surname>
+                  </name>
+               </person-group>
+               <article-title>Indigenous geographies III: Methodological innovation and the unsettling of participatory research</article-title>
+               <source>Progress in Human Geography</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Coombes</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gombay</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>J. T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shaw</surname>
+                     <given-names>W. S.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>V. J. del Casino and M. E. Thomas and P. Cloke and R. Panelli</surname>
+                  </name>
+               </person-group>
+               <source>A Companion to Social Geography</source>
+               <chapter-title>The challenges of and from Indigenous geographies</chapter-title>
+               <publisher-name>Blackwell</publisher-name>
+               <year>2011</year>
+               <fpage>472</fpage>
+               <lpage>489</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Librello</publisher-name>
+               <volume>1</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Susan L. Cutter</surname>
+                  </name>
+               </person-group>
+               <article-title>Building Disaster Resilience: Steps toward Sustainability</article-title>
+               <source>Challenges in Sustainability</source>
+               <fpage>72</fpage>
+               <lpage>79</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>56</volume>
+               <issue>1</issue>
+               <fpage>49</fpage>
+               <lpage>59</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>JR Dymond</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A-GE Ausseil</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>RL Parfitt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>A Herzig</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>RW McDowell</surname>
+                  </name>
+               </person-group>
+               <article-title>Nitrate and phosphorus leaching in New Zealand: a national perspective</article-title>
+               <source>New Zealand Journal of Agricultural Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>31</volume>
+               <fpage>272</fpage>
+               <lpage>284</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>\'Alvaro Fernández-Llamazares</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Isabel D\'\iaz-Reviriego</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ana C. Luz</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mar Cabeza</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aili Pyhälä</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Victoria Reyes-Garc\'\ia</surname>
+                  </name>
+               </person-group>
+               <article-title>Rapid ecosystem change challenges the adaptive capacity of Local Environmental Knowledge</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>22</volume>
+               <issue>4</issue>
+               <fpage>456</fpage>
+               <lpage>473</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Karen T. Fisher</surname>
+                  </name>
+               </person-group>
+               <article-title>Positionality, subjectivity, and race in transnational and transcultural geographical research</article-title>
+               <source>Gender, Place &amp; Culture</source>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2006</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <fpage>145</fpage>
+               <lpage>160</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>James D. Ford</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barry Smit</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johanna Wandel</surname>
+                  </name>
+               </person-group>
+               <article-title>Vulnerability to climate change in the Arctic: A case study from Arctic Bay, Canada</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Sediment management in the Waikato region, New Zealand</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hill</surname>
+                     <given-names>Reece</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Hydrology (NZ)</source>
+               <volume>50</volume>
+               <issue>1</issue>
+               <fpage>227</fpage>
+               <lpage>240</lpage>
+               <year>2011</year>
+               <publisher-name>New Zealand Hydrological Society</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>128</volume>
+               <issue>1-2</issue>
+               <fpage>35</fpage>
+               <lpage>56</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lisa Hiwasaki</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Emmanuel Luna</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Syamsidik</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jos\'e Adriano Mar\ccal</surname>
+                  </name>
+               </person-group>
+               <article-title>Local and indigenous knowledge on climate-related hazards of coastal and small island communities in Southeast Asia</article-title>
+               <source>Climatic Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hodgson</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <source>Traditional knowledge and Red Cross disaster preparedness in the Pacific, Red Cross and Returned Australian Youth Ambassadors for Development (RAYAD) program</source>
+               <year>2010</year>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.pacificdisaster.net/pdnadmin/data/original/</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2010</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>69</fpage>
+               <lpage>82</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Anne Jerneck</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lennart Olsson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barry Ness</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stefan Anderberg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Matthias Baier</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eric Clark</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thomas Hickler</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alf Hornborg</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Annica Kronsell</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eva Lsvbrand</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johannes Persson</surname>
+                  </name>
+               </person-group>
+               <article-title>Structuring sustainability science</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://doi.org/10.1007%2Fs11625-015-0349-x"
+                         xlink:type="simple">https://doi.org/10.1007%2Fs11625-015-0349-x</ext-link>
+               <year>2015</year>
+               <month>dec</month>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jay T. Johnson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richard Howitt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gregory Cajete</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fikret Berkes</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Renee Pualani Louis</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andrew Kliskey</surname>
+                  </name>
+               </person-group>
+               <article-title>Weaving Indigenous and sustainability sciences to diversify our methods</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>37</volume>
+               <issue>2</issue>
+               <fpage>59</fpage>
+               <lpage>73</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Darren N. T. King</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>James Goff</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Apanui Skipper</surname>
+                  </name>
+               </person-group>
+               <article-title>M\=aori environmental knowledge and natural hazards in Aotearoa-New Zealand</article-title>
+               <source>Journal of the Royal Society of New Zealand</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>18</volume>
+               <issue>7</issue>
+               <fpage>1057</fpage>
+               <lpage>1076</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Louis Lebel</surname>
+                  </name>
+               </person-group>
+               <article-title>Local knowledge and adaptation to climate change in natural resource-based societies of the Asia-Pacific</article-title>
+               <source>Mitigation and Adaptation Strategies for Global Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Leduc</surname>
+                     <given-names>T. B.</given-names>
+                  </name>
+               </person-group>
+               <source>Climate, Culture, Change: Inuit and Western Dialogues with a Warming North</source>
+               <publisher-name>University of Ottawa Press</publisher-name>
+               <year>2010</year>
+               <publisher-loc>Ottawa, Canada</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>23</volume>
+               <issue>3</issue>
+               <fpage>623</fpage>
+               <lpage>632</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sonia Leonard</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meg Parsons</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Knut Olawsky</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frances Kofod</surname>
+                  </name>
+               </person-group>
+               <article-title>The role of culture and traditional knowledge in climate change adaptation: Insights from East Kimberley, Australia</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>111</fpage>
+               <lpage>120</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jamie Linton</surname>
+                  </name>
+               </person-group>
+               <article-title>Modern water and its discontents: a history of hydrosocial renewal</article-title>
+               <source>Wiley Interdisciplinary Reviews: Water</source>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>59</volume>
+               <fpage>142</fpage>
+               <lpage>152</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kirsten Maclean</surname>
+                  </name>
+               </person-group>
+               <article-title>Crossing cultural boundaries: Integrating Indigenous water knowledge into water governance through co-research in the Queensland Wet Tropics, Australia</article-title>
+               <source>Geoforum</source>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2007</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>7</volume>
+               <issue>4</issue>
+               <fpage>245</fpage>
+               <lpage>256</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>J Mercer</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>D Domineyhowes AND I. Kelman AND K. Lloyd</surname>
+                  </name>
+               </person-group>
+               <article-title>The potential for combining indigenous and western knowledge in reducing vulnerability to environmental hazards in small island developing states</article-title>
+               <source>Environmental Hazards</source>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Linkoping University Electronic Press</publisher-name>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>129</fpage>
+               <lpage>150</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Walter Mignolo</surname>
+                  </name>
+               </person-group>
+               <article-title>Geopolitics of sensing and knowing: On (de)coloniality, border thinking, and epistemic disobedience</article-title>
+               <source>Confero Essays on Education Philosophy and Politics</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nakashima</surname>
+                     <given-names>D. J. AND K. Galloway McLean AND H. D. Thulstrup AND A. Ramos Castillo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>J. T. Rubis</surname>
+                  </name>
+               </person-group>
+               <source>Weathering Uncertainty: Traditional Knowledge for Climate Change Assessment and Adaptation</source>
+               <publisher-name>UNESCO and UNU</publisher-name>
+               <year>2012</year>
+               <publisher-loc>Paris, France and Darwin, Australia</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://unesdoc.unesco.org/images/0021/002166/216613e.pdf"
+                         xlink:type="simple">http://unesdoc.unesco.org/images/0021/002166/216613e.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Odora Hoopers</surname>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Odora Hoopers</surname>
+                  </name>
+               </person-group>
+               <source>Indigenous Knowledge and the Integration of Knowledge Systems. Towards a Philosophy of Articulation</source>
+               <chapter-title>Indigenous Knowledge and the integration of knowledge systems: Towards a conceptual and methodological framework</chapter-title>
+               <publisher-name>New Africa Books</publisher-name>
+               <year>2002</year>
+               <fpage>2</fpage>
+               <lpage>22</lpage>
+               <publisher-loc>Cape Town, South Africa</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>65</volume>
+               <fpage>45</fpage>
+               <lpage>56</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Florin Popa</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mathieu Guillermin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tom Dedeurwaerdere</surname>
+                  </name>
+               </person-group>
+               <article-title>A pragmatist approach to transdisciplinarity in sustainability research: From complex systems theory to reflexive science</article-title>
+               <source>Futures</source>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Wiley-Blackwell</publisher-name>
+               <fpage>281</fpage>
+               <lpage>288</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meg Parsons</surname>
+                  </name>
+               </person-group>
+               <source>Continuity and change</source>
+               <chapter-title>Applied Studies in Climate Adaptation</chapter-title>
+              
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Palutikof</surname>
+                     <given-names>J and Boulter, S and Barnett, J and Rissik, D</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>38</volume>
+               <fpage>82</fpage>
+               <lpage>96</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Meg Parsons</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johanna Nalau</surname>
+                  </name>
+               </person-group>
+               <article-title>Historical analogies as tools in understanding transformation</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>14</volume>
+               <fpage>127</fpage>
+               <lpage>135</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Benjamin L Preston</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lauren Rickards</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hartmut Funfgeld</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rodney J Keenan</surname>
+                  </name>
+               </person-group>
+               <article-title>Toward reflexive climate adaptation research</article-title>
+               <source>Current Opinion in Environmental Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>14</volume>
+               <fpage>47</fpage>
+               <lpage>49</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gerda Roelvink</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Magdalena Zolkos</surname>
+                  </name>
+               </person-group>
+               <article-title>Affective ontologies: Post-humanist perspectives on the self, feeling and intersubjectivity</article-title>
+               <source>Emotion, Space and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>38</volume>
+               <issue>1</issue>
+               <fpage>2</fpage>
+               <lpage>6</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kazuhiko Takeuchi</surname>
+                  </name>
+               </person-group>
+               <article-title>The ideal form of transdisciplinary research as seen from the perspective of sustainability science, considering the future development of IATSS</article-title>
+               <source>IATSS Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>5</volume>
+               <issue>3</issue>
+               <fpage>192</fpage>
+               <lpage>200</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Annette Watson</surname>
+                  </name>
+               </person-group>
+               <article-title>I crashed the boat and wept: Localizing the \textquotedblleftfield\textquotedblright in critical geographic practice</article-title>
+               <source>Emotion, Space and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2014</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>79</volume>
+               <issue>6</issue>
+               <fpage>721</fpage>
+               <lpage>736</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Annette Watson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Orville Huntington</surname>
+                  </name>
+               </person-group>
+               <article-title>Transgressions of the man on the moon: climate change, Indigenous expertise, and the posthumanist ethics of place and space</article-title>
+               <source>GeoJournal</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2015</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>25</fpage>
+               <lpage>32</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kyle Powys Whyte</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Joseph P. Brewer</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jay T. Johnson</surname>
+                  </name>
+               </person-group>
+               <article-title>Weaving Indigenous science, protocols and sustainability science</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <year>2013</year>
+               <publisher-name>Springer Nature</publisher-name>
+               <volume>9</volume>
+               <issue>4</issue>
+               <fpage>497</fpage>
+               <lpage>512</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Arnim Wiek</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>David Iwaniec</surname>
+                  </name>
+               </person-group>
+               <article-title>Quality criteria for visions and visioning in sustainability science</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stake</surname>
+                     <given-names>R. E.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>N. K. Denzin and Y. S. Lincoln</surname>
+                  </name>
+               </person-group>
+               <source>Strategies of Qualitative Inquiry</source>
+               <chapter-title>Case Studies</chapter-title>
+               <publisher-name>Sage Publications</publisher-name>
+               <year>2003</year>
+               <publisher-loc>Thousand Oaks, CA, USA</publisher-loc>
+               <fpage>134</fpage>
+               <lpage>164</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Elwood</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>D. Delyser and S. Herbert and S. Aitken and M. Crang and L. McDowell</surname>
+                  </name>
+               </person-group>
+               <source>The SAGE Handbook of Qualitative Geography</source>
+               <chapter-title>Mixed methods: thinking, doing, and asking in multiple ways</chapter-title>
+               <publisher-name>SAGE</publisher-name>
+               <year>2010</year>
+               <publisher-loc>London, UK</publisher-loc>
+               <fpage>94</fpage>
+               <lpage>115</lpage>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

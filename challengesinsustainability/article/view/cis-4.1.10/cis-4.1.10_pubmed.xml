@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2016.04010010</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Urban Agriculture, Commons and Urban Policies: Scaling up Local Innovation</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mancebo</surname>
+                  <given-names>François</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>International Research Center on Sustainability, Rheims University, Rheims, France</aff>
+         <pub-date pub-type="ppub">
+            <day>17</day>
+            <month>05</month>
+            <year>2016</year>
+         </pub-date>
+         <volume>4</volume>
+         <issue>1</issue>
+         <fpage>10</fpage>
+         <lpage>19</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>May urban agriculture be the cornerstone that helps reconfigure more sustainable cities and if so, under which conditions? And if so, what type of urban agriculture? Such are the two issues underlying this article. Why not counteracting urban sprawl by fostering what could be called “rural sprawl”, by introducing nature and rural characteristics such as farming within the city, in its interstitial areas and wastelands? In this perspective, urban agriculture becomes a common good, bringing people together and reshaping the whole urban fabric that would eventually propose a radical remaking of the urban. Urban agriculture lends particularly well to long-lasting urban policies, especially those turning environmental “bads”—such as brownfields and wastelands—into environmental “goods” and urban amenities. Urban agriculture in interstitial abandoned urban areas may be one of cities’ main seedbeds of creative innovation. It is all about the right to decide and the power to create, renewing and deepening what Henri Lefebvre called The Right to the City.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>common goods</kwd>
+            <kwd>inclusiveness</kwd>
+            <kwd>local innovation</kwd>
+            <kwd>sustainable city</kwd>
+            <kwd>sustainable design</kwd>
+            <kwd>urban agriculture</kwd>
+            <kwd>urban planning</kwd>
+            <kwd>urban policies</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction: Promoting “Rural Sprawl” across the Rural-Urban Continuum</title>
+         <p>Traditionally, sustainable urbanization is identified with the historical model of European cities, with their dense centers and their suburbs, while low density cities are usually associated with soil squandering and heavy traffic—when taking one’s car is the only solution to move from one place to another [<xref ref-type="bibr" rid="R01">1</xref>]. Thus, the compact city is often perceived as a universal model for urban transition to sustainability [<xref ref-type="bibr" rid="R02">2</xref>]. Even more so given the fact that urban sustainability is generally discussed in the light of making a better use of what already exists, which is well in line with the spatial dynamics of a compact city: Recycling the urban fabric and the urban functions without going through phases of obsolescence and degraded neighborhoods [<xref ref-type="bibr" rid="R03">3</xref>, <xref ref-type="bibr" rid="R04">4</xref>]. But this view is becoming controversial for at least three reasons. First, high densities also generate huge environmental nuisances and constraints [<xref ref-type="bibr" rid="R05">5</xref>], and besides climate policies introduce arguments for considering positively lower-density urbanization: For example, green neighborhoods planted with trees presenting a high water loss coefficient can lower the local temperature (10% of vegetation increase lowers the temperature as much as 1<inline-formula>
+               <mml:math id="S3.p1.m1"
+                         alttext="{}^{\circ}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mo>∘</mml:mo>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> C within a 100 m radius) [<xref ref-type="bibr" rid="R06">6</xref>].</p>
+         <p>Second, establishing a compact city may prove impracticable in the long run because it goes against market preferences and people’s desires for individual housing [<xref ref-type="bibr" rid="R07">7</xref>, <xref ref-type="bibr" rid="R08">8</xref>]. We must admit that whatever huge efforts were made by public authorities wherever in the world over more than fifty years to limit urban sprawl, they failed [<xref ref-type="bibr" rid="R09">9</xref>, <xref ref-type="bibr" rid="R10">10</xref>, <xref ref-type="bibr" rid="R11">11</xref>]: Sprawl has become the usual mode of production of the contemporary city, whatever its size, its administrative configuration or its policies [<xref ref-type="bibr" rid="R12">12</xref>, <xref ref-type="bibr" rid="R13">13</xref>]. Even “shrinking cities” and those facing decline and abandonment, have to deal with fragmentation and urban sprawl [<xref ref-type="bibr" rid="R14">14</xref>].</p>
+         <p>Third, many aspects of urban sustainability cannot be addressed within the limits of the compact city. For example, any city—be it sustainable or not—has to provide water and energy to its inhabitants, while reducing pollution and processing all the urban waste [<xref ref-type="bibr" rid="R15">15</xref>]. Beyond all the well-known technical solutions—smart grids, selective sorting, urban heating, wastewater treatment plants, intelligent buildings, etc.—the energy, the resources, the water and the food still come from outside the city limits. Sewage plants and garbage dumps are also outside. Even a large number of the people that work in the city live outside, when they cannot afford the expensive—and sometimes gentrified—urban centers [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. When a place looks sustainable by giving to other places the burden of its sustainability—exporting pollution and polluting activities, while siphoning resources—this place is not really sustainable. It benefits from what David Pearce calls imported sustainability [<xref ref-type="bibr" rid="R18">18</xref>], which is a major bias against the implementation of sustainability policies.</p>
+         <p>Thus, it is impossible to address urban sustainability by considering only urban centers. It is crucial to design sustainability across areas large enough to include most of the fluxes of the urban metabolism, which means areas encompassing suburban, periurban, and dependent rural or natural places [<xref ref-type="bibr" rid="R19">19</xref>]. As a matter of fact, the social, economic, scientific, technical and cultural transformations of the last few decades have produced deep changes in how society relates to space. Today, urban areas have either no boundaries or very fuzzy ones, as showed by Bernardo Secchi [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R21">21</xref>] with the notion of <italic>Citta Diffusa</italic> or by Thomas Sieverts [<xref ref-type="bibr" rid="R22">22</xref>] with the notion of <italic>Zwichenstadt</italic>. Why on earth are we supposed to set up a false dichotomy between urban and rural area, given that lifestyle, facilities and amenities are not so different? It is much more consistent to start addressing a whole “urban region” when considering urban transition to sustainability as shown by the European project PLUREL [<xref ref-type="bibr" rid="R23">23</xref>, <xref ref-type="bibr" rid="R24">24</xref>].</p>
+         <p>How to address sustainability across the urban-rural continuum—suburban, periurban, and dependent rural or natural areas—, considering (i) that urban sprawl has proven very difficult to stop (if not impossible), and (ii) that distinguishing between rural life and urban life makes no real sense anymore?</p>
+         <p>Since lower-density urbanization offers some advantages as far as sustainability is concerned and is no more considered an absolute evil, why not counteract urban sprawl by fostering what could be called “rural sprawl”, by introducing nature and rural characteristics such as farming within the city—within its interstitial areas and wastelands? After all, low-density urbanization was once the rule than the exception for centuries all around the world [<xref ref-type="bibr" rid="R25">25</xref>]: In villages and hamlets, small communities had a very dynamic social life in a nice environment. Such a position postulates that urban agriculture might be the source of a new type of urban arrangement, that if generalized would deeply transform urban systems while contributing to a more sustainable future. But what do we really call urban agriculture in this article?</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- What Type of Urban Agriculture Are We Speaking About?</title>
+         <p>Basically, urban agriculture is the practice of cultivating, processing, and distributing food in or around a village, town, or city [<xref ref-type="bibr" rid="R26">26</xref>]. This notwithstanding, there are very different types of urban agriculture that don’t have much in common except that they consist of growing edible plants in the city: Intensive vertical farming, micro-farming, kitchen and community gardens, etc.</p>
+         <p>Thus, are we speaking of the new farming architectures that have been proliferating since the nineties in the wake of the Smart Cities movement, such as Vertical Farming—cultivating plants or breeding animals within tall greenhouse buildings or vertically inclined surfaces [<xref ref-type="bibr" rid="R27">27</xref>]—epitomized by the mainstream medias as the paragon of urban agriculture? Vertical farming takes form in several ways [<xref ref-type="bibr" rid="R28">28</xref>]: Crops being grown in the interior floors of midrise buildings with apparatuses that rotate crops on belts (http://www.verticalfarm.com/), rooftop farming, tree-like skyscrapers (http://agritecture.com/). The point of this farming laden with eco-technologies is exploiting synergies between the built environment and intensive—if not industrial—agriculture [<xref ref-type="bibr" rid="R29">29</xref>]: Recirculating hydroponics and aeroponics that significantly reduce the amount of water needed, collecting rain and treating wastewater, producing photovoltaic green energy, etc. [<xref ref-type="bibr" rid="R30">30</xref>].</p>
+         <p>It was Dickson Despommier who started using the term “vertical farming” in 1999, first to qualify the cultivation of plants on flat roofs, and then inside retrofitted empty mid-rise buildings [<xref ref-type="bibr" rid="R31">31</xref>]. But his vision of a vertical farm was that of “a neighborhood concept couched in futuristic terms, but with a homespun intent” [<xref ref-type="bibr" rid="R32">32</xref>]. This is quite different from the brand-new smart buildings—tree-like skyscrapers and high-rise agritectures—proposed today as the be-all-and-end-all of urban agriculture, which eventually are projects that remain projects: None have ever been built, which says a lot about their feasibility. There are many huge problems inherent to this vertical farming:</p>
+         <list list-type="bullet">
+            <list-item>
+               <p>Even if a building is largely fenestrated, plants still need soil and additional sunlight to survive. When Sunlight is replaced by LEDs, it has a huge energy cost.</p>
+            </list-item>
+            <list-item>
+               <p>Controlling humidity and air circulation, and evacuating the heat released by the LEDS also has a huge energy cost.</p>
+            </list-item>
+            <list-item>
+               <p>Fertilizers would always be necessary, as would pesticides due the mildew and other pests found in greenhouses today.</p>
+            </list-item>
+         </list>
+         <p>As such, realizing such vertical farms would require significant technological breakthroughs [<xref ref-type="bibr" rid="R33">33</xref>].</p>
+         <p>In real life, vertical farmers are far more modest, and much closer to Despommier’s intuition: A three-story building with solar panels on its roof in the South Korean city of Suwon; a three floors underground farm in the city of Den Bosch in the Netherlands, with plants cultivated without sunlight by a private company—PlantLab. And it is logical, since vertical farming is an old idea finally, that is not necessarily linked with Smart Cities, ecotechnology and big data. Indigenous people in South America have long used vertically layered growing techniques, and the rice terraces of East Asia follow the same principle; as did the hanging gardens of Babylon, thousands of years ago. And, by the way, it was Gilbert Ellis Bailey who first coined the term “vertical farming” in 1915, long before anybody heard about any smart-<italic>whatsit</italic> [<xref ref-type="bibr" rid="R34">34</xref>].</p>
+         <p>As beautifully put by Stan Cox and David Van Tassel, recent vertical farming looks like a dreamy idea with a solid financial and political hidden agendas, which would ultimately become even more industrialized than modern rural agriculture [<xref ref-type="bibr" rid="R35">35</xref>]. Indeed, to defend this type of urban farming many authors argue that fossil fuels, fertilizers, and government subsidies to industrial farming are also expensive [<xref ref-type="bibr" rid="R36">36</xref>]. Doing so, they consider implicitly that vertical farming and industrial farming should be of the same nature and have the same standards. It says a lot about the financial interests and real objectives. Such a type of urban agriculture is all but sustainable, and can certainly not foster urban sustainability.</p>
+         <p>Besides, there are many good reasons why high-rise buildings do not already have trees: It is hot or cold or windy or both, up there. Nearly every climate variable is more extreme than at street level. As mentioned by Tim De Chant: “If—and it’s a big if—any of these buildings ever get built, odds are they’ll be stripped of their foliage quicker than a developer can say ’return on investment”’ [<xref ref-type="bibr" rid="R37">37</xref>]. Besides, what would be the economic and social cost to water and fertilize these trees? Concerning cattle, what would be the real productivity of such farms, when a single cow needs more than 1.5 ha of grassland in his life. And even vegetable crops grow better on natural soil than indoors or on roofs [<xref ref-type="bibr" rid="R38">38</xref>]. There is obviously a huge discrepancy between the dream—or the nightmare—and the reality.</p>
+         <p>The final point, which for me constitutes the first on the sustainability planning level, is: How the urban fabric may be inclusive of this type of farming? As highlighted by Saskia Sassen, in the broader perspective of the Smart Cities movement: “These technologies have not been sufficiently ‘urbanized’. That is, they have not been made to work within a particular urban context. It is not feasible simply to plop down a new technology in an urban space” [<xref ref-type="bibr" rid="R39">39</xref>]. Focusing on these agritectures may lead to ignoring promising alternatives of urban development [<xref ref-type="bibr" rid="R40">40</xref>].</p>
+         <p>Eco-technologies are not an end in themselves, and may certainly not be considered sustainable by nature: A hammer can be used indifferently to knock in nails or to shatter skulls, but the hammer is neither bad nor good. It is the person that uses it who decides. The same goes for eco-technologies. Never underestimate the negative effects of the new technological and networked infrastructures needed for a city to be smart [<xref ref-type="bibr" rid="R41">41</xref>]. Thus, the success of sustainability policies depends on their objectives and their local ownership by the people concerned [<xref ref-type="bibr" rid="R42">42</xref>]: An issue too often dodged by the designers of smart-agritectures. When trying to determine if urban agriculture may contribute to a sustainable future, the primary question to ask is: Will this agriculture be at the service of the inhabitants—and not the other way around. Indeed, it is crucial to keep in mind that the “environment”, far from being pure transcendence, is embedded in societies, as demonstrated by Maarten Hajer [<xref ref-type="bibr" rid="R43">43</xref>, <xref ref-type="bibr" rid="R44">44</xref>]. In a former article for <italic>Challenges in Sustainability</italic> I explained how the human being builds a representation of the ecosystems he lives in and calls it “environment” out of the usages he makes of its resources: takings (usage of air, water, minerals), inputs (pollution), alterations (housing, transport) [<xref ref-type="bibr" rid="R45">45</xref>]. Thus to address urban sustainability, it is crucial to know what a “good environment” is for the people and the communities living there; one in which the enhancement of environmental conditions <italic>stricto sensu</italic> (water quality, air, biodiversity, prudent use of resources, land and energy, etc.) improves living conditions and facilitates new lifestyles. A polluted environment can be a place where life is good. Just think about the price of a square meter in the very center of the very noisy and very polluted Manhattan, Paris or London. Conversely, an environment with clean air and clean water can be quite intolerable as evidenced by windswept, segregated social-housing blocks settled in the middle of nowhere.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- A Common Good</title>
+         <p>All of the above leads us to consider that to design a more sustainable future in the rural-urban continuum we should rather focus on a more traditional type of urban agriculture that gives consistency to the whole urban fabric. That is to say an urban agriculture made of community gardens, kitchen gardens, crofting and micro-farming, land sharing, low-rise rooftop gardens or schoolyard greenhouses—which are different things but strongly linked to each other because they develop the potential for people to exercise significant influence over the place where they live [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>]. The point is longer-lasting change, in the spirit of Rob Hopkins’ <italic>Transition Towns</italic> [<xref ref-type="bibr" rid="R48">48</xref>, <xref ref-type="bibr" rid="R49">49</xref>]. Tim Beatley’s <italic>Green Urbanism</italic> also resonates with the type of urban agriculture we contemplate in this paper. <italic>Green Urbanism</italic> identifies six issues by which a city complies with urban sustainability all of which may apply to community and kitchen gardens, as well as crofting: The city should be (i) living within its ecological limits, (ii) functioning in ways analogous to nature, (iii) striving to achieve a circular rather than a linear metabolism, (iv) striving toward local self-sufficiency, (v) facilitating more sustainable lifestyles, and (vi) last but not least emphasizing neighborhood and community life [<xref ref-type="bibr" rid="R50">50</xref>, <xref ref-type="bibr" rid="R51">51</xref>].</p>
+         <p>This urban agriculture varies a lot according to the climate, and the economic and social situation of the city. In many urban areas of Central and South America, Africa or South East Asia, urban agriculture is essentially a food security issue, related to the fight against poverty and malnutrition [<xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R52">52</xref>, <xref ref-type="bibr" rid="R53">53</xref>]. The situation is quite different in European cities [<xref ref-type="bibr" rid="R54">54</xref>], North American cities [<xref ref-type="bibr" rid="R55">55</xref>], or Japanese cities [<xref ref-type="bibr" rid="R56">56</xref>]. In these regions, many official urban agricultural projects result from “greening” agendas created under the umbrella of the <italic>Green New Deal</italic>, which aims to address global warming and the financial crises rather than food issues as mentioned by Tim Jackson [<xref ref-type="bibr" rid="R57">57</xref>]. In most other cities, the landscaping aspect and the recreational dimension are highlighted. In all these cases, urban agriculture is mainly seen as a social innovation that improves the quality of life, fosters social links among neighbors, and enhances urban landscapes. In so-called “Northern” cities urban agriculture is not so much about food, really [<xref ref-type="bibr" rid="R58">58</xref>]. In any event, all these urban agricultures—whatever their form, their goal and their means—share significantly common features: The size and shape of the field plots, the informality, the ability to create or foster neighborhoods relations, etc. [<xref ref-type="bibr" rid="R59">59</xref>].</p>
+         <p>Their common features result from the fact that all these agricultures have been in the cities—where they met the same needs and fulfilled the same purposes—since time immemorial. Urban agriculture is not such a fresh idea. Moreover, it is certainly not an offspring of sustainable development. Urban agriculture existed for centuries in very different places around the world, such as the <italic>chinampas</italic> in Tenochtitlan—the actual Mexico city—since the 15th century or sooner [<xref ref-type="bibr" rid="R60">60</xref>], the <italic>hortillonnages</italic> in Amiens—a French city north of Paris—for more than twenty centuries [<xref ref-type="bibr" rid="R61">61</xref>], or the interstitial gardens (<italic>agriculture d’interstice</italic>) in Yaoundé—Cameroon’s capital—where they accompanied the foundation of the city in the 19th century [<xref ref-type="bibr" rid="R62">62</xref>].</p>
+         <p>Urbanization has gone hand-in-hand with agriculture from the beginning, as matter of fact since the Neolithic period [<xref ref-type="bibr" rid="R63">63</xref>]. Agricultural activities have been crucial to the foundation of new colonies since Greek and Roman ages [<xref ref-type="bibr" rid="R64">64</xref>]. Even in medieval times when walls and defensive structures left out most of the farmland, agricultural patches were available inside the city and next to the city walls [<xref ref-type="bibr" rid="R65">65</xref>, <xref ref-type="bibr" rid="R66">66</xref>]. Jane Jacobs even assumes that agriculture was initially within human settlements that could be called primitive urban places, and migrated to the countryside only later [<xref ref-type="bibr" rid="R67">67</xref>].</p>
+         <p>But while cities and agriculture have long been inseparable and mutually reinforcing, everything changed during the twentieth century: Increased mobility and progressive globalization made pointless the previous need for geographical proximity between the farmers and the urban consumers. Farming was then more or less banned from the city under the combined forces of urban densification and planning regulation [<xref ref-type="bibr" rid="R68">68</xref>]. This period could be qualified as the great rupture.</p>
+         <p>The new craze for the form of urban agriculture that we are dealing with in this paper began 20 years ago. It renewed—but also transformed deeply—the old tradition of nineteenth century backyard gardens that existed before the great rupture. Beyond traditional allotment gardening, urban agriculture appeared in front lawns, kitchen gardens, pavement verges, railway embankments and any interstitial spaces, which is more unusual. In many ways, the citizens involved in this type of urban agriculture claimed ownership over the city, and particularly over the policies and projects developed by the city [<xref ref-type="bibr" rid="R69">69</xref>].</p>
+         <p>It means that the relation between urban agriculture and the sustainable city is not just a matter of food or greening, it is also about inclusiveness and ownership. One among the many challenges of urban sustainability is reestablishing the inclusiveness of the urban fabric instead of just popping-up parks, green spaces or smart-buildings. The current regional master plan of Paris proposes—as an important mean to foster sustainability—a quantitative objective of 10 m<inline-formula>
+               <mml:math id="S5.p7.m1"
+                         alttext="{}^{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> of public green area per inhabitant; as though it were sufficient to display “green” to become suddenly sustainable. Shocking but understandable: mayors, representatives and more generally elected officials adore showcasing actions that are very visible. They are less interested in citizen ownership and holistic approaches, which are more important to make the city sustainable but harder to implement and less profitable as an electoral issue. Besides, French <italic>espaces verts</italic> (green spaces) do not necessarily bring people together. They may also be used to separate, in line with the Parisian history: The introduction of greenery by Haussmann was an attempt to control the use of public space by a technical approach [<xref ref-type="bibr" rid="R70">70</xref>]: “…by losing its name, the old park is deprived of its positive attributes… the espace vert is no longer a place but rather an indistinct area whose boundaries are decided in the abstract world of the master plans…” [<xref ref-type="bibr" rid="R71">71</xref>].</p>
+         <p>All things considered, when trying to make a city sustainable, there may be some good sense in promoting urban agriculture instead of manicured sophisticated green areas. In this perspective urban agriculture would propose a radical remaking of the urban [<xref ref-type="bibr" rid="R72">72</xref>], which breaks with the urban-rural dichotomy. This option paves the way to a reinvention of the urban form and its management through new lifestyles and through the reconstruction of some kind of urban commons [<xref ref-type="bibr" rid="R73">73</xref>, <xref ref-type="bibr" rid="R74">74</xref>]. Such an urban agriculture should be considered as a common good, bringing people together and reshaping the whole urban fabric.</p>
+         <p>Is it really doable? Has it already been done, and if so where and how? In all the historical examples given before—<italic>hortillonnages, chinampas, agriculture d’interstice,</italic> etc.—as well as in recent cases where urban citizens and gardeners gain ownership of the city, it appears that urban agriculture “works better” when no public or private actor explains to the population what the procedure should be and how people should act. To say it otherwise, it looks like urban agriculture “works better” when nobody looks: That is when the inhabitants first transform their living environment outside of any legal framework or official urban project, and their actions are only integrated afterwards into urban planning or urban policies. In France, the <italic>Trames Vertes et Bleues</italic> (Green and Blue Grids) are a perfect example of what not to do. These Trames are land management tools dedicated to the preservation of biodiversity—especially in urban and periurban areas—created in the aftermath of the <italic>Grenelle de l’Environnement</italic> [<xref ref-type="bibr" rid="R75">75</xref>], after 2007 [<xref ref-type="bibr" rid="R76">76</xref>]. The procedure was way too formal and technocratic to succeed in the constitution of a true regional <italic>Trame Verte</italic> [<xref ref-type="bibr" rid="R77">77</xref>]. Nobody asked the local communities and the inhabitants for their views. Thus, in many places the implementation of the Trames turned confrontational, and resulted finally in inconsistent and incomplete grids [<xref ref-type="bibr" rid="R78">78</xref>].</p>
+         <p>On the other hand, the remarkable history of La Fournillière shows how a squatted wasteland in a poor place near social housing blocks turned into a very popular park based on urban agriculture. The inhabitants created this place by themselves, seeking their own objectives. In the end, the local authorities had no choice but to enact their initiative and legalize it, re-commoning urban land through agriculture.</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Inclusiveness, Ownership and Local Innovation: The Case of La Fournillière</title>
+         <p>To understand what happened at La Fournillière it is necessary first to apprehend the historical context. The place was a village—annexed to the French city of Nantes in 1908—that became an industrial suburb with fruit and vegetable canneries (Figure <xref ref-type="fig" rid="Fig01">1</xref>). A rich soil that allows cultivation of field peas, baby carrots, or asparagus, explains why the canneries settled there. These companies provided kitchen gardens to their employees within the policy framework of industrial paternalism. During the post-war boom major changes took place: Social housing complexes were built and successive projects were developed on the site of these kitchen gardens. The first one was an access highway to downtown Nantes. The gardeners were evicted and their gardens ceased to exist. This first project was finally abandoned. Others projects followed but they failed to become effective due to local political turmoil. Finally, nothing happened and in the seventies the place turned into wasteland of more than 3 hectares [<xref ref-type="bibr" rid="R79">79</xref>].</p>
+         <p>The people living nearby—especially those from the social housing blocks who didn’t have access to nature—started eyeing this abandoned land and its rich soil with interest (Figure <xref ref-type="fig" rid="Fig02">2</xref>). From the mid-seventies—one after the other—they progressively occupied La Fournillière, first at night and finally in broad daylight. By the end of the nineties, there were more than 70 squatting gardeners there. As mentioned by Elisabeth Pasquier, to get a piece of land there you simply had to start digging the ground somewhere—a corner that looks vacant—and wait. If nobody were coming at you, you could keep digging and start tending your future garden. A few days more, or a week, without any hostility from your neighbors meant that this piece of land was ostensibly yours. You could than start fencing, sowing, and socializing with your neighbors [<xref ref-type="bibr" rid="R80">80</xref>]. At the end, two categories of squatting gardeners worked a piece of land at La Fournillière [<xref ref-type="bibr" rid="R81">81</xref>].</p>
+         <p>On the one side, some of the former evicted gardeners—or their children—came back. They were locals, most of them descended from Brittany or Vendée (two French regions). They were few. They stuck together and kept closely connected via common emblematic activities, such as <italic>pétanque</italic> (bocce tournament), <italic>apéritif</italic> (before-dinner drinks) or barbecues. This category of gardeners was made of poor but not marginalized people. They lived in substandard one-family houses. There were usually old people with a small retirement pension or younger poor workers; they knew how to cultivate a small piece of land.</p>
+         <fig id="Fig01" position="float" orientation="portrait">
+            <label>
+                Figure 1</label>
+            <caption>
+               <title>Situation map of La Fournillière downtown Nantes. Source: Google Maps. </title>
+            </caption>
+            <graphic xlink:href="fig1.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="Fig02" position="float" orientation="portrait">
+            <label>
+                Figure 2</label>
+            <caption>
+               <title>La Fournillière in the early seventies. Source: City Archives of Nantes. </title>
+            </caption>
+            <graphic xlink:href="fig2.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>On the other side was a completely different category. These gardeners came from the disadvantaged social housing complexes around La Fournillière. They had different origins and ethnic background, being mainly North Africans. Many among them were unemployed and lived on social benefits. For them, ”owning” a piece of land at La Fournillière was a way of keeping active, and it was a place where they could settle symbolically—a “circulatory space” (<italic>territoire circulatoire</italic>), within the meaning of Alain Tarrius—, a place where they could grow roots, literally [<xref ref-type="bibr" rid="R82">82</xref>]. These gardeners were called “<italic>les autres</italic>” (the others) by the local gardeners from the first category, but they represented an overwhelming majority with nearly 4 gardeners out of 5.</p>
+         <p>Both groups tended to ignore each other, but an element of solidarity brings them together: They were all fully aware of how precarious and uncertain their future in La Fournillière was. As squatters, they could be expelled at any time. They all knew they had to stand united to respond effectively to any of the many menaces that might threaten their plot—a new urban project, theft and vandalism from the people outside, etc. Such a situation fosters social links.</p>
+         <p>Nothing changed until the early nineties, when a new elected city council took interest again in La Fournillière. This time the new project was a neighborhood park. Something unusual happened then. The two groups of gardeners started uniting their forces and organizing to impose their views on the project. They also knew that the game of illegally occupying pieces of land couldn’t go on forever. It was time for them to make their situation legal, preferably on their own terms. A form of collective intelligence emerged, and with it the seeds of a collective identity [<xref ref-type="bibr" rid="R83">83</xref>].</p>
+         <p>Rather than making demands and organizing protests, they decided to draw out an in-depth report on the actual situation at La Fournillière, providing an exact overview plus maps of the different pieces of land, including the spatial pattern of the different gardens and their history. The report displayed the long work of clearing and planting that they had done as well as the public goods they had created. It illustrated the social and ecological value of these gardens for the whole city. The gardeners demonstrated that La Fournillière was a well of common good as it was, whereas the project developed by the municipality could very well fail and destroy the whole site unless they took into account their own experiences and the actual organization of La Fournillière. Finally, they claimed that they wanted to be decision-making partners in the project and have a seat at the decision-making table.</p>
+         <p>The planners of the city of Nantes understood that the opposition of the gardeners was not a negative NIMBY reaction but the expression of collective wills and skills [<xref ref-type="bibr" rid="R84">84</xref>]. Once they realized that an alternative proposal with strong local community (and therefore, electors) support was emerging, they agreed to discuss with the gardener’s collective. At the end of a long process of negotiations—and against all odds—the city council decided to support the gardeners’ alternative project and to abandon its own proposal. The new project envisioned a park organized around the existing gardens, forming islets or patches. Paths for walkers and runners entwined with the islets, connecting them. At the very center of the park a venue was placed to initiate visitors to the recycling of material and waste in urban gardening, including waste sorting and composting to enhance biomass and biodiversity. The gardeners determined themselves the rules for living together: More frugal and wiser water-management; a ban on cutting any tree in one’s own gardens, since trees are considered to be common goods etc. [<xref ref-type="bibr" rid="R85">85</xref>]. In some sense, the case of La Fournillière is prototypical of Alberto Magnaghi’s idea of combining both bottom up and top down processes of decision-making in the urbanization process [<xref ref-type="bibr" rid="R86">86</xref>].</p>
+         <p>Today, La Fournillière is a particularly charming and unusually large urban farming land that one can only reach by walking. Two narrow lanes lead to a kind of huge clearing covered by gardens, scattered trees, and bushes (Figure <xref ref-type="fig" rid="Fig03">3</xref>). Large colored water tanks surround shacks made out of recycled materials gathered in small patches. A maze of service alleys spreads around five key items: three wells, a pond, and an improvised <italic>pétanque</italic> court. La Fournillière is also a social theater. These kitchen gardens give grown-ups a place where they can get away from it all and become kids again: a parenthesis in their ordinary lives since at the end of the day they go back home. They indulge themselves by putting things in the garden that wouldn’t be permitted anywhere else in the city: a doll’s head impaled on a pole, a teddy bear crucified on a picket fence, etc. Apart from the magic of the place, they are also kitchen gardens and also have, as such, straightforward economic interests: cabbages, potatoes, and other vegetables are planted to feed the family year-round. Two larger paths cross the whole area. They were created by the footsteps of thousands of people. Placed in the middle of the city, traversing La Fournillière is a shortcut for many men and women going to school, to work, or simply to the market in Nantes.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusion: The Right to Decide and the Power to Create</title>
+         <p>As I discussed in a recent paper a city does not arise from the sole will and skill of architects, planners, surveyors, and politicians [<xref ref-type="bibr" rid="R78">78</xref>]. It has to be nurtured and molded by its inhabitants to bring it to life. Such a process needs time, quite differently from the frenetic timeline and knee-jerk reactions to any opposition that elected officials and planners, guided by their own short-term interests impose on urban policies (the next election, compliance with construction deadlines etc.).</p>
+         <p>Urban agriculture lends particularly well to long-lasting urban policies, especially those turning environmental “bads”—such as brownfields and wastelands—into environmental goods and urban amenities. Naturally, it will not be possible everywhere. There are also health issues when redeveloping brownfields for urban agriculture, due to potentially polluted groundwater and soils. Nonetheless, it would make sense to establish productive lands as a key component of urban design when possible, as proposed by Andre Viljoen and Joe Howe [<xref ref-type="bibr" rid="R87">87</xref>]. A network of agricultural plots, which would penetrate the smallest nooks and crannies of the urban fabric, should be a wonderful tool to link the different components of the city, while providing other ecosystem services such as walking and leisure activities. Besides, such a network would greatly improve urban resilience, by linking formerly scattered vegetated places within a consistent system. Squares, parks, gardens—community gardens and kitchen gardens, as well as public gardens—and more generally all vegetated urban public spaces will be connected by urban agriculture.</p>
+         <fig id="Fig03" position="float" orientation="portrait">
+            <label>
+                Figure 3</label>
+            <caption>
+               <title>Figure 3: A Shack and a Garden at La Fournillière. Source: Miraorti </title>
+            </caption>
+            <graphic xlink:href="fig3.jpg"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <p>In this perspective, urban agriculture embodies the proper use of slowness (Le bon usage de la lenteur) in urban planning and design as depicted by Pierre Sansot [<xref ref-type="bibr" rid="R88">88</xref>]. And the history of La Fournillière illustrates it perfectly: Had only one of the successive lunatic projects designed in the seventies been built, these gardens would have never existed. It is also a symbol of what can be done when everybody is involved in the planning procedures, which means sitting everyone at the table so that all the inhabitants understand that the urban affairs are also their affairs. This urban agriculture is about the right to decide and the power to create, renewing and deepening what Henri Lefebvre called <italic>Le Droit à la Ville</italic> (The Right to the City) [<xref ref-type="bibr" rid="R89">89</xref>].</p>
+         <p>As a general rule, urban transitions to sustainability—to which these urban agricultures relate—require involving every citizen in the decision that affect them, and especially in the designing of the urban projects—and not only by “consulting” them. The more top-down repairing planning procedures the less results, if not linked with grassroots collaborative process and with negotiation between local communities and local authorities [<xref ref-type="bibr" rid="R90">90</xref>]. Grasping what happened at La Fournillière eventually means deciphering the eternal game between what the authorities—whatever their form—try to impose on the social fabric, and what the social fabric—represented by the gardeners—impose on the authorities, through deception or force, through confrontation or bargaining. It is all about how people take ownership over their own city. In this way, urban agriculture can really be the cornerstone that helps reconfigure urban areas, and the backbone of a new and more sustainable urban arrangement to foster urban transition to sustainability.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R01">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Ville et mobilit\'e: un couple infernal?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wiel</surname>
+                     <given-names>Marc</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Éditions de l'Aube</publisher-name>
+               <publisher-loc>La Tour-d'Aigues, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R02">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Achieving sustainable urban form</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Williams</surname>
+                     <given-names>Katie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jenks</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Burton</surname>
+                     <given-names>Elizabeth</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <publisher-loc>Abingdon, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R03">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Swart</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cohen</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Climate change and sustainable development: Expanding the options</article-title>
+               <source>Climate Policy</source>
+               <year>2003</year>
+               <volume>3</volume>
+               <issue>sup1</issue>
+               <fpage>19</fpage>
+               <fpage>40</fpage>
+               <pub-id pub-id-type="doi">10.1016/j.clipol.2003.10.010</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>(Re) Analysing the sustainable city: nature, urbanisation and the regulation of socio-environmental relations in the UK</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Whitehead</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <source>Urban Studies</source>
+               <volume>40</volume>
+               <issue>7</issue>
+               <fpage>1183</fpage>
+               <lpage>1206</lpage>
+               <year>2003</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R05">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The compact city fallacy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Neuman</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Planning Education and Research</source>
+               <volume>25</volume>
+               <issue>1</issue>
+               <fpage>11</fpage>
+               <lpage>26</lpage>
+               <year>2005</year>
+               <publisher-name>Sage Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R06">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>V\'eg\'etaliser les villes pour att\'enuer les \^\ilots de chaleur urbains</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boutefeu</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <source>Ville et Environnement</source>
+               <volume>29</volume>
+               <year>2007</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.certu.fr/fr/_Ville_et_environnement-n29/Nature_en_ville-n140/Vegetaliser_les_villes_pour_attenuer_les_ilots_de_chaleur_urbains-a752-s_article_theme.html"
+                         xlink:type="simple">http://www.certu.fr/fr/_Ville_et_environnement-n29/Nature_en_ville-n140/Vegetaliser_les_villes_pour_attenuer_les_ilots_de_chaleur_urbains-a752-s_article_theme.html</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R07">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Principles of urban structure</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Salingaros</surname>
+                     <given-names>Nikos Angelos</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>Techne Press</publisher-name>
+               <publisher-loc>Amsterdam, Netherlands</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Coping with urban sprawl: toward a sustainable peri-urbanization, giving way to residential path</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mancebo</surname>
+                     <given-names>Fran\ccois</given-names>
+                  </name>
+               </person-group>
+               <source>Les Annales de la Recherche Urbaine</source>
+               <volume>102</volume>
+               <fpage>51</fpage>
+               <lpage>57</lpage>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R09">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>L'explosion p\'eriurbaine</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Charmes</surname>
+                     <given-names>Eric</given-names>
+                  </name>
+               </person-group>
+               <source>Etudes fonci\`eres</source>
+               <issue>138</issue>
+               <fpage>25</fpage>
+               <lpage>36</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Grenelle II: la fin de l’\'etalement urbain?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Renard</surname>
+                     <given-names>Vincent</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>M\'etropolitiques</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">http://www.metropolitiques.eu/Grenelle-II-la-fin-de-l-etalement.html</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Ladders</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pope</surname>
+                     <given-names>Albert</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <publisher-name>Princeton Architectural Press</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Co\^uts immobiliers et arbitrages des op\'erateurs: un facteur explicatif de la ville diffuse</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Castel</surname>
+                     <given-names>Jean-Charles</given-names>
+                  </name>
+               </person-group>
+               <source>Les Annales de la Recherche Urbaine</source>
+               <volume>102</volume>
+               <fpage>89</fpage>
+               <lpage>94</lpage>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Urban and regional planning</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tewdwr-Jones, Mark</surname>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Urban sprawl in Europe: landscape, land-use change and policy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Couch</surname>
+                     <given-names>Chris</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Petschel-Held, Gerhard</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leontidou</surname>
+                     <given-names>Lila</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <publisher-name>John Wiley &amp; Sons</publisher-name>
+               <publisher-loc>Hoboken, NJ, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>An introduction to sustainable development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Elliott</surname>
+                     <given-names>Jennifer</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Ville durable et justice sociale. Ce que le d\'eveloppement durable nous dit de la production de l'urbain</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beal</surname>
+                     <given-names>Vincent</given-names>
+                  </name>
+               </person-group>
+               <source>Le d\'eveloppement durable changera-t-il la ville? Le regard des sciences sociales</source>
+               <fpage>239</fpage>
+               <lpage>259</lpage>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Béal</surname>
+                     <given-names>V and Gauthier, M and Pinson, G</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Publications de l'Universit\'e de Saint-Etienne</publisher-name>
+               <publisher-loc>Saint-Etienne, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <article-title>The compact city and social justice</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Burton</surname>
+                     <given-names>Elizabeth</given-names>
+                  </name>
+               </person-group>
+               <source>Housing Studies Association Spring Conference</source>
+               <year>2001</year>
+               <conf-loc>New York, NY, USA</conf-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://210.74.184.3:8080/international/view/pdf/6.pdf"
+                         xlink:type="simple">http://210.74.184.3:8080/international/view/pdf/6.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Blueprint for a green economy</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pearce</surname>
+                     <given-names>David William</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Markandya</surname>
+                     <given-names>Anil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barbier</surname>
+                     <given-names>Edward</given-names>
+                  </name>
+               </person-group>
+               <volume>1</volume>
+               <year>1989</year>
+               <publisher-name>Earthscan</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Sustainable Urban Development Reader</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wheeler</surname>
+                     <given-names>Stephen M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beatley</surname>
+                     <given-names>Timothy</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Secchi</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <article-title>L’émergence de la ville diffuse</article-title>
+               <source>Diagonal</source>
+               <year>2002</year>
+               <volume>156</volume>
+               <fpage>10</fpage>
+               <lpage>12</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Urbanisation sans urbanisme: une histoire de la ville diffuse</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Grosjean</surname>
+                     <given-names>B\'en\'edicte</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Editions Mardaga</publisher-name>
+               <publisher-loc>Brussels, Belgium</publisher-loc>
+                                
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Zwischenstadt: Zwischen ort und Welt, Raum und Zeit, Stadt und Land</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sieverts</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Birkhäuser Verlag</publisher-name>
+               <publisher-loc>Basel, Switzerland</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The PLUREL project used multidisciplinary methods to develop four scenarios of Europe’s outlook in 2025. These four scenarios were the basis for the study of possible future land use changes in European urban areas</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Peri-urban futures: Scenarios and models for land use change in Europe</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Nilsson</surname>
+                     <given-names>Kjell and Pauleit, Stephan and Bell, Simon and Aalbers, Carmen and Nielsen, Thomas A Sick</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nilsson</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nielssen</surname>
+                     <given-names>T</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>The Future of the Rural Urban Region</chapter-title>
+               <year>2013</year>
+               <publisher-name>Springer Science &amp; Business Media</publisher-name>
+               <fpage>405</fpage>
+               <lpage>429</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Urban compaction: feasible and acceptable?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Breheny</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <source>Cities</source>
+               <volume>14</volume>
+               <issue>4</issue>
+               <fpage>209</fpage>
+               <lpage>217</lpage>
+               <year>1997</year>
+               <publisher-name>Elsevier</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>From brownfields to greenfields: Producing food in North American cities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bailkey</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nasr</surname>
+                     <given-names>Joe</given-names>
+                  </name>
+               </person-group>
+               <source>Community Food Security News</source>
+               <volume>2000</volume>
+               <fpage>6</fpage>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Cities and Natural Process: A Basis for Sustainability to City Farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hough</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Seeking effective agri-tecture: An urban farm design that nourishes a food desert</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Robinson</surname>
+                     <given-names>Kelley G</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Florida State University</publisher-name>
+               <publisher-loc>Tallahassee, FL, USA</publisher-loc>
+                                
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Building integrated agriculture: Philosophy and practice</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Caplow</surname>
+                     <given-names>Ted</given-names>
+                  </name>
+               </person-group>
+               <source>Urban Futures</source>
+               <volume>2030</volume>
+               <fpage>54</fpage>
+               <lpage>58</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Full planet, empty plates: the new geopolitics of food scarcity</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>Lester R</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>WW Norton &amp; Company</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The vertical farm: feeding the world in the 21st century</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Despommier</surname>
+                     <given-names>Dickson</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>St. Martin's Press</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Vertical Farming: An Interview with Dickson Despommier</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>platt</surname>
+                     <given-names>peter</given-names>
+                  </name>
+               </person-group>
+               <source>Gastronomica</source>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>80</fpage>
+               <lpage>87</lpage>
+               <year>2007</year>
+               <publisher-name>JSTOR</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Upending the traditional farm</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vogel</surname>
+                     <given-names>Gretchen</given-names>
+                  </name>
+               </person-group>
+               <source>Science</source>
+               <volume>319</volume>
+               <issue>5864</issue>
+               <fpage>752</fpage>
+               <lpage>753</lpage>
+               <year>2008</year>
+               <publisher-name>American Association for the Advancement of Science</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Vertical Farming</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bailey</surname>
+                     <given-names>Gilbert Ellis</given-names>
+                  </name>
+               </person-group>
+               <year>1915</year>
+               <publisher-name>Lord Baltimore Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Vertical Farming Doesn’t Stack up</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cox</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Van Tassel, D</surname>
+                  </name>
+               </person-group>
+               <source>Synthesis/Regeneration</source>
+               <volume>52</volume>
+               <fpage>4</fpage>
+               <lpage>6</lpage>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Growing vertical</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fischetti</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+               </person-group>
+               <source>Scientific American</source>
+               <volume>18</volume>
+               <fpage>74</fpage>
+               <lpage>79</lpage>
+               <year>2008</year>
+               <publisher-name>Nature Publishing Group</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>De Chant</surname>
+                  </name>
+               </person-group>
+               <article-title>Can We Please Stop Drawing Trees on Top of Skyscrapers?</article-title>
+               <source>Per Square Mile</source>
+               <year>2013</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://persquaremile.com/2013/03/07/trees-dont-like-it-up-there/"
+                         xlink:type="simple">http://persquaremile.com/2013/03/07/trees-dont-like-it-up-there/</ext-link>
+               <month>March 7</month>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The urban food revolution: changing the way we feed cities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ladner</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>New Society Publishers</publisher-name>
+               <publisher-loc>Vancouver, Canada</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sassen</surname>
+                     <given-names>S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Talking back to your intelligent city</article-title>
+               <source>McKinsey On Society</source>
+               <year>2011</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://voices.mckinseyonsociety.com/talking-back-to-your-intelligent-city/"
+                         xlink:type="simple">http://voices.mckinseyonsociety.com/talking-back-to-your-intelligent-city/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Against the smart city (The city is here for you to use Book 1)</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Greenfield</surname>
+                     <given-names>Adam</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Verso</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Telecommunications and the city: Electronic spaces, urban places</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Graham</surname>
+                     <given-names>Steve</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marvin</surname>
+                     <given-names>Simon</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>D\'eveloppement durable villes et territoires: Innover et d\'ecloisonner pour anticiper les ruptures</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Theys</surname>
+                     <given-names>Jacques</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Centre de prospective et de veille scientifique</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Deliberative policy analysis: understanding governance in the network society</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hajer</surname>
+                     <given-names>Maarten A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wagenaar</surname>
+                     <given-names>Hendrik</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A decade of discourse analysis of environmental politics: achievements, challenges, perspectives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hajer</surname>
+                     <given-names>Maarten</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Versteeg</surname>
+                     <given-names>Wytske</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of Environmental Policy &amp; Planning</source>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>175</fpage>
+               <lpage>184</lpage>
+               <year>2005</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The pitfalls of sustainability policies: Insights into plural sustainabilities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mancebo</surname>
+                     <given-names>Fran\ccois</given-names>
+                  </name>
+               </person-group>
+               <source>Challenges in Sustainability</source>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>29</fpage>
+               <lpage>40</lpage>
+               <year>2013</year>
+               <publisher-name>Librello publishing house</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Greening cities, growing communities: Learning from Seattle's urban community gardens</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hou</surname>
+                     <given-names>Jeffrey</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Johnson</surname>
+                     <given-names>Julie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lawson</surname>
+                     <given-names>Laura J</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <publisher-name>Landscape Architecture Foundation</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Agropolis: The Social, Political and Environmental Dimensions of Urban Agriculture</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mougeot</surname>
+                     <given-names>Luc</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <publisher-name>Routledge^, address=London, UK</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The transition handbook</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hopkins</surname>
+                     <given-names>Rob</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>UIT Cambridge Limited</publisher-name>
+               <year>2008</year>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The power of just doing stuff: How local action can change the world</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hopkins</surname>
+                     <given-names>Rob</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>UIT Cambridge Limited</publisher-name>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Green urbanism</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Beatley</surname>
+                     <given-names>Timothy</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Island Press</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Preference for nature in urbanized societies: Stress, restoration, and the pursuit of sustainability</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van den Berg, Agnes E</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hartig</surname>
+                     <given-names>Terry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Staats</surname>
+                     <given-names>Henk</given-names>
+                  </name>
+               </person-group>
+               <source>Journal of social issues</source>
+               <volume>63</volume>
+               <issue>1</issue>
+               <fpage>79</fpage>
+               <lpage>96</lpage>
+               <year>2007</year>
+               <publisher-name>Wiley Online Library</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Urban Agriculture for Sustainable Poverty Alleviation and Food Security</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoornweg</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Munro-Faure, Paul</surname>
+                  </name>
+               </person-group>
+               <publisher-name>FAO</publisher-name>
+               <year>2008</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.fao.org/fileadmin/templates/FCIT/PDF/UPA_-WBpaper-Final_October_2008.pdf"
+                         xlink:type="simple">http://www.fao.org/fileadmin/templates/FCIT/PDF/UPA_-WBpaper-Final_October_2008.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Urban agriculture: Food, jobs and sustainable cities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Smit</surname>
+                     <given-names>Jac</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nasr</surname>
+                     <given-names>Joe</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ratta</surname>
+                     <given-names>Annu</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <year>1996</year>
+               <publisher-name>The Urban Agriculture Network Inc.</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>De l'agriculture p\'eri-urbaine \`a l'agriculture urbaine</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fleury</surname>
+                     <given-names>Andr\'e</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Donadieu</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+               </person-group>
+               <source>Le Courrier de l'Environnement de l'INRA</source>
+               <volume>31</volume>
+               <fpage>45</fpage>
+               <lpage>61</lpage>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Le cadre de vie et les jardins potagers communautaires \`a Montr\'eal</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reyburn</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>VertigO</source>
+               <volume>3</volume>
+               <issue>2</issue>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://vertigo.revues.org/3794"
+                         xlink:type="simple">http://vertigo.revues.org/3794</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Tokyo, m\'egalopole agricole</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Niwa</surname>
+                     <given-names>Nelly</given-names>
+                  </name>
+               </person-group>
+               <source>La Revue Durable</source>
+               <volume>43</volume>
+               <fpage>20</fpage>
+               <lpage>23</lpage>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Prosperity without growth: Economics for a finite planet</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jackson</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Grandchamp-Florentino, L</surname>
+                  </name>
+               </person-group>
+               <article-title>Définir les contours de l’agriculture urbaine et sa contribution à l’émergence de la ville durable</article-title>
+               <source>Revue des Sciences Sociales</source>
+               <year>2012; 47: 140-151</year>
+               <volume>47</volume>
+               <fpage>140</fpage>
+               <lpage>151</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Agriculture urbaine: un outil multidimensionnel pour le d\'eveloppement des quartiers</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Duchemin</surname>
+                     <given-names>Eric</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wegmuller</surname>
+                     <given-names>Fabien</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Legault</surname>
+                     <given-names>Anne-Marie</given-names>
+                  </name>
+               </person-group>
+               <source>VertigO</source>
+               <volume>10</volume>
+               <issue>2</issue>
+               <year>2010</year>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://vertigo.revues.org/10436"
+                         xlink:type="simple">https://vertigo.revues.org/10436</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Urban sustainable agriculture: the paradox of the chinampa system in Mexico City</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Torres-Lima, Pablo</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Canabal-Cristiani, Beatriz</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Burela-Rueda, Gilberto</surname>
+                  </name>
+               </person-group>
+               <source>Agriculture and Human Values</source>
+               <volume>11</volume>
+               <issue>1</issue>
+               <fpage>37</fpage>
+               <lpage>46</lpage>
+               <year>1994</year>
+               <publisher-name>Springer</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Mutations des hortillonnages d'Amiens vers une agriculture multifonctionnelle et urbaine</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clauzel</surname>
+                     <given-names>Celine</given-names>
+                  </name>
+               </person-group>
+               <source>Economies et Soci\'et\'es</source>
+               <volume>42</volume>
+               <issue>11-12</issue>
+               <fpage>2297</fpage>
+               <lpage>2307</lpage>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>Dynamique des agricultures périurbaines en Afrique sub-saharienne et statuts fonciers le cas des villes d'Accra et Yaounde</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dauvergne</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Ecole Normale Supérieure Lyon</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R63">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>De J\'ericho \`a Mexico: villes et \'economie dans l'histoire</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bairoch</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+               </person-group>
+               <year>1985</year>
+               <publisher-name>Gallimard</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R64">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The city shaped: Urban patterns and meanings through history.</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kostof</surname>
+                     <given-names>Spiro</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+               <publisher-name>Thames and Hudson</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R65">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Food and the city: Urban agriculture and the new food revolution</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cockrall-King, Jennifer</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>Prometheus Books</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R66">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Hungry city: How food shapes our lives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steel</surname>
+                     <given-names>Carolyn</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <publisher-name>Random House</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R67">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The economy of cities</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jacobs</surname>
+                     <given-names>Jane</given-names>
+                  </name>
+               </person-group>
+               <year>1970</year>
+               <publisher-name>Random House</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R68">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Critical geography of urban agriculture</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tornaghi</surname>
+                     <given-names>Chiara</given-names>
+                  </name>
+               </person-group>
+               <source>Progress in Human Geography</source>
+               <fpage>551</fpage>
+               <lpage>567</lpage>
+               <volume>38</volume>
+               <issue>4</issue>
+               <year>2014</year>
+               <publisher-name>SAGE Publications</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R69">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>On guerrilla gardening: A handbook for gardening without boundaries</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reynolds</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <publisher-name>Bloomsbury Publishing</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R70">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Nature, paysage, environnement, obscurs objets du d'esir de totalit'e</chapter-title>
+               <source>Du milieu `a l‘environnement</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Luginbühl</surname>
+                     <given-names>Yves</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Robic</surname>
+                     <given-names>M. C.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>Economica</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+               <fpage>13</fpage>
+               <lpage>56</lpage>
+               <year>1992</year>
+            </element-citation>
+         </ref>
+         <ref id="R71">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Le roman des jardins de France, \'editions Terre de France</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Le Dantec, Denise</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Le Dantec, Jean-Pierre</surname>
+                  </name>
+               </person-group>
+               <publisher-loc>Paris, France</publisher-loc>
+               <publisher-name>Plon</publisher-name>
+               <year>1987</year>
+            </element-citation>
+         </ref>
+         <ref id="R72">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Radical gardening: politics, idealism &amp; rebellion in the garden</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mckay</surname>
+                     <given-names>G. A. </given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <publisher-name>Frances Lincoln</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R73">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The new urban enclosures</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hodkinson</surname>
+                     <given-names>Stuart</given-names>
+                  </name>
+               </person-group>
+               <source>City: Analysis of Urban Trends, Culture, Theory, Policy, Action</source>
+               <volume>16</volume>
+               <issue>5</issue>
+               <fpage>500</fpage>
+               <lpage>518</lpage>
+               <year>2012</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R74">
+            <element-citation publication-type="book" xlink:type="simple">
+               <chapter-title>Public space, urban agriculture and the grassroots creation of new commons: Lessons and Challenges for Policy Makers</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tornaghi</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Viljoen A, Wiskerke J S C</surname>
+                  </name>
+               </person-group>
+               <source>Sustainable food planning: evolving theory and practice</source>
+               <publisher-name>Wageningen Academic Publishers</publisher-name>
+               <publisher-loc>Wageningen, The Netherlands</publisher-loc>
+               <year>2012</year>
+               <fpage>349</fpage>
+               <lpage>364</lpage>
+            </element-citation>
+         </ref>
+         <ref id="R75">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>A round of discussions involving all the members of the society (local and regional authorities, professional organizations, labor unions, NGOs and experts) initiated by the French government with a political commitment to endorse the outcomes in making long-term decisions regarding environment and sustainability. See: Boy D, Brugidou M, Halpern C, Lascoumes P. Le Grenelle de l'Environnement. Paris, France: Armand Colin; 2012</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R76">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Les Trames vertes: entre discours et mat\'erialit\'es, quelles r\'ealit\'es?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Laure Cormier</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nathalie Carcaud</surname>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <month>June 26</month>
+               <source>Projets de paysage</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://www.projetsdepaysage.fr/fr/les_trames_vertes_discours_et_ou_materialite_quelles_realites_"
+                         xlink:type="simple">http://www.projetsdepaysage.fr/fr/les_trames_vertes_discours_et_ou_materialite_quelles_realites_</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R77">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Vers un urbanisme \'ecologique?</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Blanc</surname>
+                     <given-names>Nathalie</given-names>
+                  </name>
+               </person-group>
+               <source>URBIA. Les Cahiers du d\'eveloppement urbain durable</source>
+               <volume>8</volume>
+               <fpage>39</fpage>
+               <lpage>59</lpage>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R78">
+            <element-citation publication-type="book" xlink:type="simple">
+               <source>Sustainability in the Global City</source>
+               <chapter-title>Combining Sustainability and Social Justice in the Paris Metropolitan Region</chapter-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mancebo</surname>
+                     <given-names>F</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Isenhour</surname>
+                     <given-names>Cindy and McDonogh, Gary and Checker, Melissa</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <fpage>263</fpage>
+               <lpage>283</lpage>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+               <publisher-name>Cambridge University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R79">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Cultures, marquage territorial et appropriation du d\'eveloppement durable</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mancebo</surname>
+                     <given-names>Fran\ccois</given-names>
+                  </name>
+               </person-group>
+               <source>L'Information g\'eographique</source>
+               <volume>71</volume>
+               <issue>3</issue>
+               <fpage>79</fpage>
+               <lpage>87</lpage>
+               <year>2007</year>
+               <publisher-name>Armand Colin/Dunod</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R80">
+            <element-citation publication-type="confproc" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pasquier</surname>
+                     <given-names>E</given-names>
+                  </name>
+               </person-group>
+               <article-title>Les Jardins de la Fournillière, une expérience de participation observante</article-title>
+               <source>Espaces publics et cultures urbaines</source>
+               <fpage>295</fpage>
+               <lpage>306</lpage>
+               <year>2004</year>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Jolé</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <conf-loc>\hlCity, Country</conf-loc>
+               <conf-name>Actes du Séminaire du Centre Interrégional de Formation Professionnelle, Centre d’Études sur les Réseaux, les Transports, l’Urbanisme</conf-name>
+            </element-citation>
+         </ref>
+         <ref id="R81">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pasquier</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Petiteau</surname>
+                     <given-names>J Y</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Halgand</surname>
+                     <given-names>M P</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cousin</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <article-title>La Fournillière: un lieu a-typique pour une étude des jardins familiaux dans l'agglomération nantaise</article-title>
+               <publisher-name>Ministère de l’Environnement and Ecole d’Architecture de Nantes</publisher-name>
+               <year>1996</year>
+            </element-citation>
+         </ref>
+         <ref id="R82">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Territoires circulatoires et \'etapes urbaines des transmigrant (e) s</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tarrius</surname>
+                     <given-names>Alain</given-names>
+                  </name>
+               </person-group>
+               <source>Regards Crois\'es sur l'\'Economie</source>
+               <issue>2</issue>
+               <fpage>63</fpage>
+               <lpage>70</lpage>
+               <year>2010</year>
+               <publisher-name>La D\'ecouverte</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R83">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Cultiver son jardin: chroniques des jardins de la Fournill\`ere, 1992-2000</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pasquier</surname>
+                     <given-names>Elisabeth</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <publisher-name>Editions L'Harmattan</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R84">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Comment int\'egrer les usages dans la d\'emarche de projet</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tonnelat</surname>
+                     <given-names>Stephane</given-names>
+                  </name>
+               </person-group>
+               <source>Cahiers de l’IAU Ile-de-France</source>
+               <issue>149</issue>
+               <fpage>55</fpage>
+               <lpage>56</lpage>
+               <year>2008</year>
+            </element-citation>
+         </ref>
+         <ref id="R85">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Jardiner en ville</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pasquier</surname>
+                     <given-names>\'Elisabeth</given-names>
+                  </name>
+               </person-group>
+               <source>Annales de la Recherche Urbaine</source>
+               <volume>74</volume>
+               <fpage>103</fpage>
+               <lpage>112</lpage>
+               <year>1997</year>
+            </element-citation>
+         </ref>
+         <ref id="R86">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The urban village: A charter for democracy and local self-sustainable development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Managhi</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <publisher-name>The University of Chicago Press</publisher-name>
+               <publisher-loc>Chicago, IL, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R87">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Continuous productive urban landscapes</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Viljoen</surname>
+                     <given-names>Andre</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Howe</surname>
+                     <given-names>Joe</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>London, UK</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R88">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Du bon usage de la lenteur</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sansot</surname>
+                     <given-names>Pierre</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <publisher-name>Payot &amp; Rivages</publisher-name>
+               <publisher-loc>Paris, France</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R89">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Le droit \`a la ville</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lefebvre</surname>
+                     <given-names>Henri</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Paris, France</publisher-loc>
+               <year>1967</year>
+               <publisher-name>\'Editions Anthropos</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R90">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Elemental</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Aravena</surname>
+                     <given-names>A</given-names>
+                  </name>
+               </person-group>
+               <publisher-loc>Berlin, Germany</publisher-loc>
+               <year>2016</year>
+               <publisher-name>Hatje Cantz Publisher</publisher-name>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

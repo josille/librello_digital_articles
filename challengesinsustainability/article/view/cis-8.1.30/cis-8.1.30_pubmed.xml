@@ -1,0 +1,2777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2020.08010030</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Enabling Early Career Sustainability Researchers to Conduct Transdisciplinary Research: Insights from Austria</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Schrot</surname>
+                  <given-names>Oliver</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Krimm</surname>
+                  <given-names>Hanna</given-names>
+               </name>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Schinko</surname>
+                  <given-names>Thomas</given-names>
+               </name>
+               <xref ref-type="aff" rid="A4">3</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Faculty of Geo- and Atmospheric Sciences, Institute of Geography, University of Innsbruck, Innsbruck, Austria</aff>
+         <aff id="A3">
+            <label>2</label>alpS GmbH, Innsbruck, Austria</aff>
+         <aff id="A4">
+            <label>3</label>Risk and Resilience Program, International Institute for Applied Systems Analysis, Laxenburg, Austria</aff>
+         <pub-date pub-type="ppub">
+            <day>19</day>
+            <month>10</month>
+            <year>2020</year>
+         </pub-date>
+         <volume>8</volume>
+         <issue>1</issue>
+         <fpage>30</fpage>
+         <lpage>42</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>Human influences on Earth's natural systems are accelerating, with anthropogenic climate and global change posing existential risks for mankind. To overcome the policy implementation gap in practice both collective and transformative actions for sustainability involving science, policy and society are urgently needed. In the realms of science, this relates to taking inter-and transdisciplinary research approaches to foster exchange and co-designing policy options between researcher, decision-makers and other societal stakeholders; however, such collaboration is often limited by time, funding and complexity constrains.   This paper recognises that particularly early career climate change and sustainability researchers are exposed to both the claim for and practical challenges of inter- and transdisciplinarity. For a first qualitative investigation of Austrian early career researchers’ preparedness for conducting participatory research with societal stakeholders, this study examines perspectives of twelve early career researchers participating in a young scientists' workshop.   Using a pre-post survey and analysing data by content, our findings indicate that workshop participants have to manage stakeholder processes directly after graduation and, due to a lack of methodological training, only use a small fraction of existing social science methods and participatory settings for stakeholder collaboration. To support other early career researchers and future students in Austria in developing strong inter-and transdisciplinary research skills, we highlight the added-value of integrating hands-on workshops with societal stakeholders, regular exchange of lessons learned and transdisciplinary lectures into university education. Offering more practice-oriented transdisciplinary learning activities during undergraduate education, like excursions and mini-projects in which students can develop and train participatory methods together with stakeholders under guidance, is believed to be a fruitful strategy in this context.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>climate change</kwd>
+            <kwd>early career</kwd>
+            <kwd>interdisciplinarity</kwd>
+            <kwd>research practice</kwd>
+            <kwd>stakeholders</kwd>
+            <kwd>sustainability</kwd>
+            <kwd>transdisciplinarity</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>In 2020, human interference with the Earth’s environmental systems has reached a magnitude that is unprecedented in history [<xref ref-type="bibr" rid="R1">1</xref>], pushing the world into an alarming trajectory at the same time [<xref ref-type="bibr" rid="R2">2</xref>]. Compared to pre-industrial times, humans’ intensified use of fossil fuels and large-scale changes in global land use have caused approximately 1.0<inline-formula>
+               <mml:math id="S3.p1.m1"
+                         alttext="{}^{\circ}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mo>∘</mml:mo>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> C of global warming, triggering climate-related impacts and risks that dangerously influence livelihoods on all continents [<xref ref-type="bibr" rid="R3">3</xref>, <xref ref-type="bibr" rid="R4">4</xref>]. Moreover, unsustainable consumption and other drivers turn out to endanger the planet’s biosphere. For example, plastic is found to pollute the Pacific Ocean [<xref ref-type="bibr" rid="R5">5</xref>], and ongoing land-use changes could transform protected areas and ecosystems [<xref ref-type="bibr" rid="R6">6</xref>].</p>
+         <p>Overcoming such grand environmental risks whilst avoiding substantial harm on human populations requires taking prompt and collective action to stabilize the Earth’s environmental systems and to guide societies towards sustainable development pathways [<xref ref-type="bibr" rid="R7">7</xref>]. This and the ever-increasing urgency of enhanced actions towards sustainability are probably best exemplified by the United Nations’ 17 Sustainable Development Goals (SDGs) framework [<xref ref-type="bibr" rid="R8">8</xref>] and the Sendai Framework for Disaster Risk Reduction 2015-2030 [<xref ref-type="bibr" rid="R9">9</xref>]. Other examples are the climate goals formulated by the 2015 Paris Agreement [<xref ref-type="bibr" rid="R10">10</xref>] and derived regional and national climate mitigation and adaptation plans.</p>
+         <sec id="s1.1">
+            <title>1.1.- Participatory Research for Closing the Science-Policy-Implementation Gap</title>
+            <p>Despite progress on environmental and climate policies that has been made in the last three to four decades, there remain apparently unbridgeable gaps between knowledge, awareness and action for sustainability. For example, scientific evidence on anthropogenic climate change did so far not translate into sufficient societal actions in line with the Paris Agreement [<xref ref-type="bibr" rid="R11">11</xref>]. Due to complexity and interconnectedness many risks of global environmental change are poorly understood and traditional research has been fond not effective enough in taking the perceptions of societal actors into perspective [<xref ref-type="bibr" rid="R12">12</xref>]. To overcome this limitation to scientific knowledge production, inter- and transdisciplinary approaches set out to cross disciplinary boundaries, whilst taking problem-driven approaches is believed leading to increased collaboration with societal stakeholders [<xref ref-type="bibr" rid="R13">13</xref>, <xref ref-type="bibr" rid="R14">14</xref>]. Linking academic knowledge with real-life actions should result in more robust and socially accepted research outcomes [<xref ref-type="bibr" rid="R15">15</xref>]. Specifically, the transdisciplinarity paradigm follows this notion and aims at engaging with the hidden social complexities of modern environmental problems [<xref ref-type="bibr" rid="R16">16</xref>, <xref ref-type="bibr" rid="R17">17</xref>]. It is one objective of transdisciplinarity to evoke social learning for sustainability [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]; however, the societal outcomes of participatory research with stakeholders strongly depends on researchers’ understanding of and competences for civic engagement. Prominent stumbling-blocks for example are researchers’ poorly developed abilities to take multifaceted approaches and their skills in mediating between diverging epistemological positions [<xref ref-type="bibr" rid="R21">21</xref>].</p>
+            <p>Challenges to collaboration with stakeholders across a spectrum from getting societal insights, preferences and opinions all the way to longer-term involvement in experimentation (e.g. urban living labs) also could arise from language differences [<xref ref-type="bibr" rid="R22">22</xref>]. Moreover, science-society collaborations require researchers to be experienced in managing group processes. Transdisciplinary endeavours for sustainability are further complicated by uncertainty about the future [<xref ref-type="bibr" rid="R23">23</xref>], conflicting expectations between stakeholders and researchers [<xref ref-type="bibr" rid="R24">24</xref>], issues related to scientific credibility and impact evaluation [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. The manifold practical challenges to successful stakeholder involvement suggest that better preparing present and future scholars for inter-and transdisciplinarity should be of uttermost importance for the scientific community.</p>
+         </sec>
+         <sec id="s1.2">
+            <title>1.2.- The Role of Early Career Researchers in Inter-and Transdisciplinary Climate Change and Sustainability Research</title>
+            <p>In this paper, we focus on early career climate change and sustainability researchers (including early professionals) and their previous and ongoing education on transdisciplinary stakeholder involvement. We also study their practical experiences when collaborating with stakeholders in research practice across the continuum from collecting societal insights to the involvement in real-world experiments. A qualitative case study approach is employed, focusing on Austrian Universities, to derive first-hand empirical insights from early career researchers. It is widely assumed that young PhD or post-doc researchers in the fields of climate change and sustainability science in Austria have received undergraduate education, respectively training that qualifies them for conducting participatory research with stakeholders. Such education is likely to have equipped them with a distinctive inter-and transdisciplinary identity that also is motivating them for solving grand environmental challenges [<xref ref-type="bibr" rid="R27">27</xref>, <xref ref-type="bibr" rid="R28">28</xref>]. However, reality looks different due to the following obstacles early career researchers are facing. Young researchers’ perspectives of as well as their early experiences with transdisciplinary research could have been disadvantaged by the characteristics of modern academic environments itself. The latter has been recognized by previous studies outside the context for Austria, which all imply a lack of investment in early career researchers’ institutional environments, and their competences for conducting inter-and transdisciplinary research; For example, it is unequivocal that today’s pre- and post-doc students are facing a more competitive situation than their senior colleagues did 20-30 years ago [<xref ref-type="bibr" rid="R29">29</xref>]. And, publication pressure is real, especially at early-career stages. At the same time, transdisciplinary research with stakeholders is increasingly demanded by funders; a contradictory situation, since research involving stakeholders often translates into more project coordination efforts and less time for working on scientific publications [<xref ref-type="bibr" rid="R30">30</xref>]. Doctoral students at the beginning of their academic careers sometimes lack the necessary training and experience in conducting transdisciplinary research, which may result in inadequately designed stakeholder processes [<xref ref-type="bibr" rid="R31">31</xref>]. Moreover, transdisciplinary researchers are also confronted with a less developed (compared to more established sciences) yet steadily growing transdisciplinary academic publication culture [<xref ref-type="bibr" rid="R20">20</xref>, <xref ref-type="bibr" rid="R32">32</xref>]. This disciplinary publishing bias might explain why even some doctoral students themselves rate inter-and transdisciplinary research as less rigorous than disciplinary research [<xref ref-type="bibr" rid="R33">33</xref>].</p>
+            <p>Early career climate change and sustainability research also is found to be impeded by disciplinary doctoral programs offering little space for strengthening team-science skills, or the development of skills to balance knowledge from science with knowledge from society [<xref ref-type="bibr" rid="R34">34</xref>]. As a matter of fact, such disciplinary graduate programs cannot be effective in deepening learners’ skills for transdisciplinary research [<xref ref-type="bibr" rid="R35">35</xref>]. In addition, young researchers in disciplinary doctoral programs may lack senior guidance in identifying and writing for transdisciplinary journals. Previous research also showed that an increasing share of early career researchers who have received training in interdisciplinary master’s programs are challenged by mediating different epistemologies, developing a rich methodological skill-set and implementing participatory approaches at the same time. In other words, early-career practice in transdisciplinary research is influenced by the dichotomy between high academic standards and the often-proclaimed need for co-production of knowledge with stakeholders [<xref ref-type="bibr" rid="R31">31</xref>],
+</p>
+            <p>Against this background, improved education on inter-and transdisciplinarity is widely perceived as a general strategy to build early career researchers’ conceptual and practical skills for stakeholder involvement. For example, learning in peer-groups in which common experiences are shared could help early career researchers to reach higher levels of reflection before, during and after inter-and transdisciplinary projects [<xref ref-type="bibr" rid="R36">36</xref>]. Furthermore, such learning could prepare them for avoiding practical stumbling blocks that arise during stakeholder involvement [<xref ref-type="bibr" rid="R37">37</xref>].</p>
+         </sec>
+         <sec id="s1.3">
+            <title>1.3.- Research Questions and Contributions to the Literature</title>
+            <p>Previous studies, undertaken in other geographical contexts than Austria, have investigated climate change and sustainability researchers’ perspectives of and experiences with the paradigms of inter-and transdisciplinarity. The papers from Killion <italic>et al.</italic> [<xref ref-type="bibr" rid="R31">31</xref>], Hein <italic>et al.</italic> [<xref ref-type="bibr" rid="R33">33</xref>], Moore <italic>et al.</italic> [<xref ref-type="bibr" rid="R34">34</xref>], Rivera-Ferre <italic>et al.</italic> [<xref ref-type="bibr" rid="R35">35</xref>], Haider <italic>et al.</italic> [<xref ref-type="bibr" rid="R27">27</xref>] and Jaeger-Erben <italic>et al.</italic> [<xref ref-type="bibr" rid="R28">28</xref>] are illustrative examples of such explorative research efforts. Most of these studies derived suggestions for improving non-curricular learning opportunities, career paths, mentorship as well as doctoral training programmes for early career researchers. Suggestions were based on survey data and collective workshop reflections. However, none of these previous studies has explicitly taken a look back into the preceding bachelor’s or master’s programmes of current doctoral or post-doc candidates. What is thus missing in the existing literature are in-depth, first-hand insights into early career researchers’ levels of knowledge about stakeholder involvement that has been gained during their undergraduate education. And, whether such educational experiences sufficiently prepared them for conducting participatory research with stakeholders in their ongoing PhD or post-doc research. What is also missing in the existing literature are peer-group reflections about potential improvements to inter- and transdisciplinary undergraduate education, since previous studies focused on research training during graduate years. Many doctoral candidates start involving stakeholders in their doctoral research projects right after their master’s education. We therefore hypothesize that next to graduate research training, improving undergraduate education on inter-and transdisciplinary research skills will be a particularly important leverage point for better preparing upcoming researchers for science <italic>together</italic> with societal stakeholders [<xref ref-type="bibr" rid="R38">38</xref>].</p>
+            <p>Addressing this gap in the peer-reviewed literature and by focussing on early career researchers’ experiences with inter- and transdisciplinary education and research, collected at a workshop in Vienna, this paper adds further empirical insights on inter-and transdisciplinary climate change and sustainability research practice in Austria [<xref ref-type="bibr" rid="R36">36</xref>]. Drawing from workshop participants’ reflections, this paper further aims at developing general recommendations for the Austrian higher education system to better prepare the next generation of climate change and sustainability researchers for stakeholder involvement. Our geographical focus is Austria; however, we think that our general findings are also useful for university teachers in other geographical contexts. The following three central research questions were addressed by the reflective two-day workshop for young scientists and will be answered in the remainder of this paper:</p>
+            <list list-type="order">
+               <list-item>
+                  <p>Based on their academic backgrounds, what do early career researchers in Austria know about theory and practice of inter-and transdisciplinarity?</p>
+               </list-item>
+               <list-item>
+                  <p>What are early career researchers’ practical experiences when collaborating with stakeholders during their PhD or post-doc research projects?</p>
+               </list-item>
+               <list-item>
+                  <p>What did they learn about stakeholder involvement during the workshop and what recommendations for improving inter-and transdisciplinary science education at Austrian Universities were identified by workshop participants?</p>
+               </list-item>
+            </list>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- Background on the Austrian Early Career Researchers’ Workshop</title>
+         <p>The Science Plan for climate research in Austria was realized in March 2018 and adopts an inter- and transdisciplinary research rationale. Initiated by the former Federal Ministry of Science and Research and further developed by the Climate Change Centre Austria (CCCA), it represents a five-to-seven-year research strategy for recent climate change and sustainability science for Austrian research institutions. The document leaves no doubt that barriers and opportunities inherent to mitigation, adaptation and sustainability transformations demand climate and sustainability researchers to open-up their knowledge systems and to develop awareness for the social relevance of their academic work. The corresponding message of the Science Plan to address important societal issues more effectively is as follows:</p>
+         <p><italic>‘Global change in general and climate change in particular pose major scientific challenges… In order to tackle the subsequent challenges, research of individual science disciplines must be complemented by applying inter- and transdisciplinary approaches… Stakeholders should therefore be involved in the research process from an early stage onward (co-design, co-production, co-exploration)’</italic> ([<xref ref-type="bibr" rid="R39">39</xref>], p. 3–4).</p>
+         <p>The academic culture leading to this message is supposed to address senior researchers but is also believed to have influenced early career climate change and sustainability researchers at Austrian universities, including young professional who are working in related contexts as well. In April 2018, therefore the idea was born to give young climate change and sustainability researchers in Austria their own platform for sharing discussions on inter- and transdisciplinary research, for collective reflections about stakeholder involvement and for the eventual aim of co-designing joint research projects. To realise this idea, the first annual workshop for young climate change and sustainability researchers (including professionals) took place on November 18-19, 2018 in Vienna (see Figure <xref ref-type="fig" rid="Fig1">1</xref>). Under the headline <italic>‘Participatory Approaches in Climate Change and Sustainability Research: Sharing Experiences, Best Practices and Stumbling Blocks’</italic>, the CCCA invited early career researchers and professionals (i.e. who were mainly pre-doc students and some post-docs) from all Austrian universities to apply for it. Participants were selected based on short e-mails stating their motivation for joining the workshop, their research background and a short curriculum vitae. Overall, sixteen early career climate change and sustainability researchers at PhD or postdoc level applied for the workshop but only fourteen were invited. Two applicants were not invited because they were Master students not doing research themselves and therefore did not meet the criteria for participation. The workshop started by improving participants’ understanding of participatory approaches and practical collaboration with stakeholders. For this purpose, a lecture that included several case studies was given by a senior scientist working in the field of disaster risk reduction and participatory stakeholder processes. The workshop also aimed at creating reflexive space for deliberative dialogue among and mutual learning between participants [<xref ref-type="bibr" rid="R40">40</xref>]. To stimulate discussions and exchange of early-career experiences, a round-table format was applied to invite workshop participants to share their perceived stumbling blocks and best practices when dealing with stakeholder involvement in their current research practice [<xref ref-type="bibr" rid="R41">41</xref>]. During reflection phases, workshop participants reflected about the above-mentioned content and discussed their research projects of which all included stakeholders. Furthermore, they came up with several recommendations for improving higher education on inter- and transdisciplinary research in Austria.</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label>Figure 1</label>
+            <caption>
+               <title>Workshop participants listening to a lecture given by a senior researcher.</title>
+            </caption>
+            <graphic xlink:href="Fig1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+      </sec>
+      <sec id="s3">
+         <title>3.- Methodology, Data and Qualitative Analysis</title>
+         <p>Our basic methodological approach is a single case-study built around the above-mentioned early-career researchers’ workshop. This methodological approach was selected for two main reasons. Firstly, as a qualitative methodology a single-case study justifies an in-depth exploration of complex cases that cannot be sufficiently investigated by quantitative analysis since a well-structured sample would be needed [<xref ref-type="bibr" rid="R42">42</xref>]. We faced major limitations to sampling in our case, because there is no reliable meta-information about the target population of early-career climate change and sustainability researchers in Austria. University websites alone are often not sufficient to consistently receive contact details of internal and external PhDs belonging to a certain research institute and it is unclear which scientific disciplines are conducting climate change and sustainability science in Austria. Secondly, an explorative single case-study for Austria seems justified since, to our knowledge, there are no previous empirical studies focussing on Austrian early career researchers’ perspectives on inter-and transdisciplinarity. A single-case study therefore could be an opportunity to gain first-hand and in-depth insights from the workshop participants on their educational and practical experiences with inter-and transdisciplinary knowledge production in Austria. We further evaluate whether the workshop provides an authentic learning environment to cultivate self-reflexivity among workshop participants. And, we derive recommendations for improving Austrian transdisciplinary university education [<xref ref-type="bibr" rid="R21">21</xref>].</p>
+         <p>For data collection during and after the early career workshop, this study employed a pre-and post-test design. At the beginning of the workshop, thirteen participants were invited to respond to an ex-ante paper survey (one person did not participate in the workshop even though he/she was invited) of which twelve filled out the survey. All items included in the paper survey were open-ended questions, which should have given respondents the opportunity to examine their perspectives and their experiences. The ex-ante survey aimed at collecting background information on workshop participants’ educational experiences and their motives for seeking participatory settings with stakeholders during their PhD and post-docs research. Moreover, the survey yielded early career researchers’ experiences and perspectives of best practices and common stumbling blocks when collaborating with stakeholders. Early career researchers also were asked to come up with some of their very own recommendations that could be undertaken after the workshop to improve participatory research training and higher education for inter-and transdisciplinary in Austria (see Table <xref ref-type="table" rid="Tab1">1</xref>). To be able to complement the results of the ex-ante survey with direct observations, the authors documented collective reflections among workshop participants using flip charts and field notes.</p>
+         <p>Within a week after the workshop, an online post-workshop survey was sent out to collect participants’ judgements of the effectiveness of the workshop. The post-workshop survey addressed participants’ self-assessments whether the collective reflection has been useful to improve personal knowledge regarding participatory approaches, and focussed on the workshops’ effectiveness in resolving (some) stumbling blocks related to stakeholder involvement (see Table <xref ref-type="table" rid="Tab2">2</xref>).</p>
+         <p>Both the data from the ex-ante and ex-post survey as well as data from collected reflections during the workshop were qualitatively analysed using thematic content analysis. Content analysis started by reading through workshop participants’ written answers, and then two authors independently coded the data from the survey into text-based categories. Those categories should reflect early career researchers’ perspective and experiences and were qualitatively compared after the coding procedure for inter-coder agreement. During the content analysis, the following steps were taken be each coder: (a) obtaining immersion with the written data (i.e. each author familiarised himself/herself with the data set by reading through the text), (b) identifying main meaning units in the original data (i.e. each author extracted thematic paragraphs that were common to most responses, (c) contrasting groups of similar responses, and (d) choosing text-based reference examples from the dataset [<xref ref-type="bibr" rid="R43">43</xref>].</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Survey themes and items of the paper-based ex-ante survey.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Survey themes</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Items (all open-ended)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1. What is your academic background? Name your study programme(s) and your specialisation.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+                        <bold>Academic and educational background</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2. Did you learn about the added-value of stakeholder involvement in climate change or sustainability research during your studies? a. If yes, what reasons for incorporating stakeholders were mentioned? Where there any reasons mentioned for not employing participatory approaches?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              3. Did you receive academic training on how to engage with stakeholders in participatory manner?. a. If yes, which theories or approaches, methods or tools were mentioned?. b. If yes, and based on your research experience, how could the academic training be improved?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              4. Did you already work with stakeholders during your studies? If yes, please briefly describe what stakeholder type and which way this was done.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              5. What is your current field of research?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              6. Do you think that theoretical knowledge on stakeholder participation is important for working within your field? If yes, give one example.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              7. Do you think that practical experience in stakeholder participation is important for working within your field? If yes, which topics or questions require stakeholder participation?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+                        <bold>Participatory approaches and their implementation</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              8. Do you actively involve stakeholders in your current and recent work? If yes, what kind of stakeholders are involved? If no, proceed to question 13.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              9. Which methods and tools do you use to involve stakeholders? (Please describe the methods or tools briefly)
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              10. Which levels of participation do you reach with stakeholders during your work most commonly? (Information, Consultation, Involvement, Collaboration and Empowerment)
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              11. Which problems have you encountered when involving stakeholders in practice (conceptual difficulties, management problems, convincing stakeholders to work with you…) and how did you solve them?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Transdisciplinary research and scientific dissemination</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              12. In general, do you rather associate benefits or challenges with transdisciplinary research? What are the main benefits and/or challenges?
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              13. Have you ever published a scientific paper that contains outcomes that were co-produced with stakeholders? a. If yes, please describe what kind of results were obtained. b. How did you identify an appropriate journal? Was it difficult to find one?
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         <table-wrap id="Tab2" position="float" orientation="portrait">
+            <label>Table 2</label>
+            <caption>
+               <title>Survey themes and items of the online ex-post survey.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Survey themes</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Items (all open-ended)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              1. What is the most significant insight you gained during the workshop for your current work? Please describe briefly.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+                        <bold>Assumed learning outcomes on personal knowledge</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              2. Did you achieve new knowledge or did you update your knowledge of stakeholder involvement and participatory approaches? Please describe the new achieved/updated topics briefly.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify" style="" rowspan="1" colspan="1">
+              
+            </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              3. How will you make use of the insights that you have gained during the workshop?
+Please describe briefly.
+            </td>
+                  </tr>
+                  <tr>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+                        <bold>Resolving some stumbling-blocks related to stakeholder engagement</bold>
+                     </td>
+                     <td align="justify"
+                         style="border-top:1px solid black;border-bottom:1px solid black;"
+                         rowspan="1"
+                         colspan="1">
+              
+              4. What is the effect of the workshop in terms of resolving some of your own stumbling blocks within your research? Please describe briefly.
+            </td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s4">
+         <title>4.- Results</title>
+         <sec id="s4.1">
+            <title>4.1.- Workshop Participants and Their Inter-and Transdisciplinary Education Levels</title>
+            <p>The results show that most early career climate change and sustainability researchers attending the workshop had academic backgrounds in interdisciplinary fields. Most of them were trained in interdisciplinary bachelor’s or master’s programs, like environmental sciences, geography, natural resources management, ecological engineering or human and social ecology. Only two participants were trained in a more disciplinary field, namely economics. Since those fields traditionally are open for transdisciplinarity, every second workshop participant therefore knew about the potential added-value of including societal stakeholders in climate change and sustainability research before the workshop. Reasons for involving stakeholders into research practice that were picked up by workshop participants during their undergraduate education were manifold. For example, intense collaborations with stakeholders were argued to be effective for societal change and also justified since <italic>‘stakeholders could have the necessary knowledge for a given research question’</italic> or simply because <italic>‘climate change and sustainability research are dealing with real world problems and therefore many people of society are affected’</italic>. Moreover, the practice of inviting stakeholders into the research process could <italic>‘improve research due to a reality check’</italic>, and <italic>‘it ensures that decisions in planning are O.K. for people’</italic>.</p>
+            <p>Workshop participants also argued to have learned about several reasons for not involving stakeholders in their research projects during their higher education. This is because <italic>‘stakeholder participation can also consume a lot of resources and may not lead to the wanted results’</italic>, or because collaboration between scientists and societal stakeholders is believed to be <italic>‘time-consuming’</italic> and there is the risk that <italic>‘results may not be reproducible’</italic>.</p>
+            <p>The analysis of workshop participants’ educational experiences also revealed that besides gaining generic insights into inter- and transdisciplinarity, they also received some more specific methodological training on how to engage with stakeholders before enrolling in a PhD program or accepting a post-doc position. Workshop participants either learned about participatory approaches like <italic>‘agent-based modelling’</italic> or <italic>‘wider transdisciplinary theories’</italic>. Other tools for stakeholder involvement and participatory research the participants had experience with were applying <italic>‘expert interviews’</italic>, <italic>‘focus groups’</italic>, <italic>‘role plays’</italic>, <italic>‘scenario analysis’</italic>, <italic>‘world-café’</italic>, <italic>‘workshops’</italic> and even <italic>‘climate narratives’</italic>. Among workshop participants, there was consensus that especially <italic>‘qualitative methods’</italic> from the social sciences are particularly suitable for transdisciplinary research endeavours.</p>
+            <p>Some participants also reported that they have already collaborated with stakeholders during their bachelor’s or master’s programmes. For example, participants did research with <italic>‘visitors of Austrian National Parks’</italic>, <italic>‘natural hazard managers’</italic>, <italic>‘farmers’</italic>, <italic>‘members of institutions, administration and municipalities’</italic>, <italic>‘teenagers’</italic> and <italic>‘decision-makers in the Austrian climate and energy sector’</italic>. Different levels of science-society interactions were reached inasmuch some workshop participants engaged with societal stakeholders during their bachelor’s or master’s for <italic>‘risk communication’</italic> or just <italic>‘polling’</italic>. Others involved stakeholders in <italic>‘design thinking processes’</italic> or <italic>‘participatory scenario analysis’</italic>.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Workshop Participants’ Practical Experiences when Working with Societal Stakeholders</title>
+            <p>The analysis further showed that when becoming PhD students or post-docs the workshop participants continued to conduct inter-and transdisciplinary research. They are recently contributing to three main scientific fields: <italic>climate change research</italic> (i.e. focusing on management, communication/education and behaviour); <italic>flood risk research</italic> (i.e. focusing on management, communication and behaviour); and <italic>disaster risk reduction</italic> (i.e. focusing on vulnerability, communication, and management). Other fields were land-use dynamics (i.e. focusing on scenario building), <italic>sustainability science</italic> (i.e. focusing on the Anthropocene age), <italic>responsible research and innovation, de-growth studies and feminist methodologies</italic>.</p>
+            <p>Across all identified research fields, most workshop participants claimed that they would feel increasingly required to develop integrative skills as well as competencies in risk and science communication. They also argued that more knowledge on and methodological know-how for participatory settings could be useful to better navigate transdisciplinary research and its outcomes. Two statements reflect those perspectives:</p>
+            <p>Respondent A: <italic>‘I think it is good to know participatory toolboxes (methodological approaches), that one can relate to’</italic>.
+Respondent B: <italic>‘For researchers in climate change adaptation, it is crucial to know different theories whether stakeholders can contribute to a research problem, or not’</italic>.</p>
+            <p>Workshop participants also argued that working with stakeholders would require ongoing learning and that practical experience is highly valued by their institutions and teams. Two additional statements reflect their views:</p>
+            <p>Respondent C: <italic>‘Practical experience helps to understand and facilitate the process of working with people’</italic>.
+Respondent D: <italic>‘Stakeholder participation requires a lot of practice and is, to some, degree learning by doing. In my opinion, any research that tries to identify solutions to societal challenges should involve and attract stakeholders’</italic>.</p>
+            <p>The results on research experiences indicated that workshop participants reach different levels of engagement when working with stakeholders in their research projects. These phases of engagement are referred to as (1) information, (2) consultation, (3) collaboration and (4) empowerment [<xref ref-type="bibr" rid="R44">44</xref>]. Most participants claimed that, in their research projects, they usually inform, consult and collaborate with stakeholders under a common research goal. Just one participant claimed that stakeholders would be empowered through his or her research project. Even as deep engagement between researchers and stakeholders was perceived as highly important it was also recognised that <italic>‘empowerment is difficult to measure’</italic>.</p>
+            <p>Participatory tools used by workshop participants during their research projects before the workshop mainly referred to conventional project management tools and some qualitative research methods. For example, <italic>‘workshop settings’</italic> or <italic>‘role plays’</italic> were undertaken to establish collaboration, and <italic>‘design thinking’</italic> as well as <italic>‘serious games’</italic> were used for co-production of knowledge or policy options. Participants applied <italic>‘semi-structured interviews’</italic>, <italic>‘surveys’</italic> and <italic>‘thematic mapping’</italic> in efforts to consult stakeholders. In terms of epistemological theories for communication with stakeholders, <italic>‘constructivism’</italic> was perceived as an effective approach or theory for participatory research endeavours.
+</p>
+            <p>The results of this category also show that even though most workshop participants have learned about inter-and transdisciplinarity during their undergraduate years they still face several stumbling blocks when conducting their postgraduate inter-and transdisciplinary climate change and sustainability research. A typical stumbling block was finding a common language with stakeholders for adequately transitioning scientific content to societal contexts. Establishing communication routines to express the societal relevance of inter- and transdisciplinary research outcomes was a reported stumbling block as well. Another issue was building trust between researchers and stakeholders. Two statements reflect this perspective:</p>
+            <p>Respondent E: <italic>‘Sometimes, it is hard to establish initial trust with stakeholders’</italic>.
+Respondent F: <italic>‘Translating research results into a language that is understandable to the public is a challenge itself. Despite uncertainties in scientific results, decision-makers need clear messages for their decisions’</italic>.</p>
+            <p>As a second category of stumbling-blocks reported by workshop participants deals with project management and grant writing. Two statements are given below:</p>
+            <p>Respondent G: <italic>‘Identifying dates and arranging meetings with stakeholders – almost 24/7 project management’</italic>.
+Respondent H: <italic>‘For a research proposal, I failed to describe exchange between stakeholders and researchers robustly enough’</italic>.</p>
+            <p>The workshop participants recognised several benefits of inter- and transdisciplinary research for their current research projects, for example <italic>‘triggering mutual learning among academic and non-academic actors’</italic>, <italic>‘creating acceptance of research-led solutions’</italic> and <italic>‘overcoming a reductionist view’</italic> of narrowly focused research attempts. Nevertheless, they also were concerned with some other challenges related to the analysis and dissemination of transdisciplinary processes, like <italic>‘finding adequate transdisciplinary journals’</italic> and <italic>‘arguing for a certain participatory method or theory in front of senior colleagues’</italic>. Problems like <italic>‘testing the effectiveness of transdisciplinary research by intersubjective means’</italic> and <italic>‘gaining the acceptance from non-transdisciplinary colleagues’</italic> were reported as well.</p>
+         </sec>
+         <sec id="s4.3">
+            <title>4.3.- Workshop Participants’ self-reported Learning Outcomes</title>
+            <p>After participating in the early career workshop, some workshop participants indicated that they have gained new knowledge related to participatory approaches and argued to have deepened their understanding of collaboration with societal stakeholders. More specifically, workshop participants claimed to have learned about new methods to engage with different types of stakeholders, and were becoming more aware of which factors could limit a transdisciplinary research design. One statement is given below:</p>
+            <p>Respondent I: <italic>‘I gained the insight that there is a broad range of different tools to involve stakeholders within studies. I also gained the insight that prior to the selection of stakeholders, an analysis should be conducted to better know your audience and the types of benefits that stakeholders can bring into research projects. I learned that the process from stakeholder identification to involvement towards co-production of research outcomes should be organized as systematically and rigor as possible’</italic>.</p>
+            <p>For many participants, the workshop represented a first opportunity to jointly discuss the challenges related to stakeholder involvement in their research projects, however it was also mentioned that a workshop never can replace learning from personally practising research. One such statement is given below:</p>
+            <p>Respondent J: <italic>‘The workshop showed that there are some common mistakes in implementing participatory processes. The best way to learn and resolve stumbling blocks, however, is through hands-on, practical experience’</italic>.</p>
+            <p>The workshop was also reported to have been effective in motivating participants to apply participatory research approaches in the future. At the same time, it was reported that a more profound understanding of the different levels of engagement with stakeholders is acquired to really lead to transformational change for sustainability in wider society. Three reflective statements from workshop participants are as follows:</p>
+            <p>Respondent K: <italic>‘This survey is a good way to reflect about the workshop. The workshop helped me to be more explicit about aims and methods in stakeholder involvement, and I will look more deeply in different case studies on participatory approaches’</italic>.
+Respondent L: <italic>‘I will respect new insights that I gained during the workshop in my PhD thesis. I also think that these insights will help me writing proposals dealing with stakeholder involvement’</italic>.
+Respondent M: <italic>‘I am more careful to reflect whether I should integrate stakeholders within my project or not. This should be done to avoid stakeholder fatigue and it should be critically evaluated whether participation with stakeholders creates added value or not’</italic>.</p>
+            <p>Despite workshop participants reported to have experienced learning outcomes due to the workshop, it is important to note that some participants claimed that it did not resolve all stumbling blocks or confusions related to collaboration with stakeholders or inter- and transdisciplinary climate change and sustainability research. One statement is as follows:</p>
+            <p>Respondent N: <italic>‘I will try harder in current and future research to really co-design projects, from the beginning till the end. My stumbling block in terms of how to evaluate the effectiveness of participatory research methods was not completely resolved, but I got some ideas how to do it’</italic>.</p>
+         </sec>
+         <sec id="s4.4">
+            <title>4.4.- Workshop Participants’ Recommendations to Improve Higher Education on Transdisciplinary Research in Austria</title>
+            <p>During the workshop, workshop participants reflected upon how to improve current inter- and transdisciplinary university education, respectively how to improve participatory research training for stakeholder involvement in Austria. They came up with several transformative suggestions that are relevant to several bachelor’s and master’s programmes at Austrian universities. The identified recommendations are as follows:</p>
+            
+            <p>
+               <bold>• Lectures on participatory approaches</bold> should provide university students in the fields of climate change and sustainability sciences with <italic>‘basic introductions to qualitative research, theories in social sciences and stakeholder engagement’</italic>.</p>
+          
+            <p>
+               <bold>• Excursions</bold> in which university students could <italic>‘develop and train participatory methods together with stakeholders and fellow students’</italic>.</p>
+          
+            <p>
+               <bold>• Hands-on courses</bold> in which <italic>‘one can design and implement participatory tools by his or her own’</italic> and <italic>‘in-depth workshops’</italic> on stakeholder involvement, both embedded in existing university curricula, should <italic>‘offer an extensive overview of possible tools and methods’</italic>.</p>
+          
+            <p>
+               <bold>• Inter-and transdisciplinary mini-projects</bold> on stakeholder involvement should be offered in higher education already <italic>‘during undergraduate years’</italic> since <italic>‘experience beats everything’</italic>.</p>
+          
+            <p>
+               <bold>• Toolkits</bold> on <italic>‘how to work with stakeholders’</italic> should be discussed and employed during university courses and in <italic>‘lecture notes’</italic>.</p>
+            <p>It was further tried to embed the potential improvements recommended by workshop participants into a larger context using the approach from Killion <italic>et al.</italic> [<xref ref-type="bibr" rid="R31">31</xref>] (see Figure <xref ref-type="fig" rid="Fig2">2</xref>). Like them we plotted each single measure against its assumed implementation effort to inform department leaders, deans of studies, lectures, and other scientific professionals who are usually responsible for developing higher education. We also evaluated whether each measure could be aligned with existing science curricular in the Austrian university system or not. The results of this reflective process suggest that all measures could be theoretically applied, but would have different outcomes to learners. For example, it should be possible for study committees and lectures to develop and integrate thematic lectures on inter-and transdisciplinarity into existing bachelor’s and master’s programmes that set out to prepare students for solving climate change and sustainability issues. Such conceptual lectures could be used to elaborate on social science theories on communication and/or science-society collaborations as well to introduce technical toolkits showcasing frameworks and methods and its specific advantages and disadvantages for participatory research with stakeholders. Workshop participants however claimed that transdisciplinarity must also be personally experienced and therefore they recommended that coming generations of climate change and sustainability researchers in Austria could benefit from authentic learning in excursions, hands-on courses and mini-projects with stakeholders during their undergraduate education. It is further believed that an improved transdisciplinary education not only could lead to scientific excellence in the long-term but could also reduce trivial but often experienced stumbling-blocks when collaborating with societal stakeholders. Referring to practical stumbling-blocks, workshop participants reflected on each measure’s potential for preparing early career researchers for more successful inter-and transdisciplinary grant-writing, sound project management and more flexible communication skills. The latter is important for translating inter-and transdisciplinary research into real-life management contexts.</p>
+            <fig id="Fig2" position="float" orientation="portrait">
+               <label>
+                  Figure 2
+                  </label>
+               <caption>
+                  <title>Early career climate change and sustainability researchers’ recommendations for improving university education in Austria specifically regarding collaboration with stakeholders using the approach from Killion et al. [<xref ref-type="bibr" rid="R31">31</xref>].</title>
+               </caption>
+               <graphic xlink:href="Fig2.png"
+                        position="float"
+                        orientation="portrait"
+                        xlink:type="simple"/>
+            </fig>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Discussion</title>
+         <p>This paper set out to qualitatively examine twelve early career climate change and sustainability researchers’ (and young professionals’) educational and practical experiences in conducting participatory research with stakeholders in the context of Austria. Thematic coding of survey data and documented workshop reflections showed that participants had received undergraduate education on inter-and transdisciplinarity and had practical experiences before choosing to work with stakeholders in their recent PhD/post-doc projects. Nevertheless, several stumbling-blocks are found to complicate their every-day collaboration with stakeholders and the workshop was perceived as a good opportunity to engage in peer discussion and practice self-reflexivity. Reflections during the workshop resulted in several recommendations for alternative learning concepts to improve current inter-and transdisciplinary education at Austrian universities.</p>
+         <sec id="s5.1">
+            <title>5.1.- Comparing Survey Results with Findings of Similar Studies</title>
+            <p>Results of this study confirm previous research insights derived from examining other contexts than Austria. For example, findings from Haider <italic>et al.</italic>, who surveyed 325 early career sustainability scientists in the broader network of resilience research and practice during the Resilience 2014 conference in Montpelier, France, also apply to early career climate change and sustainability researchers in Austria: (a) workshop participants mainly were trained in interdisciplinary bachelor’s or master’s programmes and (b) participants’ practical experiences with stakeholders underline that ‘methodological groundedness’ (i.e. the ability of a researcher to understand and put a certain transdisciplinary method into practice) as well as ‘epistemic agility’ (i.e. the ability of a researcher to understand claims about through and knowledge outside academia) are understood as key guiding principles for successful participatory research with stakeholders ([<xref ref-type="bibr" rid="R27">27</xref>], p. 197).</p>
+            <p>Our results also agree with Killion <italic>et al.</italic> [<xref ref-type="bibr" rid="R31">31</xref>] inasmuch workshop participants reported that low levels of team-science skills and inappropriate project management are likely to raise practical difficulties for doctoral students during stakeholder involvement. Like Killion <italic>et al.</italic> [<xref ref-type="bibr" rid="R31">31</xref>] we conclude that as more collaboration with stakeholders is expected by decision-makers, funders or senior colleagues, the more care must be given to systematically prepare pre-doc and post-doc researchers for establishing robust transdisciplinary platforms [<xref ref-type="bibr" rid="R45">45</xref>, <xref ref-type="bibr" rid="R46">46</xref>]. This means that science networks in Austria and other countries are recommended to provide sufficient institutional support for developing the next generation of inter- and transdisciplinary researchers. This should be undertaken not only through increased levels of funding [<xref ref-type="bibr" rid="R47">47</xref>], but also by offering continuous learning opportunities that equip the next generation of scholars with a deep understanding of agency-based approaches and public engagement [<xref ref-type="bibr" rid="R48">48</xref>].</p>
+            <p>Going beyond the existing literature by assessing the workshop participants’ previous undergraduate education experiences, our results show that most workshop participants were knowledgeable about state-of-the-art methods in participatory research, like world-cafés or stakeholder discussions in focus groups, already prior to their PhD or post-doc projects. Some even reported to use facilitation tools like design thinking in their current research activities. None of the workshop participants however indicated to have prior knowledge or practical experience with methods for real-life transdisciplinary experimentation, like real-world laboratories [<xref ref-type="bibr" rid="R49">49</xref>], the future search conference method or other tools relevant for facilitating sustainable outcomes among stakeholder groups. Methodological guidance can be found in the toolkit compendium of the scientific journal <italic>GAIA-Ecological Perspectives for Science and Society</italic> [<xref ref-type="bibr" rid="R50">50</xref>]. We think that limited awareness of tools useful to transdisciplinary experimentation is problematic because it implies that ways to effective knowledge integration, which is the process by which transdisciplinary research combines scientific outcomes and non-academic knowledge to trigger real-life solutions [<xref ref-type="bibr" rid="R51">51</xref>], are unknown to young climate change and sustainability researchers. A weak understanding of strategies to re-integrate outcomes of transdisciplinary research into societal practice [<xref ref-type="bibr" rid="R20">20</xref>] could also explain why most participants were sceptical whether their PhD or post-doc research is effective in empowering stakeholders for sustainability.</p>
+         </sec>
+         <sec id="s5.2">
+            <title>5.2.- Improving Inter- and Transdisciplinary University Education in Austria</title>
+            <p>One of the most important findings of this case-study is that interdisciplinary bachelor’s or master’s programs in Austria do not necessarily prepare early career climate change and sustainability researchers with the conceptual knowledge as well as management skills for stakeholder involvement. Degrees in environmental sciences or human and social ecology may prepare students for taking more holistic approaches to problem solving and may strengthen their systems thinking skills [<xref ref-type="bibr" rid="R52">52</xref>]. It is however argued that this is not enough for solving challenges in transdisciplinary research, like dealing with different epistemological realities, being flexible in co-production of knowledge or gaining higher levels of self-reflexivity for critically evaluating one owns transdisciplinary research [<xref ref-type="bibr" rid="R21">21</xref>]. Most workshop participants have directly entered the inter-and transdisciplinary arena after their graduation. Participatory research trainings sporadically taken during the first and second years of the PhD therefore might not be the only optimal strategy to foster early career researchers’ participatory research competences, especially if average time of institutional employment during PhD stage in Austria is limited to three years. Hence it is proposed that new and innovative pedagogic strategies applied already during bachelor’s or master’s programmes could be a promising educational investment for sustainable development in Austria; these might include several of our workshop participants’ recommendations, like offering inter- and transdisciplinary mini-projects or hands-on courses. In such learning activities, learners should be allowed to freely experiment with participatory approaches, and such undergraduate teachings may also make a meaningful contribution to the above-mentioned science plan [<xref ref-type="bibr" rid="R39">39</xref>].</p>
+            <p>Involving societal stakeholders into such transdisciplinary learning activities is central, however benefits must be offered by Universities to keep societal actors engaged over longer periods of time. We suggest, for example, providing stakeholders free access to scientific journals as well as highlighting throughout the process the practical relevance of co-produced research results for the stakeholders’ fields of activity. Mainstreaming transdisciplinarity into the academic system is central [<xref ref-type="bibr" rid="R53">53</xref>] and this also was discussed during the early career workshop.</p>
+            <p>Transdisciplinary lectures in current science curricula therefore could be used to make undergraduate students more familiar with widely accepted stakeholder frameworks [<xref ref-type="bibr" rid="R54">54</xref>, <xref ref-type="bibr" rid="R55">55</xref>], and toolkits for managing participatory research processes. Toolkits like the ones of Welp <italic>et al.</italic> [<xref ref-type="bibr" rid="R22">22</xref>] or Wittmayer and Hölscher [<xref ref-type="bibr" rid="R56">56</xref>] could become common knowledge for upcoming inter-and transdisciplinary climate change and sustainability researchers. Overall, our suggestions for improving higher education in Austria were found to be very well in line with Wittmayer and Schäpke [<xref ref-type="bibr" rid="R57">57</xref>], who argued that transdisciplinary cooperation should already be part of education programs to enable young researchers to deal with the challenges ahead.</p>
+         </sec>
+         <sec id="s5.3">
+            <title>5.3.- Mutual Learning Effects among Early Career Researchers and Implications of the Workshop</title>
+            <p>Interestingly, the workshop not only was reported to be effective in providing new knowledge but also to foster peer-group discussion. It also seemed to have strengthened early career researchers’ critical thinking about inter-and transdisciplinarity. Several reference examples support this claim. Mutual learning between workshop participants also included discussions between those researchers who published a transdisciplinary paper before and others who were interested to do so. These workshops therefore can be a place in sharing knowledge on, and publishing experiences in, the steadily emerging peer-reviewed academic journals that do foster transdisciplinary research, for example <italic>Ecology and Society, GAIA, One Earth, Sustainability Science, Ambio and others</italic> [<xref ref-type="bibr" rid="R58">58</xref>]. What must be critically admitted however is that the workshop design characterized by a short initial lecture given by a senior researcher and the strong emphasis on group reflections was not fully effective in resolving workshop participants’ methodological stumbling-blocks with stakeholder involvement. For better methodical training a more interactive workshop design therefore must be chosen in which methods are tested and/or in which not only senior researcher but also stakeholders could be invited. Ideally, such stakeholders should have collaborated in transdisciplinary projects before and should be willing to share their lessons learned. Despite this limitation, the workshop indicates that there is a largely unexploited interest among early career climate change and sustainability researchers in Austria to reach rigorousness in participatory research with societal stakeholders. Since this interest fits well into the scope of the above-mentioned science plan (see background chapter), the CCCA and similar national science consortia are encouraged to build on this common interest by promoting and holding early career workshops on a regular basis. Furthermore, they are encouraged to develop their own forms of innovative training for inter-and transdisciplinary research [<xref ref-type="bibr" rid="R39">39</xref>]. Examples of mutual learning opportunities that are also relevant to the Austrian context are the Postdoc Academy for Transformational Leadership [<xref ref-type="bibr" rid="R59">59</xref>], the td Academy [<xref ref-type="bibr" rid="R60">60</xref>] or the TD summer school from the Leuphana University, Germany [<xref ref-type="bibr" rid="R61">61</xref>].</p>
+         </sec>
+         <sec id="s5.4">
+            <title>5.4.- Study Limitations and Further Research Needs</title>
+            <p>Several limitations of this study are acknowledged. Firstly, the study’s sample size (N=12) is small and therefore we avoid a generalization of our results beyond the national context of Austria. This country approach to generalization is in line with similar studies also focussing on early career challenges related to transdisciplinary sustainability research, for example Killion <italic>et al.</italic> [<xref ref-type="bibr" rid="R31">31</xref>] (N=26, United States of America) or Jaeger-Erben <italic>et al.</italic> [<xref ref-type="bibr" rid="R28">28</xref>] (N=12, Germany). Small sample sizes per se are not problematic to single-case study research inasmuch they can be instructive to complex social phenomena [<xref ref-type="bibr" rid="R42">42</xref>, <xref ref-type="bibr" rid="R62">62</xref>]. However, we also understand that our results and recommendations should be interpreted with caution inasmuch they are not fully representative of all early career climate change and sustainability scientists in Austria. We therefore encourage other scholars to scale up our workshop approach and to invite a larger number of early career researchers to such events. But at the same time, we also note that such future research could learn from our qualitative insights since they have pilot-study character. The second limitation relates to the selection of workshop participants. Since participants had to apply for the workshop, the sample of course does not account for other PhD or post-doc researchers in the fields of climate change and sustainability who probably were not interested, had not time to join the event or simply were not informed about the workshop. Furthermore, the qualitative analysis of the workshop’s effectiveness only is based on workshop participants’ self-assessment. Self-reported learning of course is subjective and future works are therefore recommended to explore whether participants had tested strategies from the reflective workshop in their early career research practice more objectively.</p>
+         </sec>
+      </sec>
+      <sec id="s6">
+         <title>6.- Conclusions</title>
+         <p>This case study has provided in-depth insight into Austrian early career climate change and sustainability researchers’ educational and practical experiences when working with societal stakeholders in their inter- and transdisciplinary PhD or post-doc projects. Results confirm those of previous international studies on early career researchers and suggest that mutual learning among peers and senior researchers about stakeholder involvement, e.g. in the form of focused workshops, can have several positive effects. Workshop participants expand their knowledge, reflect more critically about transdisciplinary research designs, and simply can build a professional network. In addition, we find that graduate research training should not be perceived as the only strategy to resolve conceptual and practical stumbling-blocks related to participatory research with societal stakeholders. One of our main conclusions is that early career researchers would benefit substantially if their preceding bachelor’s and master’s programmes in the fields of climate change and sustainability sciences would incorporate more practice-oriented transdisciplinary learning activities. This includes, amongst others, more elaborate teaching techniques on how to re-integrate transdisciplinary research outcomes back into society.</p>
+      </sec>
+      <sec id="s9">
+         <title>Acknowledgments</title>
+         <p>The authors sincerely acknowledge the valuable and profound comments by two anonymous referees. We acknowledge the financial support of the Climate Change Center Austria (CCCA) and thank all workshop participants for also taking part in our accompanying study. Thomas Schinko was partly supported by funding from the Austrian Federal Ministry of Education, Science and Research, research project makingAchange.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.ancene.2017.12.001</pub-id>
+               <year>2017</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>20</volume>
+               <fpage>1</fpage>
+               <lpage>3</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Chin</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Beach</surname>
+                     <given-names>Timothy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Luzzadder-Beach, Sheryl</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Solecki</surname>
+                     <given-names>William D.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Challenges of the \textquotedblleftAnthropocene\textquotedblright</article-title>
+               <source>Anthropocene</source>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1073/pnas.1810141115</pub-id>
+               <year>2018</year>
+               <publisher-name>Proceedings of the National Academy of Sciences</publisher-name>
+               <volume>115</volume>
+               <issue>33</issue>
+               <fpage>8252</fpage>
+               <lpage>8259</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steffen</surname>
+                     <given-names>Will</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rockström</surname>
+                     <given-names>Johan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richardson</surname>
+                     <given-names>Katherine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lenton</surname>
+                     <given-names>Timothy M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Folke</surname>
+                     <given-names>Carl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liverman</surname>
+                     <given-names>Diana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Summerhayes</surname>
+                     <given-names>Colin P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Barnosky</surname>
+                     <given-names>Anthony D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cornell</surname>
+                     <given-names>Sarah E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Crucifix</surname>
+                     <given-names>Michel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Donges</surname>
+                     <given-names>Jonathan F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fetzer</surname>
+                     <given-names>Ingo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lade</surname>
+                     <given-names>Steven J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Scheffer</surname>
+                     <given-names>Marten</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Winkelmann</surname>
+                     <given-names>Ricarda</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schellnhuber</surname>
+                     <given-names>Hans Joachim</given-names>
+                  </name>
+               </person-group>
+               <article-title>Trajectories of the Earth System in the Anthropocene</article-title>
+               <source>Proceedings of the National Academy of Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Waterfield, Stone</surname>
+                  </name>
+                  <name>
+                     <surname>Tignor, M</surname>
+                  </name>
+                  <name>
+                     <surname>Maycock, T</surname>
+                  </name>
+                  <name>
+                     <surname>Lonnoy, E</surname>
+                  </name>
+                  <name>
+                     <surname>Gomis, MI</surname>
+                  </name>
+                  <name>
+                     <surname>Zhou, X</surname>
+                  </name>
+                  <name>
+                     <surname>Chen, Y</surname>
+                  </name>
+                  <name>
+                     <surname>Matthews, JBR</surname>
+                  </name>
+                  <name>
+                     <surname>Connors, S</surname>
+                  </name>
+                  <name>
+                     <surname>Pidock, R</surname>
+                  </name>
+                  <name>
+                     <surname>Péan, C</surname>
+                  </name>
+                  <name>
+                     <surname>Moufouma-Okia, W</surname>
+                  </name>
+                  <name>
+                     <surname>Pirani, A</surname>
+                  </name>
+                  <name>
+                     <surname>Shukla, PR</surname>
+                  </name>
+                  <name>
+                     <surname>Skea, J</surname>
+                  </name>
+                  <name>
+                     <surname>Roberts, D</surname>
+                  </name>
+                  <name>
+                     <surname>Pörtner, H-O</surname>
+                  </name>
+                  <name>
+                     <surname>Zhai, P</surname>
+                  </name>
+                  <name>
+                     <surname>Masson-Delmotte, V</surname>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Intergovernmental Panel on Climate Change: Summary for policymakers</source>
+               <chapter-title>Global Warming of 1.5$^\circ$C. An IPCC Special Report on the impacts of global warming of 1.5$^\circ$C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty</chapter-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf"
+                         xlink:type="simple">https://www.ipcc.ch/site/assets/uploads/sites/2/2019/05/SR15_SPM_version_report_LR.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/nclimate2896</pub-id>
+               <year>2015</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>6</volume>
+               <issue>5</issue>
+               <fpage>532</fpage>
+               <lpage>537</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>Gerrit</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stone</surname>
+                     <given-names>Dáith\'\i</given-names>
+                  </name>
+               </person-group>
+               <article-title>Assessing the Observed Impact of Anthropogenic Climate Change</article-title>
+               <source>Nature Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Evidence that the Great Pacific Garbage Patch is Rapidly Accumulating Plastic</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lebreton</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Slat</surname>
+                     <given-names>B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ferrari</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Saint-Rose, B</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aitken</surname>
+                     <given-names>J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marthouse</surname>
+                     <given-names>R</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hajbane</surname>
+                     <given-names>S</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reisser J</surname>
+                  </name>
+               </person-group>
+               <source>Scientific Reports</source>
+               <volume>8</volume>
+               <issue>4666</issue>
+               <pub-id pub-id-type="doi">10.1038/s41598-018-22939-2</pub-id>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1073/pnas.1716462115</pub-id>
+               <year>2018</year>
+               <publisher-name>Proceedings of the National Academy of Sciences</publisher-name>
+               <volume>115</volume>
+               <issue>9</issue>
+               <fpage>2084</fpage>
+               <lpage>2089</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Tesfaw</surname>
+                     <given-names>Anteneh T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pfaff</surname>
+                     <given-names>Alexander</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Golden Kroner, Rachel E.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Qin</surname>
+                     <given-names>Siyu</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Medeiros</surname>
+                     <given-names>Rodrigo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>B. Mascia, Michael</surname>
+                  </name>
+               </person-group>
+               <article-title>Land-use and Land-cover Change Shape the Sustainability and Impacts of Protected Areas</article-title>
+               <source>Proceedings of the National Academy of Sciences</source>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5751/es-09310-220231</pub-id>
+               <year>2017</year>
+               <publisher-name>Resilience Alliance, Inc.</publisher-name>
+               <volume>22</volume>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Olsson</surname>
+                     <given-names>Per</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Michele-Lee</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Westley</surname>
+                     <given-names>Frances R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McCarthy</surname>
+                     <given-names>Daniel D. P.</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Concept of the Anthropocene as a Game-changer: A New Context for Social Innovation and Transformations to Sustainability</article-title>
+               <source>Ecology and Society</source>
+            </element-citation>
+         </ref>
+         
+         <ref id="R8">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Sustainable Development Goals Report 2018</article-title>
+               <publisher-name>United Nations</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://unstats.un.org/sdgs/files/report/2018/TheSustainableDevelopmentGoalsReport2018-EN.pdf"
+                         xlink:type="simple">https://unstats.un.org/sdgs/files/report/2018/TheSustainableDevelopmentGoalsReport2018-EN.pdf</ext-link>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Sendai Framework for Disaster Risk Reduction 2015-2030</article-title>
+               <publisher-name>United Nations Office for Disaster Risk Reduction</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030</uri>.
+        </comment>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Paris Agreement</article-title>
+               <publisher-name>United Nations Frameworks Convention on Climate Change</publisher-name>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://unfccc.int/sites/default/files/english\_paris\_agreement.pdf"
+                         xlink:type="simple">https://unfccc.int/sites/default/files/english\_paris\_agreement.pdf</ext-link>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.oneear.2019.09.001</pub-id>
+               <year>2019</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>1</volume>
+               <issue>1</issue>
+               <fpage>21</fpage>
+               <lpage>23</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Knutti</surname>
+                     <given-names>Reto</given-names>
+                  </name>
+               </person-group>
+               <article-title>Closing the Knowledge-Action Gap in Climate Change</article-title>
+               <source>One Earth</source>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1126/science.1196263</pub-id>
+               <year>2010</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>330</volume>
+               <issue>6006</issue>
+               <fpage>916</fpage>
+               <lpage>917</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reid</surname>
+                     <given-names>W. V.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldfarb</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hackmann</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lee</surname>
+                     <given-names>Y. T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mokhele</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ostrom</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Raivio</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rockstrom</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schellnhuber</surname>
+                     <given-names>H. J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Whyte</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Earth System Science for Global Sustainability: Grand Challenges</article-title>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2016.02.006</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>39</volume>
+               <fpage>318</fpage>
+               <lpage>327</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brondizio</surname>
+                     <given-names>Eduardo S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Brien, Karen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bai</surname>
+                     <given-names>Xuemei</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Biermann</surname>
+                     <given-names>Frank</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steffen</surname>
+                     <given-names>Will</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berkhout</surname>
+                     <given-names>Frans</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cudennec Christophe</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lemos</surname>
+                     <given-names>Maria Carmen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wolfe</surname>
+                     <given-names>Alexander</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Palma-Oliveira, Jose</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chen</surname>
+                     <given-names>Chen-Tung Arthur</given-names>
+                  </name>
+               </person-group>
+               <article-title>Re-conceptualizing the Anthropocene: A Call for Collaboration</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1126/science.1059386</pub-id>
+               <year>2001</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>292</volume>
+               <issue>5517</issue>
+               <fpage>641</fpage>
+               <lpage>642</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>R. W. Kates</surname>
+                  </name>
+               </person-group>
+               <article-title>ENVIRONMENT AND DEVELOPMENT: Sustainability Science</article-title>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.envsci.2012.11.008</pub-id>
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>28</volume>
+               <fpage>60</fpage>
+               <lpage>70</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Cornell</surname>
+                     <given-names>Sarah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berkhout</surname>
+                     <given-names>Frans</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tuinstra</surname>
+                     <given-names>Willemijn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tàbara, J. David</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jäger</surname>
+                     <given-names>Jill</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chabay</surname>
+                     <given-names>Ilan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Wit, Bert</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Langlais</surname>
+                     <given-names>Richard</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mills</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moll</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Otto</surname>
+                     <given-names>Ilona M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Petersen</surname>
+                     <given-names>Arthur</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Kerkhoff, Lorrae</surname>
+                  </name>
+               </person-group>
+               <article-title>Opening up Knowledge Systems for Better Responses to Global Environmental Change</article-title>
+               <source>Environmental Science &amp; Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1080/13504509.2011.572303</pub-id>
+               <year>2011</year>
+               <publisher-name>Informa UK Limited</publisher-name>
+               <volume>18</volume>
+               <issue>3</issue>
+               <fpage>243</fpage>
+               <lpage>252</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Naustdalslid</surname>
+                     <given-names>Jon</given-names>
+                  </name>
+               </person-group>
+               <article-title>Climate Change \textendash the Challenge of Translating Scientific Knowledge into Action</article-title>
+               <source>International Journal of Sustainable Development &amp; World Ecology</source>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/nclimate2320</pub-id>
+               <year>2014</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>4</volume>
+               <issue>8</issue>
+               <fpage>653</fpage>
+               <lpage>655</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hackmann</surname>
+                     <given-names>Heide</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moser</surname>
+                     <given-names>Susanne C.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lera St. Clair, Asuncion</surname>
+                  </name>
+               </person-group>
+               <article-title>The Social Heart of Global Environmental Change</article-title>
+               <source>Nature Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s13280-012-0363-5</pub-id>
+               <year>2013</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>42</volume>
+               <issue>1</issue>
+               <fpage>5</fpage>
+               <lpage>12</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Seidl</surname>
+                     <given-names>Roman</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Simon Brand, Fridolin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stauffacher</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Krütli</surname>
+                     <given-names>Pius</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bao Le, Quang</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spörri</surname>
+                     <given-names>Andy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meylan</surname>
+                     <given-names>Gr\'egoire</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moser</surname>
+                     <given-names>Corinne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Berger González, Monica</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Werner Scholz, Roland</surname>
+                  </name>
+               </person-group>
+               <article-title>Science with Society in the Anthropocene</article-title>
+               <source>AMBIO</source>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s13280-016-0800-y</pub-id>
+               <year>2016</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>46</volume>
+               <issue>1</issue>
+               <fpage>30</fpage>
+               <lpage>39</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abson</surname>
+                     <given-names>David J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fischer</surname>
+                     <given-names>Joern</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leventon</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Newig</surname>
+                     <given-names>Jens</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schomerus</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vilsmaier</surname>
+                     <given-names>Ulli</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>von Wehrden, Henrik</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Abernethy</surname>
+                     <given-names>Paivi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ives</surname>
+                     <given-names>Christopher D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jager</surname>
+                     <given-names>Nicolas W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lang</surname>
+                     <given-names>Daniel J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Leverage Points for Sustainability Transformation</article-title>
+               <source>Ambio</source>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11625-011-0149-x</pub-id>
+               <year>2012</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>7</volume>
+               <issue>S1</issue>
+               <fpage>25</fpage>
+               <lpage>43</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lang</surname>
+                     <given-names>Daniel J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bergmann</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stauffacher</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martens</surname>
+                     <given-names>Pim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moll</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Swilling</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thomas</surname>
+                     <given-names>Christopher J.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinary Research in Sustainability Science: Practice, Principles, and Challenges</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.erss.2017.11.026</pub-id>
+               <year>2018</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>40</volume>
+               <fpage>54</fpage>
+               <lpage>70</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Fazey</surname>
+                     <given-names>Ioan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schäpke</surname>
+                     <given-names>Niko</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Caniglia</surname>
+                     <given-names>Guido</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Patterson</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hultman</surname>
+                     <given-names>Johan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Mierlo, Barbara</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Säwe</surname>
+                     <given-names>Filippa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wittmayer</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aldunce</surname>
+                     <given-names>Paulina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Al Waer, Husam</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Battacharya</surname>
+                     <given-names>Nandini</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bradbury</surname>
+                     <given-names>Hilary</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carmen</surname>
+                     <given-names>Esther</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Colvin</surname>
+                     <given-names>John</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cvitanovic</surname>
+                     <given-names>Christopher</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>D'Souza, Marcella</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gopel</surname>
+                     <given-names>Maja</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goldstein</surname>
+                     <given-names>Bruce</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hämäläinen</surname>
+                     <given-names>Timo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Harper</surname>
+                     <given-names>Gavin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Henfry</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hodgson</surname>
+                     <given-names>Anthony</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>S. Howden, Mark</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kerr</surname>
+                     <given-names>Andy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Klaes</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lyon</surname>
+                     <given-names>Christopher</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Midgley</surname>
+                     <given-names>Gerald</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moser</surname>
+                     <given-names>Susanne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mukherjee</surname>
+                     <given-names>Nandan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Müller</surname>
+                     <given-names>Karl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Brien, Karen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Connell, Deborah A.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olsson</surname>
+                     <given-names>Per</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Page</surname>
+                     <given-names>Glenn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reed</surname>
+                     <given-names>Mark S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Searle</surname>
+                     <given-names>Beverley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Silvestri</surname>
+                     <given-names>Giorgia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Spaiser</surname>
+                     <given-names>Viktoria</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Strasser</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tschakert</surname>
+                     <given-names>Petra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Uribe-Calvo, Natalia</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Waddell</surname>
+                     <given-names>Steve</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rao-Williams, Jennifer</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wise</surname>
+                     <given-names>Russell</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wolstenholme</surname>
+                     <given-names>Ruth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Woods</surname>
+                     <given-names>Mel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wyborn</surname>
+                     <given-names>Carina</given-names>
+                  </name>
+               </person-group>
+               <article-title>Ten Essentials for Action-oriented and Second Order Energy Transitions, transformations and climate change research</article-title>
+               <source>Energy Research &amp; Social Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.gloenvcha.2005.12.002</pub-id>
+               <year>2006</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>16</volume>
+               <issue>2</issue>
+               <fpage>170</fpage>
+               <lpage>181</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Welp</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de la Vega-Leinert, Anne</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stoll-Kleemann, Susanne</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jaeger</surname>
+                     <given-names>Carlo C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Science-based Stakeholder Dialogues: Theories and Tools</article-title>
+               <source>Global Environmental Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/risa.12638</pub-id>
+               <year>2017</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>37</volume>
+               <issue>3</issue>
+               <fpage>487</fpage>
+               <lpage>501</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gregory</surname>
+                     <given-names>Robin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keeney</surname>
+                     <given-names>Ralph L.</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Practical Approach to Address Uncertainty in Stakeholder Deliberations</article-title>
+               <source>Risk Analysis</source>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.crm.2015.04.004</pub-id>
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>9</volume>
+               <fpage>41</fpage>
+               <lpage>49</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Briley</surname>
+                     <given-names>Laura</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brown</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kalafatis</surname>
+                     <given-names>Scott E.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Overcoming Barriers During the Co-production of Climate Information for Decision-making</article-title>
+               <source>Climate Risk Management</source>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.evalprogplan.2007.08.002</pub-id>
+               <year>2007</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>30</volume>
+               <issue>4</issue>
+               <fpage>325</fpage>
+               <lpage>338</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Walter</surname>
+                     <given-names>Alexander I.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Helgenberger</surname>
+                     <given-names>Sebastian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Scholz</surname>
+                     <given-names>Roland W.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Measuring Societal Effects of Transdisciplinary Research Projects: Design and Application of an Evaluation Method</article-title>
+               <source>Evaluation and Program Planning</source>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2013.07.001</pub-id>
+               <year>2013</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>5</volume>
+               <issue>3-4</issue>
+               <fpage>420</fpage>
+               <lpage>431</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mauser</surname>
+                     <given-names>Wolfram</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Klepper</surname>
+                     <given-names>Gernot</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rice</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schmalzbauer</surname>
+                     <given-names>Bettina Susanne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hackmann</surname>
+                     <given-names>Heide</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Leemans</surname>
+                     <given-names>Rik</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Howard</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinary Global Change Research: The Co-creation of Knowledge for Sustainability</article-title>
+               <source>Current Opinion in Environmental Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11625-017-0445-1</pub-id>
+               <year>2017</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>191</fpage>
+               <lpage>204</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Haider</surname>
+                     <given-names>L. Jamila</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hentati-Sundberg, Jonas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Giusti</surname>
+                     <given-names>Matteo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goodness</surname>
+                     <given-names>Julie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hamann</surname>
+                     <given-names>Maike</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Masterson</surname>
+                     <given-names>Vanessa A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meacham</surname>
+                     <given-names>Megan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Merrie</surname>
+                     <given-names>Andrew</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ospina</surname>
+                     <given-names>Daniel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schill</surname>
+                     <given-names>Caroline</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sinare</surname>
+                     <given-names>Hanna</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Undisciplinary Journey: Early-career Perspectives in Sustainability Science</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.14512/gaia.27.4.10</pub-id>
+               <year>2018</year>
+               <publisher-name>Oekom Publishers GmbH</publisher-name>
+               <volume>27</volume>
+               <issue>4</issue>
+               <fpage>379</fpage>
+               <lpage>386</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jaeger-Erben, Melanie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kramm</surname>
+                     <given-names>Johanna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sonnberger</surname>
+                     <given-names>Marco</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Völker</surname>
+                     <given-names>Carolin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Albert</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Graf</surname>
+                     <given-names>Antonia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hermans</surname>
+                     <given-names>Kathleen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lange</surname>
+                     <given-names>Steffen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Santarius</surname>
+                     <given-names>Tilman</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schröter</surname>
+                     <given-names>Barbara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sievers-Glotzbach, Stefanie</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Winzer</surname>
+                     <given-names>Janis</given-names>
+                  </name>
+               </person-group>
+               <article-title>Building Capacities for Transdisciplinary Research: Challenges and Recommendations for Early-Career Researchers</article-title>
+               <source>GAIA - Ecological Perspectives for Science and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/538444a</pub-id>
+               <year>2016</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>538</volume>
+               <issue>7626</issue>
+               <fpage>444</fpage>
+               <lpage>444</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Maher</surname>
+                     <given-names>Brendan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sureda Anfres, Miquel</surname>
+                  </name>
+               </person-group>
+               <article-title>Young Scientists Under Pressure: What the Data Show</article-title>
+               <source>Nature</source>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1126/science.aab1495</pub-id>
+               <year>2015</year>
+               <publisher-name>American Association for the Advancement of Science (AAAS)</publisher-name>
+               <volume>350</volume>
+               <issue>6262</issue>
+               <fpage>743</fpage>
+               <lpage>744</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Klenk</surname>
+                     <given-names>Nicole L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Meehan</surname>
+                     <given-names>Katie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lee Pinel, Sandra</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mendez</surname>
+                     <given-names>Fabian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Torres Lima, Pablo</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kammen</surname>
+                     <given-names>Daniel M.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Stakeholders in Climate Science: Beyond Lip Service?</article-title>
+               <source>Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Killion</surname>
+                     <given-names>Alexander</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sterle</surname>
+                     <given-names>Kelley</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bondank</surname>
+                     <given-names>Emily</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Drabik</surname>
+                     <given-names>Jillian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bera</surname>
+                     <given-names>Abhinandan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alian</surname>
+                     <given-names>Sara</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Goodrich</surname>
+                     <given-names>Kristen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hale</surname>
+                     <given-names>Marcia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Myer</surname>
+                     <given-names>Rachel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Phung</surname>
+                     <given-names>Quang</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shew</surname>
+                     <given-names>Aaron</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thayer</surname>
+                     <given-names>Anastasia</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Preparing the Next Generation of Sustainability Scientists</article-title>
+               <volume>23</volume>
+               <source>Ecology and Society</source>
+               <pub-id pub-id-type="doi">10.5751/ES-10395-230439</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.14512/gaia.16.1.8</pub-id>
+               <year>2007</year>
+               <publisher-name>Oekom Publishers GmbH</publisher-name>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>22</fpage>
+               <lpage>26</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kueffer</surname>
+                     <given-names>Christoph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hirsch Hadorn, Gertrude</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bammer</surname>
+                     <given-names>Gabriele</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Kerkhoff, Lorrae</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Towards a Publication Culture in Transdisciplinary Research</article-title>
+               <source>GAIA - Ecological Perspectives for Science and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1002/wcc.530</pub-id>
+               <year>2018</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>9</volume>
+               <issue>5</issue>
+               <fpage>530</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hein</surname>
+                     <given-names>Christopher J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ten Hoeve, John E.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gopalakrishnan</surname>
+                     <given-names>Sathya</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Livneh</surname>
+                     <given-names>Ben</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Adams</surname>
+                     <given-names>Henry D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Marino</surname>
+                     <given-names>Elizabeth K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Weiler, Susan</surname>
+                  </name>
+               </person-group>
+               <article-title>Overcoming Early Career Barriers to Interdisciplinary Climate Change Research</article-title>
+               <source>Wiley Interdisciplinary Reviews: Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1049731517708033</pub-id>
+               <year>2017</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>28</volume>
+               <issue>3</issue>
+               <fpage>254</fpage>
+               <lpage>264</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Megan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martinson</surname>
+                     <given-names>Melissa L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nurius</surname>
+                     <given-names>Paula S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kemp</surname>
+                     <given-names>Susan P.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinarity in Research: Perspectives of Early Career Faculty</article-title>
+               <source>Research on Social Work Practice</source>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5304/jafscd.2013.034.031</pub-id>
+               <year>2013</year>
+               <publisher-name>Lyson Center for Civic Agriculture and Food Systems</publisher-name>
+               <fpage>249</fpage>
+               <lpage>260</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rivera-Ferre, Marta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pereira</surname>
+                     <given-names>Laura</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Karpouzoglou</surname>
+                     <given-names>Timothy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nicholas</surname>
+                     <given-names>Kimberly</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Onzere</surname>
+                     <given-names>Sheila</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Waterlander</surname>
+                     <given-names>Wilma</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mahomoodally</surname>
+                     <given-names>Fawzi</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vrieling</surname>
+                     <given-names>Anton</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Babalola</surname>
+                     <given-names>Fola</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ummenhofer</surname>
+                     <given-names>Caroline</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dogra</surname>
+                     <given-names>Atul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Conti, Aline</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baldermann</surname>
+                     <given-names>Susanne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Evoh</surname>
+                     <given-names>Chijioke</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bollmohr</surname>
+                     <given-names>Silke</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Vision for Transdisciplinarity in Future Earth: Perspectives from Young Researchers</article-title>
+               <source>Journal of Agriculture, Food Systems, and Community Development</source>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Re-shaping Sustainability Science for the 21$^st$ Century: Young Scientists' Perspectives</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schinko</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Borgomeo</surname>
+                     <given-names>E</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dufva</surname>
+                     <given-names>M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Figge</surname>
+                     <given-names>L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schipfer</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <publisher-name>International Institute for Applied Systems Analysis</publisher-name>
+               <publisher-loc>Laxenburg, Austria</publisher-loc>
+               <ext-link ext-link-type="uri"
+                         xlink:href="http://pure.iiasa.ac.at/id/eprint/14375/"
+                         xlink:type="simple">http://pure.iiasa.ac.at/id/eprint/14375/</ext-link>
+               <comment>Working Paper WP-17-001</comment>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.3354/cr031121</pub-id>
+               <year>2006</year>
+               <publisher-name>Inter-Research Science Center</publisher-name>
+               <volume>31</volume>
+               <fpage>121</fpage>
+               <lpage>133</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hanson</surname>
+                     <given-names>CE</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Palutikof</surname>
+                     <given-names>JP</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dlugolecki</surname>
+                     <given-names>A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Giannakopoulos</surname>
+                     <given-names>C</given-names>
+                  </name>
+               </person-group>
+               <article-title>Bridging the Gap Between Science and the Stakeholder: The Case of Climate Change Research</article-title>
+               <source>Climate Research</source>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1108/14676370510623829</pub-id>
+               <year>2005</year>
+               <publisher-name>Emerald</publisher-name>
+               <volume>6</volume>
+               <issue>4</issue>
+               <fpage>326</fpage>
+               <lpage>339</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Moore</surname>
+                     <given-names>Janet</given-names>
+                  </name>
+               </person-group>
+               <article-title>Seven Recommendations for Creating Sustainability Education at the University Level</article-title>
+               <source>International Journal of Sustainability in Higher Education</source>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Science Plan - On the Strategic Development of Climate Research in Austria</article-title>
+               <year>2018</year>
+               <fpage>1</fpage>
+               <lpage>44</lpage>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ccca.ac.at/fileadmin/00_DokumenteHauptmenue/03\_Aktivitaeten/Science\_Plan/CCCA\_Science\_Plan\_Englisch\_2018111.pdf"
+                         xlink:type="simple">https://ccca.ac.at/fileadmin/00_DokumenteHauptmenue/03\_Aktivitaeten/Science\_Plan/CCCA\_Science\_Plan\_Englisch\_2018111.pdf</ext-link>
+               <publisher-name>Climate Change Centre Austria</publisher-name>
+               <publisher-loc>Wien, Austria</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2015.05.002</pub-id>
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>14</volume>
+               <fpage>127</fpage>
+               <lpage>135</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Preston</surname>
+                     <given-names>Benjamin L</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rickards</surname>
+                     <given-names>Lauren</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fünfgeld</surname>
+                     <given-names>Hartmut</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keenan</surname>
+                     <given-names>Rodney J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Toward Reflexive Climate Adaptation Research</article-title>
+               <source>Current Opinion in Environmental Sustainability</source>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="book" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.4324/9780080518428</pub-id>
+               <year>2012</year>
+               <publisher-name>Routledge</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Clutterbuck</surname>
+                     <given-names>David</given-names>
+                  </name>
+               </person-group>
+               <article-title>Talking Business: Making Communication Work</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1177/1077800405284363</pub-id>
+               <year>2006</year>
+               <publisher-name>SAGE Publications</publisher-name>
+               <volume>12</volume>
+               <issue>2</issue>
+               <fpage>219</fpage>
+               <lpage>245</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Flyvbjerg</surname>
+                     <given-names>Bent</given-names>
+                  </name>
+               </person-group>
+               <article-title>Five Misunderstandings About Case-Study Research</article-title>
+               <source>Qualitative Inquiry</source>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.npls.2016.01.001</pub-id>
+               <year>2016</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>2</volume>
+               <fpage>8</fpage>
+               <lpage>14</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bengtsson</surname>
+                     <given-names>Mariette </given-names>
+                  </name>
+               </person-group>
+               <article-title>How to Plan and Perform a Qualitative Study Using Content Analysis</article-title>
+               <source>NursingPlus Open</source>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Policy Brief on Stakeholder Engagement Published. ERA-LEARN</article-title>
+               <year>2020</year>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.era-learn.eu/news-events/news/policy-brief-on-stakeholder-engagement-published</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11625-017-0507-4</pub-id>
+               <year>2017</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>129</fpage>
+               <lpage>142</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schneider</surname>
+                     <given-names>Flurina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buser</surname>
+                     <given-names>Tobias</given-names>
+                  </name>
+               </person-group>
+               <article-title>Promising Degrees of Stakeholder Interaction in Research for Sustainable Development</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Herweg</surname>
+                     <given-names>Karl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schäfer</surname>
+                     <given-names>Natalie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zimmermann</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Guidelines for Integrative Training in Inter- and Transdisciplinary Research Settings. Hints and Tools for Trainers of Trainers</article-title>
+               <isbn>978-3-905835-32-8</isbn>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/463876a</pub-id>
+               <year>2010</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>463</volume>
+               <issue>7283</issue>
+               <fpage>876</fpage>
+               <lpage>876</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Vasbinder</surname>
+                     <given-names>Jan W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Andersson</surname>
+                     <given-names>Bertil</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>W., Brian Arthur</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boasson</surname>
+                     <given-names>Maarten</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Boer, Rob</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Changeux</surname>
+                     <given-names>Jean Pierre</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Domingo</surname>
+                     <given-names>Esteban</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Eigen</surname>
+                     <given-names>Manfred</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fersht</surname>
+                     <given-names>Alan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frenkel</surname>
+                     <given-names>Daan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rees</surname>
+                     <given-names>Martin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Groen</surname>
+                     <given-names>Theo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huber</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hunt</surname>
+                     <given-names>Tim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Holland</surname>
+                     <given-names>John</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>May</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Norrby</surname>
+                     <given-names>Erling</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nijkamp</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lehn</surname>
+                     <given-names>Jean Marie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rabbinge</surname>
+                     <given-names>Rudy</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Scheffer</surname>
+                     <given-names>Marten</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schuster</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Serageldin</surname>
+                     <given-names>Ismail</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stuip</surname>
+                     <given-names>Jan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Vries, Jan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Vierssen, Wim</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Willems</surname>
+                     <given-names>Rein</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinary EU Science Institute Needs Funds Urgently</article-title>
+               <source>Nature</source>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1111/rec.12541</pub-id>
+               <year>2017</year>
+               <publisher-name>Wiley</publisher-name>
+               <volume>26</volume>
+               <fpage>7</fpage>
+               <fpage>17</fpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reed</surname>
+                     <given-names>Mark S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vella</surname>
+                     <given-names>Steven</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Challies</surname>
+                     <given-names>Edward</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Vente, Joris</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Frewer</surname>
+                     <given-names>Lynne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hohenwallner-Ries, Daniela</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Huber</surname>
+                     <given-names>Tobias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Neumann</surname>
+                     <given-names>Rosmarie K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Oughton</surname>
+                     <given-names>Elizabeth A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sidoli del Ceno, Julian</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Delden, Hedwig</surname>
+                  </name>
+               </person-group>
+               <article-title>A Theory of Participation: What Makes Stakeholder and Public Engagement in Environmental Management Work?</article-title>
+               <source>Restoration Ecology</source>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.14512/gaia.25.4.7</pub-id>
+               <year>2016</year>
+               <publisher-name>Oekom Publishers GmbH</publisher-name>
+               <volume>25</volume>
+               <issue>4</issue>
+               <fpage>253</fpage>
+               <lpage>259</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bernert</surname>
+                     <given-names>Philip</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Haaser</surname>
+                     <given-names>Angelika</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kühl</surname>
+                     <given-names>Lena</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schaal</surname>
+                     <given-names>Tamara</given-names>
+                  </name>
+               </person-group>
+               <article-title>Towards a Real-world Laboratory: A Transdisciplinary Case Study from Lüneburg</article-title>
+               <source>GAIA - Ecological Perspectives for Science and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <year>2015</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bammer</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Toolkits for Transdisciplinarity</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.oekom.de/\_uploads\_media/files/gaia\_flyer\_toolkits\_032911.pdf</uri>.
+        </comment>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.5751/es-08955-220127</pub-id>
+               <year>2017</year>
+               <publisher-name>Resilience Alliance, Inc.</publisher-name>
+               <volume>22</volume>
+               <issue>1</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hoffmann</surname>
+                     <given-names>Sabine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pohl</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hering</surname>
+                     <given-names>Janet G.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Methods and Procedures of Transdisciplinary Knowledge Integration: Empirical Insights from four Thematic Synthesis Processes</article-title>
+               <source>Ecology and Society</source>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1038/nclimate1844</pub-id>
+               <year>2013</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>3</volume>
+               <issue>8</issue>
+               <fpage>713</fpage>
+               <lpage>716</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McCright</surname>
+                     <given-names>Aaron M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Brian O'Shea, W.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sweeder</surname>
+                     <given-names>Ryan D.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Urquhart</surname>
+                     <given-names>Gerald R.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zeleke</surname>
+                     <given-names>Aklilu</given-names>
+                  </name>
+               </person-group>
+               <article-title>Promoting Interdisciplinarity through Climate Change Education</article-title>
+               <source>Nature Climate Change</source>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.ecolecon.2012.04.017</pub-id>
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>79</volume>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jahn</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bergmann</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Keil</surname>
+                     <given-names>Florian</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinarity: Between Mainstreaming and Marginalization</article-title>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2012.06.026</pub-id>
+               <year>2012</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>111</volume>
+               <fpage>213</fpage>
+               <lpage>219</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Luyet</surname>
+                     <given-names>Vincent</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schlaepfer</surname>
+                     <given-names>Rodolphe</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Parlange</surname>
+                     <given-names>Marc B.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buttler</surname>
+                     <given-names>Alexandre</given-names>
+                  </name>
+               </person-group>
+               <article-title>A Framework to Implement Stakeholder Participation in Environmental Projects</article-title>
+               <source>Journal of Environmental Management</source>
+            </element-citation>
+         </ref>
+         <ref id="R55">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1016/j.futures.2014.11.001</pub-id>
+               <year>2015</year>
+               <publisher-name>Elsevier BV</publisher-name>
+               <volume>65</volume>
+               <fpage>110</fpage>
+               <lpage>122</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Polk</surname>
+                     <given-names>Merritt</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinary co-production: Designing and Testing a Transdisciplinary Research Framework for Societal Problem Solving</article-title>
+               <source>Futures</source>
+            </element-citation>
+         </ref>
+         <ref id="R56">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wittmayer</surname>
+                     <given-names>Julia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hölscher</surname>
+                     <given-names>Katharina</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <pub-id pub-id-type="doi">10.1111/rec.12541</pub-id>
+               <article-title>Transformationsforschung: Definitionen Ansätze Methoden</article-title>
+               <publisher-name>Dessau-Roßlau</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R57">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s11625-014-0258-4</pub-id>
+               <year>2014</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>9</volume>
+               <issue>4</issue>
+               <fpage>483</fpage>
+               <lpage>496</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wittmayer</surname>
+                     <given-names>Julia M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schäpke</surname>
+                     <given-names>Niko</given-names>
+                  </name>
+               </person-group>
+               <article-title>Action, Research and Participation: Roles of Researchers in Sustainability Transitions</article-title>
+               <source>Sustainability Science</source>
+            </element-citation>
+         </ref>
+         <ref id="R58">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1007/s10734-012-9560-1</pub-id>
+               <year>2012</year>
+               <publisher-name>Springer Science and Business Media LLC</publisher-name>
+               <volume>65</volume>
+               <issue>4</issue>
+               <fpage>511</fpage>
+               <lpage>524</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Felt</surname>
+                     <given-names>Ulrike</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Igelsböck</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schikowitz</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Völker</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+               </person-group>
+               <article-title>Growing into What? The (un-)disciplined Socialisation of Early Stage Researchers in Transdisciplinary Research</article-title>
+               <source>Higher Education</source>
+            </element-citation>
+         </ref>
+         <ref id="R59">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.bosch-stiftung.de/de/projekt/postdoc-academy-transformational-leadership"
+                         xlink:type="simple">https://www.bosch-stiftung.de/de/projekt/postdoc-academy-transformational-leadership</ext-link>
+               <year>2020</year>
+               <publisher-name>Robert Bosch Stiftung</publisher-name>
+               <publisher-loc>Stuttgart, Germany</publisher-loc>
+               <article-title>Postdoc Academy for Transformational Leadership</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R60">
+            <element-citation publication-type="report" xlink:type="simple">
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://td-academy.de"
+                         xlink:type="simple">https://td-academy.de</ext-link>
+               <year>2020</year>
+               <article-title>tdAcademy—Plattform für transdisziplinäre Forschung und Studien</article-title>
+               <publisher-loc>Frankfurt am Main, Germany</publisher-loc>
+               <publisher-name>Institut für sozial-ökologische Forschung (ISOE) gGmbH</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R61">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <comment>Available from:
+            <uri xlink:type="simple">https://www.leuphana.de/zentren/methodenzentrum/td-training.html</uri>.
+        </comment>
+               <year>2020</year>
+               <institution>Leuphana Universität Lüneburg</institution>
+               <publisher-loc>Lüneburg, Germany</publisher-loc>
+               <article-title>TD Summer School</article-title>
+            </element-citation>
+         </ref>
+         <ref id="R62">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <pub-id pub-id-type="doi">10.1108/qmr-06-2016-0053</pub-id>
+               <year>2016</year>
+               <publisher-name>Emerald</publisher-name>
+               <volume>19</volume>
+               <issue>4</issue>
+               <fpage>426</fpage>
+               <lpage>432</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Roland Boddy, Clive</surname>
+                  </name>
+               </person-group>
+               <article-title>Sample Size for Qualitative Research</article-title>
+               <source>Qualitative Market Research: An International Journal</source>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

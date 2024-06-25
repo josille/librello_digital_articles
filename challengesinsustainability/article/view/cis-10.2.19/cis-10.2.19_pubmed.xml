@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2022.10020019</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Opinions</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>An Approach to Justifying Normative Arguments in Sustainability Science, with Insights from the Philosophy of Science and Social Theory</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>O'Byrne</surname>
+                  <given-names>David</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A2">
+            <label>1</label>Centre for Sustainability Studies, Lund University, Lund, Sweden</aff>
+         <pub-date pub-type="ppub">
+            <day>31</day>
+            <month>08</month>
+            <year>2022</year>
+         </pub-date>
+         <volume>10</volume>
+         <issue>2</issue>
+         <fpage>19</fpage>
+         <lpage>28</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>In this paper, I put forward an argument that sustainability science can make objectively grounded normative claims about what courses of action society should pursue in order to achieve sustainability. From a survey of the philosophy of science, social theory and sustainability science literature, I put forward an approach to justifying these normative arguments. This approach builds on the insight that social theories are value-laden and that dominant and pervasive social practices find their justification in some social theory. The approach: (i) focuses on the analysis of concrete cases; (ii) paying attention to the social practices that produce environmental problems and the theories that support those practices; (iii) examines alternative theories, and (iv) justifies a normative position by identifying the most comprehensive theoretical understanding of the particular case. Although the approach focuses on the analysis of particular cases it does not rely on value relativism. Furthermore, while the focus is on the role of science in producing normative arguments about society’s trajectory, it maintains space for the inclusion of the values of the public in environmental decision-making. However, while this approach aims to provide a rational basis to normative positions, it does not presume that this will lead to social consensus on these issues.  </p>
+         </abstract>
+         <kwd-group>
+            <kwd>Decision-Making</kwd>
+            <kwd>Environmental Research</kwd>
+            <kwd>Fact/Value Dichotomy</kwd>
+            <kwd>Normativity</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Sustainability science is an interdisciplinary field of study, which focuses on environmental problems and their social context, with the ambition to be use-inspired [<xref ref-type="bibr" rid="R1">1</xref>]. Normativity is therefore considered an important feature of sustainability science [<xref ref-type="bibr" rid="R2">2</xref>], meaning that it must deal with the evaluation of states of affairs (i.e. which are more and less sustainable) rather than just their description. Sustainability science deals with the interaction of society and nature [<xref ref-type="bibr" rid="R1">1</xref>, <xref ref-type="bibr" rid="R3">3</xref>], this raises the question of how sustainability science should handle social values, and what these values should be. Though the field itself has been around for more than 20 years, this continues to be a subject of discussion [<xref ref-type="bibr" rid="R3">3</xref>]. In a recent intervention, for example, Nagatsu et al. [<xref ref-type="bibr" rid="R4">4</xref>] have argued that it is crucial for the success of sustainability science to justify how values may legitimately enter into science. The central aim of this paper is to put forward one approach to providing such justification.</p>
+         <p>Although there has been much recent discussion of the role of social values and normativity within sustainability science [<xref ref-type="bibr" rid="R5">5</xref>, <xref ref-type="bibr" rid="R6">6</xref>, <xref ref-type="bibr" rid="R7">7</xref>], much of this discussion has tended to be disconnected from fields that have a long tradition of discussing the role of social values in science [<xref ref-type="bibr" rid="R6">6</xref>]. Though normativity has always been central to sustainability science, it has thus far failed to draw on the full wealth of approaches from social sciences and the humanities that deal explicitly with it [<xref ref-type="bibr" rid="R8">8</xref>]. Ignoring the discussion of these issues in other fields risks recreating old mistakes and doing poor scientific work [<xref ref-type="bibr" rid="R7">7</xref>]. I engage with arguments from philosophy, in both the analytic and continental traditions, and social theory to develop the approach in this article. I also position the approach in relation to sustainability science literature by referring to some recent and key literature.</p>
+         <p>I construct the approach in this paper by engaging with three related debates, which give this paper its structure. Along the way, I compare and contrast this approach with various approaches in sustainability science, and close with a summary of what I see as its advantages over others. The approach I propose in this paper holds that sustainability science can make objectively grounded normative claims about what courses of action society should pursue. However, it does not claim this as the exclusive remit of science; rather it allows space for the inclusion of the values of the public in decision-making. At the same time, it does this without reducing the problem to one of ‘participation’ or ‘stakeholder dialogue’. Nor does the approach seek to provide a universal list of values or general ethical frameworks, but justifies support for particular courses of action by analysing the application of theory in particular cases, and though it is sensitive to context, it avoids value relativism. With that said, it should be noted from the outset that the claim to provide objective support to normative positions is not a claim that social consensus on these issues will follow. In society, normative positions will inevitably be coloured by interests, ideologies, and so on, which even the highest levels of scientific consensus can never overcome. A case in point being the scientific consensus around anthropogenic climate change. What this argument can provide is (social) scientific justification for the pursuit of particular courses of action, which plays an important but limited part in the struggle between interests and ideologies.</p>
+         <p>I will use the term objectivity in this paper a number of times. This is a very controversial term in the philosophy of science [<xref ref-type="bibr" rid="R9">9</xref>]. Given the social necessity for science to be trustworthy, it is fitting that science should question the primary notion of what makes it trustworthy, namely objectivity. Yet, for the same reason, it is surprising that objectivity is so often and so easily written-off. For reasons that will become more obvious, I do not subscribe to notions of objectivity that equate it with being value-free. I use a capacious understanding of objectivity as non-subjectivity, meaning that objective knowledge is communicable between subjects. I follow the spirit of Popper’s statement that ‘‘the objectivity of scientific statements lies in the fact that they can be inter-subjectively tested’’ ([<xref ref-type="bibr" rid="R10">10</xref>], p. 22). I also acknowledge the importance of the social dimension of science in dealing with the fact that it is value-laden, to which Longino brings focus [<xref ref-type="bibr" rid="R11">11</xref>], but ultimately argue that competing theoretical explanations can be objectively compared, following Lakatos [<xref ref-type="bibr" rid="R12">12</xref>]. In relation to social values in sustainability, this definition implies that rational normative arguments can be constructed and subjected to intersubjective critique. Successful critique will show that one normative claim is objectively superior to another.</p>
+         <sec id="s1.1">
+            <title>1.1.- Overview of the Paper</title>
+            <p>The first two sections of this paper, discuss the fact/value dichotomy. The first section discusses two lines of critique of the value-free ideal of science, largely within the analytic tradition of philosophy. Here the representatives of the different lines of critique are Heather Douglas [<xref ref-type="bibr" rid="R13">13</xref>] and Hilary Putnam [<xref ref-type="bibr" rid="R14">14</xref>]. Both hold that science cannot be value-free, but in different ways. Douglas focuses on the licit and illicit roles social values play in decision-making during the scientific process and the role of science in public decision-making, Putnam focuses on how scientific <italic>theories</italic> entail particular value positions. These arguments imply that we must provide justification for the values that enter into scientific practice in two ways: (i) we must justify how values enter into scientifically informed decision-making, and (ii) we must justify the values that obtain in the theories we apply in scientific research. I build the approach in this paper in response to the second point. I then treat the first point as a particular case of the second, and attempt a schematic application of the approach developed in this article to the question of values in decision-making.</p>
+            <p>The second point, the question of justifying the values embedded in social theories, entails the question of whether values can be objective. This discussion centres on whether it is possible to decide that some values, and thereby some value-laden theories, and therefore some courses of action as described by theory, are objectively better than others. After briefly discussing positions that deny any objectivity to values, I show how many classical and contemporary social theorists support it. There are two approaches to this justification, one coming from Kant and the other from Hegel, broadly speaking. In summary, whereas the Kantian approach removes discussions over the justification of values to an abstract realm of reasoning parallel to science, the Hegelian approach argues that the justification of values cannot be separated from the practice of science in concrete contexts. I present a brief argument for why I favour the Hegelian approach and I close the section by quickly outlining the general tenets of the approach that is the main contribution of this paper.</p>
+            <p>In the third section, I return to the issue of scientifically informed decision-making to present a schematic application of the approach. After outlining a common approach to integrating values in decision-making from within sustainability science, and what have been identified as problems with this approach, I give an account of how three different approaches in social theory propose solutions to this problem. Each of these theoretical approaches entail normative claims about how social values should be incorporated in decision-making, and at the same time entail normative claims about the state of affairs towards which society should move. In practice, justifying a particular course of action could draw on these theoretical approaches, but would require analysis of concrete environmental problems and associated decision-making processes. I close the section by presenting how the approach might be put into practice more broadly in sustainability science, and conclude the paper with a summary of how it compares to other approaches in the field.
+</p>
+         </sec>
+      </sec>
+      <sec id="s2">
+         <title>2.- The Value-free Ideal of Science</title>
+         <p>The value-free ideal of science proposes that science can and should be completely separated from social values [<xref ref-type="bibr" rid="R9">9</xref>]. This in itself relies on a fact/value dichotomy where facts and values are seen as separable. According to Philip Gorski there are two sources of support for the value-free ideal in contemporary debates, the sociological methodology of Max Weber and the philosophical work of the logical positivists [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. The critiques of the value-free ideal of science that follow below imply that values play a legitimate role in science. They thereby imply that the values that enter into science must be justified, and place some requirements on how they should be justified, which is the purpose of introducing them here.</p>
+         <p>Gregor Betz [<xref ref-type="bibr" rid="R17">17</xref>], a defender of the value-free ideal, argues that there are two distinct lines of attack on the value-free ideal. These he calls the semantic and the methodological critique. The semantic critique argues that the description of and the evaluation of objective states of affairs cannot be separated, and so it goes beyond attacking the value-free ideal and proposes a collapse of the clear distinction between facts and values. Weber anticipated this critique and thought, while it was difficult to separate facts from values and perhaps ultimately impossible, that this separation should be pursued to the greatest extent possible in the practice of science [<xref ref-type="bibr" rid="R18">18</xref>]. One version of the semantic critique is put forward by Hillary Putnam [<xref ref-type="bibr" rid="R14">14</xref>] who argues that the separation between evaluation and description is not possible even in a limited sense. I will return to this later. The methodological critique, which I will deal with first, Weber does not anticipate. It argues that social values play a necessary and desirable role in the scientific process, from a methodological point of view. This position is, according to Betz, most forcefully argued by Heather Douglas [<xref ref-type="bibr" rid="R13">13</xref>].</p>
+         <sec id="s2.1">
+            <title>2.1.- The Methodological Role for Values and Scientifically Informed Decision-making</title>
+            <p>Douglas distinguishes between two potential roles for social values in the practice of science, a direct and an indirect role:</p>
+            <p>
+               <italic>‘‘In the first direct role, the values act much the same way as evidence normally does, providing warrant or reasons to accept a claim. In the second, indirect role, the values do not compete with or supplant evidence, but rather determine the importance of the inductive gaps left by the evidence’’</italic> ([<xref ref-type="bibr" rid="R13">13</xref>], p. 96).</p>
+            <p>She argues that values should only play a direct role at very limited times, in particular in the selection of problems for investigation. On this point she agrees with Weber. But whereas for Weber values should be excluded wholesale from that point onward, and science should instrumentally pursue the solution of the problem, Douglas argues that values can also play an indirect, methodological role. She elaborates the indirect role through discussion of the concept of inductive risk. Inductive risk is the risk entailed when choosing to accept or reject a hypothesis based on findings with a certain level of uncertainty. Douglas proposes that certain hypotheses entail greater social risks and that this should be considered when deciding to reject or accept a hypothesis under conditions of uncertainty. For example, if mistakenly accepting a hypothesis might cause death, then perhaps the standard for acceptable uncertainty should be higher than if the social risks are lower, for example, if there is a risk that a food product will not be as sweet as desired. These social risks are determined by what is valued socially, e.g. human life is more valuable to us than sweetness. In this sense, Douglas argues that social values should enter into the practice of science in a methodological role. Betz [<xref ref-type="bibr" rid="R17">17</xref>], responding to Douglas, defends the value-free ideal, essentially with a return to Weber, by asserting that uncertainties can be clearly communicated to the relevant decision-makers, there is no need for scientists to establish levels of acceptable uncertainty, this is the duty of politicians in a democratically organized society.</p>
+            <p>But these positions, though they might stand on opposite sides the philosophical debate over inductive risk, agree on a particular point that is instructive for the purposes of this paper. For both authors, certain social values have a role in determining the use of science, without affecting its objectivity. Douglas sees this as within the scientific process and Betz sees it as outside it, but for both, these values come from society, either at large or through formal political institutions. Both Douglas and Betz accept social values as decisive in determining the use of science, but the question of why we should accept these values (either as scientists or politicians) is, for both, separate from the practice of science. Nevertheless, by placing their hope in vague democratic processes, these arguments allude to the idea that values that enter into scientifically informed decision-making must be justified. In section , I will show how the approach I develop in the rest of the paper would approach this particular problem.</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- Scientific Theories and Knowledge as Value-laden</title>
+            <p>[10]There is another line of argument against the value-free ideal, which highlights another role that values play in science and seems to be largely neglected by discussions over inductive risk. This is the second criticism of the value-free ideal: the so-called semantic critique. One version of this has been argued by Hillary Putnam [<xref ref-type="bibr" rid="R14">14</xref>]. Putnam builds his argument from engagement with the logical positivists, who argue that normative and descriptive statements are of completely different kinds. Putnam builds on the work of Quine and Duhem [<xref ref-type="bibr" rid="R19">19</xref>] who examined the role of background assumptions in the formulation of scientific hypotheses, showing that what becomes accepted as knowledge can enter into science through experience and convention rather than the strict procedures of science. Putnam argues that it is not only convention and experience that are presupposed in science but values too. He focuses both on epistemic and ethical values. To make this argument Putnam draws our attention to what he calls ‘‘thick concepts’’, concepts which combine descriptive and evaluative elements in an inextricable way, for example, ‘cruelty’, ‘courage’, and so on. The implication is that the presence of thick concepts in scientific theories means that they cannot be expunged of values.</p>
+            <p>Putnam uses welfare economics as an example of how social theories necessarily entail value-laden concepts. Putnam discusses the attempt to establish economics on a value-free basis by the likes of Lionel Robbins [<xref ref-type="bibr" rid="R14">14</xref>], partially under the influence of the logical positivists. The supposedly value-free basis of economics relied on the argument that utility can act as an objective measure of innumerable subjective mental states. Robbins argued that the comparison of individual utilities is meaningless, which means redistribution according to marginal utility is invalid, and Pareto Optimality becomes the supposedly value neutral aim of economics. But, Putnam argues, that the assumption that interpersonal comparisons of utility are meaningless, that one person cannot be said to get more utility from $1000 than another (even if the exact proportion of the differences in utility is not quantifiable), is in itself evaluative, and actually quite absurd. Concepts like utility and Pareto optimality, which abound in economics, are in fact thick concepts. The case has also been made for the concept of rational actors, which functions similarly in economic theory [<xref ref-type="bibr" rid="R16">16</xref>]. The upshot of this argument is that economic theory is saturated in evaluative statements and is therefore inherently value-laden.</p>
+            <p>This argument can be extended to social science theories generally. To take an over-simplified example for the point of illustration: values applied in Douglas’ direct role in social science might dictate that we want to deal with a problem like poverty. Social scientists will be enlisted to find the way of solving the problem. But this will require the selection of economic theory. Different theories will suggest that to reduce poverty means different things. Do we reduce absolute or relative poverty, for example? Do we aim for growth in GDP or in other indicators like health and education? Value judgements like these are inherent to particular theories. The selection of a problem to deal with, means selecting a construction of that problem within a theory, which brings with it certain value judgements.</p>
+            <p>This is a deeper implication of values in science than Douglas conceptualizes, which raises the question of whether this incursion of values affects the objectivity of the scientific work and whether we can justify the inclusion of the values entailed in theories, or is it a matter of personal choice or political bent. According to Putnam, value-laden concepts and theories are still subject to rational critique and therefore the concept of objectivity still applies [<xref ref-type="bibr" rid="R9">9</xref>]. We can, for example, argue that it is more rational to pursue improvements in health and education rather than growth in GDP, or vice versa. Or as I will discuss later, we can argue that it is more rational to pursue transformation of agricultural systems in a particular country than pursuing incremental agricultural intensification. We will see in the next section that there are, broadly speaking, two different possible approaches to justification. Both of these positions hold that values themselves are subject to inter-subjective critique, meaning not whether they exist or not, but whether some values are right and some are wrong. In our post-religious and post-truth world, this may at first glance appear as a kind of moralism, but this position is actually commonplace in the social sciences.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- The Objectivity of Social Values</title>
+         <p>[10]Recall my argument that both Betz and Douglas rely on a similar notion of democracy to decide which values should play a role in scientifically informed decision-making. This is a position echoed by others in the philosophy of science e.g. Intemann [<xref ref-type="bibr" rid="R20">20</xref>], but it is also a prominent position in sustainability science. As has been pointed out by [<xref ref-type="bibr" rid="R21">21</xref>], one of the founding works on sustainability science takes a similar position. The preface to ‘‘Our Common Journey’’, by the National Research Council of the U.S., written by Bill Clark and Robert Kates, states that in relation to the setting of goals at which sustainability science should aim, ‘‘(o)f course, which goals should be pursued is a normative question, not a scientific one’’ [<xref ref-type="bibr" rid="R22">22</xref>]. The authors suggest that politicians should set goals, and science should set out to achieve these goals. This is a position more recently repeated by Noel Castree, who argues that, ‘‘(e)nvironmental scientists are expected to supply answers to cognitive questions not normative ones’’ and that ‘‘scientific inquiry (should be) directly framed by political goals and policy options’’ [<xref ref-type="bibr" rid="R23">23</xref>].</p>
+         <p>There are others in sustainability science who take a similar position but rather than defer to democratic institutions they refer to localised deliberative practices within the research process to establish the orienting values. Such work often draws on the work of Funtowicz and Ravetz [<xref ref-type="bibr" rid="R24">24</xref>], and Gibbons’s [<xref ref-type="bibr" rid="R25">25</xref>] notion of Mode 2 science, who argue that traditional criteria of objectivity need to be augmented with social criteria in order to determine the usefulness and use of science. Lang et al [<xref ref-type="bibr" rid="R26">26</xref>], for example, argue that common values can be achieved across political divides as part of transdisciplinary research processes to give science its normative orientation. However there is big difference between the level of social consensus alluded to by Funtowicz and Ravetz and the kind of localised dialogues proposed by Lang et al.</p>
+         <p>Nevertheless, these positions end up with a similar problem: what says that the goals set in these supposedly democratic process are correct? Do not many contemporary politicians and policies conflict with our scientific understanding of what is necessary to deal with climate change, even down to outright denial? Or in the case of the latter group: assuming (and it is a very big assumption) common values can be achieved in these dialogues, what is to say that common values as established in localised discussions are necessarily the right values? Without getting into a protracted discussion over real versus perceived interests, or ‘false consciousness’, do we not know from experience that high levels of social consensus can conflict with what science tells us about what is appropriate to address climate change? These approaches do not satisfactorily solve the problem of justifying the values that enter into science.</p>
+         <sec id="s3.1">
+            <title>3.1.- Value Relativism</title>
+            <p>There are of course, those who reject the possibility of establishing the ‘right’ values at all. The above positions follow Weber to the extent that they defer to political goals to guide science. However, Weber, like other value relativists, denies that there is any possibility of establishing these values as objectively right. Following Nietzsche’s perspectivism [<xref ref-type="bibr" rid="R27">27</xref>], Weber’s position is that values are plural in modern society and cannot be reconciled or unified, they are ‘warring gods’ [<xref ref-type="bibr" rid="R18">18</xref>]. This position is popular in both modern liberal thought, as exemplified in the politics of Weber himself, but also in post-modern theory following the likes of Foucault and Derrida. A recent review of the values question in sustainability science seems to end up in a similar position, though without tracing the lineage of these ideas [<xref ref-type="bibr" rid="R6">6</xref>]. The authors of this review argue that there are numerous different ways for researchers to approach values, and that the individual researcher should reflect on their own value positions and declare them explicitly, but there is no suggestion of how we might determine whether some values are more conducive to sustainability than others.</p>
+            <p>The Foucauldian response to this relativism is to side with the underdog, taking on the values of the marginalized, but with no rational justification beyond this [<xref ref-type="bibr" rid="R28">28</xref>]. This position accepts that the struggles to address social or environmental problems are power struggles between different value positions; there are no objective foundations for taking particular normative positions on sustainability. However, if this is the case, then we have to ask, in a power struggle how likely are the underdogs or the marginal to win? And why make recourse to science at all? I think it should be clear that such an absolutely relativist position is untenable for sustainability science.</p>
+         </sec>
+         <sec id="s3.2">
+            <title>3.2.- Rationally Objective Values</title>
+            <p>In the history of modern social thought value realism, the belief in the objectivity of social values, has been less problematic than it is in the post-truth environment of today [<xref ref-type="bibr" rid="R16">16</xref>]. Gorksi uses the term ethical naturalism to describe a particular kind of value realism. This position holds that there are particular conditions under which humans will flourish and falter, and that these are objective features of the world. Because humans are social animals, social conditions will partly determine whether humans will flourish or not. Because of this, social theory has a role in saying under what conditions humans will flourish and not. Gorksi points out that this is a position taken by philosophers including Aristotle and Hegel, classical social theorists like Marx and Durkheim, and contemporary social thinkers like Amartya Sen and Martha Nussbaum. In terms of contemporary social science, sociology in the tradition of Marx or Durkheim and Sen’s economics all assume that social science can produce arguments that particular courses of social action are desirable. There is no space in this article to provide a full philosophical defence of this assumption.</p>
+            <p>What would adopting this position mean for sustainability? It would mean that sustainability science can have something to say about what we ought to do, because social theories are apt to describe conditions under which humans flourish (of which sustainability is surely a part). Science can have a role in saying where we should be aiming not just how we get there. But in order to do so the values that are entailed in these theories must be justified. There are two stereotypical options for this, the first can be traced back to Kant and the second to Hegel’s critique of Kant.</p>
+            <sec id="s3.2.1">
+               <title>3.2.1.- Values and abstract ethical reason</title>
+               <p>The first position holds that values should be justified by moral reasoning, separate from the practice of science. For Kant morality ‘‘belongs to a ‘‘noumenal’’ realm conceived as wholly separate from the empirical domain in which we live, decide, and act’’ [<xref ref-type="bibr" rid="R29">29</xref>], ethical reasoning is a form of universal reasoning conducted in parallel to the consideration of particular concrete circumstances and therefore separate from the examination of ‘facts’. This approach finds a contemporary representative in the Marxian sociologist Olin Wright [<xref ref-type="bibr" rid="R30">30</xref>] who bases his critique of capitalist society in universal moral principles. From there he proposes particular courses of action to change society such that it would realize these principles. This also seems to be the position of Nagatsu et al. [<xref ref-type="bibr" rid="R4">4</xref>] when they ask that ‘‘ethical frameworks’’ be developed for sustainability science to assist in scientifically informed decision-making. Indeed any approach that founds critical scientific work of society on general ethical principles, or principles of justice [<xref ref-type="bibr" rid="R31">31</xref>], fits within this category.
+</p>
+            </sec>
+            <sec id="s3.2.2">
+               <title>3.2.2.- Values and contextual analysis</title>
+               <p>To contrast with this approach is one where the justification of normative positions is done in tandem with the examination of society. This approach comes from Hegel’s critique of Kant, where he stresses the contextual and historical nature of reason in contrast to Kant’s universal reason [<xref ref-type="bibr" rid="R29">29</xref>, <xref ref-type="bibr" rid="R32">32</xref>]. Values can only be understood and evaluated in relation to the concrete social circumstances in which they operate. Their examination is therefore inseparable from the examination of ‘facts’. Similarly, which normative positions should be taken in particular circumstances will vary depending on the facts of that situation.</p>
+               <p>Marx’s own work is a good example of this approach. Marx’s view that capitalism must be transformed is not based on universal moral criteria but rather on capitalism’s failure to deliver, or limited success in achieving, its promise of freedom and prosperity [<xref ref-type="bibr" rid="R33">33</xref>, <xref ref-type="bibr" rid="R34">34</xref>]. Only through a transition to socialism can the promise of capitalism be realised. This mode of reasoning is immanent (For more on immanent critique and normativity in sustainability science, see [<xref ref-type="bibr" rid="R21">21</xref>, <xref ref-type="bibr" rid="R35">35</xref>] and for applications in research, see [<xref ref-type="bibr" rid="R36">36</xref>, <xref ref-type="bibr" rid="R37">37</xref>]. The approach in this paper builds on this work by relating it to arguments in analytical philosophy, comparing its Hegelian foundations to the pervasive Kantian approach, and taking up the problem of values in decision-making, amongst other developments) [<xref ref-type="bibr" rid="R38">38</xref>], which means that the necessity for change in a theory, mode of thought or system of social organisation, comes from the failures of the one examined. The new theory should explain everything that the previous one did, while also overcoming the problem that caused it to fail in the first place. This is a mode of scientific reasoning favoured also by Critical Realists [<xref ref-type="bibr" rid="R39">39</xref>]. This approach assumes that prevailing and dominant social practices have some rational kernel, and therefore some theoretical support. Social systems, institutions and practices are justified by some social theory, which (as we learned from Putnam) entail values. These ideas and theories can be subjected to critique, examining whether they are consistent in themselves, whether they are applied consistently, and whether they conflict with empirical facts. If such failures are found, alternative or new improved theories can be developed and put into practice, which means setting new normative goals. The new normative orientation gets its objective justification from its improvement on the incumbent theory.</p>
+               <p>There is no space here to recount the full debate between Kantian and Hegelian positions, or to give a full philosophical argument for supporting the Hegelian over the Kantian approach. However, even if the Kantian position is a philosophically valid way of supporting a normative position in a scientific argument, I think two points are sufficient to support the Hegelian over the Kantian position for the purposes of sustainability science. The first is that it maintains focus on the particular case being examined rather than deferring to abstract ethical systems to justify the proposed course of action. The second is that it seeks to point out the problems with the incumbent regime on the terms of that regime as opposed to from an external viewpoint. This, in principle, provides a critique that will be more convincing to supporters of the incumbent regime.</p>
+            </sec>
+         </sec>
+         <sec id="s3.3">
+            <title>3.3.- Justifying Normative Positions in Sustainability Science: Value-laden Theory and Contextual Analysis</title>
+            <p>This brings us to the approach proposed in this paper. Based on the arguments that have gone before, in order to justify advocating a particular course of action in seeking to solve environmental problems, sustainability scientists, I argue, should:</p>
+            <list list-type="roman-lower">
+               <list-item>
+                  <p>Engage in critique of the concrete conditions that produce particular environmental problems,</p>
+               </list-item>
+               <list-item>
+                  <p>by paying particular attention to the application of theory (which is often implicit), both in producing these conditions and in any existing proposals to address the problem, i.e:</p>
+                  <list list-type="alpha-lower">
+                     <list-item>
+                        <p>Examine the theory that supports the current social practices that cause the environmental problem.</p>
+                     </list-item>
+                     <list-item>
+                        <p>Examine proposals that may exist to address the problem, and their theoretical basis.</p>
+                     </list-item>
+                  </list>
+</list-item>
+               <list-item>
+                  <p>If these are shown to be immanently flawed the researcher should propose a better analysis of the problem, and thereby a different course of action.</p>
+               </list-item>
+            </list>
+            <p>This approach thereby allows sustainability scientists to support particular normative positions without sacrificing objectivity.</p>
+            <p>In the following section, I give a schematic outline of what applying this approach might look like in cases of environmental decision-making. In reality, such an analysis should examine particular concrete cases of decision-making, but it is possible to outline the general methodological moves involved without reference to a particular context. This section also serves as an introduction to a number of theories that specify how the values of the public should be incorporated in decision-making, as part of broader normative arguments about the direction that society should take. Both of these aspects of these theories can be instructive for sustainability science.</p>
+         </sec>
+      </sec>
+      <sec id="s4">
+         <title>4.- Environmental Decision-making and Social Theory: A Schematic Application of the Approach</title>
+         <p>The approach described above implies that in order to develop a normative argument for how the values of the public should be included in decision-making, we should analyse current cases of decision-making and the theoretical approach entailed. Though some form of Cost-Benefit Analysis tends to be dominant in environmental decision-making [<xref ref-type="bibr" rid="R40">40</xref>, <xref ref-type="bibr" rid="R41">41</xref>, <xref ref-type="bibr" rid="R42">42</xref>], Sustainability Science has tended to be critical of the focus on monetary valuation, with many advocating for decision-making based on participation and deliberation, where the various values of the public can be integrated. Practitioners of this deliberative approach presume that in decision-making processes there are a range of different values (or norms, or political opinions etc.), but that these can be reconciled through discussion. For example, Raymond et al. [<xref ref-type="bibr" rid="R6">6</xref>] argue that improved communication and better process design can resolve the problems of power imbalances and clashing values. A similar position is taken in some of the IPBES literature [<xref ref-type="bibr" rid="R43">43</xref>]:</p>
+         <p>
+            <italic>‘‘This approach, would require activating deliberative approaches towards potential conflict resolution over values. It is associated with the need to leverage power relations through participatory negotiation among stake-holders holding incommensurable values over human–nature relations. Recognizing, making visible, and respecting the diverse values at stake and addressing power relations through which these are expressed, are all needed in order to effectively and equitably bridge different value systems, eventually allowing processes of social learning.’’</italic> ([<xref ref-type="bibr" rid="R43">43</xref>], p.  11).</p>
+         <p>However, the authors of the IPBES report see that there are weaknesses in this approach, in that it has difficulties dealing with the real dynamics of power: ‘‘(o)ne of the major gaps in social values for sustainability research relates to how to manage tensions, and the associated conflicts and unequal power relations that surface during the analysis and application of social values for sustainability’’ ([<xref ref-type="bibr" rid="R6">6</xref>], p. 1181).</p>
+         <p>Because values seem to be more deeply structured than can be resolved purely through discussion, the problem of finding common values is more difficult than what is argued in the above quoted paragraph. Here is a clear weakness in the theory being applied, which has even been identified by those who advocate this approach.</p>
+         <p>In order to apply the approach to developing objectively grounded normative arguments outlined in , let us suppose that an example of the deliberative approach to decision-making has failed because it replicated the ‘business-as-usual approach’ and failed to solve an environmental problem. Let us further suppose that analysis reveals that power dynamics within the deliberative environment were responsible for this failure. Whereas the deliberative approach has difficulty dealing with power dynamics, much social theory deals with this problem head on [<xref ref-type="bibr" rid="R44">44</xref>, <xref ref-type="bibr" rid="R45">45</xref>]. The procedure would be to survey the available theories that might improve on the understanding deployed by the deliberative approach, and apply them to the same case. There are various theories that may be useful here, three of which are reviewed in the following section. These theoretical approaches outline specific social conditions under which common values might be agreed upon and thereby guidance on how we might go about including the values of the public in decision-making processes.</p>
+         <sec id="s4.1">
+            <title>4.1.- Theories that Deal with Values in Decision-making</title>
+            <p>The first example comes from economist Amartya Sen [<xref ref-type="bibr" rid="R46">46</xref>, <xref ref-type="bibr" rid="R47">47</xref>]. For Sen, there will inevitably be clashes of values in decision-making procedures, but this can be combatted by using a limited type of decision criteria. Sen argues against the dominant way of settling these disputes, which he identifies as aiming for the maximization of monetary value. He believes it is possible, under purposely-designed institutional arrangements, to come to a reasoned consensus on a prioritization of ‘capabilities’, or substantive freedoms, such as health, education, community ties, access to nature, and so on. These objectively measureable freedoms should be the focus of decision-making, he argues. This involves deliberation by those who will be affected by the decision, with the specific goal of developing a ranked list of capabilities with which to evaluate alternatives. Sen’s belief is that while we might not agree with another person’s choice of priority, we have the ability to accept that another person’s prioritization is reasonable [<xref ref-type="bibr" rid="R48">48</xref>]. Aggregating the various priorities of a large group of people can thereby lead to an acceptable, if not ideal, outcome for those involved. This represents an advance on the simplistic ideas of deliberation and consensus, by focusing on objective capabilities and stringent institutional arrangements. However, Sen is optimistic that liberal democratic institutions and a market economy can work as the foundation for such decision-making procedures. This is a major point upon which Sen has received criticism. Peter Evans, for example, has argued that Sen underestimates the role of social structural forces in establishing values [<xref ref-type="bibr" rid="R49">49</xref>]. In our hypothetical case, the possibility of implementing such an approach would have to be tested against the concrete case in question. Sen’s suggestion that the focus on capabilities might be able to overcome the problems in the deliberative approach may or may not be born out in the case. If it is not, the next two approaches may be more suitable.</p>
+            <p>The second example comes from Jürgen Habermas [<xref ref-type="bibr" rid="R50">50</xref>], who is superficially similar to Sen in the emphasis he places on speech and deliberation in establishing common values. However, whereas Sen sees the market economy as the foundation for unified values, Habermas argues that the perverse effects of the market must be resisted in order to establish unified values. Habermas thereby brings attention to the necessity of social change and institutional reform in order for democratic processes to be possible in the first place. Habermas deploys a theory of communicative reason, to argue that through discussion, but only under stringent conditions known as an ‘ideal speech situation’, the unforced force of the better argument will win out. This can allow the formation of common values, which can push back against the instrumentalisation of human life by the capitalist system, including presumably the instrumentalisation of nature and the environment. Habermas argues, however, that some form of social power will have to be deployed to achieve this, at different times placing his hope in social movements and the legal system.</p>
+            <p>The final example here is taken from Gramsci’s theory of hegemony [<xref ref-type="bibr" rid="R51">51</xref>]. This position takes from Marx the idea that the dominant values in society are the values of the ruling class, or class-faction, in society. According to this theory, values are examined in terms of their social role, meaning their contribution to maintaining or challenging hegemony; how they function to unite or divide particular social groups, and so on. A gramscian analysis might explain the fact that the business-as-usual approach was replicated in our hypothetical decision-making process by reference to class interests and hegemonic politics. The struggle to make certain values (those that promote sustainability, for example) the basis of decisions, would therefore be understood within the context of hegemonic and counter-hegemonic politics. Ensuring democratic processes, which are capable of instilling ‘sustainable values’, would necessitate that social movements from subaltern groups in society make new values dominant through political action.</p>
+            <p>With the latter two approaches, the problem, and therefore the normative argument, shifts from designing decision-making processes to processes of social change – legal reforms, social movements – which can ensure the possibility of democratic decision-making. It is worth pointing out here that drawing on these social-theoretical approaches comes with political implications. This contrasts with the depoliticized approach that seems to be favoured by some advocates of transdisciplinary deliberative approaches [<xref ref-type="bibr" rid="R52">52</xref>].</p>
+            <p>The guiding notion of the approach outlined in  and outlined schematically here is that critique of the hypothetical case, drawing on one of these theories, or a range of other theoretical options, will result in a better analysis of the problem (meaning it solves the problem of why the deliberative process failed in the first place). The normative orientation that goes along with the new theoretical analysis will therefore be better justified.</p>
+         </sec>
+         <sec id="s4.2">
+            <title>4.2.- Applying the Approach Generally in Sustainability Science</title>
+            <p>I have focused on how this approach could be used in relation to concrete episodes of environmental decision-making and how they integrate values. But it could be applied to other value controversies in the field. Take for example the debate over whether we should transform agricultural production systems according to principles of agro-ecology or commit to a more gradual process of agricultural intensification, which Nagatsu et al. [<xref ref-type="bibr" rid="R4">4</xref>] describe as a conflict over incompatible values. The approach outlined here would make this conflict an object of analysis in a concrete context. It could for example examine the extent to which intensification in a particular region is capable of achieving the sustainability goals it has outlined itself. If it is found to be lacking, it could investigate whether the agro-ecological approach seems better able to achieve these goals. Indeed such an analysis is not hypothetical, because work on very a similar question to this has been done by Ellinor Isgren [<xref ref-type="bibr" rid="R53">53</xref>] in the Ugandan context, who found that agro-ecology was a better alternative. This analysis was broadly in line with the approach outlined here, though not explicitly so.</p>
+         </sec>
+      </sec>
+      <sec id="s5">
+         <title>5.- Concluding Remarks</title>
+         <p>[20]The discussion in this paper started by looking at the debate over inductive risk. This debate brings attention to the fact that an important point where values become entangled with science is in the process of decision-making. Which values enter into decision-making must be justified. In order to outline an approach to justifying the normative content of scientific arguments, I first drew on Putnam’s argument that values penetrate science deeply, being inseparable from social scientific theories. The theories we use entail normative arguments about courses of action that society should take. Nevertheless, this normative content must be justified. I suggested this can be achieved in two ways either with reference to universal abstract moral principles or based on the analysis of particular concrete contexts, and favoured the latter as more useful in sustainability science. This allowed me to outline an approach to justifying normative positions taken in sustainability science based on the critique of the application of theory to concrete environmental problems. I returned to the question of how values enter into decision-making to show how this approach might be applied to these types of problems. It allowed me to introduce briefly some theory that could be useful for sustainability scientists both to suggest courses of action toward sustainability and that provide instruction on how values can enter into scientific decision-making.</p>
+         <p>Throughout the paper, I endeavoured to compare this approach to others in sustainability science. Here I will close with a summary of the main points:</p>
+         <list list-type="bullet">
+            <list-item>
+               <p>This position avoids depending on politicians to determine the agenda of science or the trajectory of society; it also avoids simplistic assumptions that the public, or fragments thereof, will reach a consensus on a course of action, and even though it pays attention to specific contexts it avoids value relativism. It does all of this by preserving a directly normative role for sustainability science in specifying courses of action to achieve sustainability.</p>
+            </list-item>
+            <list-item>
+               <p>At the same time, it does not specify a set of universal values that all science or scientists should follow. Rather, it argues that theories entail values and suggest desirable courses of action. These can be justified through scientific work in concrete contexts, where competing theories can be objectively compared.</p>
+            </list-item>
+            <list-item>
+               <p>But, it does not place science above democracy. It promotes the use of theories, which themselves outline conditions under which people’s values should be involved in deciding on courses of action for sustainability.</p>
+            </list-item>
+         </list>
+         <p>Finally I want to note that the aim of the approach is not to lecture the general public about what they should do, but to engage with agents of change that are already directed toward the course of action that research identifies as desirable [<xref ref-type="bibr" rid="R35">35</xref>, <xref ref-type="bibr" rid="R54">54</xref>]. From there it is up to researchers to engage with agents in society to negotiate how their research can be practically useful in pursuing these courses of action. The implication of this is that we as sustainability scientists can have objective grounds for lending our support to particular agents of change.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Jerneck</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Olsson</surname>
+                     <given-names>Lennart</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ness</surname>
+                     <given-names>Barry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anderberg</surname>
+                     <given-names>Stefan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baier</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clark</surname>
+                     <given-names>Eric</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hickler</surname>
+                     <given-names>Thomas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hornborg</surname>
+                     <given-names>Alf</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kronsell</surname>
+                     <given-names>Annica</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lövbrand</surname>
+                     <given-names>Eva</given-names>
+                  </name>
+               </person-group>
+               <article-title>Structuring Sustainability Science</article-title>
+               <source>Sustainability Science</source>
+               <pub-id pub-id-type="doi">10.1007/s11625-010-0117-x</pub-id>
+               <volume>6</volume>
+               <issue>1</issue>
+               <fpage>69</fpage>
+               <lpage>82</lpage>
+               <issn>1862-4065</issn>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ziegler</surname>
+                     <given-names>Rafael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ott</surname>
+                     <given-names>Konrad</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Quality of Sustainability Science: A Philosophical Perspective</article-title>
+               <pub-id pub-id-type="doi">10.5771/9783845258430-15</pub-id>
+               <source>Sustainability: Science, Practice &amp; Policy</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>31</fpage>
+               <lpage>44</lpage>
+               <issn>1548-7733</issn>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kates</surname>
+                     <given-names>Robert W</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Clark</surname>
+                     <given-names>William C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Corell</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hall</surname>
+                     <given-names>J Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jaeger</surname>
+                     <given-names>Carlo C</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lowe</surname>
+                     <given-names>Ian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>McCarthy</surname>
+                     <given-names>James J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schellnhuber</surname>
+                     <given-names>Hans Joachim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bolin</surname>
+                     <given-names>Bert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dickson</surname>
+                     <given-names>Nancy M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainability Science</article-title>
+               <source>Science</source>
+               <pub-id pub-id-type="doi">10.1126/science.1059386</pub-id>
+               <volume>292</volume>
+               <issue>5517</issue>
+               <fpage>641</fpage>
+               <lpage>642</lpage>
+               <issn>0036-8075</issn>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Nagatsu</surname>
+                     <given-names>Michiru</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Davis</surname>
+                     <given-names>Taylor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>DesRoches</surname>
+                     <given-names>C Tyler</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koskinen</surname>
+                     <given-names>Inkeri</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>MacLeod</surname>
+                     <given-names>Miles</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stojanovic</surname>
+                     <given-names>Milutin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thorén</surname>
+                     <given-names>Henrik</given-names>
+                  </name>
+               </person-group>
+               <article-title>Philosophy of Science for Sustainability Science</article-title>
+               <pub-id pub-id-type="doi">10.1007/s11625-020-00832-8</pub-id>
+               <source>Sustainability Science</source>
+               <volume>15</volume>
+               <issue>6</issue>
+               <fpage>1807</fpage>
+               <lpage>1817</lpage>
+               <issn>1862-4057</issn>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Horcea-Milcu, Andra-Ioana</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Abson</surname>
+                     <given-names>David J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Apetrei</surname>
+                     <given-names>Cristina I</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Duse</surname>
+                     <given-names>Ioana Alexandra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Freeth</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Riechers</surname>
+                     <given-names>Maraja</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lam</surname>
+                     <given-names>David PM</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dorninger</surname>
+                     <given-names>Christian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lang</surname>
+                     <given-names>Daniel J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Values in Transformational Sustainability Science: Four Perspectives for Change</article-title>
+               <pub-id pub-id-type="doi">10.1007/s11625-019-00656-1</pub-id>
+               <source>Sustainability Science</source>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>1425</fpage>
+               <lpage>1437</lpage>
+               <issn>1862-4065</issn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Raymond</surname>
+                     <given-names>Christopher M</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kenter</surname>
+                     <given-names>Jasper O</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Riper, Carena J</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rawluk</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kendal</surname>
+                     <given-names>Dave</given-names>
+                  </name>
+               </person-group>
+               <article-title>Editorial Overview: Theoretical Traditions in Social Values for Sustainability</article-title>
+               <source>Sustainability Science</source>
+               <pub-id pub-id-type="doi">10.1007/s11625-019-00723-7</pub-id>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>1173</fpage>
+               <lpage>1185</lpage>
+               <issn>1862-4065</issn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Schneider</surname>
+                     <given-names>Flurina</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kläy</surname>
+                     <given-names>Andreas</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zimmermann</surname>
+                     <given-names>Anne B</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Buser</surname>
+                     <given-names>Tobias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ingalls</surname>
+                     <given-names>Micah</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Messerli</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <article-title>How Can Science Support the 2030 Agenda for Sustainable Development? Four Tasks to Tackle the Normative Dimension of Sustainability</article-title>
+               <pub-id pub-id-type="doi">10.1007/s11625-019-00675-y</pub-id>
+               <source>Sustainability Science</source>
+               <volume>14</volume>
+               <issue>6</issue>
+               <fpage>1593</fpage>
+               <lpage>1604</lpage>
+               <issn>1862-4065</issn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Isgren</surname>
+                     <given-names>Ellinor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jerneck</surname>
+                     <given-names>Anne</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>O'Byrne, David</surname>
+                  </name>
+               </person-group>
+               <article-title>Pluralism in Search of Sustainability: Ethics, Knowledge and Methdology in Sustainability Science</article-title>
+               <pub-id pub-id-type="doi">10.12924/cis2017.05010002</pub-id>
+               <source>Challenges in Sustainability</source>
+               <volume>5</volume>
+               <issue>1</issue>
+               <fpage>2</fpage>
+               <lpage>6</lpage>
+               <issn>2297-6477</issn>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="standard" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Reiss</surname>
+                     <given-names>Julian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sprenger</surname>
+                     <given-names>Jan</given-names>
+                  </name>
+               </person-group>
+               <article-title>Scientific Objectivity</article-title>
+               <source>The Stanford Encyclopedia of Philosophy</source>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Edward N. Zalta</surname>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://plato.stanford.edu/entries/scientific-objectivity/"
+                         xlink:type="simple">https://plato.stanford.edu/entries/scientific-objectivity/</ext-link>
+               <year>2020</year>
+              <edition>Winter 2020</edition>
+               <publisher-name>Metaphysics Research Lab, Stanford University</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Popper</surname>
+                     <given-names>Karl</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Logic of Scientific Discovery</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <isbn>1134470029</isbn>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Longino</surname>
+                     <given-names>Helen E</given-names>
+                  </name>
+               </person-group>
+               <article-title>Science as Social Knowledge</article-title>
+               <publisher-name>Princeton University Press</publisher-name>
+               <isbn>0691209758</isbn>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lakatos</surname>
+                     <given-names>Imre</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Methodology of Scientific Research Programmes</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <publisher-loc>Cambridge</publisher-loc>
+               <volume>4</volume>
+               <fpage>1</fpage>
+               <lpage>250</lpage>
+               <year>1978</year>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Douglas</surname>
+                     <given-names>Heather</given-names>
+                  </name>
+               </person-group>
+               <article-title>Science, Policy, and the Value-free Ideal</article-title>
+               <publisher-name>University of Pittsburgh Press</publisher-name>
+               <isbn>082297357X</isbn>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Putnam</surname>
+                     <given-names>Hilary</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Collapse of the Fact/value Dichotomy and Other Essays</article-title>
+               <publisher-name>Harvard University Press</publisher-name>
+               <isbn>0674009053</isbn>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>A philosophical movement in the first half of the 20$^th$ century, which focused on the logical and mathematical structure of statements to determine what could and could not be considered valid scientific knowledge.</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gorski</surname>
+                     <given-names>Philip S</given-names>
+                  </name>
+               </person-group>
+               <article-title>Beyond the Fact/value Distinction: Ethical Naturalism and the Social Sciences</article-title>
+               <source>Society &amp; Natural Resources</source>
+               <pub-id pub-id-type="doi">10.1007/s12115-013-9709-2</pub-id>
+               <volume>50</volume>
+               <issue>6</issue>
+               <fpage>543</fpage>
+               <lpage>553</lpage>
+               <issn>0147-2011</issn>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Betz</surname>
+                     <given-names>Gregor</given-names>
+                  </name>
+               </person-group>
+               <article-title>In Defence of the Value Free Ideal</article-title>
+               <pub-id pub-id-type="doi">10.1007/s13194-012-0062-x</pub-id>
+               <source>European Journal for Philosophy of Science</source>
+               <volume>3</volume>
+               <issue>2</issue>
+               <fpage>207</fpage>
+               <lpage>220</lpage>
+               <issn>1879-4912</issn>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Weber</surname>
+                     <given-names>Max</given-names>
+                  </name>
+               </person-group>
+               <article-title>Science as a Vocation</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/20026431"
+                         xlink:type="simple">https://www.jstor.org/stable/20026431</ext-link>
+               <source>Daedalus</source>
+               <volume>87</volume>
+               <issue>1</issue>
+               <fpage>111</fpage>
+               <lpage>134</lpage>
+               <issn>0011-5266</issn>
+               <year>1958</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Stanford</surname>
+                     <given-names>Kyle</given-names>
+                  </name>
+               </person-group>
+               <chapter-title>Underdetermination of Scientific Theory</chapter-title>
+               <source>The Stanford Encyclopedia of Philosophy (Winter 2017 Edition)</source>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Intemann</surname>
+                     <given-names>Kristen</given-names>
+                  </name>
+               </person-group>
+               <article-title>Distinguishing between Legitimate and Illegitimate Values in Climate Modeling</article-title>
+               <source>European Journal for Philosophy of Science</source>
+               <pub-id pub-id-type="doi">10.1007/s13194-014-0105-6</pub-id>
+               <volume>5</volume>
+               <issue>2</issue>
+               <fpage>217</fpage>
+               <lpage>232</lpage>
+               <issn>1879-4912</issn>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boda</surname>
+                     <given-names>Chad</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faran</surname>
+                     <given-names>Turaj</given-names>
+                  </name>
+               </person-group>
+               <article-title>Paradigm Found? Immanent Critique to Tackle Interdisciplinarity and Normativity in Science for Sustainable Development</article-title>
+               <pub-id pub-id-type="doi">10.3390/su10103805</pub-id>
+               <source>Sustainability</source>
+               <volume>10</volume>
+               <issue>10</issue>
+               <fpage>3805</fpage>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="book" xlink:type="simple">
+                 <institution>National Research Council</institution>
+               <article-title>Our Common Journey: A Transition toward Sustainability</article-title>
+               <publisher-name>National Academies Press</publisher-name>
+               <publisher-loc>Washington, DC, USA</publisher-loc>
+               <isbn>0309086388</isbn>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Castree</surname>
+                     <given-names>Noel</given-names>
+                  </name>
+               </person-group>
+               <article-title>An Alternative to Civil Disobedience for Concerned Scientists</article-title>
+               <source>Nature Ecology and Evolution</source>
+               <volume>3</volume>
+               <issue>11</issue>
+               <fpage>1499</fpage>
+               <lpage>1499</lpage>
+               <issn>2397-334X</issn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Funtowicz</surname>
+                     <given-names>Silvio O</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ravetz</surname>
+                     <given-names>Jerome R</given-names>
+                  </name>
+               </person-group>
+               <article-title>Science for the Post-normal Age</article-title>
+               <source>Futures</source>
+               <volume>25</volume>
+               <issue>7</issue>
+               <fpage>739</fpage>
+               <lpage>755</lpage>
+               <issn>0016-3287</issn>
+               <year>1993</year>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gibbons</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+               </person-group>
+               <article-title>The New Production of Knowledge: The Dynamics of Science and Research in Contemporary Societies</article-title>
+               <publisher-name>Sage</publisher-name>
+               <isbn>0803977948</isbn>
+               <year>1994</year>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lang</surname>
+                     <given-names>Daniel J</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Wiek</surname>
+                     <given-names>Arnim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bergmann</surname>
+                     <given-names>Matthias</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stauffacher</surname>
+                     <given-names>Michael</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Martens</surname>
+                     <given-names>Pim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Moll</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Swilling</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Thomas</surname>
+                     <given-names>Christopher J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Transdisciplinary Research in Sustainability Science: Practice, Principles, and Challenges</article-title>
+               <source>Sustainability Science</source>
+               <volume>7</volume>
+               <issue>1</issue>
+               <fpage>25</fpage>
+               <lpage>43</lpage>
+               <issn>1862-4065</issn>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <annotation>
+                  <p>Perspectivism is the view that what counts as valid knowledge depends on the perspective from which one views the world. There is no view of the world outside particular perspectives, therefore no possibility of objective knowledge</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dews</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <article-title>Power and Subjectivity in Foucault</article-title>
+               <source>New Left Review</source>
+               <issue>144</issue>
+               <fpage>72</fpage>
+               <issn>0028-6060</issn>
+               <year>1984</year>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McCumber</surname>
+                     <given-names>John</given-names>
+                  </name>
+               </person-group>
+               <article-title>Understanding Hegel's Mature Critique of Kant</article-title>
+               <publisher-name>Stanford University Press</publisher-name>
+               <isbn>0804788537</isbn>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wright</surname>
+                     <given-names>Erik Olin</given-names>
+                  </name>
+               </person-group>
+               <article-title>Envisioning Real Utopias</article-title>
+               <publisher-name>Verso London</publisher-name>
+               <volume>98</volume>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Martinez-Alier, Joan</surname>
+                  </name>
+               </person-group>
+               <article-title>The Environmentalism of the Poor: A Study of Ecological Conflicts and Valuation</article-title>
+               <publisher-name>Edward Elgar Publishing</publisher-name>
+               <isbn>1843765489</isbn>
+               <year>2003</year>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kain</surname>
+                     <given-names>Philip J</given-names>
+                  </name>
+               </person-group>
+               <source>Canadian Journal of Philosophy</source>
+               <article-title>Hegel's Critique of Kantian Practical Reason</article-title>
+               <pub-id pub-id-type="doi">10.1080/00455091.1998.10715978</pub-id>
+               <volume>28</volume>
+               <issue>3</issue>
+               <fpage>367</fpage>
+               <lpage>412</lpage>
+               <issn>0045-5091</issn>
+               <year>1998</year>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Antonio</surname>
+                     <given-names>Robert J</given-names>
+                  </name>
+               </person-group>
+               <article-title>Immanent Critique as the Core of Critical Theory: Its Origins and Developments in Hegel, Marx and Contemporary Thought</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/589281"
+                         xlink:type="simple">https://www.jstor.org/stable/589281</ext-link>
+               <source>British Journal of Sociology</source>
+               <fpage>330</fpage>
+               <lpage>345</lpage>
+               <issn>0007-1315</issn>
+               <year>1981</year>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wood</surname>
+                     <given-names>Allen W</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Marxian Critique of Justice</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/2265053"
+                         xlink:type="simple">https://www.jstor.org/stable/2265053</ext-link>
+               <source>Philosophy &amp; Public Affairs</source>
+               <fpage>244</fpage>
+               <lpage>282</lpage>
+               <issn>0048-3915</issn>
+               <year>1972</year>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Harnesk</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Isgren</surname>
+                     <given-names>Ellinor</given-names>
+                  </name>
+               </person-group>
+               <article-title>Sustainability as a Real Utopia–Heuristics for Transformative Sustainability Research</article-title>
+               <pub-id pub-id-type="doi">10.1177/25148486211018570</pub-id>
+               <source>Environment and Planning E: Nature and Space</source>
+               <fpage>25148486211018570</fpage>
+               <issn>2514-8486</issn>
+               <year>2021</year>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boda</surname>
+                     <given-names>Chad</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Beach Beneath the Road: Sustainable Coastal Development beyond Governance and Economics</article-title>
+               <publisher-name>Lund University</publisher-name>
+               <isbn>9198220152</isbn>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="thesis" xlink:type="simple">
+               <source>No More Water, but Fire Next Time: The Conflict between Environmental aims and Social Claims in Louisiana's Post-Katrina Coastal Planning</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>O'Byrne, David</surname>
+                  </name>
+               </person-group>
+               <year>2020</year>
+               
+               <publisher-name>Lund University Centre for Sustainability Studies (LUCSUS)</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="R38">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>"Another option here would be to follow Lakatos's methodology for the comparison of research programs [R12]</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bhaskar</surname>
+                     <given-names>Roy</given-names>
+                  </name>
+               </person-group>
+               <article-title>Interdisciplinarity and Climate Change: Transforming Knowledge and Practice for our Global Future</article-title>
+               <publisher-name>Routledge</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <isbn>0415573874</isbn>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Boda</surname>
+                     <given-names>Chad Stephen</given-names>
+                  </name>
+               </person-group>
+               <article-title>From Economic Choice to Social Choice in Coastal Management: A Critical Assessment of the Use of Cost-benefit Analysis in the Evaluation of an Erosion Control Project in Flagler County, Florida, U.S.A</article-title>
+               <source>Ocean &amp; Coastal Management</source>
+               <volume>162</volume>
+               <fpage>85</fpage>
+               <lpage>99</lpage>
+               <issn>0964-5691</issn>
+               <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2017.09.017</pub-id>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gómez-Baggethun, Erik</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ruiz-Pérez, Manuel</surname>
+                  </name>
+               </person-group>
+               <article-title>Economic Valuation and the Commodification of Ecosystem Services</article-title>
+               <pub-id pub-id-type="doi">10.1177/0309133311421708</pub-id>
+               <source>Progress in Physical Geography</source>
+               <volume>35</volume>
+               <issue>5</issue>
+               <fpage>613</fpage>
+               <lpage>628</lpage>
+               <issn>0309-1333</issn>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R42">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Porter</surname>
+                     <given-names>Theodore M</given-names>
+                  </name>
+               </person-group>
+               <article-title>Trust in Numbers: The Pursuit of Objectivity in Science and Public Life</article-title>
+               <publisher-name>Princeton University Press</publisher-name>
+               <isbn>1400821614</isbn>
+               <year>1996</year>
+            </element-citation>
+         </ref>
+         <ref id="R43">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pascual</surname>
+                     <given-names>Unai</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Balvanera</surname>
+                     <given-names>Patricia</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Díaz</surname>
+                     <given-names>Sandra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Pataki</surname>
+                     <given-names>György</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Roth</surname>
+                     <given-names>Eva</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Stenseke</surname>
+                     <given-names>Marie</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Watson</surname>
+                     <given-names>Robert T</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dessane</surname>
+                     <given-names>Esra Başak</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Islar</surname>
+                     <given-names>Mine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kelemen</surname>
+                     <given-names>Eszter</given-names>
+                  </name>
+               </person-group>
+               <article-title>Valuing Nature's Contributions to People: the IPBES Approach</article-title>
+               <pub-id pub-id-type="doi">10.1016/j.cosust.2016.12.006</pub-id>
+               <source>Current Opinion in Environmental Sustainability</source>
+               <volume>26</volume>
+               <fpage>7</fpage>
+               <lpage>16</lpage>
+               <issn>1877-3435</issn>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R44">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Massenberg</surname>
+                     <given-names>Julian Richard</given-names>
+                  </name>
+               </person-group>
+               <article-title>Social Values and Sustainability: A Retrospective View on the Contribution of Economics</article-title>
+               <pub-id pub-id-type="doi">10.1007/s11625-019-00693-w</pub-id>
+               <source>Sustainability Science</source>
+               <volume>14</volume>
+               <issue>5</issue>
+               <fpage>1233</fpage>
+               <lpage>1246</lpage>
+               <issn>1862-4065</issn>
+               <year>2019</year>
+            </element-citation>
+         </ref>
+         <ref id="R45">
+            <element-citation publication-type="book" xlink:type="simple">
+               <annotation>
+                  <p>It is worth noting that this discussion has been only marginally, and very recently, informed by social theory (for example, [R44] discusses values in selected economic theories and how they are related to human behaviour).</p>
+               </annotation>
+            </element-citation>
+         </ref>
+         <ref id="R46">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Amartya</given-names>
+                  </name>
+               </person-group>
+               <article-title>The Possibility of Social Choice</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.jstor.org/stable/117024"
+                         xlink:type="simple">https://www.jstor.org/stable/117024</ext-link>
+               <source>American Economic Review</source>
+               <volume>89</volume>
+               <issue>3</issue>
+               <fpage>349</fpage>
+               <lpage>378</lpage>
+               <issn>0002-8282</issn>
+               <year>1999</year>
+            </element-citation>
+         </ref>
+         <ref id="R47">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Amartya</given-names>
+                  </name>
+               </person-group>
+               <article-title>Development as Freedom</article-title>
+               <publisher-name>Oxford Paperbacks</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <isbn>0192893300</isbn>
+               <year>2001</year>
+            </element-citation>
+         </ref>
+         <ref id="R48">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sen</surname>
+                     <given-names>Amartya</given-names>
+                  </name>
+               </person-group>
+               <article-title>The idea of justice</article-title>
+               <publisher-name>Harvard University Press</publisher-name>
+               <publisher-loc>Cambridge, MA, USA</publisher-loc>
+               <isbn>0674054571</isbn>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="R49">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Evans</surname>
+                     <given-names>Peter</given-names>
+                  </name>
+               </person-group>
+               <article-title>Collective Capabilities, Culture, and Amartya Sen's Development as Freedom</article-title>
+               <source>Studies in Comparative International Development</source>
+               <volume>37</volume>
+               <issue>2</issue>
+               <fpage>54</fpage>
+               <lpage>60</lpage>
+               <issn>0039-3606</issn>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="R50">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Habermas</surname>
+                     <given-names>J\''urgen</given-names>
+                  </name>
+               </person-group>
+               <article-title>1984/1987: The Theory of Communicative Action</article-title>
+               <volume>1-2</volume>
+               <publisher-name>Polity</publisher-name>
+               <publisher-loc>Cambridge, UK</publisher-loc>
+               <year>1981</year>
+            </element-citation>
+         </ref>
+         <ref id="R51">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gramsci</surname>
+                     <given-names>Antonio</given-names>
+                  </name>
+               </person-group>
+               <article-title>Selections from the Prison Notebooks of Antonio Gramsci: Edited and Translated by Quintin Hoare and Geoffrey Nowell Smith</article-title>
+               <publisher-name>International Publishers</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <year>1971</year>
+            </element-citation>
+         </ref>
+         <ref id="R52">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rosendahl</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Zanella</surname>
+                     <given-names>Matheus A</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rist</surname>
+                     <given-names>Stephan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Weigelt</surname>
+                     <given-names>Jes, J Futures</given-names>
+                  </name>
+               </person-group>
+               <article-title>Scientists' Situated Knowledge: Strong Objectivity in Transdisciplinarity</article-title>
+               <volume>65</volume>
+               <fpage>17</fpage>
+               <lpage>27</lpage>
+               <issn>0016-3287</issn>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R53">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Isgren</surname>
+                     <given-names>Ellinor</given-names>
+                  </name>
+               </person-group>
+               <article-title>Between Nature and Modernity: Agroecology as an Alternative Development Pathway: the Case of Uganda</article-title>
+               <publisher-name>Lund University</publisher-name>
+               <isbn>9198220179</isbn>
+               <year>2018</year>
+            </element-citation>
+         </ref>
+         <ref id="R54">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>O'Byrne, David</surname>
+                  </name>
+               </person-group>
+               <article-title>A Contribution to Building Unified Movements for the Environment: Aligning Interests, Forming Alliances</article-title>
+               <source>Human Geography</source>
+               <volume>13</volume>
+               <issue>2</issue>
+               <fpage>127</fpage>
+               <lpage>138</lpage>
+               <year>2020</year>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

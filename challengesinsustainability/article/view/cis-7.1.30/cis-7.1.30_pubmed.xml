@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2019.07010030</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>An Expert Elicitation of Public Acceptance of Renewable Energy in Kenya</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>van der Zwaan</surname>
+                  <given-names>Bob</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+               <xref ref-type="aff" rid="A4">3</xref>
+               <xref ref-type="aff" rid="A5">4</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Dalla Longa</surname>
+                  <given-names>Francesco</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>de Boer</surname>
+                  <given-names>Helena</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Johnson</surname>
+                  <given-names>Francis</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Johnson</surname>
+                  <given-names>Oliver</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>van Klaveren</surname>
+                  <given-names>Marieke</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Mastop</surname>
+                  <given-names>Jessanne</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ogeya</surname>
+                  <given-names>Mbeo</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Rietkerk</surname>
+                  <given-names>Mariëlle</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Straver</surname>
+                  <given-names>Koen</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Wanjiru</surname>
+                  <given-names>Hannah</given-names>
+               </name>
+               <xref ref-type="aff" rid="A6">5</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Energy Research Centre of the Netherlands (ECN-TNO), Amsterdam, The Netherlands</aff>
+         <aff id="A3">
+            <label>2</label>School of Advanced International Studies, Johns Hopkins University , Bologna, Italy</aff>
+         <aff id="A4">
+            <label>3</label>Van 't Hoff Institute for Molecular Sciences, University of Amsterdam, Amsterdam, The Netherlands</aff>
+         <aff id="A5">
+            <label>4</label>Institute for Advanced Study (IAS), University of Amsterdam, Amsterdam, The Netherlands</aff>
+         <aff id="A6">
+            <label>5</label>Stockholm Environment Institute (SEI), Nairobi, Kenya</aff>
+         <pub-date pub-type="ppub">
+            <day>03</day>
+            <month>09</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>7</volume>
+         <issue>1</issue>
+         <fpage>30</fpage>
+         <lpage>39</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>This article reports evidence for substantial public support for the large-scale deployment of three renewable energy options in Kenya: wind, solar PV, and geothermal energy. With these renewable technologies, the government of Kenya could make a large contribution to reaching its national commitment under the Paris Agreement. Prices, infrastructural needs, and land-use requirements importantly contribute to shaping public opinion about these renewable energy alternatives, in different ways and directions for wind, PV, and geothermal energy. While overall the evaluation of these technologies is positive, public authorities should be wary of the possible inconveniences and drawbacks associated with them. Anticipating and, where possible, mitigating these shortcomings in national climate and energy development plans could preclude some of them becoming possible hindrances for broad-scale adoption of wind, PV, and geothermal energy. Furthering quantitative public acceptance studies, like the one presented here based on (semi-)expert elicitation and information-choice questionnaires, can assist in Kenya fully reaching its national climate and energy ambitions. More generally, we argue that the establishment of affordable, clean, and secure energy systems, as well as the mitigation of global climate change, can benefit from stakeholder engagement and public survey analysis like the one performed in our study – in developing countries as much as in the developed part of the world.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>Africa</kwd>
+            <kwd>climate change</kwd>
+            <kwd>expert elicitation</kwd>
+            <kwd>low-carbon energy</kwd>
+            <kwd>public opinion</kwd>
+            <kwd>renewables</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Climate change is one of the largest challenges facing mankind this century, and transforming our global economy according to universal principles of sustainable development is top priority on the political agenda of the international community [<xref ref-type="bibr" rid="R1">1</xref>]. Particularly important is supporting countries in the world’s developing regions to combine persistent economic growth with efforts to mitigate emissions of gases that cause global warming. The establishment of energy transition pathways, in which fossil fuels are gradually replaced with low-carbon energy options, is assisted by energy systems modelling exercises in which alternative transformation scenarios are quantified, analysed, and compared [<xref ref-type="bibr" rid="R2">2</xref>].While these modelling efforts have thus far mostly focused on developed countries, a few similar studies have been undertaken for developing countries recently (see e.g. Altieri <italic>et al.</italic>, 2016 [<xref ref-type="bibr" rid="R3">3</xref>]; Taliotis <italic>et al.</italic>, 2016 [<xref ref-type="bibr" rid="R4">4</xref>]; Lucas <italic>et al.</italic>, 2017 [<xref ref-type="bibr" rid="R5">5</xref>]; van der Zwaan <italic>et al.</italic>, 2018 [<xref ref-type="bibr" rid="R6">6</xref>]).</p>
+         <p>To advance studies in the field of energy transition pathways in the developing world, we focus in this paper on an important African country, Kenya. Socio-scientific studies on the deployment of low-carbon and/or renewable forms of energy importantly complement energy and climate scenario modelling work. A relatively large number of studies have been performed that investigate the role of public or expert opinions on energy system transformation pathways or individual innovative energy technologies in developed countries (see e.g. de Best-Waldhober <italic>et al.</italic>, 2012 [<xref ref-type="bibr" rid="R7">7</xref>]; Baker <italic>et al.</italic>, 2015 [<xref ref-type="bibr" rid="R8">8</xref>]).Only few studies have so far been undertaken on public opinion with regards to energy and climate change issues in Africa (a few examples are Camblong <italic>et al.</italic>, 2009 on Senegal [<xref ref-type="bibr" rid="R9">9</xref>]; Wetang’ula, 2010 on Kenya [<xref ref-type="bibr" rid="R10">10</xref>]; Ondraczek, 2011 on Kenya and Tanzania [<xref ref-type="bibr" rid="R11">11</xref>]; Bouzidi, 2011 on Algeria [<xref ref-type="bibr" rid="R12">12</xref>]; and Hanger <italic>et al.</italic>, 2016 on Morocco [<xref ref-type="bibr" rid="R13">13</xref>]). We think that this paucity should urgently be rectified, given the importance of swiftly deploying renewable energy technologies in Africa on a large scale and of the role of public acceptance issues therein. The present paper attempts to make a step in that direction by presenting a (semi-)expert elicitation based case study on public attitudes towards renewable energy in Kenya.</p>
+         <p>Our approach aims to characterise attitudes of participants towards three different renewable energy technologies—wind, PV, and geothermal energy—based on their responses to objective information we provided on the possible impacts of these technologies. Participants are informed that each of these three renewable energy technologies may be able to contribute to solving global climate change. But participants are also provided with the possible consequences associated with the use and/or deployment of these energy options, on the basis of which they are asked to express their reactions. Our study presents a first application of this (semi-)expert public opinion survey method to analyse the acceptance of renewable energy technologies in Kenya, and to assess how objective information can contribute to shaping public opinion among Kenyans. Below, in section 2, we first review Kenya’s ambitions under the Paris Agreement. In section 3 we describe the survey method used for our research. In section 4 we present our main results, while in section 5 we discuss some of our main insights. In section 6 we formulate several main conclusions and make a few recommendations for policy makers and analysts active in the field of renewable energy and climate change mitigation.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Economic development, climate change and renewable energy in Kenya</title>
+         <p>Under the United Nations Framework Convention on Climate Change (UNFCCC) Paris Agreement, concluded in 2015 and ratified a year later [<xref ref-type="bibr" rid="R14">14</xref>], the Kenyan Government has obliged itself to a ‘nationally determined contribution’ (NDC) of reducing domestic greenhouse gas (GHG) emissions by 30% in 2030 in comparison to a business-as-usual scenario [<xref ref-type="bibr" rid="R15">15</xref>, <xref ref-type="bibr" rid="R16">16</xref>]. Using the country’s renewable energy resources appears essential to meet this goal [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>].Whether indeed renewable forms of energy can play a major role in achieving national climate change mitigation targets critically depends on a large number of factors, including technical, economic, institutional, regulatory, legal, and especially also cultural and social. In this article we focus on the last of these factors, by analyzing the extent to which renewable energy technologies can broadly diffuse in Kenya from a public acceptance point of view.</p>
+         <p>The government of Kenya has ambitious plans for economic growth, and particularly also for energy development, climate change mitigation, and adaptation to the impacts of climate change [<xref ref-type="bibr" rid="R19">19</xref>, <xref ref-type="bibr" rid="R20">20</xref>]. Kenya’s NDC projects baseline GHG emissions of 141 MtCO<inline-formula>
+               <mml:math id="S2.p2.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>e in 2030, which constitutes a doubling of the 2010 emissions level [<xref ref-type="bibr" rid="R16">16</xref>]. Its target of a 30% emissions reduction in 2030 implies a maximum allowed GHG level of around 100 MtCO<inline-formula>
+               <mml:math id="S2.p2.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>e. Kenya’s official GHG reduction strategy consists of exploiting its large national renewable energy potential, notably in the power sector. Its abundant resources of wind, solar, and geothermal energy could be developed not only to expand electricity production in a low-carbon fashion, but also to make the electricity generation mix more diversified. Today, it relies predominantly on geothermal, hydropower, and imported oil products [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R21">21</xref>] Kenya’s ambitions with respect to renewable energy deployment have already been pursued for some years now. While in 2016 hydropower and fossil fuels still accounted for about 35% and 32%, respectively, in an overall installed electricity capacity of 2.3 GW [<xref ref-type="bibr" rid="R18">18</xref>], the share of geothermal power increased from 13% in 2011 to 27% in 2016 [<xref ref-type="bibr" rid="R18">18</xref>, <xref ref-type="bibr" rid="R21">21</xref>]. The remaining 6% was divided between mostly wind power and cogeneration, with small contributions of 0.03% from solar PV and 0.02% from biogas. Meanwhile, Kenya’s energy system has further developed in favour of renewables: for example, today wind power contributes around 14% of the electricity mix since the 310 MW Lake Turkana Wind Power project came online.</p>
+         <p>The deployment of renewable energy in the electricity sector has been extensively described in reports by the Kenyan government and studied in detail in the literature. Kenya’s NEMA (National Environment Management Authority) estimates that wind and solar energy could deliver about 1.4 and 1.0 MtCO<inline-formula>
+               <mml:math id="S2.p3.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>e in emissions abatement respectively [<xref ref-type="bibr" rid="R20">20</xref>].The exploitation of geothermal energy could even lead to a GHG reduction of approximately 14 MtCO<inline-formula>
+               <mml:math id="S2.p3.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula>e in 2030 [<xref ref-type="bibr" rid="R20">20</xref>]. The country’s substantial domestic wind energy potential has been investigated since the 1980s (see e.g. Ogana, 1987 [<xref ref-type="bibr" rid="R22">22</xref>]). Solar energy for decentralized electricity production in rural areas has been studied for at least two decades (see <italic>e.g.</italic>, Acker and Kammen, 1996 [<xref ref-type="bibr" rid="R23">23</xref>]; Rabah, 2005 [<xref ref-type="bibr" rid="R24">24</xref>]). Given the geothermal resources proffered by Kenya’s geography along the Rift Valley, geothermal power has received dedicated attention since many years from both public and private entities [<xref ref-type="bibr" rid="R17">17</xref>, <xref ref-type="bibr" rid="R18">18</xref>]. In addition, a number of publications have been dedicated to the benefits that low-carbon energy technologies could yield in Kenya for rural low-income populations [<xref ref-type="bibr" rid="R25">25</xref>, <xref ref-type="bibr" rid="R26">26</xref>]. Likewise, studies have been made on their potential contribution to poverty reduction [<xref ref-type="bibr" rid="R26">26</xref>, <xref ref-type="bibr" rid="R27">27</xref>] and on their overall affordability [<xref ref-type="bibr" rid="R28">28</xref>, <xref ref-type="bibr" rid="R29">29</xref>]. We have not been able to identify, however, peer-reviewed studies dedicated to issues of public opinion in Kenya.</p>
+         <p>Dalla Longa and van der Zwaan (2017) [<xref ref-type="bibr" rid="R30">30</xref>] analyze Kenya’s climate change mitigation ambitions from an energy system perspective with a focus on the potential contribution from renewable energy technologies. They use the TIAM-ECN model with its recently expanded and improved disaggregation for Africa [<xref ref-type="bibr" rid="R6">6</xref>] to characterize possible pathways for the Kenyan energy mix until 2050 under different climate change mitigation scenarios. Dalla Longa and van der Zwaan (2017) [<xref ref-type="bibr" rid="R30">30</xref>] conclude that the power sector can expand with mostly low-carbon energy options, even in the absence of stringent climate change control measures. For the demand side they find that a substantial deployment of renewable energy is triggered when ambitious emission reduction objectives are in place. Their research supports the feasibility of the climate management goals of the Kenyan government, provided that sufficient investments in low-carbon technologies are made available. They emphasize the potential role in the power sector of especially wind, solar PV, and geothermal energy options, which enable Kenya meeting its NDC. Hence we focus in this paper on these three renewable energy technologies.</p>
+         <p>This article builds on the work by SEI (2017) [<xref ref-type="bibr" rid="R31">31</xref>], whose authors point out that concerted efforts are required to put Kenya’s energy sector on a low-carbon trajectory and that, whilst in principle many options exist for low-carbon energy development strategies in Kenya, all of them necessitate both extensive financial investments and substantial demands on governance. They recognize that important strides are being made towards a low-carbon energy system, but that conflicts and untapped synergies remain, especially in terms of perceived trade-offs between centralized and decentralized energy solutions, particularly in relation to renewable energy resources. SEI (2017) also observes that increasing public and community resistance presents additional obstacles to renewable energy projects, particularly at places where local participation in planning and local benefit-sharing is limited, or is widely perceived to be limited. Key strategies for renewable energy deployment success in Kenya include engaging stakeholders early in the development of projects; early public dialogue around broader energy development pathways; and transparent benefit-sharing mechanisms that are co-designed with affected stakeholders [<xref ref-type="bibr" rid="R31">31</xref>]. Our present work and the survey we performed are meant to be a first starting point for broader active stakeholder engagement.</p>
+      </sec>
+      <sec id="s3">
+         <title>3.- Method</title>
+         <p>We employ for our study the Information-Choice Questionnaire (ICQ) method of surveying public opinion, which consists of providing respondents with different options suitable to solve a certain problem, along with information on the consequences associated with each option [<xref ref-type="bibr" rid="R32">32</xref>]. The ICQ method thus allows for both analysing and creating informed public opinions, since participants partly base their preferences on the provided information. For energy technology evaluations the ICQ method is particularly suitable, since the general public is often minimally informed about the socio-economic and environmental consequences, amongst others, of different energy options. Providing public opinion survey participants with information through ICQs enables obtaining higher quality measurements. ICQ methods have been successfully applied to measuring public opinion on low-carbon energy technologies and CO<inline-formula>
+               <mml:math id="S3.p1.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> mitigation options, particularly Carbon dioxide Capture and Storage (CCS), in the Netherlands [<xref ref-type="bibr" rid="R33">33</xref>]. They were found to produce higher quality results in comparison to more commonly used conventional public opinion surveys [<xref ref-type="bibr" rid="R34">34</xref>]. The opinions reported by uninformed participants in these traditional surveys appeared more arbitrary and more subject to variations, whereas those resulting from ICQ based public opinion surveys were largely based on the provided information. The ICQ method attempts to present this information in an objective manner.</p>
+         <p>Traditional public opinion survey instruments have received considerable criticism. Malone <italic>et al.</italic> (2010) [<xref ref-type="bibr" rid="R35">35</xref>] similarly argue that the information provided in surveys is never unbiased, and therefore the opinions somewhat artificially created and perhaps reflecting researchers’ bias. We have tried to mitigate this drawback in a number of ways (<italic>e.g.</italic> by mostly relying on opinions from Kenyan energy experts, and by <italic>e.g.</italic> calibrating our statements on reviews of the literature and expert judgement), but recognise that these authors in principle make a valid point here. Conscious of the possible weaknesses of our ICQ method, we have thus tried to minimize the reporting of pseudo-opinions by a number of concrete means, like letting experts participate and providing upfront neutral information preceding the survey questions (see also Daamen <italic>et al.</italic>, 2011 [<xref ref-type="bibr" rid="R36">36</xref>]; ter Mors <italic>et al.</italic>, 2013 [<xref ref-type="bibr" rid="R37">37</xref>]).</p>
+         <p>Table <xref ref-type="table" rid="Tab1">1</xref> lists all the technology-specific questions asked in our ICQ to a sample of about 100 interviewees (76 of whom fully completed the survey) on three possible low-carbon energy technologies in Kenya: wind, solar PV, and geothermal energy. We chose for these three renewable energy options, because they are among the most likely techniques for large-scale deployment in the near term future in Kenya. Before these questions, some general issues were raised, and the ICQ ended with a few personal questions about the respondents themselves. Nearly all respondents were adults living in urban or suburban areas (mainly in or around Nairobi). We could not have entirely anticipated this <italic>a priori</italic>, but we ended up having a sample of participants the majority of whom (72%) were men, and most of whom were highly educated (92% having a bachelor degree). Also an outcome of our ICQ—rather than an input that we introduced by design—was that many respondents (64%) appeared to consider themselves a relative expert in energy-related subjects. Each technology was introduced by starting with a general description consisting of a short explanation that outlined Kenya’s potential for the specific technology together with an example project that participants might be familiar with. Subsequently, participants were presented various characteristics of each technology, which they were asked to evaluate quantitatively. The quantitative ratings from 1 to 9 that respondents could use to grade all issues correspond to the qualitative notions of very small (1), small (2 or 3), limited (4), fair (5), substantial (6), big (7 or 8) and very big (9). These ratings could be applied both when the issue was considered an advantage and when it was viewed a disadvantage. In the next section these quantitative and qualitative ratings are used consistently, with the ‘+’ sign used for advantages and the ‘–’ sign for disadvantages. Participants were given the opportunity to indicate that they consider a certain issue unimportant by assigning it the number 0. Both before and after reacting to all statements regarding the possible consequences of the three energy options—the order of the technologies being randomized for different participants to try and minimize systematic errors—respondents were asked about their overall view on each technology on a scale from 1 (very bad) to 9 (very good).</p>
+         <p>It is not necessarily the case that all statements in Table <xref ref-type="table" rid="Tab1">1</xref> are entirely true under all circumstances or at every geographical location or point in time in Kenya. Yet they are all approximately or in most cases correct, and analysing the reactions to the issues they raise is always interesting. Indeed, it is valuable to assess the responses to these questions from interviewees despite the fact that, under some circumstances, situations can be imagined under which they do not necessarily precisely hold. For example, while currently probably often true, the price of wind power may in the future or under specific conditions no longer remain somewhat higher than that of geothermal electricity or a bit lower than that of solar PV electricity. Some of the statements in our ICQ may likewise change dependent on local circumstances. For instance, concerns about the noise generated by wind turbines may be justified at locations with relatively moderate wind speeds like Ngong Hills, while at Lake Turkana they may not be a real issue since wind speeds there are so high that one cannot hear the turbines over the noise of the wind. We did not investigate necessarily all relevant issues. For example, noise pollution and nuisances from piping infrastructure associated with geothermal power plants may be quite substantial, but we did not subject these facets to public acceptance tests. Responses to interview questions were assembled with Qualtrics software, and the resulting database subjected to statistical analysis with Excel and Python.</p>
+         <table-wrap id="Tab1" position="float" orientation="portrait">
+            <label>Table 1</label>
+            <caption>
+               <title>Overview of the questions about wind, PV, and geothermal energy.</title>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <td align="center"
+                         backgroundcolor="#34FF34"
+                         colspan="2"
+                         style="border:l r t;"
+                         rowspan="1">
+                        <bold>Wind (W)</bold>
+                     </td>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W1</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The level of greenhouse gas emissions associated with wind power is low.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W2</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The level of greenhouse gas emissions associated with wind power is low.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W3</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The (community) land area requirements of wind power preclude certain other land-use purposes.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W4</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The price of wind power will be somewhat higher than that of geothermal electricity.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W5</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The price of wind power will be somewhat lower than that of solar PV electricity.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W6</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Wind power contributes to Kenya’s energy independence.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W7</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Wind turbines are visible elements in the landscape (see picture).</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W8</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Wind turbines produce noise that can be heard in their immediate vicinity.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W9</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Wind turbines cause shadow flicker in their immediate vicinity.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W10</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  Wind turbines can be built in community ownership, creating opportunity to participate in investments(with electricity and/or financial
+                
+                
+                  benefits as returns).
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W11</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Both the construction of wind turbines and their maintenance create employment (engineers, electricians).</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>W12</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Land used for wind energy can simultaneously serve agricultural purposes (livestock, crop cultivation)</td>
+                  </tr>
+                  <tr>
+                     <td align="center"
+                         backgroundcolor="#34FF34"
+                         colspan="2"
+                         style="border:l r t;"
+                         rowspan="1">
+                        <bold>Solar PV (S)</bold>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S1</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Kenya has a suitable climate for solar energy, with infinite solar energy during daytime.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S2</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The level of greenhouse gas emissions associated with solar PV energy is low.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S3</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Solar PV modules are clearly visible objects on your property/house (see picture).</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S4</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Personal Solar PV system requires initial investment costs.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S5</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Entrepreneurs offer the possibility to hire or lease a PV-panel (e.g. ‘Pay-as-you-go’) as an alternative to fully purchasing a PV system.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S6</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Solar PV energy production can be incorporated with minimal land use involved as modules can be placed on roofs.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S7</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Solar PV increases energy access in Kenya without requiring expansions of the energy infrastructure.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S8</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Both the installation of solar PV modules and their operation create employment (entrepreneurs, electricians).</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S9</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Solar PV is an intermittent energy source</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S10</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  As storage options for solar PV are expensive, electricity access in the evening and night can be unreliable when no other
+                
+                
+                  energy sources are used.
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S11</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  For personal PV-panel use there is no central electricity grid needed, which makes solar PV an option to improve electricity
+                
+                
+                  access in remote areas.
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S12</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">To ensure quality and durability of solar PV systems, training on maintenance for users and technicians is needed.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>S13</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  In the case of individual ownership, the owner is responsible for the functioning and maintenance of the solar modules
+                
+                
+                  (installing, cleaning, and repairs).
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="center"
+                         backgroundcolor="#34FF34"
+                         colspan="2"
+                         style="border:l r t;"
+                         rowspan="1">
+                        <bold>Geothermal (G)</bold>
+                     </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G1</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">An increase in the use of geothermal electricity could create jobs at the power plants and through the installation of transmission lines.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G2</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">In contrast to off-grid options, an increase in geothermal energy production for electricity requires an expansion of the electricity grid.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G3</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">The level of greenhouse gas emissions associated with geothermal energy is low.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G4</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Geothermal energy installations are visible in the landscape (see picture of Olkaria II plant in Naivasha).</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G5</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  Compared to other renewable energy sources, geothermal energy plants require a relatively large amount of water resources
+                
+                
+                  used for cooling purposes.
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G6</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  The spatial usage of geothermal installations is relatively small, with current geothermal plants occupying 
+                      
+                        ∼
+                      
+                    1 km
+                      
+                        
+                          2
+                        
+                      
+                     per plant
+                
+                
+                  (equaling 
+                      
+                        ∼
+                      
+                    150 football fields).
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G7</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">
+                
+                  In Kenya, geothermal technologies provide one of the cheapest options to produce energy. The costs are comparable
+                
+                
+                  to electricity from hydro dams.
+                
+              </td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G8</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Kenya provides a suitable environment for geothermal energy, possessing many potential geothermal energy sites.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G9</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Installing geothermal energy plants might involve relocation of community land.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G10</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Geothermal energy could provide for a large share of Kenya’s total electricity supply</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G11</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Examples are known of combining geothermal power production with touristic attractions such as hot springs.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G12</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Geothermal power plants could potentially lead to fresh water reservoir contamination.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:l r t;" rowspan="1" colspan="1">
+                        <bold>G13</bold>
+                     </td>
+                     <td align="left" style="border:r t;" rowspan="1" colspan="1">Emissions of sulfur dioxide from geothermal energy production could potentially impact the surrounding environment.</td>
+                  </tr>
+                  <tr>
+                     <td align="left" style="border:b l r t;" rowspan="1" colspan="1">
+                        <bold>G14</bold>
+                     </td>
+                     <td align="left" style="border:b r t;" rowspan="1" colspan="1">Seismological activity may occur in association with the use of geothermal energy.</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+      </sec>
+      <sec id="s4">
+         <title>4.- Results</title>
+         <p>Figure <xref ref-type="fig" rid="Fig1">1</xref> shows a summary of the public views of local respondents (many of whom are educated male Kenyan nationals who consider themselves relatively well informed in the field of renewable energy) on wind energy in Kenya. Indicated are the median, 1<inline-formula>
+               <mml:math id="S4.p1.m1"
+                         alttext="{}^{st}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>s</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>t</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> and 3<inline-formula>
+               <mml:math id="S4.p1.m2"
+                         alttext="{}^{rd}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>r</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>d</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> quartiles, and 5<inline-formula>
+               <mml:math id="S4.p1.m3"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> and 95<inline-formula>
+               <mml:math id="S4.p1.m4"
+                         alttext="{}^{th}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>t</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>h</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> percentiles of the replies to all wind energy related questions in our ICQ. We see that respondents consider it a big advantage that the land used for wind energy can simultaneously serve agricultural purposes, that the construction of wind turbines and their maintenance create employment, and that wind turbines can be built in community ownership so that local residents get the opportunity to participate in an investment, the returns from which can be in the form of electricity and/or financial benefits. Likewise, interviewees attach high value to the fact that wind power contributes to Kenya’s energy independence, that the construction and O &amp; M of wind turbines require suitable road infrastructure with new roads providing additional opportunities for the area involved, and that the level of GHG emissions associated with wind power is low. The fact that the price of wind power may currently be somewhat lower than that of solar PV electricity is considered a substantial advantage, but responses yield a large range that includes those who think it is only a small advantage. The possibility that wind turbines may cause shadow flickering in their immediate vicinity leaves around a quarter of respondents indifferent, while most others consider it a small to fair disadvantage. The fact that wind turbines are visible elements in the landscape yields a broad variety of opinions stretching from the very negative to even the very positive, with as many respondents thinking that it is an advantage as those considering it a disadvantage. Three statements interviewees generally consider genuine disadvantages, but opinions cover practically the entire spectrum of possibilities. The fact that wind turbines produce noise that can be heard in their immediate vicinity is by many respondents viewed as a small to fair disadvantage. Likewise, respondents view the land use requirements of wind power, which preclude certain other land-use purposes, a small to fair disadvantage. The statement that the price of wind power (per unit of kWh generated) may be somewhat higher than that of geothermal electricity is viewed as the most negative drawback among all issues raised, with respondents typically finding it a limited to substantial disadvantage.</p>
+         <p>Across all technologies, no statement receives reactions as positive as the fact that Kenya has a suitable climate for solar energy, with infinite solar energy during daytime. Half of the respondents qualify it as a very big advantage, while many others consider it a substantial to large advantage (see Figure <xref ref-type="fig" rid="Fig2">2</xref>). Considered big advantages are also statements informing respondents about the fact that for domestic solar PV use there is no central electricity grid needed, which makes solar PV an option to improve electricity access in remote areas, that solar PV increases energy access in Kenya without requiring expansions of the energy infrastructure, and that solar PV energy production can be incorporated with minimal land use involved since modules can be placed on roofs. The observations that the installation of solar PV modules and their operation create employment, that entrepreneurs offer the possibility to hire or lease a PV-panel as an alternative to fully purchasing a PV system, and that the level of greenhouse gas emissions associated with solar PV energy is low are viewed as big advantages as well, but in these cases a minority of respondents only consider these small advantages. To ensure quality and durability of solar PV systems, training on maintenance for users and technicians is needed. On average this is considered a fair advantage, but interviewees display rather polarising reactions, from the very positive down to the quite negative. Most people find it either unimportant or consider it a small to substantial advantage that solar PV modules are clearly visible objects on properties or houses. Roughly equally split between (very or a little) positive and negative are respondents with regards to the fact that, in the case of individual ownership, the owner is responsible for the functioning and maintenance of the solar modules, which involves installing the device, regular cleaning, and small repairs. It is viewed as a limited disadvantage that solar PV is an intermittent energy source, meaning that storage of energy and balancing power sources are required in order to guarantee electricity availability at all times, and that domestic solar PV systems require initial investment costs, but there is very much variation in the responses to these statements. All respondents express negative thoughts about the fact that storage options for solar PV are expensive, so that electricity access in the evening and night can be unreliable when no other energy sources are used. This is on average considered a substantial disadvantage: among the thirteen statements on PV presented to the people interrogated, this one raises the most negative reactions.</p>
+         <p>For geothermal energy, Figure <xref ref-type="fig" rid="Fig3">3</xref> illustrates that three characteristics are generally considered big advantages. First, geothermal energy could provide for a large share of Kenya’s total electricity supply. Second, Kenya provides a suitable environment for geothermal energy, as it possesses many potential geothermal energy sites. Third, in Kenya geothermal technologies provide one of the cheapest options to produce energy, the running costs (but not the investment costs) of which are perhaps comparable to electricity generated with hydropower dams. Also, typically big advantages are observations that examples are known of combining geothermal power production with touristic attractions such as hot springs. Likewise, that the level of greenhouse gas emissions associated with geothermal energy is rather low. And similarly that an increase in the use of geothermal electricity could create jobs at the power plants and through the installation of transmission lines, although some view these as only small or limited advantages. The fact that the spatial usage of geothermal installations is relatively small, with current geothermal plants occupying approximately 1 km<inline-formula>
+               <mml:math id="S4.p3.m1"
+                         alttext="{}^{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> per plant, is by most interviewees considered a small to substantial advantage, but some other view it as a drawback. Two issues that splits people roughly equally between positive and negative reactions are phrases stating that geothermal energy installations are visible in the landscape, such as the Olkaria II plant in Naivasha, and that in contrast to off-grid options, an increase in geothermal electricity production requires an expansion of the transmission network. The facts that seismological activity may occur in association with the use of geothermal energy, and that, in comparison to other renewable energy sources, geothermal energy plants require a relatively large amount of water resources used for cooling purposes, are on average considered substantial disadvantages. Big disadvantages are statements explaining that emissions of sulphur dioxide from geothermal energy production could potentially impact the surrounding environment, that geothermal power plants could potentially lead to fresh water reservoir contamination, and that installing geothermal energy plants might involve relocation of community land. With regard to each of these three observations, however, some respondents only possess small to limited negative thoughts.</p>
+         <p>From Figures <xref ref-type="fig" rid="Fig1">1</xref>, <xref ref-type="fig" rid="Fig2">2</xref>, and <xref ref-type="fig" rid="Fig3">3</xref> some clear overall tendencies can be observed. First, for some statements the reactions are rather homogeneous, whether negative or positive, with narrow uncertainty ranges around clear-cut central values that leave little doubt with respect to what most respondents typically think on the matter. Second, for some other questions the views are quite heterogeneous with (nearly) any possible answer provided, down from the clearly negative up to the positive. Third, for yet some other observations—for instance on the likelihood that wind turbines may generate inconveniences like noise and shadows—a non-negligible number of interviewees surprisingly respond with positive views, which begs the question whether the statements regarding these negative impacts were well expressed and/or understood.</p>
+         <p>We are well aware of the fact that the reaction distributions we retrieved could well have been different if other sets of respondents had been chosen, for example with more people from other parts of the country, with different educational backgrounds, or with different levels of pre-existing knowledge about renewable energy technologies. Likewise, reactions may be subject to temporal developments and change over time, either because facts-on-the-ground change (such as the costs of technologies like PV modules, or unexpected benefits or drawbacks that emerge from the deployment of specific energy options) or because the people using, operating, or experiencing renewable energy technologies modify their attitudes towards them (<italic>e.g.</italic> when accepting certain inconveniences of intermittent renewables against growing local impacts from climate change). These phenomena generate variations and uncertainties that are inherent to our methodology. Their detailed assessment falls beyond the scope of this study.</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label>
+                Figure 1</label>
+            <caption>
+               <title>Views on wind energy by Kenyan (semi-)experts. In the boxplots the median is represented by a red line, the first and third quartiles form the edges of the box and the whiskers extend from the hinges of the box to the 5<inline-formula>
+                     <mml:math id="S4.F1.m3"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> and 95<inline-formula>
+                     <mml:math id="S4.F1.m4"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> percentiles.</title>
+            </caption>
+            <graphic xlink:href="figure1.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="Fig2" position="float" orientation="portrait">
+            <label>
+                Figure 2</label>
+            <caption>
+               <title>Views on PV by Kenyan (semi-)experts. In the boxplots the median is represented by a red line, the first and third quartiles form the edges of the box and the whiskers extend from the hinges of the box to the 5<inline-formula>
+                     <mml:math id="S4.F2.m3"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> and 95<inline-formula>
+                     <mml:math id="S4.F2.m4"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> percentiles.</title>
+            </caption>
+            <graphic xlink:href="figure2.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+         <fig id="Fig3" position="float" orientation="portrait">
+            <label>
+                Figure 3</label>
+            <caption>
+               <title>Views on geothermal energy by Kenyan (semi-)experts. In the boxplots the median is represented by a red line, the first and third quartiles form the edges of the box and the whiskers extend from the hinges of the box to the 5<inline-formula>
+                     <mml:math id="S4.F3.m3"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> and 95<inline-formula>
+                     <mml:math id="S4.F3.m4"
+                               alttext="{}^{th}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>t</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>h</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> percentiles.</title>
+            </caption>
+            <graphic xlink:href="figure3.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+      </sec>
+      <sec id="s5">
+         <title>5.- Discussion</title>
+         <p>Several generic observations can be made with regards to the results shown in Figures <xref ref-type="fig" rid="Fig1">1</xref>, <xref ref-type="fig" rid="Fig2">2</xref>, and <xref ref-type="fig" rid="Fig3">3</xref> for wind, solar PV, and geothermal energy, respectively. For wind energy, two topics seem predominant in determining the public opinion of local (semi-)experts: its price with regards to its (renewable) competitors and its land use implications. According to respondents, it is clearly important whether or not wind electricity is cheaper than that from PV or geothermal plants. For the Kenyans in our sample it appears also very relevant that wind turbine parks may exclude certain types of land use, such as for residential or commercial purposes, while permitting certain others like agricultural activity. Clear benefits are attached to a variety of socio-economic and environmental features of wind turbines, such as the creation of employment, infrastructure, energy independence, and the preclusion of GHG emissions. Some of the inconveniences of wind turbines, including visibility, noise and shadow effects, draw mixed reactions, as is the case in those developed countries that at present deploy large wind energy development programmes.</p>
+         <p>The largest perceived benefits of solar PV are resource or infrastructure related: the fact that Kenya has an enormous solar energy resource potential and that household PV panel systems preclude the need for large power grid expansions, while still permitting universal electricity access, are clearly viewed as one of PV’s largest assets. Like with wind power, predominant other factors relate to prices and land-use. The fact that domestic PV panel usage requires expensive storage devices to compensate for PV’s intermittency is seen as one of this option’s main disadvantages, while among its great advantages is that PV (up to a certain size) can be installed on roofs of houses and private or public buildings, thereby not yielding competition with other types of land-use (at a bigger scale, large arrays of PV panels would need to be constructed on the ground, but crops can sometimes be grown underneath them). Socio-economic and environmental arguments related to employment generation and reduction of GHG emissions also generally work much in favour of PV. Issues of visibility of PV panels and needs for cleaning, maintenance, repairs and associated training are received with mixed reactions.</p>
+         <p>The fact that one could exploit Kenya’s unique geothermal energy resources and that these could provide for a large share of the national power and heat requirements draws universally favourable attitudes from the public. Similarly to wind energy and solar PV, there are a few key characteristics affecting the acceptance of geothermal energy, particularly costs and land-use requirements. The geological conditions in Kenya yielding likely low energy service costs is clearly viewed among geothermal energy’s largest benefits. The same holds for the fact that geothermal energy plants occupy little land, but on the downside is the possibility of some communities needing to be relocated, which yields sizeable potential for public resistance. Socio-economic and environmental benefits of geothermal energy associated with job creation, development of tourism, and mitigation of climate change clearly contribute to the positive view that respondents hold on geothermal energy. Issues of visibility of installations and need of grid expansion divide people into roughly equal groups of supportive respectively unfavourable attitudes. Awareness of fresh water usage and/or contamination, as well as possibly other types of environmental pollution and seismic activity, provokes sizeable criticism.</p>
+         <p>Figure <xref ref-type="fig" rid="Fig4">4</xref> shows that overall all three renewable energy technologies receive a positive rating, and that statistically one cannot distinguish or rank them. There is only a hint towards PV being slightly preferable above wind and geothermal energy. No firm conclusion can be drawn either about the effect of informing the respondents with more detail about the possible consequences of the deployment of these technologies. The graph suggests a potential tendency that the favourable opinions about wind energy and solar PV become more assured once more information is provided, given the narrowing of the 1<inline-formula>
+               <mml:math id="S5.p4.m1"
+                         alttext="{}^{st}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>s</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>t</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> and 3<inline-formula>
+               <mml:math id="S5.p4.m2"
+                         alttext="{}^{rd}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mi>r</mml:mi>
+                        <mml:mo>⁢</mml:mo>
+                        <mml:mi>d</mml:mi>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> quartile ranges. Meanwhile, geothermal energy may be viewed slightly less approvingly if some of its potential drawbacks are revealed. Yet both these observations remain unproven as a result of the statistical, and potentially also systematic, uncertainty margins of our public opinion tests. One of the drawbacks of our study is the relatively small size of our sample of respondents. A larger sample would yield statistically more meaningful results, which could confirm or disprove the trends we observe here.</p>
+         <fig id="Fig4" position="float" orientation="portrait">
+            <label>
+                Figure 4</label>
+            <caption>
+               <title>Overall evaluation of wind, PV, and geothermal energy in Kenya: uninformed versus informed (median – round marker, 1<inline-formula>
+                     <mml:math id="S5.F4.m3"
+                               alttext="{}^{st}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>s</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>t</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> quartile – lower bar, and 3<inline-formula>
+                     <mml:math id="S5.F4.m4"
+                               alttext="{}^{rd}"
+                               display="inline"
+                               overflow="scroll">
+                        <mml:msup>
+                           <mml:mi/>
+                           <mml:mrow>
+                              <mml:mi>r</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>d</mml:mi>
+                           </mml:mrow>
+                        </mml:msup>
+                     </mml:math>
+                  </inline-formula> quartile – upper bar).</title>
+            </caption>
+            <graphic xlink:href="figure4.png"
+                     position="float"
+                     orientation="portrait"
+                     xlink:type="simple"/>
+         </fig>
+      </sec>
+      <sec id="s6">
+         <title>6.- Conclusions and policy recommendations</title>
+         <p>In this paper we have demonstrated that, for a group of relatively expert Kenyan nationals consisting mostly of well-educated men, public acceptance in Kenya of three renewable energy options—wind, PV, and geothermal—is generally high. Substantial resource potential exists for all these renewable energy alternatives. Scenario analysis such as by Dalla Longa and van der Zwaan (2017) [<xref ref-type="bibr" rid="R30">30</xref>] has pointed out that from an economic point of view it appears sensible to employ these renewables in efforts by the Kenyan government to reach its nationally determined commitment under the Paris Agreement. Here we complement their cost-optimality study with evidence that, from a public opinion perspective, it also seems feasible, and even desirable, to implement wind, solar PV, and geothermal technologies in order to meet Kenya’s national contribution to limit global climate change to 2<inline-formula>
+               <mml:math id="S6.p1.m1"
+                         alttext="{}^{\circ}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mo>∘</mml:mo>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>C.</p>
+         <p>Clear appreciation exists among the respondents in our study of Kenya’s large resource potentials for wind, PV and geothermal energy. The price for the delivered energy services is one of the main points of public concern, which contributes to determining their relative ranking, as well as their score with respect to other, notably fossil fuel-based, energy options. Availability of cheap fossil fuels thus constitutes a threat for the deployment of renewables. From a cost perspective, geothermal power may currently be the most attractive renewable energy alternative in Kenya, but if the right locations are chosen with optimal wind conditions, wind energy could be at the competitive edge. PV could deliver access to electricity in those regions with sub-optimal wind or geothermal resources, notably when its impressive cost reductions over the past years continue to yield price decreases in the future. Land-use requirements constitute another important factor in shaping people’s opinions about renewable energy options. PV appears the forerunner in this respect, readily followed by geothermal energy, while wind power may be favourable in this regard if its areal needs can be synergized with simultaneous land-use for other purposes, such as agriculture.</p>
+         <p>Regarding the value interviewees associate with infrastructural prerequisites, PV appears preferential over wind and geothermal energy because of the absence of electricity grid expansion for many PV applications, notably those at individual homes. The infrastructure needs of wind and geothermal energy—<italic>e.g.</italic> road construction around the facilities—are often considered a public co-benefit that can serve other purposes as well. The broader socio-economic and environmental sustainability arguments in favour of wind, PV, and geothermal energy clearly contribute to explaining their popularity as well.
+</p>
+         <p>Yet governments, when designing policies stimulating the deployment and use of these promising renewable energy options, should be aware of a broad range of possible inconveniences associated with them, for example in terms of possible emissions of certain types of pollutants or other forms of environmental degradation or personal nuisance. Policy makers and stakeholders could try to better understand and anticipate these potential negative impacts in view of the importance of public acceptance for large-scale renewable energy deployment. The Kenyan government could address matters of local acceptance by engaging with the public in early stages of renewable energy planning and deployment, for instance through surveys like the one we used for the present study. In this way, more robust design of policies and institutions could help to overcome some of the obstacles that have impeded rapid diffusion of specific renewable energy options in other countries. With this paper we have made a start with gauging the public opinion regarding renewable energy deployment in Kenya. Further work should certainly be undertaken in this respect, for example in terms of the particular importance and sensitivity of land use issues for human livelihoods in Kenya, as well as the thus far poorly investigated impacts of renewable energy technologies on natural habitats for various species (e.g. birds, notably in relation to geothermal energy).</p>
+      </sec>
+      <sec id="s7">
+         <title>7.- Acknowledgments</title>
+         <p>The research that allowed the publication of this paper has been produced with the financial assistance of the European Commission in the context of the TRANSRISK project (Horizon 2020 research and innovation programme, grant agreement No. 642260). The contents of this publication are the sole responsibility of the authors and can in no way be taken to reflect the views of the European Union. The authors would like to acknowledge the feedback received from their TRANSRISK partners, as well as the valuable suggestions by James Rawlins and the research support from two SEI interns who helped during the TRANSRISK expert meeting held in Nairobi in February 2017 that generated much of the information reported in this article. We also thank the anonymous reviewers for their feedback that substantially improved the quality of this paper.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="R1">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>UN. Transforming Our World: The 2030 Agenda for Sustainable Development</article-title>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R2">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Working Group III Contribution to the Fifth Assessment Report (AR5), Intergovernmental Panel on Climate Change</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IPCC</surname>
+                  </name>
+               </person-group>
+               <year>2014</year>
+            </element-citation>
+         </ref>
+         <ref id="R3">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Katye E., Altieri</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hilton</surname>
+                     <given-names>Trollip</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Tara</surname>
+                     <given-names>Caetano</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alison</surname>
+                     <given-names>Hughes</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bruno</surname>
+                     <given-names>Merven</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Harald</surname>
+                     <given-names>Winkler</given-names>
+                  </name>
+               </person-group>
+               <article-title>Achieving Development and Mitigation Objectives through a Decarbonization Development Pathway in South Africa</article-title>
+               <source>Climate Policy</source>
+               <volume>16</volume>
+               <issue>sup1</issue>
+               <fpage>78</fpage>
+               <fpage>91</fpage>
+               <year>2016</year>
+               <publisher-name>Taylor &amp; Francis</publisher-name>
+               <pub-id pub-id-type="doi">10.1080/14693062.2016.1150250</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R4">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Taliotis</surname>
+                     <given-names>Constantinos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Shivakumar</surname>
+                     <given-names>Abhishek</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramos</surname>
+                     <given-names>Eunice</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Howells</surname>
+                     <given-names>Mark</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mentis</surname>
+                     <given-names>Dimitris</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sridharan</surname>
+                     <given-names>Vignesh</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Broad</surname>
+                     <given-names>Oliver</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>An Indicative Analysis of Investment Opportunities in the African Electricity Supply Sector - Using TEMBA (The Electricity Model Base for Africa)</article-title>
+               <volume>31</volume>
+               <source>Energy for Sustainable Development</source>
+               <pub-id pub-id-type="doi">10.1016/j.esd.2015.12.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R5">
+            <element-citation publication-type="report" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lucas</surname>
+                     <given-names>P.L.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dagnachew</surname>
+                     <given-names>A.G.and Hof, A.F.</given-names>
+                  </name>
+               </person-group>
+               <publisher-name>PBL Netherlands Environmental Assessment Agency</publisher-name>
+               <article-title>Towards Universal Electricity Access in Sub-Saharan Africa: A Quantitative Analysis of Technology and Investment Requirements</article-title>
+               <comment>1952</comment>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2017-towards-universal-electricity-access-in-sub-saharan-africa-1952.pdf"
+                         xlink:type="simple">https://www.pbl.nl/sites/default/files/cms/publicaties/pbl-2017-towards-universal-electricity-access-in-sub-saharan-africa-1952.pdf</ext-link>
+               <year>2017</year>
+            </element-citation>
+         </ref>
+         <ref id="R6">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>van der Zwaan, Bob</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kober</surname>
+                     <given-names>Tom</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Longa</surname>
+                     <given-names>Francesco Dalla</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Laan, Anouk</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Jan Kramer, Gert</surname>
+                  </name>
+               </person-group>
+               <article-title>An Integrated Assessment of Pathways for Low-carbon Development in Africa</article-title>
+               <source>Energy Policy</source>
+               <year>2018</year>
+               <volume>117</volume>
+               <issue>C</issue>
+               <fpage>387</fpage>
+               <lpage>395</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2018.03.0</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R7">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Best-Waldhober, Marjolein</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daamen</surname>
+                     <given-names>Dancker</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faaij</surname>
+                     <given-names>André</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>322</fpage>
+               <lpage>332</lpage>
+               <article-title>Informed and Uninformed Public Opinions on CO2 Capture and Storage Technologies in the Netherlands</article-title>
+               <source>International Journal of Greenhouse Gas Control</source>
+               <pub-id pub-id-type="doi">10.1016/j.ijggc.2008.09.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R8">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Baker</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bosetti</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Diaz Anadon, L.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Henrion</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Aleluia Reis, L.</surname>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://ssrn.com/abstract=2608004"
+                         xlink:type="simple">https://ssrn.com/abstract=2608004</ext-link>
+               <source>Energy Policy</source>
+               <issue>45</issue>
+               <fpage>219</fpage>
+               <lpage>232</lpage>
+               <publisher-name>FEEM Working Paper</publisher-name>
+               <article-title>Future Costs of Key Low-Carbon Energy Technologies: Harmonization and Aggregation of Energy Technology Expert Elicitation Data</article-title>
+               <volume>80</volume>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R9">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Camblong</surname>
+                     <given-names>Haritza</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sarr</surname>
+                     <given-names>Joseph</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Niang</surname>
+                     <given-names>A.T.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Curea</surname>
+                     <given-names>Octavian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alzola</surname>
+                     <given-names>J.A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sylla</surname>
+                     <given-names>E.H.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Santos-Mugica, M</surname>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>2141</fpage>
+               <lpage>2150</lpage>
+               <article-title>Micro-grids Project, Part 1: Analysis of Rural Electrification with High Content of Renewable Energy Sources in Senegal</article-title>
+               <volume>34</volume>
+               <source>Renewable Energy</source>
+               <pub-id pub-id-type="doi">10.1016/j.renene.2009.01.015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R10">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wetang'ula, G.N.</surname>
+                  </name>
+               </person-group>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.geothermal-energy.org/pdf/IGAstandard/WGC/2010/0208.pdf"
+                         xlink:type="simple">https://www.geothermal-energy.org/pdf/IGAstandard/WGC/2010/0208.pdf</ext-link>
+               <source>Paper presented at Proceedings World Geothermal Congress</source>
+               <fpage>1</fpage>
+               <lpage>11</lpage>
+               <article-title>Public Participation in Environmental and Socioeconomic Considerations for Proposed 2.5 MW Pilot Eburru Power Project, Kenya</article-title>
+               <year>2010</year>
+            </element-citation>
+         </ref>
+         <ref id="R11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ondraczek</surname>
+                     <given-names>Janosch</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>407</fpage>
+               <lpage>417</lpage>
+               <article-title>The Sun Rises in the East (of Africa): A Comparison of the Development and Status of the Solar Energy Markets in Kenya and Tanzania</article-title>
+               <volume>56</volume>
+               <source>Energy Policy</source>
+               <pub-id pub-id-type="doi">10.2139/ssrn.2157494</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R12">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Bouzidi</surname>
+                     <given-names>B</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <fpage>4436</fpage>
+               <lpage>4442</lpage>
+               <article-title>Viability of Solar or Wind for Water Pumping Systems in the Algerian Sahara Regions - Case Study Adrar</article-title>
+               <volume>15</volume>
+               <issue>9</issue>
+               <source>Renewable &amp; Sustainable Energy Reviews - RENEW SUSTAIN ENERGY REV</source>
+               <pub-id pub-id-type="doi">10.1016/j.rser.2011.07.108</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Community Acceptance of Large-scale Solar Energy Installations in Developing Countries: Evidence from Morocco</article-title>
+               <source>Energy Research &amp; Social Science</source>
+               <volume>14</volume>
+               <fpage>80</fpage>
+               <lpage>89</lpage>
+               <year>2016</year>
+               <issn>2214-6296</issn>
+               <pub-id pub-id-type="doi">10.1016/j.erss.2016.01.010</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Susanne Hanger</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nadejda Komendantova</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boris Schinke</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Driss Zejli</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ahmed Ihlal</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anthony Patt</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R14">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Paris Agreement, United Nations Framework Convention on Climate Change</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>COP-21</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Conference of the Parties 21</publisher-name>
+               <year>2015</year>
+            </element-citation>
+         </ref>
+         <ref id="R15">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Kenya's Intended Nationally Determined Contribution (INDC)</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Kenya%20First/Kenya_NDC_20150723.pdf</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>GoK</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Government of Kenya</publisher-name>
+               <year>2015a</year>
+            </element-citation>
+         </ref>
+         <ref id="R16">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Second National Communication to the United Nations Framework Convention On Climate Change</article-title>
+               <comment>Available from:
+            <uri xlink:type="simple">https://unfccc.int/resource/docs/natc/kennc2.pdf</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>GoK</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Government of Kenya</publisher-name>
+               <year>2015b</year>
+            </element-citation>
+         </ref>
+         <ref id="R17">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Updated Least Cost Power Development Plan</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>GoK</surname>
+                  </name>
+               </person-group>
+               <publisher-name>Government of Kenya</publisher-name>
+               <year>2011</year>
+            </element-citation>
+         </ref>
+         <ref id="R18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The Kenya Power and Lighting Company Limited, Annual Report and Financial Statements 2015/2016</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>KP</surname>
+                  </name>
+               </person-group>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R19">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Kenya Vision 2030</article-title>
+               <publisher-name>Government of Kenya</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">https://vision2030.go.ke/</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>GoK</surname>
+                  </name>
+               </person-group>
+               <year>2007</year>
+            </element-citation>
+         </ref>
+         <ref id="R20">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>National Climate Change Action Plan</article-title>
+               <publisher-name>Government of Kenya</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>GoK</surname>
+                  </name>
+               </person-group>
+               <year>2013</year>
+            </element-citation>
+         </ref>
+         <ref id="R21">
+            <element-citation publication-type="webpage" xlink:type="simple">
+               <article-title>Kenya Country Profile</article-title>
+               <publisher-name>International Renewable Energy Agency</publisher-name>
+               <comment>Available from:
+            <uri xlink:type="simple">http://resourceirena.irena.org/gateway/countrySearch/?countryCode=KEN</uri>.
+        </comment>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>IRENA</surname>
+                  </name>
+               </person-group>
+               <year>2016</year>
+            </element-citation>
+         </ref>
+         <ref id="R22">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Wind Energy Development in Kenya - A review</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ogana</surname>
+                     <given-names>Wandera</given-names>
+                  </name>
+               </person-group>
+               <source>Solar &amp; Wind Technology</source>
+               <volume>4</volume>
+               <issue>3</issue>
+               <fpage>291</fpage>
+               <lpage>303</lpage>
+               <year>1987</year>
+               <issn>0741-983X</issn>
+               <pub-id pub-id-type="doi">10.1016/0741-983X(87)90060-9</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Quiet (Energy) Revolution: Analysing the Dissemination of Photovoltaic Power Systems in Kenya</article-title>
+               <source>Energy Policy</source>
+               <volume>24</volume>
+               <issue>1</issue>
+               <fpage>81</fpage>
+               <lpage>111</lpage>
+               <year>1996</year>
+               <issn>0301-4215</issn>
+               <pub-id pub-id-type="doi">10.1016/0301-4215(95)00112-3</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Richard H Acker</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daniel M Kammen</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rabah</surname>
+                     <given-names>Kefa</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <fpage>23</fpage>
+               <lpage>42</lpage>
+               <article-title>Integrated Solar Energy System for Rural Electrification in Kenya</article-title>
+               <volume>30</volume>
+               <source>Renewable Energy</source>
+               <pub-id pub-id-type="doi">10.1016/j.renene.2004.04.011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Impact of Large-scale Renewable Energy Development on the Poor: Environmental and Socio-Economic Impact of a Geothermal Power Plant on a Poor Rural Community in Kenya</article-title>
+               <source>Energy Policy</source>
+               <volume>30</volume>
+               <issue>11</issue>
+               <fpage>1119</fpage>
+               <lpage>1128</lpage>
+               <year>2002</year>
+               <issn>0301-4215</issn>
+               <pub-id pub-id-type="doi">10.1016/S0301-4215(02)00063-0</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Mariita</surname>
+                     <given-names>Nicholas O. </given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sesan</surname>
+                     <given-names>Temilade</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <fpage>202</fpage>
+               <lpage>210</lpage>
+               <article-title>Navigating the Limitations of Energy Poverty: Lessons from the Promotion of Improved Cooking Technologies in Kenya</article-title>
+               <volume>47</volume>
+               <source>Energy Policy</source>
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2012.04.058</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R27">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Yadoo</surname>
+                     <given-names>Annabel</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cruickshank</surname>
+                     <given-names>Heather</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <fpage>591</fpage>
+               <lpage>602</lpage>
+               <article-title>The Role for Low Carbon Electrification Technologies in Poverty Reduction and Climate Change Strategies: A Focus on Renewable Energy Mini-grids with Case Studies in Nepal, Peru and Kenya</article-title>
+               <volume>42</volume>
+               <source>Energy Policy</source>
+               <pub-id pub-id-type="doi">10.1016/j.enpol.2011.12.029</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R28">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sanoh</surname>
+                     <given-names>Aly</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kocaman</surname>
+                     <given-names>Ayse</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Kocal</surname>
+                     <given-names>Selcuk</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sherpa</surname>
+                     <given-names>Shaky</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Modi</surname>
+                     <given-names>Vijay</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <fpage>598</fpage>
+               <lpage>609</lpage>
+               <article-title>The Economics of Clean Energy Resource Development and Grid Interconnection in Africa</article-title>
+               <volume>62</volume>
+               <source>Renewable Energy</source>
+               <pub-id pub-id-type="doi">10.1016/j.renene.2013.08.017</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R29">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Pueyo</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bawakyillenuo</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Osiolo</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Cost and Returns of Renewable Energy in Sub-Saharan Africa: A Comparison of Kenya and Ghana</article-title>
+               <source>IDS Evidence Report 190</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ids.ac.uk/publications/cost-and-returns-of-renewable-energy-in-sub-saharan-africa-a-comparison-of-kenya-and-ghana/"
+                         xlink:type="simple">https://www.ids.ac.uk/publications/cost-and-returns-of-renewable-energy-in-sub-saharan-africa-a-comparison-of-kenya-and-ghana/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R30">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dalla Longa, Francesco</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zwaan, Bob</surname>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Do Kenya's Climate Change Mitigation Ambitions Necessitate Large-Scale Renewable Energy Deployment?</article-title>
+               <volume>113</volume>
+               <source>Renewable Energy</source>
+               <pub-id pub-id-type="doi">10.1016/j.renene.2017.06.026</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>SEI</surname>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Energy Pathways for Achieving Kenya's Nationally Determined Contribution to Global Efforts to Mitigate Climate Change</article-title>
+               <source>Discussion Brief, Stockholm Environment Institute</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://europa.eu/capacity4dev/public-energy/documents/energy-pathways-achieving-kenyas-nationally-determined-contribution-global-efforts"
+                         xlink:type="simple">https://europa.eu/capacity4dev/public-energy/documents/energy-pathways-achieving-kenyas-nationally-determined-contribution-global-efforts</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="R32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Van der Salm, A. C.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>van Knippenberg, Daan</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>D.L. Daamen, Dancker</surname>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <fpage>193</fpage>
+               <lpage>197</lpage>
+               <article-title>A Critical Test of the Choice Questionnaire for Collecting Informed Public Opinions</article-title>
+               <volume>31</volume>
+               <source>Quality &amp; Quantity: International Journal of Methodology</source>
+               <pub-id pub-id-type="doi">10.1023/A:1004214500745</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R33">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Best-Waldhober, Marjolein</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daamen</surname>
+                     <given-names>Dancker</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ramírez</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faaij</surname>
+                     <given-names>André</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hendriks</surname>
+                     <given-names>Chris</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Visser</surname>
+                     <given-names>Erika</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <fpage>169</fpage>
+               <lpage>180</lpage>
+               <article-title>Informed Public Opinion in the Netherlands: Evaluation of CO$_2$ Capture and Storage Technologies in Comparison with other CO$_2$ Mitigation Options</article-title>
+               <volume>10</volume>
+               <source>International Journal of Greenhouse Gas Control</source>
+               <pub-id pub-id-type="doi">10.1016/j.ijggc.2012.05.023</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Best-Waldhober, Marjolein</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daamen</surname>
+                     <given-names>Dancker</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Faaij</surname>
+                     <given-names>André</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <fpage>322</fpage>
+               <lpage>332</lpage>
+               <article-title>Informed and Uninformed Public Opinions on CO$_2$ Capture and Storage Technologies in the Netherlands</article-title>
+               <source>International Journal of Greenhouse Gas Control</source>
+               <pub-id pub-id-type="doi">10.1016/j.ijggc.2008.09.001</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Malone</surname>
+                     <given-names>Elizabeth</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dooley</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bradbury</surname>
+                     <given-names>Judith</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <fpage>419</fpage>
+               <lpage>425</lpage>
+               <article-title>Moving from Misinformation Derived from Public Attitude Surveys on Carbon Dioxide capture and Storage towards Realistic Stakeholder Involvement</article-title>
+               <volume>4</volume>
+               <source>International Journal of Greenhouse Gas Control</source>
+               <pub-id pub-id-type="doi">10.1016/j.ijggc.2009.09.004</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="R36">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Scrutinizing the Impact of CCS Communication on Opinion Quality: Focus Group Discussions versus Information-Choice Questionnaires: Results from Experimental Research in Six Countries</article-title>
+               <source>Energy Procedia</source>
+               <volume>4</volume>
+               <fpage>6182</fpage>
+               <lpage>6187</lpage>
+               <year>2011</year>
+               <issn>1876-6102</issn>
+               <pub-id pub-id-type="doi">10.1016/j.egypro.2011.02.629</pub-id>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dancker D.L. Daamen</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bart W. Terwel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Emma ter Mors</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>David M. Reiner</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Diana Schumann</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sorin Anghel</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ioanna Boulouta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Diana M. Cismaru</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carmencita Constantin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chris C.H. de Jager</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alexandra Dudu</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rebecca M. Firth</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Vassiliki Gemeni</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chris Hendriks</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nikolaos Koukouzas</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Angelos Markos</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Robert Næss</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Oana C. Nihfidov</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Katja Pietzner</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Irene R. Samoila</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Constantin S. Sava</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mike H. Stephenson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Claudia E. Tomescu</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hans Y. Torvatn</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sturle D. Tvedt</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Daniel Vallentin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Julia M. West</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fotini Ziogou</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="R37">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>ter Mors, Emma</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Terwel</surname>
+                     <given-names>Bart</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>D.L. Daamen, Dancker</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Reiner</surname>
+                     <given-names>David</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schumann</surname>
+                     <given-names>Diana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Anghel</surname>
+                     <given-names>Sorin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Boulouta</surname>
+                     <given-names>Ioanna</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Cismaru</surname>
+                     <given-names>Diana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Constantin</surname>
+                     <given-names>Carmencita</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>C.H. de Jager, Chris</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dudu</surname>
+                     <given-names>Alexandra</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Esken</surname>
+                     <given-names>Andrea</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>C. Falup, Oana</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Firth</surname>
+                     <given-names>Rebecca</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Gemeni</surname>
+                     <given-names>V</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hendriks</surname>
+                     <given-names>Chris</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ivan</surname>
+                     <given-names>Loredana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Koukouzas</surname>
+                     <given-names>Nikolaos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Markos</surname>
+                     <given-names>Angelos</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Ziogou</surname>
+                     <given-names>Fotini</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <fpage>256</fpage>
+               <lpage>263</lpage>
+               <article-title>A Comparison of Techniques Used to Collect Informed Public Opinions about CCS: Opinion Quality after Focus Group Discussions versus Information-Choice Questionnaires</article-title>
+               <volume>18</volume>
+               <source>International Journal of Greenhouse Gas Control</source>
+               <pub-id pub-id-type="doi">10.1016/j.ijggc.2013.07.015</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

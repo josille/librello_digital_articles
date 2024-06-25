@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "https://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         article-type="research-article"
+         dtd-version="3.0"
+         xml:lang="en">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="nlm-ta">cis</journal-id>
+         <journal-title-group>
+            <journal-title xml:lang="en">Challenges in Sustainability</journal-title>
+         </journal-title-group>
+         <issn pub-type="ppub">2297-6477</issn>
+         <publisher>
+            <publisher-name>Librello</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.12924/cis2013.01020094</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research Article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Carbon Intensities of Economies from the Perspective of Learning Curves</article-title>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Pacini</surname>
+                  <given-names>Henrique</given-names>
+               </name>
+               <xref ref-type="aff" rid="A1">*</xref>
+               <xref ref-type="aff" rid="A2">1</xref>
+               <xref ref-type="aff" rid="A3">2</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Silveira</surname>
+                  <given-names>Semida</given-names>
+               </name>
+               <xref ref-type="aff" rid="A2">1</xref>
+            </contrib>
+         </contrib-group>
+         <aff id="A1">
+            <label>*</label>Corresponding author</aff>
+         <aff id="A2">
+            <label>1</label>Royal Institute of Technology (KTH), Sweden</aff>
+         <aff id="A3">
+            <label>2</label>United Nations Conference on Trade and Development, Switzerland</aff>
+         <pub-date pub-type="ppub">
+            <day>26</day>
+            <month>03</month>
+            <year>2014</year>
+         </pub-date>
+         <volume>1</volume>
+         <issue>2</issue>
+         <fpage>94</fpage>
+         <lpage>103</lpage>
+         <permissions>
+            <copyright-year>2005</copyright-year>
+         </permissions>
+         <abstract>
+            <p>While some countries have achieved considerable development, many others still lack accessto the goods and services considered standard in the modern society. As CO2 emissions and development are often correlated, this paper employs the theoretical background of the Environmental Kuznets Curve (EKC) and the learning curves toolkit to analyze how carbon intensities have changed as countries move towards higher development (and cumulative wealth) levels. The EKC concept is then tested with the methodology of learning curves for the period between 1971 and 2010, so as to capture a dynamic picture of emissions trends and development. Results of both analyses reveal that empirical data fails to provide direct evidence of an EKC for emissions and development. The data does show, however, an interesting pattern in the dispersion of emissions levels for countries within the same HDI categories. While data does not show that countries grow more polluting during intermediary development stages, it does provide evidence that countries become more heterogeneous in their emission intensities as they develop, later re-converging to lower emission intensities at higher HDI levels. Learning rates also indicate heterogeneity among developing countries and relative convergence among developed countries. Given the heterogeneity of development paths among countries, the experiences of those which are managing to develop at low carbon intensities can prove valuable examples for ongoing efforts in climate change mitigation, especially in the developing world.</p>
+         </abstract>
+         <kwd-group>
+            <kwd>carbon emissions</kwd>
+            <kwd>development</kwd>
+            <kwd>EKC</kwd>
+            <kwd>learning curves</kwd>
+         </kwd-group>
+      </article-meta>
+   </front>
+   <body>
+      <sec id="s1">
+         <title>1.- Introduction</title>
+         <p>Higher income levels have been traditionally correlated with increased energy consumption and higher carbon emissions in industrialized and developing countries alike. As climate change awareness grew during the 2000s, interest in using alternative, renewable energy sources in order to reduce dependence on fossil hydrocarbons rose.</p>
+         <p>While efforts have been made to de-link energy from carbon emissions, the bulk of energy production in the world continues to be linked to carbon-emitting sources [<xref ref-type="bibr" rid="REF01">1</xref>, <xref ref-type="bibr" rid="REF02">2</xref>]. As initially presented by Kaya [<xref ref-type="bibr" rid="REF03">3</xref>], the enduring prevalence of fossil fuels in the global energy mix binds together economic activity, energy usage and carbon emissions which continue exacerbating the risks for climate change. The problem is compounded since international negotiations towards a more widely-reaching climate agreement than Kyoto have been beset by slow progress, particularly in the last COP meetings in Copenhagen, Cancun, Durban, Doha and Warsaw [<xref ref-type="bibr" rid="REF04">4</xref>, <xref ref-type="bibr" rid="REF05">5</xref>]. In an escalating blame-game, countries criticize each other for being lax in their pollution (and emissions) controls, with some even threatening to retaliate in international trade—in the absence of better multilateral solutions—with the introduction of border carbon adjustments or similar mechanisms [<xref ref-type="bibr" rid="REF06">6</xref>].</p>
+         <p>As of 2013, countries differ not only in their level of development, but also in terms of their share of renewable energy, the energy and carbon intensities of their economies, and policies applied to enhance environmental protection and sustainability. Stepping aside from the debate around international climate negotiations, one of the key environmental issues—CO<inline-formula>
+               <mml:math id="S3.p3.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> emissions in the atmosphere due to energy production—profits from good available statistics which allow it to be measured and correlated with macroeconomic indicators.</p>
+         <p>While the correlation between economic growth and carbon emissions is nothing new to environmental practitioners, this paper contributes to the international emissions debate by examining the carbon intensities of the major global economies employing the alternative optic of learning curves. While traditionally used to assess cost reductions as specific technologies are adopted, learning curves can also be used in socio-economic fields, such as examining the evolution of labour intensities of GDP through time [<xref ref-type="bibr" rid="REF07">7</xref>, <xref ref-type="bibr" rid="REF08">8</xref>]. Based on data from IEA [<xref ref-type="bibr" rid="REF09">9</xref>], this paper uses economic performance and CO<inline-formula>
+               <mml:math id="S3.p4.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> emission statistics to look at countries as if they were industries which would be expected to reduce their carbon intensities throughout time. Specifically, the paper estimates how fast major economic regions, as well as the world as a whole, have reduced emissions based on cumulative economic output between 1971 and 2010. This examination is followed by a discussion of the possible reasons behind the different learning rates for reduction of carbon intensities found for different world regions.</p>
+      </sec>
+      <sec id="s2">
+         <title>2.- Heterogeneous Development Paths</title>
+         <p>Back in the 1960s economists found an apparent correlation between income levels and inequality in national economies [<xref ref-type="bibr" rid="REF10">10</xref>]. Observations showed that inequality appeared to rise with economic growth, particularly in the early stages of a country’s development, up to a point when it started to decline. The shape of this correlation has been known as the inverted “U” curve, or simply the Kuznets Curve [<xref ref-type="bibr" rid="REF11">11</xref>].</p>
+         <p>More recently, the same concept has been extrapolated to environmental economics and named the Environmental Kuznets Curve or EKC [<xref ref-type="bibr" rid="REF12">12</xref>]. Analogous to the original concept, the EKC asserts that pollution increases with development up to a certain level, after which it declines ([<xref ref-type="bibr" rid="REF13">13</xref>], p. 2). The existence of EKC relations, however, have been a matter of scientific debate. An overview of proponents and critics of the EKC has been made by Stern [<xref ref-type="bibr" rid="REF14">14</xref>]. One of the main criticisms is outlined by Arrow et al. (1995, [<xref ref-type="bibr" rid="REF15">15</xref>]) who criticize the EKC’s inherent assumption that there exists a sustainable system in which environmental damage is not captured so as to reduce economic activity, income and, eventually also the growth process. Others argue that EKC relationships might be only expressions of the effects of trade, different shares of services in national economies, and the distribution of polluting industries between countries [<xref ref-type="bibr" rid="REF13">13</xref>]. Brajer et al. (2008, [<xref ref-type="bibr" rid="REF17">17</xref>]) also noticed that the appearance of an inverted U shape configuration in the EKC is highly dependent on which indicators are chosen to describe environmental degradation.</p>
+         <p>As such, the EKC concept has obvious shortcomings and has not been verified for all sorts of environmental degradation. While the concept is intuitive and elegant, it can be misleading, causing policy makers to think that the solution for climate change is simply to “get rich” and overcome emission-intensive transition stages once higher development levels have been achieved [<xref ref-type="bibr" rid="REF18">18</xref>]. A plot of carbon intensities of the economies of 138 countries compared to their Human Development Indexes (HDI) is presented in Figure <xref ref-type="fig" rid="Fig1">1</xref>.</p>
+         <p>It becomes evident that the poor fitting of the logarithmic trend line (R<inline-formula>
+               <mml:math id="S4.p4.m1"
+                         alttext="{}^{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> = 0.18) puts into question the validity of an inverted U-shaped pattern for the relationship between HDI and CO<inline-formula>
+               <mml:math id="S4.p4.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> emissions per dollar of output. In other words, many countries have seen an increase in quality of life without a corresponding increase in the carbon intensities of their economies. Thus, human development alone is no guaranteed solution for the climate problem. In theory, increased HDI could actually be harmful for the climate system since many developing countries are found in the high end of Figure <xref ref-type="fig" rid="Fig1">1</xref> with no guarantee that their trajectory will take them down to the right end of the curve. At the same time, it is worth observing that many countries are managing to increase their welfare (towards higher HDI) at lower emission intensities as indicated by the large number of dots on the lower end of the curve [<xref ref-type="bibr" rid="REF19">19</xref>, <xref ref-type="bibr" rid="REF20">20</xref>].</p>
+         <p>Countries on the right lower end of Figure <xref ref-type="fig" rid="Fig1">1</xref> suggest that as countries get richer, they can invest in environmental improvements and reduce their emissions. However, the large dispersion among developing countries among which “high learners” figure close to “bad performers”, leave room for some discussion. Since, in the developing world, countries are delivering similar standards of living to their citizens at different levels of emissions, they apparently do so at different levels of environmental costs (measured in GHG emissions).</p>
+         <p>There are just too many exceptions to the idea that development leads to low emission intensities. This prevents a generalization based on the traditional view of the EKC rule on development paths.</p>
+         <p>Overall, countries have achieved substantial progress measured by improvements in their HDI during the last decades, and this can be seen in the latest reports on the millennium development goals [<xref ref-type="bibr" rid="REF21">21</xref>]. Virtually all countries in the world advanced their HDI rankings, albeit not at the same pace. A similar pattern, however, could not be observed in their emission reductions per unit of economic output. Figure <xref ref-type="fig" rid="Fig2">2</xref> adds a dynamic component to the plot made in Figure <xref ref-type="fig" rid="Fig1">1</xref>, in the sense of analyzing what happened between 1980 and 2007, in the form of a 138-country inter-temporal plot of HDI against emissions per unit of GDP. The plot focuses on three select groups: (1) The world average, (2) BRICs [<xref ref-type="bibr" rid="REF22">22</xref>] and (3) Scandinavian countries (as a proxy of advanced economies).</p>
+         <p>While Scandinavia experienced dramatic reductions in carbon intensities, the overall world figures indicate only a modest decrease in this parameter. This is especially evident in the BRICs, which had emissions figures above the world average during the period analyzed (1980–2007).</p>
+         <fig id="Fig1" position="float" orientation="portrait">
+            <label>
+               Figure 1</label>
+            <caption>
+               <title>Emissions per dollar of GDP (2010) plotted against HDI for a sample of 138 countries. Sources: developed
+                  by the authors based on data from the United Nations Development Programme and the International Energy Agency</title>
+            </caption>
+            <graphic xlink:href="fig1.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <fig id="Fig2" position="float" orientation="portrait">
+            <label>
+               Figure 2</label>
+            <caption>
+               <title>Emissions per unit of GDP plotted against HDI levels, 1980–2007. Plotted are 138 countries during 8 sampled
+                  time periods. Regional and world weighted averages according to respective populations. Based on data from IEA and
+                  United Nations Development Programme (2007).</title>
+            </caption>
+            <graphic xlink:href="fig2.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <p>Previous literature suggests that countries cannot rely on development alone to drive down CO<inline-formula>
+               <mml:math id="S4.p9.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> emissions. Similar to propositions by Tierney (2009, [<xref ref-type="bibr" rid="REF18">18</xref>]), the answer lies in two underlying aspects of development: that development paths can present mutual-dependency between different countries; and overall system constraints.</p>
+         <sec id="s2.1">
+            <title>2.1.- Trade and Mutual Dependency between Countries</title>
+            <p>Mutual dependency means that the very driver of globalization—specialization in comparative advantages expressed by international trade—can lead to more rigid emission patterns for some countries than others. At the same time, the movement of goods between countries can be key for some economies to be able to reduce their emission intensities. As noted by Suri and Chapman (1998, [<xref ref-type="bibr" rid="REF13">13</xref>]), exporting countries can increase their emission intensities while importing countries can reduce their emission intensity. Hamilton and Turton (2002, [<xref ref-type="bibr" rid="REF23">23</xref>]) noticed that by having a larger share of the service sector in the overall economy, some countries can manage to outsource emissions while still retaining profitable economic activities inside their markets. It is important to bear this in mind, as the low emissions per unit of GDP in Scandinavia may be not only the result of shifts towards renewable energy or higher energy efficiency, but also of emigrated emission-intensive to other regions of the world [<xref ref-type="bibr" rid="REF24">24</xref>, <xref ref-type="bibr" rid="REF25">25</xref>].
+</p>
+         </sec>
+         <sec id="s2.2">
+            <title>2.2.- System Constraints</title>
+            <p>Similarly to what has been proposed by [<xref ref-type="bibr" rid="REF26">26</xref>], environmental systems constraints determine the operating space for humanity. This implies a maximum amount of emissions that can be absorbed by natural sinks without triggering costly climate change. Thus, even in the absence of the mutual dependency issue discussed above, it would not be an option to simply wait for emissions per unit of GDP to go down to a “safe” threshold. According to data from the International Energy Agency [<xref ref-type="bibr" rid="REF27">27</xref>], developing and least developed countries (HDI <inline-formula>
+                  <mml:math id="S4.SS2.p1.m1"
+                            alttext="\textless"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mo>&lt;</mml:mo>
+                  </mml:math>
+               </inline-formula> 0.89) comprise 84% of the world population. The global carbon budget will have long since expired as the economies of these nations approach Scandinavian emission levels. In other words, in a business-as-usual trajectory, HDI values will most likely retrocede if a fossil-intensive path is pursued by the populous developing world [<xref ref-type="bibr" rid="REF19">19</xref>].</p>
+            <p>Finally, even with the positive indication illustrated in Figure <xref ref-type="fig" rid="Fig2">2</xref> that emissions per dollar of GDP are falling for the world as a whole, this will not be enough to hedge against climate risks because two other factors cancel out the gains of reduced global carbon intensity by a large degree. Figure <xref ref-type="fig" rid="Fig3">3</xref> shows that climate damage has four dimensions: while carbon and energy intensities are on average decreasing, total world GDP and population are growing steadily [<xref ref-type="bibr" rid="REF28">28</xref>]. Average emissions per unit of GDP have fallen 24% between 1971 and 2008 (from 0.92 to 0.70 kg CO<inline-formula>
+                  <mml:math id="S4.SS2.p2.m1"
+                            alttext="{}_{2}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msub>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> eq/dollar of GDP) while the world population has practically doubled from 3.4 billion to 6.6 billion in the same period. Global wealth followed the same trend (323% increase since 1971). So while the world economy makes cleaner dollars today, it makes so many of them that the aggregate level of emissions has grown exponentially.</p>
+            <p>This can be illustrated by the relationship proposed by Kaya (1997, [<xref ref-type="bibr" rid="REF03">3</xref>] ), which is a useful tool to understand the human impacts on the climate system. The Kaya equation incorporates indicators which declined over the period between 1971 and 2008 (energy and carbon intensities), comparing the overall impact of these efficiency gains with the growth in wealth (GDP) and population during the same period. Although simple, the relation is a good representation of the magnitude of human emissions on the climate system. The Kaya identity focuses on CO<inline-formula>
+                  <mml:math id="S4.SS2.p3.m1"
+                            alttext="{}_{2}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msub>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> emissions from anthropogenic sources and is expressed as follows:</p>
+            
+               <mml:math id="S4.E1.m1"
+                  display="block">
+                  <mml:mrow>
+                     <mml:mi>F</mml:mi>
+                     <mml:mo>=</mml:mo>
+                     <mml:mrow>
+                        <mml:mi>P</mml:mi>
+                        <mml:mo>×</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>G</mml:mi>
+                              <mml:mi>P</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>×</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>E</mml:mi>
+                              <mml:mi>G</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                        <mml:mo>×</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>F</mml:mi>
+                              <mml:mi>E</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:math>
+            
+            <p>or</p>
+            
+               <mml:math id="S4.E2.m1" display="block">
+                  <mml:mrow>
+                     <mml:mi>F</mml:mi>
+                     <mml:mo>=</mml:mo>
+                     <mml:mrow>
+                        <mml:mi>P</mml:mi>
+                        <mml:mo>×</mml:mo>
+                        <mml:mi>g</mml:mi>
+                        <mml:mo>×</mml:mo>
+                        <mml:mi>e</mml:mi>
+                        <mml:mo>×</mml:mo>
+                        <mml:mi>f</mml:mi>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:math>
+            
+                <p>where <inline-formula>
+                  <mml:math id="S4.SS2.p7.m1"
+                            alttext="F"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>F</mml:mi>
+                  </mml:math>
+               </inline-formula> is global CO<inline-formula>
+                  <mml:math id="S4.SS2.p7.m2"
+                            alttext="{}_{2}"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:msub>
+                        <mml:mi/>
+                        <mml:mn>2</mml:mn>
+                     </mml:msub>
+                  </mml:math>
+               </inline-formula> emissions from human sources, <inline-formula>
+                  <mml:math id="S4.SS2.p7.m3"
+                            alttext="P"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula> is global population, <inline-formula>
+                  <mml:math id="S4.SS2.p7.m4"
+                            alttext="G"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>G</mml:mi>
+                  </mml:math>
+               </inline-formula> is world GDP and <inline-formula>
+                  <mml:math id="S4.SS2.p7.m5"
+                            alttext="E"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>E</mml:mi>
+                  </mml:math>
+               </inline-formula> is global primary energy consumption. Then, <inline-formula>
+                  <mml:math id="S4.SS2.p7.m6"
+                            alttext="g=\left(\frac{G}{P}\right)"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mrow>
+                        <mml:mi>g</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>G</mml:mi>
+                              <mml:mi>P</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                     </mml:mrow>
+                  </mml:math>
+               </inline-formula> is the global per-capita GDP, <inline-formula>
+                  <mml:math id="S4.SS2.p7.m7"
+                            alttext="e=\left(\frac{E}{G}\right)"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mrow>
+                        <mml:mi>e</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>E</mml:mi>
+                              <mml:mi>G</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                     </mml:mrow>
+                  </mml:math>
+               </inline-formula> is the energy intensity of world GDP and <inline-formula>
+                  <mml:math id="S4.SS2.p7.m8"
+                            alttext="f=\left(\frac{F}{E}\right)"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mrow>
+                        <mml:mi>f</mml:mi>
+                        <mml:mo>=</mml:mo>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>F</mml:mi>
+                              <mml:mi>E</mml:mi>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                     </mml:mrow>
+                  </mml:math>
+               </inline-formula> is the carbon intensity of energy.</p>
+            <p>The Kaya identity suggests that damage to the climate system is directly proportional to the global population (<inline-formula>
+                  <mml:math id="S4.SS2.p8.m1"
+                            alttext="P"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>P</mml:mi>
+                  </mml:math>
+               </inline-formula>), the wealth of these individuals (<inline-formula>
+                  <mml:math id="S4.SS2.p8.m2"
+                            alttext="g"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>g</mml:mi>
+                  </mml:math>
+               </inline-formula>), the amount of energy used to run each unit of the economy (<inline-formula>
+                  <mml:math id="S4.SS2.p8.m3"
+                            alttext="e"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>e</mml:mi>
+                  </mml:math>
+               </inline-formula>) and the carbon-footprint associated to every unit of energy produced (<inline-formula>
+                  <mml:math id="S4.SS2.p8.m4"
+                            alttext="f"
+                            display="inline"
+                            overflow="scroll">
+                     <mml:mi>f</mml:mi>
+                  </mml:math>
+               </inline-formula>). With growing population and wealth, emissions increase when material flows in the economy are enabled by energy sources that emit carbon (thus creating an impact on the environment). Figure <xref ref-type="fig" rid="Fig3">3</xref> uses data from IEA to provide empirical illustration to the Kaya identity, showing that any efficiency gains in emissions and energy usage have been clearly offset by growing populations and wealth at a global level.</p>
+            <p>With evidence indicating a growing human impact on the climate system, more attention should be given to countries entering more intensive development stages. Given their large populations, developing countries will have to play a major role in an eventual reduction of overall emissions and stabilization of greenhouse gas concentrations affecting the climate system. As previously discussed and demonstrated in Figure <xref ref-type="fig" rid="Fig1">1</xref>, GDP and HDI indicators do not correlate to confirm an EKC relationship, and thus development as pursued in past decades will not lead us to a safe trajectory. In the next section, we will try an alternative approach in search of a pattern between emissions and development. In order to capture some of the dynamic effects which occurred between 1971 and 2008, we this time use the concept of learning curves, calculating the learning rates (the rate at which reductions in the carbon intensity occurred) for each individual country.</p>
+         </sec>
+      </sec>
+      <sec id="s3">
+         <title>3.- Learning Rates for Carbon Intensities of World Economies</title>
+         <p>The concept of learning curves—also known as experience curves—is conventionally used to represent an improvement in technology, such as production costs or efficiencies, along with associated experience or cumulative output [<xref ref-type="bibr" rid="REF29">29</xref>, <xref ref-type="bibr" rid="REF30">30</xref>, <xref ref-type="bibr" rid="REF31">31</xref>]. Learning curves provide a graphical representation of changing rates of learning over time for a given activity. The concept is often used for specific industries, as costs of innovative technologies tend to decrease as experience is accumulated [<xref ref-type="bibr" rid="REF32">32</xref>].</p>
+         <p>Examples of learning curve analysis often include specific technological sectors [<xref ref-type="bibr" rid="REF33">33</xref>]. Studies have been made for photovoltaics, where the cost of solar electricity has been shown to decline as a function of the cumulative number of photovoltaic panels installed [<xref ref-type="bibr" rid="REF30">30</xref>]. Another known example concerns biofuels, where Goldemberg (2004, [<xref ref-type="bibr" rid="REF34">34</xref>]) showed a strong historical downward trend in Brazilian ethanol prices following the rapid increase in ethanol production and use in the country, which eventually improved the competitiveness of ethanol in relation to gasoline. The plot of learning curves often encompasses logarithmic scales.</p>
+         <p>The use of learning curves for the analysis of technological learning paths is subject to shortfalls as the curves usually fail to differentiate among the full range of components that contribute to a given technological solution [<xref ref-type="bibr" rid="REF35">35</xref>]. Each component may follow a different learning path over time, thus affecting the overall path of the total solution. Another difficulty is to capture variations of learning rates over time [<xref ref-type="bibr" rid="REF32">NaN</xref>]. Still, learning curves can be useful tools for strategic planning and for the analysis of technological performance or price variations over time.</p>
+         <fig id="Fig3" position="float" orientation="portrait">
+            <label>
+               Figure 3</label>
+            <caption>
+               <title>The calculated Kaya index (total anthropogenic CO 2 emissions in the climate system) and its components.
+                  While carbon and energy intensities have fallen since 1971, both total wealth and population are increasing, cancelling
+                  out the benefits of lower carbon intensity in the global economy. Source: calculated by the authors based on IEA [<xref ref-type="bibr" rid="REF27">27</xref>]]</title>
+            </caption>
+            <graphic xlink:href="fig3.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <p>In this section, we apply the concept of learning curves to analyze the development of carbon intensities in national economies. While a component-learning approach of sub-sectors of national economies would be the ideal approach, data limitations impose some analytical simplifications. Here, countries are considered to be production units with their output expressed in units of gross domestic product (GDP). Costs are considered to be the carbon intensities of national GDP, which can be interpreted as the environmental cost of generating each unit of GDP.</p>
+         <p>The theory behind the EKC suggests that the least developed countries may experience “negative learning” as their emissions are—still according to the EKC logic—expected to increase per unit of GDP produced; developing countries are expected to have low learning rates; and developed countries should display positive learning, indicated by a downward slope in their emissions per dollar (see Figure <xref ref-type="fig" rid="Fig4">4</xref>). Instead of a static analysis of the carbon intensities of countries for a single year, this section uses recent IEA data spanning from 1971 to 2010 to represent the learning process. Observations between 1971 and 2010 are used to calculate whether learning rates justify the hypothesis derived from the Environmental Kuznets Curve.</p>
+         <p>Based on Ferioli et al. (2009, [<xref ref-type="bibr" rid="REF32">32</xref>]), the expression representing learning curves can be written as:</p>
+         
+            <mml:math id="S5.E3.m1" display="block">
+               <mml:mrow>
+                  <mml:mrow>
+                     <mml:mi>C</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mrow>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mi>x</mml:mi>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:mrow>
+                  </mml:mrow>
+                  <mml:mo>=</mml:mo>
+                  <mml:mrow>
+                     <mml:mi>C</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mrow>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:msub>
+                           <mml:mi>x</mml:mi>
+                           <mml:mn>0</mml:mn>
+                        </mml:msub>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:mrow>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:msup>
+                        <mml:mrow>
+                           <mml:mo>(</mml:mo>
+                           <mml:mfrac>
+                              <mml:mi>x</mml:mi>
+                              <mml:msub>
+                                 <mml:mi>x</mml:mi>
+                                 <mml:mn>0</mml:mn>
+                              </mml:msub>
+                           </mml:mfrac>
+                           <mml:mo>)</mml:mo>
+                        </mml:mrow>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>L</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:mrow>
+               </mml:mrow>
+            </mml:math>
+         
+    
+                    <p>where <inline-formula>
+               <mml:math id="S5.p8.m1" alttext="x" display="inline" overflow="scroll">
+                  <mml:mi>x</mml:mi>
+               </mml:math>
+            </inline-formula> is the cumulative output, <inline-formula>
+               <mml:math id="S5.p8.m2"
+                         alttext="x_{0}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi>x</mml:mi>
+                     <mml:mn>0</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> is the initial output, <inline-formula>
+               <mml:math id="S5.p8.m3" alttext="C(x)" display="inline" overflow="scroll">
+                  <mml:mrow>
+                     <mml:mi>C</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mrow>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mi>x</mml:mi>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:math>
+            </inline-formula> is the carbon intensity at the cumulative output, <inline-formula>
+               <mml:math id="S5.p8.m4"
+                         alttext="C(x0)"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:mrow>
+                     <mml:mi>C</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mrow>
+                        <mml:mo stretchy="false">(</mml:mo>
+                        <mml:mrow>
+                           <mml:mi>x</mml:mi>
+                           <mml:mo>⁢</mml:mo>
+                           <mml:mn>0</mml:mn>
+                        </mml:mrow>
+                        <mml:mo stretchy="false">)</mml:mo>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:math>
+            </inline-formula> is the carbon intensity at the initial output and <inline-formula>
+               <mml:math id="S5.p8.m5" alttext="L" display="inline" overflow="scroll">
+                  <mml:mi>L</mml:mi>
+               </mml:math>
+            </inline-formula> is the learning parameter. As the inclination of learning curves are based on learning rates (<inline-formula>
+               <mml:math id="S5.p8.m6" alttext="LR" display="inline" overflow="scroll">
+                  <mml:mrow>
+                     <mml:mi>L</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mi>R</mml:mi>
+                  </mml:mrow>
+               </mml:math>
+            </inline-formula>), these are expressed as:</p>
+        
+            <mml:math id="S5.E4.m1" display="block">
+               <mml:mrow>
+                  <mml:mrow>
+                     <mml:mi>L</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mi>R</mml:mi>
+                  </mml:mrow>
+                  <mml:mo>=</mml:mo>
+                  <mml:mrow>
+                     <mml:mn>1</mml:mn>
+                     <mml:mo>-</mml:mo>
+                     <mml:msup>
+                        <mml:mn>2</mml:mn>
+                        <mml:mrow>
+                           <mml:mo>-</mml:mo>
+                           <mml:mi>L</mml:mi>
+                        </mml:mrow>
+                     </mml:msup>
+                  </mml:mrow>
+               </mml:mrow>
+            </mml:math>
+         <p>where <inline-formula>
+               <mml:math id="S5.p10.m1" alttext="LR" display="inline" overflow="scroll">
+                  <mml:mrow>
+                     <mml:mi>L</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mi>R</mml:mi>
+                  </mml:mrow>
+               </mml:math>
+            </inline-formula> is the learning rate, which expresses the rate of change in emissions per dollar of GDP from the first observation (1971) to the most recent observation available (2010), based on data from the International Energy Agency (IEA) published in 2010 [<xref ref-type="bibr" rid="REF36">NaN</xref>]. For calculation purposes, (1) and (2) are combined in the final working expression:</p>
+         
+            <mml:math id="S5.E5.m1"
+               display="block">
+               <mml:mrow>
+                  <mml:mrow>
+                     <mml:mi>L</mml:mi>
+                     <mml:mo>⁢</mml:mo>
+                     <mml:mi>R</mml:mi>
+                  </mml:mrow>
+                  <mml:mo>=</mml:mo>
+                  <mml:mrow>
+                     <mml:mn>1</mml:mn>
+                     <mml:mo>-</mml:mo>
+                     <mml:mrow>
+                        <mml:mn>2</mml:mn>
+                        <mml:mo>×</mml:mo>
+                        <mml:mfrac>
+                           <mml:mrow>
+                              <mml:mi>l</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>o</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>g</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mo>⁢</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mi>x</mml:mi>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                       <mml:mo>⁢</mml:mo>
+                                       <mml:mrow>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>x</mml:mi>
+                                             <mml:mn>0</mml:mn>
+                                          </mml:msub>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                           <mml:mrow>
+                              <mml:mi>l</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>o</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mi>g</mml:mi>
+                              <mml:mo>⁢</mml:mo>
+                              <mml:mrow>
+                                 <mml:mo>(</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mi>x</mml:mi>
+                                    <mml:msub>
+                                       <mml:mi>x</mml:mi>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:msub>
+                                 </mml:mfrac>
+                                 <mml:mo>)</mml:mo>
+                              </mml:mrow>
+                           </mml:mrow>
+                        </mml:mfrac>
+                     </mml:mrow>
+                  </mml:mrow>
+               </mml:mrow>
+            </mml:math>
+         
+                        <p>While learning rates could be calculated for each of the 131 countries sampled, in this note we calculate the rates for the main macro-regions under the IEA classification [<xref ref-type="bibr" rid="REF37">37</xref>]. Learning rates consider all intermediate years between 1971 and 2010, as a regression is made for the entire data set. A sample data plot for the world average is made on a double-log scale in Figure <xref ref-type="fig" rid="Fig5">5</xref>.</p>
+         <p>The results of the learning rates of decarbonization are shown in Figure <xref ref-type="fig" rid="Fig6">6</xref>.</p>
+         <fig id="Fig4" position="float" orientation="portrait">
+            <label>
+               Figure 4</label>
+            <caption>
+               <title>Hypotheses based on the EKC concept for the learning rate of decarbonization of economies</title>
+            </caption>
+            <graphic xlink:href="fig4.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <p>Contrary to the hypothesis implied by the Kuznets logic, it is not evident from the data that least developed countries are linked to negative learning rates, developing countries with learning rates close to zero and positive learning rates for developed countries. Figures <xref ref-type="fig" rid="Fig5">5</xref> and <xref ref-type="fig" rid="Fig6">6</xref> indicate that although the world as a whole experienced a reduction in its carbon emissions per unit of GDP (1971 – 0.88 kg CO<inline-formula>
+               <mml:math id="S5.p14.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> per USD of GDP; against 0.59 kg in 2010), a number of individual countries have experienced negative learning. In other words, many countries increased their emissions per dollar during the period between 1971 and 2010. Countries which figure close to the range of zero learning include Brazil, Costa Rica, India, Tunisia and Mexico.</p>
+         <p>In line with the aforementioned hypothesis, countries which had negative learning generally belong to lower HDI classes, but also include exceptions such as wealthy oil-producing states, one EU country (Greece) and New Zealand. These exceptions indicate that the learning rates of decarbonization might be highly dependent of which sectors emerge as central in each national economy (e.g. mining, oil exploration), as well as how much of those emission-intensive resources are exported when compared to domestic consumption. This is relevant because even in the presence of international trade, current emissions statistics are bound to the country of occurrence, not to countries which import high emissions-intensive products or energy [<xref ref-type="bibr" rid="REF38">38</xref>].</p>
+         <p>Finally, countries which had positive learning—those which effectively reduced the carbon intensity of their economies between 1971 and 2008—are the most difficult to interpret. As expected, most of the leading world economies figure among the “positive learners”, such as the USA, most European countries and Japan. However, the top positive learner is not a state with a high HDI, but instead China, which reduced its carbon intensities from 5.43 kg per dollar in 1971 to 1.79 in 2010. While a carbon intensity of 1.79 was still higher than the average world carbon intensity of 0.59 kg CO<inline-formula>
+               <mml:math id="S5.p16.m1"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> USD<inline-formula>
+               <mml:math id="S5.p16.m2"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>, China’s significant reduction in carbon intensity could be due to transformations in the national energy system (mostly based on coal use), but also due to factors beyond low-carbon policies, such as exchange rate dynamics between the Chinese renmibi and the US dollar [<xref ref-type="bibr" rid="REF39">39</xref>].</p>
+      </sec>
+      <sec id="s4">
+         <title>4.- Discussion</title>
+         <p>The rate of learning of reductions in the carbon intensities of economies depends on the starting point of each nation. For a country which started with high carbon intensities in 1971, it will be comparatively easier to reduce its emissions by 2010 than for another country which already had low carbon intensities in the initial period. This follows a similar logic to the catch-up effect in development economics, as proposed by Abramovitz (1986, [<xref ref-type="bibr" rid="REF40">40</xref>]). For countries which already had low carbon intensities (<inline-formula>
+               <mml:math id="S6.p1.m1"
+                         alttext="\textless"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:mo>&lt;</mml:mo>
+               </mml:math>
+            </inline-formula>1.0 kg CO<inline-formula>
+               <mml:math id="S6.p1.m2"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> USD<inline-formula>
+               <mml:math id="S6.p1.m3"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula>), further reductions are likely to be increasingly more difficult and more costly—supposing the existence of decreasing returns—if no structural change occurs. Obviously, if energy is increasingly sourced from low-carbon or carbon-free sources, further reductions in carbon intensities may nonetheless be feasible. Interestingly, the Latin American region managed to achieve an average carbon intensity of 0.58 kg CO<inline-formula>
+               <mml:math id="S6.p1.m4"
+                         alttext="{}_{2}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msub>
+                     <mml:mi/>
+                     <mml:mn>2</mml:mn>
+                  </mml:msub>
+               </mml:math>
+            </inline-formula> 
+            <inline-formula>
+               <mml:math id="S6.p1.m5"
+                         alttext="{}^{-1}"
+                         display="inline"
+                         overflow="scroll">
+                  <mml:msup>
+                     <mml:mi/>
+                     <mml:mrow>
+                        <mml:mo>-</mml:mo>
+                        <mml:mn>1</mml:mn>
+                     </mml:mrow>
+                  </mml:msup>
+               </mml:math>
+            </inline-formula> at USD 32 trillion in cumulative output, while OECD North America took USD 320 trillion in product to achieve the same carbon intensity levels.</p>
+         <p>Although the initial analysis of learning curves of macro regions apparently offers a stronger basis for an EKC interpretation, the strong variability in national carbon intensities between the years 1971 and 2008 makes trend lines of different regions difficult to compare. Factors such as the oil shocks in 1973 and 1979, the collapse of the USSR in 1990–-1991, and varying levels of GDP growth over the years have contributed to this variability in emissions [<xref ref-type="bibr" rid="REF41">41</xref>].</p>
+         <p>Some developing countries have shown progress towards low-carbon development paths. Examples include Mozambique, China and Colombia, all of which have implemented national policies aimed at the exploitation of bioenergy, hydropower and other potential sources which may have contributed to lowering their carbon intensities.</p>
+         <p>This diversity in development paths among developing countries provides rich ground for further investigations. While the inverted “U” curve pattern is weak for direct attempts to represent an EKC (Figure <xref ref-type="fig" rid="Fig1">1</xref>), the measure of variability of carbon intensities per HDI group implies a more pronounced inverted ”U” shape for the same data. This indicates a higher level of dispersion—here called heterogeneity—for developing countries. Figure <xref ref-type="fig" rid="Fig7">7</xref> illustrates this, highlighting that values vary the most for countries in the HDI interval between 0.6 and 0.9, converging afterwards.</p>
+         <fig id="Fig5" position="float" orientation="portrait">
+            <label>
+               Figure 5</label>
+            <caption>
+               <title>Learning curve for reductions in carbon intensity based on cummulative economic output. Aggregated data
+                  for the World. Source: authors calculations based on IEA [<xref ref-type="bibr" rid="REF09">9</xref>].</title>
+            </caption>
+            <graphic xlink:href="fig5.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <p>The existence of high dispersion in both carbon intensities and learning rates among developing countries hints at the existence of a plurality of development paths. As suggested by Burke (2012, [<xref ref-type="bibr" rid="REF42">42</xref>]), this makes the case for policy studies among the developing countries with the lowest carbon intensities, as a way to better understand why some countries seem push ahead with their development with a relative decouple from carbon emissions.</p>
+         <p>Drawing lessons from successful cases of low carbon development paths is an urgent necessity for climate change mitigation efforts, which would enrich the toolkit of options available to strengthen—and facilitate—international cooperation related to climate change mitigation.</p>
+      </sec>
+      <sec id="s5">
+         <title>5.- Conclusion</title>
+         <p>The last three decades were characterized by substantial improvements in human development, but this was achieved at a high environmental cost. The emergence of large countries such as China and India has put the future growth trajectories of the developing world in the global spotlight. It is now evident that emerging economies cannot follow the same carbon-intensive paths which current advanced economies once did, as this would most likely trigger negative environmental externalities that could cancel out gains in human development.</p>
+         <p>By using the theoretical background of the Environmental Kuznets Curve (EKC), we have explored whether empirical data supports an EKC relationship between development and emissions intensities of economies. The results indicated a weak correlation with the EKC considering carbon intensities and human development indexes (HDI). This indicates that there is no rule for dirty development in emerging countries, as the EKC fails to show a clear trend of increased emissions for countries undergoing intermediate development stages.</p>
+         <p>The discussion of the EKC for HDI and carbon intensities represents only a static view of development based on data from 2010. In order to obtain a glimpse of the dynamic effects of carbon intensity changes between 1971 and 2008, we have employed the instrument of learning curves. When applying the learning curves methodology to measure the speed on how countries reduce their emissions intensities as their cumulative GDPs double, this paper was able to show that there is also no empirical backing for an EKC relationship in learning. An EKC relationship in learning implies a hypothesis of negative learning (increasing carbon intensities) for the least developed countries, near-zero learning rates for developing countries, and positive learning rates (reduction in carbon intensities) for developed countries. The data, however, has challenged this hypothesis. For example, learning rates of economic decarbonization have been especially high for China (meaning emissions per dollar fell strongly for each doubling of GDP in the period analyzed). Negative learning has been observed, however, especially for areas in Africa and the Middle East due to their strong dependence on hydrocarbon usage and exports.</p>
+         <p>Interestingly, the inverted ”U” pattern of the EKC held for standard deviations of carbon intensities of GDP per level of HDI. This suggests that developing countries are more heterogeneous among themselves in what concerns their carbon intensities. Their heterogeneity is particularly clear when compared to least and highly developed countries, since for those the statistics converge more visibly. A similar finding was presented by Steinberger (2002, [<xref ref-type="bibr" rid="REF20">20</xref>]).</p>
+         <fig id="Fig6" position="float" orientation="portrait">
+            <label>
+               Figure 6</label>
+            <caption>
+               <title>Calculated learning rates of reductions in emissions intensities. Considering macro-regions in OECD statistics
+                  between 1971 and 2010.</title>
+            </caption>
+            <graphic xlink:href="fig6.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <fig id="Fig7" position="float" orientation="portrait">
+            <label>
+               Figure 7</label>
+            <caption>
+               <title>Standard deviation of carbon intensities of economies, as measured by kg CO 2 USD −1 according to Figure
+                  1. Source: [<xref ref-type="bibr" rid="REF09">9</xref>].</title>
+            </caption>
+            <graphic xlink:href="fig7.png"
+               position="float"
+               orientation="portrait"
+               xlink:type="simple"/>
+         </fig>
+         <p>Although it cannot be said that countries grow more polluting during intermediary development stages, they do indeed become more heterogeneous in their emission intensity during such stages. A lack of direct observation of the EKC can be seen as a positive sign, since it suggests there is no unavoidable rule of carbon-intensive development paths for all countries. Instead, the curious results found for learning rates point to a plurality of decarbonization paths for the developing world. The identification of successful examples of low carbon development is extremely important, to providing a functional bottom-up approach for more effective international climate change negotiations.</p>
+         <p>The limits of the parameters chosen in this work must be recognized. Carbon intensities are very aggregated indicators of underlying factors such as fuel shares, energy intensity and economic structure (e.g. the share of service sectors, agriculture and manufacture within economies). Suggestions for further research include an analysis adjusted for economic structure and specific sectors of countries. In particular, studies examining what are the most important factors for national low-carbon development, as well as the transferability of those factors to developing countries. China could be an interesting case for in-depth examination, due to the fact that it has experienced strong industrialization and yet became the country with largest reductions in carbon intensities between 1971 and 2010 (Figure <xref ref-type="fig" rid="Fig6">6</xref>). Future studies could also attempt to disentangle the effects of policy-based low carbon paths from other phenomena, such as carbon leakage via regulatory competition in international markets.</p>
+         <p>Another suggestion for future studies would encompass the idea of mutual dependencies emerging from global trade patterns, since countries might find it more difficult to lower carbon intensities if their economies are specialized in emission-intensive manufacture for exports. The dispersion of carbon intensities and learning rates among developing countries could also suggest mutual dependency among developing countries due to increased south-south interactions. The verification of the latter is another fertile ground for investigations.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <ref id="REF01">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Oxford, UK</publisher-loc>
+               <article-title>Bioenergy - Realizing the Potential</article-title>
+               <publisher-name>Elsevier</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Silveira</surname>
+                     <given-names>Semida</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+            </element-citation>
+         </ref>
+         <ref id="REF02">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>New York, NY, USA</publisher-loc>
+               <article-title>Looking to the Future [Press Release]</article-title>
+               <publisher-name>United Nations</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>UN Energy</surname>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <source>Press Release</source>
+            </element-citation>
+         </ref>
+         <ref id="REF03">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Environment, Energy and Economy; Strategies for Sustainability</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kaya</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Yokobori</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <publisher-name>United Nations University Press</publisher-name>
+            </element-citation>
+         </ref>
+         <ref id="REF04">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Slow Progress in Bonn Confirms Fragility of Climate Talks</article-title>
+               <volume>14</volume>
+               <issue>13</issue>
+               <source>Bridges Weekly Trade News Digest</source>
+               <year>2010</year>
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://ictsd.org/i/news/bridgesweekly/74026"
+                  xlink:type="simple">http://ictsd.org/i/news/bridgesweekly/74026</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="REF05">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Warsaw, Poland</publisher-loc>
+               <article-title>UN Climate Change Conference in Warsaw keeps governments on a track towards 2015 climate agreement</article-title>
+               <publisher-name>United Nations Framework Convention on Climate Change</publisher-name>
+               <year>2013</year>
+               <source>Press Release</source>
+            </element-citation>
+         </ref>
+         <ref id="REF06">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Geneva, Switzerland</publisher-loc>
+               <article-title>The Green Economy: Trade and Sustainable Development Implications</article-title>
+               <comment>Report No. UNCTAD/DITC/TED/2011/5</comment>
+               <publisher-name>United Nations Conference on Trade and Development</publisher-name>
+               <year>8-11 November 2011</year>
+            </element-citation>
+         </ref>
+         <ref id="REF07">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Learning in times of Change: A Dynamic Explanation for Technological Progress</article-title>
+               <source>Energy Policy</source>
+               <volume>43</volume>
+               <fpage>4002</fpage>
+               <fpage>4008</fpage>
+               <issue>11</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ferioli</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zwaan, B.C.C.</surname>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="REF08">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Learning curves for solid oxide fuel cells</article-title>
+               <volume>57</volume>
+               <issn>0196-8904</issn>
+               <source>Energy Conversion and Management</source>
+               <fpage>86</fpage>
+               <lpage>96</lpage>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rivera-Tinoco, Rodrigo</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schoots</surname>
+                     <given-names>Koen</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zwaan, B.C.C.</surname>
+                  </name>
+               </person-group>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+         <ref id="REF09">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Paris, France</publisher-loc>
+               <article-title>CO$_2$ emissions from fuel combustion. Highlights.</article-title>
+               <year>2012</year>
+               <publisher-name>International Energy Agency</publisher-name>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://www.iea.org/co2highlights/co2highlights.pdf"
+                  xlink:type="simple">http://www.iea.org/co2highlights/co2highlights.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="REF10">
+            <element-citation publication-type="book" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goldsmith</surname>
+                     <given-names>R. W.</given-names>
+                  </name>
+               </person-group>
+               <person-group person-group-type="editor">
+                  <name name-style="western">
+                     <surname>Kusnetz</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <source>On Comparative Study of Economic Structure and Growth of Nations</source>
+               <chapter-title>The Comparative Study of Economic Growth and Structure</chapter-title>
+               <publisher-name>The National Bureau of Economic Research</publisher-name>
+               <year>1959</year>
+               <publisher-loc>Cambridge, MA, USA</publisher-loc>
+               <fpage>162</fpage>
+               <lpage>176</lpage>
+            </element-citation>
+         </ref>
+         <ref id="REF11">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Environmental Kuznets Curve Hypothesis: A Survey</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Dinda</surname>
+                     <given-names>Soumyananda</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Ecological Economics</source>
+               <volume>49</volume>
+               <issue>4</issue>
+               <fpage>431</fpage>
+               <lpage>455</lpage>
+            </element-citation>
+         </ref>
+         <ref id="REF12">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>Environmental Impacts of a North American Free Trade Agreement</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Gene M. Grossman</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Alan B. Krueger</surname>
+                  </name>
+               </person-group>
+               <publisher-name>National Bureau of Economic Research</publisher-name>
+               <comment>Working Paper No. 3914</comment>
+               <year>1991</year>
+               <month>November</month>
+            </element-citation>
+         </ref>
+         <ref id="REF13">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Economic growth, trade and energy: implications for the environmental Kuznets curve</article-title>
+               <volume>25</volume>
+               <fpage>196</fpage>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Suri</surname>
+                     <given-names>Vivek</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chapman</surname>
+                     <given-names>Duane</given-names>
+                  </name>
+               </person-group>
+               <year>1998</year>
+               <comment>Available from:
+                  <uri xlink:type="simple">Trade</uri>.
+               </comment>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="REF14">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>The Rise and Fall of the Environmental Kuznets Curve</article-title>
+               <source>World Development</source>
+               <volume>32</volume>
+               <issue>8</issue>
+               <fpage>1419</fpage>
+               <lpage>1439</lpage>
+               <year>2004</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David I Stern</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         
+         
+         <ref id="REF15">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Economic growth, carrying capacity, and the environment</article-title>
+               <source>Science</source>
+               <volume>268</volume>
+               <issue>5210</issue>
+               <fpage>520</fpage>
+               <lpage>521</lpage>
+               <year>1995</year>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Kenneth Arrow</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bert Bolin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Robert Costanza</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Partha Dasgupta</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Carl Folke</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>C.S. Holling</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Bengt-Owe Jansson</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Simon Levin</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Karl-Göran Mäler</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Charles Perrings</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>David Pimentel</surname>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="REF16">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Economic growth and environmental degradation: The environmental Kuznets curve and sustainable development</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>David I. Stern</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Michael S. Common</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Edward B. Barbier</surname>
+                  </name>
+               </person-group>
+               <source>World Development</source>
+               <volume>24</volume>
+               <issue>7</issue>
+               <fpage>1151</fpage>
+               <lpage>1160</lpage>
+               <year>1996</year>
+            </element-citation>
+         </ref>
+         <ref id="REF17">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Health benefits of tunneling through the Chinese environmental Kuznets curve (EKC)</article-title>
+               <volume>66</volume>
+               <fpage>674</fpage>
+               <lpage>686</lpage>
+               <issue>4</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Brajer</surname>
+                     <given-names>Victor</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Mead</surname>
+                     <given-names>Robert W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Xiao</surname>
+                     <given-names>Feng</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="REF18">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Tierney J. Use Energy, Get Rich and Save the Planet. The New York Times. 20 April 2009</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF19">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Costa</surname>
+                     <given-names>, Luís AND Rybski, , Diego AND Kropp, , Jürgen P.</given-names>
+                  </name>
+               </person-group>
+               <source>PLoS ONE</source>
+               <publisher-name>Public Library of Science</publisher-name>
+               <article-title>A Human Development Framework for CO$_2$ Reductions</article-title>
+               <year>2011</year>
+               <volume>6</volume>
+               <fpage>29262</fpage>
+               <issue>12</issue>
+            </element-citation>
+         </ref>
+         <ref id="REF20">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Steinberger</surname>
+                     <given-names>Julia K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Roberts</surname>
+                     <given-names>J. Timmons</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Peters</surname>
+                     <given-names>Glen P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Baiocchi</surname>
+                     <given-names>Giovanni</given-names>
+                  </name>
+               </person-group>
+               <source>Nature Climate Change</source>
+               <issue>2</issue>
+               <fpage>81</fpage>
+               <lpage>85</lpage>
+               <publisher-name>Nature Publishing Group</publisher-name>
+               <article-title>Pathways of human development and carbon emissions embodied in trade</article-title>
+               <volume>2</volume>
+               <year>2002</year>
+            </element-citation>
+         </ref>
+         <ref id="REF21">
+            <element-citation publication-type="report" xlink:type="simple">
+               <article-title>The Global Partnership for Development: The Challenge we face</article-title>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>MDG Gap task force 2013</surname>
+                  </name>
+               </person-group>
+               <year>19 September 2013</year>
+               <publisher-name>United Nations Department of Economic and Social Affairs</publisher-name>
+               <publisher-loc>New York, NY, USA</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="REF22">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>BRICs is a grouping acronym which represents Brazil, Russia, India and China.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF23">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Hamilton</surname>
+                     <given-names>Clive</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Turton</surname>
+                     <given-names>Hal</given-names>
+                  </name>
+               </person-group>
+               <article-title>Determinants of emissions growth in OECD countries</article-title>
+               <source>Energy Policy</source>
+               <year>2002</year>
+               <volume>30</volume>
+               <issue>1</issue>
+               <fpage>63</fpage>
+               <lpage>71</lpage>
+            </element-citation>
+         </ref>
+         <ref id="REF24">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Austria's CO$_2$ responsibility and the carbon content of its international trade</article-title>
+               <source>Ecological Economics</source>
+               <volume>69</volume>
+               <fpage>2003</fpage>
+               <lpage>2019</lpage>
+               <year>2010</year>
+               <issue>10</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Muñoz</surname>
+                     <given-names>Pablo</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steininger</surname>
+                     <given-names>Karl W.</given-names>
+                  </name>
+               </person-group>
+            </element-citation>
+         </ref>
+         <ref id="REF25">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Serrano</surname>
+                     <given-names>Mònica</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Dietzenbacher</surname>
+                     <given-names>Erik</given-names>
+                  </name>
+               </person-group>
+               <article-title>Responsibility and trade emission balances: An evaluation of approaches</article-title>
+               <source>Ecological Economics</source>
+               <year>2010</year>
+               <volume>69</volume>
+               <issue>11</issue>
+               <fpage>2224</fpage>
+               <lpage>2232</lpage>
+            </element-citation>
+         </ref>
+         <ref id="REF26">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>A safe operating space for humanity</article-title>
+               <source>Nature</source>
+               <volume>461</volume>
+               <fpage>472</fpage>
+               <lpage>475</lpage>
+               <issue>7263</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Rockstrom</surname>
+                     <given-names>Johan</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Steffen</surname>
+                     <given-names>Will</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Noone</surname>
+                     <given-names>Kevin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Persson</surname>
+                     <given-names>Asa</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Chapin</surname>
+                     <given-names>F. Stuart</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lambin</surname>
+                     <given-names>Eric F.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Lenton</surname>
+                     <given-names>Timothy M.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Scheffer</surname>
+                     <given-names>Marten</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Folke</surname>
+                     <given-names>Carl</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schellnhuber</surname>
+                     <given-names>Hans Joachim</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Nykvist</surname>
+                     <given-names>Bjorn</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>de Wit, Cynthia A.</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hughes</surname>
+                     <given-names>Terry</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Leeuw, Sander</surname>
+                  </name>
+                  <name name-style="western">
+                     <surname>Rodhe</surname>
+                     <given-names>Henning</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Sorlin</surname>
+                     <given-names>Sverker</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Snyder</surname>
+                     <given-names>Peter K.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Costanza</surname>
+                     <given-names>Robert</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Svedin</surname>
+                     <given-names>Uno</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Falkenmark</surname>
+                     <given-names>Malin</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Karlberg</surname>
+                     <given-names>Louise</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Corell</surname>
+                     <given-names>Robert W.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Fabry</surname>
+                     <given-names>Victoria J.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hansen</surname>
+                     <given-names>James</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Walker</surname>
+                     <given-names>Brian</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Liverman</surname>
+                     <given-names>Diana</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Richardson</surname>
+                     <given-names>Katherine</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Crutzen</surname>
+                     <given-names>Paul</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Foley</surname>
+                     <given-names>Jonathan A.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="REF27">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Paris, France</publisher-loc>
+               <article-title>CO2 emissions from fuel combustion. Highlights.</article-title>
+               <year>2010</year>
+               <publisher-name>International Energy Agency</publisher-name>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://www.iea.org/media/training/presentations/statisticsmarch/co2highlights.pdf"
+                  xlink:type="simple">http://www.iea.org/media/training/presentations/statisticsmarch/co2highlights.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="REF28">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>The broader dimension of human impact on the climate system is illustrated by the Kaya relationship, which relates total emissions levels with population, GDP per capita, energy intensity of economy, and carbon intensity of energy. Available from: \urlhttp://www.pnas.org/content/104/24/10288.full.pdf+html</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF29">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>New York, NY</publisher-loc>
+               <article-title>The learning curve deskbook: A reference guide to theory, calculations, and applications</article-title>
+               <publisher-name>Quorum Books</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Teplitz</surname>
+                     <given-names>Charles J.</given-names>
+                  </name>
+               </person-group>
+               <year>1991</year>
+            </element-citation>
+         </ref>
+         <ref id="REF30">
+            <element-citation publication-type="report" xlink:type="simple">
+               <publisher-loc>Laxenburg, Austria</publisher-loc>
+               <article-title>Experience curves of photovoltaic technology</article-title>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.3836&amp;rep=rep1&amp;type=pdf"
+                  xlink:type="simple">http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.200.3836&amp;rep=rep1&amp;type=pdf</ext-link>
+               <comment>Report No. IR-00-014</comment>
+               <publisher-name>International Institute for Applied Systems Analysis (IIASA)</publisher-name>
+               <source>Interim Report</source>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Harmon</surname>
+                     <given-names>Christopher</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schrattenholzer</surname>
+                     <given-names>Leo</given-names>
+                  </name>
+               </person-group>
+               <year>30 March 2000</year>
+            </element-citation>
+         </ref>
+         <ref id="REF31">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>McDonald</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schrattenholzer</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <article-title>Learning Curves and Technology Assessment</article-title>
+               <source>International Journal of Technology Management</source>
+               <year>2002</year>
+               <volume>23</volume>
+               <issue>7-8</issue>
+               <fpage>718</fpage>
+               <lpage>745</lpage>
+               <ext-link ext-link-type="uri"
+                  xlink:href="http://inderscience.metapress.com/content/ddrt0f7nlbbkkge5/"
+                  xlink:type="simple">http://inderscience.metapress.com/content/ddrt0f7nlbbkkge5/</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="REF32">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Use and limitations of learning curves for energy technology policy: A component-learning hypothesis</article-title>
+               <source>Energy Policy</source>
+               <volume>37</volume>
+               <fpage>2525</fpage>
+               <lpage>2535</lpage>
+               <issue>7</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Ferioli</surname>
+                     <given-names>F</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Schoots</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zwaan, B.C.C.</surname>
+                  </name>
+               </person-group>
+               <year>2009</year>
+            </element-citation>
+         </ref>
+         <ref id="REF33">
+            <element-citation publication-type="book" xlink:type="simple">
+               <publisher-loc>Paris, France</publisher-loc>
+               <article-title>Experience Curves for Energy Technology Policy</article-title>
+               <publisher-name>Organization for Economic Cooperation and Development / International Energy Agency</publisher-name>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Wene</surname>
+                     <given-names>Class-Otto</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+            </element-citation>
+         </ref>
+         <ref id="REF34">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Ethanol learning curve—the Brazilian experience</article-title>
+               <volume>26</volume>
+               <fpage>301</fpage>
+               <lpage>304</lpage>
+               <issue>3</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Goldemberg</surname>
+                     <given-names>José</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Teixeira Coelho</surname>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <source>Biomass Bioengeneering</source>
+            </element-citation>
+         </ref>
+         <ref id="REF35">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Technological Innovation in the Energy Sector: R&amp;D</article-title>
+               <volume>34</volume>
+               <fpage>2601</fpage>
+               <lpage>2608</lpage>
+               <issue>17</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Sagar</surname>
+                     <given-names>Ambuj</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>van der Zwaan, Bob</surname>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <source>Energy Policy</source>
+            </element-citation>
+         </ref>
+         <ref id="REF36">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>GDP information on US dollars using 2000 as the base year. Available from: \urlhttp://www.iea.org/co2highlights.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF37">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>OECD Americas, OECD Asia Oceania, OECD Europe, Non-OECD Europe and Eurasia, Africa, Asia, China, Non-OECD Americas, Middle East, European Union - 27 and the World as an average.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF38">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>CO$_2$ Embodied in International Trade with Implications for Global Climate Policy</article-title>
+               <volume>42</volume>
+               <fpage>1401</fpage>
+               <lpage>1407</lpage>
+               <issue>5</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Peters</surname>
+                     <given-names>Glen P.</given-names>
+                  </name>
+                  <name name-style="western">
+                     <surname>Hertwich</surname>
+                     <given-names>Edgar G.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <source>Environmental Sciences and Technology</source>
+            </element-citation>
+         </ref>
+         <ref id="REF39">
+            <element-citation publication-type="book" xlink:type="simple">
+               <article-title>Since exchange rates are important in carbon-intensity analysis, this paper uses values ajusted for Purchase Power Parity (PPP) in order to improve the analytical consistency between economic output and carbon intensities. Hewitt Y, Li Y. The effect of trade between China and the UK on national and global carbon dioxide emissions. Energy Policy. 2008; 36(6):1907-1914.</article-title>
+            </element-citation>
+         </ref>
+         <ref id="REF40">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Catching Up, Forging Ahead, and Falling behind</article-title>
+               <volume>46</volume>
+               <fpage>385</fpage>
+               <lpage>406</lpage>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Abramowitz</surname>
+                     <given-names>Moses</given-names>
+                  </name>
+               </person-group>
+               <year>1986</year>
+               <source>The Journal of Economic History</source>
+            </element-citation>
+         </ref>
+         <ref id="REF41">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>An EKC-pattern in historical perspective: Carbon dioxide emissions, technology, fuel prices and growth in Sweden 1870-1997</article-title>
+               <volume>42</volume>
+               <fpage>333</fpage>
+               <lpage>347</lpage>
+               <issue>1-2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Lindmark</surname>
+                     <given-names>Magnus</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Ecological Economics</source>
+            </element-citation>
+         </ref>
+         <ref id="REF42">
+            <element-citation publication-type="journal" xlink:type="simple">
+               <article-title>Climbing the Electricity Ladder Generates Carbon Kuznets Curve Downturns</article-title>
+               <source>The Australian Journal of Agricultural and Resource Economics</source>
+               <volume>56</volume>
+               <fpage>260</fpage>
+               <lpage>279</lpage>
+               <issue>2</issue>
+               <person-group person-group-type="author">
+                  <name name-style="western">
+                     <surname>Burke</surname>
+                     <given-names>Paul J.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+            </element-citation>
+         </ref>
+                  
+         
+      </ref-list>
+   </back>
+</article>
